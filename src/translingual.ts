@@ -1,48 +1,85 @@
-import { mkdirSync, readdirSync, readFileSync, writeFileSync } from 'fs';
+import { readdirSync, readFileSync, writeFileSync } from 'fs';
 import path from 'path';
 
-import { WiktionaryJSON } from './jsonbook';
-import { ASSETS_DIR, TRANSLINGUAL_ALL_DIR } from './shared';
+import { WiktionaryJSON, WiktionaryJSONChild } from './jsonbook';
+import { makeCleanedPath, makeIdeogramPath } from './shared';
 
-export function extractLang(lang = 'Translingual') {
-  const LANG_DIR = path.join(ASSETS_DIR, lang);
+export interface CleanedTranslingual {
+  id: number;
+  also?: string[];
+  parts?: string[];
+  derived?: string[];
+}
 
-  try {
-    mkdirSync(LANG_DIR);
-  } catch (e) {}
+function cleanJSON() {
+  const RAW_DIR = makeIdeogramPath('TRANSLINGUAL');
 
-  for (const f of readdirSync(TRANSLINGUAL_ALL_DIR)) {
+  const out: Record<string, CleanedTranslingual> = {};
+
+  for (const f of readdirSync(RAW_DIR)) {
     const obj: WiktionaryJSON = JSON.parse(
-      readFileSync(path.join(TRANSLINGUAL_ALL_DIR, f), 'utf-8'),
+      readFileSync(path.join(RAW_DIR, f), 'utf-8'),
     );
 
-    let isRelevant = false;
+    const current: CleanedTranslingual = {
+      id: obj.id,
+    };
 
     obj.text.map((sect) => {
-      const { subSections } = sect;
-      if (subSections) {
-        const relevant = subSections.filter((s) => s.title === lang);
-        if (relevant.length) {
-          sect.subSections = relevant;
-          isRelevant = true;
+      const m = /\{\{also\|(.+)\}\}/.exec(sect.text);
+      if (m && m[1]) {
+        current.also = m[1].split('|');
+      }
+    });
+
+    loopTitle(obj.text, (t) => {
+      if (t.title === 'Han character') {
+        for (const m of t.text.matchAll(/\p{sc=Han}/gu)) {
+          if (m[0] !== obj.title) {
+            current.parts = current.parts || [];
+            current.parts.push(m[0]);
+          }
+        }
+      }
+
+      if (t.title === 'Derived characters') {
+        for (const m of t.text.matchAll(/\p{sc=Han}/gu)) {
+          current.derived = current.derived || [];
+          current.derived.push(m[0]);
         }
       }
     });
 
-    if (isRelevant) {
-      writeFileSync(path.join(LANG_DIR, f), JSON.stringify(obj, null, 2));
+    out[obj.title] = current;
+  }
+
+  writeFileSync(
+    makeCleanedPath('translingual.json'),
+    `{\n${Object.entries(out)
+      .map(
+        ([k, v]) =>
+          `"${k}":${JSON.stringify(v, (_, v) => {
+            if (Array.isArray(v)) return v.filter((c, i) => v.indexOf(c) === i);
+            return v;
+          })}`,
+      )
+      .join(',\n')}\n}`,
+  );
+}
+
+function loopTitle(
+  subSections: WiktionaryJSONChild[],
+  callback: (s: WiktionaryJSONChild) => void,
+) {
+  for (const s of subSections) {
+    callback(s);
+
+    if (s.subSections) {
+      loopTitle(s.subSections, callback);
     }
   }
 }
 
 if (require.main === module) {
-  for (const lang of [
-    'Translingual',
-    'Chinese',
-    'Japanese',
-    'Korean',
-    'Vietnamese',
-  ]) {
-    extractLang(lang);
-  }
+  cleanJSON();
 }
