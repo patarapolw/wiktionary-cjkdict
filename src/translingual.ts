@@ -5,7 +5,6 @@ import { WiktionaryJSON, WiktionaryJSONChild } from './jsonbook';
 import { makeCleanedPath, makeIdeogramPath } from './shared';
 
 export interface CleanedTranslingual {
-  id: number;
   also?: string[];
   parts?: string[];
   derived?: string[];
@@ -14,6 +13,7 @@ export interface CleanedTranslingual {
 function cleanJSON() {
   const RAW_DIR = makeIdeogramPath('TRANSLINGUAL');
 
+  const idMap: Record<string, number> = {};
   const out: Record<string, CleanedTranslingual> = {};
 
   for (const f of readdirSync(RAW_DIR)) {
@@ -21,9 +21,8 @@ function cleanJSON() {
       readFileSync(path.join(RAW_DIR, f), 'utf-8'),
     );
 
-    const current: CleanedTranslingual = {
-      id: obj.id,
-    };
+    idMap[obj.title] = obj.id;
+    const current: CleanedTranslingual = {};
 
     obj.text.map((sect) => {
       const m = /\{\{also\|(.+)\}\}/.exec(sect.text);
@@ -50,8 +49,12 @@ function cleanJSON() {
       }
     });
 
-    out[obj.title] = current;
+    if (Object.keys(current).length) {
+      out[obj.title] = current;
+    }
   }
+
+  writeFileSync(makeCleanedPath('id.json'), JSON.stringify(idMap, null, 2));
 
   writeFileSync(
     makeCleanedPath('translingual.json'),
