@@ -25,9 +25,14 @@ function cleanJSON() {
     const current: CleanedTranslingual = {};
 
     obj.text.map((sect) => {
-      const m = /\{\{also\|(.+)\}\}/.exec(sect.text);
-      if (m && m[1]) {
-        current.also = m[1].split('|');
+      const m0 = /\{\{also\|(.+)\}\}/.exec(sect.text);
+      if (m0) {
+        for (const m of m0[0].matchAll(/\p{sc=Han}/gu)) {
+          if (m[0] !== obj.title) {
+            current.also = current.also || [];
+            current.also.push(m[0]);
+          }
+        }
       }
     });
 
