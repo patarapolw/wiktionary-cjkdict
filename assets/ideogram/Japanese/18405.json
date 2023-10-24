@@ -1,0 +1,39 @@
+{
+  "title": "歴",
+  "ns": 0,
+  "id": 18405,
+  "timestamp": 1546465957000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|歷|历}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|歴|歷}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=止10|kyu=歷}}\n\n# [[take place]], [[past]], [[history]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りゃく\n|kanon=れき\n|kun=へ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|歴%史|れき%し}}: {{l|en|history}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

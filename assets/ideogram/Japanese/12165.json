@@ -1,0 +1,54 @@
+{
+  "title": "吻",
+  "ns": 0,
+  "id": 12165,
+  "timestamp": 1552532071000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=口04}}\n\n# [[lips]]\n# [[kiss]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もん\n|kanon=ぶん\n|kanyoon=ふん\n|kun=くちさき-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|接吻|せっぷん|gloss=[[kiss]]}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|ふん|yomi=kanyoon}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|ふん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ふん}}\n\n# {{lb|ja|anatomy|sort=ふん}} [[proboscis]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

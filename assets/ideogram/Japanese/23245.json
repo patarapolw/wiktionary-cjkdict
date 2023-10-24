@@ -1,0 +1,44 @@
+{
+  "title": "素",
+  "ns": 0,
+  "id": 23245,
+  "timestamp": 1547796467000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=糸04}}\n\n# {{defn|lang=ja|sort=糸04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す\n|kanon=そ\n|kun=きじ-, しろ-, しろ-い, もと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|生長素|せいちょうそ|[[auxin]]}}\n* {{ja-r|素%馨|そ%けい|[[Spanish jasmine]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|素%通り|す%どおり}}\n* {{ja-r|素%泊り|す%どまり}}, {{ja-r|素%泊まり|す%どまり}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

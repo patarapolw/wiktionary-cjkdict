@@ -1,0 +1,39 @@
+{
+  "title": "年",
+  "ns": 0,
+  "id": 9307,
+  "timestamp": 1550832594000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|秊|ヰ|𡕒}}\n{{character info/new}}\n{{character info/new|0xf98e}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=干03\n|hanviet=niên-tdcndg;tdcntd;gdhn\n|phienthiet=\n|nom=năm-tdcndg;tdcntd;gdhn;btcn, nên-tdcndg;tdcntd;gdhn, niên-tdcndg;tdcntd;btcn, niền-tdcntd\n}}\n\n# {{han tu form of|niên|[[year]]}}\n# {{Nom form of|năm|[[year]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=vi\n|{{vi-l|年少|niên thiếu}}\n|{{vi-l|青年|thanh niên|}}\n|{{vi-l|十年|thập niên}}\n|{{vi-l|少年|thiếu niên}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

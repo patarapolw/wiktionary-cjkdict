@@ -1,0 +1,51 @@
+{
+  "title": "崎",
+  "ns": 0,
+  "id": 14588,
+  "timestamp": 1540567394000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|埼|﨑|嵜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=山08}}\n\n# [[peninsula]]; [[promontory]]; [[cape]]; [[spit]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=き\n|kanon=き\n|kun=さき-, みさき-, けわし.い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|長崎|^ながさき}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|さき|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さき}}\n\n# {{lb|ja|geography|sort=さき}} small [[peninsula]]\n# {{lb|ja|geography|sort=さき}} [[cape]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

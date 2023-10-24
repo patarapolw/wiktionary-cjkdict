@@ -1,0 +1,66 @@
+{
+  "title": "帆",
+  "ns": 0,
+  "id": 14852,
+  "timestamp": 1551767792000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=巾03}}\n\n# {{defn|lang=ja|sort=巾03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぼん<ぼん<ぼむ\n|kanon=はん<はん<はむ\n|kun=ほ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|順%風%満%帆|じゅん%ぷう%まん%ぱん}}: [[smooth sailing]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|ほ|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|ほ|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ほ}}\n\n# {{lb|ja|sort=ほ|nautical}} [[sail]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|帆%立%貝|ほ%たて%がい}}: [[scallop]]\n* {{ja-r|帆木綿|ほもめん}}: [[cotton]] [[canvas]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

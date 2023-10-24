@@ -1,0 +1,39 @@
+{
+  "title": "蟷",
+  "ns": 0,
+  "id": 26327,
+  "timestamp": 1528436193000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫13}}\n\n# mantis",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=とう<たう\n|kanon=とう<たう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|蟷螂|かまきり}}, {{ja-r|蟷螂|とうろう}}\n* {{ja-r|蟷螂の斧|とうろう の おの}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

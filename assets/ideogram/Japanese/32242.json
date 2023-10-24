@@ -1,0 +1,44 @@
+{
+  "title": "鰌",
+  "ns": 0,
+  "id": 32242,
+  "timestamp": 1529810689000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鰍}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚09}}\n\n# [[pond]] [[loach]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|goon=じゅ|kanon=しゅう<しう|kun=どじょう-<どぢやう-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|どじょう|yomi=k}}\n{{ja-pron|acc=0|y=k|どじょう}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|どじょう|hhira=どぢやう|ドジョウ|hkata=ドヂヤウ}}\n\n# {{altspell|lang=ja|泥鰌||{{w|pond loach}}}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

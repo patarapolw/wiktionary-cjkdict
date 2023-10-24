@@ -1,0 +1,44 @@
+{
+  "title": "鮨",
+  "ns": 0,
+  "id": 32143,
+  "timestamp": 1531838325000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=魚06}}\n\n# [[sushi]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎ\n|kanon=き\n|kanyoon=し\n|kun=すし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|すし}}\n\n# {{alternative spelling of|lang=ja|sort=すし|寿司}}: [[vinegared]] rice served with fish: [[sushi]]; salted and naturally fermented seafood; salted and naturally fermented seafood with rice"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Nippo Jisho}}\n* {{R:Wamyō Ruijushō}}\n\n[[Category:ja:Foods|すし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

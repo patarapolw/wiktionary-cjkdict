@@ -1,0 +1,37 @@
+{
+  "title": "箚",
+  "ns": 0,
+  "id": 22824,
+  "timestamp": 1531649932000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|札|剳|劄}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=[[剳#Etymology 1|剳]],[[劄#Etymology 2|劄]]:⿰答刂}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QjAzMjI1 -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|劄|v|duplicate form, refer [[劄#Glyph 2|glyph 2]] of <big>劄</big>}}"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "In Taiwan, Hong Kong and Macau, <font size=4, lang=zh-Hant>[[劄#Chinese|劄]]</font> (<code>U+5284</code>) is the preferred form used for computing purposes<!-- Compare (1) http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=劄 with (2) http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=劄 and (3) http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=B03225 with (4) https://www.moedict.tw/劄 --> (based on the {{w|Big5}} encoding standard). <!-- See also alternative forms of 劄 for more information. -->"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B03225}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

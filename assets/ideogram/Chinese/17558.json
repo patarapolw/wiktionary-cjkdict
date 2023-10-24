@@ -1,0 +1,44 @@
+{
+  "title": "桄",
+  "ns": 0,
+  "id": 17558,
+  "timestamp": 1553552838000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=guāng,guàng\n|c=gwong1,gwong3\n|mc=y\n|oc=y\n|ma=\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# coir-[[palm]] (''{{w|Rhapis excelsa}}'')",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|放桄兒|桄子|梯桄|桄榔|線桄子|門桄}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

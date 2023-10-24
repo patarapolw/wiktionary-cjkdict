@@ -1,0 +1,54 @@
+{
+  "title": "鴄",
+  "ns": 0,
+  "id": 32521,
+  "timestamp": 1503092817000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|匹|鳥|ls=psc|c1=p|c2=s|t2=bird}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=匹}}\nProbably Austroasiatic ({{zh-ref|Schuessler, 2007}}). Compare:\n* Tai-Kadai: {{cog|tai-pro|*pitᴰ||duck}} > {{cog|th|เป็ด}}, {{cog|lo|ເປັດ}}, {{cog|za|bit}};\n* Austroasiatic: {{cog|mkh-vie-pro|*viːt||duck}} > {{cog|vi|vịt}};\n* Sino-Tibetan:\n** {{cog|mxj|kɹɑi³⁵ pit⁵⁵|kɹɑi³⁵ '''pit⁵⁵'''|duck}};\n** {{cog|bxd|pjɛ̱t⁵⁵||duck}}, {{cog|atb|pje̱t⁵⁵||duck}};\n** Proto-Lolo-Burmese ''*baj¹/²'' (“duck”) > {{cog|my|ဘဲ}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=pǐ,pī\n|c=pat1\n|mc=\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[duck]]\n#* {{zh-x|凡 摯，天子 鬯，諸侯 圭，卿 羔，大夫 雁，士 雉，庶人 之 摯 '''@匹'''；童子 委 摯 而 退。|By way of presents of introduction, the son of Heaven uses spirits of black millet; feudal princes, their symbols of jade; a high minister, a lamb; a Great officer, a goose; an (ordinary) officer, a pheasant; a common man, a '''duck'''. Lads should bring their article, and withdraw.|ref=Liji}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|𩿣鴄}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|鵯|v}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

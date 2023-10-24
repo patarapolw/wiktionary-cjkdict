@@ -1,0 +1,56 @@
+{
+  "title": "霧",
+  "ns": 0,
+  "id": 30870,
+  "timestamp": 1553824672000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|露|雾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=雨11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=む\n|kanon=ぶ\n|kun=きり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|煙霧|えんむ}}: a [[mist]], [[fog]], [[smog]]; a [[haze]]\n* {{ja-r|煙霧質|えんむしつ}}: an [[aerosol]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|きり}}\n\n# [[mist]], [[fog]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}\n#*: 重霧 下'''奇利'''\n#* {{quote-book|||BOOSTER 1\n|||date=Mar 1 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|ウォーター・エレメント}}\n|trans-chapter=Water Element}}\n#*: {{ja-usex|水に住んでいる精%霊。まわりを'''霧'''でつつみこみ視%界を奪う。|みず に すんでいる せい%れい。まわり を '''きり''' で つつみこみ し%かい を うばう。|A spirit who lives in the water. She’ll blind you by surrounding you with mist.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|霞み|かすみ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Nara Ibun 3}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

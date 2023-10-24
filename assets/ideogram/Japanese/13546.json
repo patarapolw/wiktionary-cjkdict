@@ -1,0 +1,44 @@
+{
+  "title": "契",
+  "ns": 0,
+  "id": 13546,
+  "timestamp": 1537871503000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xf909}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=大06}}\n\n# [[pledge]] ([[allegiance]])\n# [[commit]] [[oneself]]\n# [[promise]] ([[loyalty]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け, けち, せち\n|kanon=けい, けつ, せつ\n|kun=ちぎ-る, きざ-む, わりふ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|契約|けいやく}}: contract, agreement"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ひさし}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|ひさし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

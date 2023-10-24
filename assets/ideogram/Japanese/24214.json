@@ -1,0 +1,44 @@
+{
+  "title": "職",
+  "ns": 0,
+  "id": 24214,
+  "timestamp": 1529485310000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|职}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=耳12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しき\n|kanon=しょく\n|kun=つかさ-, つかさど-る, つと-め\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|しょく|yomi=o}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|職}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しょく}}\n\n# [[employment]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "搝",
+  "ns": 0,
+  "id": 16450,
+  "timestamp": 1553550787000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qiǔ\n|c=hau2\n|mn=khiú/giú\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|搝揭}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Jyutping Database}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

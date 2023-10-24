@@ -1,0 +1,39 @@
+{
+  "title": "投",
+  "ns": 0,
+  "id": 16049,
+  "timestamp": 1538189772000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=手04}}\n\n# to [[throw]]\n# to [[discard]]\n# [[abandon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ず\n|kanon=とう\n|kun=な-げる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|とう|counter}}\n\n# {{lb|ja|baseball|sort=とう}} [[pitch]]es"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

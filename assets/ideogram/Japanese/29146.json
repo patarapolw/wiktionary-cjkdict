@@ -1,0 +1,39 @@
+{
+  "title": "醒",
+  "ns": 0,
+  "id": 29146,
+  "timestamp": 1538162389000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=酉09}}\n\n# to [[wake up]]\n# to become [[sober]], to be [[disillusioned]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=せい\n|kun=さ-める, さ-ます\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|覚醒|かくせい}}\n* {{ja-r|覚醒剤|かくせいざい}}\n* {{ja-r|警醒|けいせい}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

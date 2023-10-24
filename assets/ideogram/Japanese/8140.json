@@ -1,0 +1,39 @@
+{
+  "title": "丿",
+  "ns": 0,
+  "id": 8140,
+  "timestamp": 1553546561000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ノ}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=r|rs=丿00}}\n\n# [[katakana]] [[ノ]] (no) radical (ノのかんむり)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|nanori=の\n}}\n\n“Curving from right to left; raising one's head and standing upright”：\n{{ja-readings\n|goon=へち, よう<えう\n|kanon=へつ, よう<えう\n}}\n\n“Arrive”:\n{{ja-readings\n|goon=えい\n|kanon=えい\n|kun=いた-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "{{ja-kref\n|jis=5028\n|ku=4808\n|shift=98A6\n|euc=D0A8\n|freq=''radical''\n|nelson=''not listed''\n|newnelson=39\n|halpern=3345\n|kld=''not listed''\n|heisig=''not listed''\n|tuttle=0a1.2\n}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

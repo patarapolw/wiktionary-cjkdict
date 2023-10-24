@@ -1,0 +1,39 @@
+{
+  "title": "嚆",
+  "ns": 0,
+  "id": 12801,
+  "timestamp": 1513010624000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口14}}\n\n# {{defn|lang=ja|sort=口14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=きょう<けう\n|kanon=こう<かう\n|kun=さけ-ぶ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[嚆矢]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

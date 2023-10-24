@@ -1,0 +1,39 @@
+{
+  "title": "棉",
+  "ns": 0,
+  "id": 17693,
+  "timestamp": 1544852833000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=木08}}\n\n# [[cotton]]\n# [[batting]], [[stuffing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=めん\n|kanon=べん\n|kun=わた-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This is a non-standard variant in Japanese for the character {{m|ja|綿}}. Note the difference in [[radical]]: {{lang|ja|棉}} has the {{m|ja|木}} or {{m|en|tree}} radical, while {{m|ja|綿}} as the {{m|ja|糸}} or {{m|en|thread}} radical."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

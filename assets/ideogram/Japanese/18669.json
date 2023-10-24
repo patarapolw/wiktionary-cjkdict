@@ -1,0 +1,39 @@
+{
+  "title": "汽",
+  "ns": 0,
+  "id": 18669,
+  "timestamp": 1554032726000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=水04}}\n\n# [[steam]], [[vapor]]/[[vapour]]\n# [[nearly]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=き\n<!--|on=いつ-->\n|kun=みずけ-<みづけ, ゆげ-\n}}\nAs variant kanji for {{ja-l|汔}}:\n{{ja-readings\n|goon=こち\n|kanon=きつ\n|kun=ちか-い, ほとん-ど\n}}\n{{attention|ja|check and expand on readings; two different Chinese words? (cmn: qí, ja: ki, ko: gi vs. cmn: yǐ, ko: heul, ja: itsu)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|汽%圧|き%あつ}}\n* {{ja-r|汽缶|きかん}}\n* {{ja-r|汽機|きき}}\n* {{ja-r|汽車|きしゃ}}\n* {{ja-r|汽章|^きしょう}}\n* {{ja-r|汽%水|き%すい}}\n* {{ja-r|汽船|きせん}}\n* {{ja-r|汽走|きそう}}\n* {{ja-r|汽%鎚|き%づち}}\n* {{ja-r|汽艇|きてい}}\n* {{ja-r|汽%笛|き%てき}}\n* {{ja-r|汽%力|き%りょく}}\n* {{ja-r|蒸汽|じょうき}}\n* {{ja-r|汽%鍋|チー%グオ}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

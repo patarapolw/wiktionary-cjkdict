@@ -1,0 +1,107 @@
+{
+  "title": "栄",
+  "ns": 0,
+  "id": 17494,
+  "timestamp": 1552106268000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|榮|荣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|栄|榮}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=木05|kyu=榮}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう\n|kanon=えい\n|kun=さか-える<さか-ゆ, は-え, は-える<は-ゆ\n|nanori=さかえ, しげ, てる, なが, ひで, よし, え\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はえ}}\n\n# {{alternative form of|栄え|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|さかえ}}\n\n# {{given name|male|lang=ja}}\n# {{surname|lang=ja|sort=さかえ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ろん|yomi=irr}}\n{{wp|lang=ja|和了}}\nBorrowed from {{bor|ja|cmn|榮|tr=róng|sort=ろん}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|ロン}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=榮|ロン}}\n\n# {{lb|ja|mahjong|sort=ろん}} {{abbreviation of|lang=ja|栄和|tr=a win by picking up a discarded tile}}\n# {{lb|ja|mahjong|sort=ろん}} a call for such a win"
+                },
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|自摸|ツモ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|えい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|榮}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えい|acc=1|acc_ref=DJR|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えい|kyu=榮}}\n\n# {{lb|ja|literary}} [[honor]]; [[glory]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えい|kyu=榮}}\n\n# [[honor]]; [[glory]]\n# [[flourishing]]; [[prosperous]]\n# {{lb|ja|of vegetation}} [[lush]]; [[luxurious]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n{{ja-r|栄養|えいよう}}: [[nutrition]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese male given names|さかえ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

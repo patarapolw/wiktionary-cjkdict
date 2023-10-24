@@ -1,0 +1,39 @@
+{
+  "title": "給",
+  "ns": 0,
+  "id": 23321,
+  "timestamp": 1551618002000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|给}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=糸06}}\n\n# {{defn|lang=ja|sort=糸06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<こふ\n|kanon=きゅう<きふ\n|on=きょう<けふ\n|kun=たま-う<たま-ふ, たま-え<たま-へ, たも-う<たま-ふ\n|nanori=きい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|給料|きゅうりょう}}: [[salary]]\n* {{ja-r|供給|きょうきゅう}}: [[supply]], [[provision]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

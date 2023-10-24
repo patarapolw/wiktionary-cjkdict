@@ -1,0 +1,81 @@
+{
+  "title": "翳",
+  "ns": 0,
+  "id": 24074,
+  "timestamp": 1553563959000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=羽11}}\n\n# {{defn|lang=ja|sort=羽11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=あい\n|kanon=えい\n|kun=きぬがさ, かざ-す, かげ-る\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|翳}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えい|acc=1|acc_ref=DJR|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えい}}\n\n# [[shade]]; [[shadow]] {{q|interchangeable with {{m|ja|影|tr=ei}}}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えい}}\n\n# {{rfdef|ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かげ|yomi=k}}\n{{ja-see|かげ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|かすみ|yomi=k}}\n{{ja-see|かすみ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|さしば|yomi=k}}\n{{ja-see|さしば}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|は|yomi=k}}\n{{ja-see|は}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

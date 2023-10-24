@@ -1,0 +1,44 @@
+{
+  "title": "閉",
+  "ns": 0,
+  "id": 30411,
+  "timestamp": 1544541974000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|閇|闭}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=門03}}\n\n# [[close]], [[shut]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=はい\n|kanon=へい\n|on=へつ\n|kun=と-じる, と-ざす, し-める, し-まる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{sense|to shut, close}} {{l|ja|開}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|閉じる|とじる}}\n* {{ja-r|閉める|しめる}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

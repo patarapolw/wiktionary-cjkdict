@@ -1,0 +1,78 @@
+{
+  "title": "管",
+  "ns": 0,
+  "id": 22831,
+  "timestamp": 1547474016000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=竹08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かん<くわん\n|kanon=かん<くわん\n|kun=くだ-\n|nanori=うち, すが, すげ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|かん}}\nFrom {{der|ja|ltc|sort=かん|管|tr=kuɑn<sup>X</sup>||pipe, tube}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|かん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かん|hhira=くわん}}\n\n# [[pipe]]\n# a [[wind instrument]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|くだ}}\nFrom {{der|ja|ojp|sort=くだ|管|tr=kuda||pipe, tube}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くだ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|莩}} {{qualifier|rare}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くだ}}\n\n# a [[pipe]] or [[tube]], such as that made of [[bamboo]], [[wood]], [[metal]], or [[rubber]]\n# a [[shuttle]] for [[weaving]] with a [[loom]] {{qualifier|from the way the earliest shuttles were made from bamboo tubes}}\n# the central [[axis]] of a [[spindle]] for winding the [[thread]]\n# short for {{m|ja|管の笛|tr=kuda no fue}}, a kind of small [[pipe]] or [[flute]] used for [[signalling]] during a [[battle]], similar to a [[fife]]\n# an [[agricultural]] [[tool]], used to gather up cut [[rice]] [[stalk]]s\n# short for {{m|ja|管狐|tr=kudagitsune}}, a kind of [[mythical]] [[fox]] roughly the size of a [[weasel]], that would live in [[bamboo]] [[stalk]]s and make [[prophesy|prophesies]] of the [[future]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "扸",
+  "ns": 0,
+  "id": 16020,
+  "timestamp": 1527673201000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=xī\n|c=sik1\n|mc=\n|oc=\n|ma=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|archaic}} [[split]] [[wood]]\n# {{lb|zh|archaic}} [[break]] [[apart]]\n# {{lb|zh|archaic}} [[divide]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 112]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=zhé\n|c=\n|ma=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[break off]], [[snap]]\n# to [[bend]]\n# [[scatter]], [[disperse]], [[break up]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

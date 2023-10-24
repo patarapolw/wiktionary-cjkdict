@@ -1,0 +1,49 @@
+{
+  "title": "格",
+  "ns": 0,
+  "id": 17550,
+  "timestamp": 1549858741000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かく}}\n\n# [[status]], [[rank]]\n# {{lb|ja|grammar|sort=かく}} [[case]] ([[of]] [[a]] [[word]])\n# [[capacity]]\n# [[character]]\n# [[case]] ([[law]])"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=木06|grade=5}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きゃく\n|kanon=かく\n|kanyoon=こう\n|kun=ただ-す, いた-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|価%格|か%かく}}: price\n* {{ja-r|具%格|ぐ%かく}}: instrumental\n* {{ja-r|呼%格|こ%かく}}: vocative\n* {{ja-r|向%格|こう%かく}}: allative\n* {{ja-r|斜%格|しゃ%かく}}: oblique\n* {{ja-r|主%格|しゅ%かく}}: nominative\n* {{ja-r|修%飾%格|しゅう%しょく%かく}}: attributive {{attention|ja|?}}\n* {{ja-r|述%格|じゅっ%かく}}: predicative\n* {{ja-r|所%有%格|しょ%ゆう%かく}}: possessive\n* {{ja-r|人%格|じん%かく}}: personality\n* {{ja-r|接%格|せっ%かく}}: adessive\n* {{ja-r|絶%対%格|ぜっ%たい%かく}}: absolutive\n* {{ja-r|前%置%格|ぜん%ち%かく}}: locative\n* {{ja-r|造%格|ぞう%かく}}: instrumental\n* {{ja-r|属%格|ぞっ%かく}}: genitive\n* {{ja-r|対%格|たい%かく}}: accusative\n* {{ja-r|奪%格|だっ%かく}}: ablative\n* {{ja-r|能%格|のう%かく}}: ergative\n* {{ja-r|賓%格|ひん%かく}}: objective\n* {{ja-r|補%格|ほ%かく}}: supplement\n* {{ja-r|目%的%格|もく%てき%かく}}: objective\n* {{ja-r|与%格|よ%かく}}: dative\n* {{ja-r|連%体%格|れん%たい%かく}}: adnominal\n* {{ja-r|格%助%詞|かく%じょ%し}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|いたる}}\n\n# {{given name|male|lang=ja|sort=いたる}}\n\n{{ja-pos|proper|かく}}\n\n# {{given name|male|lang=ja|sort=かく}}\n\n{{ja-pos|proper|とおる}}\n\n# {{given name|male|lang=ja|sort=とおる}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

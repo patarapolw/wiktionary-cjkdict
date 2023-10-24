@@ -1,0 +1,63 @@
+{
+  "title": "午",
+  "ns": 0,
+  "id": 11895,
+  "timestamp": 1553999241000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|牛|干}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=十02}}\n\n# [[noon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ご\n|kanon=ご\n|kun=うま-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|うま|yomi=k}}\n{{wp|lang=ja}}\nFrom {{m|ja|馬|tr=uma||[[horse]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=2|y=k|うま}}\n* {{hmp|lang=ja|sort=うま|馬}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|うま}}\n\n# the {{w|Horse (zodiac)|Horse}}, the seventh of the twelve {{w|Earthly Branches}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ご|yomi=o}}\nFrom {{der|ja|ltc|午|tr=ngu<sup>X</sup>|sort=こ'}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ご}}\n\n# the {{w|Horse (zodiac)|Horse}}, the seventh of the twelve {{w|Earthly Branches}}\n\n{{cln|ja|words with multiple readings}}\n{{topics|ja|Earthly Branches|sort=うま}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

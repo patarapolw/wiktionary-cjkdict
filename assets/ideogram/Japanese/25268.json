@@ -1,0 +1,56 @@
+{
+  "title": "葯",
+  "ns": 0,
+  "id": 25268,
+  "timestamp": 1530701082000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|藥|药}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸09}}\n\n# {{defn|lang=ja|sort=艸09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[やく]] (yaku), [[あく]] (aku), [[てき]] (teki)|kun=[[よろいぐさ]] (yoroigusa), [[まとう]] (matou), [[つつむ]] (tsutsumu)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|やく|yomi=o}}\n\nFrom {{bor|ja|ltc|sort=やく|-}} {{ltc-l|葯|}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|やく|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|やく}}\n\n# {{lb|ja|botany|sort=やく}} [[anther]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

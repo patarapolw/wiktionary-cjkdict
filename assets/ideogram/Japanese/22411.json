@@ -1,0 +1,39 @@
+{
+  "title": "稅",
+  "ns": 0,
+  "id": 22411,
+  "timestamp": 1538877795000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|税}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾07}} <!-- Not a kyūjitai character of 税 -->\n\n# {{defn|lang=ja|sort=禾07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ぜい]] (zei), [[だつ]] (datsu), [[えつ]] (etsu)|kun=[[みつぎ]] (mitsugi)|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character lacks JIS support. [[税]] (U+7A0E) is used instead in Japan."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

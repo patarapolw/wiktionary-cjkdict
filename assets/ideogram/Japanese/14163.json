@@ -1,0 +1,54 @@
+{
+  "title": "室",
+  "ns": 0,
+  "id": 14163,
+  "timestamp": 1545877852000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=宀06}}\n\n# [[room]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しち\n|kanon=しつ\n|kun=むろ-, へや-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|教%室|きょう%しつ}}: classroom\n* {{ja-r|室外|しつがい}}: [[outside]] a [[room]], [[outdoor]]\n* {{ja-r|室内|しつない}}: [[inside]] a [[room]], [[indoor]]\n* {{ja-r|寝室|しんしつ}}: bedroom\n* {{ja-r|霊安室|れいあんしつ}}: morgue\n{{der-bottom}}\n\n{{ja-kanjitab|しつ|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|しつ|acc=2|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しつ}}\n\n# [[room]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

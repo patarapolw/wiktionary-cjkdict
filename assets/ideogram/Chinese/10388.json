@@ -1,0 +1,85 @@
+{
+  "title": "上",
+  "ns": 0,
+  "id": 10388,
+  "timestamp": 1552937722000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|丄}}\n{{character info/subpage}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=丄,𠄞,尚-Min Nan “most”}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{liushu|i}}: a line [[above]] another (contrast {{l|zh|下}}) — [[up]]. Originally written as {{zh-l|𠄞}}, but changed to this form to prevent confusion with {{zh-l|二}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{der|zh|sit}}. Cognate with {{cog|bo|ཡང་རྩེ||summit; pinnacle}} ({{zh-ref|Bodman, 1980}}), {{cog|lus|zo||to be high}}, {{m|lus|zah||to respect; to revere}}.\n\n''[[w:Shijing|Shijing]]'' rimes indicate occasional level tone for pronunciation 2 ({{zh-ref|Schuessler, 2007}}).\n\nPronunciation 1 is the exopassive of pronunciation 2 with suffix ''*-s'', literally meaning \"what has been raised\" ({{zh-ref|Schuessler, 2007}}). The rising tone in Middle Chinese words with voiced stop initials regularly evolves into departing tone in Mandarin; pronunciation 3 results from {{zh-l|叶韻}}, which artificially preserves classical poetry rhyming words' pronunciations.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{zh-pron\n|m=shàng\n|m-s=sang4\n|dg=шон3\n|c=soeng6\n|c-t=siang5\n|g=song5\n|h=pfs=song;gd=song4\n|j=son3/hon3\n|md=siông\n|mn=xm,qz,tw:siōng/xm,zz:siāng\n|mn_note=Xiamen siāng - only used for “most”\n|mn-t=zion7/ziên7/siang6\n|mn-t_note=zion7/ziên7 - vernacular (“upper part; up; on; above; in”); siang6 - literary (“superior; most”)\n|w=3zaan\n|x=shan5/shan4\n|x_note=shan5 - vernacular; shan4 - literary\n|mc=2\n|oc=3,2\n|ma=y\n|cat=n,post,a,v\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# [[upper]] [[part]]; [[high]] [[position]]; [[up]]\n#: {{zh-ant|下}}\n# {{†}} [[emperor]]\n# [[on]]; [[above]]\n#* {{zh-x|樹-上|'''on''' the tree}}\n#* {{zh-x|筆 在 桌-上。|The pen is on the desk.}}\n# [[superior]]; [[senior]]; [[top]]\n# [[preceding]]; [[previous]]; [[last]]; [[former]]\n#* {{zh-x|上年|last year}}\n#* {{zh-x|上 集|last episode}}\n#* {{zh-x|上世紀|last century}}\n# [[first]] of several (usually two or three) partitions\n#: {{zh-ant|中|下}}\n#* {{zh-x|^西遊記 上|Journey to the West I}}\n#* {{zh-x|上古.漢語 和 中古.漢語|Old Chinese and Middle Chinese}}\n# [[within]]; [[in]]; from the [[standpoint]] of; [[according to]]\n#* {{zh-x|在 理論 上|according to theory}}\n#*{{zh-x|在 這個 世界 上|in this world}}\n#* {{zh-x|在 英文 上 沒有 相似 的 說法。|There is no similar way of wording in English.}}\n# {{lb|zh|Min Nan}} [[most]]; [[extremely]]"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{zh-pron\n|m=shàng\n|m-s=sang4\n|c=soeng5\n|c-t=siang1\n|g=song5\n|h=pfs=sông/sóng;gd=song1/song3\n|h_note=sông / song1 - “to go up; to go; to attend” (major reading); sóng / song3 - “to fit; to install; to apply”\n|j=son3/hon3\n|md=siông/chiông\n|md_note=siông - “to go up” (major reading); chiông - only in “to pull up”\n|mn=xm,tp,kh,yl,hc,tc,sx,km,mg:chiūⁿ/zz,tn:chiōⁿ/qz,lk:chiǔⁿ/xm,tp,kh,yl,hc,tc,sx,km,mg:chhiūⁿ/zz,tn:chhiōⁿ/qz,lk:chhiǔⁿ\n|mn_note=chiūⁿ/chiōⁿ/chiǔⁿ - “to go up” (major reading); chhiūⁿ/chhiōⁿ/chhiǔⁿ - only in “to pull up; to grow; to pile up”\n|mn-t=zion6/ziên6\n|w=3zaan\n|x=shan5/shan4\n|x_note=shan5 - vernacular; shan4 - literary\n|mc=1\n|oc=1+2,1\n|ma=y\n|cat=v,part\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# to [[go up]]; to [[ascend]]\n# to [[charge]]; to [[advance]]\n#* {{zh-x|上 啊！|Charge!}}\n# to [[go]] to; to [[leave]] for (a place) (usually to a more developed place)\n#* {{zh-x|上 省城|to go to province capital}}\n# to [[board]]; to [[get on]]\n#* {{zh-x|請 上 車。|Please get into the car.}}\n# to [[serve]]; to [[present]]; to [[offer]]\n#* {{zh-x|還有 兩 個 菜 沒 上。|There're two dishes that haven't been served.}}\n#* {{zh-x|上 筆 和 紙 來。|Give me the pen and the paper.}}\n# to [[attend]] (class, work)\n#* {{zh-x|上班|to go to work}}\n#* {{zh-x|她 上 夜校。|She goes to night school.}}\n# to [[enter]] (a field); to [[appear]] (on stage, TV)\n# to [[fit]]; to [[install]]; to [[apply]]\n#* {{zh-x|上 油漆|to apply paint}}\n# to [[screw]]; to [[tighten]], to [[twist]]\n# {{lb|zh|colloquial}} {{zh-abbrev|*上線|to go online}}\n# to [[connect]] to; [[browse]] (a website)\n#* {{zh-x|上 ^谷歌|to go on Google; to google}}\n# {{lb|zh|Min}} to [[pull]] [[upwards]] or [[hang]] with a [[rope]]\n#* {{zh-x|上{chhiūⁿ}水|to '''draw''' water from a well|MN}}\n# {{lb|zh|Min Nan}} to [[grow]] and [[attach]]\n#* {{zh-x|上{chhiūⁿ} 青苔|to '''grow''' moss|MN}}\n# {{lb|zh|Xiamen|_|Min Nan}} to [[pile up]]\n#* {{zh-x|上{chhiūⁿ}貨|to '''pile up''' goods|MN}}\n# {{lb|zh|vulgar|of a male}} to [[fuck]]; to have [[intercourse]] with a female\n# {{n-g|Particle following verbs, indicating direction or achievement.}}\n#* {{zh-x|安排 上 了。}}\n# 7th [[tetragram]] of the [[Taixuanjing]]; \"[[ascension]]\" ([[𝌌]])"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 3",
+                  "text": "{{zh-pron\n|m=shǎng\n|m-s=sang3\n|c=soeng5\n|h=pfs=sóng\n|md=siōng\n|mn=xm,qz,tw:sióng/zz:siáng\n|mn-t=siang6\n|w=3zaan\n|mc=1\n|oc=1,1\n|cat=n\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{zh-div|聲}} {{lb|zh|Chinese phonetics}} [[rising]] [[tone]] in [[Chinese]] [[phonetics]]"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|上岸|上班|上班兒|上板兒|上半場|上半截|上半年|上半晌|上半晌兒|上半時|上綁|上報|上臂|上邊|上邊兒|上不來|上不去|上不著天，下不著地/上不着天，下不着地|上部|上車|上等|上帝|上凍|上顎|上方|上方寶劍|上房|上風|上級|上漿|上將|上課|上空|上來|上聯|上聯兒|上臉|上面|上面兒|上命|上年|上氣不接下氣|上窮碧落下黃泉|上去|上圈套|上人|上人兒|上任|上色|上昇|上聲|上市|上書|上述|上司|上愬|上臺|上膛|上天|上天無路，入地無門|上頭|上文|上午|上下|上弦|上限|上香|上校|上心|上星期|上相|上刑|上行|上行下效|上選|上學|上旬|上眼皮|上眼皮兒|上演|上演稅|上有老，下有小|上藥|上衣|上議院|上癮|上映|上油|上游|上賊船|上漲|上賬|上肢|上知天文，下知地理|上中農|上海|一上|三上|上丁|上上|上世|上乘|上九|上京|上仙|上代|上位|上供|上僂|上元|上公|上分|上列|上則|上前|上剎|上勁|上升|上半|上卿|上口|上古|上吊|上告|上品|上回|上國|上坡|上堂|上場|上墳|上士|上壽|上夜|上套|上好|上妝|上官|上客|上家|上宿|上尉|上尊|上屋|上層|上山|上峰|上工|上己菜|上巳|上師|上席|上帳|上床|上庠|上座|上弔|上彩|上愚|上戶|上手|上捐|上揚|上操|上日|上晝|上智|上會|上服|上朝|上桌|上梁|上梓|上梢|上榜|上樁|上樓|上樣|上檔|上檯|上次|上款|上水|上江|上活|上流|上浣|上浮|上清|上湯|上溯|上火|上灶|上焦|上燈|上片|上界|上畫|上當|上疏|上皇|上真|上眼|上知|上祭|上稅|上第|上策|上算|上簇|上紙|上網|上緊|上線|上聖|上聞|上腰|上臕|上舍|上苑|上草|上菜|上落|上蒼|上蓋|上街|上表|上裝|上覆|上計|上訪|上訴|上詳|上諭|上謁|上貨|上賓|上足|上路|上身|上輩|上進|上道|上達|上邦|上都|上醫|上釉|上鉤|上鎖|上門|上閂|上陣|上鞋|上首|上馬|上駟|上體|上鬟|不上|世上|中上|主上|今上|以上|分上|刮上|北上|占上|卯上|合上|同上|向上|呈上|地上|堂上|天上|太上|奉上|安上|尊上|對上|席上|幕上|府上|庭上|心上|怯上|扒上|搶上|撲上|敝上|敬上|早上|春上|晚上|末上|榻上|樓上|櫃上|海上|濮上|炎上|無上|犯上|界上|皇上|直上|看上|瞧上|破上|祖上|禮上|算上|綿上|聖上|臉上|至上|茶上|街上|誑上|謹上|貴上|趕上|跟上|路上|身上|近上|遇上|道上|邁上|配上|長上|門上|閉上|闔上|霸上|面上|頂上|馬上|高上|上班族|上歲數兒|地上權|不上不落|上場門兒|占上游|不求上進|不上不下|彈性上班|力爭上流|上流頭|座上客|上黨梆子|上場白|上天入地|上梁不正|地上物|一哄而上|天上麒麟|巴高望上|占上風|大致上|徒不上墓|上水船|坐上客|帶上門|上鏡頭|兩上領|上下同心|上廳行首|上了歲數|上大人|五星上將|上下交困|上木驢|上頭鋪臉|後手不上|人間天上|七上八下|上西天|不上心|幹上了|上海公報|上館子|上朝取應|形上學|上下一心|奮發向上|七上八落|上門怪人|上軌道|太上忘情|上元節|上清童子|對不上號|上年紀|上下床|上帝教|上漏下溼|上大動脈|上輩子|上呼吸道|北上宣言|基本上|不上算|利上加利|上線服務|上尖兒|上新世|上馬石|力圖上進|上書房|上下相安|人上人|不上臺盤|上高坐|徹上徹下|吃不上|作壁上觀|力爭上游|不上蘆葦|帶上一筆|上口字|上上下下|忽上忽下|半上落下|忙上加忙|忐上忑下|上首徒弟|上和下睦|心上人|僭上偪下|上花臺|上下其手|天上石麟|後來居上|上吐下瀉|大面兒上|形而上學|形而上|上林賦|上陽宮|天上無雙|人面上|地方上|不上路|屋上架屋|床上施床|上頭上腦|上色徒弟|平上去入|不上串|一擁而上|上下爭輝|不在心上|差不上下|屋上建瓴|上林苑|山陰道上|上下文|居下訕上|小上海|床上功夫|小上墳|上座兒|天上聖母|三竿日上|上腰包|上海灘|公事上人|上皮組織|上竄下跳|上頭上臉|上求下告|太上老君|夠不上|上情下達|塞上曲|席上之珍|大清早上|奈上祝下|上洞人|供不上|做分上|太上皇|因此上|俎上肉|天上人間|大體上|圯上老人|壁上觀|引鬼上門|利上滾利|上刀山|上水道|上馬杯|不相上下|幕上燕巢|上諱下諱|垂白上僂|力求上進|屋上瞻烏|床上安床|喜上眉梢|一箭上垛|三上五落|上梁文|下情上達|墊上運動|壁上泥皮|不上眼|拉上補下|水上人家|水上漚|掌上之珠|掌上明珠|蒸蒸日上|成千上萬|樹上開花|牆頭馬上|掠上心頭|掌上舞|犯的上|板上釘釘|梁獄上書|火上添油|洑上水|水上活動|扶上馬|炕上地下|日上三竿|找上門|海上大學|浮上心頭|旁行斜上|拔宅上昇|爬上爬下|攻心為上|沒上沒下|灶上的|玉皇上帝|水上居民|直上直下|掌上河山|損上益下|氣頭上|燕巢幕上|海上救難|水上警察|敬上愛下|海上保險|把上了|炕上安鍋|掛上鉤|海上滲透|放在心上|桑間濮上|看上了|稱得上|稍占上風|派上用場|擺在心上|直上青雲|砧上之肉|發憤向上|矢在弦上|瞧不上眼|瞧不上|瞞上欺下|木上座|看不上|數不上|火上加油|扶搖直上|海上偵察|欺君罔上|桌面兒上|朗朗上口|抬到天上|濮上之音|水上芭蕾|掌上珠|登上甲|甚囂塵上|梁上君子|琅琅上口|沒上下|桿兒上的|搭不上線|掌上觀紋|爆炸上限|火上澆油|打上來|犯不上|玄天上帝|更上層樓|牆上草|牆上泥皮|犯上作亂|海上法|海上巡邏|火頭上|火上弄冰|濮上桑間|犯得上|欺心誑上|灶上騷除|拾級而上|海上都市|海上權|海上封鎖|浮上水|檯面上|殿上虎|榜上無名|水上飛機|水上運動|氈上拖毛|比不上|看得上眼|欺上罔下|欺主罔上|槓上了|槓上開花|承上啟下|披掛上陣|益上損下|海上採油|擱在心上|線上論壇|配不上|走馬上任|線上書店|線上價目|線上導覽|線上郵購|趕不上趟|線上訂書|羲皇上人|附上罔下|躍然紙上|網上購物|線上交友|計上心來|線上聊天|紙上封鎖|輪番上陣|頭上安頭|趕不上|說不上來|線上投票|青雲直上|線上百貨|螞蟻上樹|罔上虐下|親上成親|髮上衝冠|豎柱上梁|紙上電影|腦上腺|送上門|親上加親|腎上腺素|線上期刊|草上飛|諂上抑下|線上訂購|紙上作業|網上活動|線上訂閱|紙上空談|買上告下|阪上走丸|討分上|線上查詢|陌上桑|節上生枝|高高在上|華燈初上|肩上肩下|說分上|線上交易|頭上抹下|送上天|線上求助|輟耕壟上|腎上腺|門上的|鴨子上架|風行水上|鬼酉上車|蜂擁而上|髮上指冠|高攀不上|頂頭上司|騎上老虎|至高無上|裊裊上升|馬上緣|馬上吹|親上作親|紙上談兵|線上掛號|線上牙醫|頭髮上指|頭直上|頂上功夫|臉上貼金|表面上|網上雜誌|非常上訴|青龍頭上|線上書屋|臉上無光|豐上銳下|雪上加霜|難於上天|難上加難|頭上末下|陵上虐下|陣面上|趕得上|附下罔上|罪上加罪|線上評鑑|錦上添花|肝火上炎|門上人|說不上|錯上墳|通身上下|面子上|迎頭趕上|計上心頭|逼上梁山|跟不上|線上叩應|線上諮詢|節骨眼上|線上新聞|箭在弦上|股掌之上|走為上策|長安道上|談不上|線上購物|韝上鷹|線上出版|草上霜|頰上添毫|駕上人|門上楣|線上訂位|上馮|上陳|上車灣|上壩|上境|上巴河|上饒|上門女婿|上營|上洲|上陳橋|上津|七十瓦上霜，八十不稀奇|上龕|上庸|愛上|楓林上城|上戈|上河堤|上磺|上有天堂，下有蘇杭}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|緔|ss}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-see|鞝|ss}}\n\n{{zh-cat|Beginning}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

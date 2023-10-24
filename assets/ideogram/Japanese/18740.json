@@ -1,0 +1,56 @@
+{
+  "title": "沿",
+  "ns": 0,
+  "id": 18740,
+  "timestamp": 1553309117000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㳂}}\n{{character info/new}}\n{{character info|0x2F8FC}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=水05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん\n|kanon=えん\n|kun=そ-う<そ-ふ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えん|yomi=on}}\nFrom {{der|ja|ltc|sort=えん|-}} {{ltc-l|沿}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えん|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えん}}\n\n# [[follow]]; go [[along]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|沿岸|えんがん}}: {{l|en|coast}}, {{l|en|shore}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

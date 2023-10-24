@@ -1,0 +1,66 @@
+{
+  "title": "院",
+  "ns": 0,
+  "id": 30661,
+  "timestamp": 1549897972000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=阜07}}\n\n# [[institution]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん<ゑん\n|kanon=えん<ゑん\n|kanyoon=いん<ゐん\n}}\n\n{{ja-kanjitab|いん|yomi=kanyoon}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|いん|acc=1|acc_ref=DJR|yomi=kanyoon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|いん|affix|hhira=ゐん}}\n\n# [[institution]]\n# {{n-g|Short for {{m|ja|病院}}, {{m|ja|大学院}}, etc.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|院生|いんせい}}\n* {{ja-r|院政|いんせい}}\n* {{ja-r|院内感染|いんない かんせん}}\n* {{ja-r|医院|い.いん}}\n* {{ja-r|学院|がくいん}}\n* {{ja-r|寺院|じ.いん}}\n* {{ja-r|退院|たい.いん}}\n* {{ja-r|入院|にゅういん}}\n* {{ja-r|病院|びょういん}}: hospital\n* {{ja-r|大学院|だいがくいん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いん|hhira=ゐん}}\n\n# {{lb|ja|historical}} Ex-emperor, ex-empress or entitled as equal-to-emperor/empress in cloister (derived from \"mansion\"; the highly nobles are not addressed directly, but with their residence as substitution)\n# {{short for|大学院|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|いん|suffix|hhira=ゐん}}\n\n# temple\n# institution"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "艦",
+  "ns": 0,
+  "id": 24724,
+  "timestamp": 1551107837000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|舰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=舰}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|舟|監|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "\"Warship (with boards installed on its four sides to defend against arrow attacks)\" (''{{w|Shiming}}'') > \"warship\" > \"ship\" (''{{w|Guangya}}''). A specialised character derived from {{och-l|檻|fence, railing, board}}; see there for more on the external etymology.\n\nThis character is a classic example of historical misreadings of unfamiliar characters. The ''l-'' initial in southern dialects is probably due to confusion with {{ltc-l|濫|to overflow|id=2}}, not due to divergent evolutions of the Old Chinese cluster initial ''*gr-'' as this character is often cited as an example of. Likewise, the readings in other Chinese are misreadings, although this is more subtle. Expected Mandarin reflex is ''xiàn'', and ''jiàn'' is due to confusion with {{ltc-l|鑑|mirror; to reflect|id=2}}. Wu and Min Dong readings are results of confusion with {{ltc-l|檻|doorsill}}. Despite these irregularities, all the Sinoxenic readings are regular."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiàn\n|c=laam6\n|h=pfs=kam;gd=gam4\n|md=kāng\n|mn=lām/xm:hām/twv:kàm\n|mn-t=lam2\n|w=2khe\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[warship]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|兵艦|戰艦|旗艦|母艦|炮艦|無敵艦隊|第七艦隊|義勇艦隊|航空母艦|船艦|艦橋|艦炮|艦艇|艦長|艦隊|艦隻|護衛艦|軍艦|軍艦鳥|巡洋艦|巡防艦|驅潛艦|驅逐艦|鬥艦}}"
+            },
+            {
+              "level": 3,
+              "title": "Descendants",
+              "text": "{{CJKV||かん|함|hạm}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

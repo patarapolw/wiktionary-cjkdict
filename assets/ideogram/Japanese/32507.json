@@ -1,0 +1,54 @@
+{
+  "title": "鳶",
+  "ns": 0,
+  "id": 32507,
+  "timestamp": 1548539127000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鸢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥03}}\n\n# [[kite]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん\n|kanon=えん\n|kun=とび-, とんび-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "[[file:Milvus migrans 2005.jpg|thumb|right|200px|{{lang|ja|鳶}}]]\n{{ja-kanjitab|yomi=k|とび}}\n{{swp|lang=ja|トビ}}\n{{swp|lang=ja|トビ類}}\n* {{ja-l|鴟}}\n* {{ja-l|鵄}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Perhaps from {{m|ja|飛び|tr=tobi||[[flying]]|pos=stem form of {{m|ja|飛ぶ|tr=tobu||to [[fly]]}}}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|とび|y=k|acc=1}}\n* {{hmp|lang=ja|酴釄|sort=とび}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とび|トビ}}\n\n# a [[black kite]]\n\n{{C|ja|Birds of prey|sort=とび}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

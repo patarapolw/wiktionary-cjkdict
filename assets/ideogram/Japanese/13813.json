@@ -1,0 +1,39 @@
+{
+  "title": "婚",
+  "ns": 0,
+  "id": 13813,
+  "timestamp": 1535824865000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=女08}}\n\n# marriage",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=こん\n|kun=えんぐみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|婚姻|こんいん}}: marriage, matrimony\n* {{ja-r|婚期|こんき}}\n* {{ja-r|婚約|こんやく}}\n* {{ja-r|婚礼|こんれい}}\n* {{ja-r|結婚|けっこん}}: marriage\n* {{ja-r|結婚式|けっこんしき}}: wedding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

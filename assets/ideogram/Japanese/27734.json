@@ -1,0 +1,85 @@
+{
+  "title": "贅",
+  "ns": 0,
+  "id": 27734,
+  "timestamp": 1553570095000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|赘}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=貝11}}\n\n# {{defn|lang=ja|sort=貝11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せ\n|kanon=せい\n|kanyoon=ぜい\n|kun=いぼ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ぜい|yomi=o}}\n{{der|ja|ltc|贅|sort=せい'}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|ぜい|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぜい}}\n\n# [[luxury]], [[extravagance]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|贅沢|ぜいたく}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|贅を尽くす|ぜい を つくす}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ふすべ|yomi=irr}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|ふすべ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふすべ}}\n\n# {{lb|ja|obsolete|sort=ふすべ}} [[lump]], [[wart]]\n# {{lb|ja|obsolete|sort=ふすべ}} [[mole]], [[birthmark]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

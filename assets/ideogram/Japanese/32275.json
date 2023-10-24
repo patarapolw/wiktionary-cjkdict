@@ -1,0 +1,39 @@
+{
+  "title": "鰭",
+  "ns": 0,
+  "id": 32275,
+  "timestamp": 1553571609000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鳍}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚10}}\n\n# [[fin]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=き\n|kun=ひれ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひれ}}\n\n# [[fin]] {{gloss|of a fish}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

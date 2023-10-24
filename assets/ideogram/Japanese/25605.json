@@ -1,0 +1,39 @@
+{
+  "title": "薑",
+  "ns": 0,
+  "id": 25605,
+  "timestamp": 1534953643000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|姜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸13}}\n\n# [[ginger]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[こう]] (kō)|kanon=[[きょう]] (kyō)|kun=[[はじかみ]] (hajikami)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|薑黄|きょうおう}}: [[wild turmeric]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

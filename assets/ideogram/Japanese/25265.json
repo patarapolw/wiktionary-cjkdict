@@ -1,0 +1,59 @@
+{
+  "title": "葬",
+  "ns": 0,
+  "id": 25265,
+  "timestamp": 1553564955000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|塟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=艸09}}\n\n# [[funeral]], bury",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう\n|kanon=そう\n|kun=ほうむ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|葬式|そうしき}}: [[funeral]]\n* {{ja-r|葬儀|そうぎ}}: [[funeral]] [[service]]\n* {{ja-r|土葬|どそう}}: [[burial]], [[interment]]\n* {{ja-r|水葬|すいそう}}: [[sea]] [[burial]]\n* {{ja-r|鳥葬|ちょうそう}}: [[vulture]] [[burial]]\n* {{ja-r|火葬|かそう}}: [[cremation]]\n{{der-bottom}}\n\n{{ja-kanjitab|そう|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=そう}} {{m|zh|葬|tr=tsang<sup>H</sup>||burial}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|そう}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|そう|hhira=さう}}\n\n# [[burial]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* ''Jack Halpern's New Japanese-English Character Dictionary''"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

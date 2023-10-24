@@ -1,0 +1,49 @@
+{
+  "title": "積",
+  "ns": 0,
+  "id": 22487,
+  "timestamp": 1544179695000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|积}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=禾11}}\n\n# volume",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し, しゃく\n|kanon=し, せき\n|kanyoon=せき\n|kun=つ-む, つ-もる\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|せき|yomi=o}}\n{{ja-pron|acc=a|y=ko|せき}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|せき}}\n\n# {{lb|ja|arithmetic|sort=せき}} [[product]]"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|被乗数|ひじょうすう}}; {{ja-r|乗数|じょうすう}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "塩",
+  "ns": 0,
+  "id": 13310,
+  "timestamp": 1550896560000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𥂁}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|塩|鹽}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=土10|kyu=鹽}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん<えん<えむ\n|kanon=えん<えん<えむ\n|kun=しお-<しほ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|塩安|えんあん}}: [[ammonium chloride]]\n* {{ja-r|塩酸|えんさん}}: [[hydrochloric acid]]\n* {{ja-r|胡麻%塩|ごま%しお}}: sesame and salt\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しお|yomi=k}}\n/siho/: [ɕipo] > [ɕiɸo] > [ɕiwo] > [ɕio].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|しお|acc=2|acc_ref=DJR,NHK|a=Ja-shio-salt.ogg}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=鹽|しお|hhira=しほ}}\n[[Image:Sal (close).jpg|thumb]]\n\n# [[salt]]\n#: {{ja-usex|'''塩'''の結晶|'''しお''' の けっしょう|salt crystal}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|えん|yomi=o}}\nFrom {{der|ja|ltc|sort=ゆう|-}} {{ltc-l|鹽|[[salt]]|id=1}} and {{ltc-l|鹽|to [[salt]]; [[salting]]|id=2}}.\n\nFor the “chlorine” sense, see {{m|ja|塩素|tr=enso}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|えん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|kyu=鹽|えん}}\n\n# [[salt]]\n# to [[salt]]; [[salting]]\n# {{lb|ja|chemistry}} [[chlorine]]\n# {{lb|ja|chemistry}} [[salt]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=鹽|えん}}\n\n# {{lb|ja|chemistry|sort=えん}} [[salt]] {{gloss|substance that is mostly made in [[neutralize|neutralization]], such as [[sodium chloride]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|しお]]\n[[Category:ja:Sciences|えん]]\n[[Category:ja:Seasonings|しお]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

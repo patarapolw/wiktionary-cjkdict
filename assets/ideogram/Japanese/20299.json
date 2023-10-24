@@ -1,0 +1,136 @@
+{
+  "title": "爾",
+  "ns": 0,
+  "id": 20299,
+  "timestamp": 1553748790000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|尔|尓}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=爻10}}\n\n# [[you]]\n# [[like]] [[that]], that [[way]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=に\n|kanon=じ<ぢ\n|kun=おれ-, しか-, なんじ-<なんぢ-, しかり, そ-の, のみ-\n|nanori=あきら, ちか, み, みつる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|爾来|じらい}}: from that time on\n* {{ja-r|爾後|じご}}: from this time on\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|おれ}}\n\nFrom {{inh|ja|ojp|sort=おれ|-}}.  Found in use mostly from ancient times until roughly the {{w|Heian period}},<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> used to refer in the [[second person]] to social [[inferior]]s or to [[insult]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>\n\nThe [[second person]] sense of {{m|en|you}} appears to be obsolete in modern Japanese.\n\nNot to be confused with the modern term {{m|ja|俺|tr=ore}} with the [[first person]] sense of {{m|en|I}}, {{m|en|me}}.  See {{m|ja|俺}} for that sense.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|おれ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|儞}}\n* {{ja-l|你}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|おれ}}\n\n# {{lb|ja|archaic|vulgar|sort=おれ}} [[you]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Often used to [[insult]].  Compare modern {{cog|ja|お前|tr=omae}}, {{cog|en|you}} {{m|en|son of a bitch}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|なんじ}}\n\n{{IPAchar|/namuti/}} → *{{IPAchar|/nandi/}} → {{IPAchar|/nand͡ʑi/}}\n\nFrom {{inh|ja|ojp|sort=なんじ|-}}.  Originally derived as a compound of {{compound|ja|sort=なんじ|汝|tr1=na|t1=you|pos=ancient term|貴|tr2=muchi|pos2=honorific suffix}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>\n\nOriginally used to refer [[honorifically]] to the [[second person]].  From around the {{w|Nara period}}, the [[honorific]] sense lessened, and the term was used to refer to social [[equal]]s or occasionally social [[inferior]]s.  By the {{w|Muromachi period}}, this term was the most common [[second person]] [[pronoun]] for social [[inferior]]s.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なんじ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|汝}} {{qualifier|more common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|なんじ}}\n\n# {{lb|ja|archaic|sort=なんじ}} [[thou]], [[you]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "No longer in use in modern Japanese outside of contexts where the speaker is deliberately invoking archaic usage.  Compare use of {{cog|en|thou}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|しか}}\n\nFrom {{inh|ja|ojp|sort=しか|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>  Compound of {{compound|ja|sort=しか|し|tr1=shi|t1=that|pos1=demonstrative, likely related to {{m|ja|さ|tr=sa}}, modern {{m|ja|そう|tr=sō}}|か|tr2=ka|pos2=suffix indicating state}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>\n\nThe [[interjection]] sense appears to have developed from the [[adverb]] sense.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|しか}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|然}} {{qualifier|more common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adverb",
+                  "text": "{{ja-pos|adverb|しか}}\n\n# {{lb|ja|sort=しか|obsolete}} like that, as such\n# {{lb|ja|sort=しか|obsolete}} [[certainly]], [[definitely]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|然し|しかし|be that as it may, however}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Interjection",
+                  "text": "{{ja-pos|interjection|しか}}\n\n# {{lb|ja|sort=しか|obsolete|conversational}} [[yeah]], [[uh-huh]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

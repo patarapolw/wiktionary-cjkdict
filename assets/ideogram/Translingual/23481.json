@@ -1,0 +1,44 @@
+{
+  "title": "練",
+  "ns": 0,
+  "id": 23481,
+  "timestamp": 1538060562000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|练}}\n{{character info/new}}\n{{character info/new|0xf996}}\n{{character info/new|0xfa57}}\n{{character info/new|0xfab0}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|練|练|練|練}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* Note the difference in the right-side component between traditional Chinese ({{l|mul|柬}}) and Japanese shinjitai ({{l|mul|東}}).\n* Three {{w|CJK compatibility ideographs}} exists for this [[code point]]. Among them, U+FA57 corresponds to the Japanese {{w|kyūjitai}} form of this character."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=120|rad=糸|as=09|asj=08|sn=15|snj=14|four=25996|canj=VFDWF|ids=⿰糹柬(GHTV),⿰糸東(J,U+FAB0),⿰糸柬(K,U+F996,U+FA57)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𭌈]], [[𬚎]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0932.040|dkj=27631|dj=1370.160|hdz=53424.020|uh=7DF4}}\n{{Han ref|uh=F996}}\n{{Han ref|uh=FA57}}\n{{Han ref|uh=FAB0}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

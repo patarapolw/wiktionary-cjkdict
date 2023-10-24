@@ -1,0 +1,39 @@
+{
+  "title": "廟",
+  "ns": 0,
+  "id": 15083,
+  "timestamp": 1551262758000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|庙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=8|rs=广12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=みょう\n|on=びょう\n|kun=たまや-, みたまや-, やしろ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|びょう}}\n\n# [[mausoleum]]\n# shrine\n# [[palace]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "橛",
+  "ns": 0,
+  "id": 18118,
+  "timestamp": 1553553678000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jué\n|c=kyut3,gyut6\n|mn=koe̍h\n|mc=\n|oc=y\n|ma=\n|cat=n,c:cls\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}} <!--MSC degs-->\n# {{lb|zh|Cantonese}} {{zh-classifier|[[section]]s}}\n#: {{rfex|zh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

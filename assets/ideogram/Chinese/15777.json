@@ -1,0 +1,37 @@
+{
+  "title": "憍",
+  "ns": 0,
+  "id": 15777,
+  "timestamp": 1553550419000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=㤭}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiāo\n|c=giu1\n|mc=y\n|oc=y\n|cat=a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|驕|[[conceited]]; [[arrogant]]; [[indulgent]]}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|憍陳如|虛憍恃氣}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

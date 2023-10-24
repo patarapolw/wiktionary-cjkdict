@@ -1,0 +1,39 @@
+{
+  "title": "捨",
+  "ns": 0,
+  "id": 16270,
+  "timestamp": 1553312801000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|舍}}\n{{character info/new}}\n{{character info|0x2F8BB}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=手08}}\n\n# to [[discard]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しゃ\n|kun=す-てる\n|nanori=いえ, えだ, すて\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[喜捨]]\n* [[四捨五入]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

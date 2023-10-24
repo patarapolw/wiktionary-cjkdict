@@ -1,0 +1,70 @@
+{
+  "title": "梭",
+  "ns": 0,
+  "id": 17665,
+  "timestamp": 1553553050000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木07}}\n\n# {{defn|lang=ja|sort=木07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=さ\n|kun=ひ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ひ|yomi=k}}\nKun'yomi.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひ}}\n\n# {{lb|ja|weaving|sort=ひ}} [[shuttle]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Related terms",
+                      "text": "* {{ja-r|筬|おさ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Alternative forms",
+                      "text": "* {{l|ja|杼}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|さ|yomi=o}}\nOn'yomi.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さ}}\n\n# {{lb|ja|weaving|sort=さ}} [[shuttle]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

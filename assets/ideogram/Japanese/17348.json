@@ -1,0 +1,61 @@
+{
+  "title": "板",
+  "ns": 0,
+  "id": 17348,
+  "timestamp": 1546261891000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|闆|反}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=木04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へん\n|kanon=はん\n|kanyoon=ばん\n|kun=いた-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|板木|はんぎ}}\n* {{ja-r|板木|ばんぎ}}\n* {{ja-r|板書|ばんしょ}}\n* {{ja-r|指板|しばん|[[fingerboard]]}}\n* {{ja-r|黒板|こくばん|[[blackboard]]}}\n* {{ja-r|白板|はくばん|[[whiteboard]]}}\n* {{ja-r|平板型|へいばん-がた}}\n* {{ja-r|平板式|へいばんしき}}\n* {{ja-r|鉄板|てっぱん|[[griddle]]}}\n* {{ja-r|鉄板焼き|てっぱんやき}}\n* {{ja-r|三板|サンパン}}, {{ja-r|舢板|サンパン|[[sampan]]}}\n{{der-bottom}}\n\n{{wp|lang=ja}}\n{{ja-kanjitab|いた|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|いた|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いた}}\n\n# [[plank]], [[board]]\n# {{lb|ja|cooking|sort=いた}} {{short for|俎板|lang=ja}}\n# {{lb|ja|cooking|sort=いた}} {{short for|板前|lang=ja}}\n# {{lb|ja|cooking|sort=いた}} {{short for|板場|lang=ja}}\n# {{lb|ja|internet}} [[board]] {{gloss|sub-unit of a larger [[BBS]] or [[imageboard]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|板%垣|いた%がき}}\n* {{ja-r|板%材|いた%ざい}}\n* {{ja-r|板の間|いたのま}}\n* {{ja-r|板%場|いた%ば}}\n* {{ja-r|板%挟み|いた%ばさみ}}\n* {{ja-r|板%碑|いた%び}}\n* {{ja-r|板%塀|いた%べい}}\n* {{ja-r|板%前|いた%まえ}}\n* {{ja-r|板%目|いた%め}}\n* {{ja-r|押%板|おし%いた|[[shoin]] style [[tokonoma]]}}\n* {{ja-r|俎%板|まな%いた}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|2channel slang}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

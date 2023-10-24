@@ -1,0 +1,54 @@
+{
+  "title": "鄙",
+  "ns": 0,
+  "id": 29025,
+  "timestamp": 1552876250000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=邑11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひ\n|kanon=ひ\n|kun=ひな-, ひな-ぶ, ひな-びる, さげす-む, いや-し.い, かたな-む, とひと\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{sense|countrified}} {{l|ja|辺鄙}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|とひと}}\nOriginally a compound of {{compound|ja|sort=とひと|外|tr1=to|t1=outside|人|tr2=hito|t2=person}}. The kanji used is an example of [[熟字訓|jukujikun]]."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|とひと}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とひと}}\n\n# {{lb|ja|sort=とひと|archaic|pejorative}} a [[countrified]] or [[rustic]] person: a [[hick]], a [[bumpkin]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "title": "後",
+  "ns": 0,
+  "id": 15268,
+  "timestamp": 1552875940000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|后}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=彳06}}\n\n# [[behind]], [[after]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=こう\n|kanyoon=ご\n|kun=あと-, うし-ろ, おく-れ, おく-れる, しり-, しり-え, のち-, ゆり-\n|nanori=こし, し, しい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|後戯|こうぎ}}: [[afterplay]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|あと}}\n\nOriginally an extension of {{m|ja|跡|tr=ato||footprint; leftover}}, itself a compound of {{compound|ja|sort=あと|足|tr1=a|t1=foot|所|tr2=to|t2=place}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あと|acc=1|acc_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あと}}\n\n# {{qualifier|spatially}} the [[back]], the [[rear]], [[behind]]\n# {{qualifier|temporally}} [[later]], [[afterwards]], some [[time]] [[after]] the [[present]]\n#: {{ja-usex|'''後'''で[[連絡]]します。|'''あと''' で れんらく します。|I'll contact you '''later'''.}}\n# the [[rest]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|うしろ}}\n\nProbably from {{inh|ja|ojp|sort=うしろ}}.  Usage examples appear in texts from at least the 900s.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>  Ultimate derivation {{unk|ja|sort=うしろ|nocap=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|うしろ|acc=0|acc_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|後ろ}} {{qualifier|more common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うしろ}}\n\n# the [[back]], the [[rear]] {{qualifier|both spatially and temporally}}\n# one's [[backside]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|おくれ}}\n\nThe {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|遅れる|tr=okureru||to be late; to be delayed; to come after something else}}.  Examples appear from at least the 1300s.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|おくれ|acc=0|acc_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|後れ}}, {{ja-l|遅れ}} {{qualifier|more common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おくれ}}\n\n# something [[later]], [[after]], or [[behind]]\n# [[inferiority]]\n# [[uncertainty]], [[nervousness]], [[indecision]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|しり}}\n\nFrom {{inh|ja|ojp|sort=しり}}.  Ultimate derivation {{unk|ja|sort=しり|nocap=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|しり|acc=2|acc_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|尻}} {{qualifier|much more common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しり}}\n\n# {{alternative spelling of|lang=ja|sort=しり|尻}}: [[behind]], [[tail]], [[rump]], [[butt]], [[posterior]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=k|しりえ}}\n\nFrom {{inh|ja|ojp|sort=しりえ}}.  Compound of {{compound|ja|sort=しりえ|尻|tr1=shiri|t1=butt, tail, rear|方|tr2=e|t2=side, facing, way, direction}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|しりえ|acc=3|acc_ref=DJR|acc2=0|acc2_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|後方}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しりえ}}\n\n# the [[rear]], [[back]], or [[backside]] of something\n# the [[rearward]] or [[backward]] [[direction]]\n# the portion of a [[palace]] where a [[queen]] or other [[female]] [[imperial]] [[consort]] lives"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|yomi=k|のち}}\n\nFrom {{inh|ja|ojp|sort=のち}}.  Ultimate derivation {{unk|ja|sort=のち|nocap=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|のち|acc=2|acc_ref=DJR,SMK5|acc2=0|acc2_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のち}}\n\n# [[later]], [[afterwards]], some [[time]] [[after]] the [[present]]\n#: {{ja-usex|[[晴れ]]'''のち'''[[雨]]|はれ '''のち''' あめ|rains after sunshine}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 7",
+              "text": "{{ja-kanjitab|yomi=k|ゆり}}\n\nFrom {{inh|ja|ojp|sort=ゆり}}.  Ultimate derivation {{unk|ja|sort=ゆり|nocap=1}}.  May be cognate with {{m|ja|より|tr=yori||from; after}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ゆり}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ゆり}}\n\n# {{lb|ja|sort=ゆり|obsolete}} [[later]], [[afterwards]], some [[time]] [[after]] the [[present]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 8",
+              "text": "{{ja-kanjitab|yomi=o|ご}}\n\nFrom {{bor|ja|ltc|-|sort=こう}} {{m|zh|後|tr=ɦəuX, ɦəuH||after}}.  Classified as the ''[[唐音#Japanese|tōon]]'' or \"Tang sound\", so likely borrowed from the dialects spoken during the {{w|Tang dynasty}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=toon|ご|acc=0|acc_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ご}}\n\n# [[later]], [[afterwards]], some [[time]] [[after]] the [[present]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|ご}}\n\n# [[after]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 9",
+              "text": "{{ja-kanjitab|yomi=o|こう}}\nFrom {{bor|ja|ltc|-|sort=こう}} {{m|zh|後|tr=ɦəuX||after}}.  Classified as the ''[[漢音#Japanese|kan'on]]'', so likely a later borrowing.  Compare modern {{cog|cmn|-}} reading ''hòu''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|こう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|こう}}\n\n# {{n-g|prefixing element in kanji compounds, adding a meaning of}} [[later]], [[after]], [[following]], [[rearward]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Only used in compounds.  Never used in isolation."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|あと]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

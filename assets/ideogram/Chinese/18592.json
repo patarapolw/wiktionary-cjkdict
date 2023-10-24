@@ -1,0 +1,54 @@
+{
+  "title": "氮",
+  "ns": 0,
+  "id": 18592,
+  "timestamp": 1534342599000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{elements|N|碳|C|氧|O|lang=zh}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|气|淡|ls=psc|ls2=ic|c1=s|c2=p|t1=gas|t2=dilute|abb2=y|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|淡|dilute}} in {{zh-l|淡氣}} {{defdate|19th c.}}, referring to nitrogen diluting oxygen in the air."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dàn\n|ma=zh-dan4.ogg\n|c=daam6\n|h=pfs=tham\n|md=dâng\n|mn=tām\n|w=3de\n|mc=\n|oc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[nitrogen]]<!-- unicode.org, jisho.org, and weblio.jp are all wrong, this is nitrogen, *not* xenon. -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{q|rare|chiefly Taiwanese Min Nan}} {{zh-l|窒素}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|氮肥|氮氣|液氮|固氮菌|固氮作用|氮循環|氮化法|氮化物|氮環|氮血症|氮平衡}}\n\n{{zh-cat|Chemical elements}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

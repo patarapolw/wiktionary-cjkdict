@@ -1,0 +1,117 @@
+{
+  "title": "咽",
+  "ns": 0,
+  "id": 12309,
+  "timestamp": 1548510264000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|嚥}}\n{{character info/new}}\n{{character info/new|0xf99e}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口06}}\n\n# [[throat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えち, えん\n|kanon=えつ, えん\n|kanyoon=いん\n|kun=のど-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|嗚%咽|お%えつ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いん|yomi=kanyoon}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いん|y=kanyoon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いん}}\n\n# [[throat]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|咽%喉|いん%こう}}\n* {{ja-r|咽%頭|いん%とう}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|えつ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えつ|-}} {{ltc-l|咽|id=3}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えつ|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えつ}}\n\n# [[choked]]; [[smothered]]: {{only used in|嗚咽||[[sobbing]] ''(n.)'', to [[sob]] ''(v.)''|lang=ja|tr=oetsu}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|えん|yomi=on}}\nFrom {{der|ja|ltc|sort=えん|-}} {{zh-l|*咽}} / {{ltc-l|嚥}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えん|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えん}}\n\n# {{alternative form of|嚥|lang=ja|tr=en|t=[[swallow]]; [[gulp down]]}}: {{only used in|咽下||[[swallowing]] ''(n.)'', to [[swallow]] ''(v.)''|lang=ja|tr=enka, enge}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|のど|yomi=k}}\n{{ja-see|のど}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|のんど|yomi=k}}\n{{ja-see|のんど}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|のみど|yomi=k}}\n{{ja-see|のみど}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 7",
+              "text": "{{ja-kanjitab|のみと|yomi=k}}\n{{ja-see|のみと}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "舌",
+  "ns": 0,
+  "id": 24632,
+  "timestamp": 1544241251000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|吉|告|吿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=舌00}}\n\n# [[tongue]]\n# [[reed]] of a [[woodwind]] {{qualifier|[[musical]] [[instrument]]}}\n# [[clapper]] of a [[bell]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぜち, ぜつ\n|kanon=ぜつ\n|kun=した-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|舌炎|ぜつえん}}: [[glossitis]]\n* {{ja-r|舌音|ぜつおん}}\n* {{ja-r|舌下|ぜっか}}\n* {{ja-r|舌禍|ぜっか}}\n* {{ja-r|舌根|ぜっこん}}\n* {{ja-r|舌先|したさき}}\n* {{ja-r|舌戦|ぜっせん}}\n* {{ja-r|舌尖|ぜっせん}}\n* {{ja-r|舌苔|ぜったい}}\n* {{ja-r|舌端|ぜったん}}\n{{der-bottom}}\n\n{{ja-kanjitab|した|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|した|acc=2|dev=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|した}}\n\n# [[tongue]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|べろ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

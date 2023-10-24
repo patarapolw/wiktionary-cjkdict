@@ -1,0 +1,49 @@
+{
+  "title": "閙",
+  "ns": 0,
+  "id": 30426,
+  "timestamp": 1535000990000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鬧|闹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* <font size=3, lang=zh>{{l|mul|⿵[[門]][[巿]]}}</font> (with <font size=5, lang=zh>{{l|mul|巿}}</font> - 4 strokes instead of <font size=5, lang=zh>{{l|mul|市}}</font> - 5 strokes) - As found in <font size=4>{{l|mul|𩦔}}</font> (<code>U+29994</code>), not to be confused with <font size=4>{{l|mul|𩦴}}</font> (<code>U+299B4</code>) which contains <font size=5, lang=zh>{{l|mul|市}}</font> instead.\n* Note that the {{w|Ming (typefaces)|Ming typeface}} used in Japan and Korea as well as the {{w|Kangxi dictionary}} uses a vertical dot for the upper component of <font size=5, lang=ja>[[亠#Translingual|亠]]</font> which is slightly different from modern Chinese scripts which uses a slanting {{l|mul|丶}} dot for the upper component of <font size=5, lang=zh>[[亠#Translingual|亠]]</font> in <font size=5, lang=zh>{{l|mul|市}}</font>."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=169|rad=門|as=05|sn=13|four=77227|canj=ANYLB|ids=⿵門市}} <!-- Note: ⿵門巿 is incorrect and is not used in Japan or Korea. 亠 and 巾 is separated not combined together. If you zoom into the Unicode charts at 500% the serif hook is visible at the top right corner of 巾. -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𠿷]]([[𭈥]]), [[𢷃]]([[𫽔]]), [[𣿸]], [[𤐛]]([[𬊢]]), [[𫆺]], [[𮬔]]}}\n* <font size=4>{{l|mul|𩦴}}</font> (<code>U+299B4</code>, contains <font size=4, lang=zh>{{l|mul|⿵[[門]][[市]]}}</font>) and <font size=4>{{l|mul|𩦔}}</font> (<code>U+29994</code>, contains <font size=5, lang=zh>{{l|mul|⿵[[門]][[巿]]}}</font>)"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[鬧]]}} ''(Orthodox {{w|Traditional Chinese characters|traditional form}})''\n* {{l|mul|[[闹]]}} ''({{w|Simplified Chinese}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1333.130|dkj=41264|dj=1839.140|hdz=74293.050|uh=9599}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

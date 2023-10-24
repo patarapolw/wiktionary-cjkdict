@@ -1,0 +1,39 @@
+{
+  "title": "竈",
+  "ns": 0,
+  "id": 22611,
+  "timestamp": 1544180806000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|竃|灶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|竃|竈}}\n{{wp|lang=ja|竈}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=穴16|shin=竃}}\n\n# {{kyujitai spelling of|竈}} ''{{gloss|[[hearth]]; [[kitchen]] [[stove]]}}''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう\n|kanon=そう\n|kun=かまど-, かま-, くど-, へつい-, へっつい-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "{{l|ja|竃}} (U+7AC3) which is an {{w|extended shinjitai}} character that was added to {{w|JIS X 0208}} in 1990, is the preferred form for this character."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

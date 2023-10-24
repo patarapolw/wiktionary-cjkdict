@@ -1,0 +1,49 @@
+{
+  "title": "瞳",
+  "ns": 0,
+  "id": 21792,
+  "timestamp": 1545545471000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=目12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ずう\n|kanon=とう\n|kanyoon=どう\n|kun=ひとみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|瞳孔|どうこう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひとみ}}\n\n# {{lb|ja|anatomy|sort=ひとみ}} [[pupil]]\n#: {{ja-usex|'''瞳'''に映る景色|'''ひとみ''' に うつる けしき|the scene reflected in one's '''eyes'''}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ひとみ}}\n\n# {{given name|female|lang=ja|sort=ひとみ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

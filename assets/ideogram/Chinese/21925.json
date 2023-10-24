@@ -1,0 +1,42 @@
+{
+  "title": "砷",
+  "ns": 0,
+  "id": 21925,
+  "timestamp": 1552111560000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shēn\n|c=san1\n|mn=ml:sin\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemical element}} [[arsenic]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|砷黃鐵礦|三氧化二砷|氧化砷|三硫化二砷|三氯化砷|三氟化砷|五氧化二砷|砷酸|五氯化砷|砷化氫}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

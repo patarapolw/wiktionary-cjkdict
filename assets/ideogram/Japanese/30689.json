@@ -1,0 +1,66 @@
+{
+  "title": "陸",
+  "ns": 0,
+  "id": 30689,
+  "timestamp": 1549289621000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|陆|六}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=阜08}}\n\n# [[land]]\n# [[six]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろく\n|kanon=りく\n|kun=おか-<をか-, くが-\n|nanori=たち, みち, む, むつ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|six}} {{l|ja|六}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=4E26\n|ku=4606\n|shift=97A4\n|euc=CEA6\n|freq=736\n|nelson=5005\n|newnelson=6461\n|halpern=543\n|kld=399\n|heisig=1513\n|tuttle=2d8.4t\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjectival noun",
+              "text": "{{ja-adj|ろく|decl=na}}\n\n# [[satisfactory]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|陸|ろく|roku}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おか}}\n\n# [[land]]; [[shore]]"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ろく}}\n\n# {{lb|ja|legal|sort=ろく}} the number [[six]], [[6]] (used in legal documents only, otherwise [[六]])\n# being satisfactory\n\n[[Category:Japanese numeral symbols|6]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

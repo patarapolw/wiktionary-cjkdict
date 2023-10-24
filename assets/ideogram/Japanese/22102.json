@@ -1,0 +1,39 @@
+{
+  "title": "磨",
+  "ns": 0,
+  "id": 22102,
+  "timestamp": 1549544891000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|磿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=石11}}\n\n# to [[polish]]\n# to [[grind]]\n# to [[brush]] ([[teeth]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ま\n|kanon=ば\n|kun=みが-く, と-ぐ\n|nanori=おさむ, きよ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|研磨|けんま}}\n* {{ja-r|磨滅|まめつ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

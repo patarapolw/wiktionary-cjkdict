@@ -1,0 +1,61 @@
+{
+  "title": "也",
+  "ns": 0,
+  "id": 10467,
+  "timestamp": 1549590465000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|せ|ㄝ}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=乙02}}\n\n# [[to]] [[be]]\n# [[also]]\n# [[too]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=や, え\n|kanon=や\n|kun=なり-, また-\n}}\n\nAs an alternative form of {{m|ja|迆}}:\n{{ja-readings\n|goon=い\n|kanon=い\n|kun=これ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|なり|yomi=k}}\nFrom classical Japanese {{m|ja|なり|tr=nari}}, a contraction of {{m|ja|に|tr=ni}} and {{m|ja|あり|tr=ari}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|なり|y=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{ja-verb|なり}}\n\n# {{n-g|The classical Japanese copula “[[to be]]”, equivalent to modern Japanese {{m|ja|である|tr=de aru}} or {{m|ja|だ|tr=da}}.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der2|lang=ja|title=Terms derived from {{ja-r|也|なり}}:\n|{{ja-r|可也|かなり}}: [[considerably]]; [[quite]]\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The kanji form is usually used to denote a sum of money, e.g. {{m|ja|[[二]][[千]][[円]][[也]]|tr=nisen en nari}}. <!-- also in the Nyaruko OP \"Koi wa KAOSU no Shimobe nari\" -->"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

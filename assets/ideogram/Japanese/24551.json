@@ -1,0 +1,39 @@
+{
+  "title": "臂",
+  "ns": 0,
+  "id": 24551,
+  "timestamp": 1527048880000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉13}}\n\n# {{defn|lang=ja|sort=肉13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひ\n|kanon=ひ\n|kun=ひじ-}}\n\n{{ja-kanjitab|ひじ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひじ|hhira=ひぢ}}\n\n# {{alternative spelling of|肘|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

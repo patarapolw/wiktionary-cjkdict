@@ -1,0 +1,93 @@
+{
+  "title": "闇",
+  "ns": 0,
+  "id": 30473,
+  "timestamp": 1547066820000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|暗|𬮴}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=門09}}\n\n# [[dark]], [[darkness]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん<おん<おむ\n|kanon=あん<あん<あむ\n|kun=やみ-, くら-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|闇夜|あんや}}: a [[dark]] [[night]], a night with no [[moon]]; a [[dark]] and [[depressing]] [[outlook]]\n* {{ja-r|闇%夜|やみ%よ}}: a [[dark]] [[night]], a night with no [[moon]]\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Added to the jōyō kanji list on 30 November 2010; previously classified as jinmeiyō kanji."
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-l|暗}} (Tōyō character written in place of this character)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|やみ|yomi=k}}\nFrom {{etyl|ojp|ja|sort=やみ}}. Ultimate roots uncertain. May be cognate with {{m|ja|病む|tr=yamu||to be ill}}, {{m|ja|止む|tr=yamu||to stop, to quit}}, {{m|ja|黄泉|tr=yomi||land of the dead}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|やみ|acc=2|acc_ref=NHK,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|やみ}}\n\n# the [[dark]], [[darkness]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=on|あん}}\nFrom {{etyl|ltc|ja|sort=あん}} {{m|ja|闇|tr=ʔəm||dark}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|あん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|暗}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あん}}\n\n# [[darkness]], the [[dark]]\n# a [[dark]] [[place]]\n# {{lb|ja|sort=あん|Buddhism}} [[darkness]], as a [[metaphor]] for [[worldly]] [[desire]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Non-Tōyō characters replaced by Tōyō characters|門09]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

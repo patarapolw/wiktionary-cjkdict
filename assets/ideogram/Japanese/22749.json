@@ -1,0 +1,85 @@
+{
+  "title": "筒",
+  "ns": 0,
+  "id": 22749,
+  "timestamp": 1551039852000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=竹06}}\n\n# Cylinder\n#Pipe\n#Tube\n#Gun barrel\n#Sleeve",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ずう\n|kanon=とう\n|kun=つつ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|気筒|きとう}}: [[cylinder]] (part of an engine)\n* {{ja-r|喞筒|そくとう}}: [[pump]] {{gloss|device for moving liquid or gas}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|つつ|yomi=k}}\nFrom {{etyl|ojp|ja}} ''tutu'', from {{etyl|jpx-pro|ja}} {{m|jpx-pro|*tútú}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つつ|acc=2|dev=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つつ}}\n\n# [[tube]]\n# [[hub]] {{gloss|central part of a wheel}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|どう|yomi=irr}}\nFrom {{m|ja|胴|tr=dō}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|どう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|どう}}\n\n# [[hub]] {{gloss|central part of a wheel}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|central part of a wheel}} {{ja-r|ハブ}}, {{ja-r|轂|こしき}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

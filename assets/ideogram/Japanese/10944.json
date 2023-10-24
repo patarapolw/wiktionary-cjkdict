@@ -1,0 +1,46 @@
+{
+  "title": "俘",
+  "ns": 0,
+  "id": 10944,
+  "timestamp": 1522822053000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=ふ\n|kanon=ふ\n|kun=とりこ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とりこ}}\n\n# [[prisoner]], [[captive]]\n# [[slave]] to one's emotions",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|虜}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

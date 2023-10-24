@@ -1,0 +1,90 @@
+{
+  "title": "莪",
+  "ns": 0,
+  "id": 25067,
+  "timestamp": 1544352658000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|䕏}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸07}}\n\n# {{lb|ja|botany}} {{n-g|name of two different [[plant]]s in the [[Asteraceae]] family}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=が\n|kun=きつねあざみ,つのよもぎ\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|が|yomi=on}}\n\nFrom {{bor|ja|ltc|sort=が|-}} {{ltc-l|莪|{{taxlink|Incarvillea sinensis|species}}}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|が}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der2|lang=ja\n|{{ja-r|莪蒿|がこう}}: {{lb|ja|botany}} {{w|Incarvillea sinensis}}\n|{{ja-r|著莪|しゃが}}: {{lb|ja|botany}} {{w|Iris japonica}}\n|{{ja-r|姫著莪|ひめしゃが}}: {{lb|ja|botany}} {{w|ja:ヒメシャガ|Iris gracilipes}}\n|{{ja-r|菁莪|せいが}}: to [[raise]] [[prodigy|prodigies]]; to [[nurture]] [[talent]]ed [[people]]\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{wp|lang=ja|キツネアザミ}}\n{{ja-kanjitab|きつねあざみ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|菻}}, {{ja-l|狐薊}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|きつねあざみ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きつねあざみ}}\n\n# {{lb|ja|botany}} {{n-g|type of [[thistle]]}} ''({{taxlink|Hemisteptia lyrata|species}})''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|つのよもぎ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つのよもぎ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つのよもぎ}}\n\n# {{lb|ja|botany}} {{n-g|name of [[plant]] in the [[Artemisia]] genus}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

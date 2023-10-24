@@ -1,0 +1,39 @@
+{
+  "title": "袱",
+  "ns": 0,
+  "id": 26518,
+  "timestamp": 1495667272000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fú\n|c=fuk6\n|mn=ho̍k\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|卸包袱|包袱|包袱底兒|放包袱|戲包袱|袱駝|鏡袱|遞包袱}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

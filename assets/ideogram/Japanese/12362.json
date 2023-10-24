@@ -1,0 +1,39 @@
+{
+  "title": "哲",
+  "ns": 0,
+  "id": 12362,
+  "timestamp": 1543870547000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口07}}\n\n# [[philosophy]]\n# [[clear]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=てち\n|kanon=てつ\n|kun=あき-らか, さと-い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|さとし|てつ}}\n\n# {{given name|male|lang=ja|sort=さとし}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

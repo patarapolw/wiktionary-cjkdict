@@ -1,0 +1,47 @@
+{
+  "title": "湍",
+  "ns": 0,
+  "id": 19202,
+  "timestamp": 1553556512000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=漙}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tuān\n|c=teon1,tyun1,zyun2,cyun2\n|mn=chhoan/thoan\n|mn-t=zuêng1/zuang1\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|急湍|湍急|湍瀨|涌湍|湍水|湍流|飛湍|驚湍}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

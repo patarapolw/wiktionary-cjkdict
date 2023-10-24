@@ -1,0 +1,52 @@
+{
+  "title": "羖",
+  "ns": 0,
+  "id": 23963,
+  "timestamp": 1551844714000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{zh-ref|Schuessler (2007)}} suggests that it is probably cognate with {{och-l|羯|[[wether]]}}, in which case it would be of {{der|zh|sit}} origin. {{zh-ref|Wang (1982)}} instead relates this word to {{och-l|牯|male bovine}} and {{och-l|豭|boar}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=gǔ\n|c=gu2\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[black]] [[ram]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|五羖大夫}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B03535}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

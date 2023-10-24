@@ -1,0 +1,39 @@
+{
+  "title": "淃",
+  "ns": 0,
+  "id": 19063,
+  "timestamp": 1553555046000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=juàn\n|c=gyun6\n|mc=y\n|oc=y\n|ma=\n|cat=n,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-used in|淃漣}}\n# {{n-g|The [[name]] of a [[river]].}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:yue:Jyutping Database}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

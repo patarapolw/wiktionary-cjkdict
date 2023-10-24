@@ -1,0 +1,44 @@
+{
+  "title": "鋨",
+  "ns": 0,
+  "id": 29564,
+  "timestamp": 1510163723000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|锇}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=金07}}\n\n# {{nonstandard form of|[[鐵]] ([[鉄]])|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=てつ\n|kun=くろがね-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Cited in the Dai Kan-Wa Jiten and [[w:Zihui|Zihui]] as an erroneous form ({{m|ja|譌字}}) of {{m|ja|鐵}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:DKJ|鋨}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

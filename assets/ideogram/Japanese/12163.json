@@ -1,0 +1,39 @@
+{
+  "title": "吹",
+  "ns": 0,
+  "id": 12163,
+  "timestamp": 1538183084000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|欥}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口04}}\n\n# To blow (such as an instrument)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=すい\n|kanon=すい\n|kun=ふ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|吹禅|すいぜん}}: \"blowing meditation\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

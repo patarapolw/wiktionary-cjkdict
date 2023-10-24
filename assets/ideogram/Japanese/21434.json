@@ -1,0 +1,66 @@
+{
+  "title": "癪",
+  "ns": 0,
+  "id": 21434,
+  "timestamp": 1544118135000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=疒16}}\n\n# {{defn|lang=ja|sort=疒16}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|kanyoon=[[しゃく]] (shaku)|kun=[[さしこみ]] (sashikomi)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|癇%癪|かん%しゃく}}\n* {{ja-r|気%癪|き%じゃく}}\n* {{ja-r|小%癪|こ%しゃく}}\n* {{ja-r|癪に障る|しゃく に さわる}}\n* {{ja-r|癪の種|しゃく の たね}}\n* {{ja-r|癪の虫|しゃく の むし}}\n* {{ja-r|癪%持ち|しゃく%もち}}\n* {{ja-r|癪を言う|しゃく を いう}}\n* {{ja-r|癪%気|しゃっ%き}}, {{ja-r|癪%気|しゃっ%け}}\n* {{ja-r|疝%癪|せん%しゃく}}\n{{der-bottom}}\n\n{{ja-kanjitab|しゃく|yomi=kanyoon}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|しゃく|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Adjectival noun",
+              "text": "{{ja-adj|infl=na|しゃく}}\n\n# annoying",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|しゃく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しゃく}}\n\n# cramps\n# annoyance"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese-only CJKV Characters|疒+16]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

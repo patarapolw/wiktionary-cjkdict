@@ -1,0 +1,138 @@
+{
+  "title": "野",
+  "ns": 0,
+  "id": 29210,
+  "timestamp": 1549453489000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|埜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=里04}}\n\n# [[field]], [[plain]]\n# [[natural]], [[pristine]]\n# [[rough]]\n# [[bare]], [[open]]\n# [[extant]], [[scope]], [[sphere]]\n# [[civil]], [[non-governmental]]\n# [[baseball]] [[ground]]\n# {{w|Shimotsuke Province}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょ<じよ, や\n|kanon=しょ<しよ, や\n|kun=ぬ-, の-\n|nanori=とお<とほ, なお<なほ, ひろ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|野%外|や%がい|[[outdoor]]}}\n* {{ja-r|野狐|やこ|[[wild]] [[fox]]}}\n* {{ja-r|野%蛮|や%ばん|[[savage]]}}\n* {{ja-r|野%党|や%とう|[[opposition]] [[party]]}}\n* {{ja-r|原%野|げん%や}}\n* {{ja-r|平%野|へい%や|[[plain]]}}\n* {{ja-r|野老|トコロ}}\n* {{ja-r|野木瓜|ムベ}}\n* {{ja-r|野羊|ヤギ}}\n* {{ja-r|上野|^こうずけ}}\n* {{ja-r|下野|^しもつけ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|の|yomi=k}}\n* {{ja-l|埜}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{IPAfont|⟨no<sub>1</sub>⟩}} → {{IPAchar|/nʷo/}} → {{IPAchar|/no/}}\n\nFrom {{inh|ja|ojp|sort=の|-}}.\n\nAppears to be distinct from {{m|ja|の|tr={{IPAfont|/no<sub>2</sub>/}} → no|pos=possessive/case-marker particle}} and {{m|ja|篦|tr={{IPAfont|/no<sub>2</sub>/}} → no||[[arrow]] [[shaft]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|の|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|の}}\n\n# an [[area]], [[field]]\n#: {{syn|ja|野原|tr=nohara|野っ原|tr2=noppara|野良|tr3=nora}}\n# the [[hidden]] [[part]] of a [[structure]]\n#: {{ant|ja|化粧|tr=keshō}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|野宿|のじゅく}}\n* {{ja-r|野%点|の%だて}}\n* {{ja-r|野良|のら}}\n* {{ja-r|上%野|^うえ%の}}\n* {{ja-r|上%毛野|^かみつ%けの}}\n* {{ja-r|上%毛野|^しもつ%けの}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|の}}\n\n# [[wild]]\n#: {{ja-usex|'''野'''兎|'''の'''うさぎ|'''wild''' rabbit|sort=の}}\n# [[rustic]], [[unsophisticated]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|野%苺|ノ%イチゴ}}\n* {{ja-r|野%兎|の%うさぎ}}\n* {{ja-r|野%鼠|の%ねずみ}}\n* {{ja-r|野薔薇|のばら}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|野に置く|の に おく}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Proverbs",
+                      "text": "* {{ja-r|野 暮れ 山 暮れ|の くれ やま くれ}}\n* {{ja-r|野に伏し山に伏す|の に ふし やま に ふす}}\n* {{ja-r|後は野となれ山となれ|あと は の と なれ やま と なれ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ぬ|yomi=k}}\n{{IPAfont|*/nʷə/}} → {{IPAchar|/nu/}}\n\nThe Eastern {{inh|ja|ojp|-}} pronunciation, attested in poems of the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぬ}}\n\n# {{lb|ja|regional|obsolete|sort=ぬ}} ''Same with'' {{ja-l||の|no}} ''above''\n#* {{RQ:Manyoshu|20|4387}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4387 here]\n#*: {{ja-usex|m=知波乃'''奴'''乃 古乃弖加之波能 保々麻例等 阿夜尓加奈之美 於枳弖他加枳奴|m_kana=ちばの'''ぬ'''の このてかしはの ほほまれど あやにかなしみ おきてたがきぬ|千葉の'''野'''の児手%柏のほほまれどあやに愛しみ置きて誰が来ぬ|ちば の '''ぬ''' の このて%がしは の ほほまれど あや に かなしみ おきて た が きぬ|rom=chiba no '''nu''' no konote-gashiwa no hohomaredo aya ni kanashimi okite ta ga kinu}}\n# {{lb|ja|historical}} {{misspelling of|lang=ja||野|tr=no|nodot=1}}'', from the view of an {{w|Edo period|Edo-period}} scholar of the'' {{w|Man'yōshū}} ''and other'' [[waka]] ''poetry''",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|上%毛野|^かみつ%けぬ}}\n* {{ja-r|上%毛野|^しもつ%けぬ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|や|yomi=o}}\n\nFrom {{der|ja|ltc|sort=や|-}} {{ltc-l|野|id=2}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|や}}\n\n# an [[area]], [[field]]\n#: {{syn|ja|野原|tr=nohara|野っ原|tr2=noppara|野良|tr3=nora}}\n# a [[private]] or [[civil]] [[matter]]\n#: {{syn|ja|民間|tr=minkan}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|野に遺賢%無し|や に いけん% なし}}\n* {{ja-r|野に下る|や に くだる}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Adjectival noun",
+                  "text": "{{ja-adj|infl=nari|や}}\n\n# {{lb|ja|archaic}} [[rustic]], [[unsophisticated]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

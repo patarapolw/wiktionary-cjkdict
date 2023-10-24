@@ -1,0 +1,73 @@
+{
+  "title": "跛",
+  "ns": 0,
+  "id": 27955,
+  "timestamp": 1522700072000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=足05}}\n\n# {{defn|lang=ja|sort=足05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=は, ひ\n|kanon=は, ひ\n|kun=ちんば-, びっこ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ちんば|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|ちんば|yomi=k|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|infl=na|ちんば}}\n\n# {{lb|ja|likely|_|offensive}} [[crippled]]; unable to walk properly"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ちんば}}\n\n# {{lb|ja|likely|_|offensive}} [[cripple]]; someone who is unable to walk properly"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|びっこ|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|びっこ|yomi=k|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|びっこ}}\n\n# {{lb|ja|likely|_|offensive}} [[cripple]]; someone who is unable to walk properly"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

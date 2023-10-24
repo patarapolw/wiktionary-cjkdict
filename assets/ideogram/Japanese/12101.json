@@ -1,0 +1,68 @@
+{
+  "title": "合",
+  "ns": 0,
+  "id": 12101,
+  "timestamp": 1554058238000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|🈴|閤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=口03}}\n\n# [[fit]]\n# [[suit]]\n# [[join]]\n# one [[tenth]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごう<がふ\n|kanon=こう<こふ\n|kanyoon=かっ, がっ\n|kun=あ-う<あ-ふ, あ-わせる<あ-はせる, あ-わす<あ-はす\n|nanori=かい, はる, よし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|合憎|あいにく|gloss=[[unfortunately]]}}\n* {{ja-r|連合|れんごう|gloss=[[union]], [[alliance]], [[combination]]}}\n* {{ja-r|総合|そうごう|gloss=synthesis, consolidation}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ごう|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|ごう|hhira=がふ|counter}}\n\n# covered [[container]]s\n# [[battle]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ごう|hhira=がふ}}\n\n# 0.18039 [[liter]]s, equaling ten [[shaku]]s or a tenth of a [[shō]]\n# a tenth of the distance from the base to the summit of a mountain",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|升|ます}}\n* {{ja-r|勺|しゃく}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|あ|o1=い|yomi=k}}\n{{ja-see|あい}}\n\n[[Category:ja:Units of measure|こう']]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

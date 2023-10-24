@@ -1,0 +1,49 @@
+{
+  "title": "台",
+  "ns": 0,
+  "id": 12077,
+  "timestamp": 1552571537000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|臺|檯|颱|枱}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|台|臺}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=口02|kyu=臺}}\n \n# [[pedestal]]\n# [[a]] [[stand]]\n# [[counter]] [[for]] [[machines]] [[and]] [[vehicles]]\n# [[Taiwan]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "As shinjitai kanji of {{ja-l|臺}}:\n{{ja-readings\n|goon=だい\n|kanon=たい\n|kun=うてな-, しもべ-, つかさ-, よろこぶ-, われ-\n|nanori=だい, もと\n}}\nAs shinjitai/variant kanji of {{ja-l|颱}}:\n{{ja-readings\n|goon=たい\n|kanon=たい\n}}\nAs unsimplified kanji {{ja-l|台}}:\n{{ja-readings\n|goon=い\n|kanon=い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|仙台|せんだい}}\n* {{ja-r|台所|だいどころ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|だい|counter}}\n \n# machines, especially [[vehicles]] or [[computer]]s"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|だい|suffix}}\n \n# [[table]]s, [[bed]]s\n# [[level]], especially of price\n# [[period]] of time in a person's life"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

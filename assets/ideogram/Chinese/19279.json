@@ -1,0 +1,63 @@
+{
+  "title": "溚",
+  "ns": 0,
+  "id": 19279,
+  "timestamp": 1553556589000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "; tar\n: From {{bor|zh|en|tar}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=dá\n|cat=\n}}\n{{attention|yue|needs to be assigned to Pronunciation: dap6}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[wet]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=Tà\n|cat=pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# name of an ancient river"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=tǎ,dá\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|loanword}} [[tar]] {{gloss|substance}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

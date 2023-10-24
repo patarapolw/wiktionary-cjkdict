@@ -1,0 +1,39 @@
+{
+  "title": "翫",
+  "ns": 0,
+  "id": 24066,
+  "timestamp": 1525654492000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=羽09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=がん\n|kun=もてあそ-ぶ\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|いとう|proper}}\n\n# {{surname|lang=ja|sort=いとう}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

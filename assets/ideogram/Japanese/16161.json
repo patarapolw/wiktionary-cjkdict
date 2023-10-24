@@ -1,0 +1,39 @@
+{
+  "title": "持",
+  "ns": 0,
+  "id": 16161,
+  "timestamp": 1537362201000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=手06}}\n\n# [[hold]], [[have]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ<ぢ\n|kanon=ち\n|kun=も-つ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|持つ|もつ}}\n* {{ja-r|持ち|もち}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

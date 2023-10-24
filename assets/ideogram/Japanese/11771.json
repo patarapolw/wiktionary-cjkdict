@@ -1,0 +1,44 @@
+{
+  "title": "勉",
+  "ns": 0,
+  "id": 11771,
+  "timestamp": 1553325164000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA33}}\n{{character info|0x2F826}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|k=y}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=力07}}\n\n# {{rfdef|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=めん\n|kanon=べん\n|kun=つと-める, はげ-ます, やつ, ひこ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|勉学|べんがく}}: study\n* {{ja-r|勉強|べんきょう}}: study, studies\n* {{ja-r|勉励|べんれい}}: effort, striving"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|つとむ}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|つとむ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

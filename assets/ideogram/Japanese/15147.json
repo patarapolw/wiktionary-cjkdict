@@ -1,0 +1,81 @@
+{
+  "title": "引",
+  "ns": 0,
+  "id": 15147,
+  "timestamp": 1548471882000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=弓01}}\n\n# [[pull]]\n# [[tug]]\n# [[admit]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いん\n|kanon=いん\n|kun=ひ-く, ひ-ける\n|nanori=のぶ, ひき, ひさ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|割引|わりびき}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{l|ja|押||push}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|引く|ひく}}\n* {{ja-r|引っ掻く|ひっかく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いん|yomi=on}}\nFrom {{der|ja|ltc|sort=いん|-}} {{ltc-l|引}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|いん|acc=1|acc_ref=DJR|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いん}}\n\n# the [[preface]] to a [[book]]; [[introduction]]; [[foreword]]"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|いん}}\n\n# [[pull]]; [[draw out]]; [[stretch]]\n# [[lead]]; [[induce]]\n# [[bear]]; [[undertake]]; [[accept]]\n# [[quote]]; [[reference]]\n# [[leave]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|引見|いんけん}}\n* {{ja-r|引水|いんすい}}\n* {{ja-r|引責|いんせき}}\n* {{ja-r|引導|いんどう}}\n* {{ja-r|引退|いんたい}}\n* {{ja-r|引用|いんよう}}\n* {{ja-r|引力|いんりょく}}\n* {{ja-r|延引|えんいん}}\n* {{ja-r|我田%引水|がでん%いんすい}}\n* {{ja-r|吸引|きゅういん}}\n* {{ja-r|牽引|けんいん}}\n* {{ja-r|拘引|こういん}}\n* {{ja-r|勾引|こういん}}\n* {{ja-r|強引|ごういん}}\n* {{ja-r|索引|さくいん}}\n* {{ja-r|承引|しょういん}}\n* {{ja-r|導引|どういん}}\n* {{ja-r|誘引|ゆういん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "彎",
+  "ns": 0,
+  "id": 15206,
+  "timestamp": 1553549299000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|弯}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|弯|彎}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=弓19|shin=弯}}\n\n# [[bend]], [[curve]]\n# [[stretching]] a [[bow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん<ゑん\n|kanon=わん\n|kun=ひ-く, ひきまかな-う\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|わん|yomi=on}}\nFrom {{etyl|ltc|ja|sort=わん}} {{m|ltc|彎|tr=*quan}}. Compare modern {{etyl|cmn|-}} {{zh-l|彎|tr=wān}}.\n\nNote that this character is replaced in modern Japanese by the simplified character {{m|ja|湾|tr=wan}}, rather than the simplified Chinese character {{m|zh|弯|tr=wān||bend, curve}}. The Japanese simplified version means {{m|en|bay}} or {{m|en|inlet}} when used on its own, but now also includes the {{m|en|bend}}, {{m|en|curve}} meanings when used in compounds.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|acc=1|わん}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|わん|shin=弯}}\n\n# a [[bend]], a [[curve]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-l|彎月}}, {{ja-l|湾月|わんげつ|wangetsu}}: a [[crescent]] [[moon]]\n* {{ja-l|彎曲}}, {{ja-l|湾曲|わんきょく|wankyoku}}: a [[bend]], a [[curve]]\n* {{ja-l|彎屈}}, {{ja-l|湾屈|わんくつ|wankutsu}}: [[bending]] over, [[stooping]]\n* {{ja-l|彎珠|わんじゅ|wanju}}: alternate name for {{m|ja|袴葛|tr=hakamakazura}}, a kind of {{vern|orchid tree}}: {{taxlink|Bauhinia japonica|species|noshow=1}}\n* {{ja-l|彎入}}, {{ja-l|湾入|わんにゅう|wannyū}}: an [[inlet]] or [[bay]] along a [[coast]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

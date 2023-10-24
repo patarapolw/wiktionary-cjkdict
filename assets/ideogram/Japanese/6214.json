@@ -1,0 +1,76 @@
+{
+  "title": "秋",
+  "ns": 0,
+  "id": 6214,
+  "timestamp": 1553572426000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|秌|鞦}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=禾04}}\n\n# [[autumn]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ<しゆ\n|kanon=しゅう<しう\n|kun=あき-, とき-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|秋収|しゅうしゅう}}\n* {{ja-r|秋風|しゅうふう}}\n* {{ja-r|秋分|しゅうぶん}}\n* {{ja-r|一日 三秋|いちじつ さんしゅう}}\n* {{ja-r|春秋|しゅんじゅう}}\n* {{ja-r|春夏秋冬|しゅんかしゅうとう}}\n* {{ja-r|初秋|しょしゅう}}: beginning of autumn\n* {{ja-r|晩秋|ばんしゅう}}: ending of autumn\n* {{ja-r|涼秋|りょうしゅう}}\n* {{ja-r|秋風|あきかぜ}}\n* {{ja-r|春夏秋冬|はるなつあきふゆ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja}}\n{{wp|Autumn}}\n</div>\n{{ja-kanjitab|あき|yomi=k}}\n{{IPAfont|⟨aki<sub>1</sub>⟩}} → *{{IPAchar|/akʲi/}} → {{IPAchar|/aki/}}\n\nFrom {{inh|ja|ojp|sort=あき|-}}.\n\nLikely cognate with {{m|ja|明き|tr=aki||[[bright]]}}, {{m|ja|赤|tr=aka||[[red]]}}, {{m|ja|飽きる|tr=akiru||to become [[full]] up|pos=possibly in reference to the harvest}}, {{m|ja|空く|tr=aku||to become [[empty]]}}, {{m|ja|開く|tr=aku||to [[open]] up}}. However, the exact relationship of these terms remains unclear."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|あき|acc=1|acc_ref=DJR}}\n* (''[[w:Kansai dialect|Kyoto]]'') あ{{overline|き}} [àkíꜜ]<ref>{{R:Keihankei}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あき}}\n\n# [[autumn]], [[fall]] {{gloss|season}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|秋季|しゅうき}}\n* {{ja-r|秋期|しゅうき}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|秋山|あきやま}}: a mountain in autumn\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|紅葉|こうよう}}: [[autumn]] [[color]]s, [[red]] [[leaf|leaves]]\n{{table:seasons/ja}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|あき]]\n[[Category:ja:Calendar terms|あき]]\n[[Category:ja:Seasons|あき]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

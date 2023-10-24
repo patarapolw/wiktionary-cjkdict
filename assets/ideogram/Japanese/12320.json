@@ -1,0 +1,39 @@
+{
+  "title": "哈",
+  "ns": 0,
+  "id": 12320,
+  "timestamp": 1550126468000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口06}}\n\n# {{defn|lang=ja|sort=口06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か,こう<こふ,ごう<ごふ,しょう<せふ,とう<とふ\n|kanon=か,こう<かふ,ごう<がふ,そう<さふ,とう<たふ\n|toon=は\n|kun=く-う,すす-る,の-む\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:DKJ|哈}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

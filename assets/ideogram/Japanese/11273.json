@@ -1,0 +1,44 @@
+{
+  "title": "僧",
+  "ns": 0,
+  "id": 11273,
+  "timestamp": 1553325781000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA31}}\n{{character info|0x2F80A}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人12|kyu=僧}}\n\n# [[Buddhist]] [[priest]]\n# [[monk]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう\n|kanon=そう\n|kun=ぼうず\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der4|lang=ja\n|{{ja-r|僧衣|そうい}}\n|{{ja-r|僧院|そういん}}\n|{{ja-r|僧正|そうじょう}}\n|{{ja-r|僧都|そうず}}\n|{{ja-r|僧俗|そうぞく}}\n|{{ja-r|僧服|そうふく}}\n|{{ja-r|僧兵|そうへい}}\n|{{ja-r|僧坊|そうぼう|rom=-}}, {{ja-r|僧房|そうぼう}}\n|{{ja-r|僧門|そうもん}}\n|{{ja-r|僧侶|そうりょ}}\n|{{ja-r|僧庵|そうあん}}\n|{{ja-r|僧位|そうい}}\n|{{ja-r|僧伽|そうぎゃ}}\n|{{ja-r|僧家|そうか}}\n|{{ja-r|僧形|そうぎょう}}\n|{{ja-r|僧綱|そうごう}}\n|{{ja-r|僧号|そうごう}}\n|{{ja-r|僧寺|そうじ}}\n|{{ja-r|僧職|そうしょく}}\n|{{ja-r|僧籍|そうせき}}\n|{{ja-r|僧堂|そうどう}}\n|{{ja-r|僧尼|そうに}}\n|{{ja-r|僧帽弁|そうぼうべん}}\n|{{ja-r|学僧|がくそう}}\n|{{ja-r|小僧|こぞう}}\n|{{ja-r|高僧|こうそう}}\n|{{ja-r|禅僧|ぜんそう}}\n|{{ja-r|尼僧|にそう}}\n|{{ja-r|仏法僧|ぶっぽうそう}}\n|{{ja-r|売%僧|まい%す}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|そう}}\n\n# a (Buddhist) [[priest]], [[bonze]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

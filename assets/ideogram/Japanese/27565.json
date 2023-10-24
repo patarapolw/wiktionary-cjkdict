@@ -1,0 +1,39 @@
+{
+  "title": "貓",
+  "ns": 0,
+  "id": 27565,
+  "timestamp": 1552790317000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|猫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=豸08}} <!-- Not listed as kyūjitai form of 猫 in 2010 Jōyō Kanji -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=びょう\n|kun=ねこ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|count=匹|ねこ|ネコ}}\n\n# {{alt-form|lang=ja|猫|gloss=[[cat]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

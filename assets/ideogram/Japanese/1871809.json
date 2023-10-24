@@ -1,0 +1,61 @@
+{
+  "title": "爼",
+  "ns": 0,
+  "id": 1871809,
+  "timestamp": 1552939516000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=爻05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょ\n|kanon=そ\n|kun=まないた-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|まないた|yomi=k}}\nCompound of {{compound|ja|真魚|tr1=mana|t1=fish|板|tr2=ita|t2=board}}."
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ja|爼板}}\n* {{l|ja|真魚板}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まないた}}\n\n# a board used to cut fish in meal preparation\n#* {{RQ:Wamyō Ruijushō|6|33}}\n#*: 俎 史記云、人爲刀俎、我爲魚肉、俎音阻、'''末奈以太'''\n# more generally, a board used to cut food; a cutting board\n#* {{RQ:Nippo Jisho|382}}\n#*: '''Manaita'''. マナイタ (俎板・末那板) 料理の時その上で切ったり刻んだりする板.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|切盤|きりばん}}\n* {{ja-r|菜板|さいばん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Nippo Jisho}}\n* {{R:Wamyō Ruijushō}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

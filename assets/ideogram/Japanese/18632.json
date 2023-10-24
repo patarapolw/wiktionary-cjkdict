@@ -1,0 +1,44 @@
+{
+  "title": "汙",
+  "ns": 0,
+  "id": 18632,
+  "timestamp": 1553554359000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|汚|污}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水03}}\n\n# [[filthy]], [[dirty]], [[impure]], [[polluted]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=お<を\n|kanyoon=わ\n|kun=きたな-い, けが-す, けが-れる, とごす, けが-らわし.い, よご-す, よご-れる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Used in one poem of the ''Man'yōshū'' as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨u⟩}}, possibly parsed as *{{IPAchar|/wu/}}:\n* {{RQ:Manyoshu|5|837}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#837 here]\n*: {{ja-usex|m=波流能努尓 奈久夜'''汙'''隅比須 奈都氣牟得 和何弊能曽能尓 '''汙'''米何波奈佐久　<sub>(笇師 志%氏 大道)</sub>|m_kana=はるののに なくや'''う'''ぐひす なつけむと わがへのそのに '''う'''めがはなさく　<sub>(さんし し%きの おほみち)</sub>|春の野に鳴くや鶯なつけむと我が家の園に梅が花%咲く|はる の の に なく や うぐひす なつけむ と わが へ の その に うめ が はな%-さく|rom=haru no no ni naku ya '''u'''guisu natsukemu to waga e no sono ni '''u'''me ga hana-saku (Sanshi Shiki no Ōmichi)|The warbler singing in the unplowed springtime fields―that it be content to live close at hand the plum blooms in my arbor now. (Master of Computation Shiki no Ōmichi)<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|series=Volume 1 of A Waka Anthology|edition=illustrated, reprint|publisher=Stanford University Press|isbn=0804731578|page=546}}</ref>|sort=う}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

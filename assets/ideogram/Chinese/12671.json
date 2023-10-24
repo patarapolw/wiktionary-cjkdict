@@ -1,0 +1,71 @@
+{
+  "title": "嘐",
+  "ns": 0,
+  "id": 12671,
+  "timestamp": 1543638322000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{attention|och|Old Chinese needs to be distributed}}\n{{attention|hak|'lau'?}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xiāo\n|c=haau1\n|mc=2\n|oc=\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|嘐嘐}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jiāo\n|c=gaau1\n|mc=1\n|oc=\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

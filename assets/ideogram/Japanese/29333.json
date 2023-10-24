@@ -1,0 +1,46 @@
+{
+  "title": "鉈",
+  "ns": 0,
+  "id": 29333,
+  "timestamp": 1549599084000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|铊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金05}}\n\n# {{defn|lang=ja|sort=金05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃ, せ\n|kanon=しゃ, し\n|kun=なた-, ほこ-\n|nanori=}}\n{{ja-kanjitab|なた|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なた}}\n\n# [[hatchet]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|薙刀|なぎなた}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

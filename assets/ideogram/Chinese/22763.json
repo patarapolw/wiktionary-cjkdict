@@ -1,0 +1,63 @@
+{
+  "title": "筠",
+  "ns": 0,
+  "id": 22763,
+  "timestamp": 1531943289000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=yún\n|c=wan4\n|mc=y\n|oc=y\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{zh-hanzi}}\n\n# smooth hard skin of bamboo",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|松筠之節|松筠之操}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=Jūn\n|c=wan4\n|mc=y\n|oc=y\n|cat=pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{zh-proper noun}}\n\n# Jun prefecture"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|筠連}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

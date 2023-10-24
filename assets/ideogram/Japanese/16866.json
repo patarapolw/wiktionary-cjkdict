@@ -1,0 +1,138 @@
+{
+  "title": "方",
+  "ns": 0,
+  "id": 16866,
+  "timestamp": 1552875951000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|万}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=方00}}\n\n# [[direction]]\n# [[person]]\n# [[alternative]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほう<はう\n|kanon=ほう<はう\n|kun=かた-, まさ-に, ならべる, くらべる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* {{ja-r|方正|ほうせい}}\n* {{ja-r|方響|ほうきょう}}: hōkyō, an instrument similar to the Chinese [[w:fangxiang|fangxiang]]\n* {{ja-r|方形|ほうけい}}\n* {{ja-r|方磬|ほうけい}}: hōkyō, an instrument similar to the Chinese [[w:fangxiang|fangxiang]]\n* {{ja-r|方式|ほうしき}}\n* {{ja-r|方術|ほうじゅつ}}\n* {{ja-r|方法|ほうほう}}: [[way]], [[method]], [[manner]]\n* {{ja-r|方面|ほうめん}}\n* {{ja-r|方針|ほうしん}}\n* {{ja-r|夕%方|ゆう%がた}}\n* {{ja-r|味%方|み%かた}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ほう|yomi=o}}\nFrom {{etyl|ltc|ja|sort=ほう}} {{m|zh|方|tr=pjang}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|ほう|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほう|hhira=はう}}\n\n# [[direction]], [[way]], [[side]]\n#: {{ja-usex|[[鬼]]さん[[こちら]]、[[手]]の[[鳴る]]'''方'''へ|おに-さん こちら、て の なる '''ほう''' へ|hey, \"it\", over here, to (the '''direction''' of) the clapping of the hands {{q|phrase said in [[鬼ごっこ#Japanese|tag]]}}}}\n# [[moreso]] ''(preceded by ''～の'', often followed by ''～が'')''\n#: {{ja-usex|この時計の'''方'''がそのより高いです。|この とけい の '''ほう''' が その より たかい です。|This watch is '''more''' expensive than that [one].}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かた|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かた|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かた}}\n\n# {{lb|ja|polite}} [[person]]\n#: {{ja-usex|あの'''方'''。|あの '''かた'''。|That '''person'''. (polite)}}\n#: {{ja-usex|あの'''方'''はどなたですか。|あの '''かた''' は どなた です か。|Who is that '''gentleman'''? (formal)}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{qualifier|plain}} {{ja-r|人|ひと}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|かた|suffix}}\n\n# [[way]], [[method]] (of doing)\n#: {{ja-usex|書き'''方'''|かき'''かた'''|'''way of''' writing something; '''how to''' write something}}\n#: {{ja-usex|使い'''方'''|つかい'''かた'''|'''way of''' using something; '''how to''' use something}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|道|みち}}\n* {{ja-r|法|ほう}}\n* {{ja-r|方法|ほうほう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "pe > ɸe > we > e.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|え|suffix|hhira=へ}}\n\n# a suffix expressing location, direction, or time",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|古|いにしえ}}\n* {{ja-r|行%方|ゆく%え}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|さま|yomi=irr}}\n\nFrom {{etyl|ojp|ja|sort=さま}}. Originally a compound of {{compound|ja|sort=さま|さ|tr1=sa|t1=that|pos1=pronominal indicating a person, place, thing, or direction in the middle distance|ま|tr2=ma|t2=likeness, way, similarity|pos2=suffix indicating a quality}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|さま|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|様}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さま}}\n\n# a person's [[appearance]] {{qualifier|as of body, or style, or face, etc.}}\n# the [[state]] or [[situation]] of a thing\n# the general [[trend]], [[tenor]], or [[feel]] of a thing\n# one's [[social]] [[station]], [[status]], or [[quality]]\n# the [[way]] or [[means]] of doing something, [[how]] one does something\n# the [[reason]] or [[circumstances]] for something"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

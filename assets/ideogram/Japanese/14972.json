@@ -1,0 +1,59 @@
+{
+  "title": "幹",
+  "ns": 0,
+  "id": 14972,
+  "timestamp": 1552875922000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|干|榦}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=十11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かん\n|kanon=かん\n|kun=みき-, から-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|幹細胞|かんさいぼう}}: [[stem cell]]\n* {{ja-r|新幹線|しんかんせん}}: [[bullet train]]\n* {{ja-r|脳幹|のうかん}}: [[brain stem]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n[[Image:Yellow birch trunk.jpg|thumb|250px|{{lang|ja|幹}} (''miki''): a tree '''[[trunk]]'''.]]\n</div>\n{{ja-kanjitab|みき|yomi=k}}\nOriginally a compound of {{compound|ja|sort=みき|身|tr1=mi|t1=body|木|tr2=ki|t2=tree}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|みき|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|みき}}\n\n# the [[trunk]] or [[core]] of something:\n## a tree [[trunk]]\n## a plant [[stalk]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "儺",
+  "ns": 0,
+  "id": 11365,
+  "timestamp": 1541292550000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|傩}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人19}}\n\n# {{defn|lang=ja|sort=人19}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=な\n|kanon=だ\n|kun=おにやらい-}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|追儺|ついな}}, {{ja-r|追儺|なやらい}}\n* {{ja-r|儺火|なび}}\n* {{ja-r|儺豆|なまめ}}\n* {{ja-r|追儺ふ|なやらふ|rom=nayarau}}\n{{der-bottom}}\n\n{{ja-kanjitab|な|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=な}} {{m|zh|儺|tr=na}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|な}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|な}}\n\n# [[driving away]] the [[god]]s of [[disease]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

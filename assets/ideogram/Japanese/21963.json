@@ -1,0 +1,39 @@
+{
+  "title": "硝",
+  "ns": 0,
+  "id": 21963,
+  "timestamp": 1551102612000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=石07}}\n\n# [[saltpeter]], [[niter]], the mineral form of [[potassium nitrate]] (KNO<sub>3</sub>).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<せう\n|kanon=しょう<せう\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|硝子|ガラス}}, {{ja-r|硝子|しょうし}}: [[glass]]\n* {{ja-r|硝安|しょうあん}}: [[ammonium nitrate]]\n* {{ja-r|硝酸|しょうさん}}: [[nitric acid]]\n* {{ja-r|硝石|しょうせき}}: [[saltpetre]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

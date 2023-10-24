@@ -1,0 +1,97 @@
+{
+  "title": "䩉",
+  "ns": 0,
+  "id": 2059695,
+  "timestamp": 1495708055000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=面07}}\n\n# [[cheek]], [[cheekbone]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "# {{ja-readings|goon=[[ぶ]] (bu)|kanon=[[ふ]] (fu)|kanyoon=[[ほ]] (ho)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Cognate with {{m|ja|框|tr=kamachi||frame}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{IPA|[kamatɕi]|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|輔}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かまち}}\n\n# the upper and lower jaw bones and cheek bones\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}\n#*: 鬚髻 上栗喩反 頤毛也 倭云'''加末智'''乃比偈 又花蘂之本也 髻髪也",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{l|ja|䩉}} (kabachi)\n* {{l|ja|輔}} (tsuragamachi)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "/kamati/ → /kabati/. Medial -m- looses nasality and becomes a plosive. Cognate with {{m|ja|䩉|tr=kamachi}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{IPA|[kabatɕi]|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|輔}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かばち}}\n\n# the upper and lower jaw bones and cheek bones",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{l|ja|輔}} (tsurakabachi)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Nara Ibun 3}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

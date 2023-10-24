@@ -1,0 +1,73 @@
+{
+  "title": "元",
+  "ns": 0,
+  "id": 11373,
+  "timestamp": 1551715391000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|兀|示|亓}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=儿02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=げん\n|toon=がん\n|kun=もと-, こうべ-\n|nanori=はじめ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3-u|lang=ja\n|{{ja-r|元気|げんき}}\n|{{ja-r|元凶|げんきょう}}\n|{{ja-r|元金|がんきん}}\n|{{ja-r|元号|げんごう}}\n|{{ja-r|元日|がんじつ}}\n|{{ja-r|元首|げんしゅ}}, {{ja-r|元%首|もと%くび}}\n|{{ja-r|元帥|げんすい}}\n|{{ja-r|元%祖|がん%そ}}\n|{{ja-r|元素|げんそ}}\n|{{ja-r|元旦|がんたん}}\n|{{ja-r|元朝|がんちょう}}, {{ja-r|元朝|げんちょう}}\n|{{ja-r|元服|げんぷく}}\n|{{ja-r|元本|がんぽん}}\n|{{ja-r|元来|がんらい}}\n|{{ja-r|元悪|げんあく}}\n|{{ja-r|元%価|げん%か}}\n|{{ja-r|元兇|げんきょう}}\n|{{ja-r|元勲|げんくん}}\n|{{ja-r|元軍|げんぐん}}\n|{{ja-r|元元|もともと}}, {{ja-r|元々|もともと}}\n|{{ja-r|元高|もとだか}}\n|{{ja-r|元三|^もとみ}}\n|{{ja-r|元始|げんし}}\n|{{ja-r|元%手|もと%で}}\n|{{ja-r|元鞘|もとさや}}\n|{{ja-r|元職|げんしょく}}\n|{{ja-r|元栓|もとせん}}\n|{{ja-r|元%値|もと%ね}}\n|{{ja-r|元%帳|もと%ちょう}}\n|{{ja-r|元%締|もと%じ}}\n|{{ja-r|元%入%金|もと%にゅう%きん}}\n|{{ja-r|元年|がんねん}}\n|{{ja-r|元標|げんぴょう}}\n|{{ja-r|元方|もとかた}}\n|{{ja-r|元利|がんり}}\n|{{ja-r|元老|げんろう}}\n|{{ja-r|元禄|げんろく}}\n|{{ja-r|元寇|げんこう}}\n|{{ja-r|お手%元|おて%もと}}, {{ja-r|御手%元|おて%もと}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|もと|yomi=k}}\nFrom {{inh|ja|jpx-pro|*mətə}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|もと}}\n\n# [[cause]], [[origin]]\n# [[basis]], [[foundation]]\n# [[cost]]\n#: {{ja-usex|元がとれる|もと が とれる|to be able to cover the cost}}\n# {{lb|ja|finance|sort=もと}} [[capital]]\n# [[principal]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|本}}, {{l|ja|原}}, {{l|ja|基}}, {{l|ja|素}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{l|ja|もとに}}\n* {{l|ja|元は}}\n* {{l|ja|元より}}\n{{der-mid}}\n* {{l|ja|元売り}}\n* {{l|ja|元結い}}\n* {{l|ja|元通り}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "From {{ja-r|始め|はじめ|beginning}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|はじめ|proper}}\n\n# {{given name|male|lang=ja|sort=はじめ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

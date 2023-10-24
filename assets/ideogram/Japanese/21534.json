@@ -1,0 +1,56 @@
+{
+  "title": "盌",
+  "ns": 0,
+  "id": 21534,
+  "timestamp": 1541517379000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=皿05}}\n\n# [[bowl]]\n# [[basin]]\n# [[cup]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=わん\n|kanon=わん\n|kun=こばち-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|ja|Irregular reading: もい}}\n{{ja-kanjitab|もい|yomi=irr}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=irr|もい}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|もい|hhira=もひ}}\n\n# [[bowl]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|水|もい|gloss=[[drinking water]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "title": "島",
+  "ns": 0,
+  "id": 14553,
+  "timestamp": 1548902497000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|岛|嶋|嶌|嶹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=山07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=とう\n|kanon=とう\n|kun=しま-\n|nanori=しま\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|群%島|ぐん%とう}}\n* {{ja-r|島%影|しま%かげ}}\n* {{ja-r|島%嶼|とう%しょ}}\n* {{ja-r|列%島|れっ%とう}}\n* {{ja-r|宝%島|たから%じま}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しま|yomi=k}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|しま|acc=o|acc_ref=NHK|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しま}}\n\n# an [[island]]\n\n{{topics|ja|Landforms|sort=しま}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しま}}\n\n# {{surname|lang=ja|sort=しま}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|とう|yomi=o}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|とう}}\n\n# [[island]] {{qual|in place names}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "袖",
+  "ns": 0,
+  "id": 26491,
+  "timestamp": 1552876196000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|褎}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=衣05}}\n\n# [[sleeve]]\n# [[arm]], [[wing]]\n# [[backstage]], [[offstage]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゅ<じゆ\n|kanon=しゅう<しう\n|kun=そで-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|羅袖|らしゅう}}: [[lightweight]]-[[fabric]] [[sleeve]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|そで}}\n{{IPAfont|⟨so<sub>2</sub> te⟩}} → {{IPAchar|/sode/}}\n\nFrom {{inh|ja|ojp|sort=そて|-}}.\n\nOriginally a compound of {{compound|ja|衣|tr1=so|t1=robe; clothing|手|tr2=te|t2=hand; arm}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> {{rendaku2|sort=そで|te|de}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|そで|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|そで}}\n\n# a [[sleeve]], an [[arm]] {{gloss|of an article of [[clothing]]}}\n#* ''c.'' '''1226''', ''{{w|Kin'yō Wakashū}}'' (book 8, poem 469; also ''{{w|Ggura Hyakunin Isshu|Hyakunin Isshu}}'', poem 72)\n#*: {{ja-usex|[[音に聞く|音にきく]][[高い|たかし]]の[[浜]]の[[徒波|あだ波]]はかけじや'''袖'''の[[濡れる|ぬれ]]も[[こそ]]すれ|おと に きく ^たかし-の-はま の あだなみ は かけじ や '''そで''' の ぬれ も こそ すれ|rom=oto ni kiku {{l|ja|高師の浜|Takashi-no-hama}} no adanami wa kakeji ya '''sode''' no nure mo koso sure|Known far and wide, the unpredictable waves of Takashi's beach―I will not let them catch me―for I'd be sorry should my '''sleeves''' get wet!<ref>{{cite-book|1996|Joshua S. Mostow|Pictures of the Heart: The Hyakunin Isshu in Word and Image|edition=illustrated|publisher=University of Hawaii Press|isbn=0-8248-1705-2|page=354}}</ref>|sort=そで}}\n# a [[wing]] of a [[building]]\n# {{lb|ja|theater|sort=そで}} a [[wing]] of a [[stage]]\n# the portion of a [[desk]] that extends to either side of one's [[lap]], and that usually contains [[drawer]]s or [[shelf|shelves]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|袖%裏|そで%うら|[[sleeve]] [[lining]]}}\n* {{ja-r|袖%口|そで%ぐち|[[sleeve]] [[cuff]]}}\n* {{ja-r|袖%丈|そで%たけ|[[sleeve]] [[length]]}}\n* {{ja-r|袖%付け|そで%つけ|[[sleeve]] [[attachment]]|pos=the place where a [[sleeve]] [[attach]]es, \"[[armhole]]\"}}\n* {{ja-r|小%袖|こ%そで}}: a smaller [[robe]] similar to a [[kimono]]\n* {{ja-r|振り袖|ふりそで|[[long]]-[[sleeve]]d [[kimono]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|そで}}\n\n# {{given name|lang=ja|female|A=a|sort=そで}}\n# {{surname|lang=ja|A=a|sort=そで}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|そで]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

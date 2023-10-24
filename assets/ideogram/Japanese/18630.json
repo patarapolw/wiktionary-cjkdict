@@ -1,0 +1,56 @@
+{
+  "title": "汗",
+  "ns": 0,
+  "id": 18630,
+  "timestamp": 1553554174000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水03}}\n\n# [[sweat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がん\n|kanon=かん\n|kun=あせ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あせ}}\n\n# [[sweat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あせ|acc=1|acc_ref=SMK2}}\n** (''[[w:Kansai dialect|Kyoto]]'') あ{{overline|せ}} [àséꜜ]<ref>{{R:Keihankei}}</ref>"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|汗をかく|あせ を かく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|あせ]]\n[[Category:ja:Bodily fluids|あせ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

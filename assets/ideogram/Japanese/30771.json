@@ -1,0 +1,59 @@
+{
+  "title": "雉",
+  "ns": 0,
+  "id": 30771,
+  "timestamp": 1553570518000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=隹05}}\n\n# [[green]] [[pheasant]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ<ぢ\n|kanon=ち\n|kun=きじ-, かき\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{swp|キジ|lang=ja}}\n{{ja-kanjitab|きじ|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|雉子}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|きじ|acc=0|acc_ref=NHK,DJR|y=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|きじ|キジ}}\n\n# a {{w|green pheasant}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|sort=きじ}}\n{{C|ja|Fowls|sort=きじ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

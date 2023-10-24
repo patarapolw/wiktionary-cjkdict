@@ -1,0 +1,56 @@
+{
+  "title": "骭",
+  "ns": 0,
+  "id": 31834,
+  "timestamp": 1512269784000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=骨03}}\n\n# {{defn|lang=ja|sort=骨03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[こん]] (kon)|kanon=[[かん]] (kan)|kun=[[はぎ]] (hagi), [[すね]] (sune), [[わき]] (waki)}}\n\n{{ja-kanjitab|かん|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|かん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かん}}\n\n# [[shin]], [[shinbone]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|衣は骭に至り袖腕に至る|ころも は かん に いたり そで わん に いたる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

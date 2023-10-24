@@ -1,0 +1,54 @@
+{
+  "title": "区",
+  "ns": 0,
+  "id": 11883,
+  "timestamp": 1535918776000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|區|凶|𠄡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|区|區}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=匸02|kyu=區}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く, う\n|kanon=く, おう\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|声区|せいく}}: [[vocal]] [[register]]\n\n{{ja-kanjitab|く|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|く|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|kyu=區|く}}\n\n# [[ward]], [[section]], [[district]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

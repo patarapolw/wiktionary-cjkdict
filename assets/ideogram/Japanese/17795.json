@@ -1,0 +1,39 @@
+{
+  "title": "椰",
+  "ns": 0,
+  "id": 17795,
+  "timestamp": 1548553574000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=木09}}\n\n# [[palm tree]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=や\n|kanon=や\n|kun=やし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|椰%子|ヤ%シ|[[palm tree]]}}\n* {{ja-r|花%椰%菜|ハナ%ヤ%サイ|[[cauliflower]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

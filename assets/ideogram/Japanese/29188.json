@@ -1,0 +1,39 @@
+{
+  "title": "醸",
+  "ns": 0,
+  "id": 29188,
+  "timestamp": 1507161152000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|釀|酿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|醸|釀}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=酉13|kyu=釀}}\n\n# {{defn|lang=ja|sort=酉13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にょう\n|kanon=じょう\n|kun=かも-す\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|醸成|じょうせい}}: {{l|en|brew}}, {{l|en|ferment}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

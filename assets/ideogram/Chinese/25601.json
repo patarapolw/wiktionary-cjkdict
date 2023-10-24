@@ -1,0 +1,37 @@
+{
+  "title": "薍",
+  "ns": 0,
+  "id": 25601,
+  "timestamp": 1525799918000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𦯠}} <!-- 𦯠 is a historical variant found in 龍龕手鑑 -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=luàn,wàn\n|c=lyun6,waan6\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

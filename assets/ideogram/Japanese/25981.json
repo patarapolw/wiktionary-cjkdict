@@ -1,0 +1,59 @@
+{
+  "title": "蛾",
+  "ns": 0,
+  "id": 25981,
+  "timestamp": 1538062560000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=虫07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=が, ぎ\n|kanon=が, ぎ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{swp|lang=ja|ガ}}\n{{ja-kanjitab|が|yomi=o}}\nFrom {{der|ja|sort=か'|ltc|蛾|tr=nga}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=o|が|acc=0|acc_ref=DJR,SMK5}}\n* {{hmp|lang=ja|我|sort=か'}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|が|ガ}}\n\n# a [[moth]] {{gl|insect similar to a butterfly}}"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|蝙蝠%蛾|コウモリ%ガ|[[swift moth]]}}\n* {{ja-r|蝶|チョウ}}\n* {{ja-r|毛%虫|ケ%ムシ}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|sort=か'}}\n{{topics|ja|Moths|sort=か'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

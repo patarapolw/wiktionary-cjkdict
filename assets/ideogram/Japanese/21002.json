@@ -1,0 +1,63 @@
+{
+  "title": "瓣",
+  "ns": 0,
+  "id": 21002,
+  "timestamp": 1548421328000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|弁|瓣}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=瓜14|shin=弁}}\n\n# [[flower petal]]\n# [[valve]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|goon=[[べん]] (ben)|kanon=[[はん]] (han)|kun=[[はなびら]] (hanabira)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[安全瓣]] (あんぜんべん)\n* [[花瓣]]\n* [[豆瓣醤]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|べん|shin=弁}}\n\n# {{lb|ja|anatomy}} [[valve]] {{gloss|membranous partition, flap, or fold, which allows flow in only one direction, e.g. a [[heart valve]]}}\n# valve {{gloss|device that controls the flow of a fluid through a pipe}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|valve: in anatomy}} {{ja-r|瓣膜|べんまく}} / {{ja-r|弁膜|べんまく}}\n* {{sense|valve: device}} {{ja-r|バルブ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|counter|べん|shin=弁}}\n\n# [[flower petal]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "In Japanese {{w|shinjitai}}, 瓣, [[辨]], and [[辯]] have all been simplified to one character, [[弁]]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

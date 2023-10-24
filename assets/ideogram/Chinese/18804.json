@@ -1,0 +1,42 @@
+{
+  "title": "泫",
+  "ns": 0,
+  "id": 18804,
+  "timestamp": 1553554514000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{zh-ref|Schuessler (2007)}} minimally reconstructs the {{cog|och|-}} as ''*wînʔ'' and suggests a derivation from {{inh|zh|sit-pro|*lwi(j)||flow; stream}}, just like {{och-l|水|tr=lhuiʔ}} (minimally reconstructed); early liquids ''*l-'' or ''*r-'' often disappeared before glides ''*j-'' or ''*w-'' in {{cog|ltc|-}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xuàn\n|c=jyun5\n|mc=y\n|oc=y\n|ma=\n|cat=v,a,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|of droplets of water}} to [[flow]]; to [[trickle]]\n# {{†}} to [[cry]]; to [[shed]] [[tear]]s\n# {{†}} {{lb|zh|of dew}} [[glimmer]]ing; [[glisten]]ing\n# {{†}} [[dew]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|泫然欲泣|泫泫|潸泫|泫然|泫沄}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

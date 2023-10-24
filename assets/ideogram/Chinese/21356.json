@@ -1,0 +1,44 @@
+{
+  "title": "瘟",
+  "ns": 0,
+  "id": 21356,
+  "timestamp": 1515459561000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfaa5}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wēn\n|c=wan1\n|mn=un\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|五瘟使|天瘟|抱草瘟|春瘟|牛瘟|瘟疫|瘟病|瘟神|瘟神爺|稻瘟病|該死行瘟|豬瘟|送瘟神|遭瘟|雞瘟|鴨瘟}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

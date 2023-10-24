@@ -1,0 +1,39 @@
+{
+  "title": "墛",
+  "ns": 0,
+  "id": 13361,
+  "timestamp": 1550910996000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{vi-readings|nom=ủi|rs=土11}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=589b&img=1 Nôm Lookup Tool], Vietnamese Nom Preservation Foundation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

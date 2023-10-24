@@ -1,0 +1,54 @@
+{
+  "title": "毒",
+  "ns": 0,
+  "id": 18500,
+  "timestamp": 1549870154000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=毋04}}\n\n# {{defn|lang=ja|sort=毋04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どく, だい\n|kanon=とく, たい\n|kun=そこ-なう, わる-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|丹毒|たんどく}}\n* {{ja-r|中毒|ちゅうどく}}\n* {{ja-r|毒蛇|どくじゃ}}, {{ja-r|毒蛇|どくへび}}: [[venomous]] [[snake]]\n* {{ja-r|消毒|しょうどく}}\n* {{ja-r|毒物|どくぶつ}}\n{{der-bottom}}\n\n{{ja-kanjitab|どく|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|どく|acc=2|acc_ref=DJR,NHK}}\n* {{homophone|lang=ja|退く}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|どく}}\n\n# [[poison]], [[toxin]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

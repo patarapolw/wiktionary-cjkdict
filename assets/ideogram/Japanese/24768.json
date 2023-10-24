@@ -1,0 +1,49 @@
+{
+  "title": "芒",
+  "ns": 0,
+  "id": 24768,
+  "timestamp": 1543452515000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸03}}\n\n# {{lb|ja|botany}} [[awn]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もう<まう\n|kanon=ぼう<ばう\n|on=こう<くわう\n|kun=すすき-, のぎ-, のげ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[芒然]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|のぎ|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|のぎ}}\n\n# {{lb|ja|botany}} [[awn]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

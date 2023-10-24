@@ -1,0 +1,51 @@
+{
+  "title": "釻",
+  "ns": 0,
+  "id": 29256,
+  "timestamp": 1520767734000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金03}}\n\n# {{defn|lang=ja|sort=金03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=かん\n|kun=ませ-\n}}\n{{attention|ja|also on きゅう ぐ, kun いしゆみ?}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かん}}\n\n# Hanging ring; lifting ring; mounting strap"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ませ}}\n\n# Ingot of extracted silver by cupellation process",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|釜釻|かまかん}}\n* {{ja-r|釻菊|かんぎく}}\n* {{ja-r|釻場|ませば}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

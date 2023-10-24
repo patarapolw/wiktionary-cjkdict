@@ -1,0 +1,42 @@
+{
+  "title": "堲",
+  "ns": 0,
+  "id": 13255,
+  "timestamp": 1553315094000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F856}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jí\n|c=zik1,zat1,zik6\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[fire]] [[earth]] into [[brick]]\n# to [[hate]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B00528}}\n* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

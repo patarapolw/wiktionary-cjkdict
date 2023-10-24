@@ -1,0 +1,51 @@
+{
+  "title": "条",
+  "ns": 0,
+  "id": 17319,
+  "timestamp": 1548188711000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|條}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|条|條}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=木03|kyu=條}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<でう\n|kanon=ちょう<てう\n|kun=えだ, すじ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くだり|kyu=條}}\n\n# [[paragraph]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|件}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|じょう|kyu=條|hhira=でう}}\n\n# [[article]] in a document"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

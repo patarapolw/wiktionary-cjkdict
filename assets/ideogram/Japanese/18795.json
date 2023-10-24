@@ -1,0 +1,69 @@
+{
+  "title": "波",
+  "ns": 0,
+  "id": 18795,
+  "timestamp": 1553049096000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|疲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=水05}}\n\n# [[wave]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=は\n|kanon=は\n|kun=なみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|孤%立%波|こ%りつ%は}}: [[solitary]] [[wave]]\n* {{ja-r|波%束|は%そく}}: [[wave packet]]\n* {{ja-r|波%形|は%けい}}, {{ja-r|波形|なみがた|[[ripple]] [[mark]]}}\n* {{ja-r|波%線|なみ%せん}}, {{ja-r|波%線|は%せん|[[wavy]] [[line]]}}\n* {{ja-r|波%動|は%どう|[[surge]]}}\n* {{ja-r|波%長|は%ちょう|[[wavelength]]}}\n* {{ja-r|波%乱%万%丈|は%らん%ばん%じょう}}, {{ja-r|波%瀾%万%丈|は%らん%ばん%じょう|[[eventfulness]]}}\n* {{ja-r|波%浪|は%ろう|waves}}\n* {{ja-r|津%波|つ%なみ|[[tsunami]], [[tidal]] wave}}\n* {{ja-r|波蘭|^ポーランド|[[Poland]]}}\n{{der-bottom}}\n{{ja-kanjitab|なみ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{IPAfont|/nami<sub>1</sub>/}} → {{IPAchar|/nami/}}\n\nFrom {{inh|ja|ojp|奈美|tr=nami<sub>1</sub>}}, from {{inh|ja|jpx-pro|*nami}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|なみ|acc=2|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なみ|rom=nami}}\n\n# [[wave]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|なみ}}\n\n# {{given name|female|lang=ja|sort=なみ}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-noun|ぽ|rom=Po}}\n\n# {{lb|ja|abbreviation}} short notation of [[Poland]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese female given names]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

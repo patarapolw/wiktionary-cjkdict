@@ -1,0 +1,56 @@
+{
+  "title": "繅",
+  "ns": 0,
+  "id": 23576,
+  "timestamp": 1553053163000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|缫}}\n{{character info/new}}\n{{character info|0x2F970}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=缫|alt=𦃨-‡}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=sāo\n|c=sou1\n|oc=2\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[reel]] [[silk]] from the [[cocoon]]\n#: {{zh-alt-inline|{{zh-l|繰|tr=-}}, {{l|zh|縿}}{{zh-hg|nocat=1}}, {{l|zh|𦅒}}{{zh-hg|nocat=1}}, {{l|zh|𦃐}}|c=1}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|繅絲|繅繭|繅車}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=zǎo\n|mc=y\n|oc=1\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

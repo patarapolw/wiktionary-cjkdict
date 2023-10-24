@@ -1,0 +1,51 @@
+{
+  "title": "律",
+  "ns": 0,
+  "id": 15267,
+  "timestamp": 1527249143000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=彳06}}\n\n# law",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りち\n|kanon=りつ\n|kun=のり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-l|律儀}} - faithful, honest\n* {{ja-l|律詩}} - Chinese poetry of eight lines, Lüshi\n* {{ja-l|律動}} - rhythmic movement\n* {{ja-l|律法}} - the laws of Judaism, Torah\n* {{ja-l|律令}} - historical legal code based on Confucianism\n* {{ja-l|因果律}} - law of causality\n* {{ja-l|音律}} - musical tuning system\n* {{ja-l|戒律}} - religious commandment\n* {{ja-l|可換律}} - commutative law (in mathematics)\n* {{ja-l|法律}} - law, statute"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|りつ|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper noun|りつ}}\n\n# {{given name|female|lang=ja}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

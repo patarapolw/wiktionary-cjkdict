@@ -1,0 +1,92 @@
+{
+  "title": "舟",
+  "ns": 0,
+  "id": 24653,
+  "timestamp": 1548765338000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=舟00}}\n\n# [[boat]], [[ship]], [[small]] [[ship]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ\n|kanon=しゅう\n|kun=ふね-, ふな-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|ふね|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ふね|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふね}}\n\n# [[boat]], [[ship]], [[small]] [[ship]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|舟艇|しゅうてい}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|船|ふね|gloss=ship, vessel, [[large]] [[ship]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ふな|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ふな|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふな}}\n\n# [[boat]], [[ship]], [[small]] [[ship]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|船|ふな|gloss=ship, vessel, [[large]] [[ship]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Watercraft|ふね]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

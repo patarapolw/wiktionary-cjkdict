@@ -1,0 +1,44 @@
+{
+  "title": "傍",
+  "ns": 0,
+  "id": 11165,
+  "timestamp": 1553546745000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人10}}\n\n# [[bystander]]\n# [[side]]\n# [[besides]]\n# [[while]]\n# [[nearby]]\n# [[3rd person]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぼう\n|kanon=ほう\n|kun=かたわ-ら, そば-, そ-う\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|そば|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|そば}}\n\n# [[side]]\n#: {{ja-usex|泣かないで。僕は'''傍'''にいるから。|なかないで。ぼく は '''そば''' に いる から。|Don't cry, for I am by your side.}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

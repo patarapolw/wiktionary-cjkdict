@@ -1,0 +1,44 @@
+{
+  "title": "隷",
+  "ns": 0,
+  "id": 30752,
+  "timestamp": 1507523937000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|隸|隶}}\n{{character info/new}}\n{{character info/new|0xf9b8}}\n{{character info/new|0xfa2f}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=隶08}} <!-- [[隸]] is not listed as its kyūjitai. Read usage notes. -->\n\n# [[subordinate]], [[dependency]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らい\n|kanon=れい\n|kun=しもべ-, したが-う\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[隷従]]\n* [[隷書]]\n* [[隷属]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character 隷 is equivalent to [[隸]] (U+96B8). However, the latter is not used in Japan."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

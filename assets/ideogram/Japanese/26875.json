@@ -1,0 +1,39 @@
+{
+  "title": "訃",
+  "ns": 0,
+  "id": 26875,
+  "timestamp": 1553557166000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|讣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言02}}\n\n# news of one's death\n# obituary",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ\n|kanon=ふ\n|kun=しらせ\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|訃報|ふほう|rom=fuhō|news of a person's death}}\n* {{ja-r|訃音|ふおん|rom=fōn|report of a death}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "晩",
+  "ns": 0,
+  "id": 17094,
+  "timestamp": 1537962631000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|晚|睌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|晩|晚}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=日08|kyu=晚}}\n\n# [[evening]], [[night]]\n# [[late]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もん\n|kanon=ばん\n|kun=くれ, おそ-い, おく-れる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* {{ja-r|晩冬|ばんとう|gloss=late winter}}\n* {{ja-r|晩期|ばんき|gloss=late stage}}\n* {{ja-r|晩婚|ばんこん|gloss=late marriage}}\n* {{ja-r|晩成|ばんせい|gloss=late mature}}\n* {{ja-r|晩ごはん|ばんごはん|gloss=[[dinner]], evening meal}}\n* {{ja-r|晩食|ばんしょく|gloss=dinner, evening meal}}\n* {{ja-r|晩飯|ばんめし|gloss=dinner, evening meal}}\n* {{ja-r|早晩|そうばん|gloss=early and late}}\n\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|zhx|ja|sort=はん'}} {{m|zh|晩}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ばん}}\n\n# [[evening]]\n#: {{ja-usex|朝から'''晩'''まで|あさ から '''ばん''' まで|from dawn to '''dusk'''}}\n# [[night]]\n#: {{ja-usex|'''晩'''の内に雪が降りました。|'''ばん''' の うち に ゆき が ふりました。|Snow fell during the '''night'''.}}"
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|ばん|counter}}\n\n# [[night]]s, [[evening]]s\n\n[[Category:Japanese basic words|はん']]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

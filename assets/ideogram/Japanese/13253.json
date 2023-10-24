@@ -1,0 +1,66 @@
+{
+  "title": "堰",
+  "ns": 0,
+  "id": 13253,
+  "timestamp": 1553290858000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土09}}\n\n# [[dam]]\n# [[prevent]]\n# [[stop up]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん\n|kanon=えん\n|kun=せき-, せ-く\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|せき|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|せき|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|せき}}\n\n# [[weir]], [[dam]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "In technical contexts this is distinguished from dam."
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|ダム||[[dam]]}}\n* {{ja-r|堰堤|えんてい|[[dam]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

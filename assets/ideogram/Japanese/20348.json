@@ -1,0 +1,90 @@
+{
+  "title": "物",
+  "ns": 0,
+  "id": 20348,
+  "timestamp": 1549083969000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=牛04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もつ, もち\n|kanon=ぶつ\n|kun=もの-, もん-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|好物|こうぶつ}}: favorite food\n* {{ja-r|本物|ほんもの}}: real\n* {{ja-r|物%語|もの%がたり}}: tale, story\n* {{ja-r|食べ物|たべもの}}: food\n* {{ja-r|着%物|き%もの}}: kimono\n* {{ja-r|動物|どうぶつ}}: animal\n* {{ja-r|果物|くだもの}}: fruit\n* {{ja-r|見物|けんぶつ}}: sightseeing\n* {{ja-r|贋物|がんぶつ}}: a [[fake]], an [[imitation]], a [[knock-off]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|もの|yomi=k}}\n{{IPAfont|⟨mo<sub>2</sub>no<sub>2</sub>⟩}} → {{IPAfont|⟨mono<sub>2</sub>⟩}} → {{IPAchar|/mono/}}\n\nFrom {{inh|ja|ojp|sort=もの|-}}. Attested in the ''{{w|Kojiki}}''. Ultimately from {{inh|ja|jpx-pro|*mənə}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|もの|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|もの}}\n\n# [[thing]] {{gl|concrete, tangible}}\n## {{lb|ja|law}} a [[corporeal]] [[object]]\n##* Japanese Civil Code, Article 85\n##*: {{ja-usex|この 法律 に おいて「'''物'''」と は、有体物 を いう。|この ほうりつ に おいて「'''もの'''」と は、ゆうたいぶつ を いう。|The term \"Things\" as used in this Code shall mean tangible thing.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{m|ja|事|tr=koto||thing|pos=abstract, intangible}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|もの}}\n\n# [[story]], [[genre]] {{gloss|type of story}}\n#: {{ja-usex|探偵'''もの'''のドラマ|たんてい-'''もの''' の ドラマ|detective drama}}\n#: {{ja-usex|冒険'''もの'''です。|ぼうけん-'''もの''' です。|It is an adventure '''story'''.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{IPAchar|/mono/}} → {{IPAchar|/mon/}}\n\nShift from ''mono'' above.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|もん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|もん}}\n\n# {{lb|ja|informal}} [[thing]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

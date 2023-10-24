@@ -1,0 +1,44 @@
+{
+  "title": "褐",
+  "ns": 0,
+  "id": 26631,
+  "timestamp": 1532856288000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=衣09}}\n\n# cloth made of [[dry]] and [[rough]] fiber\n# [[poor]]\n# [[brown]] looks like dried",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かち\n|kanon=かつ\n|kun=ぬのこ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[褐色]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=1976\n|shift=8A8C\n|jis=336C\n|euc=B3EC\n|skip=1-5-8\n|freq=2186\n|nelson=4243\n|newnelson=5473\n|halpern=1210\n|kld=818\n|heisig=453\n|tuttle=5e8.7\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

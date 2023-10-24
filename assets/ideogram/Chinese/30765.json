@@ -1,0 +1,32 @@
+{
+  "title": "雃",
+  "ns": 0,
+  "id": 30765,
+  "timestamp": 1552985617000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F9F3}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yǎ\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

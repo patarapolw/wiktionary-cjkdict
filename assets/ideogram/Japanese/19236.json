@@ -1,0 +1,90 @@
+{
+  "title": "湯",
+  "ns": 0,
+  "id": 19236,
+  "timestamp": 1546267785000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|汤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=水09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=とう<たう, しょう<しやう\n|kanon=とう<たう, しょう<しやう\n|toon=たん\n|on=よう<やう\n|kun=ゆ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|桜 湯|さくら ゆ}}: [[sakura]] [[tea]]\n* {{ja-r|銭湯|せんとう}}: [[bathhouse]]\n* {{ja-r|茶 の 湯|ちゃ の ゆ}}: [[tea ceremony]]\n* {{ja-r|秘湯|ひとう}}: [[secret]] [[hot spring]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ゆ|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=ゆ|-}}.  Used in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|16|3824}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man16Yo.html#3824 here]</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ゆ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ゆ}}\n\n# [[warm]] or [[hot]] [[water]]\n# [[bathwater]]\n# a [[hot spring]]\n# a [[medicinal]] [[bath]]\n# a [[medicinal]] [[decoction]]\n# [[bilgewater]]\n# [[molten]] [[metal]] used in [[casting]] or [[founding]]\n# [[urine]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|尿|ゆばり}}, {{ja-r|尿|ゆまり}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|medicinal decoction}} {{ja-r|茶|ちゃ}}: [[tea]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Baby talk.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Possibly [[onomatopoeic]] of a person blowing on a hot beverage.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ぶう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぶう}}\n\n# {{lb|ja|childish|archaic|sort=ふう'}} [[warm]] or [[hot]] [[water]]\n# {{lb|ja|childish|archaic|sort=ふう'}} [[tea]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|ゆ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

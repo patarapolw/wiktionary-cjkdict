@@ -1,0 +1,76 @@
+{
+  "title": "酓",
+  "ns": 0,
+  "id": 29081,
+  "timestamp": 1520436882000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=𨟹}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yǎn\n|c=jim2\n|mc=1\n|oc=2+1\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hg}} {{lb|zh|of alcoholic drinks}} [[bitter]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|檿|a}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yàn\n|c=jim3\n|mc=2\n|oc=3\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hg}} {{zh-alt-form|𨡎|tr=-|[[bitter]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-see|飲|a}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B05223}}\n* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

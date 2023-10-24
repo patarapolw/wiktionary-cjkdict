@@ -1,0 +1,39 @@
+{
+  "title": "震",
+  "ns": 0,
+  "id": 30836,
+  "timestamp": 1529033356000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|☳}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=雨07}}\n\n# {{defn|lang=ja|sort=雨07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん\n|kanon=しん\n|kun=ふる-う, ふる-える\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|地震|じしん}}\n{{mid3}}\n* {{ja-r|震度|しんど}}\n{{mid3}}\n* {{ja-r|震動|しんどう}}\n{{bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

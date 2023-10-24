@@ -1,0 +1,54 @@
+{
+  "title": "鯤",
+  "ns": 0,
+  "id": 32202,
+  "timestamp": 1548373534000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚08}}\n\n# large mythical fish\n# [[roe]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=こん\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|こん}}\n\nFrom {{der|ja|ltc|sort=こん|-}} {{ltc-l|鯤}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=go|こん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こん}}\n\n# {{lb|ja|sort=こん|Chinese mythology}} a [[mythological]] [[giant]] [[fish]] that is several thousand {{m|ja|里|tr=ri||leagues}} long and that lives in the northern seas"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Kokugo Dai Jiten}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

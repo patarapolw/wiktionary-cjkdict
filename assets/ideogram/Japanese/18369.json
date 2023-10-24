@@ -1,0 +1,34 @@
+{
+  "title": "歔",
+  "ns": 0,
+  "id": 18369,
+  "timestamp": 1553553897000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8F1}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=欠12}}\n\n# {{defn|lang=ja|sort=欠12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=きょ\n|kun=すすりなく\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "撢",
+  "ns": 0,
+  "id": 16583,
+  "timestamp": 1516118504000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{attention|zh|Module:zh/data/och-pron-ZS/撢 - No.12351 (Migrate to och-pron-ZS/撣)}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|撣|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tàn,dàn\n|c=taam2,taam3\n|mc=2+3\n|oc=1+2\n|ma=\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{alt-form|lang=zh|探}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xín\n|c=\n|mc=1\n|oc=3\n|ma=\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} to [[fix]], [[repair]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

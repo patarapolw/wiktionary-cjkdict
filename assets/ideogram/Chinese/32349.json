@@ -1,0 +1,59 @@
+{
+  "title": "鱷",
+  "ns": 0,
+  "id": 32349,
+  "timestamp": 1538616374000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鳄}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=鳄|t2=鰐}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|魚|噩|ls=psc|c1=s|c2=p|t1=fish}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Within Chinese, {{zh-ref|Carr (1990)}} relates it to:\n* {{och-l|咢|to beat the drum}}, either because drumming was associated with dragons or because some drums were made of crocodilian skins ({{zh-ref|Schuessler, 2007}}).\n* Words for “fear”, e.g. {{och-l|愕|startled; terrified}}, {{och-l|噩|frightening; startling}}.\n\nOutside of Chinese, {{zh-ref|Carr (1990)}} also relates it to:\n* {{cog|tai-pro||*ŋwak|mythical water creature}} (reconstruction from {{zh-ref|Chamberlain, 1977}}), which {{zh-ref|Pittayaporn (2009)}}, reconstructing the root as {{m|tai-pro|*ŋɯəkᴰ||crocodile}}, holds to be a loan from Chinese.\n* Proto-{{w|Austro-Tai}} {{m|und|*(m)baŋiwak||shark; crocodile}}, posited by {{w|Paul K. Benedict}} and proposed by him to give rise to the Tai word, as well as {{cog|ja|-}} {{ja-r|鰐|わに|crocodilian; shark}}, {{ja-r|魚|うお|fish}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=è\n|m-s=\n|c=ngok6\n|c-t=ngok2\n|g=\n|h=pfs=ngo̍k\n|j=\n|mb=ngŏ̤\n|md=ngáuk/ngăuk\n|mn=ml,twv:go̍k/tw:kho̍k\n|mn-t=ngag8\n|w=5ngoq\n|x=ngo6\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[crocodilian]]; [[crocodile]]; [[alligator]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|鱷魚}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|澳洲鱷魚|鱷溪|鱷魚|大鱷|揚子鱷|鱷梨|鱷魚眼淚}}"
+            },
+            {
+              "level": 3,
+              "title": "Descendants",
+              "text": "* {{desc|bor=1|tai-pro|*ŋɯəkᴰ||crocodile}}\n** {{desc|aho|𑜂𑜢𑜤𑜀𑜫||crocodile; nāga}}\n** {{desc|lo|ເງືອກ||merperson; electric eel}}\n** {{desc|shn|ငိူၵ်ႈ||alligator; crocodile}}\n** {{desc|th|เงือก||snake; nāga; crocodilian; mythical water creature; merperson}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

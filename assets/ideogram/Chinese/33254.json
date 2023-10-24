@@ -1,0 +1,95 @@
+{
+  "title": "龜",
+  "ns": 0,
+  "id": 33254,
+  "timestamp": 1539371765000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|龟|亀}}\n{{character info/new}}\n{{character info/new|codepoint=0xf907}}\n{{character info/new|codepoint=0xf908}}\n{{character info/new|codepoint=0xface}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=龟|alt=亀,𪚧,𪚿,𪚨,𪚦,𬺞}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etyl}}\n{{liushu|p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{der|zh|aav}}. Compare {{cog|mnw|ဂွိ||tr=kwìˀ|freshwater turtle}}, {{cog|cbn|||freshwater soft-shelled tortoise|tr=thəwi̤iʔ}} ({{zh-ref|Schuessler, 2007}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=guī\n|m-s=gui1/kui1\n|c=gwai1\n|c-t=gei1,gei1*\n|g=gui1\n|h=pfs=kûi;gd=gui1\n|j=gui1\n|mb=gṳ́\n|md=gŭi\n|mn=ku/kui\n|mn_note=ku - vernacular; kui - literary\n|mn-t=gu1\n|w=1jy,1kue\n|w_note=1jy - vernacular; 1kue - literary\n|x=guei1\n|mc=1\n|oc=y,2\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[turtle]]; [[tortoise]]\n# {{lb|zh|figurative}} [[cuckold]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|烏龜}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|六龜|九尾龜|兔角龜毛|冊府元龜|六龜茶|不待蓍龜|毛寶放龜|爛板烏龜|白龜年|海龜|烏龜亡八|撥龜|攝龜|援鱉失龜|瓦影龜魚|烏龜|槓龜|灼龜|龜文|龜筴|龜苓膏|龜齡|龜縮|龜鱉目|龜子|龜奴|蟬腹龜腸|蝸步龜移|解龜|龜毛兔角|龜龍麟鳳|龜齡鶴算|龜鼎|龜頭|龜鑑|龜貝|龜行|龜蛇二將|龜綬|龜紐|龜筮|龜策|龜甲|龜玉|龜版|龜灼|龜年鶴壽|龜年|龜山|龜坼|龜卦|龜兔賽跑|龜兆|金龜車|龜兒子|鶴算龜齡|龜婆|龜殼花|龜文鳥跡|龜趺|鐵雲藏龜|金龜子|金龜婿|金龜|龜背芋|龜紋|龜卜|釣金龜|象龜|縮頭烏龜|龜鶴|蠵龜|麟鳳龜龍|蓍龜|龜鶴同春}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=qiū\n|c=kau1,gau1\n|w=1qieu\n|mc=2\n|oc=n,1\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|龜茲}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jūn\n|c=gwan1\n|mn=kun\n|w=1jyn\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|of skin}} to [[crack]]; to become [[chapped]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|fold=1|不龜手藥|不龜藥|龜裂|龜手}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

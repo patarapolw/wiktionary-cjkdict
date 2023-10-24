@@ -1,0 +1,76 @@
+{
+  "title": "遛",
+  "ns": 0,
+  "id": 28763,
+  "timestamp": 1527075969000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{attn|ltc}}{{attn|och|Middle+Old Chinese needs to be distributed}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=⿰氵畄-second round simplified}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=liù\n|c=lau6\n|mc=\n|oc=\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[stroll]]; to [[saunter]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|遛狗|遛馬|遛逛|遛達|遛活|遛食兒|遛早兒|遛鳥|遛彎兒}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=liú\n|c=lau4\n|mc=\n|oc=\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|逗遛}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B05094}}\n* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

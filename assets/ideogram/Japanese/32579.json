@@ -1,0 +1,44 @@
+{
+  "title": "鴻",
+  "ns": 0,
+  "id": 32579,
+  "timestamp": 1551244337000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鸿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥06}}\n\n# {{defn|lang=ja|sort=鳥06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=こう\n|kun=おおとり-<おほとり-, ひしくい-<ひしくひ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|yomi=k|ひしくい}}\n{{ja-pron|acc=0|acc2=3|y=k|ひしくい|dev=1}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひしくい|ヒシクイ|hhira=ひしくひ|hkata=ヒシクヒ}}\n\n# {{altspell|lang=ja|菱食||{{w|taiga bean goose}}}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

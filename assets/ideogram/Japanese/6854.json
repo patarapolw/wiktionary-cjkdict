@@ -1,0 +1,107 @@
+{
+  "title": "氷",
+  "ns": 0,
+  "id": 6854,
+  "timestamp": 1553572527000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|冰|永}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[Image:Block if ice in Jökulsarlon Iceland.JPG|thumb|right]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=水01}}\n\n# [[ice]]\n# [[freeze]]\n# [[congeal]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=ひょう<ひよう\n|kanon=ひょう<ひよう\n|toon=ひん\n|soon=びん\n|kun=こお-り<こほ-り, こおり-<こほり-, こお-る<こほ-る, ひ-\n|nanori=きよ, すい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* {{ja-r|薄%氷|はく%ひょう|[[thin]] ice}}\n* {{ja-r|氷%海|ひょう%かい|icy waters}}\n* {{ja-r|氷%河|ひょう%が|[[glacier]]}}\n* {{ja-r|氷%山|ひょう%ざん|[[iceberg]]}}\n* {{ja-r|氷%雪|ひょう%せつ|ice and [[snow]]}}\n* {{ja-r|氷%柱|ひょう%ちゅう|[[icicle]]}}\n* {{ja-r|氷%点|ひょう%てん|[[freezing point]]}}\n* {{ja-r|流%氷|りゅう%ひょう|[[drift ice]]}}\n* {{ja-r|氷柱|つらら|[[icicle]]}}\n{{der-bottom}}\n<!-- You can [http://web.mit.edu/jpnet/ji/data/sound/koori.au hear] it pronunced. ''(need *.au file player)''-->"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|こおり|yomi=k}}\n* {{ja-l|冰}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{IPAfont|⟨ko<sub>2</sub>pori⟩}} → *{{IPAchar|/kəpori/}} → {{IPAchar|/kofori/}} → {{IPAchar|/kowori/}} → {{IPAchar|/koːri/}}\n\nFrom {{inh|ja|ojp|sort=こおり|-}}.\n\nFrom {{ja-l|凍り}}, {{m|ja|氷り|tr=kōri||[[freezing]]}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{ja-l|凍る}}, {{m|ja|氷る|tr=kōru||to [[freeze]]}}.<ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|氷り}}, {{ja-l|凍り}}, {{ja-l|凍}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|こおり|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こおり|hhira=こほり}}\n\n# [[ice]] {{gl|[[freeze|frozen]] [[water]]}}\n#* {{RQ:Wamyō Ruijushō|1|46}}<ref name=\"WMS\">{{R:Wamyō Ruijushō}}</ref>\n#*: {{lang|ja|'''氷''' [...] 和名比、一云'''古保利'''}}\n#: {{synonyms|ja|アイス|tr=aisu}}\n# a [[cold]] and [[sharp]] [[object]], as a [[shard]] of ice\n# {{short for|lang=ja|氷水|tr=kōrimizu|nodot=1}}: [[ice water]]; water [[fill]]ed with ice\n# {{short for|lang=ja|氷襲|tr=kōrigasane|nodot=1}}: [[layer]]ed [[clothing]] with the front [[shining]] [[white]] and [[plain]] white at the back",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|氷%襲|こおり%がさね}}\n* {{ja-r|氷%水|こおり%みず}}\n* {{ja-r|氷%屋|こおり%や|ice shop}}\n* {{ja-r|薄%氷|うす%ごおり|thin ice}}\n* {{ja-r|かき氷|かきごおり|rom=-}}, {{ja-r|欠%氷|かき%ごおり|rom=-}}, {{ja-r|欠き氷|かきごおり}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|こおり|hhira=こほり}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=こおり}}\n# {{surname|lang=ja|A=a|nodot=1|sort=こおり}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ひ|yomi=k}}\n{{IPAfont|⟨pi<sub>1</sub>⟩}} → *{{IPAchar|/pʲi/}} → {{IPAchar|/fi/}} → {{IPAchar|/hi/}}\n\nFrom {{inh|ja|ojp|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|ひ|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひ}}\n\n# [[ice]] {{gl|[[freeze|frozen]] [[water]]}}\n#* {{RQ:Wamyō Ruijushō|1|46}}<ref name=\"WMS\"/>\n#*: {{lang|ja|'''氷''' [...] 和名'''比'''、一云古保利}}\n#: {{synonyms|ja|アイス|tr=aisu}}\n# [[hail]] {{gl|[[precipitate]]d ice}}\n#: {{synonyms|ja|雹|tr=hyō}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|氷%雨|ひ%さめ|frozen rain}}\n* {{ja-r|氷%室|ひ%むろ|ice house}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{ja-kref\n|ku=4125\n|shift=9558\n|jis=4939\n|euc=C9B9\n|skip=1-2-3\n|freq=1450\n|nelson=131\n|newnelson=3032\n|halpern=39\n|kld=24\n|heisig=131\n|tuttle=3a1.2\n}}\n\n{{cln|ja|words with multiple readings}}\n{{cln|ja|basic words|sort=こおり}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

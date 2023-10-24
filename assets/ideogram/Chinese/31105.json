@@ -1,0 +1,66 @@
+{
+  "title": "頁",
+  "ns": 0,
+  "id": 31105,
+  "timestamp": 1549982358000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|页|貝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=页}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|首|卩|ls=p|c1=head|c2=kneeling posture}} – head of a kneeling person, emphasising “head”.\n\n{{lang|zh|頁}} and {{och-l|首}} were originally the same pictographic character with the same meaning of “head”, and the graphical difference was that {{lang|zh|頁}} also included the body in addition to the head of the person.\n\n{{lang|zh|頁}} was later used as an alternative popular form of {{zh-l|*葉|leaf; page}} to mean “sheet; page (of paper)”, which is its main meaning today.\n\nThe original sense of “head” is preserved in the radical {{lang|zh|頁}}, which is used in characters such as {{zh-l|*頭|head}} and {{zh-l|*頸|neck}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Alternative form of {{l|zh|葉}} (“leaf; sheet (of paper)”).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yè\n|m-s=\n|c=jip6\n|c-t=\n|g=\n|h=pfs=ya̍p;gd=iab6\n|j=\n|mb=\n|md=hiĕk\n|mn=ia̍h\n|mn-t=hioh8/hiêh8\n|mn-t_note=hioh8 - Shantou; hiêh8 - Chaozhou\n|w=5hhiq\n|x=\n|oc=n,1\n|cat=n,cls,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[sheet]] (of [[paper]])\n# [[page]]\n# {{lb|zh|computing}} [[page]]\n# {{zh-classifier|[[page]]s}}\n# {{surname|lang=zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|冊頁|家頁|庫頁島|扉頁|插頁|書頁|油頁岩|活頁|版權頁|百頁|皮靴頁兒|硬頁岩|篇頁|網頁|缺頁|角頁岩|跨頁|選舉頁|頁岩|頁心|頁數|頁碼|飛頁|首頁|黃頁|頁面}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Original meaning of this character.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xié\n|c=kit3,sau2\n|c_note=sau2 - using the pronunciation of {{zh-l|*首}}\n|h=\n|mn=ml:hia̍t\n|w=\n|mc=y\n|oc=n,2\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[head]]\n\n{{zh-cat|Beginning}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "酉",
+  "ns": 0,
+  "id": 650,
+  "timestamp": 1553572401000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|丣|西}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=酉00}}\n\n# \"[[sake]]\" radical (さけづぐり)\n# \"bird of the zodiac\" radical (ひよみのとり, とりへん)\n# [[rooster]] (tenth sign of the Chinese [[zodiac]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ゆ\n|kanon=ゆう<いう\n|kun=とり-\n|nanori=なが, みのる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|卯酉線|ぼうゆうせん}}\n* {{ja-r|酉年|とりどし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|とり|yomi=k}}\n{{wp|lang=ja}}\nFrom {{m|ja|鶏|tr=niwatori, tori||[[chicken]]}}, from {{m|ja|庭|tr=niwa||[[garden]]}} + {{m|ja|鳥|tr=tori||[[bird]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=0|y=k|とり}}\n* {{hmp|lang=ja|sort=とり|鳥|鶏}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|とり}}\n\n# the {{w|Rooster (zodiac)|Rooster}}, the tenth of the twelve {{w|Earthly Branches}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ゆう|yomi=o}}\nFrom {{der|ja|ltc|酉|tr=yuw<sup>X</sup>|sort=ゆう}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ゆう|hhira=いう}}\n\n# the {{w|Rooster (zodiac)|Rooster}}, the tenth of the twelve {{w|Earthly Branches}}\n\n{{cln|ja|words with multiple readings}}\n{{topics|ja|Earthly Branches|sort=とり}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "{{ja-kref\n|jis=4653\n|ku=3851\n|shift=93D1\n|euc=C6D3\n|freq=2468\n|nelson=4775\n|newnelson=6157\n|halpern=3544\n|kld=2207\n|heisig=1427\n|tuttle=2254\n}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

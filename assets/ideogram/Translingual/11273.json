@@ -1,0 +1,49 @@
+{
+  "title": "僧",
+  "ns": 0,
+  "id": 11273,
+  "timestamp": 1553325781000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA31}}\n{{character info|0x2F80A}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|僧|僧|僧}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note difference between Chinese form, which uses {{lang|und|sc=Hani|[[曾]]}}, and Japanese shinjitai which uses {{lang|ja|[[曽]]}}. Both forms are encoded under the same codepoint due to {{w|Han unification}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Japanese shinjitai form: {{Han simp||f=曾|t=曽}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=12|asj=11|sn=14|snj=13|four=28266|canj=OCWA|ids=⿰亻曾 <small>(GTKV)</small>,⿰亻曽 <small>(J)</small>}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* [[增]] ([[増]]) [[憎]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0117.140|dkj=01076|dj=0248.200|hdz=10222.010|uh=50E7|ud=20711|bh=B9AC|bd=47532}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

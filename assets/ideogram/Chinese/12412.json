@@ -1,0 +1,37 @@
+{
+  "title": "唞",
+  "ns": 0,
+  "id": 12412,
+  "timestamp": 1527632239000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=抖,透,敨}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|c=tau2\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}} {{tlb|zh|Cantonese}}\n\n# to [[breathe]]\n# to [[rest]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|唞氣|早唞}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

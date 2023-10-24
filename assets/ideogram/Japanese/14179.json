@@ -1,0 +1,83 @@
+{
+  "title": "宴",
+  "ns": 0,
+  "id": 14179,
+  "timestamp": 1552546732000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=宀07}}\n\n# {{defn|lang=ja|sort=宀07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん\n|kanon=えん\n|kun=うたげ-, たの-しむ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|茗宴|めいえん}}: [[tea party]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|うたげ|yomi=k}}\nAlteration of {{m|ja|打ち上げ|tr=uchiage||finishing of a performance, banquet at the finishing of a performance}}.<ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|うたげ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うたげ}}\n\n# [[party]], [[banquet]], [[feast]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|えん|yomi=o}}\nFrom {{etyl|ltc|ja|sort=えん}} {{m|zh|宴|tr=ʔen<sup>H</sup>||banquet, feast}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|えん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えん}}\n\n# [[party]], [[banquet]], [[feast]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えん}}\n\n# [[party]], [[banquet]], [[feast]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{c|ja|Parties|sort=うたげ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

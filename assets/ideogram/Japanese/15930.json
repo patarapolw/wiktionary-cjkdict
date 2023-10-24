@@ -1,0 +1,58 @@
+{
+  "title": "戟",
+  "ns": 0,
+  "id": 15930,
+  "timestamp": 1553550529000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㦸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=戈08}}\n\n# type of [[weapon]] ([[halberd]] or [[spear]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きゃく\n|kanon=けき\n|kanyoon=げき\n|kun=ほこ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|げき|yomi=kanyo}}\nFrom {{der|ja|ltc|sort=げき|-}} {{ltc-l|戟}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|げき}}\n\n# {{w|Ji (polearm)|''Ji''}} {{gloss|[[halberd]] used in {{w|ancient China}}}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ほこ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほこ}}\n\n# {{alternative spelling of|矛|lang=ja|gloss=[[spear]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

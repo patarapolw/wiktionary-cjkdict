@@ -1,0 +1,39 @@
+{
+  "title": "疹",
+  "ns": 0,
+  "id": 21244,
+  "timestamp": 1524522225000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=疒05}}\n\n# {{defn|lang=ja|sort=疒05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん\n|kanon=しん\n|kun=はしか-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|粃糠疹|ひこうしん}}: [[pityriasis]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

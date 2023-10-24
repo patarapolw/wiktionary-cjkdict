@@ -1,0 +1,71 @@
+{
+  "title": "秫",
+  "ns": 0,
+  "id": 22385,
+  "timestamp": 1553054729000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F957}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|禾|朮|c1=s|c2=p|t1=grain|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Area word ({{zh-ref|Schuessler, 2007}}); compare:\n* {{cog|hmx-pro|*mblut||glutinous; sticky}} ({{zh-ref|Schuessler, 2007}}; {{zh-ref|Ratliff, 2010}}; {{zh-ref|Baxter and Sagart, 2014}});\n* {{cog|map-pro|*-lit||caulk; adhesive material}} > {{cog|poz-pro|*bulit||glue; paste; stick; caulk}} ({{zh-ref|Ratliff, 2010}});\n* {{cog|map-pro|*puluC||[[Caesar weed]], a [[mucilaginous]] plant}} ({{zh-ref|Sagart, 1993}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=shú\n|c=seot6\n|c-t=sut5\n|mb=chṳ̄\n|md=sŭk\n|mn=chu̍t/ml:su̍t\n|mn_note=chu̍t - vernacular; su̍t - literary\n|mn-t=zug8\n|w=5zeq\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[glutinous]] [[grain]]\n## (glutinous) [[sorghum]]\n## {{lb|zh|literary}} glutinous [[millet]]\n## {{lb|zh|literary|or|Min}} [[glutinous rice]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|秫酒|秫秸|秫秫|秫米|洘秫秫|秫米飯|秫田|秫黍|秫稭|秫穀|秫稻|秫櫱}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=shù,shú\n|c=seot6\n|mc=y\n|oc=n,y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|鉥|[[long]] [[needle]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|秫縫|秫絀}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

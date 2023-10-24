@@ -1,0 +1,81 @@
+{
+  "title": "桃",
+  "ns": 0,
+  "id": 17557,
+  "timestamp": 1553231286000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=木06}}\n\n# [[peach]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どう<だう\n|kanon=とう<たう\n|kun=もも-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|月桃|げっとう}}: [[shell ginger]]\n* {{ja-r|桃花|とうか}}: [[peach]] [[blossom]] [[flower]]\n* {{ja-r|桃果|とうか}}: peach ([[fruit]])\n* {{ja-r|桃矢|^とうや}}: “peach arrow” → a male given name\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|もも}}\nFrom {{etyl|ojp|ja|sort=もも}}. Brought to Japan in antiquity, with pits found in prehistoric sites from the {{w|Yayoi period}}, 300 BCE - 300 CE. Mentioned as a [[food]] in documents from the {{w|Nara period|Nara}} and {{w|Heian period|Heian}} periods.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nUltimate derivation unknown. Theories include the following.\n* Possibly derived originally from a reduplication of {{m|ja|実|tr={{upright|Old Japanese}} mu, {{upright|modern Japanese}} mi||fruit}}, from the way that peaches often grow in clusters. However, the vowel shift seems unlikely given regular Japanese phonetic shifts. In addition, most reduplicated terms in Japanese have the {{m|ja|頭高型|tr=atamadaka-gata}} pitch accent pattern, starting high and falling, which differs from the {{m|ja|平板型|tr=heiban-gata}} pitch accent pattern of this term.\n* Possibly cognate with {{cog|ojp|-}} {{m|ja|百|tr=momo||hundred; lots}}. However, this also has the {{m|ja|頭高型|tr=atamadaka-gata}} pitch accent pattern.\n* Possibly a reduplication of {{m|ja|毛|tr=mo||hair}}, from the way that peaches are [[hairy]]. The term is spelled as {{lang|ja|毛毛}} in some ancient documents. However, {{m|ja|毛}} was commonly used as [[man'yōgana]] for its phonetic value, in which cases its original Chinese meaning of {{m|en|hair}} is usually ignored.\nNone of the above possibilities seems very compelling. Given the archaeological evidence, this term probably originated before the Japanese ancestor population migrated to the Japanese [[archipelago]].\n\nPossibly related to {{m|ja|梅|tr={{upright|ancient}} mume, {{upright|modern}} ume||Japanese apricot, Japanese plum}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|もも|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|もも|モモ}}\n\n# [[peach]]\n# [[peach]] [[tree]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|桃色|ももいろ}}: pink\n* {{ja-r|桃色 鸚哥|ももいろ いんこ}}: “pink parakeet” → {{taxlink|Eolophus roseicapillus|species|noshow=1}}: [[galah]], {{vern|rose-breasted cockatoo}}\n* {{ja-r|桃色 遊戯|ももいろ ゆうぎ}}: “pink playing” → sex play\n* {{ja-r|桃%尻|もも%じり}}: “peach butt” → from the way that the end of a peach is often pointy, and thus difficult to place stably: somebody who is bad at horse-riding; a fidgety, restless person\n* {{ja-r|桃%園|もも%ぞの}}: a peach orchard\n* {{ja-r|桃 割れ|もも われ}}: “split peach” → a hairstyle of Meiji and Taisho era, featuring a bun resembling a halved peach\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "{{der-top|Idioms}}\n* {{ja-r|桃 栗 三 年 柿 八 年|もも くり さん ねん かき はち ねん}}: “peach and chestnut take three years [to bear fruit], persimmons take eight” → it often takes time to bear the fruit of one's actions\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* Ainu: {{m|ain|モマ|tr=moma||Japanese peach, Japanese apricot}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|もも}}\n\n# {{given name|female|lang=ja|sort=もも}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|もも]]\n[[Category:ja:Fruits|もも]]\n[[Category:ja:Trees|もも]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

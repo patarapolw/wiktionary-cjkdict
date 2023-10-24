@@ -1,0 +1,49 @@
+{
+  "title": "脾",
+  "ns": 0,
+  "id": 24418,
+  "timestamp": 1553052353000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F985}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ひ, はい, へい\n|kun=ひぞう-, もも-, とまる\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Wamyō Ruijushō}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{IPA|[jokoɕi]|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|よこし}}\n\n# {{lb|ja|anatomy}} [[spleen]]\n#* {{RQ:Wamyō Ruijushō|2|35}}\n#*: 脾 白虎通云 脾 俾移反 '''與古之''' [...] 土之精也 色黄 [...] 土藏也 [...]\n\n[[Category:ja:Anatomy|よこし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

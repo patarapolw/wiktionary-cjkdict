@@ -1,0 +1,78 @@
+{
+  "title": "寺",
+  "ns": 0,
+  "id": 14249,
+  "timestamp": 1552982818000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=寸03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=てら-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|誕%生%寺|^たん%じょう%-じ}}: Tanjō-ji, Tanjō Temple: any of various Buddhist [[temple]]s or places in Japan\n* {{ja-r|寺%域|じ%いき}}: the [[grounds]] of a [[temple]]\n* {{ja-r|寺%印|じ%いん}}: the [[official]] [[stamp]] or [[seal]] of a Buddhist [[temple]]\n* {{ja-r|寺%院|じ%いん}}: a Buddhist [[temple]]\n* {{ja-r|寺%社|じ%しゃ}}: [[temple]]s and [[shrine]]s\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|てら}}\n\nFrom {{inh|ja|ojp|sort=てら|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|16|3822}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man16Yo.html#3822 here]</ref>\n\nThere are various theories regarding the ultimate derivation.\n* Some sources<ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref> derive Japanese ''tera'' from Middle {{der|ja|ko|sort=てら|졀}}. This is from earlier {{m|ko|뎔||[[temple]]}} and is the nativised reading of {{ko-l|찰|刹|Buddhist temple}} below, deriving in turn from {{cog|ltc|-}} {{ltc-l|剎}}, shortened from {{ltc-l|剎多羅|[[Buddhist]] [[monastery]], [[temple]] or [[shrine]]}}, borrowed from {{cog|sa|क्षेत्र||[[land]], [[area]], [[domain]]}}.\n* Other sources<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> describe Japanese ''tera'' as cognate with modern {{cog|ko|-}} {{ko-l|찰|刹|temple}}, appearing as a component in terms such as {{ko-l|선찰|禪刹|Zen temple}}, {{ko-l|사찰|寺刹|Buddhist temple}}.\n* Another derivation<ref name=\"DJS\">{{R:Daijisen}}</ref><ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> is given as {{der|ja|pi|sort=てら|thera||[[elder]]s}} in reference to the monks.\n\nConsidering the phonetic development in Korean, the avenues for transmission of Buddhist terms to Japan, and the consistent {{m|en|temple}} sense of the Japanese term throughout recorded history, the now-obsolete {{cog|ko|뎔||temple}} may be a more likely source than {{cog|pi|thera||elders}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|てら|acc=2|acc_ref=DJR,NHK,SMK5|acc2=0|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|てら|count=軒}}\n\n# {{lb|ja|sort=てら|chiefly|_|Buddhist}} a [[temple]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|じ}}\n\nFrom {{der|ja|ltc|sort=し'|-}} {{ltc-l|寺}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|じ}}\n* The pitch accent depends on the suffixed term."
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|じ}}\n\n# {{lb|ja|sort=てら|chiefly|_|Buddhist}} a [[temple]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

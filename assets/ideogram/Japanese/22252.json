@@ -1,0 +1,59 @@
+{
+  "title": "票",
+  "ns": 0,
+  "id": 22252,
+  "timestamp": 1546468137000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=示06}}\n\n# [[ballot]]\n# [[label]]\n# [[ticket]]\n# [[sign]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう<へう\n|kanon=ひょう<へう\n|kun=ふだ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|認識%票|にんしき%ひょう|[[dog tag]]}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|ひょう|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{der|ja|ltc|票}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|ひょう|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひょう|hhira=へう}}\n\n# [[vote]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

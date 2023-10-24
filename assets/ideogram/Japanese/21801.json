@@ -1,0 +1,100 @@
+{
+  "title": "瞼",
+  "ns": 0,
+  "id": 21801,
+  "timestamp": 1552876085000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|睑}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=目13}}\n\n# [[eyelid]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けん\n|kanon=けん\n|kun=まぶた-, まなぶた-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|花瞼|かけん}}\n* {{ja-r|眼瞼|がんけん}}: [[eyelid]]\n* {{ja-r|眼瞼縁炎|がんけんえんえん}}\n* {{ja-r|眼瞼閉鎖反射|がんけん へいさ はんしゃ}}\n{{der-bottom}}\n\n{{wp|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|まぶた}}\nCompound of {{compound|ja|sort=まぶた|目|tr1=ma|t1=eye|pos1=ancient combining form of modern reading ''me''|蓋|tr2=futa|t2=lid}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref><ref name=\"SMK5\">{{R:Shinmeikai5}}</ref>  {{rendaku2|sort=まぶた|futa|buta}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|まぶた|acc=1|acc_ref=DJR,NHK,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|目蓋}}, {{l|ja|眼蓋}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まぶた}}\n\n# {{lb|ja|sort=まぶた|anatomy}} [[eyelid]]\n# {{lb|ja|sort=まぶた|figuratively}} [[memory]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|一重瞼|ひとえ まぶた}}\n* {{ja-r|二重瞼|ふたえ まぶた}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{lang|ja|瞼}}{{l|ja|が}}{{l|ja|重い}} (''mabuta ga omoi''): “eyelids are heavy” → to be [[sleepy]]\n* {{ja-r|瞼の母|まぶた の はは}}: “eyelid mother, mother [in, behind] one's eyelids” → the [[memory]] of one's [[mother]]\n* {{lang|ja|瞼}}{{l|ja|に}}{{l|ja|浮かぶ}} (''mabuta ni ukabu''): “to rise up [behind] one's eyelids” → to [[come to mind]]\n* {{lang|ja|瞼}}{{l|ja|に}}{{l|ja|残る}} (''mabuta ni nokoru''): “to remain in one's eyelids” → to [[remain]] in [[memory]], to [[live on]] in one's [[mind]]\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|eyelid}} {{ja-r|眼瞼|がんけん}}\n* {{sense|memory}} {{ja-r|記憶|きおく}}, {{ja-r|覚え|おぼえ}}, {{ja-r|物覚え|もの.おぼえ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|まなぶた}}\n\nFrom {{inh|ja|ojp|sort=まなぶた|-}}.  Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.  Derived as a compound of {{compound|ja|sort=まなぶた|目|tr1=ma|t1=eye|pos1=ancient combining form of modern reading ''me''|な|tr2=na|pos2=old variant of possessive particle {{m|ja|の}} ''no''|蓋|tr3=futa|t3=lid}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>  {{rendaku2|sort=まなぶた|futa|buta}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|まなぶた}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まなぶた}}\n\n# {{lb|ja|sort=まなぶた|anatomy|archaic|possibly|_|obsolete}} [[eyelid]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|まぶた]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

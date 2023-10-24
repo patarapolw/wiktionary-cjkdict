@@ -1,0 +1,71 @@
+{
+  "title": "屠",
+  "ns": 0,
+  "id": 14369,
+  "timestamp": 1553314395000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F877}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|尸|者|ls=psc|c1=s|c2=p|t1=body}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tú\n|c=tou4\n|h=pfs=thù\n|md=\n|mn=tô͘/ml,twr:tó͘\n|mn_note=tô͘ - literary; tó͘ - vernacular variant, more common in Quanzhou\n|w=\n|mc=2\n|oc=1,1\n|cat=v,n,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[slaughter]] [[livestock]]; to [[butcher]] livestock\n# to [[massacre]]; to slaughter\n# [[butcher]]\n# {{surname|lang=zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|屠家|屠毒筆墨|屠刀|屠門大嚼|屠戮|屠燒|屠沽子|屠夫|屠戶|屠龍之技|屠狗|屠狗之輩|屠龍|山林屠販|屠販|屠蘇酒|屠蘇|屠滅|屠殺|屠宰稅|屠宰場|屠宰|屠場|屠城|屠伯|大屠殺|屠沽|屠沽兒|屠牛朝歌|放下屠刀|浮屠|申屠|斷屠|禁屠|狗屠|狗屠角牴|非熊賣屠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=chú\n|c=ceoi4\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=1\n|oc=n,2\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only used in|休屠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A01093}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

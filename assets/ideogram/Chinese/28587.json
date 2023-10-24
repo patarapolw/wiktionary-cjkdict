@@ -1,0 +1,59 @@
+{
+  "title": "辰",
+  "ns": 0,
+  "id": 28587,
+  "timestamp": 1553922319000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xf971}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𫝕,𨑃-ancient,𨑄-ancient,𠨷-ancient,𠩟-ancient}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{liushu|p}} – a kind of agricultural tool used for tilling the fields and removing weeds ({{zh-ref|Guo, 1931}}; {{zh-ref|Qiu, 1992}}), possibly made of a kind of large clam {{och-l|蜃}} ({{zh-ref|Guo, 1931}}).\n\nAlternatively, it could be a {{liushu|p|nocap=1}} of a person holding onto a cliff – original character of {{och-l|振|to hold up}} ({{zh-ref|Shang, 1983}})."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "; “to vibrate”\n: Related to {{och-l|震|to shake}} and {{och-l|振|to excite}}, from {{inh|zh|sit-pro|*dar ~ d(u/i)r||to tremble; to shiver}} ({{zh-ref|Schuessler, 2007}}).\n\n; “fifth earthly branch”\n: {{zh-ref|Norman (1985)}} suggests that it is from {{der|zh|aav}}; compare {{cog|mkh-pro|*t₁la(a)n||python}}, whence {{cog|vi|trăn}}, {{cog|km|ថ្លាន់}}, {{cog|mnw|ကၠန်|tr=klɔn}}. However, {{zh-ref|Ferlus (2013)}} points to reconstructions like ''*dər'' (Baxter & Sagart) and ''*ᴸdzɨr'' (Ferlus) and remarks that those do not match any animal's name in {{w|Mainland Southeast Asia linguistic area|Mainland Southeast Asian (MSEA)}} languages. Therefore, {{lang|zh|辰}} might have been associated arbitrarily with the [[dragon]] ({{zh-l|*龍}}).\n\n; “time”\n: From {{och-l|時|time}} + nominalizing suffix ''-n'', literally “that which is proceeding” ({{zh-ref|Schuessler, 2007}}). This word partially converges with {{och-l|晨|morning}} ([[ibid.]]).\n\n; “heavenly body”\n: The endopassive of {{och-l|振|to shake; to stir}}, literally “to stir oneself”, i.e. “when life begins to stir” > “heavenly bodies that mark time” ([[ibid.]])."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chén\n|m-s=\n|c=san4\n|c-t=\n|g=\n|h=pfs=sṳ̀n\n|j=\n|mb=sěng\n|md=\n|mn=sîn\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|ma=y\n|cat=v,n,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} to [[vibrate]]\n# fifth of twelve [[earthly branch]]es ({{zh-l|*地支}}), [[variously]] [[equate]]d with\n## {{lb|zh|Chinese zodiac}} [[dragon]] ({{zh-l|*龍}})\n## {{lb|zh|navigation}} a [[bearing]] of 120° (between [[ESE]] and [[SE]])\n## {{lb|zh|Chinese calendar}} the 3rd [[lunar]] [[month]] ({{zh-l|*三月}})\n## {{lb|zh|Chinese calendar}} the 5th [[day]] or [[year]] in a [[dozen]]\n## {{lb|zh|Chinese timekeeping}} the 2-[[hour]] [[period]] between 7 and 9 [[am]]\n# [[time]]; [[day]]; [[season]]\n# [[heavenly body]]; [[star]]s\n# {{†}} {{lb|zh|Chinese astronomy}} {{zh-alt-name|心宿|Heart Mansion (one of Twenty-Eight Mansions)}}\n# {{†}} {{lb|zh|Chinese astronomy}} {{zh-alt-name|北極星|[[North Star]]}}\n# {{†}} {{zh-alt-form|晨|[[early]] [[morning]]}}\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{list:earthly branches/zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|星辰|生辰|誕辰|壽辰|時辰|令辰|參辰日月|叢辰|帨辰|十二辰|忌辰|參辰|元辰|卯酉參辰|他辰|三辰|不辰|媽祖誕辰|寡宿孤辰|孤辰合注|北辰|參辰卯酉|吉日良辰|日月參辰|眾星拱辰|拱辰|浹辰|盼辰勾|泰辰|生辰八字|生不逢辰|辰星|辰砂|良辰媚景|良辰|芳辰|辰時|良辰吉日|簡辰|美景良辰|超辰|黃道良辰|設帨佳辰|辰勾|陰辰|辰河戲|辰勾盼月|辰光|良辰美景}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{qualifier|Min Nan}} {{thcwd|3410}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "榧",
+  "ns": 0,
+  "id": 17931,
+  "timestamp": 1553553381000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ひ\n|kun=かや\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ひ|yomi=o}}\nFrom {{der|ja|ltc|sort=ひ|-}} {{ltc-l|榧|[[nutmeg yew]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|ひ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{wp|カヤ|lang=ja}}\n{{ja-kanjitab|かや|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かや}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かや}}\n\n# {{vern|Japanese nutmeg yew}} {{gloss|''[[Torreya nucifera]]''}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Related terms",
+                      "text": "* {{ja-l|カヤ}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

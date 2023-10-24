@@ -1,0 +1,133 @@
+{
+  "title": "吧",
+  "ns": 0,
+  "id": 12131,
+  "timestamp": 1552842865000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=罷}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=ba\n|c=baa6\n|mn=tw:pā/ml:--pa\n|mn-t=ba7\n|cat=part\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{non-gloss definition|Emphatic final particle; used at the end of a sentence to}}\n##  {{non-gloss definition|indicate a suggested action:}} why don't you ...\n##: {{zh-x|你 有 時間 再 做 吧。|Do it when you have time.}}\n## {{non-gloss definition|express [[imperative mood]]:}} [[let us]] ...\n##: {{zh-x|大家 去 工作 吧。|Get to work, everybody.}}\n##: {{zh-x|走 吧！|'''Let's''' go!}}\n## {{non-gloss definition|indicate a speculation.}}\n##: {{zh-x|門 還 沒 鎖 吧。|The door has not been locked, I guess.}}\n# {{non-gloss definition|Used at the end of a sentence used to concede a point.}}\n#: {{zh-x|好 吧！|Alright!}}\n#: {{zh-x|算了 吧。|Whatever.}}\n# {{non-gloss definition|Used after the topic for emphasis.}}\n#: {{zh-x|他 這 人 吧，脾氣 不 太 好。|He is not a good-tempered person.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "* {{lang|zh|吧}} is not usually used as a modal particle in Min Nan. The particle {{zh-l|乎|hohⁿ}} provides a similar effect.\n\n{{attention|zh|zh-dial?}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}\n{{onomatopoeic|zh}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=bā\n|c=baa1\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|onomatopoeia}} sound of [[crackling]]; [[crack]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=bā\n|c=baa1\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal}} to [[smoke]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-forms}}\nBorrowed from {{bor|zh|en|bar}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=bā\n|c=baa1\n|h=pfs=pâ\n|mn=pa\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[bar]]\n#: {{zh-x|酒吧{bā}|bar; pub}}\n#: {{zh-x|貼吧{bā}|internet board (''lit.'' posting '''bar''')}}\n#: {{zh-x|迪吧{bā}|disco}}\n# {{zh-abbrev|貼吧|internet board}}\n# {{non-gloss definition|[[transliteration]] character}}\n#: {{zh-x|迪吧{bā}|diva}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|吧檯|迪吧|酒吧|貼吧|網吧|氧吧}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{zh-pron\n|m=bā\n|mc=2\n|oc=1\n|cat=v\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{zh-only|吧呀}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{zh-pron\n|m=pā\n|mc=1\n|oc=2\n|cat=a\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{zh-only|吧呀}}\n\n{{zh-cat|Beginning}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

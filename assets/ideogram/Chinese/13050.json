@@ -1,0 +1,51 @@
+{
+  "title": "坷",
+  "ns": 0,
+  "id": 13050,
+  "timestamp": 1545313316000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=kě\n|c=ho2\n|mn=qz:khóⁿ/xm,zz:khó/tw:khia̍t\n|mn_note=khia̍t - 碣 is used in the Mainland\n|mn-t=ko1\n|mc=y\n|oc=y\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|坎坷}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=kē\n|c=ho1\n|cat=n,pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used in|坷垃}}\n# {{n-g|A placename in ancient China.}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

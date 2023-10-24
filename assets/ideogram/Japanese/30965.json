@@ -1,0 +1,71 @@
+{
+  "title": "鞄",
+  "ns": 0,
+  "id": 30965,
+  "timestamp": 1525160023000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=8|rs=革05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=びょう\n|kanon=ほう\n|kun=かばん-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|かばん|yomi=k}}\nSaid to be derived from {{der|ja|zh|夾板|sort=さんぱん}} or {{m|zh|夾槾}}.<ref name=\"DJR\">{{R:Daijirin}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|かばん|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かばん|カバン}}\n\n# [[bag]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* {{U:ja:informal|カバン}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|折り鞄|おりかばん}}\n* {{ja-r|鞄語|かばんご|{{lb|ja|linguistics|nocat=1}} [[portmanteau word]]}}\n* {{ja-r|鞄持ち|かばんもち}}\n* {{ja-r|提げ鞄|さげかばん}}\n* {{ja-r|支那鞄|しなかばん}}\n* {{ja-r|通学鞄|つうがくかばん|[[schoolbag]]}}\n* {{ja-r|手鞄|てかばん}}\n* {{ja-r|手提げ鞄|てさげかばん}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* Korean: {{l|ko|가방}}\n* Min Nan: {{l|nan|kha-báng}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|かばん]]\n[[Category:ja:Containers|かばん]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

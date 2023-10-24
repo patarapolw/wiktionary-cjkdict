@@ -1,0 +1,44 @@
+{
+  "title": "飧",
+  "ns": 0,
+  "id": 31344,
+  "timestamp": 1495668074000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=sūn\n|c=syun1\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|以噎廢飧|壺飧|易子而飧|盤飧|狼飧虎嚥|朝饔夕飧|饔飧不飽|饔飧不繼|饔飧|風飧露宿|饔飧不給}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "塚",
+  "ns": 0,
+  "id": 13295,
+  "timestamp": 1547073459000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|冢}}\n{{character info/new}}\n{{character info/new|0xfa10}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|塚|冢|塚}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* There are two Unicode z-variants, at code points U+585A and U+FA10. The latter form (U+FA10) has the next to last stroke of {{l|mul|豖}} connected to the top horizontal stroke (similar to {{l|mul|衣}}).\n* The Japanese form of the character is written with {{l|mul|豕}} instead of {{l|mul|豖}} as its bottom right component. However both {{lang|ja|塚}} (Japanese) and {{lang|und|sc=Hant|塚}} (traditional Chinese) forms are encoded under the same codepoint."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=10|asj=09|sn=13|snj=12|four=47132|canj=GBMO|ids=⿰土冢(GHTK),⿰土⿱冖豕(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0236.020|dkj=05345|dj=0473.180|hdz=10476.070|uh=585A|ud=22618|bh=B6EF|bd=46831}}\n* {{Han ref|uh=FA10}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "The [[Kangxi]] dictionary lists 塚 as the [[unorthodox]] form ([[俗字]]) of [[冢]]. However, the usage of 塚 persists in Japan with one stroke removed. In traditional and simplified Chinese [[冢]] is the [[orthodox]] form ([[正字]]) of the character. As a variant character, 塚 is used in mainland China."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "棟",
+  "ns": 0,
+  "id": 17715,
+  "timestamp": 1549591162000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|栋}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanjitab|とう|yomi=o}}\n{{ja-kanjitab|むね|yomi=k}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=木08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=つ, つう\n|kanon=とう\n|kun=むね-, むな-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|とう|counter}}\n\n# buildings"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とう}}\n\n# large building\n\n{{ja-noun|むね}}\n\n# ridge of a roof"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|とう|suffix}}\n\n# building"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

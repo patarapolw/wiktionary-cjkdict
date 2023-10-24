@@ -1,0 +1,44 @@
+{
+  "title": "佩",
+  "ns": 0,
+  "id": 10830,
+  "timestamp": 1529679614000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|珮}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=はい\n|kun=おびだま-, お-びる, は-く\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|はい|counter}}\n\n# [[sword]]s"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はい}}\n\n# ancient ornamental [[belt]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

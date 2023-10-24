@@ -1,0 +1,56 @@
+{
+  "title": "姿",
+  "ns": 0,
+  "id": 13719,
+  "timestamp": 1531633052000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=女06}}\n\n# figure",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=し\n|kun=すがた-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|すがた|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|すがた|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|すがた}}\n\n# [[figure]], [[appearance]], [[form]], [[aspect]], [[shape]]\n#: {{ja-usex|[[刻々]]と'''姿'''を[[変える]][[雲]]|こくこく と '''すがた''' を かえる くも|the clouds, contunuously changing their '''shape'''}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

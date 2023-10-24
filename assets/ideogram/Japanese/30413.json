@@ -1,0 +1,44 @@
+{
+  "title": "開",
+  "ns": 0,
+  "id": 30413,
+  "timestamp": 1553568041000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|开}}\n{{character info/new}}\n{{character info/new|0x2f9ee}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Japanese abbreviation kanji kai.png|thumb|right|70px|[[w:en:Ryakuji|Ryakuji]] for 開, based on ryakuji for [[門#Japanese|門]]; compare also [[間#Japanese|間]] and [[𫔭]].]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=門04}}\n\n# [[open]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かい, け\n|kanon=かい\n|kun=ひら-く, ひら-ける, あ-ける, あ-く\n|nanori=さく, はる, はるき, ひら, ひらかす, ひらき, ひらく\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{sense|to open}} {{l|ja|閉}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{l|ja|開く}}\n* {{l|ja|開ける}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "翼",
+  "ns": 0,
+  "id": 24083,
+  "timestamp": 1552016489000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=羽11}}\n\n# [[wing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いき<いき\n|kanon=よく<よく\n|kun=つばさ-<つばさ-, たす-ける<たす-ける\n|nanori=すけ, たすく\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|扶翼|ふよく}}: [[assistance]]\n* {{ja-r|翼賛|よくさん}}\n* {{ja-r|翼成|よくせい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{swp|lang=ja}}\n{{ja-kanjitab|つばさ|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|つばさ|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つばさ}}\n\n# [[wing]]\n#* {{quote-book|||EXTRA PACK 2015\n|||chapter={{jaru|[輝](き)[銀](ぎん)の[天空船](スカイシップ)－レオ[号](ごう)}}\n|trans-chapter=Silvery Skyship – Mk. Leo\n|publisher={{w|Konami}}\n|lang=ja\n|date=Sep 19 2015}}\n#*: {{ja-usex|輝%銀の'''翼'''は栄%光の印。<br>その証は言%葉によって語られる。|^き%ぎん の '''つばさ''' は えい%こう の ひるし。<br>^その あかし は こと%ば に よって かたられる。|Her silvery wings display her glory.<br>The proof of her glories are told in legend.}}\n\n{{C|ja|Limbs|sort=つばさ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|つばさ|proper}}\n\n# {{given name|male|lang=ja|sort=つばさ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|よく|yomi=o}}\nFrom {{etyl|ltc|ja|sort=よく}} {{ltc-l|翼|wing}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=ko|よく|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|よく}}\n\n# [[wing]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|words with multiple readings}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

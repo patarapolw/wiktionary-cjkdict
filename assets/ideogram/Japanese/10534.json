@@ -1,0 +1,63 @@
+{
+  "title": "亥",
+  "ns": 0,
+  "id": 10534,
+  "timestamp": 1549346836000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=亠04}}\n\n# {{defn|lang=ja|sort=亠04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がい\n|kanon=かい\n|kun=い-<ゐ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|い|yomi=k}}\n{{wp|lang=ja}}\nFrom {{m|ja|猪|tr=inoshishi, i||[[boar]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=1|acc2=0|y=k|い}}\n* {{hmp|lang=ja|sort=い|イ|井|胆|猪|豬|堰|藺|伊|夷|衣|医|易|威|胃|帷|異|偉|意|緯|彝}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|い|hhira=ゐ}}\n\n# the {{w|Pig (zodiac)|Boar}}, the twelfth of the twelve {{w|Earthly Branches}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|がい|yomi=o}}\nFrom {{der|ja|ltc|亥|tr=hoj<sup>X</sup>|sort=かい'}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|がい}}\n\n# the {{w|Pig (zodiac)|Boar}}, the twelfth of the twelve {{w|Earthly Branches}}\n\n{{cln|ja|words with multiple readings}}\n{{topics|ja|Earthly Branches|sort=い}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

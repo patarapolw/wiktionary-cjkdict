@@ -1,0 +1,39 @@
+{
+  "title": "包",
+  "ns": 0,
+  "id": 11831,
+  "timestamp": 1553689858000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F829}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=勹03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう<へう\n|kanon=ほう<はう\n|kun=つつ-む, くる-む\n|nanori=お, かね\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|パオ}}\n\n# [[yurt]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

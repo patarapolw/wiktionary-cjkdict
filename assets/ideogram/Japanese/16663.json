@@ -1,0 +1,49 @@
+{
+  "title": "擲",
+  "ns": 0,
+  "id": 16663,
+  "timestamp": 1532755620000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|掷}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手15}}\n\n# [[abandon]], [[throw away]]\n# [[hit]], [[strike]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃく<ぢやく\n|kanon=てき\n|kun=なぐ-る, なげう-つ\n|nanori=たたき\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|擲弾|てきだん}}\n* {{ja-r|一擲|いってき}}\n* {{ja-r|打擲|ちょうちゃく}}\n* {{ja-r|投擲|とうてき}}\n* {{ja-r|放擲|ほうてき|rom=-}}, {{ja-r|抛擲|ほうてき}}\n* {{ja-r|擲石|いしなご}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|たたき|yomi=k}}\nFrom {{m|ja|叩き|tr=tataki||[[hit]]ting, [[strike|striking]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|たたき}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=たたき}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

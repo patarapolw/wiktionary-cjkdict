@@ -1,0 +1,39 @@
+{
+  "title": "苔",
+  "ns": 0,
+  "id": 24834,
+  "timestamp": 1549853461000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸05}}\n\n# [[moss]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だい\n|kanon=たい\n|kun=こけ-, こけら-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|海苔|のり|[[laver]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

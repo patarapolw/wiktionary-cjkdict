@@ -1,0 +1,37 @@
+{
+  "title": "蓳",
+  "ns": 0,
+  "id": 25414,
+  "timestamp": 1553047897000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F9A9}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "<div style=\"float:right\">{{zh-forms|t2=菫|t3=堇|s=堇}}</div>",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym|堇}}\n{{Han compound|艸|堇|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jǐn\n|c=gan2\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{taxlink|Viola verecunda|species}}, a kind of [[violet]].\n\n{{zh-cat|Flowers|Malpighiales order plants}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

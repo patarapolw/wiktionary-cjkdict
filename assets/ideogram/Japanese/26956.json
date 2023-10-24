@@ -1,0 +1,44 @@
+{
+  "title": "詔",
+  "ns": 0,
+  "id": 26956,
+  "timestamp": 1543114910000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|诏}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=言05}}\n\n# {{defn|lang=ja|sort=言05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<せう\n|kanon=しょう<せう\n|kun=みことのり-, つ-げる\n|nanori=さとし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This is one of only three everyday kanji with a 5 morae reading, and one of only two nouns, namely {{ja-r|詔|みことのり}}. The only other kanji with a 5 morae reading are {{lang|ja|承}}, in the verb {{ja-r|承る|うけたまわる}}, and {{ja-r|志|こころざし}}, and no everyday kanji have a 6 or more morae reading.\n\nThe unusually long reading is due to it representing a triple compound word, analyzed as {{ja-r|御%言%宣|み%こと%のり}}, yielding 1+2+2=5."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|詔%書|しょう%しょ}}\n* {{ja-r|詔%勅|しょう%ちょく}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "灸",
+  "ns": 0,
+  "id": 19816,
+  "timestamp": 1511159571000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}\n\n# ([[뜸]]) [[moxibustion]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[鍼灸]] ([[침구]], ''chimgu'') [[acupuncture]] and [[moxibustion]]"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|ko|艾}} ([[애]], ''ae'') [[moxa]], [[mugwort]]\n* {{l|ko|鍼}} ([[침]], ''chim'') [[acupuncture]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

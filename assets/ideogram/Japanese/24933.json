@@ -1,0 +1,81 @@
+{
+  "title": "茶",
+  "ns": 0,
+  "id": 24933,
+  "timestamp": 1551708124000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|苶|荼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=艸06}}\n\n# [[tea]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃ<ぢや\n|kanon=た\n|toon=さ\n|kanyoon=ちゃ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|烏竜%茶|うーろん%ちゃ}}: [[oolong tea]]\n* {{ja-r|喫茶%店|きっさ%てん}}: tearoom; café\n* {{ja-r|紅%茶|こう%ちゃ}}: [[black tea]]\n* {{ja-r|古%茶|こ%ちゃ}}: [[tea]] from [[last]] [[year]]\n* {{ja-r|粉%茶|こな%ちゃ}}: [[dust]] [[tea]]\n* {{ja-r|新%茶|しん%ちゃ}}: [[new]] [[tea]] of the [[year]]\n* {{ja-r|茶%色|ちゃ%いろ}}: brown\n* {{ja-r|茶%園|ちゃ%えん}}: [[tea]] [[plantation]]\n* {{ja-r|茶%会|ちゃ%かい}}: [[tea party]]\n* {{ja-r|茶%器|ちゃ%き}}: [[teaware]]\n{{der-mid}}\n* {{ja-r|茶%匙|ちゃ%さじ}}: [[teaspoon]]\n* {{ja-r|茶の湯|ちゃのゆ}}: [[tea ceremony]]\n* {{ja-r|茶%畑|ちゃ%ばたけ}}: [[tea]] [[plantation]]\n* {{ja-r|品%茶|ひん%ちゃ}}: [[tea]] [[evaluation]]; a game of drinking varieties of tea and guessing them correctly\n* {{ja-r|焙じ茶|ほうじちゃ}}: [[roasted]] [[green tea]]\n* {{ja-r|抹%茶|まっ%ちゃ}}: [[maccha]], [[matcha]]\n* {{ja-r|無%茶|む%ちゃ}}: reckless\n* {{ja-r|緑%茶|りょく%ちゃ}}: [[green tea]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n[[File:Tea soothingr.jpg|thumb|250px|{{l|ja||茶}} (''cha''): a cup of '''[[tea]]'''.]]\n</div>\n{{ja-kanjitab|ちゃ|yomi=kanyoon}}\nFrom various dialects of {{der|ja|ltc|-|sort=ちゃ}} {{ltc-l|茶}}. Compare modern {{cog|cmn|-}} reading ''chá'', {{cog|hak|-}} ''chhà'', {{cog|yue|-}} ''caa<sup>4</sup>''."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|ちゃ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ちゃ}}\n\n# [[tea]] {{qualifier|not used in isolation in modern Japanese}}\n# [[brown]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This term is not used on its own in modern Japanese. For the {{m|en|tea}} sense, this is used either with the honorific prefix {{m|ja|お|tr=o-}}, or in a compound such as {{m|ja|茎茶|tr=kukicha|lit=stem tea}} or {{m|ja|緑茶|tr=ryokucha||green tea}}.\n* {{ja-usex|お'''茶'''はいかがですか。|お'''ちゃ''' は いかが ですか。|How about some tea? (Would you like some tea?)}}\nFor the {{m|en|brown}} sense, this is used with the color suffix {{m|ja|色|tr=-iro}}, as in {{m|ja|茶色|tr=chairo||brown|lit=tea color}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|茗|めい}} {{q|rare}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{desc|bor=1|ain|チャ|tr=ca}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|湯|ゆ}}: [[hot water]]; {{qualifier|by extension}} [[tea]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Tea|ちゃ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

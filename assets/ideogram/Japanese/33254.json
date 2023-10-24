@@ -1,0 +1,34 @@
+{
+  "title": "龜",
+  "ns": 0,
+  "id": 33254,
+  "timestamp": 1539371765000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|龟|亀}}\n{{character info/new}}\n{{character info/new|codepoint=0xf907}}\n{{character info/new|codepoint=0xf908}}\n{{character info/new|codepoint=0xface}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|亀|龜}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=龜00|shin=亀}}\n\n# [[turtle]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=き, きゅう, きん\n|kun=かめ-\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

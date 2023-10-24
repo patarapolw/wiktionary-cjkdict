@@ -1,0 +1,44 @@
+{
+  "title": "著",
+  "ns": 0,
+  "id": 25243,
+  "timestamp": 1553050444000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|着}}\n{{character info/new}}\n{{character info|0xFA5F}}\n{{character info|0x2F99F}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=艸08}}\n\n# [[renowned]]\n# to [[publish]]\n# to [[write]]\n# [[remarkable]]\n# [[phenomenal]]\n# to [[put on]]\n# to [[don]]\n# to [[wear]]\n# [[arrival]]\n# to [[finish]] a [[race]]\n# [[counter]] for [[suits]] of [[clothing]]\n# [[literary]] [[work]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃく, ちょ\n|kanon=ちゃく, ちょ\n|kun=あらわ-す, いちじる-し.い, つ-く\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ちょ}}\n\n# [[book]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|ちょ}}\n\n# [[written]] [[by]] (the [[author]] of a [[book]])\n#: {{ja-usex|[[w:ja:宮沢賢治|宮%沢%賢%治]]%'''著'''|^みや%ざわ% ^けん%じ%-'''ちょ'''|'''by''' {{w|Kenji Miyazawa}}}}\n# [[striking]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

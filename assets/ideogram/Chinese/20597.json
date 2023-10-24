@@ -1,0 +1,66 @@
+{
+  "title": "獠",
+  "ns": 0,
+  "id": 20597,
+  "timestamp": 1551089567000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|犬|尞|c1=s|c2=p|t1=beast|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{rfe|zh|see Schuessler P357}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=liáo\n|c=liu4\n|mc=1\n|oc=3\n|ma=\n|cat=v,a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[hunt]] (especially at [[night]])\n# [[savage]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|獠牙|獠面|獠丁|獠子|青臉獠牙|長嘴獠牙|青面獠牙|饞獠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-wp|zh:僚人|en:Rau peoples}}\nFrom a Tai language. See Wikipedia for more.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=lǎo\n|c=lou5\n|mc=2+3\n|oc=1+2\n|ma=\n|cat=pn,n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|historical|pejorative}} {{n-g|General names for ethnic groups in southwestern China.}}\n# {{lb|zh|offensive}} {{rfdef|zh}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

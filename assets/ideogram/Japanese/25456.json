@@ -1,0 +1,49 @@
+{
+  "title": "蔕",
+  "ns": 0,
+  "id": 25456,
+  "timestamp": 1506210503000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸11}}\n\n# {{defn|lang=ja|sort=艸11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たい\n|kanon=てい\n|kun=へた-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|へた|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|へた}}\n\n# {{lb|ja|botany|sort=へた}} [[calyx]] of a fruit"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|萼|がく}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

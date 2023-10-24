@@ -1,0 +1,66 @@
+{
+  "title": "威",
+  "ns": 0,
+  "id": 13724,
+  "timestamp": 1552578044000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=女06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ\n|kanon=い<ゐ\n|kun=おど-す, おど-し, おど-かす\n|nanori=いさ, たけ, たけし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=o}}\n{{IPAchar|/wi/}} → {{IPAchar|/i/}}\n\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|威}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|い|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|い|hhira=ゐ}}\n\n# [[power]]; [[might]]; [[strength]]; [[authority]]"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い|hhira=ゐ}}\n\n# [[power]]; [[might]]; [[strength]]; [[authority]]; [[dignity]]; [[majesty]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|威%力|い%りょく}}: power, might\n* {{ja-r|威%勢|い%せい}}: spirits, power\n* {{ja-r|威%張る|い%ばる}}: put on airs, boast\n* {{ja-r|権%威|けん%い}}: authority, power\n* {{ja-r|示%威|じ%い}}: show of force\n* {{ja-r|猛%威|もう%い}}: fierceness, fury\n* {{ja-r|球%威 の 有る 投%球|きゅう%い の ある とう%きゅう}}: powerful delivery\n* {{ja-r|威%厳|い%げん}}: solemn dignity\n* {{ja-r|威%風|い%ふう}}: majesty, dignity\n* {{ja-r|威%容|い%よう}}: dignified appearance\n* {{ja-r|威%儀|い%ぎ}}: dignity, dignified manner\n* {{ja-r|威%信|い%しん}}: prestige, dignity\n* {{ja-r|威%圧|い%あつ}}: coercion, high-handedness\n* {{ja-r|威%嚇|い%かく}}: intimidate, threaten\n* {{ja-r|脅%威|きょう%い}}: threat, menace\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

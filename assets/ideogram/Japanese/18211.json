@@ -1,0 +1,39 @@
+{
+  "title": "檸",
+  "ns": 0,
+  "id": 18211,
+  "timestamp": 1521350098000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|柠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木14}}\n\n# {{defn|lang=ja|sort=木14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にょう\n|kanon=のう\n|kanyoon=ねい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|檸檬|れもん|gloss=[[lemon]]}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

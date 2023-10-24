@@ -1,0 +1,44 @@
+{
+  "title": "灸",
+  "ns": 0,
+  "id": 19816,
+  "timestamp": 1511159571000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiǔ\n|c=gau3\n|h=pfs=kiu\n|mn=kù/kiù\n|mn_note=kù - vernacular; kiù - literary\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|灸刺|灸法|無病自灸|直接灸|砭灸|蠻針瞎灸|針灸|針灸銅人|針灸麻醉|鍼灸|鍼灸銅人|間接灸}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

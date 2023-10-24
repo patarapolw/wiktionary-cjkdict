@@ -1,0 +1,44 @@
+{
+  "title": "斗",
+  "ns": 0,
+  "id": 16826,
+  "timestamp": 1550347802000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鬥|头}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=斗00}}\n\n# a unit of liquid measure",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=つ\n|kanon=とう\n|kanyoon=と\n|kun=ます-, ひしゃく-, とます-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|北%斗|ほく%と}}: the [[Big Dipper]]; the [[North Star]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|と}}\n\n# an obsolete unit of liquid measure equal to 18 liters or 18000 cc."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

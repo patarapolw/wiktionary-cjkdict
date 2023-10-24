@@ -1,0 +1,39 @@
+{
+  "title": "聾",
+  "ns": 0,
+  "id": 24223,
+  "timestamp": 1546521989000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|聋}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=耳16}}\n\n# [[deafness]]\n# [[deaf]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ろう\n|kun=つんぼ-, みみしい-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[聾唖]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "鴟",
+  "ns": 0,
+  "id": 32551,
+  "timestamp": 1553571674000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鸱}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥05}}\n\n# {{defn|lang=ja|sort=鳥05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=とび-, ふくろう-<ふくろふ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|yomi=k|とび}}\n{{ja-noun|とび|トビ}}\n\n# {{altspell|lang=ja|鳶||[[black kite]]}}\n\n{{C|ja|Birds of prey|sort=とび}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

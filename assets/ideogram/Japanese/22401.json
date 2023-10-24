@@ -1,0 +1,73 @@
+{
+  "title": "移",
+  "ns": 0,
+  "id": 22401,
+  "timestamp": 1553563235000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=禾06}}\n\n# change",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い\n|kanon=い\n|kun=うつ-る, うつ-す, うつ-ろい\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=on}}\nFrom {{der|ja|ltc|sort=|-}} {{ltc-l|移}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|い|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|い}}\n\n# {{lb|ja|historical}} under the [[w:Ritsuryō|Ritsuryō]] system of ancient Japan, an [[official]] [[document]] exchanged between officials with no direct authority over each other",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|移し文|うつしぶみ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|牒|ちょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い}}\n\n# [[shift]]; [[move]]; [[change]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|転移|てんい}}: [[transition]]; [[transference]]\n* {{ja-r|移転|いてん}}: [[transfer]]\n* {{ja-r|変移|へんい}}: to change, [[shift]], [[alterate]], [[transmutate]], [[transubstantiate]]\n* {{ja-r|移管|いかん}}: [[transfer]]\n* {{ja-r|移%植|い%しょく}}: [[transplantation]]\n* {{ja-r|移譲|いじょう}}: [[transfer]]\n* {{ja-r|移動|いどう}}: [[move]]\n* {{ja-r|移入|いにゅう}}: [[populate]]\n* {{ja-r|移民|いみん}}: [[immigration]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "屋",
+  "ns": 0,
+  "id": 14347,
+  "timestamp": 1553446255000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=尸06\n|hanviet=ốc-tdcndg;tdcntd;gdhn;bonet\n|phienthiet=烏谷 ô cốc\n|nom=ốc-tdcndg;tdcntd;bonet;taberd, óc-tdcndg;tdcntd, ọc-gdhn;btcn, nóc-tdcndg\n}}\n\n# {{han tu form of|ốc|[[house]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=vi\n|{{vi-l|房屋|phòng ốc}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

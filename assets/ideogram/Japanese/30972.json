@@ -1,0 +1,78 @@
+{
+  "title": "鞋",
+  "ns": 0,
+  "id": 30972,
+  "timestamp": 1533823824000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鞵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=革06}}\n\n# [[shoes]]; [[shoe]]; [[footwear]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ\n|kanon=かい\n|kanyoon=あい\n|kun=くつ-, わらじ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|草鞋|わらじ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|くつ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くつ|acc=2|acc_ref=NHK,DJR|dev=1}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くつ}}\n\n# {{altspell|lang=ja|靴||[[piece]] of [[footwear]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|わらじ|r=y}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|わらじ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|わらじ|hhira=わらぢ}}\n\n# {{rarespell|lang=ja|sort=わらじ|草鞋||[[straw]] [[sandal]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

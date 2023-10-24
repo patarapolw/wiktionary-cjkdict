@@ -1,0 +1,51 @@
+{
+  "title": "怡",
+  "ns": 0,
+  "id": 15415,
+  "timestamp": 1548343228000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=心05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い\n|kanon=い\n|kun=よろこ-ぶ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=o}}\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|怡}}."
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い}}\n\n# [[rejoice]]; [[enjoy]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|怡%怡|い%い}}\n* {{ja-r|怡%悦|い%えつ}}\n* {{ja-r|怡%然|い%ぜん}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

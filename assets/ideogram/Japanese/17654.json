@@ -1,0 +1,95 @@
+{
+  "title": "梢",
+  "ns": 0,
+  "id": 17654,
+  "timestamp": 1547563797000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木07}}\n\n# [[treetop]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<せう\n|kanon=そう<さう\n|kun=こずえ-<こずゑ-\n|nanori=あずさ<あづさ, すえ<すゑ, たか\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|梢頭|しょうとう}}\n* {{ja-r|花梢|かしょう}}\n* {{ja-r|枯梢|こしょう}}\n* {{ja-r|黄梢|こうしょう}}\n* {{ja-r|樹梢|じゅしょう}}\n* {{ja-r|梅%梢|ばい%しょう}}\n* {{ja-r|末梢|まっしょう}}\n* {{ja-r|木%梢|もく%しょう}}\n* {{ja-r|林梢|りんしょう}}\n* {{ja-r|梢%付き 塔婆|うれ%つき とうば}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|こずえ}}\n\nOriginally a compound of {{com|ja|sort=こすえ|木|tr1=ko|t1=[[tree]]|pos1=combining form|末|tr2=sue|t2=[[tip]], [[end]]}}.\n\n{{rendaku2|sort=こすえ|sue|zue}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|杪}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|こずえ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こずえ|hhira=こずゑ}}\n\n# a [[treetop]]\n#: {{syn|ja|木末|tr=konure}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n* {{ja-r|梢%子|^こずえ%こ}}\n* {{ja-r|梢の秋|こずえ の あき}}\n* {{ja-r|梢の嵐|こずえ の あらし}}\n* {{ja-r|梢の雲|こずえ の くも}}\n* {{ja-r|梢の空|こずえ の そら}}\n* {{ja-r|梢の床|こずえ の とこ}}\n* {{ja-r|梢の夏|こずえ の なつ}}\n* {{ja-r|梢の春|こずえ の はる}}\n* {{ja-r|梢の雪|こずえ の ゆき}}\n* {{ja-r|雲の梢|くも の こずえ}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Proverbs",
+                      "text": "* {{ja-r|花は折りたし梢は高し|はな は おりたし こずえ は たかし}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|こずえ|hhira=こずゑ}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=こすえ}}\n# {{surname|lang=ja|A=a|nodot=1|sort=こすえ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=goon|しょう}}\n{{IPAchar|/seu/}} → {{IPAchar|/ɕeu/}} → {{IPAchar|/ɕoː/}}\n\nFrom {{bor|ja|ltc|sort=しよう|-}} {{ltc-l|梢}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しょう|hhira=せう}}\n\n# {{given name|female|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

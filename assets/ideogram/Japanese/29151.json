@@ -1,0 +1,39 @@
+{
+  "title": "醗",
+  "ns": 0,
+  "id": 29151,
+  "timestamp": 1536206510000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|醱}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|kyu=醱|rs=酉09}}\n\n# to [[ferment]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=はち\n|kanon=はつ\n|kun=かも-す}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|醗酵|はっこう|[[fermentation]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

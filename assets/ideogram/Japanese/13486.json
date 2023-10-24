@@ -1,0 +1,61 @@
+{
+  "title": "夕",
+  "ns": 0,
+  "id": 13486,
+  "timestamp": 1554169189000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|タ}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=夕00}}\n\n# [[evening]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃく\n|kanon=せき\n|kun=ゆう-<ゆふ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|ゆう}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|ゆう|y=k|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ゆう|hhira=ゆふ}}\n\n# [[evening]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|夕べ|ゆうべ}}\n* {{ja-r|夕暮れ|ゆうぐれ}}\n* {{ja-r|夕方|ゆうがた}}\n* {{ja-r|夕%食|ゆう%しょく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "栟",
+  "ns": 0,
+  "id": 17521,
+  "timestamp": 1553309657000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8E5}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=bīng\n|c=bing1\n|mc=y\n|oc=y\n|ma=\n|cat=pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|栟櫚}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=bēn\n|ma=\n|cat=pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|栟茶}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

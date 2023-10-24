@@ -1,0 +1,59 @@
+{
+  "title": "温",
+  "ns": 0,
+  "id": 19165,
+  "timestamp": 1552642984000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|溫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|温|溫}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=水09|kyu=溫}}\n\n# [[warm]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん<をん\n|kanon=おん<をん\n|toon=うん\n|kun=あたた-か, あたた-める, あたた-かい, あたた-まる, ぬる-い, ぬく-もり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top4}}\n* {{ja-r|温泉|おんせん}}: [[hot spring]]\n{{mid4}}\n* {{ja-r|温かい|あたたかい}}: [[warm]] (of an object)\n{{mid4}}\n* {{ja-r|温い|ぬるい}}: [[lukewarm]], [[tepid]] (of an object)\n{{mid4}}\n* {{ja-r|温もり|ぬくもり}}: [[warmth]]\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おん|yomi=on}}\nFrom {{der|ja|ltc|sort=おん|-}} {{ltc-l|溫}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|おん|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|おん|kyu=溫|hhira=をん}}\n\n# [[warm]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|おん|kyu=溫|hhira=をん}}\n\n# {{given name|male|lang=ja|sort=おん}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

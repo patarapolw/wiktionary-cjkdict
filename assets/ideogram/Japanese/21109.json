@@ -1,0 +1,68 @@
+{
+  "title": "申",
+  "ns": 0,
+  "id": 21109,
+  "timestamp": 1538184661000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|田|甲|由|𢑚}}\n{{character info/new}}\n{{character info/new|🈸}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=田00}}\n\n# {{qualifier|humble}} to [[speak]]\n# the [[monkey]], one of the twelve animals of the {{w|Chinese zodiac}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん\n|kanon=しん\n|kun=もう-す, もう-し, さる-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|さる|yomi=k}}\n{{wp|lang=ja}}\nFrom {{m|ja|猿|tr=saru||[[monkey]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=1|y=k|さる|acc_ref=DJR,SMK5,NHK}}\n* {{hmp|lang=ja|sort=さる|猿|去る|避る|然る}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|さる}}\n\n# the {{w|Monkey (zodiac)|Monkey}}, the ninth of the twelve {{w|Earthly Branches}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しん|yomi=o}}\nFrom {{der|ja|ltc|申|tr=syin|sort=しん}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しん}}\n\n# the {{w|Monkey (zodiac)|Monkey}}, the ninth of the twelve {{w|Earthly Branches}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|words with multiple readings}}\n{{topics|ja|Earthly Branches|sort=さる}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

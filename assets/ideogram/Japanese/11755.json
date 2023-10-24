@@ -1,0 +1,44 @@
+{
+  "title": "効",
+  "ns": 0,
+  "id": 11755,
+  "timestamp": 1553547337000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|效}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|効|效}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=力06|kyu=效}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<げう\n|kanon=こう<かう\n|kun=き-く, なら-う, いた-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|有効|ゆうこう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こう}}\n\n# [[efficacy]], [[benefit]], [[effect]]\n\n{{ja-noun|かい}}\n\n# {{alternative form of|甲斐|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

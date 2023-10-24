@@ -1,0 +1,39 @@
+{
+  "title": "嚤",
+  "ns": 0,
+  "id": 12832,
+  "timestamp": 1528117650000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=mó\n|c=mo1\n|cat=adj\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese|_|slang}} [[slow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|嚤囉}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

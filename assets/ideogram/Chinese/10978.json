@@ -1,0 +1,114 @@
+{
+  "title": "俺",
+  "ns": 0,
+  "id": 10978,
+  "timestamp": 1550033230000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}\nFusion of {{zh-l|我們}} ({{zh-ref|Lü, 1984}}; {{zh-ref|Norman, 1988}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=ǎn\n|c=jim3,aan2\n|w=2oe\n|cat=pron\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal Mandarin}} [[I]]; [[me]]; [[my]]\n# {{lb|zh|dialectal Mandarin|exclusive}} [[we]]; [[us]]; [[our]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|我}}\n{{zh-dial|我們}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|俺們}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=安}}\n{{rfe|zh|are these the same word? lán > án?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|mn=xm,zz,tw:án/qz:an\n|cat=pref,pron\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Hokkien|honorific}} {{n-g|Prefix for kinship terms.}}\n#: {{zh-x|俺公{kong}|grandpa|MN}}\n# {{lb|zh|Taiwan Min Nan|inclusive}} {{zh-synonym|咱|tr=lán|[[we]]; [[us]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|俺公|俺媽|俺祖|俺爹|俺爸|俺二仔|俺姊|俺母}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms}}\nCognate with {{cog|nan-hok|咱|tr=lán}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|mn-t=nang2\n|cat=pron\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Teochew|inclusive}} [[we]]; [[us]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|咱們}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yàn\n|c=jim3\n|mc=y\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[large]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

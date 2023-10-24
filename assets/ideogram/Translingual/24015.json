@@ -1,0 +1,44 @@
+{
+  "title": "羽",
+  "ns": 0,
+  "id": 24015,
+  "timestamp": 1552876132000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa1e}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=6}}\n{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In {{w|Written Chinese|modern Chinese}} scripts, Japanese {{w|kanji}} and Vietnamese {{w|History of writing in Vietnam|Nôm}}, the two strokes in the component {{l|mul|习}} are written in opposite directions (<big>{{l|mul|冫}}</big>).\n* In Korean {{w|hanja}}, the two strokes in the component {{l|mul|习}} are written in the same direction ({{l|mul|丿}}), which is also the historical form found in the {{w|Kangxi dictionary}}.\n* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+FA1E</code> for the historical form found in the {{w|Kangxi dictionary}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=124|rad=羽|as=00|sn=6|four=17120|canj=SMSIM,SHSHH|ids=⿰习习(GHTJV),⿰⿹𠃌⿱丿丿⿹𠃌⿱丿丿(K,<code>U+FA1E</code>)}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/羽]]\n* {{l|mul|[[𪜹]], [[𭎛]], [[𪥵]], [[𢌟]], [[𭚰]], [[挧]], [[𣴆]], [[𪰣]], [[栩]], [[𣭜]], [[𪸪]], [[珝]], [[𭾲]], [[𥏊]], [[𥒉]], [[祤]], [[𮇝]], [[䋚]]([[䌻]]), [[蛡]], [[詡]]([[诩]]), [[趐]], [[䟳]], [[𨋾]], [[𨌺]], [[𮠪]], [[𨦫]]([[䦀]]), [[𩗍]], [[𮪄]], [[鮙]], [[䣁]], [[頨]], [[𩢳]], [[𦭳]], [[扇]], [[䎝]], [[䨒]], [[𩭅]], [[𪊮]], [[𨶟]]}} <!-- Characters not found under Radical Index for 羽 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0955.010|dkj=28614|dj=1400.070|hdz=53341.010|uh=7FBD}}\n{{Han ref|uh=FA1E}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

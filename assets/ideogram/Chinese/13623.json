@@ -1,0 +1,44 @@
+{
+  "title": "妞",
+  "ns": 0,
+  "id": 13623,
+  "timestamp": 1534025123000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=niū,er=y\n|c=nau5,nau2\n|mn=niu\n|mc=\n|oc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|colloquial}} girl",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|妞妞|小妞|泡妞|胖妞}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

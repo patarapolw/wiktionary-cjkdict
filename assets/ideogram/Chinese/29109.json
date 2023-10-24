@@ -1,0 +1,49 @@
+{
+  "title": "酯",
+  "ns": 0,
+  "id": 29109,
+  "timestamp": 1525161137000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|酉|旨|c1=s|c2=p|t1=oxygenated functional group|ls=psc}}. Modelled after {{zh-l|脂|lipid}} with a radical input from other oxygenated organic compounds such as {{zh-l|醇|alcohol}} and {{zh-l|酸|acid}}, referring to ester linkages in lipids like [[glyceride]]s."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|脂|lipid}}, referring to ester linkages in lipids like [[glyceride]]s."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhǐ\n|c=zi2\n|h=\n|md=\n|mn=chí\n|w=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic compound}} [[ester]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|𨤎}} {{qualifier|obsolete}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "都",
+  "ns": 0,
+  "id": 28996,
+  "timestamp": 1552900985000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa26}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|都|pic2=都 kyuujitai.PNG}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=邑09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=つ\n|kanon=と\n|on=ちょ\n|kun=みやこ-, すべ-て\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|みやこ|yomi=k}}\n\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|みやこ|yomi=k|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みやこ}}\n\n# [[place]] of [[residence]] of the [[emperor]]\n# [[capital]] [[city]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|と|yomi=o}}\n\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|と|yomi=o|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|と}}\n\n# [[capital]] (city)\n# [[city]]\n# the [[prefecture]] of Tokyo\n#* {{ja-usex|[[東京]]%'''都'''|^とうきょう%-'''と'''|Tokyo; the metropolis of Tokyo}}\n#* {{ja-usex|'''都'''%[[庁]]|^'''と'''%ちょう|the Tokyo Metropolitan Government Office}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|都市|とし}}\n* {{ja-r|首都|しゅと}}\n* {{ja-r|首都高|しゅとこう}}\n* {{ja-r|東京都|とうきょうと}}\n* {{ja-r|都電|とでん}}\n* {{ja-r|京都|^きょうと}}: [[Kyoto]]\n* {{ja-r|都合|つごう}}: [[circumstances]]\n{{mid3}}\n* {{ja-r|都%会|と%かい}}\n* {{ja-r|都銀|とぎん}}\n* {{ja-r|全都|ぜんと}}\n* {{ja-r|都議|とぎ}}\n* {{ja-r|政令指定都市|せいれいしていとし}}\n{{mid3}}\n* {{ja-r|都道府県|とどうふけん}}\n* {{ja-r|不都合|ふつごう}}\n* {{ja-r|都政|とせい}}\n* {{ja-r|古都|こと}}\n* {{ja-r|都心|としん}}\n* {{ja-r|都度|つど}}\n{{bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

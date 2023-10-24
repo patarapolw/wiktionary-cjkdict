@@ -1,0 +1,44 @@
+{
+  "title": "師",
+  "ns": 0,
+  "id": 14895,
+  "timestamp": 1539056058000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|师|帥}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=巾07}}\n\n# [[teacher]], [[master]], one's [[mentor]]\n# religious leader",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=\n|nanori=のし, のり, もろ, かず, つかさ, みつ, もと\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|師%匠|し%しょう}}: a [[master]]\n* {{ja-r|看%護%師|かん%ご%し}}: a [[nurse]]\n* {{ja-r|教%師|きょう%し}}: a [[teacher]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|もろ}}\n\n# {{surname|lang=ja|sort=もろ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

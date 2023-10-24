@@ -1,0 +1,39 @@
+{
+  "title": "龘",
+  "ns": 0,
+  "id": 17645,
+  "timestamp": 1535812582000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|𮄿|龘}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=龍32|shin=𮄿}}\n\n# The appearance of a dragon rising (in flight)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanon=とう<たふ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Not used in modern Japanese."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

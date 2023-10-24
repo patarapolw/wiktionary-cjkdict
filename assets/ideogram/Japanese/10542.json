@@ -1,0 +1,39 @@
+{
+  "title": "亭",
+  "ns": 0,
+  "id": 10542,
+  "timestamp": 1547512037000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|享}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=亠07}}\n\n# {{defn|lang=ja|sort=亠07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<ぢやう\n|kanon=てい\n|toon=ちん\n|kun=あずまや-<あづまや-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|東%屋|あずま%や}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

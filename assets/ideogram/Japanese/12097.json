@@ -1,0 +1,85 @@
+{
+  "title": "各",
+  "ns": 0,
+  "id": 12097,
+  "timestamp": 1545668989000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|名}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=口03}}\n\n# [[each]]\n# [[every]]\n# [[either]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かく\n|kanon=かく\n|kun=おの.おの-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|おのおの|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|おの.おの|yomi=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おの.おの}}\n\n# {{alternative form of|各々|lang=ja|gloss=each; every}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|おの.おの}}\n\n# {{alternative form of|各々|lang=ja|gloss=all of you}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かく|yomi=o}}\nFrom {{der|ja|ltc|sort=かく|-}} {{ltc-l|各}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|かく|acc=1|acc_ref=SMK2,NHK|yomi=o}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|かく}}\n\n# [[each]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der2|lang=ja\n|{{ja-r|各国|かっこく}}\n|{{ja-r|各種|かくしゅ}}\n|{{ja-r|各停|かくてい}}\n|{{ja-r|各駅停車|かくえきていしゃ}}\n}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

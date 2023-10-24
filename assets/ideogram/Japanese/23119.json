@@ -1,0 +1,39 @@
+{
+  "title": "粧",
+  "ns": 0,
+  "id": 23119,
+  "timestamp": 1507157232000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|妆|妝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=米06}}\n\n# {{defn|lang=ja|sort=米06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう\n|kanon=そう\n|kun=よそお-う, よそおい-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|化粧|けしょう}}\n* {{ja-r|化粧室|けしょうしつ}}\n* {{ja-r|化粧品|けしょうひん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

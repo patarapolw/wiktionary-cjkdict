@@ -1,0 +1,54 @@
+{
+  "title": "曲",
+  "ns": 0,
+  "id": 17206,
+  "timestamp": 1547304812000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|麹|麯|典|麴}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=曰02}}\n\n# Song\n# Bent, curved",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こく\n|kanon=きょく\n|kun=ま-がる, ま-げる, くま-, くせ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|曲%解|きょっ%かい}}\n* {{ja-r|曲%技|きょく%ぎ}}\n* {{ja-r|曲%芸|きょく%げい}}\n* {{ja-r|曲%射|きょく%しゃ}}\n* {{ja-r|曲%折|きょく%せつ}}\n* {{ja-r|曲%面|きょく%めん}}\n* {{ja-r|曲%目|きょく%もく}}\n* {{ja-r|曲%論|きょく%ろん}}\n* {{ja-r|曲%者|くせ%もの}}\n* {{ja-r|交%声%曲|こう%せい%きょく}}: [[cantata]]\n* {{ja-r|小%夜%曲|さ%よ%きょく}}, {{ja-r|小%夜%曲|しょう%や%きょく}}: [[serenade]]\n* {{ja-r|奏%鳴%曲|そう%めい%きょく}}: [[sonata]]\n* {{ja-r|夜%曲|や%きょく}}: [[serenade]]\n* {{ja-r|練%習%曲|れん%しゅう%きょく}}: [[etude]]\n{{der-bottom}}\n\n{{ja-kanjitab|きょく|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|きょく|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|きょく}}\n\n# a piece of [[music]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

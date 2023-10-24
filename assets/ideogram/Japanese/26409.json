@@ -1,0 +1,44 @@
+{
+  "title": "衆",
+  "ns": 0,
+  "id": 26409,
+  "timestamp": 1546679766000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|众|眾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=血06}} <!-- No kyūjitai form. Not a shinjitai character -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ<しゆ, す<す\n|kanon=しゅう<しゆう\n|kun=おお-い<おほ-い\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|衆議|しゅうぎ}}\n* {{ja-r|衆議%院|しゅうぎ%いん}}\n* {{ja-r|衆多|しゅうた}}: many\n* {{ja-r|衆兵|しゅうへい}}: many soldiers\n* {{ja-r|公衆|こうしゅう}}: general public, public use\n* {{ja-r|大衆|たいしゅう}}: general public"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しゅう}}\n\n# [[mass]]; [[many]] [[people]]\n# [[majority]]\n\n; Antonyms\n* {{sense|majority}} {{ja-r|寡|か|gloss=[[minority]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

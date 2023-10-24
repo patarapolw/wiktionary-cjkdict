@@ -1,0 +1,71 @@
+{
+  "title": "短",
+  "ns": 0,
+  "id": 21850,
+  "timestamp": 1553498625000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=矢07}}\n\n# [[short]], [[brief]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たん\n|kanon=たん\n|kun=みじか-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|短音|たんおん}}\n* {{ja-r|短歌|たんか}}\n* {{ja-r|短気|たんき}}\n* {{ja-r|短期|たんき}}\n* {{ja-r|短距離|たんきょり}}\n* {{ja-r|短剣|たんけん}}\n* {{ja-r|短冊|たんざく}}\n{{der-mid3}}\n* {{ja-r|短日|たんじつ}}\n* {{ja-r|短銃|たんじゅう}}\n* {{ja-r|短所|たんしょ}}\n* {{ja-r|短小|たんしょう}}\n* {{ja-r|短信|たんしん}}\n* {{ja-r|短針|たんしん}}\n* {{ja-r|短調|たんちゅう}}\n{{der-mid3}}\n* {{ja-r|短刀|たんとう}}\n* {{ja-r|短髪|たんぱつ}}: [[short]] [[hair]]\n* {{ja-r|短文|たんぶん}}\n* {{ja-r|短編|たんぺん}}\n* {{ja-r|短命|たんめい}}\n* {{ja-r|短絡|たんらく}}\n* {{ja-r|短慮|たんりょ}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=3527\n|shift=925A\n|jis=433B\n|euc=C3BB\n|skip=1-5-7\n|freq=689\n|nelson=3172\n|newnelson=3982\n|halpern=3277\n|kld=801\n|heisig=1442\n|tuttle=3d9.27\n}}\n\n{{ja-kanjitab|たん|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|sort=たん|ltc|ja}} {{m|zh|短|tr=twan<sup>X</sup>||short}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|たん|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たん}}\n\n# [[fault]], [[weak]] [[point]]\n# {{lb|sort=たん|ja|music}} [[minor]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{ja-r|長|ちょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

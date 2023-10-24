@@ -1,0 +1,61 @@
+{
+  "title": "犀",
+  "ns": 0,
+  "id": 20373,
+  "timestamp": 1553056618000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F924}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=牛08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さい\n|kanon=せい\n|kun=かた-い, するど-い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|さい|yomi=o}}\n{{swp|lang=ja|サイ}}\nFrom {{der|ja|ltc|tr=sej|犀|sort=さい}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|さい|acc=a|acc_ref=NHK|y=go}}\n** {{hmp|lang=ja|sort=さい|妻|采|賽|骰子|豺|細|斎|債|際|載|差異|差違}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さい|サイ}}\n\n# a [[rhinoceros]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|印%度%犀|^イン%ド%-サイ}}\n* {{ja-r|黒%犀|クロ%サイ}}\n* {{ja-r|ジャワ犀|^ジャワ-サイ}}\n* {{ja-r|白%犀|シロ%サイ}}\n* {{ja-r|スマトラ犀|^スマトラ-サイ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{C|ja|Odd-toed ungulates|sort=さい}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

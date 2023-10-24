@@ -1,0 +1,37 @@
+{
+  "title": "粎",
+  "ns": 0,
+  "id": 23094,
+  "timestamp": 1505110858000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|ls=ic|米|c1=p|尺|c2=s}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=mǐ\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|米|metre}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

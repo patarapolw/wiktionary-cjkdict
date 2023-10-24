@@ -1,0 +1,51 @@
+{
+  "title": "唑",
+  "ns": 0,
+  "id": 12399,
+  "timestamp": 1538449917000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zuò\n|c=zo6\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic compound}} [[azole]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|三唑|四唑|吲唑|咪唑|噁唑|噻唑|吡唑|五唑|二唑|咔唑|喹唑啉|銻唑|砷唑|酮康唑}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|噬|v}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

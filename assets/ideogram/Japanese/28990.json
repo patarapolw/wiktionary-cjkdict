@@ -1,0 +1,44 @@
+{
+  "title": "郷",
+  "ns": 0,
+  "id": 28990,
+  "timestamp": 1546680773000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鄕|鄉|乡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|郷|鄕}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=邑08|kyu=鄕}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう\n|kanon=きょう\n|kanyoon=ごう\n|kun=さと-\n|nanori=くに, こう, みさと\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|郷里|きょうり|one's old home}}\n* {{ja-r|郷土|きょうど|one's birthplace}}\n* {{ja-r|郷愁|きょうしゅう|homesickness, nostalgia}}\n{{mid3}}\n* {{ja-r|故郷|こきょう|hometown, birthplace}}\n* {{ja-r|帰郷|ききょう|homecoming}}\n* {{ja-r|愛%郷%心|あい%きょう%しん|love of one's hometown}}\n{{mid3}}\n* {{ja-r|同%郷%人|どう%きょう%じん|person from the same province}}\n* {{ja-r|本郷|ほんごう}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|きょう}}\n\n# [[hometown]]\n\n{{ja-noun|さと}}\n\n# village\n\n{{ja-noun|ごう}}\n\n# [[country]] [[home]], [[village]], [[countryside]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

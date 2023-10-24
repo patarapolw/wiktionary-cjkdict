@@ -1,0 +1,39 @@
+{
+  "title": "軒",
+  "ns": 0,
+  "id": 28334,
+  "timestamp": 1553178111000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|轩}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=車03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-kanjitab|けん|yomi=o}}\n{{ja-readings\n|goon=こん\n|kanon=けん\n|kun=のき-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|けん|counter}}\n\n# counter for buildings like houses\n#: {{ja-usex|寄付を募るため、数'''軒'''の家を回った。|きふ を つのる ため、 すう'''けん''' の いえ を まわった。|We visited several houses to raise donations.}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "爨",
+  "ns": 0,
+  "id": 20278,
+  "timestamp": 1553056738000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F920}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火25}}\n\n# [[boil]], [[cook]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さん\n|kanon=さん\n|kun=かし-ぐ, かまど-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|御爨|おさん}}\n* {{ja-r|炊爨|すいさん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

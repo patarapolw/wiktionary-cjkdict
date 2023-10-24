@@ -1,0 +1,37 @@
+{
+  "title": "舙",
+  "ns": 0,
+  "id": 24646,
+  "timestamp": 1527134131000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{zh-etym-triple|舌|tongue}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|話|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|咠|v}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

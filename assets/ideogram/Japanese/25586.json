@@ -1,0 +1,53 @@
+{
+  "title": "蕾",
+  "ns": 0,
+  "id": 25586,
+  "timestamp": 1544013496000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸13}}\n\n# {{defn|lang=ja|sort=艸13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らい\n|kanon=らい\n|kun=つぼみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|つぼみ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つぼみ}}\n\n# [[bud]] (of a flower)",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Alternative forms",
+                      "text": "* {{l/ja|莟}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

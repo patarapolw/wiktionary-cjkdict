@@ -1,0 +1,78 @@
+{
+  "title": "琴",
+  "ns": 0,
+  "id": 20822,
+  "timestamp": 1552876046000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=珡,𤦡,𤩟,琹,𨨖,𨪖,𩰔,䦦,𤫍,𨫹,䥅,䥆,𤫒}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|ls=psc|珡|c1=s|今|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{rfe|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=qín\n|ma=y\n|c=kam4\n|h=pfs=khìm\n|md=kìng\n|mn=khîm\n|mn-t=kim5\n|w=3jjin\n|mc=y\n|oc=y\n|cat=n,v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|musical instrument}} ''[[qin]]'' (“[[Chinese]] [[zither]]s”), referring to any of several [[traditional]] Chinese [[musical instrument]]s, most [[famously]] the ''[[guqin]]''\n# {{†}} to [[play]] the ''[[qin]]''\n#* {{zh-x|^象 往 入 ^舜 宮，^舜 在 床 琴。|Xiang entered Shun's room, and found Shun on his bed '''playing the zither'''.|ref=Mengzi}}\n# {{lb|zh|music}} [[collective]] [[name]] for [[certain]] [[musical instrument]]s, usually of [[string]] or [[keyboard]] types, such as [[piano]], [[organ]], [[violin]], [[cello]], ''[[huqin]]'', [[accordion]], [[harmonica]], etc.",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Descendants",
+                      "text": "* {{desc|my|ခင်|bor=1}}\n* {{desc|en|qin|bor=1}}\n* {{desc|th|ขิม|bor=1}} {{q|via Min Nan}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|布祖基琴|電子琴|獨弦琴|風琴|鋼片琴|鋼琴|古琴|胡琴|口琴|雷琴|六角琴|柳琴|馬林巴琴|梅花琴|手風琴|提琴|奚琴|揚琴|鐘琴|琴瑟|琴弦|人琴俱亡|中音提琴|大提琴|侖琴射線|伯牙鼓琴|愛琴文化|中提琴|六弦琴|口風琴|一琴一鶴|劍膽琴心|愛琴海|一弦琴|四弦琴|低音提琴|彈琴|弓琴|侖琴|龐琴曲線|人琴俱杳|小提琴|對牛彈琴|奏琴|山東琴書|大鍵琴|八音琴|七弦琴|天琴座|煮鶴焚琴|眠琴綠陰|炕琴桌兒|琴師|煮鶴燒琴|操琴|破琴絕絃|琴鳥|木琴|琴堂|琴瑟和諧|琴童|琴聲|琴心劍膽|百衲琴|抱琴|瑟弄琴調|琴瑟不調|琴韻|琴劍飄零|琴心三疊|秦琴|琴書|琴高乘鯉|焦尾琴|琴心|撫琴|瑤琴|琴棋書畫|瑟調琴弄|琴鐘|琴譜|琴瑟失調|琴瑟和鳴|琴瑟之好|琴斷朱弦|琴心相挑|琴史|琴劍|戴逵破琴|焚琴煮鶴|洋琴|月琴|無弦琴|琴歌|琴瑟調和|琴瑟和好|琴瑟相調|鼓琴悲|竹琴|魯特琴|鳴琴|鳴琴而治|馬頭琴|西塔琴|鳴琴垂拱|鐵琴|管風琴|綠琴|素琴|鼓琴|鋼琴酒吧|鋸琴|翼琴|豎琴|琴手}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "See {{zh-l|琴日}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=kam4\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} [[yesterday]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|琴日|琴晚}}\n{{zh-cat|Musical instruments|Intermediate}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

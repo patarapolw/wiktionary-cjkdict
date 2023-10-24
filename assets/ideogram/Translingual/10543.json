@@ -1,0 +1,44 @@
+{
+  "title": "亮",
+  "ns": 0,
+  "id": 10543,
+  "timestamp": 1553226810000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𠅙}}\n{{character info/new}}\n{{character info/new|0xf977}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=gbw|strokes=9}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China, the bottom component is written {{l|mul|几}} while in other regions, the bottom component is written {{l|mul|儿}} which is the historical form found in the {{w|Kangxi dictionary}}.\n* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+F977</code> for a duplicate [[code point]] in the {{w|KS X 1001}} character set used in South Korea. <!-- Refer https://en.wiktionary.org/wiki/Index:Korean/Hanja/KS_X_1001_hangyol_code -->"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=8|rad=亠|as=07|sn=9|four=00217|canj=YRBU|ids=⿳亠口冗,⿱⿳亠口冖几(G),⿱⿳亠口冖儿(HTJK,<code>U+F977</code>)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𬾻]], [[喨]], [[湸]], [[𫮌]], [[𫱍]], [[𢝋]], [[𪱧]], [[𭦾]], [[𪳄]], [[煷]], [[𤦻]], [[𭿏]], [[𮎝]], [[𮖞]], [[𭀴]], [[𭧓]], [[𮛽]], [[𨩎]], [[𭿧]], [[𩹗]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{wikidata|Q56417604}}\n{{wikidata|Q56423234|亮 (U+F977)}}\n{{Han ref|kx=0089.040|dkj=00304|dj=0188.100|hdz=10286.030|uh=4EAE}}\n{{Han ref|uh=F977}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

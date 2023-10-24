@@ -1,0 +1,138 @@
+{
+  "title": "猿",
+  "ns": 0,
+  "id": 20563,
+  "timestamp": 1553973546000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|猨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=犬10}}\n\n# [[monkey]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん\n|kanon=えん<ゑん\n|kun=さる-, まし-, まし-ら\n|nanori=さ, さわ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{swp|lang=ja|サル}}\n{{swp|Monkey}}\n[[File:JapaneseMacaqueM2218.jpg|thumb|250px|{{m|ja|猿|tr=saru, mashi, mashira}}: a '''[[monkey]]''', specifically a [[Japanese macaque]].]]\n</div>\n{{ja-kanjitab|yomi=k|さる}}\n\nFrom {{inh|ja|ojp|sort=さる|-}}.  Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.\n\nUltimate derivation possibly borrowed from {{bor|sort=さる|ja|ain|サロ|tr=saro||monkey|pos=from {{m|ain|サㇻ|tr=sar||a tail}} + {{m|ain|オ|tr=o||to bear, to wear, to carry}}}}.<ref name=\"BAT\">{{R:ain:B}}</ref>\n\nThe kanji is from {{der|ja|zh|猿||[[ape]]|sort=さる}}. Compare {{cog|ja|猪|tr=inoshishi||[[boar]]}} from {{cog|zh|猪||[[pig]]}} and {{cog|ja|豚|tr=buta||[[pig]]}} from {{cog|zh|豚||[[suckling]] [[pig]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|さる|acc=1|acc_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さる|サル}}\n\n# a [[monkey]] {{gl|primate}}\n#* {{RQ:Konkōmyō Saishōōkyō Ongi|10 (back)}}\n#*: 猕猴 二字合訓'''佐流'''\n# {{short for|lang=ja|日本猿|tr=Nihonzaru||[[Japanese macaque]]|sort=さる}}\n# {{lb|ja|loosely}} an [[ape]] {{gl|animal}}\n#* {{quote-book\n|lang=ja\n|location=Tokyo\n|publisher=Shogakukan\n|genre=fiction\n||{{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}\n|series={{wj|藤子・F・不二雄のSF短編|藤子不二雄少年SF短編集}}\n|{{wj|ポストの中の明日}}\n|trans-title=Post-Mid-Tomorrow\n|date=Jul 30 1988\n|edition=10th\n|origdate=Jul 25 1984\n|isbn=4-09-140702-1\n|volume=2\n|seriesvolume=2\n||117\n|chapter={{wj|世界名作童話|[世](せ)[界](かい)[名](めい)[作](さく)[童](どう)[話](わ)[第](だい)３[巻](かん) うらしま[太](た)[郎](ろう)}}\n|trans-chapter=World’s Renowned Fairy Tales Book 3: {{w|Urashima Tarō}}\n}}\n#*: {{ja-usex|地%球は、'''サル'''のわく星になっていましたとさ。|ち%きゅう は、'''サル''' の わくせい に なって いました と さ。|Meanwhile, Earth became the {{w|Planet of the Apes|Planet of the '''Apes'''}}.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "{{U:ja:biology|サル}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Descendants",
+                      "text": "* → Yami: {{l|tao|sazo}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|日%本%猿|^ニ%ホン%ザル}}\n* {{ja-r|狐%猿|キツネ%ザル}}\n* {{ja-r|猿も木から落ちる|さる も き から おちる}}\n* {{ja-r|申|さる}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|まし}}\n\nFrom {{inh|ja|ojp|sort=まし|-}}.  Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 CE, used phonetically to spell the sound {{IPAchar|/masi/}}.\n\nUltimate derivation {{unk|nocap=1|sort=まし|ja}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|まし|acc=1|acc_ref=SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まし}}\n\n# {{lb|ja|sort=まし|archaic|possibly|_|obsolete}} a [[monkey]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This form seems to be used less often than ''mashira'' below."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|ましら}}\n\nDerived from earlier ''mashi'' form above.  Found in texts from the early 1900s, possibly earlier.  Appears to be ''mashi'' + the pluralizing and genericizing suffix {{m|ja|ら|tr=ra}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ましら|acc=0|acc_ref=DJR,SMK5|acc2=1|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ましら}}\n\n# {{lb|ja|sort=まし|archaic}} a [[monkey]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|えん|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えん|-}} {{ltc-l|猿}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えん|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えん|hhira=ゑん}}\n\n# [[monkey]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|猿%臂|えん%ぴ}}: a [[monkey]]'s [[elbow]]; someone skilled at [[archery]]\n* {{ja-r|類人猿|るいじんえん}}: an [[anthropoid]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Konkōmyō Saishōōkyō Ongi}}\n\n[[Category:Japanese basic words|さる]]\n[[Category:ja:Monkeys|さる]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

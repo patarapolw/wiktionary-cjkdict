@@ -1,0 +1,71 @@
+{
+  "title": "瓜",
+  "ns": 0,
+  "id": 20995,
+  "timestamp": 1551447797000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|爪}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=瓜00}}\n\n# [[gourd]], [[squash]], [[melon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け<くゑ\n|kanon=か<くわ\n|kun=うり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|胡瓜|きゅうり}}: cucumber\n* {{ja-r|西瓜|すいか}}: watermelon\n* {{ja-r|南瓜|かぼちゃ}}: a Japanese pumpkin\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Gourd}}\n{{wikipedia|Cucurbita|Squash}}\n{{wikipedia|Melon}}\n</div>\n{{ja-kanjitab|yomi=k|うり}}\n\nFrom {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*ori}}. Found in the ''{{w|Man'yōshū}}'', compiled some time after 759 CE.\n\nPossibly derived as the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|熟る|tr=uru||to ripen}}, modern form {{m|ja|熟れる|tr=ureru}}.\n\nPossibly cognate with {{cog|ko|오이||cucumber}}; compare other terms in the Japonic family, such as {{cog|kzg|瓜|tr=ui}} and {{cog|yox|瓜|tr=ui}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|うり|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うり|ウリ}}\n\n# [[gourd]], [[squash]], [[melon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|ウリ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "{{der-top|Idioms}}\n* {{ja-r|瓜の蔓には茄子はならぬ|うり の つる に は なすび は ならぬ}}: “an eggplant won't grow on a gourd vine” → [[like father, like son]], or the [[apple does not fall far from the tree]]\n* {{ja-r|瓜を二つに割ったよう|うり を ふたつ に わった よう}}, {{ja-r|瓜を二つに割りたる如し|うり を ふたつ に わりたる ごとし}}: “like a gourd split in two” → [[like two peas in a pod]]\n* {{ja-r|瓜二つ|うり ふたつ}}: “two gourds” → [[like two peas in a pod]]\n* {{ja-r|瓜を二つに割らずそのまま|うり を ふたつ に わらず その まま}}: “like a gourd that hasn't even been split in two” → [[like two peas in a pod]], more emphatically\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

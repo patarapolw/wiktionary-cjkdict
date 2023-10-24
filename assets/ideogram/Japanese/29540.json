@@ -1,0 +1,39 @@
+{
+  "title": "鋒",
+  "ns": 0,
+  "id": 29540,
+  "timestamp": 1551867877000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|锋}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金07}}\n\n# {{defn|lang=ja|sort=金07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ, ふう\n|kanon=ほう\n|kun=ほこさき-, ほこ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|ほこ|yomi=k}}\n{{ja-noun|ほこ}}\n\n# {{alternative spelling of|矛|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

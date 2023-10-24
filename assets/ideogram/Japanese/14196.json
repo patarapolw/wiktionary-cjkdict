@@ -1,0 +1,63 @@
+{
+  "title": "寅",
+  "ns": 0,
+  "id": 14196,
+  "timestamp": 1538061967000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=宀08}}\n\n# {{defn|lang=ja|sort=宀08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いん\n|kanon=いん\n|kun=とら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|とら|yomi=k}}\n{{wp|lang=ja}}\nFrom {{m|ja|虎|tr=tora||[[tiger]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=0|y=k|とら}}\n* {{hmp|lang=ja|虎|sort=とら}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|とら}}\n\n# the {{w|Tiger (zodiac)|Tiger}}, the third of the twelve {{w|Earthly Branches}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|いん|yomi=o}}\nFrom {{der|ja|ltc|寅|tr=yin|sort=いん}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|いん}}\n\n# the {{w|Tiger (zodiac)|Tiger}}, the third of the twelve {{w|Earthly Branches}}\n\n{{cln|ja|words with multiple readings}}\n{{topics|ja|Earthly Branches|sort=とら}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

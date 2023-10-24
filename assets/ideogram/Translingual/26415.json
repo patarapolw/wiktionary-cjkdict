@@ -1,0 +1,44 @@
+{
+  "title": "行",
+  "ns": 0,
+  "id": 26415,
+  "timestamp": 1552119097000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|彳亍}}\n{{character info}}\n{{character info|0xFA08}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=144|rad=行|as=00|sn=6|four=21221|canj=HOMMN|ids=⿰彳亍}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "行 itself is also used as a radical (in addition to [[彳]]); unusually for radicals, the phonetic is placed in the ''middle'' – with 彳 on the left and 亍 on the right – corresponding to the phonetic originally being placed at the middle of the intersection."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/行]]\n* [[鵆]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1108.310|dkj=34029|dj=1570.310|hdz=20811.060|uh=884C|ud=34892|bh=A6E6|bd=42726}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

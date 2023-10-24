@@ -1,0 +1,49 @@
+{
+  "title": "囃",
+  "ns": 0,
+  "id": 12863,
+  "timestamp": 1541316220000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口18}}\n\n# [[accompaniment]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう<さふ\n|kanon=そう<さふ\n|kun=はやし-, はや-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|囃%子|はや%し}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はやし|yomi=k}}\n\nThe {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|囃す|tr=hayasu||to [[play]] [[accompaniment]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はやし}}\n\n# {{altspell|lang=ja|囃子|tr=hayashi|nodot=1|sort=はやし}}: [[music]]al [[accompaniment]] for Japanese [[traditional]] [[performing arts]] such as ''[[kabuki]]'', ''[[noh]]'', etc."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "title": "足",
+  "ns": 0,
+  "id": 27915,
+  "timestamp": 1551003419000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=足00}}\n\n# [[foot]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す, そく\n|kanon=しゅ, しょく\n|kun=あし-, た-る, た-りる, た-す\n|nanori=なり, みつ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|足掻き|あがき}}: [[pawing]]\n* {{ja-r|足跡|あしあと}}: [[footprint]]\n* {{ja-r|足音|あしおと}}: [[sound]] of [[footstep]]s\n* {{ja-r|足%掛かり|あし%がかり}}: [[foothold]]\n* {{ja-r|足首|あしくび}}: [[ankle]]\n* {{ja-r|足%取り|あし%どり}}: [[gait]], [[trace]]\n* {{ja-r|足白癬|あしはくせん}}: [[athlete's foot]]\n* {{ja-r|足早|あしばや}}: [[briskness]], [[swift]]-[[footed]][[-ness|ness]], [[fast-paced]][[-ness|ness]]\n* {{ja-r|足元|あしもと}}: [[near]] or [[at]] one's [[foot|feet]]\n* {{ja-r|足袋|たび}}: [[tabi]]\n* {{ja-r|豚足|とんそく}}: [[w:Pig's trotters|pig's trotters]]\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|足りる|たりる}}\n* {{ja-r|足る|たる}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あし|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あし|acc=2|acc_ref=DJR,NHK}}\n** (''[[w:Kansai dialect|Kyoto]]'') {{overline|あ}}し [áꜜshì]<ref>{{R:Keihankei}}</ref>"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|脚}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あし}}\n\n# [[foot]]\n# [[leg]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|そく|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|そく}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|そく}}\n\n# counter for pairs of socks, shoes, etc"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|あ|yomi=k}}\n{{ja-see|あ}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|あし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

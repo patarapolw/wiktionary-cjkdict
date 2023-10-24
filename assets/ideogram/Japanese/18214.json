@@ -1,0 +1,56 @@
+{
+  "title": "檻",
+  "ns": 0,
+  "id": 18214,
+  "timestamp": 1553553816000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|槛}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木14}}\n\n# {{defn|lang=ja|sort=木14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん<けん<げむ\n|kanon=かん<かん<かむ\n|kun=おり-<をり-, てすり, いたがこ-い<いたがこ-ひ, おばしま\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|おり|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=2|おり|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おり|hhira=をり}}\n\n# [[cage]]; [[cell]]\n#: {{ja-usex|その第四号の'''檻'''の中には、一体どんな生き物が入っていたのだろうか？|その だい-よん-ごう の '''おり''' の なか に は、いったい どんな いきもの が はいっていた の だろう か？|Exactly what kind of animal was within the fourth '''cage'''?|ref=[http://www.aozora.gr.jp/cards/000160/files/1258_40525.html]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

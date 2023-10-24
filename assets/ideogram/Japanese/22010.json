@@ -1,0 +1,51 @@
+{
+  "title": "碌",
+  "ns": 0,
+  "id": 22010,
+  "timestamp": 1553054989000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xF93B}}\n{{character info|0x2F94F}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=ろく\n|kanon=りょく, ろく\n|kun=ろく-な\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjectival noun",
+              "text": "{{ja-adj|ろく|decl=na}}\n\n# {{alternative form of|陸|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|碌|ろく|roku}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ろく}}\n\n# {{alternative form of|陸|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

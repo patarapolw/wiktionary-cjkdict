@@ -1,0 +1,80 @@
+{
+  "title": "鱟",
+  "ns": 0,
+  "id": 32325,
+  "timestamp": 1552481325000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲎}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|學|魚|ls=psc|c1=p|c2=s|t2=fish|abb1=1}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|s=鲎}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=hòu\n|c=hau6\n|mn=hāu\n|w=3hheu\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[horseshoe crab]]\n# {{lb|zh|Zhangzhou|_|Hokkien}} [[clumsy]]; [[ungraceful]]; [[ungainly]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|clumsy}} {{zh-l|笨拙}}; {{q|Min Nan}} {{zh-l|笨車車}}, {{zh-l|臭笨}}, {{zh-l|混鈍}}, {{zh-l|海鱟}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|鱟帆|鱟科|鱟蟲|鱟魚|海鱟}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|s=鲎|alt=𧊛,𧉔,吼,𩄬,㖃}}\nFrom {{zh-l|*雩|rainbow}} ({{zh-ref|Xiang, 2014}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|w=2heu\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|chiefly|Wu}} [[rainbow]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|虹}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

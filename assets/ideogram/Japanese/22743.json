@@ -1,0 +1,90 @@
+{
+  "title": "筌",
+  "ns": 0,
+  "id": 22743,
+  "timestamp": 1509636544000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kun=うえ-, うけ-}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|うえ|yomi=k}}\n/uhe<sub>2</sub>/: *upəj → upe → uɸe → uwe → ue.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|うえ|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うえ|hhira=うへ}}\n\n# a device placed in a river used to capture fish\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}\n#*: 筌 音宣, 訓'''于閇'''也, 謂敎也"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|うけ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|うけ|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うけ}}\n\n# a device placed in a river used to capture fish"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|せん|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|せん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せん}}\n\n# a device placed in a river used to capture fish"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Nara Ibun 3}}\n\n[[Category:ja:Fishing|うえ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

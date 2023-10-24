@@ -1,0 +1,34 @@
+{
+  "title": "祖",
+  "ns": 0,
+  "id": 22235,
+  "timestamp": 1553054862000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA50}}\n{{character info|0x2F953}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "<!--\n\nThis information needs to be split by part of speech; see below\n\n{{head|vi|sc=Hani}} ([[tố]],What is the source for this reading? [[tỏ]], [[chỗ]], [[tổ]])-->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{vi-noun|sc=Hani}}\n\n# {{han tu form of|tổ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{l|vi|祖國|sc=Hani}} ([[tổ quốc]])\n\n{{attention|vi|please check reading, added based on tổ by non-Vietnamese speaker}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

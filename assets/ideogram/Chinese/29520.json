@@ -1,0 +1,61 @@
+{
+  "title": "鋁",
+  "ns": 0,
+  "id": 29520,
+  "timestamp": 1542638797000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|铝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=铝}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|金|呂|c1=s|c2=p|t1=metal|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{elements|Al|鎂|Mg|[[硅]] / [[矽]]|Si|lang=zh}}\n{{zh-wp}}\nBorrowed from {{bor|zh|NL.|aluminium|a'''lu'''minium}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=lǚ\n|m-s=nü3\n|c=leoi5\n|c-t=lui4\n|g=li3\n|h=pfs=lî;gd=li1\n|j=ly2\n|mb=lṳ̌\n|md=lṳ̄\n|mn=xm,tw:lū/qz:lǐr/zz,twvk:lī/km:līr/xm,tw:lú/qz:lír/zz:lí\n|mn_note=lū/lǐr/lī/līr - vernacular; lú/lír/lí - literary\n|mn-t=le6\n|w=3ly\n|x=lei3\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemical element}} [[aluminium]]; [[aluminum]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{zh-l|礬素}}\n* {{q|Min Nan}} {{l|nan|a-lú-mih}}, {{zh-l|輕銀|khin-gîn, khin-gûn}}, {{zh-l|輕銀仔|khin-gîn-á, khin-gûn-á}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|鋁粉|鋁鍋|氧化鋁|鋁融接劑|鋁窗|鋁門窗|鋁青銅|鋁鎂齊|鋁合金|鋁罐|鋁鹽|鋁箔裝|鋁箔|鋁熱法|鋁板|鋁土礦|鋁箔包}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|鑢|v}}\n\n{{zh-cat|Intermediate}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

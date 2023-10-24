@@ -1,0 +1,44 @@
+{
+  "title": "娃",
+  "ns": 0,
+  "id": 13726,
+  "timestamp": 1547799058000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=女06}}\n\n# beautiful (''used only for names'')",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=え<ゑ\n|kanon=あい, わ\n|kun=うつく-し.い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|あい|yomi=kanon}}\nSino-Japanese."
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|あい}}\n\n# [[beauty]], [[beautiful]] girl {{qualifier|generally only used in names}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

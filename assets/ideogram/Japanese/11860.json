@@ -1,0 +1,39 @@
+{
+  "title": "匣",
+  "ns": 0,
+  "id": 11860,
+  "timestamp": 1550157503000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=匚05}}\n\n# [[box]]\n#: {{ja-usex|魍魎の'''匣'''|もうりょう の '''はこ'''|The Mōryō's Box}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<げふ\n|kanon=こう<かふ\n|kanyoon=ごう<がふ\n|kun=はこ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|匣鉢|さや}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

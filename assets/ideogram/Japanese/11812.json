@@ -1,0 +1,59 @@
+{
+  "title": "勲",
+  "ns": 0,
+  "id": 11812,
+  "timestamp": 1530770075000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|勳}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|勲|勳}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=力13|kyu=勳}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=くん\n|kun=いさお-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いさお|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いさお|hhira=いさを}}\n\n# [[distinguished]] service"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|いさお|proper|hhira=いさを}}\n\n# {{given name|male|lang=ja|sort=いさお}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|くん|yomi=o}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くん}}\n\n# [[merit]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

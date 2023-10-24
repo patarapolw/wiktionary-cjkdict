@@ -1,0 +1,102 @@
+{
+  "title": "苫",
+  "ns": 0,
+  "id": 24857,
+  "timestamp": 1548205923000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸05}}\n\n# [[weave|woven]] [[mat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん<せん<せむ\n|kanon=せん<せん<せむ\n|kun=とま-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|yomi=k|とま}}\n* {{ja-l|篷}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{IPAfont|⟨to<sub>2</sub>ma⟩}} → *{{IPAchar|/təma/}} → {{IPAchar|/toma/}}\n\nLikely from {{inh|ja|ojp|sort=とま|-}}.\n\nPossibly derived from the {{m|ja|未然形|tr=mizenkei||irrealis form}} of verb {{m|ja|泊まる|tr=tomaru||to [[stay]]}}. {{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|とま|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とま}}\n\n# a [[weave|woven]] [[mat]], usually made from [[rush]] or [[hay]]\n#* {{RQ:Gosenshu|6|302; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 1}}\n#*: {{ja-usex|[[秋の田]]の[[かりほ]]の[[庵]]の'''苫'''を[[粗い|あらみ]]わが[[衣%手]]は[[露]]に[[濡れる|ぬれ]][[つつ]]|あき の た の かりほ の いほ の '''とま''' を あらみ わが ころも%で は つゆ に ぬれつつ|rom=aki no ta no kariho no io no '''toma''' o arami waga koromode wa tsuyu ni nuretsutsu|Coarse is the '''rush mat''' of my harvest-hut, sheltering the harvested ears of this autumn day; so my sleeves are growing wet with the evening dew.<ref>{{cite-book|2011|Andrea Grafetstätter|author2=Sieglinde Hartmann|editor=James Michael Ogier|Islands and Cities in Medieval Myth, Literature, and History: Papers Delivered at the International Medieval Congress, University of Leeds, in 2005, 2006, and 2007|series=Volume 14 of Beihefte zur Mediaevistik|edition=illustrated|publisher=Peter Lang|isbn=3-6316-1165-X|page=116}}</ref>|sort=とま}}\n# {{lb|ja|sort=とま|historical}} in the {{w|Edo period}}, a ''[[kimono]]'' [[wear|worn]] by [[carpenter]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|苫%小%牧|^とま%こ%まい}}\n* {{ja-r|苫%手|とま%て}}\n* {{ja-r|苫の屋|とま の や}}\n* {{ja-r|苫%庇|とま%びさし}}\n* {{ja-r|苫%舟|とま%ぶね|rom=-}}, {{ja-r|苫%船|とま%ぶね}}\n* {{ja-r|苫%葺き|とま%ぶき}}\n* {{ja-r|苫%屋|とま%や}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|とま}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=とま}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=i|とば}}\n\nNasal {{IPAchar|/-m-/}} → plosive {{IPAchar|/-b-/}} variant of ''toma'' above.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とば}}\n\n# {{lb|ja|rare}} a [[weave|woven]] [[mat]], usually made from [[rush]] or [[hay]]\n# {{lb|ja|rare}} a ''[[kimono]]''",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|長%苫|なが%とば}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=i|のま}}\n\nAttested in the ''{{w|Iroha Jiruishō}}'' ({{circa2|12th century|short=1}}).\n\n{{rfe|ja|sort=のま}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のま}}\n\n# {{lb|ja|sort=のま|rare}} a [[weave|woven]] [[mat]], usually made from [[rush]] or [[hay]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

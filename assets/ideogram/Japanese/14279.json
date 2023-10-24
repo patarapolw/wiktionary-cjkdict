@@ -1,0 +1,39 @@
+{
+  "title": "將",
+  "ns": 0,
+  "id": 14279,
+  "timestamp": 1553962881000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|将}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|将|將}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=寸08|shin=将}}\n\n# [[commander]]\n# [[general]], [[admiral]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう<さう\n|kanon=しょう<しやう\n|kun=ひきい-る<ひきゐ-る, もっ-て, はた-, まさ-に\n|nanori=すすむ, まさし, まさる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|まさる|shin=将}}\n\n# {{given name|male|lang=ja|sort=まさる}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

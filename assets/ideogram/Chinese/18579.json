@@ -1,0 +1,49 @@
+{
+  "title": "氡",
+  "ns": 0,
+  "id": 18579,
+  "timestamp": 1553554148000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|氭}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|气|c1=s|t1=gas|冬|c2=p|ls=psc|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Borrowed from {{bor|zh|en|radon|ra'''don'''}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dōng\n|c=dung1\n|mn=ml:tong\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemistry}} [[radon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|氡氣}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

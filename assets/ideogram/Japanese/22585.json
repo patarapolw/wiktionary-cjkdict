@@ -1,0 +1,39 @@
+{
+  "title": "窯",
+  "ns": 0,
+  "id": 22585,
+  "timestamp": 1544823248000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|窑|窰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=穴10}}\n\n# [[kiln]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=よう\n|kun=かま-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|窯業|ようぎょう}}: {{l|en|ceramics}} {{l|en|industry}}\n* {{ja-r|窯焼き|かまやき}}: {{l|en|firing}} in a {{l|en|kiln}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

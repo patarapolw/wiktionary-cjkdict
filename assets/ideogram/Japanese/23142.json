@@ -1,0 +1,104 @@
+{
+  "title": "精",
+  "ns": 0,
+  "id": 23142,
+  "timestamp": 1543581443000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa1d}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=米08}}\n\n# [[essence]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=せい\n|kun=くわ-し.い, しら-げる\n|nanori=きよ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|甘精|かんせい}}: [[saccharin]]\n* {{ja-r|糊精|こせい}}: [[dextrin]]\n* {{ja-r|蔘精|じんせい}}: [[ginseng]] [[extract]]\n* {{ja-r|地精|ちせい}}: [[ginseng]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|せい|yomi=o}}\n\nFrom {{der|ja|ltc|精|sort=せい|tr=t͡siᴇŋ|t=essence, energy}}. Compare modern {{cog|cmn|-}} reading ''jīng''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|せい|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|infl=na|せい}}\n\n# [[detailed]], [[conscientious]]\n# [[pure]], [[refined]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|せい}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せい}}\n\n# [[polishing]], [[refining]]\n# [[care]], [[conscientiousness]]\n# something [[polished]] or [[refined]], particularly polished [[white rice]]\n# [[vim]] and [[vigor]], [[energy]] in doing things\n# [[life force]], [[vitality]], the energy of living\n# one's [[emotion]]s, [[mind]], or [[soul]]\n# the [[soul]] or [[spirit]] of a thing, particularly when [[appear]]ing on its own; a [[fairy]], a [[sprite]]\n# [[semen]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|polishing}} {{ja-r|研磨|けんま}}\n* {{sense|refining}} {{ja-r|精製|せいせい}}\n* {{sense|polished rice}} {{ja-r|精米|せいまい}}; {{ja-r|白米|はくまい}}\n* {{sense|care}} {{ja-r|念入り|ねんいり}}\n* {{sense|vim}} {{ja-r|元気|げんき}}\n* {{sense|vigor}} {{ja-r|精力|せいりょく}}\n* {{sense|emotions}} {{ja-r|心|こころ}}\n* {{sense|mind}} {{ja-r|精神|せいしん}}\n* {{sense|soul}} {{ja-r|魂|たましい}}\n* {{sense|spirit}} {{ja-r|精霊|せいれい}}\n* {{sense|sprite}} {{ja-r|妖精|ようせい}}\n* {{sense|semen}} {{ja-r|精液|せいえき}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しらげ|yomi=k}}\n\nNoun stem of verb {{m|ja|精げる|tr=shirageru||to polish, to refine}}, itself derived from {{m|ja|白|tr=shira||white|pos=form used in compounds, usually ''shiro'' on its own}} + {{m|ja|ぐ|tr=gu|pos=verbalizing suffix}}, originally just meaning {{m|en|whiten|to whiten something}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|しらげ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しらげ}}\n\n# [[rice]] [[polishing]], rice [[milling]]\n# [[polished]] or [[milled]] [[rice]]\n# [[excellence]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|rice polishing}} {{ja-r|米磨|こめとぎ}}\n* {{sense|polished rice}} {{ja-r|精米|せいまい}}; {{ja-r|白米|はくまい}}\n* {{sense|excellence}} {{ja-r|優秀|ゆうしょう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

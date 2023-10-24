@@ -1,0 +1,39 @@
+{
+  "title": "転",
+  "ns": 0,
+  "id": 28358,
+  "timestamp": 1507160638000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|轉}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|転|轉}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=車04|kyu=轉}}\n\n# {{defn|lang=ja|sort=車04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=てん\n|kanon=てん\n|kun=ころ-ぶ, ころ-がす, ころ-がる, ころ-げる, めぐる\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|転移|てんい}}: [[transition]]; [[transference]]\n* {{ja-r|移転|いてん}}: [[transfer]]\n* {{ja-r|転生|てんせい}}: [[transmigration]]\n* {{ja-r|転学|てんがく}}: [[transmigration]] [[between]] [[faculty|faculties]]/[[school]]s"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

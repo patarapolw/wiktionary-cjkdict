@@ -1,0 +1,39 @@
+{
+  "title": "慈",
+  "ns": 0,
+  "id": 15707,
+  "timestamp": 1553313347000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8A6}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心10}}\n\n# mercy",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=いつく-しむ, いつくしみ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|慈鳥|じちょう}}: [[crow]], [[raven]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

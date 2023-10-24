@@ -1,0 +1,39 @@
+{
+  "title": "疏",
+  "ns": 0,
+  "id": 21202,
+  "timestamp": 1545844737000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|疎|䟽|踈}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=疋07}}\n\n# {{defn|lang=ja|sort=疋07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょ\n|kanon=そ\n|kun=とお-す, とお-る, うと-む, うと-い, まば-ら\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der2|lang=ja\n|{{ja-r|疏通|そつう}}: {{alt-form|lang=ja|疎通}}\n|{{ja-r|疏水|そすい}}: {{alt-form|lang=ja|疎水}}\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

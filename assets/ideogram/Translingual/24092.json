@@ -1,0 +1,44 @@
+{
+  "title": "者",
+  "ns": 0,
+  "id": 24092,
+  "timestamp": 1553052891000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA5B}}\n{{character info|0xFAB2}}\n{{character info|0x2F97A}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=8}}\n{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In Korean [[hanja]] and Traditional Chinese, an additional {{l|mul|丶}} stroke is written at the bottom right corner of {{l|mul|耂}} above {{l|mul|日}}, which is the historical form found in the {{w|Kangxi dictionary}}. In other regions, the additional {{l|mul|丶}} stroke has been omitted.\n* Three {{w|CJK compatibility ideographs}} exist for this character:\n** <code>U+FAB2</code>: Alternative form used in North Korea without additional {{l|mul|丶}} stroke below {{l|mul|耂}}.\n** <code>U+FA5B</code>: Japanese [[kyūjitai]] with additional {{l|mul|丶}} stroke below {{l|mul|耂}}.\n** <code>U+2F97A</code>: Variant traditional form used in Taiwan with additional {{l|mul|丶}} stroke below {{l|mul|耂}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=125|rad=老|as=04|sn=8|snk+=9|four=44600|canj=JKA|ids=⿱耂日(GHTJV,<code>U+FAB2</code>),⿱⿸耂丶日(K,<code>U+FA5B</code>,<code>U+2F97A</code>}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[㥩]], [[㨋]], [[渚]], [[陼]], [[琽]], [[緖]]/[[緒]]([[绪]]), [[諸]]([[诸]]), [[豬]]([[猪]]), [[賭]]([[赌]]), [[踷]], [[赭]], [[醏]], [[鍺]]([[锗]]), [[鯺]], [[都]], [[䰩]], [[奢]], [[著]], [[暑]], [[㸙]], [[署]], [[闍]]([[阇]]), [[䰇]], [[煑]], [[煮]], [[䘄]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{wikidata|Q54874289}}\n{{Han ref|kx=0961.010|dkj=28852|dj=1409.020|hdz=42780.050|uh=8005}}\n{{Han ref|uh=FA5B}}\n{{Han ref|uh=FAB2}}\n{{Han ref|uh=2F97A}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

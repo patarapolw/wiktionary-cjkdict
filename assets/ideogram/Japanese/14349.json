@@ -1,0 +1,93 @@
+{
+  "title": "屍",
+  "ns": 0,
+  "id": 14349,
+  "timestamp": 1552875908000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|尸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=尸06}}\n\n# [[corpse]]; [[cadaver]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=かばね-, しかばね-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|尸}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|かばね|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=かばね|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|18|4094}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo.html#4094 here]</ref>\n\nAppears to be a compound.  Ultimate derivation {{unk|ja|sort=かばね|nocap=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かばね|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|尸}} {{qualifier|mainly used for compounds, like {{m|ja|尸所|tr=kabane-dokoro}}}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かばね}}\n\n# a [[corpse]], a [[cadaver]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|しかばね}}\n\nCompound of {{compound|ja|sort=しかばね|死|tr1=shi|t1=death; dead|屍|tr2=kabane|t2=corpse}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>  Not used in the ''{{w|Man'yōshū}}''; appears to be a later development.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|しかばね|acc=0|dev=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|尸}} {{qualifier|mainly used for compounds, like {{m|ja|尸冠|tr=shikabane kanmuri}}}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しかばね}}\n\n# a [[corpse]], a [[cadaver]]\n#* {{quote-book||date=Jul 5 2014||{{laja|決闘王の記憶 －決闘都市編－}}|trans-title=Memories of the Duel King －Battle City Edition－|chapter={{jaru|オベリスクの[巨](きょ)[神](しん)[兵](へい)}}|trans-chapter=Obelisk the Giant God Soldier|lang=ja|publisher={{w|Konami}}||}}\n#*: {{ja-usex|その者、降%臨せしむれば、灼%熱の疾%風%大%地に吹き荒れ、生きとし生ける者すべて'''屍'''とならん。|^その もの、こう%りんせし むれば、しゃく%ねつ の しっ%ぷう% だい%ち に ふきあれ、いきとし.いける もの すべて '''しかばね''' とならん。|Once this being descends with burning winds sweeping over the land, all living things shall turn into corpses.}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* See [[Thesaurus:屍]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|words with multiple readings}}\n{{C|ja|Death|sort=しかばね}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "鷀",
+  "ns": 0,
+  "id": 32714,
+  "timestamp": 1530404329000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鶿|鹚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥10}}\n\n# {{rarespell|lang=ja|鵜|tr=u|nodot=1|sort=う}}: [[cormorant]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=う-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鸕鷀%草葺%不合%尊|^うが%やふき%あえず の% ^みこと}}\n* {{ja-r|鸕鷀|ろじ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

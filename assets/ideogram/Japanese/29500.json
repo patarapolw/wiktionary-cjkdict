@@ -1,0 +1,54 @@
+{
+  "title": "銭",
+  "ns": 0,
+  "id": 29500,
+  "timestamp": 1546560600000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|錢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|銭|錢}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=金06|kyu=錢}}\n\n# money\n# [[sen]] (a hundredth of [[yen]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん, ぜん\n|kanon=せん\n|kun=ぜに-, すき-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|銭%湯|せん%とう}}: [[bath house]]\n* {{ja-r|小%銭|こ%ぜに}}: [[small change]]\n* {{ja-r|銭%亀|ぜに%がめ}}: [[pond turtle]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|ぜに|acc=1|yomi=kun|acc_ref=SMK2,ZAJ}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|せん}}\n\n# hundredth of a [[yen]]\n# {{lb|ja|obsolete|archaic}} one-thousandth of a [[kan]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "醚",
+  "ns": 0,
+  "id": 29154,
+  "timestamp": 1525161188000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|酉|迷|t1=oxygenated functional group|t2=confusion|ls=ic}}, referring to the anesthetic properties of [[diethyl ether]]. {{l|mul|迷}} also acts as the phonetic component."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|迷|confusion}}, referring to the anesthetic properties of [[diethyl ether]]."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=mí\n|c=mai4\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic chemistry}} [[ether]]\n# {{†}} [[drunk]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

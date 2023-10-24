@@ -1,0 +1,76 @@
+{
+  "title": "媠",
+  "ns": 0,
+  "id": 13885,
+  "timestamp": 1553547918000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|嫷|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|惰|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms|alt=美,水,秀,嫷,娞}}\n\n{{w|Jerry Norman (sinologist)|Jerry Norman}} considers this to be the same word as {{zh-l|水|water}} ({{zh-ref|Schuessler, 2007}}). But also compare {{cog|th|สวย||beautiful}} ([[ibid.]]).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|mn=súi\n|mn-t=sui2\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Min Nan}} [[good-looking]]; [[pretty]]; [[beautiful]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|漂亮}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Antonyms",
+                      "text": "* {{zh-l|䆀|bái}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|愛媠|媠氣|媠色|媠噹噹|媠茫茫|媠靡}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Descendants",
+                      "text": "* {{desc|en|swee|bor=1}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B00708-004}}\n* {{qualifier|Min Nan}} {{thcwd|8310}}\n* {{qualifier|Min Nan}} {{thcwda|313}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

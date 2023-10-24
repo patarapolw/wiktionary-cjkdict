@@ -1,0 +1,97 @@
+{
+  "title": "墓",
+  "ns": 0,
+  "id": 13353,
+  "timestamp": 1552532075000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=土11}}\n\n# [[grave]]; [[graveyard]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=も\n|kanon=ぼ\n|kun=はか-\n|nanori=つか\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|墓%碣|ぼ%けつ}}: a [[tombstone]], a [[headstone]]\n* {{ja-r|墓%誌%銘|ぼ%し%めい}}: an extra [[inscription]] at the end of a [[tombstone]] inscription, such as a short [[poem]]\n* {{ja-r|墓%表|ぼ%ひょう}}: the [[text]] on a [[tombstone]], giving the [[deceased]]'s name, dates of birth and death, and other details\n* {{ja-r|墓%地|ぼ%ち}}: a [[cemetery]], a [[graveyard]]\n* {{ja-r|支%石%墓|し%せき%ぼ}}: a [[dolmen]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|はか}}\n\nFrom {{inh|ja|ojp|sort=はか|-}}. Found in the ''{{w|Man'yōshū}}'', completed some time around 759 CE.\n\nUltimate derivation {{unk|ja|nocap=1|sort=はか}}. One possibility is that the final ''ka'' may be {{m|ja|処|tr=ka|pos=suffix denoting place}}, as in the term {{m|ja|住み処|tr=sumika||dwelling, home, abode|lit=living place}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|はか|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はか}}\n\n# a [[grave]], a [[tomb]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|墓%穴|はか%あな}}: an [[open]] [[grave]], the [[hole]] where someone is [[buried]]\n* {{ja-r|墓%場|はか%ば}}: a [[graveyard]], a [[cemetery]]\n* {{ja-r|墓%掘り|はか%ほり}}: a [[gravedigger]]\n* {{ja-r|墓%屋|はか%や}}: a [[graveyard]] or [[cemetery]] [[caretaker]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|ぼ}}\n\nFrom {{der|ja|ltc|墓|tr=muoᴴ|t=grave, tomb}}. Compare modern {{cog|nan|-}} readings ''bō͘'', ''bōng''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ぼ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぼ}}\n\n# a [[grave]], a [[tomb]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Seldom used in isolation. More commonly encountered in compounds."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|墓%域|ぼ%いき}}: a [[graveyard]], a [[cemetery]]\n* {{ja-r|墓%地|ぼ%ち}}: a [[graveyard]], a [[cemetery]]\n* {{ja-r|墓%穴|ぼ%けつ}}: an [[open]] [[grave]], the [[hole]] where someone is [[buried]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Kokugo Dai Jiten}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "堂",
+  "ns": 0,
+  "id": 13207,
+  "timestamp": 1550599342000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=土08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どう\n|kanon=とう\n|kun=たかどの-, すまい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|食堂|しょくどう|gloss=[[cafeteria]], [[dining room]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|どう}}\n\n# [[temple]]\n# [[shrine]]\n# [[hall]]"
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|どう}}\n\n# [[magnificent]] (building)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

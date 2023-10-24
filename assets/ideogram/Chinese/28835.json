@@ -1,0 +1,56 @@
+{
+  "title": "邚",
+  "ns": 0,
+  "id": 28835,
+  "timestamp": 1500764754000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han compound|女|邑|alt2=阝|ls=psc|c1=p|c2=s}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=rú\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|𨚴|tr=-}}\n# an ancient country name"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han compound|女|阜|alt2=阝|ls=psc|c1=s|c2=p}}.\n{{zh-see|婦|v}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

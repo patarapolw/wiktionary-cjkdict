@@ -1,0 +1,46 @@
+{
+  "title": "顁",
+  "ns": 0,
+  "id": 31170,
+  "timestamp": 1550158790000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𬱫}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=dìng\n|c=ding3\n|mc=y\n|oc=y\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[forehead]]\n#: {{zh-also|定}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=dǐng\n|c=ding2\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hg}} {{zh-alt-form|頂|[[top]] of the [[head]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

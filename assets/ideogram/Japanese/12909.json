@@ -1,0 +1,59 @@
+{
+  "title": "囲",
+  "ns": 0,
+  "id": 12909,
+  "timestamp": 1548341945000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|圍|围}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|囲|圍}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=囗04|kyu=圍}}\n\n# to [[surround]], [[encircle]], [[corral]]\n# [[whip]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "'''As shinjitai form of {{lang|ja|圍}}:'''\n{{ja-readings\n|goon=え<ゑ\n|kanon=い<ゐ\n|kun=かこ-む, かこ-い<かこ-ひ, かこ-う<かこ-ふ\n}}\n\n'''As original character:'''\n{{ja-readings\n|on=とう\n|kun=むち\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|囲碁|^いご}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=kanon}}\n{{IPAfont|/wi/}} → {{IPAfont|/i/}}\n\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|圍}}. The ''[[漢音#Japanese|kan'on]]''."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|い}}"
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|counter|い|hhira=ゐ}}\n\n# counter for the amount that can be encircled in one's arms, used as a rough measurement of [[circumference]] {{qualifier|roughly 1.5 meters}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い|hhira=ゐ}}\n\n# [[surround]]; [[encircle]]; [[enclosure]]\n# [[circumference]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

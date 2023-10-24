@@ -1,0 +1,97 @@
+{
+  "title": "詩",
+  "ns": 0,
+  "id": 26977,
+  "timestamp": 1553569872000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|诗}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=言06}}\n\n# [[poetry]], [[poem]]\n# {{lb|ja|archaic}} [[Chinese]]-[[style]] [[poetry]]\n# [[modern]] [[Japanese]] [[poetry]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=うた-, うた-う<うた-ふ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|詩%吟|し%ぎん|[[recitation]] of a [[Chinese]] [[poem]]}}\n* {{ja-r|詩%情|し%じょう|[[poetic]] [[sentiment]], [[interest]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|し|yomi=o}}\nFrom {{der|ja|ltc|sort=し|-}} {{ltc-l|詩}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=o|し|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|し}}\n\n# [[poem]]\n# [[verse]] of [[poetry]]\n# {{lb|ja|poetry|sort=し}} [[Chinese]] poetry\n# {{short for|lang=ja|詩経||''{{w|Shijing}}'', the Book of Odes}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|詩%歌|しい%か}}, {{ja-r|詩%歌|し%か|Japanese poetry}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|漢%詩|かん%し|[[Chinese]] [[poetry]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|うた|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|うた|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うた}}\n\n# [[modern]] [[poetry]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "* Despite {{ja-l|歌}}, {{ja-l|唄}}, and {{ja-l||詩}} having the same ''{{ll|ja|訓読み|kun-yomi}}'' reading of ''uta'': {{ja-l||詩}} refers to modern poetry, {{ja-l||歌}} to [[songs]] and classical Japanese poetry (such as ''{{ll|ja|短歌|tanka}}''), and {{ja-l||唄}} is primarily used in ''{{ll|ja|三味線|shamisen}}'' songs."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "烹",
+  "ns": 0,
+  "id": 19970,
+  "timestamp": 1532521830000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=火07}}\n\n# [[boil]], [[simmer]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう<ひやう\n|kanon=ほう<はう\n|kun=に-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|烹炊|ほうすい}}\n* {{ja-r|烹鮮|ほうせん}}\n* {{ja-r|烹雑|ほうぞう}}\n* {{ja-r|割烹|かっぽう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proverbs",
+                  "text": "* {{ja-r|狡兎 死 して 走狗 烹らる|こうと し して そうく にらる}}\n* {{ja-r|五鼎に食わずんば死して五鼎に烹られん|ごてい に くわずんば し して ごてい に にられん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

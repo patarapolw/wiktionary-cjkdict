@@ -1,0 +1,44 @@
+{
+  "title": "胚",
+  "ns": 0,
+  "id": 24318,
+  "timestamp": 1513237782000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉05}}\n\n# [[embryo]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へ\n|kanon=はい\n|kun=はら-む\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はい|yomi=o}}\nFrom {{der|ja|ltc|-}} {{ltc-l|胚}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はい}}\n\n# [[embryo]]\n\n[[Category:ja:Biology|はい]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

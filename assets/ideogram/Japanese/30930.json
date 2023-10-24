@@ -1,0 +1,114 @@
+{
+  "title": "面",
+  "ns": 0,
+  "id": 30930,
+  "timestamp": 1549685732000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|靣|麵|麫|麪}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=面00}}\n\n# [[mask]]\n# [[face]]\n# [[features]]\n# [[surface]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=めん\n|kanon=べん\n|kun=おも-, おもて-, つら-, も-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|面会|めんかい}}\n* {{ja-r|面詰|めんきつ}}\n* {{ja-r|面識|めんしき}}\n* {{ja-r|面従|めんじゅう}}\n* {{ja-r|面責|めんせき}}\n* {{ja-r|面積|めんせき}}\n* {{ja-r|面接|めんせつ}}\n* {{ja-r|面前|めんぜん}}\n* {{ja-r|面相|めんそう}}\n* {{ja-r|面談|めんだん}}\n{{der-mid}}\n* {{ja-r|面倒|めんどう}}\n* {{ja-r|面罵|めんば}}\n* {{ja-r|面皮|めんぴ}}\n* {{ja-r|面壁|めんぺき}}\n* {{ja-r|面貌|めんぼう}}, {{ja-r|面貌|めんみょう}}\n* {{ja-r|面目|めんもく}}, {{ja-r|面目|めんぼく}}\n* {{ja-r|面面|めんめん}}, {{ja-r|面々|めんめん}}\n* {{ja-r|面妖|めんよう}}\n* {{ja-r|面容|めんよう}}\n* {{ja-r|斜面|しゃめん}}\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "[[File:Tengu.jpg|thumb|150px]]\n{{ja-kanjitab|めん|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|めん|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|めん}}\n\n# [[face]]\n# [[surface]]\n# [[mask]]\n#: {{ja-usex|天狗のお'''面'''|てんぐ の お-'''めん'''|tengu '''mask'''}}\n# [[page]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おもて|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|おもて|acc=3|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おもて}} {{ja-altread|hira=おも|rom=omo}}\n\n# [[face]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|面影|おもかげ}}, {{ja-r|俤|おもかげ}}\n* {{ja-r|面舵|おもかじ}}\n* {{ja-r|面白い|おもしろい}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|つら|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つら|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つら}}\n\n# [[face]]\n# [[surface]]\n# [[mask]]\n# [[page]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|面%魂|つら%だまし.い}}\n* {{ja-r|面の皮が厚い|つら の かわ が あつい}}\n* {{ja-r|面%汚し|つら%よごし}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|づら}}\n\n# -looking"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

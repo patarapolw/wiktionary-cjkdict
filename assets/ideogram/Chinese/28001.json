@@ -1,0 +1,61 @@
+{
+  "title": "踉",
+  "ns": 0,
+  "id": 28001,
+  "timestamp": 1524143159000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=liàng\n|c=loeng4\n|mn=\n|mc=\n|oc=\n|cat=\n}}\n{{attention|nan|where does <lōng> go}}\n{{attn|ltc}}{{attn|och|Middle+Old Chinese needs to be distributed}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=liàng\n|c=long4,loeng6\n|mn=\n|mc=\n|oc=\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|踉踉蹌蹌|蹌踉|踉蹡|跳踉|踉踉蹡蹡|踉蹌|蹌蹌踉踉}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B04898}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "隣",
+  "ns": 0,
+  "id": 30732,
+  "timestamp": 1534447163000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鄰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=阜12}}\n\n# [[neighboring]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りん\n|kanon=りん\n|kun=となり-, とな-る\n|nanori=ちか\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|となり|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|となり|acc=0|acc_ref=SMK2}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|となり}}\n\n# [[neighbour]], [[next door]] to"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|側|そば}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

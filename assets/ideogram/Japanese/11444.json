@@ -1,0 +1,51 @@
+{
+  "title": "冕",
+  "ns": 0,
+  "id": 11444,
+  "timestamp": 1553310064000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8D3}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=冂09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=べん, めん\n|kun=かんむり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|冕冠|べんかん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|べん}}\n\n# [[crown]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|冕冠|べんかん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "烌",
+  "ns": 0,
+  "id": 19899,
+  "timestamp": 1531925554000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xiū\n|mn=hu\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{q|Min Nan}} [[dust]]; [[ash]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|火烌}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

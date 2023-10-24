@@ -1,0 +1,39 @@
+{
+  "title": "載",
+  "ns": 0,
+  "id": 28398,
+  "timestamp": 1543856719000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|载}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=車06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さい, ざい\n|kanon=さい\n|kun=の-る, の-せる, しる-す\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Number",
+              "text": "{{ja-pos|numeral symbol|さい}}\n\n# a hundred-[[tredecillion]] (10<sup>44</sup>)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

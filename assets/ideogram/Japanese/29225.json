@@ -1,0 +1,68 @@
+{
+  "title": "針",
+  "ns": 0,
+  "id": 29225,
+  "timestamp": 1551043572000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|针}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=金02}}\n\n# {{defn|lang=ja|sort=金02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん\n|kanon=しん\n|kun=はり-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|はり|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|はり|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はり}}\n\n# [[pin]], [[needle]]\n# [[hand]] (of a clock or watch)\n#: {{ja-usex|時計の'''針'''は３時を指しています。|とけい の '''はり''' は さん-じ を さしています。|The clock's '''hand''' is pointing to 3 o'clock.}}\n# [[thorn]]\n# [[staple]] (of a stapler)\n#* {{quote-song|lang=ja|year=2009|lyricist={{w2|ja|稲葉エミ}}|composer=|title={{lang|ja|わたしの恋はホッチキス}}|album={{w2|ja|放課後ティータイム (アルバム)|放課後ティータイム}}|url=|artist={{w2|ja|放課後ティータイム}}}}\n#*: {{ja-usex|はじまりだけは　軽いノリで　しらないうちに　あつくなって　もう'''針'''がなんだか通らない|はじまり だけ は　かるい ノリ で　しらない うち に　あつくなって　もう '''はり''' が なんだか とおらない|At first I started lightly, but before I knew it, it got so thick the '''staples''' won't go through anymore}}\n# {{lb|sort=はり|ja|fishing}} [[hook]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|針%鼠|はり%ねずみ|[[hedgehog]]}}\n* {{ja-r|針%土竜|はり%もぐら|[[echidna]]}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Hyponyms",
+                      "text": "{{navbox|title=Hands of a clock|list1=\n* {{ja-r|長針|ちょうしん}}\n* {{ja-r|短針|たんしん}}\n* {{ja-r|時針|じしん|hour hand}}\n* {{ja-r|分針|ふんしん|minute hand}}\n* {{ja-r|秒針|びょうしん|second hand}}\n}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Clocks|はり]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

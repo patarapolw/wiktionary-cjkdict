@@ -1,0 +1,73 @@
+{
+  "title": "丼",
+  "ns": 0,
+  "id": 10435,
+  "timestamp": 1547067375000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|井|丹}}\n{{character info/new}}\n<!-- may be replaced by zh-forms -->",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-wp|zh:丼|yue:丼}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}\n{{onomatopoeic|zh}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=dǎn\n|c=dam2\n|mn=tw:tôm\n|mn-t=dom6/dong6\n|mc=y\n|oc=n,1\n|cat=n,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|onomatopoeic}} {{n-g|sound of [[toss]]ing something into a [[well]].}}\n# {{surname|lang=zh}} <!-- 《集韻·感韻》 丼，姓。 -->"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|井|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms}}\nBorrowed from {{bor|zh|ja|-}} {{ja-r|丼|どん}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=dōng,dòng\n|c=dong1\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[donburi]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|丼物}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

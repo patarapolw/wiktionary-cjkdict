@@ -1,0 +1,66 @@
+{
+  "title": "害",
+  "ns": 0,
+  "id": 14178,
+  "timestamp": 1548989530000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=宀07}}\n\n# ([[そこなう]]) [[damage]], [[harm]], [[injure]]\n# ([[あやめる]]) [[kill]]\n# ([[わざわい]]) [[disaster]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がい\n|kanon=かい\n|kun=そこ-なう<そこ-なふ, あや-める, わざわ-い<わざは-ひ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|がい|yomi=o}}\nFrom {{etyl|ltc|ja|sort=かい'}} {{m|zh|害|tr=haj<sup>H</sup>||injury}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|がい|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|がい}}\n\n# [[injury]], [[harm]], [[damage]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{ja-r|益|えき|gloss=[[benefit]]}}\n* {{ja-r|利|り|gloss=benefit}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|害%悪|がい%あく}}\n* {{ja-r|害%獣|がい%じゅう|[[harmful]] [[animal]]}}\n* {{ja-r|害%虫|がい%ちゅう|[[harmful]] [[insect]]}}\n* {{ja-r|害%鳥|がい%ちょう|[[harmful]] [[bird]]}}\n* {{ja-r|害%毒|がい%どく}}\n* {{ja-r|危%害|き%がい}}\n* {{ja-r|災%害|さい%がい}}\n* {{ja-r|殺%害|さつ%がい}}\n* {{ja-r|残%害|ざん%がい}}\n* {{ja-r|自%害|じ%がい}}\n* {{ja-r|水%害|すい%がい}}\n* {{ja-r|損%害|そん%がい}}\n* {{ja-r|被%害|ひ%がい}}\n* {{ja-r|風%害|ふう%がい}}\n* {{ja-r|無%害|む%がい}}\n* {{ja-r|有%害|ゆう%がい}}\n* {{ja-r|利%害|り%がい}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

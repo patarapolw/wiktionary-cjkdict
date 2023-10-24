@@ -1,0 +1,51 @@
+{
+  "title": "帳",
+  "ns": 0,
+  "id": 14903,
+  "timestamp": 1550408794000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|帐|賬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=巾08}}\n\n# [[curtain]]",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう<ちやう\n|kanon=ちょう<ちやう\n|kun=とばり-, はり-\n}}"
+                },
+                {
+                  "level": 5,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|手帳|てちょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|とばり|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とばり}}\n\n# [[curtain]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "扮",
+  "ns": 0,
+  "id": 16009,
+  "timestamp": 1553550642000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|扌|分|c1=s|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=bàn\n|c=baan6,baan3\n|mn=ml:pàn/pān\n|mn_note=pàn - literary; pān - vernacular\n|w= 2pe <!-- wz= 3pa -->\n|mc=5\n|oc=1\n|ma=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[dress up]], to [[disguise]] oneself\n# to [[act]], to [[play]]\n# to [[put on]] an expression, to [[make faces]]\n# {{lb|zh|Cantonese}} to [[pretend]] to\n#: {{zh-x|扮 彈{taan4} 結他|to '''pretend''' to play the guitar|C}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|扮嘢|假扮|刷扮|喬裝打扮|女扮男裝|女扮男身|妝扮|小打扮兒|打扮|扮家家酒|扮戲|扮故事|扮演|扮白臉|扮相|扮裝|扮鬼臉|改扮|整扮|猴子扮戲|男扮女裝|裝扮|雌牙扮齒}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=fěn\n|mc=3+4\n|oc=4\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[hold]]\n# to [[merge]]\n# to [[agitate]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=fēn\n|mc=1\n|oc=3\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[dig]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 4",
+              "text": "{{zh-pron\n|m=huǒ\n|mc=2\n|oc=2\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[messy]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

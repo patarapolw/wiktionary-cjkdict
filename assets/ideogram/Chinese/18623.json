@@ -1,0 +1,47 @@
+{
+  "title": "汐",
+  "ns": 0,
+  "id": 18623,
+  "timestamp": 1508353584000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|夕|alt1=氵|t1=water|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{och-l|夕|evening}}. Compare {{och-l|潮|morning tide; tide}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=汐\n|c=zik6\n|h=pfs=\n|md=\n|mn=se̍k\n|w=5xxiq\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[evening]] [[tide]]; [[night]] tides; [[ebb]]\n#: {{zh-x|潮汐|morning and evening tides; tide, wave}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|汐止|潮汐|潮汐預報}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

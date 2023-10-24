@@ -1,0 +1,157 @@
+{
+  "title": "木",
+  "ns": 0,
+  "id": 17257,
+  "timestamp": 1548303350000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ホ|禾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=木00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もく\n|kanon=ぼく\n|kun=き-, け-, こ-\n|nanori=ぐ, しげ, も, もと\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|き}}\n/ki<sub>2</sub>/: {{IPAchar|[kɨ]}} > {{IPAchar|[ki]}}\n\nFrom {{inh|ja|ojp|木|tr=ki<sub>2</sub>}} (cf. phonetic Man'yōgana form {{ltc-l|紀}}), from {{inh|ja|jpx-pro|*kəy}}. Cognate with {{cog|jpx-ryu-pro|*ke}}, whence {{cog|ams|けぃー|tr=kʰɨː}}, {{cog|ryu|きー|tr=kiː}}, {{cog|xug|きー|tr=kʰiː}}, {{cog|mvi|きー|tr=kiː}}, {{cog|rys|きー|tr=kiː}} and {{cog|yoi|きー|tr=kʰiː}}. Likely developed from fusion of older form ''*kə'' + {{m|ja|い|tr=i|pos=emphatic nominative particle}}, similar to the sound changes at work in {{m|ja|神}} in the shift from ''kamu'' to ''kami''.<ref name=\"Perard 2012\">{{cite-web|first=Thomas|last=Pellard|title=日琉祖語の分岐年代\n|work=琉球諸語と古代日本語に関する比較言語学的研究」ワークショップ|year=2012|url=http://kikigengo.jp/nishihara/lib/exe/fetch.php?media=library:references:rkoj-pellard.pdf|page=6}}</ref>\n\nNow the modern {{etyl|ja|-}} word.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|き|acc=1|acc_ref=DJR}}\n* {{a|Osaka}} {{ja-accent-common|heiban|き|い}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|き}}\n\n# a [[tree]]; a [[shrub]]\n# [[wood]], [[timber]], [[lumber]]\n# {{lb|ja|sort=き|graph theory|computer science}} a [[tree]] (data structure)",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|猿も木から落ちる|さる も き から おちる}}: “even monkeys fall from trees”, i.e. even experts make mistakes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|け}}\n\nFrom {{inh|ja|ojp|木|tr=ke<sub>2</sub>}} (cf. phonetic Man'yōgana form {{ltc-l|氣}}). Possibly an intermediate form. Obsolete in modern {{etyl|ja|-}}, and never found in isolation; remains in certain place names. Even in ancient times, its use was apparently limited to eastern dialects.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|け}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|け}}\n\n# a [[tree]]\n#: {{ux|ja|麻都能'''氣'''乃 奈美多流美礼波 伊波妣等乃 和例乎美於久流等 多々理之母己呂|tr=松の'''木'''の 並みたる見れば 家人の 我れを見送ると 立たりしもころ<br\n/>まつの'''け'''の なみたるみれば いはびとの われをみおくると たたりしもころ<br\n/>''Matsu no '''ke''' no / namitaru mireba / iwabito no / ware o miokuru to / tatari shi mokoro''|t=Looking at the pine '''trees''' all in a row, they were just like the people from the household standing to see me off|ref=<ref>{{RQ:Manyoshu|20|4375}}; [http://etext.virginia.edu/japanese/manyoshu/Man20Yo.html#4375 text here]</ref>}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|こ}}\n/ko<sub>2</sub>/: {{IPAchar|[kə]}} > {{IPAchar|[ko̞]}} \n\nFrom {{inh|ja|ojp|木|tr=ko<sub>2</sub>}} (cf. phonetic Man'yōgana form {{ltc-l|許|id=1}}), from {{inh|ja|jpx-pro|*kə}}. Likely the original form. Obsolete in modern {{etyl|ja|-}}, and never found in isolation; only found in compounds and certain idioms.<ref name=\"Perard 2012\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|こ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こ}}\n\n# a [[tree]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|木%高し|こ%だかし}}\n* {{ja-r|木%霊|こ%だま}}\n* {{ja-r|木%隠れ|こ%がくれ}}\n* {{ja-r|木%陰|こ%かげ}}\n* {{ja-r|木の葉|このは}}\n* {{ja-r|木%立|こ%だち}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=o|もく}}\nFrom {{etyl|ltc|ja|sort=もく}} {{zh-l|木|tr=muwk}}. The [[呉音#Japanese|''goon'']] reading, so likely the original borrowing. Compare modern {{etyl|yue|-}} {{zh-l|木|tr=muk6}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|もく|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|もく}}\n\n# a [[tree]]\n# short for {{ja-l|木曜日||Mokuyōbi}}: [[Thursday]]\n#: When written in [[romaji]], often capitalized as {{ja-l|||Moku}}.\n# [[wood]] [[grain]]\n#: Often written {{ja-l|杢}}.",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=o|ぼく}}\nFrom {{etyl|ltc|ja|sort=ほく'}} {{zh-l|木}}. The [[漢音#Japanese|''kan'on'']] reading, so likely a later borrowing. Compare literary {{etyl|nan|-}} {{zh-l|木|tr=[[bo̍k]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ぼく|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|infl=na|ぼく}}\n\n# {{lb|ja|sort=ほく'|derogatory}} [[wooden]], as of a person's [[character]] or [[behavior]]\n# {{lb|ja|sort=ほく'|derogatory}} [[wooden]], as of a person's [[mental]] [[abilities]]: [[blockheaded]], [[stupid]], [[dimwitted]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぼく}}\n\n# a [[tree]]; more specifically, a [[living]] tree\n# the [[bent]] and [[gnarl]]ed [[trunk]] or [[root]]s of an old tree\n# [[wood]], [[lumber]]\n# something made of [[wood]]\n# in ancient China, a [[wooden]] [[musical]] [[instrument]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|き]]\n[[Category:ja:Trees]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

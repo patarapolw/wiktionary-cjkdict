@@ -1,0 +1,39 @@
+{
+  "title": "篆",
+  "ns": 0,
+  "id": 22869,
+  "timestamp": 1553053648000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F962}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=118|rad=竹|as=09|sn=15|four=88232|canj=HVNO|ids=⿱[[竹|⺮]][[彖]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𢸢]], [[𤪪]], [[𥌫]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0892.130|dkj=26256|dj=1319.090|hdz=52996.050|uh=7BC6|ud=31686|bh=BD66|bd=48486}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "簾",
+  "ns": 0,
+  "id": 23004,
+  "timestamp": 1542643769000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|帘}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=8|rs=竹13}}\n\n# {{defn|lang=ja|sort=竹13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れん<れむ\n|kanon=れん<れむ\n|kun=[[すだれ]] (sudare), [[す]] (su)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|暖簾|のれん}}: noren, a Japanese curtain"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

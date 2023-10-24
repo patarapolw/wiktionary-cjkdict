@@ -1,0 +1,49 @@
+{
+  "title": "鬧",
+  "ns": 0,
+  "id": 31991,
+  "timestamp": 1544781220000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|閙|闹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note that the {{w|Ming (typefaces)|Ming typeface}} used in Japan and Korea as well as the {{w|Kangxi dictionary}} uses a vertical dot for the upper component of <font size=5, lang=ja>[[亠#Translingual|亠]]</font> which is slightly different from modern Chinese scripts which uses a slanting {{l|mul|丶}} dot for the upper component of <font size=5, lang=zh>[[亠#Translingual|亠]]</font> in <font size=5, lang=zh>{{l|mul|市}}</font>."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=191|rad=鬥|as=05|sn=15|four=77227|canj=LNYLB|ids=⿵鬥市(GHTKV),⿵鬥巿(J)}} <!-- Note: ⿵鬥巿 is incorrect and is not used in Korea. 亠 and 巾 is separated not combined together. If you zoom into the Unicode charts at 500% the serif hook is visible at the top right corner of 巾. -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𤂗]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[閙]]}} ''({{w|Variant Chinese characters|Variant}} {{w|Traditional Chinese characters|traditional form}})''\n* {{l|mul|[[闹]]}} ''({{w|Simplified Chinese}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1457.340|dkj=45639|dj=1989.230|hdz=74515.070|uh=9B27}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

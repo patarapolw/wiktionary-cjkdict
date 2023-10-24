@@ -1,0 +1,56 @@
+{
+  "title": "厸",
+  "ns": 0,
+  "id": 264870,
+  "timestamp": 1527672764000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{zh-etym-double|厶|}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=lín\n|c=leon4\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# (archaic variant of [[鄰]]) [[neighbor]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=miǎo\n|c=\n|mc=\n|oc=\n|ma=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[dehisce]], [[open]] [[mouth]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 75]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "箆",
+  "ns": 0,
+  "id": 22803,
+  "timestamp": 1531049347000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=へい\n|kun=へら-, の-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|へら}}\n\n# [[spatula]] {{gloss|kitchen utensil}}\n\n{{C|ja|Cookware and bakeware|sort=へら}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

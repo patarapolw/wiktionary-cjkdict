@@ -1,0 +1,54 @@
+{
+  "title": "通",
+  "ns": 0,
+  "id": 28693,
+  "timestamp": 1551939202000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=辵07}}\n\n# [[pass through]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=つう, つ\n|kanon=とう\n|kun=とお-る, かよ-う, とお-す\n|nanori=とん, どうし, とお, とおり, とおる, どおり, みち, みつ, ゆき, なお, ひらく\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|素通り|すどおり}}\n* {{ja-r|通貨|つうか}}\n* {{ja-r|通学|つうがく}}\n* {{ja-r|通勤|つうきん}}\n{{mid3}}\n* {{ja-r|通信|つうしん}}\n* {{ja-r|通説|つうせつ}}\n* {{ja-r|通達|つうたつ}}\n* {{ja-r|通知|つうち}}\n{{mid3}}\n* {{ja-r|通宝|つうほう}}\n* {{ja-r|通報|つうほう}}\n* {{ja-r|通訳|つうやく}}\n* {{ja-r|通例|つうれい}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|つう|counter}}\n\n# [[document]]s\n#: {{ja-usex|証書 一通|しょうしょ いっつう|one certificate}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|つう}}\n\n# [[authority]], [[expert]], [[connoisseur]]\n#: {{ja-usex|[[支那通|支那'''通''']]|しな'''つう'''|[[China hand]]}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|とおる|proper}}\n\n# {{given name|male|lang=ja|sort=とおる}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

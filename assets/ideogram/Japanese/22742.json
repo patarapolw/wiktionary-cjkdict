@@ -1,0 +1,73 @@
+{
+  "title": "筋",
+  "ns": 0,
+  "id": 22742,
+  "timestamp": 1551157971000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|觔}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=竹06}}\n\n# {{defn|lang=ja|sort=竹06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=きん\n|kun=すじ-<すぢ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|筋肉|きんにく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|すじ|yomi=k}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|すじ|acc=1|acc_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|すじ|hhira=すぢ}}\n\n# [[muscle]]\n# [[tendon]]\n# {{rfdef|ja}}\n#: {{ja-usex|'''筋'''が[[いい]][[人]]|'''すじ''' が い.い ひと}}\n# {{rfdef|ja}}\n#: {{ja-usex|[[みかん]]の[[白い]]'''筋'''|みかん の しろい '''すじ'''}}\n{{attention|ja|needs expansion}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|筋肉|きんにく}}: [[muscle]]\n* {{ja-r|腱|けん}}: [[tendon]]"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|すじ|hhira=すぢ}}\n\n# {{n-g|Counter for long, thin things.}}\n#: {{ja-usex|一筋の光|ひとすじ の ひかり|a single '''ray''' of light}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "幌",
+  "ns": 0,
+  "id": 14928,
+  "timestamp": 1553549008000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=huǎng\n|c=fong2\n|mn=ml:hóng/twv:hián\n|mn_note=hóng - literary\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|作幌子|做幌子|幌子|岫幌|掛幌子|明幌幌|演幌|打幌|油幌幌|掛了幌子|札幌|裝幌子|鬥幌子|點頭幌腦|酒幌}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

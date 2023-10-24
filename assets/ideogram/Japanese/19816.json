@@ -1,0 +1,63 @@
+{
+  "title": "灸",
+  "ns": 0,
+  "id": 19816,
+  "timestamp": 1511159571000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火03}}\n\n# {{defn|lang=ja|sort=火03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=きゅう<きう\n|kun=やいと-<やいと-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|きゅう|yomi=o}}\nFrom {{der|ja|ltc|-}} {{ltc-l|灸}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きゅう|hhira=きう}}\n\n# [[moxibustion]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|灸治|きゅうじ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|やいと|yomi=k}}\nFrom {{m|ja|焼き|tr=yaki|t=scorching|pos={{ja-etym-renyokei|焼く|やく}}}} + {{m|ja|処|tr=to|t=place}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|やいと|hhira=やいと}}\n\n# {{n-g|Same as above.}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

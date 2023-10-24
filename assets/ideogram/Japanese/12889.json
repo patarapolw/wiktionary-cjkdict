@@ -1,0 +1,102 @@
+{
+  "title": "回",
+  "ns": 0,
+  "id": 12889,
+  "timestamp": 1553670575000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|何|向|同|迴}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=囗03}}\n\n# [[turn]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え<ゑ\n|kanon=かい<くわい\n|toon=うい\n|kun=まわ-す<まは-す, まわ-る<まは-る, めぐ-る, めぐ-らす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|ja|廻}} (this is the older spelling of at least some senses or homonyms)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|まわ|o1=り|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|まわり|counter}}\n\n# a [[turn]], times around something"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=かい|-}} {{ltc-l|回}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|かい|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|かい|hhira=くわい}}\n\n# [[occurrence]]s\n#: {{ja-usex|一%週%間に二%'''回'''|いっ%しゅう%かん に に%'''かい'''|twice a week}}\n# [[innings]] in baseball, [[games]], [[rounds]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かい|hhira=くわい}}\n\n# [[time]], [[occasion]]\n# [[turn]], [[round]]\n# {{lb|ja|baseball|softball|sort=かい}} [[inning]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|かい|hhira=くわい}}\n\n# [[turn]]; [[revolve]]\n# [[return]]; [[go back]]\n# [[time]]; [[occasion]]\n# [[Hui]]; [[Islam]]\n# {{alternative form of|蛔|lang=ja|tr=kai|t=[[roundworm]]; [[intestinal]] [[worm]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|今回|こんかい}}\n* {{ja-r|回送|かいそう}}\n* {{ja-r|回%虫|かい%ちゅう}}\n* {{ja-r|回転|かいてん}}\n* {{ja-r|回復|かいふく}}\n* {{ja-r|回廊|かいろう}}\n* {{ja-r|低回|ていかい}}\n* {{ja-r|次%回|じ%かい}}\n* {{ja-r|前回|ぜんかい}}\n* {{ja-r|先回|せんかい}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|え|yomi=goon}}\nFrom {{der|ja|ltc|sort=え|-}} {{ltc-l|回}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|え|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|え|hhira=ゑ}}\n\n# [[turn]]; [[turn]] [[around]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

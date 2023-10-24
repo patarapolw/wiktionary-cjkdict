@@ -1,0 +1,87 @@
+{
+  "title": "洩",
+  "ns": 0,
+  "id": 18895,
+  "timestamp": 1553111580000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|泄}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanon=せつ\n|kanyoon=えい\n|kun=の-びる, も-れる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|洩らす|もらす|{{alt-form|lang=ja|{{ja-r|漏らす|もらす|rom=-}}}}}}\n* {{ja-r|洩れる|もれる|{{alt-form|lang=ja|{{ja-r|漏れる|もれる|rom=-}}}}}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えい|yomi=on}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|洩}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えい|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えい}}\n\n# [[leak]]; [[escape]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n{{ja-r|漏洩|ろうえい}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|せつ|yomi=on}}\nFrom {{der|ja|ltc|sort=せつ|-}} {{ltc-l|洩}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|せつ|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|せつ}}\n\n# [[leak]]; [[escape]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n{{ja-r|漏洩|ろうせつ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

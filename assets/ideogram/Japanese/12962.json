@@ -1,0 +1,49 @@
+{
+  "title": "在",
+  "ns": 0,
+  "id": 12962,
+  "timestamp": 1546552914000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=土03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ざい\n|kanon=さい\n|kun=あ-る, あり-, ま-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|在%位|ざい%い}}\n* {{ja-r|在%家|ざい%け}}\n* {{ja-r|在%庫|ざい%こ}}\n* {{ja-r|在%校|ざい%こう}}\n* {{ja-r|在%住|ざい%じゅう}}\n{{mid3}}\n* {{ja-r|在%職|ざい%しょく}}\n* {{ja-r|在%世|ざい%せ}}\n* {{ja-r|在%籍|ざい%せき}}\n* {{ja-r|在%宅|ざい%たく}}\n* {{ja-r|在%任|ざい%にん}}\n{{mid3}}\n* {{ja-r|在%来|ざい%らい}}\n* {{ja-r|在%留|ざい%りゅう}}\n* {{ja-r|存%在|そん%ざい}}\n* {{ja-r|在%日|ざい%にち}}\n* {{ja-r|現%在%地|げん%ざい%ち}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ざい}}\n\n# {{clipping of|lang=ja|在郷|tr=zaigō|dot=:}} [[countryside]] or [[outskirts]]"
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|ざい|prefix}}\n\n# residing in"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

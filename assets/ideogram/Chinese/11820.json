@@ -1,0 +1,75 @@
+{
+  "title": "勺",
+  "ns": 0,
+  "id": 11820,
+  "timestamp": 1553325100000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA77}}\n{{character info|0x2F828}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=杓}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin 1",
+              "text": "{{Han etyl}}\n{{liushu|i}}: something ({{zh-l|*丶}}) in the ladle or spoon ({{zh-l|*勹}}).\n\n<!--\n|c=zoek3,soek3\n|mn=qz,xm:sio̍k/zz:sia̍k/qz,tw,xm:sia̍h/zz:chiak/qz,xm:sio̍h\n|mn_note=sio̍k/sia̍k - literary; sia̍h/chiak/sio̍h - vernacular\n-->{{attention|zh|Please place these pronunciations to section(s) they belong}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{zh-pron\n|m=sháo,zhuò,er=y\n|c=soek3\n|h=pfs=\n|md=\n|w=5zoq\n|mn=sia̍h\n|mc=2\n|oc=1,2\n|cat=n\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# [[spoon]]; [[ladle]]\n# [[ladle]]-like [[object]]\n# {{lb|zh|historical}} {{n-g|A unit of capacity: one tenth of a {{zh-l|合|gě}}, now 1 {{zh-l|市勺}} equals 1 [[centilitre]].}}\n# {{†}} [[little]]; [[small]] [[amount]]"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|勺子|公勺|水勺|漏勺|炒勺|掌勺兒的|龍勺|舞勺|腦勺|耳挖勺兒|飯勺|馬勺}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{zh-pron\n|m=zhuó\n|mc=1\n|oc=2,1\n|cat=v,n\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|酌|to [[scoop]]; to [[dip]]}}\n# {{lb|zh|historical}} {{n-g|An ancient kind of music and dance.}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 3",
+                  "text": "{{zh-pron\n|m=dì\n|cat=n\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|的|[[mark]]; [[target]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Glyph origin 2",
+              "text": "{{zh-see|杓|ss}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

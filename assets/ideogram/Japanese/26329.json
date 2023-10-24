@@ -1,0 +1,61 @@
+{
+  "title": "蟹",
+  "ns": 0,
+  "id": 26329,
+  "timestamp": 1552876187000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|蠏|聲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=8|rs=虫13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ\n|kanon=かい\n|kun=かに-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja|カニ|蟹}}\n{{wikipedia|Crab}}\n[[File:Gecarcinus quadratus (Nosara).jpg|thumb|250px|{{lang|ja|蟹}} (''kani''): a '''[[crab]]'''.]]\n</div>\n{{ja-kanjitab|かに|yomi=k}}\nFrom {{etyl|ojp|ja|sort=かに}}. Possibly a compound of {{compound|ja|sort=かに|殻|tr1=kara|t1=shell|丹|tr2=ni|t2=red}}. Possibly cognate with {{cog|ko|게||crab}}; compare the {{etyl|jje|-}} dialect word {{m|ko|깅이||crab}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|かに|acc=0|acc_ref=NHK,DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かに|カニ}}\n\n# a [[crab]] ([[infraorder]] ''[[Brachyura]]'')",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|カニ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Crabs|かに]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "霰",
+  "ns": 0,
+  "id": 30879,
+  "timestamp": 1528903800000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Neige roulée.png|thumb|right|200px|霰(arare)]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=雨12}}\n\n# {{defn|lang=ja|sort=雨12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kanyoon=さん\n|kun=あられ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|あられ|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|あられ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あられ}}\n\n# [[hail]] under five millimeters in diameter\n# [[diced]] pieces of food",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|hail}} {{ja-r|雹|ひょう}} (when five millimeters or wider)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

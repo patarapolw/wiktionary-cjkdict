@@ -1,0 +1,66 @@
+{
+  "title": "机",
+  "ns": 0,
+  "id": 17275,
+  "timestamp": 1528993287000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|機}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=木02}}\n\n# [[desk]], [[table]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=き\n|kanon=き\n|kun=つくえ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|机下|きか}}\n* {{ja-r|机上|きじょう}}\n* {{ja-r|机辺|きへん}}\n* {{ja-r|経机|きょうつくえ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|つくえ|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|つくえ|y=k|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|つくえ}}\n\n# [[desk]]; [[table]]\n#: {{ja-usex|机の上に本が三%冊ある。|つくえ の うえ に ほん が さん%さつ ある。|There are three books on the desk.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The historical kana spelling {{ja-l|つくゑ}} can be found in older books, but it is a mistake and is no longer included in contemporary dictionaries."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|つくえ]]\n[[Category:ja:Furniture|つくえ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "梍",
+  "ns": 0,
+  "id": 17632,
+  "timestamp": 1546950358000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zào\n|c=zou6\n|mc=\n|oc=\n|ma=\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|archaic}} Chinese [[honey locust]] (''[[w:Gleditsia sinensis|Gleditsia sinensis]]'')",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|zh|皂莢}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 128]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

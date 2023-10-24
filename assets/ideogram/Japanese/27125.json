@@ -1,0 +1,54 @@
+{
+  "title": "諺",
+  "ns": 0,
+  "id": 27125,
+  "timestamp": 1547632626000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|谚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん\n|kanon=げん\n|kun=ことわざ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|諺文|ウンムン}}\n* {{ja-r|諺文|オンモン}}\n* {{ja-r|諺苑|げんえん}}\n* {{ja-r|諺解|げんかい}}\n* {{ja-r|諺言|げんげん}}\n* {{ja-r|諺語|げんご}}\n* {{ja-r|諺文|げんぶん}}\n* {{ja-r|古諺|こげん}}\n* {{ja-r|世諺|せいげん}}\n* {{ja-r|西諺|せいげん}}\n* {{ja-r|俗諺|ぞくげん}}\n* {{ja-r|天気俚諺|てんきりげん}}\n* {{ja-r|鄙諺|ひげん}}\n* {{ja-r|俚諺|りげん}}\n* {{ja-r|法諺|ほうげん}}\n{{der-bottom}}\n\n{{swp|lang=ja|ことわざ}}\n{{ja-kanjitab|ことわざ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|ことわざ|acc=0|acc_ref=DJR,SMK5,NHK|acc2=4|acc2_ref=SMK5,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ことわざ}}\n\n# a [[proverb]] {{gl|phrase expressing a basic truth}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

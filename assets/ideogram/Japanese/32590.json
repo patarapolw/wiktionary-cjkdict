@@ -1,0 +1,39 @@
+{
+  "title": "鵆",
+  "ns": 0,
+  "id": 32590,
+  "timestamp": 1548538360000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥06}}\n\n# [[plover]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=ちどり-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|ちどり|yomi=k|r=y}}\n{{ja-noun|ちどり|チドリ}}\n\n# {{altspell|千鳥|lang=ja||[[plover]]}}\n\n[[Category:Japanese-only CJKV Characters|鳥+06]]\n[[Category:ja:Plovers and lapwings|ちどり]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

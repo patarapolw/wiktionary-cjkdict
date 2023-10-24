@@ -1,0 +1,39 @@
+{
+  "title": "阢",
+  "ns": 0,
+  "id": 30596,
+  "timestamp": 1509277531000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wù\n|c=ngat6\n|mn=ml:gu̍t\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only|阢隉}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|阢隉}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

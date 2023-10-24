@@ -1,0 +1,126 @@
+{
+  "title": "鯨",
+  "ns": 0,
+  "id": 32206,
+  "timestamp": 1549250909000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=魚08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<ぎやう\n|kanon=けい\n|kanyoon=げい\n|kun=くじら-<くぢら-, おくじら-<おくぢら-, いさ-, いさな-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鯨骨|げいこつ}}: [[whale]] [[bone]]\n* {{ja-r|鯨肉|げいにく}}: [[whale]] [[meat]]\n* {{ja-r|鯨油|げいゆ}}: [[whale]] [[oil]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|くじら|yomi=k}}\n{{IPAchar|/kudira/}} → {{IPAchar|/kud͡ʑira/}}\n\nFrom {{inh|ja|ojp|sort=くじら|-}}.  Appears in the ''{{w|Kojiki}}'' of 712 CE with the {{w|man'yōgana}} spelling {{m|ja||久治良|tr=kudira}}, from {{inh|ja|jpx-pro|*kuntira}}.\n\nUltimate derivation unclear. Theories include an alteration from {{ja-l|口}}{{ja-l|広}} (''kuchibiro'') in reference to the wide mouth;<ref>'''1891''', 言海 (''Genkai'', “Sea of Words”) (in Japanese), lead editor {{w|Ōtsuki Fumihiko}}.  Entry available online [http://www.babelbible.net/genkai/genkai.cgi?mode=right&imode=0&noexpand=0&page=281 here].</ref> an alteration from {{ja-l|口}}{{ja-l|開く}} (''kuchibiraku'') in reference to the gaping mouth; and an alteration from {{ja-l|黒白}} (''kuroshiro'') in reference to the black-and-white coloration of certain [[cetacean]]s.<ref>'''2007-2014''', 日本辞典 (''Nihon Jiten'', “Japan Dictionary”), 生物語源辞典 (''Seibutsu Gogen Jiten'', “Living Organism Etymology Dictionary”) section (in Japanese).  Entry available online [http://www.nihonjiten.com/data/45904.html here].</ref>\n\nHowever, the oldest sources clearly spell the term as ''kudira''.\n* This rules out {{m|ja|口|tr=kuti → kuchi||mouth}} as an [[etymon]], as the oldest compounds using this term use the bound form ''kutu'', not ''kuti'', and there is no support for a ''kutu'' → ''kudi'' shift.\n* This also rules out {{m|ja|白|tr=siro, sira → shiro, shira||white}} as an [[etymon]].  Although [[rendaku]] (voicing in compounds) would give modern ''jira'' as a reading for {{m|ja|白}}, the ancient reading of ''sira'' would voice to something closer to ''zira'', and there is no support for a ''zira'' → ''dira'' shift.\n\nAlso compare Korean {{m|ko|고래}} \"whale.\"",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くじら|acc=0|acc_ref=NHK,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くじら|クジラ|hhira=くぢら}}\n\n# a [[whale]] {{gl|large sea mammal}}\n#: {{ux|ja|ref=<ref>{{RQ:Wamyō Ruijushō|8|3}}</ref>|鯨 鯢 唐韻云、大魚、雄曰鯨、渠京反、雌曰鯢、音蜺、'''久知良''' [...]}}\n#: {{ux|ja|ref=<ref>{{RQ:Nippo Jisho|165}}</ref>|'''Cujira'''. (鯨) 鯨.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "{{U:ja:biology|クジラ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|ゴジラ|caps=1|[[Godzilla]]}}\n* {{ja-r|鯨%取り|くじら%とり|[[whaling]]}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|いさ}}\nFrom {{inh|ja|ojp|sort=いさ|-}}. Root ''isa'' (“powerful?”) appears to be the same element in verb {{m|ja|勇む|tr=isamu||to be courageous, to be in high spirits}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いさ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いさ}}\n\n# {{lb|ja|archaic|sort=いさ}} a [[whale]] {{gl|large sea mammal}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|鯨|いさな}}, {{ja-r|勇魚|いさな}}: [[whale]] {{qualifier|see below}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|いさな}}\n\nFrom {{inh|ja|ojp|sort=いさな|-}}.  Found in the ''{{w|Man'yōshū}}'' completed some time after 759 CE,<ref>{{RQ:Manyoshu|13|3335}}, text available online [http://jti.lib.virginia.edu/japanese/manyoshu/Man13Yo.html#3335 here]</ref> often with the spelling {{m|ja||鯨魚|lit=whale fish}}.\n\nFrom cognate ''isa'' above, suffixed with {{m|ja|魚|tr=-na||fish}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> Sometimes spelled as {{ja-l|勇魚}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いさな}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|勇魚}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いさな}}\n\n# {{lb|ja|archaic|sort=いさな}} a [[whale]] {{gl|large sea mammal}}\n#* {{RQ:Manyoshu|13|3339}}; [http://etext.virginia.edu/japanese/manyoshu/Man13Yo.html#3339 text here]\n#*: 玉桙之 道尓出立 葦引乃 野行山行 潦 川徃渉 '''鯨名'''取 海路丹出而...\n#*:: 玉桙の 道に出で立ち あしひきの 野行き山行き にはたづみ 川行き渡り '''鯨魚'''取り 海道に出でて...<br/>たまほこの みちにいでたち あしひきの のゆきやまゆき にはたづみ かはゆきわたり '''いさな'''とり うみぢにいでて...\n#*:: ''Tamahoko no / michi ni idetachi / ashi hiki no / no yuki yama yuki / niwatazumi / kawa yuki watari / '''isana''' tori umiji ni idete...''\n#*:: Heading out on the jeweled-spear road, going through the alluring fields and mountains, crossing the puddles and rivers, taking to the '''whal'''ing sea road ...",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鯨取り|いさな とり}}, {{ja-r|勇魚取り|いさな とり}}: [[whaling]]; an [[epithet]] for the [[sea]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{topics|ja|Whales|sort=くじら}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

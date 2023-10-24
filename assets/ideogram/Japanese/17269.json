@@ -1,0 +1,90 @@
+{
+  "title": "朴",
+  "ns": 0,
+  "id": 17269,
+  "timestamp": 1553514124000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|樸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=木02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほく\n|kanon=はく\n|kanyoon=ぼく\n|kun=ほお-, ほう-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ほお|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ほお|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|厚朴}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほお|hhira=ほほ}}\n\n# {{vern|Japanese bigleaf magnolia}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|朴の木|ほおのき}}, {{ja-r|厚朴|こうぼく}}, {{ja-r|朴柏|ほおがしわ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|えのき|yomi=irr}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|えのき|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|榎}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えのき|エノキ}}\n\n# [[Chinese hackberry]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Trees|ほお]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

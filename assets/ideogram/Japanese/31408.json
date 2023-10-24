@@ -1,0 +1,34 @@
+{
+  "title": "餤",
+  "ns": 0,
+  "id": 31408,
+  "timestamp": 1529392432000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=食08}}\n\n# {{defn|lang=ja|sort=食08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だん<だむ\n|kanon=たん<たむ\n|kun=[[すすむ]] (susumu), [[くう]] (kuu)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

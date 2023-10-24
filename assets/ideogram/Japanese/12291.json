@@ -1,0 +1,39 @@
+{
+  "title": "咫",
+  "ns": 0,
+  "id": 12291,
+  "timestamp": 1546971579000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口06}}\n\n# {{defn|lang=ja|sort=口06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=た-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|咫%尺|し%せき}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

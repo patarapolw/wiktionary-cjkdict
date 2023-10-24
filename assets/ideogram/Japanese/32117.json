@@ -1,0 +1,105 @@
+{
+  "title": "鮏",
+  "ns": 0,
+  "id": 32117,
+  "timestamp": 1536464202000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=魚05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう\n|kanon=せい\n|kun=なまぐさ-い, なまぐさ-, さけ-, しゃけ-<しやけ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|さけ|yomi=k}}\nOriginally borrowed from {{bor|ja|ain|サㇰイベ|tr=sak ibe||salmon|pos=literally “summer + eat”, in reference to how the fish would be caught and eaten in the summer}}, or possible alternative unattested compound {{m|ain|サㇰ}}{{m|ain|エㇷ゚|tr=sak ep|lit=summer + food}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|さけ|acc=1|acc_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鮭}} {{qualifier|most common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さけ}}\n\n# {{alternative spelling of|lang=ja|鮭}}: [[salmon]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しゃけ|yomi=k}}\nOriginally borrowed from {{bor|ja|ain|シャケンベ|tr=shakembe}}<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>, apparently as a dialectal variation or corruption of {{cog|ain|サㇰイベ|tr=sak ibe||salmon|lit=summer + eat}}, or of possible alternative unattested compound {{m|ain|サㇰ}}{{m|ain|エㇷ゚|tr=sak ep|lit=summer + food}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|しゃけ|acc=1|acc_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鮭}} {{qualifier|most common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しゃけ}}\n\n# {{alternative spelling of|lang=ja|鮭}}: [[salmon]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|なまぐさ}}\nRoot stem of adjective {{m|ja|生臭い}}, {{m|ja|腥い|tr=namagusai||smelling of fish, meat, or blood; stinky, bad-smelling}},<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> itself a compound of {{compound|ja|sort=なまぐさ|生|tr1=nama|t1=raw, uncooked|臭い|tr2=kusa|t2=stink, bad smell|pos2=root stem of {{m|ja|臭い}} ''kusai'', “stinky, bad-smelling”}}.  {{rendaku2|sort=なまぐさ|kusa|gusa}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なまぐさ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|生臭}} {{qualifier|most common}}, {{ja-l|腥}} {{qualifier|rare}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|なまぐさ}}\n\n# a [[smell]] of [[fish]], [[meat]], or [[blood]]\n# a [[stink]], a bad [[smell]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

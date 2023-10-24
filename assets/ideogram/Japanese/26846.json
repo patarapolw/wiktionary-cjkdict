@@ -1,0 +1,39 @@
+{
+  "title": "触",
+  "ns": 0,
+  "id": 26846,
+  "timestamp": 1530060721000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|觸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|触|觸}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=角06|kyu=觸}}\n\n# to [[touch]]; to [[contact#Verb|contact]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そく\n|kanon=しょく\n|kun=ふ-れる, さわ-る, ふれ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|触肢|しょくし|[[pedipalp]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

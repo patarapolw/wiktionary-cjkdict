@@ -1,0 +1,105 @@
+{
+  "title": "滇",
+  "ns": 0,
+  "id": 19324,
+  "timestamp": 1553057282000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F90C}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|真|ls=psc|c1=s|c2=p|t1=water}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=Diān\n|c=din1,tin4\n|md=Diĕng\n|mn=Tian\n|mn-t=diang1/diêng1\n|w=1ti\n|mc=2\n|oc=1\n|cat=pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-div|池}} [[Lake Dian]] {{gloss|lake near [[Kunming]], [[Yunnan]], [[China]]}}\n# {{zh-div|國}} {{lb|zh|historical}} {{w|Dian Kingdom}}\n# {{zh-short|雲南}}\n# {{surname|lang=zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|滇池|滇南|滇緬公路|滇緬|滇劇|滇紅}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tián\n|c=tin4\n|mc=1+3\n|oc=3+2\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|滇滇||滇㴐}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zhēn\n|cat=pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} a [[river]] in [[Henan]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|滇陽}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-forms|alt=淀,闐,甸}}\n{{rfe|zh|Related to {{cog|tai-pro|*k.temᴬ||full}} (mentioned by Schuessler under 添)?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|md=diéng\n|mn=xm,zz,tp,kh,tn,tc,hc,sx,yl,km,mg:tīⁿ/qz,lk:tǐⁿ\n|cat=a,mn:v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Min}} [[full]]\n# {{lb|zh|Min Nan|of water}} to [[rise]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

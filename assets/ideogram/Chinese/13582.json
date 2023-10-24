@@ -1,0 +1,49 @@
+{
+  "title": "奵",
+  "ns": 0,
+  "id": 13582,
+  "timestamp": 1550911016000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|女|丁|ls=psc|c1=s|c2=p|t1=woman}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dǐng,dīng,tiǎn\n|c=ding2\n|mc=y\n|oc=y\n|cat=\n}}\n{{zh-attn-split}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|㜊奵}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Jyutping Database}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

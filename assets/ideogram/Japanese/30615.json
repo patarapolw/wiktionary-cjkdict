@@ -1,0 +1,39 @@
+{
+  "title": "阴",
+  "ns": 0,
+  "id": 30615,
+  "timestamp": 1543255479000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|陰|隂|侌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=阜04}}\n\n# {{alt-form|lang=ja|陰}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん\n|kanon=いん\n|kun=かげ-, かげ-る, くら-い, ほと-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|471620}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

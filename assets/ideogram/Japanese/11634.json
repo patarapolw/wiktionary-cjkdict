@@ -1,0 +1,117 @@
+{
+  "title": "前",
+  "ns": 0,
+  "id": 11634,
+  "timestamp": 1553849316000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{attention|ja|shouldn't one of these senses cover English [[ago]]?}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=刀07}}\n\n# [[in]] [[front]]\n# [[before]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぜん\n|kanon=せん\n|kanyoon=ぜ\n|kun=まえ-<まへ-, さき-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|前戯|ぜんぎ}}: [[foreplay]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|まえ|yomi=k}}\nFrom {{etyl|ojp|ja|sort=まえ}} as a compound of {{compound|ja|sort=まえ|目|tr1=ma|t1=eye|方|tr2=pe|t2=direction, -wards}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>\n\n{{IPAchar|/mape/}} → {{IPAchar|/maɸe/}} → {{IPAchar|/mawe/}} → {{IPAchar|/maje/}} → {{IPAchar|/mae/}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|まえ|acc=1|acc_ref=DJR,NHK,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まえ|hhira=まへ}}\n\n# the [[front]]\n#: {{ja-usex|'''前'''へ[[進む]]|'''まえ''' へ すすむ|to advance forwards|lit=to advance towards the '''front'''}}\n#: {{antonyms|ja|後ろ|tr=ushiro}}\n# the [[past]]\n#: {{ja-usex|[[前]]から[[気になる|気になっ]]てたんだけど{{...}}|'''まえ''' から き に なってた ん だ けど{{...}}|I've been thinking about it for a while, but {{...}}}}\n#: {{ja-usex|[[ずっと]]'''前'''からそう思ってた|ずっと '''まえ''' から そう おもってた|I've thought that for ages|lit=I've been thinking that way since forever '''ago'''}}\n#: {{ja-usex|'''前'''にも[[言う|言っ]]た[[よう]]に|'''まえ''' に も いった よう に|as I've said before|lit=just as I have said in the '''past'''}}\n#: {{antonyms|ja|後|tr=ato}}\n# [[previous]]\n#: {{ja-usex|'''前'''の[[記事]]|'''まえ''' の きじ|'''previous''' entries}}\n#: {{antonyms|ja|次|tr=tsugi}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|まえ|suffix}}\n\n# a [[portion]], an [[amount]]\n#: {{ja-usex|六人'''前'''の御膳|ろくにん-'''まえ''' の ごぜん|a banquet '''for''' six people}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|さき|yomi=k}}\n{{nonlemma}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さき}}\n\n# {{alternative spelling of|lang=ja|sort=さき|先}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|ぜん|yomi=o}}\nFrom {{etyl|ltc|ja|sort=せん'}} {{m|zh|前|tr=dzen}}. Compare modern {{etyl|cmn|-}} {{m|zh|前|tr=qián}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ぜん|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|ぜん|counter}}\n\n# [[counter]] for irregularly shaped objects such as [[desk]]s, [[armrest]]s, and [[serving tray]]s\n# [[counter]] for ''[[kami]]'' and [[shrine]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|ぜん|prefix}}\n\n# the [[last]], the [[previous]]\n# [[pre-]] (of an era)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|ぜ|yomi=kanyoon}}\nContraction of {{ja-r|御前|ごぜ}}, itself a contraction of {{ja-r|御前|ごぜん}}, an [[honorific]] form of [[address]].<ref name=\"KDJ\"/><ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyoon|ぜ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|ぜ|suffix}}\n\n# {{lb|ja|sort=せ'|rare}} an [[honorific]] [[suffix]] added to a noun denoting a person\n#: {{ja-usex|尼'''前'''|あま-'''ぜ'''|('''honorable''') nun}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|まえ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

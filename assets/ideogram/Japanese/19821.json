@@ -1,0 +1,97 @@
+{
+  "title": "災",
+  "ns": 0,
+  "id": 19821,
+  "timestamp": 1553056948000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|灾|烖}}\n{{character info/new}}\n{{character info|0x2F918}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=火03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さい\n|kanon=さい\n|kun=わざわ-い<わざは-ひ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|さい}}\nFrom {{etyl|ltc|ja|sort=さい}} {{m|zh|災|tr=tsoj||calamity}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|さい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さい}}\n\n# an [[act of God]], a [[disaster]], a [[calamity]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Seldom used on its own. Most often used in compounds."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|災害|さいがい}}: [[disaster]], [[calamity]] {{qualifier|emphasis on the damage therefrom}}\n* {{ja-r|災難|さいなん}}: [[misfortune]], [[disaster]], [[catastrophe]]\n* {{ja-r|火%災|か%さい}}: [[conflagration]], [[fire]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|わざわい}}\n{{IPAchar|/wazapapi/}} → {{IPAchar|/wazaɸaɸi/}} → {{IPAchar|/wazawahi/}} → {{IPAchar|/wazawai/}}\n\nFrom {{etyl|ojp|ja|sort=わざわい}}. Originally a compound of {{m|ja|業|tr=waza||deed, doings}}, in reference to the doings of the {{m|ja|神|tr=kami||gods, spirits}} + {{m|ja|這う|這い|tr=hai|lit=crawling|spreading widely}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Compare the etymology of [[幸#sakiwai|幸]] (''sakiwai'', “good fortune”). Compare also the connotations of the English term {{m|en|act of God}} in reference to [[disaster]]s.\n\nOften spelled {{m|ja|災い}} with the trailing [[okurigana]] {{m|ja|い}} to make the reading more explicit.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|わざわい|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|災い}}, {{ja-l|禍}}, {{ja-l|殃}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|わざわい|hhira=わざはひ}}\n\n# an [[act of God]], a [[disaster]], a [[calamity]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|災を転じて福と為す|わざわい を てんじて ふく と なす}}: “to turn a calamity into good fortune”\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

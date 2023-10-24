@@ -1,0 +1,39 @@
+{
+  "title": "鯧",
+  "ns": 0,
+  "id": 32205,
+  "timestamp": 1551112959000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲳}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚08}}\n\n# {{defn|lang=ja|sort=魚08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[しょう]] (shō)|kun=[[まながつお]] (managatsuo)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|まながつお|yomi=k|r=y}}\n{{ja-noun|まながつお|マナガツオ|hhira=まながつを}}\n\n# {{altspell|lang=ja|真魚鰹}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

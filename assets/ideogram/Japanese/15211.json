@@ -1,0 +1,44 @@
+{
+  "title": "当",
+  "ns": 0,
+  "id": 15211,
+  "timestamp": 1553314463000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𢑐|當|噹}}\n{{character info/new}}\n{{character info|0x2F874}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|当|當}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=小03|kyu=當}}\n\n# [[hit]]\n# [[right]]\n# [[appropriate]]\n# [[himself]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=とう<たう\n|kanon=とう<たう\n|kun=あ-たる, あ-てる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|当来|とうらい}}: [[afterlife]]\n* {{ja-r|本当|ほんとう}}: [[true]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|とう|prefix}}\n\n# this (business or place)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

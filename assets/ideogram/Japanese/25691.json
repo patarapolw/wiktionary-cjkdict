@@ -1,0 +1,34 @@
+{
+  "title": "藥",
+  "ns": 0,
+  "id": 25691,
+  "timestamp": 1550976986000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|薬|药}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|薬|藥}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=艸15|shin=薬}}\n\n# A [[medicine]], a [[drug]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=やく\n|kun=くすり-\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

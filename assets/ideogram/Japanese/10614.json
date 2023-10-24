@@ -1,0 +1,56 @@
+{
+  "title": "以",
+  "ns": 0,
+  "id": 10614,
+  "timestamp": 1553665153000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=人03}}\n\n# [[compared]] [[to]]\n# [[than]]\n# [[by]] [[means]] [[of]]\n# [[because]]\n# [[in]] [[view]] [[of]]\n# [[compared]] [[with]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い\n|kanon=い\n|kun=おも-う, ゆえ-に, もっ-て\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ja\n| [[以遠]]\n| [[以往]]\n| [[以下]]\n| [[以外]]\n| [[以後]]\n| [[以降]]\n| [[以上]]\n| [[以心伝心]]\n| [[以西]]\n| [[以前]]\n| [[以東]]\n| [[以毒制毒]]\n| [[以内]]\n| [[以南]]\n| [[以北]]\n| [[以来]]\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=o}}\nFrom {{der|ja|ltc|-|sort=い}} {{ltc-l|以}}"
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|い}}\n\n# from (this reference point) and (more)\n#:{{ja-usex-inline|'''以'''後|'''い'''ご|from now on}}\n#:{{ja-usex-inline|その '''以'''後|その '''い'''ご|from then on; since then}}\n#:{{ja-usex-inline|この日'''以'''後|この ひ '''い'''ご|from this day on; ever since this day}}\n#* {{quote-book|lang=ja|||{{lj|[ＳＴＡＲＴＥＲ](スターター) [ＤＥＣＫ](デッキ)}}|||chapter={{lang|ja|ジャンク・ウォリアー}}|trans-chapter=Junk Warrior|date=Mar 15 2008|publisher={{w|Konami}}}}\n#*: {{ja-usex|「ジャンク・シンクロン」＋チューナー'''以'''外のモンスター１%体'''以'''上|「ジャンク・シンクロン」＋チューナー'''い'''がいのモンスター１%たい'''い'''じょう|“Junk Synchron” + 1 or more non-Tuner monsters|rom=“Janku Shinkuron” + Chūnā '''i'''gai no monsutā ittai '''i'''jō}}\n#* {{quote-book|lang=ja||\n|{{lj|[ＳＴＡＲＴＥＲ](スターター) [ＤＥＣＫ](デッキ)}}\n|||chapter={{lj|リンク・スパイダー}}\n|trans-chapter=Link Spider\n|publisher={{w|Konami}}\n|date=Mar 25 2017}}\n#*: {{ja-usex|通%常モンスター１%体<br>①：１ターンに１%度、自%分メインフェイズに発%動できる。手%札からレベル４'''以'''下の通%常モンスター１%体をこのカードのリンク先に特%殊%召%喚する。|つう%じょうモンスター１%たい<br>①：１ターンに１%ど、じ%ぶんメインフェイズにはつ%どうできる。て%ふだからレベル４'''い'''かのつう%じょうモンスター１%たいをこのカードのリンクさきにとく%しゅ%しょう%かんする。|1 or more Normal Monsters<br>①: Once per turn, can be activated during your Main Phase. Special Summons 1 Normal Monster of Level 4 or lower from your hand to where this card is linked to.|rom=Tsūjō Monsutā ittai<br>Ichi: Ittān ni ichi-do, jibun Mein Feizu ni hatsudō dekiru. Tefuda kara Reberu Yon '''i'''ka no Tsūjō Monsutā ittai o kono kādo no Rinku-saki ni Tokushu Shōkan suru.}}\n# [[by]], [[with]], by [[means]] of\n#: {{syn|ja|…を[[もって]]|tr1=… o motte}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* An expression prefixed with {{lang|ja|以}} means \"from this reference point, and more\". It can only be translated upon contexts. The reference point can be understood as \"now\", \"here\", \"this\", or aforementioned.\n**{{ja-r|以%上|い%じょう}}: \"or more/higher/above\"; literally \"from this point, and anything more/higher/above\"\n**{{ja-r|以%下|い%か}}: \"or less/lower/below\"; literally \"from this point, and anything less/lower/below\"\n**{{ja-r|以%内|い%ない}}: \"within\"; literally \"from this range, and anything within\"\n**{{ja-r|以%外|い%がい}}: \"outside, other than\"; literally \"from this range, and anything outside\"\n**{{ja-r|以%前|い%ぜん}}: \"ago\"; literally \"from this point, and anything before\"\n**{{ja-r|以%後|い%ご}}: \"later; ever since\"; literally \"from this point, and anything later\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

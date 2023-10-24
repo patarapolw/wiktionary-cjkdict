@@ -1,0 +1,58 @@
+{
+  "title": "微",
+  "ns": 0,
+  "id": 15302,
+  "timestamp": 1553672438000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|徵|徴|徹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=彳10}}\n\n# delicate",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=み\n|kanon=び\n|kun=かす-か, ちい-さい, わずか\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|び}}\n\n# [[tiny]]; [[small]]; [[minute]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|み}}\n\n# [[tiny]]; [[small]]; [[minute]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

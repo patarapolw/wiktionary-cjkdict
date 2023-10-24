@@ -1,0 +1,44 @@
+{
+  "title": "掌",
+  "ns": 0,
+  "id": 16306,
+  "timestamp": 1541837874000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手08}}\n\n# {{defn|lang=ja|sort=手08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しょう\n|kun=てのひら-, たなごころ-, たなそこ-, つかさど-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-l|掌握}}\n* {{ja-l|掌鞅}}\n* {{ja-l|掌管}}\n* {{ja-l|掌故}}\n* {{ja-l|掌中}}\n* {{ja-l|掌典}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|てのひら}}\n\n# the [[palm]] (''[[flat]] of the [[hand]]'')\n\n[[Category:Japanese basic words|てのひら]]\n[[Category:ja:Anatomy|てのひら]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

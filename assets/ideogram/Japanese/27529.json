@@ -1,0 +1,49 @@
+{
+  "title": "豹",
+  "ns": 0,
+  "id": 27529,
+  "timestamp": 1553508132000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=豸03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう<へう\n|kanon=ほう<はう\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ひょう|yomi=o}}\n{{swp|lang=ja|ヒョウ}}\nFrom {{der|ja|ltc|tr=paew<sup>H</sup>|豹|sort=ひょう}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=1|y=go|ひょう}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひょう|ヒョウ|hhira=へう|hkata=ヘウ}}\n\n# a [[leopard]] {{gl|a large wild cat with a spotted coat, ''Panthera pardus''}}\n\n{{C|ja|Panthers|sort=ひょう}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

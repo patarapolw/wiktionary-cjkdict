@@ -1,0 +1,34 @@
+{
+  "title": "餧",
+  "ns": 0,
+  "id": 31411,
+  "timestamp": 1495668086000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=食08}}\n\n# steamed bread\n# to feed",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[だい]] (dai)|kun=[[うえる]] (ueru)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

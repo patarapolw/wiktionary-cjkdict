@@ -1,0 +1,44 @@
+{
+  "title": "兑",
+  "ns": 0,
+  "id": 11387,
+  "timestamp": 1524434417000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|兌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=儿05}} <!-- Not a shinjitai kanji. See 兌 (U+514C) instead -->"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "# [[exchange]]\n# [[convert]]\n# [[dui]] (one of the trigrams of the [[I Ching]]: swamp, west)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[だ]] (da), [[たい]] (tai), [[えい]] (ei)|kun=[[よろこぶ]] (yorokobu)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character lacks JIS support and is not used on its own. [[兌]] (U+514C) is used instead. However, 兑 is used as the component form of several {{w|jōyō kanji}} such as [[説]] [[税]] [[悦]] [[脱]] [[鋭]]."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

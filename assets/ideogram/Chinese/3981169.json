@@ -1,0 +1,39 @@
+{
+  "title": "〻",
+  "ns": 0,
+  "id": 3981169,
+  "timestamp": 1512537801000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{zh-l|々}} {{qualifier|in horizontal writing}}"
+            },
+            {
+              "level": 3,
+              "title": "Punctuation mark",
+              "text": "{{head|zh|symbol}}\n\n# {{non-gloss definition|Used in casual writing as an abbreviation of a repeated character, in vertical writing.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{zh-l|二}} (usually appearing as {{lang|zh|〻}}) is used in casual writing to represent a doubled character in vertical writing, but is never used in formal writing or printed matter."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

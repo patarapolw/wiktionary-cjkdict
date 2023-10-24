@@ -1,0 +1,73 @@
+{
+  "title": "莎",
+  "ns": 0,
+  "id": 25038,
+  "timestamp": 1537047017000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=suō\n|c=so1\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=y\n|oc=y\n|cat=n,v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[Cyperus rotundus]]\n# a kind of tree <!--clearify needed-->\n# to [[wither]]\n# {{zh-alt-form|蓑}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|莎草}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=shā\n|c=saa1\n|cat=n,pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used in|莎雞}}\n# {{zh-used2|n|p|t}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|莎雞|蒙娜麗莎|阿莎力|莎樂美|莎喲娜拉}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=suī\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|捼莎}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

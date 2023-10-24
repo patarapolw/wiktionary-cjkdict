@@ -1,0 +1,61 @@
+{
+  "title": "侏",
+  "ns": 0,
+  "id": 10868,
+  "timestamp": 1547005519000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|人|朱|ls=psc|c1=s|c2=p|t1=human}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=zhū\n|c=zyu1\n|ca=Yue-jyu1.ogg\n|mn=ml:chu\n|mc=y\n|oc=y\n|ma=\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|Used in {{l|zh|侏儒}}.}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|侏儒|侏儒症|侏離|侏羅|侏羅山脈|侏羅紀|侏羅系|侏儒觀戰}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=zhōu\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|Used in {{l|zh|侏張}}.}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|侏張}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

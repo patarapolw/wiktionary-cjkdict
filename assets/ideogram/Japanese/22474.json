@@ -1,0 +1,39 @@
+{
+  "title": "穀",
+  "ns": 0,
+  "id": 22474,
+  "timestamp": 1553054055000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|谷|殻|榖}}\n{{character info/new}}\n{{character info|0xFA54}}\n{{character info|0x2F959}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|穀|pic2=穀 kyuujitai.PNG}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=禾10}}\n\n# grain",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こく\n|kanon=こく\n|kun=たなつもの-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|穀食|こくしょく}}: [[cereal]]-[[eating]]\n* {{ja-r|穀草|こくそう}}: [[cereal]]; [[grain]]\n* {{ja-r|穀物|こくもつ}}: cereal; grain\n* {{ja-r|穀類|こくるい}}: cereal; grain\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

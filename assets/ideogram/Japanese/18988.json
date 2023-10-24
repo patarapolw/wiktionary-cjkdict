@@ -1,0 +1,66 @@
+{
+  "title": "涅",
+  "ns": 0,
+  "id": 18988,
+  "timestamp": 1553057483000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㘿}}\n{{character info/new}}\n{{character info|0x2F905}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水07}}\n\n# [[black]] [[soil]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ねち\n|kanon=でつ, ねつ\n|kanyoon=ね\n|kun=くり-, そ-める\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|涅歯|でっし}}, {{ja-r|涅歯|ねっし|[[black]] [[dye]] for [[teeth]]}}\n* {{ja-r|涅槃|ねはん|[[nirvana]]}}\n* {{ja-r|規尼涅|キニーネ|[[quinine]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|くり|yomi=k}}\n* {{ja-l|皂}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "First attested in the ''{{w|Wamyō Ruijushō}}'' (938 {{CE}}).<ref>{{R:Daijirin}}</ref>\n\nCognate with {{m|ja|黒|tr=kuro||[[black]]}}, likely from a ''kur-'' stem."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くり}}\n\n# [[black]] [[soil]] {{gl|used for [[dye]]s}}\n# {{short for|lang=ja|涅色|tr=kuriiro|nodot=1|sort=くり}}: a [[brown]]ish-[[black]] [[color]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|涅色|くり.いろ|[[brown]]ish-[[black]]}}\n* {{ja-r|厨|くりや|[[kitchen]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

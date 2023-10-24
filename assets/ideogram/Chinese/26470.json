@@ -1,0 +1,49 @@
+{
+  "title": "袁",
+  "ns": 0,
+  "id": 26470,
+  "timestamp": 1539349641000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𡋡,𡊮}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n''{{w|Shuowen}}'' considers it to be a {{Han compound|叀|衣|c1=p|c2=s|t2=clothes|ls=psc|nocap=1}}.\n\n{{etystub|lang=zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yuán\n|c=jyun4\n|h=pfs=yèn\n|mn=oân\n|mn-t=uang5/uêng5\n|mn-t_note=uang1 - Shantou; uêng5 - Chaozhou\n|mc=y\n|oc=y\n|cat=a,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-hist-ghost}} {{lb|zh|of clothing}} [[long]] {{attention|zh|please check}}\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|袁大頭|袁安臥雪|袁頭|袁沖}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|A03714}}\n* {{thcwd|41148}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

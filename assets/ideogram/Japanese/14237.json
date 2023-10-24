@@ -1,0 +1,51 @@
+{
+  "title": "寮",
+  "ns": 0,
+  "id": 14237,
+  "timestamp": 1553548395000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㝋}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=宀12}}\n\n# [[dormitory]]\n# [[hostel]]\n# [[villa]]\n# [[tea]] [[pavilion]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りょう<れう\n|kanon=りょう<れう\n|kun=つかさ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|りょう|yomi=o}}\nFrom {{etyl|zhx|ja}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|りょう|hhira=れう}}\n\n# [[dormitory]], student accommodation, barracks",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Hyponyms",
+                  "text": "* {{ja-r|学寮|がくりょう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

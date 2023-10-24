@@ -1,0 +1,90 @@
+{
+  "title": "牛",
+  "ns": 0,
+  "id": 20334,
+  "timestamp": 1553119399000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|午|𓃾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=牛00}}\n\n# [[cow]], [[ox]], [[cattle]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=ぎゅう<ぎう\n|kanyoon=ご\n|kun=うし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|インド%牛|インド%うし|[[zebu]]}}\n* {{ja-r|牛%馬|うし%うま}}\n* {{ja-r|牛%鬼|うし%おに}}, {{ja-r|牛%鬼|ぎゅう%き}}\n* {{ja-r|牛%氈%鹿|うし%かも%しか|[[wildebeest]], [[gnu]]}}\n* {{ja-r|雄%牛|お%うし}}, {{ja-r|牡%牛|お%うし}}\n* {{ja-r|蝸%牛|か%ぎゅう|[[snail]]; [[cochlea]]}}\n* {{ja-r|蝸牛|かたつむり}}, {{ja-r|蝸牛|でんでんむし|[[snail]]}}\n* {{ja-r|牛%脂|ぎゅう%し|[[tallow]] of [[cow]]}}\n* {{ja-r|牛%車|ぎゅう%しゃ|[[oxcart]]}}\n* {{ja-r|牛%舎|ぎゅう%しゃ}}\n* {{ja-r|牛%耳る|ぎゅう%じる}}\n* {{ja-r|牛%肉|ぎゅう%にく|[[beef]]}}\n{{der-mid}}\n* {{ja-r|牛%乳|ぎゅう%にゅう|[[cow's milk]]}}\n* {{ja-r|牛%馬|ぎゅう%ば}}\n* {{ja-r|牛%酪|ぎゅう%らく|[[butter]]}}\n* {{ja-r|子%牛|こ%うし}}, {{ja-r|仔%牛|こ%うし}}\n* {{ja-r|呉%牛|ご%ぎゅう|[[water buffalo]]}}\n* {{ja-r|瘤%牛|こぶ%うし|[[zebu]]}}\n* {{ja-r|牛%蒡|ご%ぼう|[[greater burdock]]}}\n* {{ja-r|麝%香%牛|じゃ%こう%うし|[[musk ox]]}}\n* {{ja-r|水%牛|すい%ぎゅう|[[water buffalo]]}}\n* {{ja-r|肉%牛|にく%ぎゅう|[[beef cattle]]}}\n* {{ja-r|乳%牛|にゅう%ぎゅう|[[dairy cattle]]}}\n* {{ja-r|犎%牛|ほう%ぎゅう|[[zebu]]}}\n* {{ja-r|雌%牛|め%うし}}, {{ja-r|牝%牛|め%うし}}\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|うし|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|うし|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うし|ウシ}}\n\n# [[cow]], [[bull]], [[ox]], [[cattle]]\n#* {{quote-book|||Vol.6\n|||date=Nov 18 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|[牛](ぎゅう)[魔](ま)[人](じん)}}\n|trans-chapter=Bull Jinn}}\n#*: {{ja-usex|森に住む'''牛'''の魔%人。ツノを突き出し突%進して攻%撃。|もり に すむ '''うし''' の ま%じん。ツノ を つきだし とっ%しん して こう%げき。|A bovine jinn who resides in the woods. He’ll charge at you and stick you with his horns.}}\n#* {{quote-book|||BOOSTER 6\n|||date=Dec 1 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|ミノタウルス}}\n|trans-chapter=Minotaurus}}\n#*: {{ja-usex|すごい力を持つ'''ウシ'''の怪%物。オノひと振りで何でもなぎ倒す。|すごい ちから を もつ '''ウシ''' の かい%ぶつ。オノ ひとふり で なに でも なぎたおす。|A bovine monster with tremendous power who chops up anyone in his way with one ax swing.}}\n# [[beef]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|丑|うし}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "{{U:ja:biology|ウシ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ぎゅう|yomi=o}}\nFrom {{etyl|ltc|ja|sort=きゅう'}} {{m|zh|牛|tr=ngjuw||cow}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ぎゅう|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぎゅう|hhira=ぎう}}\n\n# [[cow]], [[bull]], [[ox]], [[cattle]]\n# [[beef]]\n# {{lb|ja|astronomy|sort=きゅう'}} [[Ox]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|うし]]\n[[Category:ja:Cattle|うし]]\n[[Category:ja:Mammals|うし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

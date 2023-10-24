@@ -1,0 +1,71 @@
+{
+  "title": "岩",
+  "ns": 0,
+  "id": 14468,
+  "timestamp": 1550143874000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|巖|礹|巗|碞|嵒|嵓}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=山05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん\n|kanon=がん\n|kun=いわ-<いは-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|岩漿|がんしょう}}: [[magma]]\n* {{ja-r|松脂岩|しょうしがん}}: [[pitchstone]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いわ|yomi=k}}\nipa > iɸa > iwa."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|いわ|acc=2|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ja|巌}}\n* {{l|ja|磐}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いわ|hhira=いは}}\n\n# [[rock]]\n#* {{quote-book|||Vol.4\n|||date=Jul 22 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|[岩](がん)[窟](くつ)[魔](ま)[人](じん)オーガ・ロック}}\n|trans-chapter=Cave Jinn Ogre Rock}}\n#*: {{ja-usex|体が'''岩'''のため守%備は高い。太い腕のひと振りに注%意。|からだ が '''いわ''' の ため しゅ%び は たかい。ふとい うで の ひとふり に ちゅう%い。|Its defense is strong thanks to its rock body. Watch out for a swing of its massive arms.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|巌|いわお}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

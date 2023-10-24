@@ -1,0 +1,39 @@
+{
+  "title": "除",
+  "ns": 0,
+  "id": 30663,
+  "timestamp": 1545724691000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=阜07}}\n\n# [[remove]]\n# [[except]]\n# {{lb|zh|math}} [[divide]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょ<ぢよ\n|kanon=ちょ\n|kanyoon=じ<ぢ\n|kun=のぞ-く, はら-う, わ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* remove\n** {{ja-r|解除|かいじょ}}: [[cancel]]\n** {{ja-r|掃除|そうじ}}: [[clean]], [[sweep]] up\n** {{ja-r|駆除|くじょ}}: [[eradicate]]\n** {{ja-r|削除|さくじょ}}: [[delete]]\n* except\n** {{ja-r|除外|じょがい}}: [[except]]\n** {{ja-r|免除|めんじょ}}: [[exempt]]\n* divide\n** {{ja-r|除数|じょすう}}: [[divisor]]\n** {{ja-r|整除|せいじょ}}: divide without [[remainder]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

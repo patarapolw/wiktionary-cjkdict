@@ -1,0 +1,105 @@
+{
+  "title": "路",
+  "ns": 0,
+  "id": 27975,
+  "timestamp": 1553324989000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=足06}}\n\n# {{defn|lang=ja|sort=足06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=ろ\n|kun=じ-, みち-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|ち}}\nFrom {{etyl|ojp|ja|sort=ち}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> May be cognate with {{etyl|ko|-}} {{ko-inline|길||road}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ち}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|道}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|ち}}\n\n# {{lb|ja|sort=ち|obsolete}} attaches to place names, indicating a road to that place\n#: This usage has generally been replaced by ''-ji'' below."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|じ}}\n\nContraction of the ''michi'' reading. <ref>{{cite-book|author=Frellesvig, Bjarke|title=A History of the Japanese Language|publisher=Cambridge University Press|location=Cambridge|year=2010|isbn=978-0-521-65320-6|page=43}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|じ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|道}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|じ}}\n\n# a [[road]], a [[street]]\n#: {{ja-usex|山'''路'''、長'''路'''|やま-'''じ'''、なが-'''じ'''|a mountain '''road''', a long '''road'''}}\n# attaches to place names, indicating a road to that place\n#: {{ja-usex|奈良'''路'''|^なら-'''じ'''|'''Road''' to Nara}}\n# attaches to a time duration, indicating a [[trip]] taking that length of time\n#: {{ja-usex|四日'''路'''|よっか-'''じ'''|a '''trip''' of four days, a four-day-long '''trip'''}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|みち}}\nOriginally a compound of {{compound|ja|sort=みち|御|tr1=mi|pos1=honorific prefix|路|tr2=chi|t2=road, street, way}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> The prefix ''mi'' was in reference to the {{m|ja|神|tr=kami||god or spirit}} of roads.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|みち|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|道}}, {{ja-l|途}}, {{ja-l|径}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みち}}\n\n# a [[way]], a [[street]], a [[road]], an [[alley]], a [[path]], a pass for local traffic\n# a [[way]] of doing something"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

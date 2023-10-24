@@ -1,0 +1,42 @@
+{
+  "title": "瞄",
+  "ns": 0,
+  "id": 21745,
+  "timestamp": 1544447622000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|目|苗|c1=s|c2=p|t1=eye|ls=psc|no_och2=y}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=miáo\n|c=miu4\n|mn=biâu/biô\n|mn_note=biâu - literary; biô - vernacular\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[aim]]; to [[take]] aim at; to [[set]] [[sight]] on"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|瞄準}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

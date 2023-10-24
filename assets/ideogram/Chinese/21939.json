@@ -1,0 +1,61 @@
+{
+  "title": "硅",
+  "ns": 0,
+  "id": 21939,
+  "timestamp": 1553563197000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{elements|Si|鋁|Al|磷|P|lang=zh}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|ls=psc|石|c1=s|t1=stone|圭|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Probably a {{obor|zh|ja|硅素|nocap=1}}; pronunciation from its phonetic part {{zh-l|圭}}. The usage of {{zh-l|矽}} is dated in Mainland China as it is homophonous to {{zh-l|硒}} and {{zh-l|錫}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=guī\n|ma=Zh-gui.ogg\n|c=gwai1\n|mn=ml:kui\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Mainland China|chemical element}} [[silicon]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{q|Taiwan|Hong Kong|Macau}} {{zh-l|矽}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|硅肺|硅鋼|硅谷|硅膠|硅片|硅石|硅酸}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|砉|v}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

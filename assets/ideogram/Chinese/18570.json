@@ -1,0 +1,54 @@
+{
+  "title": "氘",
+  "ns": 0,
+  "id": 18570,
+  "timestamp": 1535841185000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|气|t1=gas|⿰丿丨|t2=two|ls=ic}}. Also a {{liushu|psc|nocap=y}}, where {{lang|zh|⿰丿丨}}, variant of {{zh-l|刀}}, acts as the phonetic component. Compare {{zh-l|*氕|protium}} and {{zh-l|*氚|tritium}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|刀}} from the glyph, possibly influenced by {{cog|NL.|deuterium}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dāo\n|c=dou1\n|h=pfs=\n|md=\n|mn=\n|w=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[deuterium]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|重氫}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{zh-l|氕|protium}}\n* {{zh-l|氚|tritium}}\n* {{zh-l|氫|hydrogen}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

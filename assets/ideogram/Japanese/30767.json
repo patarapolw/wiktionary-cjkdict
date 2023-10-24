@@ -1,0 +1,78 @@
+{
+  "title": "雅",
+  "ns": 0,
+  "id": 30767,
+  "timestamp": 1553253852000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=隹04}}\n\n# [[gracious]]\n# [[elegant]]\n# [[graceful]]\n# [[refined]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え, げ\n|kanon=あ, が\n|kun=みやび-やか, つね-\n|nanori=まさ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|雅歌|がか|[[elegant]] [[song]]}}, {{ja-r|雅歌|^がか|[[Song of Songs]]}}\n\n{{ja-kanjitab|が|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=か'}} {{m|zh|雅|tr=ngæ<sup>X</sup>||elegant}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|が|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{ja-adj|infl=na|が}}\n\n# [[elegant]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|が}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|が}}\n\n# [[elegance]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{ja-r|俗|ぞく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

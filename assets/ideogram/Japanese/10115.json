@@ -1,0 +1,39 @@
+{
+  "title": "㐧",
+  "ns": 0,
+  "id": 10115,
+  "timestamp": 1536116831000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|第|矛|才}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=亅03}}\n\n# {{alt-form|lang=ja|第}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だい\n|kanon=てい\n|kun=つい-で, やしき-, ただ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is a {{w|ryakuji}} ({{l|ja|略字}})."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

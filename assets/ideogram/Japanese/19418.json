@@ -1,0 +1,71 @@
+{
+  "title": "漣",
+  "ns": 0,
+  "id": 19418,
+  "timestamp": 1553556849000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|涟}}\n{{character info/new}}\n{{character info/new|0xf992}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=水11}}\n\n# [[ripple]]\n# {{lb|sort=れんれん|ja|of|_|tears}} [[continuous]]ly [[flow]]ing",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れん\n|kanon=れん\n|kun=さざなみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|砂%漣|さ%れん|[[sand]] [[ripple]]}}\n* {{ja-r|漣%漪|れん%い|[[ripple]]}}\n* {{ja-r|漣%音|れん%おん|[[mordent]]}}\n* {{ja-r|漣%痕|れん%こん|[[ripple mark]]}}\n* {{ja-r|漣%漣|れん%れん|(''of tears'') [[continuous]]ly [[flow]]ing}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|さざなみ|yomi=k}}\n{{prefix|sort=さざなみ|ja|細|tr1=saza-|t1=small|波|tr2=nami|t2=wave}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|さざなみ|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|細波}}, {{ja-l|小波}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さざなみ}}\n\n# [[ripple]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|漣漪|れんい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

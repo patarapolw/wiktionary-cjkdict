@@ -1,0 +1,90 @@
+{
+  "title": "陳",
+  "ns": 0,
+  "id": 30683,
+  "timestamp": 1553720688000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|陈}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=阜08}}\n\n# [[display]]\n# [[plead]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じん\n|kanon=ちん\n|kun=の-ぶ, の-べる, ひな-くれる, ひな-こびる, ひ-ねる, ふる-い\n|nanori=のぶ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|陳述|ちんじゅつ}}\n* {{ja-r|陳列|ちんれつ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|ちん|yomi=o}}\n\nFrom {{der|ja|ltc|-|sort=ちん}} {{ltc-l|陳}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ちん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ちん}}\n\n# {{w|Chen dynasty}}\n# {{w|Chen (state)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ひね|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ひね|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|老成}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひね}}\n\n# [[aging]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|陳ねる|ひねる}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

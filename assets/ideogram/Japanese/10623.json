@@ -1,0 +1,73 @@
+{
+  "title": "仮",
+  "ns": 0,
+  "id": 10623,
+  "timestamp": 1546549658000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|假}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|仮|假}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=人04|kyu=假}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=か\n|kun=かり-, か-りる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|仮%説|か%せつ}}\n* {{ja-r|仮%定|か%てい}}\n* {{ja-r|仮%名|か%な}}\n* {{ja-r|仮%髪|か%はつ}}: [[wig]], [[hairpiece]]\n* {{ja-r|仮%病|か%びょう}}\n* {{ja-r|仮%面|か%めん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|か|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|か|prefix}}\n\n# [[temporary]]\n# [[unreal]], [[fake]], [[imaginary]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かり|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かり|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かり}}\n\n# [[temporary]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

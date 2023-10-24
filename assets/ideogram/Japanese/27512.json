@@ -1,0 +1,44 @@
+{
+  "title": "豪",
+  "ns": 0,
+  "id": 27512,
+  "timestamp": 1550152086000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=豕07}}\n\n# [[magnificent]], [[bold]]\n# {{lb|ja|abbreviation}} [[Australia]]\n#: {{ja-usex|〈'''豪'''俗〉|〈'''ごう''' ぞく〉|('''Australia''', slang)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごう<がう\n|kanon=こう<かう\n|kun=つよ-い, やま.あらし\n|nanori=ご, すぐる, たけ, たけし, ひで, まさる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|豪華|ごうか}}\n* {{ja-r|豪傑|ごうけつ}}\n* {{ja-r|強豪|きょうごう}}\n* {{ja-r|文豪|ぶんごう}}\n* {{ja-r|豪州|^ごうしゅう}}: [[Australia]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ごう}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|こう']]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "曝",
+  "ns": 0,
+  "id": 17185,
+  "timestamp": 1553551535000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日15}}\n\n# {{defn|lang=ja|sort=日15}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぼく\n|kanon=ほく\n|kanyoon=ばく\n|kun=さら-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|曝白|ばくはく}}: [[whitening]] in [[exposure]] to the [[sun]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

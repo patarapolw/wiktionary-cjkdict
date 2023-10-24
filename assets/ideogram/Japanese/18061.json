@@ -1,0 +1,39 @@
+{
+  "title": "樣",
+  "ns": 0,
+  "id": 18061,
+  "timestamp": 1540265875000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|样|様}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|様|樣}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木11|shin=様}}\n\n# {{kyujitai spelling of|様}}: [[certain]] [[form]] or [[way]]; [[condition]], [[state]]; [[design]], [[pattern]]; {{n-g|indicates [[humble]]ness or [[polite]]ness}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう\n|kanon=よう<やう\n|kun=さま-\n}}\nAs variant ''kanji'' of {{ja-l|橡}}:\n{{ja-readings\n|goon=ぞう<ざう\n|kanon=しょう<しやう\n|kun=くぬぎ-, とち-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "When written in {{m|ja|草体|tr=sōtai||highly-[[cursive]]}} style, this ''kanji'' form is called {{m|ja|永様|tr=ei-sama|lit={{ja-l|永}}-[[form]]}} to distinguish from {{m|ja|次様|tr=tsugi-zama|pos=for {{ja-l|檨}}|lit={{ja-l|次}}-form}}, {{m|ja|美様|tr=bi-zama|pos=for {{ja-l|𣖙}}|lit={{ja-l|美}}-form}}, and {{m|ja|平様|tr=hira-zama|pos=for ''shinjitai'' form {{ja-l|様}}|lit=[[common]] form}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

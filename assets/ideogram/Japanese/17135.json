@@ -1,0 +1,44 @@
+{
+  "title": "暑",
+  "ns": 0,
+  "id": 17135,
+  "timestamp": 1553551442000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|署|者}}\n{{character info/new}}\n{{character info|0xFA43}}\n{{character info|0x2F8CF}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|k=y}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=日08}}\n\n# [[hot]], [[warm]] (weather), [[heat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょ<しよ\n|kanon=しょ<しよ\n|kun=あつ-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[残暑]]\n* [[避暑]]\n* [[猛暑]]"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|ja|暑い}}\n* {{l|ja|暑さ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

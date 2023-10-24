@@ -1,0 +1,90 @@
+{
+  "title": "唾",
+  "ns": 0,
+  "id": 12444,
+  "timestamp": 1553547724000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-see-also|唾する}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=た\n|kanon=た\n|kanyoon=だ\n|kun=つばき-, つば-, つ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|つばき}}\n\nDerived as the {{m|ja|連用形||tr=ren'yōkei|continuative or stem form}} of now-[[Appendix:Glossary#obsolete|obsolete]] verb {{m|ja|唾吐く||tr=tsubaku|to [[spit]], to [[expectorate]]}}, itself from {{m|ja|唾||tr=tsu|[[saliva]]}} + {{m|ja|吐く||tr=haku|to [[expel]] from the [[mouth]]: to [[spit]], to [[vomit]], to [[exhale]]}}.<ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つばき|acc=3|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つばき}}\n\n# [[spit]], [[saliva]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|つば}}\n\nAppears to be a shortening of ''tsubaki'' above.  Alternatively, may be a fusion of ''tsu'' below with particle {{m|ja|は||tr=wa|pos=originally ''pa'' in Old Japanese, combining in some cases as ''ba''}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つば|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つば}}\n\n# [[spit]], [[saliva]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|つ}}\n\nAppears to be the oldest form.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>  Possibly [[onomatopoeia]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つ}}\n\n# {{lb|ja|sort=つ|archaic|possibly|_|obsolete}} [[spit]], [[saliva]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "鮟",
+  "ns": 0,
+  "id": 32134,
+  "timestamp": 1515848921000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=안|eumhun=|rv=an|mr=an|y=an}}\n\n# ([[아귀]]) [[monkfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|ko|鱇}} (안, ''gang'')"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[鮟鱇]] ([[안강]], ''an-gang'') [[monkfish]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

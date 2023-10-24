@@ -1,0 +1,61 @@
+{
+  "title": "亟",
+  "ns": 0,
+  "id": 10529,
+  "timestamp": 1552456151000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\nOriginally {{Han compound|人|二|c1=s|c2=s|ls=ic|nocap=1}}, with {{lang|zh|口}} and {{lang|zh|攴}} (later simplified to {{lang|zh|又}}) later added."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=jí\n|c=gik1\n|mc=2\n|oc=1,2\n|cat=adv\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[urgently]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|亟亟|亟待|亟思|亟欲|亟需|需才孔亟|孔亟}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=qì\n|c=kei3\n|mc=1\n|oc=2,1\n|cat=adv\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[repeatedly]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A00058}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

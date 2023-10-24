@@ -1,0 +1,96 @@
+{
+  "title": "鶯",
+  "ns": 0,
+  "id": 32697,
+  "timestamp": 1547669201000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|莺|鴬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|鴬|鶯}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=鳥10|grade=9|shin=鴬}}\n\n# [[nightingale]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう\n|kanon=おう<あう\n|kun=うぐいす-<うぐひす-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鶯%語|おう%ご}}\n* {{ja-r|鶯%梭|おう%さ}}\n* {{ja-r|鶯%宿%梅|おう%しゅく%ばい}}\n* {{ja-r|鶯舌|おうぜつ}}\n* {{ja-r|鶯遷|おうせん}}\n* {{ja-r|黄鶯|こうおう}}\n* {{ja-r|山鶯|さんおう}}\n* {{ja-r|残鶯|ざんおう}}\n* {{ja-r|春%鶯|しゅん%おう}}\n* {{ja-r|新鶯|しんおう}}\n* {{ja-r|晩鶯|ばんおう}}\n* {{ja-r|老鶯|ろうおう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja}}\n{{wp|Japanese bush warbler}}\n[[File:Cettia_diphone.jpg|thumb|250px|{{m|ja|鶯|tr=uguisu}}: a '''[[Japanese bush warbler]]''' in its [[characteristic]] [[olive]]-[[green]] [[color]].]]\n</div>\n{{ja-kanjitab|うぐいす|yomi=k}}\n\n{{IPAfont|⟨uɡupi<sub>1</sub> su⟩}} → {{IPAchar|/uɡupisu/}} → {{IPAchar|/uɡufisu/}} → {{IPAchar|/uɡuwisu/}} → {{IPAchar|/uɡuisu/}}\n\nFrom {{inh|ja|ojp|sort=うぐいす|-}}.  Compound of {{com|ja|sort=うぐいす|うぐい|tr1=ugui|pos1=onomatopoeia, imitative of the bird's call|す|tr2=su|t2=bird|pos2=ancient suffix appearing in certain bird names, possibly cognate with {{cog|ko|새||bird}}}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Compare the {{m|ja|す|tr=su}} in {{m|ja|烏|tr=karasu}}, {{m|ja|杜鵑|tr=hototogisu}}, {{m|ja|モズ|tr=mozu}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|うぐいす|acc=2|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun <!--|shin=鴬--> |うぐいす|ウグイス|hhira=うぐひす|hkata=ウグヒス}}\n\n# [[Japanese bush warbler]] ({{taxlink|Horornis diphone|species|ver=171120}}); Japanese [[nightingale]]\n#* {{RQ:Man'yōshū|5|837}}<ref>{{R:Man'yōshū 1}}</ref>, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#837 here]\n#*: {{ja-usex|m=波流能努尓 奈久夜'''汙隅比須''' 奈都気牟得 和何弊能曽能尓 汙米何波奈佐久　<sub>笇%師%志%氏%大道</sub>|m_kana=はるののに なくや'''うぐひす''' なつけむと わがへのそのに うめがはなさく　<sub>さん%し%し%しの%おほみち</sub>|春の野に鳴くや'''鴬'''なつけむと我が家の園に梅が花%咲く　<sub>笇%師%志%氏%大道</sub>|はる の の に なくや'''うぐひす''' なつけむ と わが へ の その に うめ が はな%-さく　<sub>さん%し%し%しの%おほみち</sub>|rom=haru no no ni naku ya '''uguisu''' natsukemu to waga e no sono ni ume ga hana-saku|The '''warbler''' singing in the unplowed springtime fields―that it be content to live close at hand the plum blooms in my arbor now. (Master of Computation Shiki{{sic}} no Ōmichi)<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|edition=illustrated|publisher=Stanford University Press|isbn=0-8047-3157-8|page=546}}</ref>|sort=うくいす}}\n#* {{RQ:Man'yōshū|20|4495}}<ref>{{R:Man'yōshū 4}}</ref>, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4495 here]\n#*: {{ja-usex|m=打%奈婢久 波流等毛之流久 '''宇具比須'''波 宇恵木之樹間乎 奈枳和多良奈牟|m_kana=うち%なびく はるともしるく '''うぐひす'''は うゑきのこまを なきわたらなむ|うち靡く春ともしるく'''鴬'''は植%木の木間を鳴き渡らなむ|うちなびく はる と も しるく '''うぐひす''' は うゑ%き の こま を なき わたらなむ|rom=uchinabiku haru to mo shiruku '''uguisu''' wa ueki no koma o naki watarunan|To know clearly that spring has come (minding of tender young herbs), that '''nightingale''' between the planted trees, let him come and sing repeatedly!<ref>{{cite-book|1963|Jan Lodewijk Pierson, Jr.|The Manyôśû Translated and Annotated, Book XX|location={{w|Leiden}}|publisher=Brill Archive (E.J. Brill)|page=202}}</ref>|sort=うくいす}}\n#* '''905''', ''{{w|Kokin Wakashū}}'' (book 1, poem 14)<ref>{{cite-book|last=Kojima|first=Noriyuki|coauthors=Arai Eizō|title=Shin Nihon Koten Bungaku Taikei 5: [[w:Kokin Wakashū|Kokin Wakashū]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1989|origyear=905|lang=ja|isbn=4-00-240005-0}}</ref>\n#*: {{ja-usex|'''うぐひす'''の谷よりいづる声なくは[[春|はる]]くることを誰かしらまし|'''うぐひす''' の たに より いづる こゑ なく は はる くる こと を たれ か しらまし|rom='''uguisu''' no tani yori izuru koe naku wa haru kuru koto o tare ka shiramashi|Without the voice of the '''warbler''' that comes out of the valley, how would we know the arrival of spring?<ref>{{cite-book|2013|Haruo Shirane|Japan and the Culture of the Four Seasons: Nature, Literature, and the Arts|edition=illustrated, reprint|publisher=Columbia University Press|isbn=0-2311-5281-7|page=34}}</ref>|sort=うくいす}}\n# {{short for|lang=ja|nocap=1|nodot=1|鶯色|tr=uguisu iro}}: an [[olive]]-[[green]] [[color]], as the rear of a bush warbler\n# {{short for|lang=ja|nocap=1|nodot=1|鶯声|tr=uguisu-goe}}: a description for a woman's [[beautiful]] [[voice]]\n# a [[metal]] [[skewer]] used in {{m|ja|香道||tr=kōdō}} to fasten a paper wrapper\n# a [[bamboo]] skewer used in [[binding]] an [[obi]] or similar",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|ウグイス}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|warbler, archaic}} {{ja-r|花%見%鳥|はな%み%-どり}}, {{ja-r|経%読み鳥|きょう%よみ-どり }}\n* {{sense|olive-green color}} {{ja-r|鶯%色|うぐいす% いろ}}, {{ja-r|鶯%茶|うぐいす%-ちゃ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|鶯合わせ|うぐいす%-あわせ}}\n* {{ja-r|鶯%色|うぐいす%-いろ}}\n* {{ja-r|鶯%貝|ウグイス%ガイ}}\n* {{ja-r|鶯%垣|うぐいす%-がき}}\n* {{ja-r|鶯%神楽|ウグイス% カグラ}}\n* {{ja-r|鶯%羹|うぐいす%-かん}}\n* {{ja-r|鶯%嬢|うぐいす%-じょう}}\n* {{ja-r|鶯%砂|うぐいす%-ずな}}\n* {{ja-r|鶯%染め|うぐいす%-ぞめ}}\n* {{ja-r|鶯%茶|うぐいす%-ちゃ}}\n* {{ja-r|鶯%塚|うぐいす%-づか}}\n* {{ja-r|鶯%綴じ|うぐいす%-とじ}}\n* {{ja-r|鶯%菜|うぐいす%な|[[young]] [[green]]s}}\n* {{ja-r|鶯%糠|うぐいす%-ぬか}}\n* {{ja-r|鶯%張り|うぐいす%ばり|[[nightingale floor]]}}\n* {{ja-r|鶯%笛|うぐいす%-ぶえ}}\n* {{ja-r|鶯%豆|うぐいす%-まめ}}\n* {{ja-r|鶯%眉|うぐいす%-まゆ}}\n* {{ja-r|鶯%餅|うぐいす%-もち}}\n* {{ja-r|梅に鶯|うめ に うぐいす}}\n* {{ja-r|老い鶯|おいうぐいす}}\n* {{ja-r|高麗%鶯|コウライ% ウグイス}}\n* {{ja-r|大東%鶯|だいとう% うぐいす}}\n* {{ja-r|朝鮮%鶯|^ちょうせん% うぐいす}}\n* {{ja-r|手%振り鶯|て%ぶりう ぐいす}}\n* {{ja-r|友%鶯|とも%うぐいす}}\n* {{ja-r|夏%鶯|なつ%うぐいす}}\n* {{ja-r|初%鶯|はつ%うぐいす|first warbler to chirp in spring}}\n* {{ja-r|藪%鶯|やぶ%-うぐいす}}\n* {{ja-r|山%鶯|やま%-うぐいす}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "* {{ja-r|鶯%鳴かせたこともある|うぐいす% なかせた こと も ある}}\n* {{ja-r|鶯の卵の中の時鳥|うぐいす の かいご の なか の ほととぎす}}\n* {{ja-r|鶯の谷%渡り|うぐいす の たに% わたり}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|笹%鳴き|ささ%なき|[[twitter]]ing of a bush warbler}}\n* {{ja-r|三鳥|さんちょう|[[cuckoo]], bush warbler and [[wagtail]]}}\n* {{ja-r|雪%加|セッ%カ|rom=-}}, {{ja-r|雪%下|セッ%カ|{{w|zitting cisticola}}}}\n* {{ja-r|虫%食い|むし%くい|rom=-}}, {{ja-r|虫%喰い|むし%くい|[[leaf warbler]]}}\n* {{ja-r|葦%切|よし%きり|[[reed warbler]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|うぐいす|hhira=うぐひす}}\n\n# {{surname|lang=ja|sort=うくいす|A=a|nodot=1}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            },
+            {
+              "level": 3,
+              "title": "Further reading",
+              "text": "* [http://www.nihonjiten.com/data/45755.html 鶯 etymology at Nihon Jiten] (in Japanese)\n\n[[Category:ja:Warblers|うぐいす]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

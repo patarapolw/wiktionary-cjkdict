@@ -1,0 +1,39 @@
+{
+  "title": "伺",
+  "ns": 0,
+  "id": 10725,
+  "timestamp": 1518185196000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|何|同}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人05}}\n\n# Inquire [ask] after<ref name=\":0\">0053 Kanji. ''Kodansha'' ''Kanji Learner's Dictionary: Revised and Expanded'', Hepburn, Jack. 2013.</ref>\n# Inquire about/ask<ref name=\":0\" />\n<references />",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=うかが-う, うかが-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|伺う|うかがう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "萘",
+  "ns": 0,
+  "id": 25177,
+  "timestamp": 1525161386000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Borrowed from {{bor|zh|en|naphthalene}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=nài\n|c=noi6\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic compound}} [[naphthalene]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|萘啶}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

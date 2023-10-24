@@ -1,0 +1,39 @@
+{
+  "title": "汰",
+  "ns": 0,
+  "id": 18656,
+  "timestamp": 1503606077000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水04}}\n\n# {{l|en|scour}}, {{l|en|wash}} {{l|en|out}}\n<!--NOT \"selection\", \"luxury\", etc.-->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たい\n|kanon=たい\n|kanyoon=た\n|kun=おご-る, に-ごる, よな-げる, ゆ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|沙%汰|さ%た}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

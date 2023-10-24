@@ -1,0 +1,59 @@
+{
+  "title": "龍",
+  "ns": 0,
+  "id": 33241,
+  "timestamp": 1552579173000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|龙|竜}}\n{{character info/new}}\n{{character info/new|codepoint=0xF9C4}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|竜|龍}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=龍00|shin=竜}}\n\n# [[dragon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りゅう<りゆう\n|kanon=りょう<りよう\n|kanyoon=ろう\n|kun=たつ-\n|nanori=かみ, きみ, しげみ, とお, とおる, めぐむ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* [[kyūjitai|Kyūjitai]]; simplified into {{m|ja|竜}} as isolated shinjitai kanji, but used in Jōyō characters {{m|ja|襲}} and {{m|ja|籠}} (latter Jōyō as of 2010).\n** Although it is officially simplified into {{m|ja|竜}}, {{m|ja||龍}} is often used instead for certain words for its aesthetics (such as in literary contexts or for spelling words borrowed from Chinese). For example, {{m|ja|烏龍茶}} is rarely spelled as {{m|ja|烏竜茶}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たつ|shin=竜}}\n\n# [[dragon]]\n#* {{RQ:Wamyō Ruijushō|8|1}}\n#*: '''龍''' 文字集畧云、龍、力鍾反、'''太都'''、○下總本有和名二字、神代紀齋明紀同訓、按'''太都''' [...]\n\n{{ja-noun|りゅう|shin=竜}}\n\n# [[dragon]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|りゅう|proper|shin=竜}}\n\n# {{given name|male|lang=ja}}\n# {{surname|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Wamyō Ruijushō}}"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|ドラゴン}}\n\n[[Category:Japanese male given names|りゅう]]\n[[Category:Japanese surnames|りゅう]]\n[[Category:ja:Mythological creatures|りゅう]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

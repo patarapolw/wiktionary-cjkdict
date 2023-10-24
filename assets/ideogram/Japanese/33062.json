@@ -1,0 +1,51 @@
+{
+  "title": "黛",
+  "ns": 0,
+  "id": 33062,
+  "timestamp": 1539353471000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=黑05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=たい\n|kun=まゆずみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まゆずみ}}\n\n# [[eyebrow pencil]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|眉墨}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|まゆずみ}}\n\n# {{surname|lang=ja|sort=まゆずみ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

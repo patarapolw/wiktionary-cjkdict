@@ -1,0 +1,44 @@
+{
+  "title": "府",
+  "ns": 0,
+  "id": 15008,
+  "timestamp": 1546461335000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=广05}}\n\n# {{defn|lang=ja|sort=广05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ\n|kanon=ふ\n|kun=くら-, みやこ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[府君]]\n* [[府庫]]\n* [[府寺]]\n* [[府治]]\n* [[府第]]\n* [[府中]]\n* [[政府]]\n* {{ja-r|幕%府|ばく%ふ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ふ}}\n\n# The [[prefecture|prefectural]] governments of Osaka and Kyoto."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

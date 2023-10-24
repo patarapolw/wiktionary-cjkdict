@@ -1,0 +1,39 @@
+{
+  "title": "彰",
+  "ns": 0,
+  "id": 15240,
+  "timestamp": 1553549319000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=彡11}}\n\n# [[obvious]], [[clear]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=しょう<しやう\n|kun=あや, あき-らか, あらわ-す, あらわ-れる\n}}\n<!-- not in my sources: |on=[[そう]] (sō) -->"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|あきら|proper}}\n\n# {{given name|male|lang=ja|sort=あきら}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

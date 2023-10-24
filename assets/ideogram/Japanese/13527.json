@@ -1,0 +1,39 @@
+{
+  "title": "夾",
+  "ns": 0,
+  "id": 13527,
+  "timestamp": 1551003278000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|夹|㚒}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=大04}} <!-- Note: This character is not simplified to 夹 in Japanese -->\n\n# insert between",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[こう]] (kō), [[きょう]] (kyō)|kun=[[はさむ]] (hasamu)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Only used as a component form of {{l|ja|挾}}/{{l|ja|狹}}/{{l|ja|峽}} which has been {{w|Shinjitai|simplified}} to {{l|ja|挟}}/{{l|ja|狭}}/{{l|ja|峡}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

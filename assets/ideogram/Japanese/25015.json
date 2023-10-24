@@ -1,0 +1,49 @@
+{
+  "title": "荷",
+  "ns": 0,
+  "id": 25015,
+  "timestamp": 1546274124000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=艸07}}\n\n# [[load]], [[cargo]]\n# [[luggage]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=が\n|kanon=か\n|kun=に-, にな-う\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|手%荷%物|て%に%もつ}}\n* {{ja-r|荷%物|に%もつ}}\n* {{ja-r|茗%荷|みょう%が}}, {{ja-r|蘘%荷|みょう%が}}: [[myoga]] or [[Japanese ginger]] (''[[Zingiber mioga]]''); a [[dimwit]], an [[idiot]], a [[stupid]] person; a kind of {{ja-r|家紋|かもん}}, family crest\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|か|counter}}\n\n# [[load]]s that can be carried on one's shoulders"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|か|suffix}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "綠",
+  "ns": 0,
+  "id": 23388,
+  "timestamp": 1550026819000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|绿|緑}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|緑|綠}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=糸08|shin=緑}}\n\n# the color [[green]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=りょく, ろく\n|kun=みどり-\n|nanori=みどり\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|みどり|proper}}\n\n# {{given_name|female|lang=ja|sort=みどり}}."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

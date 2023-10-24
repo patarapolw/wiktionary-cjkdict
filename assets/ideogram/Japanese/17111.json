@@ -1,0 +1,44 @@
+{
+  "title": "智",
+  "ns": 0,
+  "id": 17111,
+  "timestamp": 1546260848000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日08}}\n\n# [[intellect]]\n# [[knowledge]]\n# [[wisdom]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ち\n|kanon=ち\n|nanori=あきら, さと, さとい, さとし, さとる, じ, とし, とみ, とも, のり, ひと, もと, よも\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* [[叡智]]\n* [[機智]]\n* [[智慧]]\n* [[智能]]\n* [[智謀]]\n* [[無智]]\n* [[理智]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|さとし}}\n\n# {{given name|male|lang=ja|sort=さとし}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

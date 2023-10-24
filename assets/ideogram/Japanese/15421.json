@@ -1,0 +1,131 @@
+{
+  "title": "性",
+  "ns": 0,
+  "id": 15421,
+  "timestamp": 1553563116000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=心05}}\n\n# one's [[nature]]\n# [[characteristic]]\n# [[sex]], [[gender]]\n# [[content]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=せい\n|kun=さが-, なりくせ\n|nanori=なり, もと\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|間性|かんせい}}: [[intersex]]\n* {{ja-r|性愛|せいあい}}: [[eros]]\n* {{ja-r|性交|せいこう}}: [[sexual intercourse]]\n* {{ja-r|性行|せいこう}}: [[character]] and [[conduct]]\n* {{ja-r|性同一性|せい どういつせい}}: [[gender identity]]\n* {{ja-r|性分|しょうぶん}}\n* {{ja-r|性善説|せいぜんせつ}}\n* {{ja-r|男性|だんせい}}: [[male]]\n* {{ja-r|同一性|どういつせい}}: [[identity]]\n* {{ja-r|性急|せいきゅう}}\n* {{ja-r|性悪説|せいあくせつ}}\n{{der-mid}}\n* {{ja-r|性情|せいじょう}}\n* {{ja-r|中性|ちゅうせい}}\n* {{ja-r|性格|せいかく}}\n* {{ja-r|性癖|せいへき}}\n* {{ja-r|性別|せいべつ}}: [[sex]], [[gender]]\n* {{ja-r|性能|せいのう}}\n* {{ja-r|悪性|あくせい}}\n* {{ja-r|性質|せいしつ}}\n* {{ja-r|性転換|せいてんかん}}: [[sex change]]\n* {{ja-r|女性|じょせい}}, {{ja-r|女性|にょしょう}}: [[female]]\n* {{ja-r|油性|ゆせい}}: [[oiliness]]; [[oil]]-[[based]]\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{S-JIS|90AB}}\n* {{JIS|402D}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しょう|yomi=o}}\nFrom {{etyl|ltc|ja|sort=しょう}} {{m|zh|性|tr=sjeng<sup>H</sup>||nature of something, inherent quality}}.\n\nThe [[呉音#Japanese|goon]], so the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|しょう|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しょう|hhira=しやう}}\n\n# the [[nature]] of something"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|せい|yomi=o}}\nFrom {{etyl|ltc|ja|sort=せい}} {{m|zh|性|tr=sjeng<sup>H</sup>||nature of something, inherent quality}}.\n\nThe [[漢音#Japanese|kan'on]], so a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|せい|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せい}}\n\n# [[sex]], [[gender]]\n# {{lb|ja|grammar|sort=せい}} [[gender]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|性別|せいべつ}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|せい|suffix}}\n\n# [[-ity]], [[-ness]], the nature of quality or something",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|らしさ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|さが|yomi=k}}\nProbably from {{etyl|ojp|ja|sort=さが}}, although the ultimate derivation is unknown. Appears in ''{{w|The Tale of Genji}}'' and ''{{w|The Tales of Ise}}'' of the {{w|Heian period}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|さが|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|相}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さが}}\n\n# one's [[nature]]\n# [[characteristic]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|本能|ほんのう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

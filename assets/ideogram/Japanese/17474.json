@@ -1,0 +1,49 @@
+{
+  "title": "柳",
+  "ns": 0,
+  "id": 17474,
+  "timestamp": 1553291300000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xf9c9}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=木05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=りゅう<りう\n|kun=やなぎ-, やい, やぎ, やない\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|花柳|かりゅう}}\n* {{ja-r|川柳|せんりゅう}}, {{ja-r|川柳|かわやなぎ}}, {{ja-r|川柳|かわやぎ}}\n* {{ja-r|柳葉魚|ししゃも}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|やなぎ|ヤナギ}}\n\n# [[willow]] (tree)"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|やなぎ}}\n\n# {{surname|lang=ja|sort=やなぎ}}\n\n[[Category:ja:Trees|やなぎ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

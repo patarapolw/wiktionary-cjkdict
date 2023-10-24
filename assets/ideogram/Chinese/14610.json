@@ -1,0 +1,44 @@
+{
+  "title": "崤",
+  "ns": 0,
+  "id": 14610,
+  "timestamp": 1522768115000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=崤\n|c=ngaau4\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{w|Xiao Mountains|Mount Xiao}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|崤函|崤山|崤谷}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

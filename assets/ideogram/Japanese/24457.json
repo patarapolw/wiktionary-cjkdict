@@ -1,0 +1,66 @@
+{
+  "title": "腥",
+  "ns": 0,
+  "id": 24457,
+  "timestamp": 1538183337000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉09}}\n\n# [[smelly]], as of [[raw]] [[fish]] or [[meat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=せい\n|kun=なまぐさ-, なまぐさ-い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|なまぐさ}}\nRoot stem of adjective {{m|ja|生臭い}}, {{m|ja|腥い|tr=namagusai||smelling of fish, meat, or blood; stinky, bad-smelling}},<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> itself a compound of {{compound|ja|sort=なまぐさ|生|tr1=nama|t1=raw, uncooked|臭い|tr2=kusa|t2=stink, bad smell|pos2=root stem of {{m|ja|臭い}} ''kusai'', “stinky, bad-smelling”}}. {{rendaku2|sort=なまぐさ|kusa|gusa}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|なまぐさ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|生臭}} {{qualifier|most common}}, {{ja-l|鮏}} {{qualifier|rare}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なまぐさ}}\n\n# a [[smell]] of [[fish]], [[meat]], or [[blood]]\n# a [[stink]], a bad [[smell]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ja-r|生%臭い|なま%ぐさい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

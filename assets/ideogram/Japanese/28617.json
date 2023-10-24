@@ -1,0 +1,39 @@
+{
+  "title": "迎",
+  "ns": 0,
+  "id": 28617,
+  "timestamp": 1544181025000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=辵04}}\n\n# [[welcome]]\n# to [[meet]]\n# to [[greet]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう\n|kanon=げい\n|kun=むか-える\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-kanjitab|むかい|yomi=k}}\n{{ja-kanjitab|むかえ|yomi=k}}\n{{ja-pos|proper|むかえ|むかい}}\n\n# {{surname|lang=ja|sort=むかえ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

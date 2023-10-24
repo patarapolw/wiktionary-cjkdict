@@ -1,0 +1,44 @@
+{
+  "title": "菓",
+  "ns": 0,
+  "id": 25108,
+  "timestamp": 1532681523000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=艸08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か<くわ\n|kanon=か<くわ\n|kun=くだもの-, かし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|菓子|gloss=[[confection]], [[sweets]], [[candy]]|かし}}\n** {{ja-r|綿菓子|わたがし}}\n** {{ja-r|和菓子|gloss={{w|wagashi}}, Japanese candy|わがし}}\n** {{ja-r|洋菓子|gloss=Western candy|ようがし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|か|counter}}\n\n# [[fruit]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

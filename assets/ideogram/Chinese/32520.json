@@ -1,0 +1,51 @@
+{
+  "title": "鴃",
+  "ns": 0,
+  "id": 32520,
+  "timestamp": 1519329451000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𫛞|alt=鴂,䳏}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=jué\n|c=kyut3\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-synonym|伯勞|shrike}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=guì,guī,jué\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|鶗鴃}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|南蠻鴃舌|白眉鴃|鴃舌|鶗鴃|鵜鴃}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

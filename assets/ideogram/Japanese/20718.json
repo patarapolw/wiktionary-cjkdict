@@ -1,0 +1,71 @@
+{
+  "title": "珍",
+  "ns": 0,
+  "id": 20718,
+  "timestamp": 1537870827000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|珎}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=玉05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちん\n|kanon=ちん\n|kun=めずら-し.い, うず-\n|nanori=たから, じん\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|珍語|ちんご|[[rare]] [[word]], [[unusual]] [[word]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|ちん}}\nFrom {{etyl|ltc|ja|sort=ちん}} {{m|zh|珍|tr=trin||treasure, precious thing}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|ちん|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{ja-adj|infl=na|ちん}}\n\n# [[rare]], [[strange]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|ちん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ちん}}\n\n# [[rarity]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

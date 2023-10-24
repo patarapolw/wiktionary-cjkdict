@@ -1,0 +1,83 @@
+{
+  "title": "役",
+  "ns": 0,
+  "id": 15249,
+  "timestamp": 1548855613000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|伇}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=彳04}}\n\n# [[duty]], [[office]]\n# [[service]]\n# [[role]], [[part]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=やく\n|kanon=えき\n|kun=つとめ-, えだち-\n|nanori=え, えん, えんの, おうこ, おうせ, おおせ, まもり, まもる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|やく|yomi=o}}\nFrom {{der|ja|ltc|sort=やく|-}} {{ltc-l|役|id=1}}. The [[呉音#Japanese|goon]] reading, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=go|やく|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|やく}}\n\n# [[role]], [[service]], [[use]]\n# {{lb|ja|card games|mahjong|sort=やく}} [[hand]], [[score|scoring]] [[combination]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|やく}}\n\n# [[play]]ing the [[role]] [[of]]...\n#: {{ja-usex|涼%宮ハルヒ'''役'''の平%野 綾さん|^すず%みや ^ハルヒ-'''やく''' の ^ひら%の ^あや-さん|{{w|Aya Hirano}}, who voices {{w|Haruhi Suzumiya}}}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|えき|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えき|-}} {{ltc-l|役|id=1}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えき|acc=1|acc_ref=DJR|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えき}}\n\n# [[war]]; [[battle]]\n# {{lb|ja|archaic}} {{rfdef|ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えき}}\n\n# [[duty]]; [[service]]\n# put to [[work]], [[labor]]\n# [[war]]; [[battle]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

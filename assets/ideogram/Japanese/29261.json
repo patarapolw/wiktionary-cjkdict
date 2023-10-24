@@ -1,0 +1,39 @@
+{
+  "title": "鈀",
+  "ns": 0,
+  "id": 29261,
+  "timestamp": 1529602749000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|钯}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金04}}\n\n# {{defn|lang=ja|sort=金04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へ\n|kanon=は\n|kun=いくさぐるま-, まぐわ-\n|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鐺鈀|とうは}} - dangpa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

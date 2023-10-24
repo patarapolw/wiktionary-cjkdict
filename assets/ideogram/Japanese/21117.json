@@ -1,0 +1,44 @@
+{
+  "title": "画",
+  "ns": 0,
+  "id": 21117,
+  "timestamp": 1545935329000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|畫|划}}\n{{character info}}\n{{character info|0xFAA3}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|画|畫}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=田03|kyu=畫}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え<ゑ, が<ぐわ, わく\n|kanon=かい<くわい, かく<くわく\n|kun=えが-く<ゑが-く, か-く, かぎ-る, はかりごと-, はか-る\n}}\n{{attention|ja|expand and split on readings}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top5}}\n* {{ja-r|画家|がか}}\n* {{ja-r|画架|がか}}\n* {{ja-r|画%角|が%かく}}\n* {{ja-r|画工|がこう}}\n* {{ja-r|画材|がざい}}\n* {{ja-r|画質|がしつ}}\n* {{ja-r|画商|がしょう}}\n{{mid5}}\n* {{ja-r|画図|がと}}\n* {{ja-r|画集|がしゅう}}\n* {{ja-r|画像|がぞう}}\n* {{ja-r|画堂|がどう}}\n* {{ja-r|画帖|がじょう}}\n* {{ja-r|画%伯|が%はく}}\n* {{ja-r|画板|がばん}}\n{{mid5}}\n* {{ja-r|画眉|がび}}\n* {{ja-r|画餅|がべい}}\n* {{ja-r|画舫|がぼう}}\n* {{ja-r|画面|がめん}}\n* {{ja-r|画素|がそ}}\n* {{ja-r|画竜|がりょう}}\n* {{ja-r|画竜 点睛|がりょう てんせい}}\n* {{ja-r|画廊|がろう|gloss=[[gallery]]}}\n* {{ja-r|画楼|がろう}}\n{{mid5}}\n* {{ja-r|画一|かくいつ}}\n* {{ja-r|画策|かくさく}}\n* {{ja-r|画然|かくぜん}}\n* {{ja-r|画定|かくてい}}\n* {{ja-r|画期|かっき}}\n* {{ja-r|画期%的|かっき%てき}}\n* {{ja-r|映画|えいが}}\n* {{ja-r|絵画|かいが}}\n{{mid5}}\n* {{ja-r|企%画|き%かく}}\n* {{ja-r|計画|けいかく}}\n* {{ja-r|図画|ずが}}\n* {{ja-r|版画|はんが}}\n* {{ja-r|分画|ぶんかく}}\n* {{ja-r|区%画|く%かく}}\n* {{ja-r|筆画|ひっかく}}\n* {{ja-r|動画|どうが}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|かく|yomi=o}}\n{{ja-noun|かく|kyu=畫}}\n\n# [[stroke]] (of a pen, in a character)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

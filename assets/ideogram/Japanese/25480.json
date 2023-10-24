@@ -1,0 +1,90 @@
+{
+  "title": "蔭",
+  "ns": 0,
+  "id": 25480,
+  "timestamp": 1553213320000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|荫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん\n|kanon=いん\n|kun=かげ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|ja|陰}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いん|yomi=kanon}}\nThe senses “shelter” and “benefit from ancestors” are from {{der|ja|ltc|sort=いん|-}} {{ltc-l|蔭}}, compare modern Mandarin ''yìn'' (as opposed to ''yīn'' “shade of the tree, shadow of the sun”).\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いん|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いん}}\n\n# [[shade]] of the [[tree]]; [[shadow]] of the [[sun]]\n# [[backing]]; [[assistance]]; [[shelter]]\n# {{lb|ja|historical}} [[benefit]] (such as [[position]], [[rank]]) from one's [[ancestor]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おん|yomi=goon}}\nFrom {{der|ja|ltc|sort=おん|-}} {{ltc-l|蔭}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|おん|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|おん}}\n\n# {{lb|ja|historical}} [[benefit]] (such as [[position]], [[rank]]) from one's [[ancestor]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おん}}\n\n# {{lb|ja|historical}} under the {{w|Ritsuryō}} system, {{rfdef|ja}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|蔭位|おんい}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|かげ|yomi=k}}\n{{ja-see|かげ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

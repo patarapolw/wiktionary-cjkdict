@@ -1,0 +1,44 @@
+{
+  "title": "蟡",
+  "ns": 0,
+  "id": 26305,
+  "timestamp": 1553047117000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F9C0}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{vi-readings|hanviet=quỵ|nom=vờ, quị, ve|rs=虫09}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{vi-noun|sc=Hani|ve|rs=虫09}}\n\n# [[cicada]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=87e1&img=1 Nôm Lookup Tool], Vietnamese Nom Preservation Foundation\n* {{R:WinVNKey:Lê Sơn Thanh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

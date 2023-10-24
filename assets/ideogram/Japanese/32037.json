@@ -1,0 +1,39 @@
+{
+  "title": "魑",
+  "ns": 0,
+  "id": 32037,
+  "timestamp": 1553571359000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鬼11}}\n\n# {{defn|lang=ja|sort=鬼11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ち\n|kanon=ち\n|kun=すだま\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds with 魑}}\n* {{ja-r|魑魅|すだま}}; or {{ja-r|魑魅|ちみ}}\n* {{ja-r|魑魅魍魎|ちみもうりょう}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

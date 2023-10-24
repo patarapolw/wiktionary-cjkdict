@@ -1,0 +1,39 @@
+{
+  "title": "勇",
+  "ns": 0,
+  "id": 11769,
+  "timestamp": 1553325190000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA76}}\n{{character info|0x2F825}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|勇|勇|勇}} <!-- All three characters are unique. If you have different region-specific fonts installed the characters displayed will be different -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note that in Japanese and Korean, the character is written [[龴]]+[[田]]+[[力]], as found in the [[Kangxi]] dictionary. In traditional Chinese (Hong Kong and Taiwan) and Vietnamese script, the character is written [[龴]]+[[用]]+[[力]]. In modern simplified Chinese, the character is written similar to the traditional Chinese form but the lower right hook of [[用]] is missing."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=19|rad=力|as=07|sn=9|four=17427|canj=NBKS|ids=⿱甬力(GHTV),⿱龴男(JK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0147.350|dkj=02360|dj=0332.160|hdz=10372.070|uh=52C7|ud=21191|bh=AB69|bd=43881}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

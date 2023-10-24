@@ -1,0 +1,218 @@
+{
+  "title": "衣",
+  "ns": 0,
+  "id": 26440,
+  "timestamp": 1553047007000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𠂢|乑}}\n{{character info/new}}\n{{character info|0x2F9C4}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=衣00}}\n\n# [[clothing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え\n|kanon=い\n|kun=ころも-, きぬ-, ぎ-, そ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|獄%衣|ごく%い}}: [[prison]] [[clothes]]\n* {{ja-r|狩%衣|かり%ぎぬ}}, {{ja-r|狩%衣|かり%ごろも}}\n* {{ja-r|浴衣|ゆかた}}, {{ja-r|浴%衣|よく%い}}\n* {{ja-r|衣%偏|ころも%へん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|ころも}}\n\nFrom {{inh|ja|ojp|sort=ころも|-}}. Appears in the ''{{w|Kojiki}}'' completed in 712 CE.\n\nUltimate derivation unclear. May be a compound of {{compound|ja|sort=ころも|ころ|tr1=koro|pos1=uncertain meaning, possibly “wrapping”, cognate with {{m|ja|転|tr=koro||roller; rolling}}|裳|tr2=mo|t2=lower robe}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ころも|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ころも}}\n\n# {{lb|ja|sort=ころも|archaic}} [[clothes]], [[clothing]]\n# a [[robe]] {{gloss|as worn by a monk, nun, or priest}}\n# a [[coating]] on an item of [[food]], such as [[batter]] or [[icing]]\n# the [[outer]] [[shell]] or [[carapace]] of an [[insect]] or other [[arthropod]]\n# the [[hide]] or [[feathers]] of a small [[animal]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|clothing}} {{ja-r|服|ふく}}, {{ja-r|衣%服|い%ふく}}\n* {{sense|robe}} {{ja-r|着%物|き%もの}} {{qualifier|non-clerical}}; {{ja-r|法%衣|ほう%い}} {{qualifier|clerical}}, {{ja-r|僧%衣|そう%い}} {{qualifier|clerical}}\n* {{sense|food coating, insect shell, animal skin}} {{ja-r|外%皮|がい%ひ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|衣%替え|ころも%がえ}}: the [[changing]] of one's [[clothes]]\n* {{ja-r|衣%虱|ころも%じらみ}}: the [[body louse]] ((''[[Pediculus humanus]]''), ({{taxlink|Pediculus humanus humanus|species|ver=180312}}), ({{taxlink|Pediculus humanus corporis|species|ver=180312}}))\n* {{ja-r|衣%手|ころも%で}}: a [[sleeve]]\n* {{ja-r|衣%筥|ころも%ばこ}}: a kind of [[clothing]] [[box]] or [[chest]] that has short [[leg]]s\n* {{ja-r|衣%偏|ころも%へん}}: the [[clothing]] [[radical]] {{gloss|a graphical portion of a kanji character}}\n* {{ja-r|衣%屋|ころも%や}}: a [[store]] selling [[clerical]] [[robe]]s; a person working in such a store\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|きぬ}}\n\nLikely cognate with {{m|ja|絹|tr=kinu||silk}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Alternatively, may also be a compound of {{compound|ja|sort=きぬ|着|tr1=ki|t1=wearing|pos1=the {{ja-etym-renyokei|nodot=1|着る}} ''kiru'', “to wear”|布|tr2=nu|t2=cloth|pos2=shortened from normal reading ''nuno''}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|きぬ|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きぬ}}\n\n# [[clothes]], [[clothing]] {{gloss|particularly clothing worn on the top half of the body}}\n# an [[overrobe]]\n# the [[skin]], [[hide]], or [[shell]] of an animal; the [[bark]], [[rind]], or [[skin]] of a plant",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|衣%落|きぬ%おとし}}: a particular moment in a [[noh]] play where a character approaches the bridge and removes an outer robe wrapped around their hips\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|ぎ}}\n\nThe [[rendaku]] form of {{m|ja|着|tr=ki}}, the {{ja-etym-renyokei|nodot=1|着る}} (''kiru'', “to wear”).<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ぎ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{m|ja|着}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|ぎ}}\n\n# [[clothes]], [[clothing]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Only found as the latter element in compounds. More commonly spelled {{m|ja|着}}."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|打ち衣|うちぎ}}: [[everyday]] [[clothing]], particularly [[kimono]]\n* {{ja-r|産%衣|うぶ%ぎ}}: [[baby]] [[clothes]]; [[swaddling]] [[clothes]]\n* {{ja-r|上%衣|うわ%ぎ}}: an [[overrobe]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=kanon|い}}\n\nFrom {{bor|ja|ltc|sort=い|-}} {{ltc-l|衣|id=1|clothes, clothing}}.\n\nThe [[漢音#Japanese|kan'on]] reading, so likely a more recent borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|い|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|い}}\n\n# [[clothes]], [[clothing]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|い}}\n\n# [[clothes]], [[clothing]]\n# [[garb]], [[robe]] {{gloss|as worn by a monk, nun, or priest}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top|clothes, clothing}}\n* {{ja-r|衣%服|い%ふく}}: [[clothes]], [[clothing]]\n* too numerous to list here\n{{der-bottom}}\n\n{{der-top|robe (as worn by a monk, nun, or priest)}}\n* {{ja-r|衣%鉢|い%はつ}}\n* {{ja-r|紫%衣|し%い}}\n* {{ja-r|僧%衣|そう%い}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=o|え}}\n\nFrom {{bor|ja|ltc|sort=え|-}} {{ltc-l|衣|id=1|clothes, clothing}}.\n\nThe [[呉音#Japanese|goon]] reading, so likely the older borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|え}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|え}}\n\n# [[clothes]], [[clothing]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Not used in isolation. Only encountered in compounds."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|衣%紋|え%もん}}: the [[collar]] of a [[kimono]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|yomi=k|そ}}\n\n{{IPAfont|⟨so<sub>2</sub>⟩}} → {{IPAchar|/so/}}\n\nFrom {{inh|ja|ojp|sort=そ|-}}. Ultimate derivation {{unk|ja|nocap=1|sort=そ}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|そ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そ}}\n\n# {{lb|ja|sort=そ|obsolete}} [[clothes]], [[clothing]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Only found in compounds."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|御%衣|み%そ}}, {{ja-r|御%衣|み%ぞ}}, {{ja-r|御%衣|おん%ぞ}}: [[clothes]], [[clothing]]\n* {{ja-r|袖|そで}}: a [[sleeve]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

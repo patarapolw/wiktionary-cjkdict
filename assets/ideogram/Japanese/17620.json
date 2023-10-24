@@ -1,0 +1,39 @@
+{
+  "title": "梁",
+  "ns": 0,
+  "id": 17620,
+  "timestamp": 1550924485000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|粱|樑}}\n{{character info/new}}\n{{character info/new|0xf97a}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろう\n|kanon=りょう\n|kun=はし-, はり-, やな-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はり}}\n\n# [[beam]], [[joist]]\n\n{{ja-noun|やな}}\n\n# fish trap, fish [[weir]]\n\n[[Category:ja:Fishing|やな]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

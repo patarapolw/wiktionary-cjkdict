@@ -1,0 +1,46 @@
+{
+  "title": "枘",
+  "ns": 0,
+  "id": 17373,
+  "timestamp": 1553552723000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=木04}}\n\n# [[navel]]; a [[protrusion]]; a [[tenon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ぜい, ねい, どん, のん\n|kun=せん, ほぞ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ほぞ}}\n\n# {{alternative spelling of|lang=ja|臍||a [[navel]]; a [[protrusion]]; a [[tenon]] in a [[mortise]] and tenon [[carpentry]] [[join]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The {{m|en|tenon}} sense is sometimes spelled {{l|ja|柄}}. This alternate character might be considered by some to be a misspelling. Note that the right-hand element of {{l|ja|枘}} is {{l|ja|内}} without a top bar, while the right-hand element of {{l|ja|柄}} is {{l|ja|丙}} with a top bar."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

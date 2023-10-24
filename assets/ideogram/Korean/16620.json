@@ -1,0 +1,44 @@
+{
+  "title": "擇",
+  "ns": 0,
+  "id": 16620,
+  "timestamp": 1529488236000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|择}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=택|eumhun=|rv=taek|mr=t'aek|y=thayk}}\n\n# chosen among many, picked out\n# [[divide]]"
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{ko-noun|hj|hangeul=택하다}}\n\n# to [[choose]], to [[select]], to [[pick]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ko-l|선택|選擇}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ko-l|정|定}}: [[decide]]; [[determine]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

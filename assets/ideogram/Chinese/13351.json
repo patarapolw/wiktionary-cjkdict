@@ -1,0 +1,37 @@
+{
+  "title": "墑",
+  "ns": 0,
+  "id": 13351,
+  "timestamp": 1495655907000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dī\n|c=dik1\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[stair]]s; [[step]]s\n# {{zh-alt-form|的|archery target}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C01783}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

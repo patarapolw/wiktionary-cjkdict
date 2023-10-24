@@ -1,0 +1,44 @@
+{
+  "title": "鄞",
+  "ns": 0,
+  "id": 29030,
+  "timestamp": 1553570339000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yín\n|c=ngan4\n|mn=gîn\n|mn-t=ngeng5\n|w=3nyin\n|mc=y\n|oc=y\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{surname|lang=zh}}\n# {{zh-div|縣}} {{lb|zh|historical}} [[Yin]] County, [[Ningbo]] City, [[Zhejiang]] Province",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|鄞州}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

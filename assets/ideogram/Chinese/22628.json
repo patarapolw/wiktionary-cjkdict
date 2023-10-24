@@ -1,0 +1,68 @@
+{
+  "title": "站",
+  "ns": 0,
+  "id": 22628,
+  "timestamp": 1552718706000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=佔,趈,跕,𥩠,駅-modern Hong Kong}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|立|占|c1=s|c2=p|ls=psc}}. A relatively late character – not found in ''{{w|Shuowen}}''; found in ''{{w|Guangyun}}''."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhàn\n|ma=y\n|m-s=\n|c=zaam6\n|c-t=\n|g=\n|h=pfs=chham/cham\n|h_note=cham - \"station\"\n|j=\n|mb=ca̿ng\n|md=cáng/câng\n|md_note=cáng - \"stand\" (literary); câng - \"station\"; colloquially \"stand\" is {{zh-l|*徛}}\n|mn=qz:chǎm/tw,xm,zz:chām/qz,xm,zz:chàn\n|mn_note=chǎm/chām - literary; chàn - vernacular (俗)\n|mn-t=zam6\n|w=3ze\n|x=\n|mc=y\n|oc=y\n|cat=v,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "; &ldquo;to stand&rdquo;\n: A Northern Chinese word attested since the 9-10th centuries. Displaced earlier {{zh-l|立}} in most modern northern Chinese varieties.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[stand]]\n#: {{zh-x|站起來|'''stand''' up}}\n# to [[stop]], to [[halt]]\n# {{lb|zh|figurative}} to take a firm [[stance]]; to [[uphold]] the stand",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Generally considered to be a Mongolian influence in the {{w|Yuan Dynasty}} – an abbreviation of {{zh-l|站赤|post stations during the Yuan Dynasty}}, from {{der|zh|xng|ᠵᠠᠮᠴᠢ||post station}} (> {{cog|mn|замч||guide; cicerone}}), a derivative of {{der|zh|xng|ᠵᠠᠮ||way, path}} (> {{cog|mn|зам}}).\n\nMongolian ''ǰam'' is undoubtedly cognate with {{cog|trk-pro|*jam||post station}} (> {{cog|tr|yam}}; ~ {{cog|ru|ям}}) with the same meaning; see {{w|Yam (route)}}. Starostin considers the Turkic form a descendant of Altaic *''ńi̯àmi'' (\"trace\") and related to Proto-Mongolian *''ǯim'' (\"path, trace\"; > {{cog|mn|ᠵᠢᠮ}} / {{l|mn|жим}}). Also compare {{cog|tr|yamçı||post rider}}, {{cog|ru|ямщи́к||drive, coachman}}.\n\nThere is no scholarly consensus regarding the direction of borrowing. Generally it is believed that Turkic ''jam'' and Chinese ''zhàn'' are loanwords from Mongolian ''ǰam'', however some (e.g. Tuymebayev in {{lang|ru|Казахско-монгольские лексические параллели}}) believe the directionality is reversed (i.e. Chinese \"to stand > stand > station\" → Middle Mongolian → Turkic → Russian). Whatever the etymology, what is apparent is that the word ''jam'' has been around for a long time and was used by Central Asians to designate a key postal relay station or official.\n\nIn Chinese, this word has been competing with the native equivalent {{zh-l|*驛|tr=yì|post station}} since its introduction. Mongol-ruled Yuan Dynasty saw a profusion of usages of ''zhàn'', which was deliberately suppressed in the succeeding {{w|Ming Dynasty}} in favour of ''yì''. Both were used in the subsequent {{w|Qing Dynasty}}, with ''zhàn'' eventually predominating in the modern times, being used to render the sense of \"station\" in modern concepts, such as \"train station\". Other Sinosphere countries show preference variations too: Vietnamese uses {{lang|zh|站}} ({{m|vi|trạm}}), whereas Japanese and Korean still use {{lang|zh|驛}} for \"station\" (Japanese {{ja-l|駅|えき|eki}}, Korean {{ko-l|역|驛}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{senseid|zh|post station}} [[post]] [[station]]; [[relay]] station\n# [[station]]; [[stand]]\n#: {{zh-x|火車站|railway '''station'''}}\n# {{zh-short|網站|website}}\n#: {{zh-x|站長|sysop}}\n#: {{zh-x|B站|{{w|Bilibili}}|tr=B-zhàn}}\n#: {{zh-x|N站|{{w|Nico Nico Douga}}|tr=N-zhàn}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|站不住腳|站住|站前區|站台|站員|站姿|站崗|站牌|站穩|站立|站管理|站起|站起來|站軍姿|站長|站點|中站|中繼站|中轉站|互聯網站|停站|停車站|停靠站|公交站|公共汽車站|兵站|加油站|北京站|原子能發電站|單連接站|國際太空站|地熱電站|地鐵站|基站|多站|天后站|太空站|奶站|家壩水電站|小靈通機站|工作站|巴士站|彈藥補給站|急救站|投票站|抽水站|招呼站|收廢站|收費站|核電站|檢查站|氣象站|氣象觀測站|水力發電站|水電站|汽車站|泵站|潮汐電站|灌站|火車站|發射站|發電站|票站|空間站|端站|管理站|糧站|終點站|網站|總站|罰站|航空站|航站|船到碼頭，車到站|補給站|記者站|變電站|貨站|車站|軌道空間站|載人軌道空間站|轉運站|邊防站|配電站|門戶網站|開站|雙連接站|電灌站|電站|驛站|站橋}}\n\n{{zh-cat|Beginning}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

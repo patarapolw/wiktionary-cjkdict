@@ -1,0 +1,59 @@
+{
+  "title": "士",
+  "ns": 0,
+  "id": 7196,
+  "timestamp": 1553572798000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|土|±}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=士00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=さむらい-, つかさ\n|nanori=ひと\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|会%計%士|かい%けい%し}}\n* {{ja-r|騎%士|き%し}}: knight\n* {{ja-r|士%卒|し%そつ}}: [[officers]] and [[soldiers]], [[soldiers]]\n* {{ja-r|戦%士|せん%し}}: [[soldier]], [[warrior]]\n* {{ja-r|博%士|はか%せ}}: doctor (degree)\n* {{ja-r|武%士|ぶ%し}}\n* {{ja-r|学%士|がく%し}}: a graduate (from a university)\n{{der-bottom}}\n{{ja-kanjitab|し|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|し|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|し}}\n\n# [[samurai]], [[warrior]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|し|suffix}}\n\n# person with a certain qualification.\n#: {{ja-usex|弁護'''士'''|べんご'''し'''|a lawyer}}\n#: {{ja-usex|会計'''士'''|かいけい'''し'''|an accountant}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

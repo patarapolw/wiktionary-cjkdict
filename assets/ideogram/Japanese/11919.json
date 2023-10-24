@@ -1,0 +1,44 @@
+{
+  "title": "卓",
+  "ns": 0,
+  "id": 11919,
+  "timestamp": 1552759630000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=十06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たく\n|kanon=たく\n|kun=すぐ-れる\n|nanori=たかし, すぐる\n}}\n\n{{ja-kanjitab|たく|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たく}}\n\n# [[table]], [[desk]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-kanjitab|たか|o1=し|yomi=n}}\n{{ja-pos|proper|たかし}}\n\n# {{given name|male|lang=ja|sort=たかし}}\n\n{{ja-pos|proper|すぐる}}\n\n# {{given name|male|lang=ja|sort=すぐる}}\n\n{{cln|ja|words with multiple readings}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

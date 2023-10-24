@@ -1,0 +1,51 @@
+{
+  "title": "式",
+  "ns": 0,
+  "id": 15136,
+  "timestamp": 1546207403000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=弋03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しき\n|kanon=しょく\n|kun=のり-, のっと-る\n|nanori=つね, のり, もち\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しき}}\n\n# [[type]], [[style]]\n# [[formula]]\n# [[ceremony]], [[ritual]], [[function]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|しき}}\n\n# ceremony\n# formula, expression\n# style",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|式%次|しき%じ}}\n* {{ja-r|式%辞|しき%じ}}\n* {{ja-r|式%日|しき%じつ}}\n* {{ja-r|式%典|しき%てん}}\n{{mid2}}\n* {{ja-r|式%服|しき%ふく}}\n* {{ja-r|式%神|しき%がみ}}, {{ja-r|式%神|しき%じん}}\n* {{ja-r|儀%式|ぎ%しき}}\n* {{ja-r|株%式|かぶ%しき}}\n{{bottom}}\n\n[[Category:ja:Computing|しき]]\n[[Category:ja:Mathematics|しき]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

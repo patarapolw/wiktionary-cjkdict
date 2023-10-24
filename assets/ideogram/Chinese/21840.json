@@ -1,0 +1,73 @@
+{
+  "title": "矣",
+  "ns": 0,
+  "id": 21840,
+  "timestamp": 1553773533000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yǐ\n|c=ji5\n|mn=--ah/í/ì\n|mc=y\n|oc=y\n|ma=\n|cat=part\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|classical|or|Min Nan}} [[particle]] expressing [[completion]], similar to MSM {{zh-l|了}}.\n#* {{zh-x|^我 食飽 %矣{ah}|I have eaten. / I am '''now''' full.|MN}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|了}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|已矣|久矣|吾道東矣|大事去矣|何彼襛矣|瞻彼洛矣|方寸亂矣|皇矣|瞠乎後矣|耳矣|早聞道，夕死可矣|朝聞道，夕死可矣|悔之晚矣}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xián\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[rhinoceros]]\n\n{{attention|zh|Probably also used in place name 矣六, but I can not verify it}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "title": "肴",
+  "ns": 0,
+  "id": 24280,
+  "timestamp": 1552876142000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|餚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう\n|kanon=こう\n|kun=さかな-, な\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|佳肴|かこう}}, {{ja-r|嘉肴|かこう}}\n* {{ja-r|口取り肴|くちとりざかな}}\n* {{ja-r|組み肴|くみざかな}}\n* {{ja-r|下戸の肴荒し|げこ の さかな.あらし}}\n* {{ja-r|下肴|げざかな}}: inferior fish, cheap fish\n* {{ja-r|肴核|こうかく}}\n* {{ja-r|小肴|こざかな}}: small fish\n* {{ja-r|肴荒らし|さかな.あらし}}\n* {{ja-r|肴奉行|さかなぶぎょう}}\n* {{ja-r|肴札|さかなふだ}}\n* {{ja-r|肴舞|さかなまい}}\n* {{ja-r|酒肴|さけさかな}}\n* {{ja-r|残肴|ざんこう}}\n* {{ja-r|強い肴|し.いざかな}}\n* {{ja-r|酒肴|しゅこう}}\n* {{ja-r|酢肴|すざかな}}\n* {{ja-r|進め肴|すすめざかな}}\n* {{ja-r|粗肴|そこう}}\n* {{ja-r|珍肴|ちんこう}}\n* {{ja-r|取り肴|とりざかな}}\n* {{ja-r|直し肴|なおしざかな}}\n* {{ja-r|生肴|なまざかな}}: raw fish\n* {{ja-r|熨斗肴|のしざかな}}\n* {{ja-r|箱肴|はこざかな}}\n* {{ja-r|鉢肴|はちざかな}}\n* {{ja-r|引き肴|ひきざかな}}\n* {{ja-r|美肴|びこう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n[[File:Beer_and_edamame_(boild_green_soybeans).jpg|thumb|250px|{{lang|ja|肴}}, {{l|ja|魚}} (''sakana''): a [[side dish]] served with [[alcoholic]] [[beverage]]s.]]\n</div>\n{{ja-kanjitab|さかな|yomi=k}}\nCompound of {{etyl|ojp|ja|sort=さかな}} elements {{compound|ja|sort=さかな|酒|tr1=saka|t1=sake, rice wine|pos1=old combining form of modern ''sake'' reading|菜|tr2=na|t2=side dish}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref> Likely source of {{cog|ryu|さかな|tr=sakana}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|さかな|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|魚}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さかな}}\n\n# [[fish]]\n# a [[side dish]] served with [[alcoholic]] [[beverage]]s: not necessarily [[fish]], may be a [[vegetable]] or other [[meat]]\n# [[entertainment]] at a [[drinking]] [[party]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The {{m|en|fish}} sense is more commonly spelled {{ja-l|魚}}."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|肴にする|さかな に する}}: to [[belittle]] someone, to [[make fun of]] someone\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "<div style=\"float:right;\">\n[[File:GrilledCongridae.jpg|thumb|250px|{{lang|ja|肴}} (''na''): fish as a [[side dish]].]]\n</div>\n{{ja-kanjitab|な|yomi=kun}}\nFrom {{etyl|ojp|ja|sort=な}}. Also spelled variously in kanji in modern Japanese as {{m|ja|肴|pos=for meat or fish}}, {{m|ja|菜|pos=for vegetables}}, {{m|ja|魚|pos=for fish}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nThis reading appears to be obsolete in modern Japanese.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kun|な}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|な}}\n\n# a [[side dish]], be it [[meat]] or [[fish]] or [[greens]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|肴|さかな}} {{qualifier|see above}}\n* {{ja-r|魚|さかな}} {{qualifier|see above}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

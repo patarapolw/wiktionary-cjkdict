@@ -1,0 +1,39 @@
+{
+  "title": "氮",
+  "ns": 0,
+  "id": 18592,
+  "timestamp": 1534342599000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=气08}}\n\n# [[nitrogen]] <!-- unicode.org, jisho.org, and weblio.jp are all wrong, this is nitrogen, *not* xenon. -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=たん\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Not used in Japanese. Some sources erroneously give a meaning of {{m|en|xenon}}, instead of the correct {{m|en|nitrogen}}.\n\nThe Japanese word for {{m|en|nitrogen}} is {{m|ja|窒素|tr=chisso}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

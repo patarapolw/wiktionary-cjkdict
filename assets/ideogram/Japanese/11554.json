@@ -1,0 +1,51 @@
+{
+  "title": "函",
+  "ns": 0,
+  "id": 11554,
+  "timestamp": 1553547230000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|凾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=凵06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=かん\n|kun=はこ-, い-れる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|函館|^はこだて}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はこ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はこ}}\n\n# {{alternative spelling of|箱|lang=ja}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

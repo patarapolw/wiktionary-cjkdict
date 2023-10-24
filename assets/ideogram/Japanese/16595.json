@@ -1,0 +1,51 @@
+{
+  "title": "撮",
+  "ns": 0,
+  "id": 16595,
+  "timestamp": 1537862586000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|攝|熶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手12}}\n\n# [[snapshot]]\n# to [[take]] a [[photo]]; to [[record]] a [[video]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さち\n|kanon=さつ\n|on=さい\n|kun=と-る, つま-む, つまみ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|さつ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=さつ|-}} {{ltc-l|撮|id=2|to [[grab]] with [[three]] [[finger]]s}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=ko|さつ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der2|lang=ja|title=Terms derived from {{ja-r|撮|さつ}}:\n|{{ja-r|撮影|さつえい}}: [[filming]]; [[photography]]\n|{{ja-r|撮像|さつぞう}}: to [[take]] an [[image]]; [[imaging]]\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

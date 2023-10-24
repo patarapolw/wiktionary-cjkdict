@@ -1,0 +1,252 @@
+{
+  "title": "東",
+  "ns": 0,
+  "id": 9312,
+  "timestamp": 1554025283000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|东|柬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=木04}}\n\n# [[east]]\n# {{short for|lang=ja|東京|tr=Tōkyō|nodot=1}}: [[Tokyo]]\n# [[spring]] {{gl|{{w|Wu Xing}}}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=つう\n|kanon=とう\n|soon=とん\n|kun=ひがし-, あずま-<あづま-\n|nanori=あい, あがり, あきら, こ, こち, さき, しの, はじめ, はる, ひが, もと\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|東亜|^とうあ|East Asia}}\n* {{ja-r|東漢|^とうかん}}\n* {{ja-r|東京|^とうきょう|[[Tokyo]]}}\n* {{ja-r|東国|とうごく}}\n* {{ja-r|東西|とうざい|east and [[west]]}}\n* {{ja-r|東上|とうじょう|[[go]]ing to Tokyo}}\n* {{ja-r|東南|とうなん|[[southeast]]}}\n* {{ja-r|東南東|とう-なんとう}}\n* {{ja-r|東坡%肉|とうば%にく}}\n* {{ja-r|東部|とうぶ}}\n* {{ja-r|東風|とうふう}}\n* {{ja-r|東方|とうほう}}\n* {{ja-r|東%北東|とう%-ほくとう}}\n* {{ja-r|東名|^とう-^めい}}\n* {{ja-r|東面|とうめん}}\n* {{ja-r|東洋|とうよう|[[Orient]]}}\n* {{ja-r|関東|^かんとう}}\n* {{ja-r|江東|^こうとう}}\n* {{ja-r|中東|^ちゅうとう|[[Middle East]]}}\n* {{ja-r|屏東|^へいとう}}\n* {{ja-r|東風|あゆ}}\n* {{ja-r|東風|こち}}, {{ja-r|東風|こちかぜ}}\n* {{ja-r|東雲|しののめ}}\n* {{ja-r|東坡肉|トンポーロー}}\n* {{ja-r|東%漢%直|^やまと の% ^あや% の あたい}}\n* {{ja-r|東%漢%氏|^やまと の% ^あや% うじ}}\n* {{ja-r|東%文%氏|^やまと の% ^ふみ の% うじ}}\n* {{ja-r|広東|^カントン}}\n* {{ja-r|屏東|^ピントン}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=kanon|とう}}\n\nFrom {{bor|ja|ltc|sort=とう|-}} {{ltc-l|東}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kan|とう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|とう}}\n\n# {{abbreviation of|lang=ja|sort=とう|nodot=1|関東|tr=Kantō}}: the {{w|Kantō region}} of Japan\n# {{abbreviation of|lang=ja|sort=とう|nodot=1|東国|tr=Tōgoku}}: a historical administrative division of Japan, corresponding to the modern {{w|Kantō region|Kantō}} and {{w|Tōkai region|Tōkai}} regions\n# {{surname|lang=ja|A=a|nodot=1|sort=とう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とう}}\n\n# {{lb|ja|sort=とう|music}} {{rfdef|ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|ひがし}}\n\n{{IPAchar|/finɡaɕi/}} → {{IPAchar|/fiɡaɕi/}} → {{IPAchar|/hiɡaɕi/}}\n\nSound shift from earlier ''hingashi'' (see below).\n\nNow the standard word for ''{{m|en|east}}''.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ひがし|acc=0|acc_ref=DJR,NHK|acc2=3|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひがし}}\n\n# [[east]] {{gl|[[compass point]]}}\n#: {{ant|ja|西|tr=nishi}}\n# the [[Orient]]\n#: {{syn|ja|東洋|tr=tōyō}}\n# an [[easterly]] {{gl|[[wind]] [[blow|blowing]] from the east}}\n#: {{syn|ja|東風|tr=ayu, kochi, kochikaze, tōfū, higashikaze}}\n# {{lb|ja|sort=ひがし|sumo}} [[high]]er-[[rank]]ed [[wrestler]]s listed on the right of a ''[[banzuke]]''\n#: {{ant|ja|西|tr=nishi}}\n# an [[Eastern Bloc]] [[country]]\n#: {{syn|ja|東側|tr=higashigawa}}\n#: {{ant|ja|西|tr=nishi}}\n# {{lb|ja|sort=ひがし|regional|historical}} [[Kamakura]] and/or [[Edo]], as opposed to [[Kyoto]] and [[Osaka]]\n#: {{ant|ja|西|tr=nishi}}\n# {{lb|ja|sort=ひがし|theater}} {{rfdef|ja}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|お東|お-^ひがし}}, {{ja-r|御%東|お%-^ひがし}}\n* {{ja-r|東 面|ひがし おもて}}\n* {{ja-r|東%風|ひがし%かぜ}}\n* {{ja-r|東%方|ひがし%かた}}\n* {{ja-r|東%側|ひがし%がわ|east side}}\n* {{ja-r|東%北|ひがし%-きた}}\n* {{ja-r|東%口|ひがし%ぐち|east entrance}}\n* {{ja-r|東%久邇|^ひがし%くに}}\n* {{ja-r|東 日本|^ひがし ^にほん}}\n* {{ja-r|東の衆|^ひがし の ^しゅう}}\n* {{ja-r|東の陣|^ひがし の ^じん}}\n* {{ja-r|東の対|ひがし の たい}}\n* {{ja-r|東 半球|^ひがし ^はんきゅう|[[Eastern Hemisphere]]}}\n* {{ja-r|東 塞がり|ひがし ふさがり}}\n* {{ja-r|東 本願寺|^ひがし ^ほんがん-じ}}\n* {{ja-r|東%向き|ひがし%むき}}\n* {{ja-r|川%東|かわ%ひがし|rom=-}}, {{ja-r|河%東|かわ%ひがし}}\n* {{ja-r|真%東|ま%ひがし}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|ひがし|proper}}\n\n# {{lb|ja|historical}} a [[red-light district]] in [[Edo]], where it is today in Fukagawa, {{w|Kōtō}} Ward\n#: as it was located ''east'' of {{w|Edo Castle}}\n# {{lb|ja|sort=ひがし|Buddhism}} {{short for|lang=ja|東本願寺|tr={{w|Higashi Hongan-ji}}|nodot=1}}: {{rfdef|ja}}\n#: {{syn|ja|お東|tr=o-Higashi}}\n# ''a [[place name]]'', ''especially'' the name of a [[ward]] in various cities throughout Japan\n# {{surname|lang=ja|A=a|nodot=1|sort=ひがし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{ja-verb-suru|ひがし}}\n\n# to [[go]] [[east]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Conjugation",
+                      "text": "{{ja-suru|ひがし}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|ひんがし}}\n\n{{IPAfont|*/pʲimukasi/}} → {{IPAchar|/pimʉɡasi/}} → {{IPAchar|/fimʉɡaɕi/}} → {{IPAchar|/finɡaɕi/}} → {{IPAchar|/hinɡaɕi/}}\n\nAttested in ''{{w|The Tale of Genji}}'' (''c.'' 1021).\n\nSound shift from earlier ''pimukasi'' (see below).<ref name=\"KDJ\"/><ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ひんがし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひんがし}}\n\n# {{lb|ja|sort=ひむかし|obsolete}} [[east]]\n#* '''10th century''', ''{{w|Ise Monogatari}}'' (chapter 4, page 82)<ref>{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Ken Akiyama|title=[[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1997|location=Tōkyō|isbn=4-00-240017-4}}</ref>\n#*: {{ja-usex|むかし、'''東'''の五%条に大%后の宮おはしましける、西の対に住む人有けり。|むかし、'''ひんがし'''の ご%でう に おほ%きさき の みや おはしましける、にし の たい に すむ ひと ありけり。|rom=Mukashi, '''hingashi''' no gojō ni ōmisaki no miya owashimashikeru, nishi no tai ni sumu hito arikeri.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|東 面|ひんがし おもて}}\n* {{ja-r|東%様|ひんがし%ざま}}\n* {{ja-r|東の陣|^ひんがし の ^じん}}\n* {{ja-r|東の対|ひんがし の たい}}\n* {{ja-r|東 塞がり|ひんがし ふさがり}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|ひむかし}}\n\n{{IPAfont|*⟨pi<sub>1</sub> muka si⟩}} → *{{IPAchar|/pʲimukasi/}} → {{IPAchar|/fimukaɕi/}} → {{IPAchar|/himukaɕi/}}\n\nFrom {{inh|ja|ojp|-|sort=ひむかし}}.  Found in the ''{{w|Man'yōshū}}'' dated 759 {{CE}}, but consistently spelled with this single ''kanji'' rather than in ''[[man'yōgana]]'', thus leaving the reading unspecified.<ref name=\"MYS\">{{RQ:Manyoshu|1|48}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man1Yos.html#48 here]</ref>\n\nOriginally a compound of {{com|ja|sort=ひむかし|日|tr1=hi|t1=[[sun]]||alt2=向か|tr2=muka|t2=[[facing]], [[direction]]|pos2=the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|向く|tr=muku}}, “to [[face]] a direction”}}.<ref name=\"KDJ\"/><ref name=\"DJR\"/> The final ''-shi'' is possibly either {{m|ja|風|tr=shi|t=[[wind]], direction|pos=obsolete}} or the suffix {{m|ja|し|tr=-shi}}, the [[adnominal]] form of {{m|ja|き|tr=-ki|pos=classical past tense indicator}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ひむかし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひむかし}}\n\n# {{lb|ja|sort=ひむかし|obsolete}} [[east]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{anchor|ja-吾妻}}\n{{ja-kanjitab|yomi=k|あずま}}\n\n{{IPAchar|/aduma/}} → {{IPAchar|/ad͡zuma/}} → {{IPAchar|/azuma/}}\n\nFrom {{inh|ja|ojp|sort=あずま|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>\n\nUltimate derivation {{unk|ja|nocap=1|sort=あずま}}. A speculative origin might be a compound of {{m|ja|天|tr=ama||[[sky]], [[heavens]]}} + {{m|ja|端|tr=tsuma||[[edge]], [[beginning]]}}, but the [[elision]] of the ''ma'' in ''ama'' does not follow normal patterns.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あずま|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|吾妻}}, {{ja-l|吾嬬}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あずま|hhira=あづま}}\n\n# {{lb|ja|archaic|sort=あずま}} [[east]]\n#* {{RQ:Kojiki|poem 100}}\n#*: {{ja-usex|m=...本都延波 阿米袁淤弊理 那加都延波 '''阿豆麻'''袁淤弊理 志豆延波 比那袁淤弊理...|m_kana=...ほつ𛀁は あめをおへり なかつ𛀁は '''あづま'''をおへり しづ𛀁は ひなをおへり...|...上つ枝は天を覆へり中つ枝は'''あづま'''を覆へり下づ枝は鄙を覆へり...|...ほつえ は あめ を おへり なかつえ は '''あづま''' を おへり しづえ は ひな を おへり...|rom=...hotsue wa ame o oeri nakatsue wa '''azuma''' o oeri shizue wa hina o oeri...}}\n# {{lb|ja|archaic|by extension|sort=あずま}} the [[land]]s east of the {{m|ja|都|tr=miyako||[[capital]]}}\n# {{lb|ja|sort=ひがし|regional|historical}} [[Kamakura]] and/or [[Edo]], as opposed to [[Kyoto]] and [[Osaka]]\n# {{short for|lang=ja|東琴|tr=azumagoto|nodot=1}}: a six-[[string]]ed Japanese [[zither]]\n# {{short for|lang=ja|東下駄|tr=azumageta|nodot=1}}: {{rfdef|ja}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n* {{ja-r|東 遊び|あずま あそび}}\n* {{ja-r|東 歌|あずま うた}}\n* {{ja-r|東人|あずまうど}}\n* {{ja-r|東 夷|あずま えびす|rom=-}}, {{ja-r|東 蝦夷|あずま えびす}}\n* {{ja-r|東 男|あずま おとこ}}, {{ja-r|東 男|あずま おのこ}}\n* {{ja-r|東 折り|あずま おり}}\n* {{ja-r|東 鑑|^あずま ^かがみ}}\n* {{ja-r|東%方|あずま%がた}}\n* {{ja-r|東 絡げ|あずま からげ}}\n* {{ja-r|東%菊|アズマ%ギク}}\n* {{ja-r|東%絹|あずま%ぎぬ}}\n* {{ja-r|東 下り|あずま くだり}}\n* {{ja-r|東%下駄|あずま%げた}}\n* {{ja-r|東っ子|あずまっこ}}\n* {{ja-r|東%声|あずま%-ごえ}}\n* {{ja-r|東コート|あずま コート}}\n* {{ja-r|東%琴|あずま%ごと}}\n* {{ja-r|東 言%葉|あずま こと%ば}}\n* {{ja-r|東%笹|アズマ%ザサ}}\n* {{ja-r|東%路|あずま%じ}}\n* {{ja-r|東 石%南花|アズマ シャク%ナゲ}}\n* {{ja-r|東 障子|あずま しょうじ}}\n* {{ja-r|東 育ち|あずま そだち}}\n* {{ja-r|東 訛り|あずま なまり}}\n* {{ja-r|東 錦|あずま にしき}}\n* {{ja-r|東 根%笹|アズマ ネ%ザサ}}\n* {{ja-r|東 彼%岸|アズマ ヒ%ガン}}\n* {{ja-r|東%人|あずま%びと}}\n* {{ja-r|東 百官|あずま ひゃっかん}}\n* {{ja-r|東 舞|あずま まい}}\n* {{ja-r|東%虫|あずま%むし}}\n* {{ja-r|東 結び|あずま むすび}}\n* {{ja-r|東%屋|あずま%や|rom=-}}, {{ja-r|四阿|あずまや|rom=-}}, {{ja-r|阿舎|あずまや}}\n* {{ja-r|東 孺|あずま わらわ|rom=-}}, {{ja-r|東 豎子|あずま わらわ}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|あずま|proper|hhira=あづま}}\n\n# ''a [[place name]]''\n# {{given name|female|lang=ja|A=a|nodot=1|sort=あずま}}\n# {{surname|lang=ja|A=a|nodot=1|sort=あずま}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|とん|yomi=irr|sort=とん}}\n\nBorrowed from {{bor|ja|cmn|sort=とん|東|tr=dōng}}.\n\nCompare {{cog|wuu|東|tr=ton}}, {{cog|hak|東|tr=tûng}}, {{cog|nan|東|tr=tong}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=irr|トン|acc=1}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|トン}}\n\n# {{lb|ja|mahjong|sort=とん}} [[east wind]] ([[mahjong]] [[tile]])\n#: {{hyper|ja|風牌|tr=kazehai, fanpai}}\n# {{lb|ja|mahjong|sort=とん}}  a {{m|ja|役|tr=yaku||[[win]]ning [[hand]]}} with a [[triplet]] or [[quad]] of east wind tiles; depending on wind round and player's seat wind, it is worth either 1 or 2 {{m|ja|翻|tr=han||[[double]]s}}\n#: {{hyper|ja|役牌|tr=yakuhai, yaku-pai}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|東%風戦|トン%ぷうせん|east-round game}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|風牌|かぜハイ|[[wind]] [[tile]]s}}: {{ja-r|東|トン|'''east wind'''}}, {{ja-r|南|ナン|[[south wind]]}}, {{ja-r|西|シャー|[[west wind]]}}, {{ja-r|北|ペー|[[north wind]]}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|とん}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=とん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 7",
+              "text": "{{ja-kanjitab|yomi=i}}\n\nNominalization of the stem of adjective {{m|ja|明らか|tr=akiraka||[[clear]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|あきら}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=あきら}}\n# {{given name|male|lang=ja|A=a|nodot=1|sort=あきら}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 8",
+              "text": "{{ja-kanjitab|yomi=i}}\n\nNominalization of verb {{m|ja|[[上る]], [[登る]]|tr=noboru||to [[ascend]], [[rise]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|のぼる}}\n\n# {{given name|male|lang=ja|A=a|nodot=1|sort=のぼる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 9",
+              "text": "{{ja-kanjitab|yomi=i}}\n\nNominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|始める|tr=hajimeru||to [[begin]], [[start]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|はじめ}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=はじめ}}\n# {{given name|male|lang=ja|A=a|nodot=1|sort=はじめ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|ひがし]]\n[[Category:ja:Compass points]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

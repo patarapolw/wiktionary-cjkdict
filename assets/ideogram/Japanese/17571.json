@@ -1,0 +1,61 @@
+{
+  "title": "桑",
+  "ns": 0,
+  "id": 17571,
+  "timestamp": 1543588454000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|桒}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Morus-nigra.JPG|thumb|桑]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=木06}}\n\n# [[mulberry]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう<さう\n|kanon=そう<さう\n|kun=くわ-<くは-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|くわ|yomi=kun}}\n\n{{IPAchar|/kupa/}} → {{IPAchar|/kuɸa/}} → {{IPAchar|/kuwa/}}\n\nFrom {{inh|ja|ojp|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref name=\"MYS\">{{RQ:Manyoshu|7|1357}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1357 here]</ref>\n\nUltimate derivation unclear.  Definitely not related to {{cog|ko|뽕||mulberry tree}} or {{m|ko|오디||mulberry fruit}}, nor to {{cog|ain|テㇱマニ|tr=tesmani||mulberry tree}} or {{m|ain|ツレㇷ゚ニ|tr=turepni||mulberry tree}}.\n\nSome theories suggest this might have originally been a compound.  Possible derivations may include:\n\n* A shift from {{m|ja|蚕}}{{m|ja|葉|tr=kopa||silkworm + leaf}}\n* A shift from {{m|ja|胡}}{{m|ja|葉|tr=kopa||non-Chinese people to the west of China + leaf}}, possibly referencing the origin of some mulberry species in central Asia\n* A contraction of {{m|ja|食う|食ふ}}{{m|ja|葉|tr=kupu pa||eat + leaf}}, where ''kupu'' is the ancient reading of modern {{m|ja|食う|tr=kuu}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|くわ|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くわ|クワ|hhira=くは|hkata=クハ}}\n\n# [[mulberry]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|クワ}}\n\nThis term can refer to the fruit or the tree.  For greater specificity, the following may be used:\n* {{ja-r|桑の木|くわ の き}}: [[mulberry]] [[tree]]\n* {{ja-r|桑の実|くわ の み}}: [[mulberry]] [[fruit]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<References/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

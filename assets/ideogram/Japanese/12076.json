@@ -1,0 +1,54 @@
+{
+  "title": "可",
+  "ns": 0,
+  "id": 12076,
+  "timestamp": 1552577155000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|句}}\n{{character info/new}}\n{{character info/new|🉑}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=口02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か\n|kanon=か\n|on=こく\n|kun=よ-い, べ-し, ばかり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds of 可}}\n;Common\n* {{ja-r|可否|かひ}}\n* {{ja-r|可%決|か%けつ}}\n* {{ja-r|可%也|か%なり}}\n* {{ja-r|可能|かのう}}\n* {{ja-r|可%愛い|か%わい.い}}\n* {{ja-r|可%哀相|か%わいそう}}\n* {{ja-r|不可|ふか}}\n* {{ja-r|許可|きょか}}\n* {{ja-r|認可|にんか}}\n\n;Uncommon\n* {{ja-r|可き|べき}}\n* {{ja-r|可とする|かとする}}\n* {{ja-r|可分|かぶん}}\n* {{ja-r|可聴|かちょう}}\n{{der-mid3}}\n* {{ja-r|可動|かどう}}\n* {{ja-r|可%読|か%どく}}\n* {{ja-r|可%逆|か%ぎゃく}}\n* {{ja-r|可変|かへん}}\n* {{ja-r|可燃|かねん}}\n* {{ja-r|可憐|かれん}}\n* {{ja-r|可算|かさん}}\n* {{ja-r|可視|かし}}\n* {{ja-r|可塑|かそ}}\n* {{ja-r|可溶|かよう}}\n* {{ja-r|加%圧性|か%あつせい}}\n* {{ja-r|可%換環|か%かんかん}}\n* {{ja-r|可%換群|か%かんぐん}}\n* {{ja-r|可%処分|か%しょぶん}}\n* {{ja-r|印可|いんか}}\n* {{ja-r|半可|はんか}}\n* {{ja-r|裁可|さいか}}\n* {{ja-r|成る可く|なるべく}}\n\n{{der-mid3}}\n;Archaic / rare\n* {{ja-r|可い|べい}}\n* {{ja-r|可し|べし}}\n* {{ja-r|可からず|べからず}}\n* {{ja-r|可くして|べくして}}\n* {{ja-r|可惜|あたら}}\n* {{ja-r|可%成|か%なり}}\n* {{ja-r|可%祝|か%しく}}\n* {{ja-r|可撓|かとう}}\n* {{ja-r|可用|かよう}}\n* {{ja-r|允可|いんか}}\n* {{ja-r|可%及%的|か%きゅう%てき}}\n* {{ja-r|可耕地|かこうち}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|か|yomi=o}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|可}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|か}}\n\n# [[passable]]\n# [[allowed]]\n#: {{ja-usex|再配%布 が '''可''' の 画像|さいはい%ふ が '''か''' の がぞう|images whose redistribution is allowed|ref=[https://www.nttdocomo.co.jp/service/developer/make/content/deco_mail/pictograph/index.html]}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|か|suffix}}\n\n# [[permitted]], [[allowed]], [[licensed]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

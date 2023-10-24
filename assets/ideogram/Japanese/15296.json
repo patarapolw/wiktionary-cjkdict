@@ -1,0 +1,39 @@
+{
+  "title": "徨",
+  "ns": 0,
+  "id": 15296,
+  "timestamp": 1553549927000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|遑}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=彳09}}\n\n# [[wander]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おう<わう\n|kanon=こう<くわう\n|kun=さまよ-う<さまよ-ふ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|彷徨う|さまよ.う}}: wander"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

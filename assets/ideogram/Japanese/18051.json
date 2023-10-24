@@ -1,0 +1,44 @@
+{
+  "title": "標",
+  "ns": 0,
+  "id": 18051,
+  "timestamp": 1545900338000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|标}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=木11}}\n\n# {{defn|lang=ja|sort=木11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう<へう\n|kanon=ひょう<へう\n|kun=こずえ-<こずゑ-, すえ-<すゑ-, しめ-, しるし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|標識|ひょうしき}}\n* {{ja-r|標準|ひょうじゅん}}\n* {{ja-r|目標|もくひょう}}\n* {{ja-r|道標|どうひょう}}\n* {{ja-r|標語|ひょうご}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しるし}}\n\n# {{alternative form of|印|lang=ja|sort=しるし}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

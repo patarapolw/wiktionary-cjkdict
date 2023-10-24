@@ -1,0 +1,85 @@
+{
+  "title": "畳",
+  "ns": 0,
+  "id": 21174,
+  "timestamp": 1554087334000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|疊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|畳|疊}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=田07|kyu=疊}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<でふ\n|kanon=ちょう<てふ\n|kun=かさ-なる, かさ-ねる, たた-む, たたみ-\n|nanori=あき\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|たた|o1=み|yomi=k}}\nFrom {{m|ja|畳む|pos=v|tr=tatamu||to [[fold]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=1|y=k|たたみ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たたみ|kyu=疊}}\n\n# [[tatami]]; a [[tatami]] mat\n# [[repeat]], [[duplicate]]\n# [[repetitious]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|じょう|yomi=o}}\nFrom {{der|ja|ltc|疊|tr=dep||to [[fold]]|sort=しょう'}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|じょう|counter|hhira=でふ|kyu=疊}}\n\n# tatami [[mat]]s\n# units of [[area]] as measured in tatami mats"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|たとう|yomi=irr|sort=たとう}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=2|y=i|たとう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たとう|hhira=たたう|kyu=疊}}\n\n# {{clip of|lang=ja|畳紙|tr=tatōgami|sort=たとう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|和室|gloss=Japanese-style room|わしつ}}\n* {{ja-r|布団|gloss=[[futon]], sleeping mattress|ふとん}}\n\n{{cln|ja|basic words|sort=たたみ}}\n{{cln|ja|words with multiple readings}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

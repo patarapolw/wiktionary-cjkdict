@@ -1,0 +1,51 @@
+{
+  "title": "紬",
+  "ns": 0,
+  "id": 23257,
+  "timestamp": 1507157362000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|䌷|綢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=糸05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゅ<ぢゆ, じゅ\n|kanon=ちゅう<ちう, しゅう<しう\n|kun=つむ-ぐ, つむぎ-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|つむぎ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|紡ぎ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つむぎ}}\n\n# [[pongee]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

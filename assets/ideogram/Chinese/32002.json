@@ -1,0 +1,68 @@
+{
+  "title": "鬲",
+  "ns": 0,
+  "id": 32002,
+  "timestamp": 1537594102000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=䰛,㽁}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{liushu|p}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=lì\n|c=lik6\n|mc=2\n|oc=2\n|cat=n\n}}\n{{attention|hak|needs to be assigned to Pronunciation: kak, li̍t, lit}}\n{{attention|nan|needs to be assigned to Pronunciation: kek/le̍k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[li]]; a type of [[cauldron]] with [[three]] [[hollow]] [[leg]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=gé\n|c=gaak3\n|h=pfs=\n|mn=\n|w=\n|mc=1\n|oc=1\n|cat=pn,v,n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|隔}}\n# {{zh-alt-form|膈}}\n# {{zh-alt-form|槅}}\n# {{zh-div|縣}} {{w|Ge County}} {{gloss|county in modern Shandong}}\n# {{surname|lang=zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|肝鬲|鬲俞|鬲津河}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=è\n|cat=a,v,n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|軛}}\n# {{zh-alt-form|搹}}\n# {{zh-alt-form|厄}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

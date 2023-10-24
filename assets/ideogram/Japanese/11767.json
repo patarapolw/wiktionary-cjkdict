@@ -1,0 +1,44 @@
+{
+  "title": "勅",
+  "ns": 0,
+  "id": 11767,
+  "timestamp": 1535758262000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|敕}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|勅|敕}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=力07|kyu=敕}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちき\n|kanon=ちょく\n|kun=みことのり, いまし-める\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[勅許]]\n* [[勅旨]]\n* [[勅使]]\n* [[勅撰]]\n* [[勅命]]\n* [[勅令]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ちょく|kyu=敕}}\n\n# imperial [[edict]]\n\n{{ja-noun|みことのり|kyu=敕}}\n\n# imperial [[edict]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

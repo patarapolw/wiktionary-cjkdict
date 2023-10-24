@@ -1,0 +1,66 @@
+{
+  "title": "飲",
+  "ns": 0,
+  "id": 31355,
+  "timestamp": 1548473277000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|飮|饮}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|飲|飮}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=食04|kyu=飮}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん\n|kanon=いん\n|kun=の-む\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いん|yomi=kanon}}\nFrom {{der|ja|ltc|sort=いん|-}} {{ltc-l|飲}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|いん|acc=1|acc_ref=DJR|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|いん}}\n\n# [[drink]]\n# [[bear]]; [[endure]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{l|ja|飲酒}}\n* {{l|ja|飲食}}\n* {{l|ja|飲水}}\n* {{l|ja|飲用}}\n* {{l|ja|飲料}}\n* {{l|ja|喫飲}}\n* {{l|ja|愛飲}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いん}}\n\n# {{lb|ja|literary}} [[drinking]] (alcoholic beverages)\n# {{lb|ja|literary}} [[drink]]; [[beverage]]\n# {{lb|ja|literary}} [[banquet]]; [[feast]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

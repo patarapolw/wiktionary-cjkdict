@@ -1,0 +1,42 @@
+{
+  "title": "墘",
+  "ns": 0,
+  "id": 13358,
+  "timestamp": 1527632228000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qián\n|c=kin4\n|mn=kîⁿ\n|mn-t=gin5\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Min Nan}} [[-side]]; [[hem]]\n#: {{zh-x|小溪墘|brook'''side'''|MN}}\n# {{lb|zh|Min Nan}} [[edge]] of a [[utensil]]; [[hem]]\n{{attention|yue|also Cantonese according to Unihan???}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|海墘}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

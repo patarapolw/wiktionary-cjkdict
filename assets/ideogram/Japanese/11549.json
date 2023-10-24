@@ -1,0 +1,77 @@
+{
+  "title": "凸",
+  "ns": 0,
+  "id": 11549,
+  "timestamp": 1535879867000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=凵03}}\n[[File:凸-jbw.png|right|thumb]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=とつ\n|kun=でこ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|凹凸|おうとつ}}: bumpy, uneven\n* {{ja-r|凸凹|でこぼこ}}: bumpy, uneven\n* {{ja-r|凸版|とっぱん}}: [[letterpress]], relief printing"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Adjectival noun",
+                  "text": "{{ja-adj|infl=な|とつ}}\n\n# [[convex]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|とつ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|でこ}}\n\n# [[forehead]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|額|ひたい}}\n* {{ja-r|お凸|おでこ}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

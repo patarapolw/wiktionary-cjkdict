@@ -1,0 +1,54 @@
+{
+  "title": "仄",
+  "ns": 0,
+  "id": 10582,
+  "timestamp": 1531838209000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𠨮,𥎦,𠩩,庂,𤴩,𠨻}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zè\n|c=zak1\n|mn=cheh\n|mc=y\n|oc=y\n|cat=a,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[slanting]]; [[oblique]]\n# [[narrow]]\n# [[uneasy]]; [[worried]]\n# oblique [[tone]]\n#: {{zh-x|仄聲|oblique tone}}\n#: {{zh-x|平仄|level and oblique tones; tonal patterns}}\n# {{†}} {{zh-alt-form|側|side}}\n# {{lb|zh|dialectal}} to [[raise]] {{gloss|cause to rise}}\n# {{lb|zh|loanword|Mainland}} [[zepto-]] {{gloss|[[Appendix:SI units|SI unit]] prefix}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|仄媚|仄日|仄目|仄目而視|仄聞|仄聲|仄行|仄起體|仄韻|偪仄|平仄|搜揚仄陋|明揚仄陋|歉仄|赤仄|逼仄}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "{| class=\"wikitable\"\n! colspan=3 | SI prefix\n|-\n! Last\n!\n! Next\n|-\n| {{l|zh|[[阿]]}}\n| {{lang|zh|[[介]]/[[仄]]}}\n| {{l|zh|[[攸]]/[[幺]]}}\n|}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A00077}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

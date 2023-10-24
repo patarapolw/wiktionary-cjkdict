@@ -1,0 +1,95 @@
+{
+  "title": "竜",
+  "ns": 0,
+  "id": 22631,
+  "timestamp": 1549587261000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|龍|龙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|竜|龍}}\n{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=立05|kyu=龍}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りゅう<りゆう\n|kanon=りょう<りよう\n|kanyoon=ろう\n|kun=たつ-\n|nanori=かみ, きみ, しげみ, とお, とおる, めぐむ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* {{ja-r|恐竜|きょうりゅう}}\n* {{ja-r|魚竜|ぎょりゅう}}\n* {{ja-r|竜巻|たつまき}}\n* {{ja-r|蛟竜|こうりゅう}}\n* {{ja-r|飛竜|ひりゅう}}\n* {{ja-r|土竜|もぐら}}\n* {{ja-r|竜宮|りゅうぐう}}\n* {{ja-r|竜座|りゅうざ}}\n* {{ja-r|竜虎|りょうこ}}\n* {{ja-r|竜顔|りゅうがん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|たつ|yomi=k}}\nEither from {{m|ja|立つ|tr=tatsu||to stand}}, or {{m|ja|起つ|tr=tatsu||to rise}}, as in {{m|ja|立ち昇る|tr=tachinoboru||to rise up}}. {{rfv-etymology|ja}}\n{{attention|ja|from Old Japanese and/or belief in dragons?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|たつ|acc=0|acc_ref=NHK|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たつ|kyu=龍}}\n\n# [[dragon]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|りゅう|yomi=o}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|りゅう|acc=a|acc_ref=NHK|y=go|a=Ja-ryuu-dragon.ogg}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|りゅう|kyu=龍|hhira=りゆう}}\n\n# [[dragon]]\n#* {{quote-book|||Vol.4\n|||date=Jul 22 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|[砦](とりで)を[守](まも)る[翼](よく)[竜](りゅう)}}\n|trans-chapter=Winged Dragon, Guardian of the Fortress}}\n#*: {{ja-usex|山の砦を守る'''竜'''。天%空から急%降%下して敵を攻%撃。|やま の とりで を まもる '''りゅう'''。てん%くう から きゅう%こう%か して てき を こう%げき。|A dragon who guards a mountainous fortress. It strikes its enemies as it dives down from the sky.}}\n#* {{quote-book\n||{{w|lang=ja|井沢ひろし|Hiroshi, Izawa}}\n|{{w2|ja|ファイアーエムブレム 覇者の剣}}\n||353\n|coauthors={{w|lang=ja|山田孝太郎|Kotaro, Yamada}}\n|chapter={{ruby|{{lang|ja|[最](さい)[終](しゅう)[話](わ)　それぞれの[道](みち)へ}}}}\n|trans-chapter=Final Chapter: Epilog\n|trans-title=Fire Emblem: Sword of Champions\n|genre=fiction\n|edition=Jump Remix\n|volume=5\n|lang=ja\n|location=Tokyo\n|publisher=Shueisha\n|date=Oct 20 2007\n|isbn=978-4-08-109486-8}}\n#*: {{ja-usex|神と呼ばれし'''竜'''ファ|^かみ と ^よばれし '''^りゅう''' ^ファ|Fa, the '''Dragon''' Known as God}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|りゅう|proper|kyu=龍|hhira=りゆう}}\n\n# {{given name|male|lang=ja|sort=りゅう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|りょう|yomi=o}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|りょう|kyu=龍|hhira=りよう}}\n\n# [[dragon]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:CJKV radicals|立05]]\n\n{{cln|ja|basic words|sort=りゅう}}\n{{C|ja|Dragons|sort=りゅう}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

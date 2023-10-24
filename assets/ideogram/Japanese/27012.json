@@ -1,0 +1,39 @@
+{
+  "title": "誌",
+  "ns": 0,
+  "id": 27012,
+  "timestamp": 1514640938000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|志}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=言07}}\n\n# [[document]]\n# [[records]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=しるす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|雑誌|ざっし}}: [[magazine]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

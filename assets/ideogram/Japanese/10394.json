@@ -1,0 +1,39 @@
+{
+  "title": "丐",
+  "ns": 0,
+  "id": 10394,
+  "timestamp": 1549554639000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|丏}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=一03}}\n\n# [[beggar]]\n# [[beg]]\n# [[give]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かい, かち\n|kanon=かい, かつ\n|kanyoon=がい\n|kun=こ-う<こ-ふ, あた-える<あた-へる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=5022\n|ku=4802\n|shift=98A0, Unicode 4E10\n|euc=D0A2\n|freq=''not ranked''\n|nelson=11\n|newnelson=11\n|halpern=''not listed''\n|kld=''not listed''\n|tuttle=2m2.3\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

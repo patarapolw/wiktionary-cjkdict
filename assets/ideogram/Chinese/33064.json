@@ -1,0 +1,44 @@
+{
+  "title": "黝",
+  "ns": 0,
+  "id": 33064,
+  "timestamp": 1495668452000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yǒu\n|c=jau2\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|黝黑|黝黝|黑黝黝|黝黯|黝銅礦|黝暗|黝堊|黑黝|黝糾}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

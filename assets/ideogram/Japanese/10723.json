@@ -1,0 +1,54 @@
+{
+  "title": "伸",
+  "ns": 0,
+  "id": 10723,
+  "timestamp": 1534631231000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人05}}\n\n# lengthen",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しん\n|kun=の-びる, の-べる, の-ばす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der5|lang=ja|{{ja-l|伸筋}}\n|{{ja-l|伸縮}}\n|{{ja-l|伸張}}\n|{{ja-l|伸長}}, {{ja-l|伸暢}}\n|{{ja-l|伸展}}\n|{{ja-l|伸度}}\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "* {{ja-r|伸るか反るか|のる か そる か}}: [[sink or swim]]; [[come what may]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{l|ja|伸す}}\n* {{l|ja|伸べ広げる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|しん}}\n\n# {{given name|male|lang=ja}}\n\n{{ja-pos|proper|のぶる}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|しん]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

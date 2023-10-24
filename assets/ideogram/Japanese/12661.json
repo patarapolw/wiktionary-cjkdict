@@ -1,0 +1,56 @@
+{
+  "title": "嘆",
+  "ns": 0,
+  "id": 12661,
+  "timestamp": 1553322187000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|叹|歎}}\n{{character info/new}}\n{{character info|0xFA37}}\n{{character info|0x2F84C}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口11|kyu=嘆}} <!-- Kyūjitai form is encoded as U+FA37 (Compatibility Ideograph) -->\n\n# to [[sigh#Verb|sigh]]\n# to [[lament]]\n# to [[moan]]\n# to [[grieve]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たん\n|kanon=たん\n|kun=なげ-く, なげ-かわし.い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|たん|yomi=o}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|嘆}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|たん|yomi=o}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たん}}\n\n# [[sigh#Noun|sigh]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top3}}\n* {{ja-r|嘆%願|たん%がん}}\n* {{ja-r|嘆%息|たん%そく}}\n* {{ja-r|感%嘆|かん%たん}}\n* {{ja-r|驚%嘆|きょう%たん}}\n* {{ja-r|三%嘆|さん%たん}}\n* {{ja-r|悲%嘆|ひ%たん}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

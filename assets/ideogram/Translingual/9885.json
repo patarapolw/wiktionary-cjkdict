@@ -1,0 +1,44 @@
+{
+  "title": "雨",
+  "ns": 0,
+  "id": 9885,
+  "timestamp": 1552140071000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=8}}\n{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China, Japan and Korea, the inner dots of the character is written as {{l|mul|⿰[[⺀]][[⺀]]}}.\n* In Taiwan, Hong Kong and Vietnam, the inner dots of the character is written as {{l|mul|冫}} and its mirror image {{l|mul|⿱[[㇀]][[⼂]]}}.\n* When this character is used as an upper radical component, the form is different depending on the script used.\n** For {{w|Ming (typefaces)|Ming typeface}} ([[明體]]/[[明朝体]]):\n*** In mainland China, Japan, Korea and Vietnam, the radical component resembles {{l|mul|⻗}} (<code>U+2ED7</code>) with four horizontal lines which is also the historical form used in the {{w|Kangxi dictionary}}.\n*** In Taiwan and Hong Kong, the radical component resembles the character itself (with {{l|mul|冫}} and its mirror image) but the lower right hook of {{l|mul|冂}} is omitted.\n** For {{w|regular script}} ([[楷書]]):\n*** In mainland China and Japan, the radical component resembles the character itself (with {{l|mul|⿰[[⺀]][[⺀]]}}) but the lower right hook of {{l|mul|冂}} is omitted.\n*** In Taiwan and Hong Kong, the radical component resembles the character itself (with {{l|mul|冫}} and its mirror image) but the lower right hook of {{l|mul|冂}} is omitted."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=173|rad=雨|as=00|sn=8|four=10227|canj=MLBY|ids=⿻帀⿰⺀⺀(GJK),⿱一𠕒(HTV)}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/雨]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{wikidata|Q3595028}}\n{{Han ref|kx=1371.180|dkj=42210|dj=1878.010|hdz=64057.010|uh=96E8}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

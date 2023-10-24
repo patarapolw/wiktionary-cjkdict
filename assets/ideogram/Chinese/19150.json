@@ -1,0 +1,42 @@
+{
+  "title": "渚",
+  "ns": 0,
+  "id": 19150,
+  "timestamp": 1553555782000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa46}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhǔ\n|c=zyu2\n|mn=chú\n|mc=y\n|oc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|渚宮|煙渚|江渚|洲渚}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "骲",
+  "ns": 0,
+  "id": 31839,
+  "timestamp": 1540684228000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=骨05}}\n\n# {{defn|lang=ja|sort=骨05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=びょう<べう, ぼく\n|kanon=ほう<はう, ほく\n|kanyoon=はく\n|kun=やじり-\n}}<!--\n{{ja-readings\n|goon=ぎょう<げう\n|kanon=ごう<がう\n}}-->"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

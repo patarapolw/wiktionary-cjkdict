@@ -1,0 +1,44 @@
+{
+  "title": "厳",
+  "ns": 0,
+  "id": 12016,
+  "timestamp": 1507150875000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|嚴|严}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|厳|嚴}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=厂15|kyu=嚴}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=げん\n|kun=きび-し.い, おごそ-か, いつくし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{ja-adj|kyu=嚴|decl=tari|げん}}\n\n# [[strict]], [[stern]]"
+            },
+            {
+              "level": 3,
+              "title": "Adverb",
+              "text": "{{ja-pos|adverb|kyu=嚴|げん}}\n\n# [[strictly]], [[sternly]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

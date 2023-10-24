@@ -1,0 +1,44 @@
+{
+  "title": "犮",
+  "ns": 0,
+  "id": 20417,
+  "timestamp": 1540252858000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|犮|犮|犮|犮}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In {{w|traditional Chinese characters|traditional Chinese}} and {{w|Hanja|Korean}} scripts, the bottom right component is written {{l|mul|乂}} instead of {{l|mul|又}} (as found in the {{w|Kangxi dictionary}}).\n* In {{w|simplified Chinese characters|simplified Chinese}} and {{w|Chữ Nôm|Vietnamese}} scripts, the bottom right component is written {{l|mul|又}} ({{l|mul|友}} with a dot on the top right corner).\n* In Japanese, the character itself is written like the traditional Chinese form but may be {{w|Shinjitai|simplified}} to {{l|mul|友}} when used as a component for {{w|Jōyō kanji|frequently used}} characters such as {{l|mul|抜}} and {{l|mul|髪}} (dot above {{l|mul|友}} is missing)."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=94|rad=犬|as=01|sn=4|four=43040|canj=IKE,IKK|ids=⿺友丶(G),⿻犬丿(HTJK)}} <!-- Character itself not used in Vietnam -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[拔]], [[祓]], [[髮]], [[茇]], [[跋]], [[瞂]], [[翇]], [[䳁]], [[盋]], [[柭]], [[帗]], [[黻]], [[袚]], [[魃]], [[𢇷]], [[炦]], [[冹]], [[鮁]], [[妭]], [[坺]], [[軷]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0706.010|dkj=20236|dj=1118.160|hdz=21331.020|uh=72AE|ud=29358|bh=C9A5|bd=51621}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

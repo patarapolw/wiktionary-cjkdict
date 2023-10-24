@@ -1,0 +1,46 @@
+{
+  "title": "葦",
+  "ns": 0,
+  "id": 25259,
+  "timestamp": 1544400230000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|苇}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wikispecies|Phragmites australis}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=艸09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ\n|kanon=い<ゐ\n|kun=あし-, よし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|よし|ヨシ}}\n\n# common reed, ''[[Phragmites australis]]''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|あし|tr=ashi}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

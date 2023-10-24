@@ -1,0 +1,59 @@
+{
+  "title": "祖",
+  "ns": 0,
+  "id": 22235,
+  "timestamp": 1553054862000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA50}}\n{{character info|0x2F953}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|祖|pic2=祖 kyuujitai.PNG}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=示05}}\n\n# [[founder]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そ\n|kanon=そ\n|kun=じじ-, はじ-め\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|開%祖|かい%そ}}\n* {{ja-r|祖忌|そき|death anniversary of a sect founder, or the memorial service thereof}}\n* {{ja-r|祖先|そせん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|そ|yomi=o}}\nFrom {{etyl|ltc|ja|sort=そ}} {{m|zh|祖|tr=tsu<sup>X</sup>||ancestor}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|そ|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|そ}}\n\n# [[ancestor]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

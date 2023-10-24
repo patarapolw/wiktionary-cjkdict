@@ -1,0 +1,44 @@
+{
+  "title": "齦",
+  "ns": 0,
+  "id": 33202,
+  "timestamp": 1553932319000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|龈}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|𮯅|齦}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=齒06|shin=𮯅}}\n\n# {{defn|lang=ja|sort=齒06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=ぎん\n|kun=はぐき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{compound|ja|sort=はぐき|歯|tr1=ha|t1=teeth|茎|tr2=kuki|t2=stem}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はぐき}}\n\n# [[gum]] {{gloss|flesh around teeth}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

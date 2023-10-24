@@ -1,0 +1,54 @@
+{
+  "title": "會",
+  "ns": 0,
+  "id": 17222,
+  "timestamp": 1554110394000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|曾|会}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|会|會}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=曰09|shin=会}}\n\n# {{defn|lang=ja|sort=曰09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=え<ゑ, け<け<くゑ|kanon=かい<くわい|kun=あ-う<あ-ふ, あ-わせる<あ-はせる, あつ-まる|nanori=あい<あひ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|かい|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|shin=会|かい|hhira=くわい}}\n\n# {{kyujitai spelling of|会}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|shin=会|かい|hhira=くわい}}\n\n# {{kyujitai spelling of|会}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

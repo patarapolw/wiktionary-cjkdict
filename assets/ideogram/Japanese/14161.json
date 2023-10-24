@@ -1,0 +1,46 @@
+{
+  "title": "客",
+  "ns": 0,
+  "id": 14161,
+  "timestamp": 1551724251000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=宀06}}\n\n# {{defn|lang=ja|sort=宀06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きゃく\n|kanon=かく\n|kun=まろうど-<まらうど-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|きゃく}}\n\n# [[guest]]; [[visitor]]\n# [[customer]]; [[client]]\n# [[patron]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This is used as part of a form of address for a customer, like [[sir]] or [[ma'am]]. Because a customer is in a much higher social position, this word is used with the honorific prefix {{ja-r|御|お-}} and the honorific suffix {{ja-r|さん|-さん}} or more often {{ja-r|様|-さま}}, rendering {{ja-r|お客さん|おきゃく-さん}} or {{ja-r|お客%様|おきゃく%-さま}}.\n\n[[Category:Japanese basic words|きゃく]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

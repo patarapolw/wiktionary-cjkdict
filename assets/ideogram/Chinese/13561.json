@@ -1,0 +1,78 @@
+{
+  "title": "奠",
+  "ns": 0,
+  "id": 13561,
+  "timestamp": 1552738158000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n\nOracle bone script: {{liushu|p}} – an alcohol vessel ({{zh-m|*酉}}) placed on a mat ({{zh-m|*一}}).\n\nIn the bronze inscriptions, two strokes ({{zh-m|*八}}) were sometimes added above the alcohol vessel, representing overflowing alcohol; this is inherited in the small seal script as {{zh-l|*酋}}. In some bronze inscriptions, two horizontal strokes were sometimes also added below the line representing a mat; the strokes sometimes were changed to something like {{zh-m|*八}}. These two strokes then fused with the mat to give {{zh-m|*丌}} (a table with two legs) in the small seal script. {{zh-m|*丌}} later evolved into {{zh-m|*大}} by process of ''libian'' ({{zh-l|*隸變}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=diàn\n|c=din6\n|mn=tiān\n|mc=1\n|oc=y\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[make]] [[offering]]s to the [[dead]]\n# to [[establish]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|奠定|弔奠|供奠|奠安|奠雁|奠都|奠立|奠地|家奠|奠酹|奠酒|奠敬|奠基|奠儀|祭奠|澆奠|祖奠|拜奠|設奠|遣奠|饋奠|路奠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=dìng\n|mc=2\n|cat=v,a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|飣}}\n# [[fake]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-see|鄭|a|proper noun sense}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Notes",
+                  "text": "Usage seen in oracle bone and bronze inscriptions."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 4",
+              "text": "{{zh-see|停|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 5",
+              "text": "{{zh-see|尊|v}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

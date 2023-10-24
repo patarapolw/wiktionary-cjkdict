@@ -1,0 +1,63 @@
+{
+  "title": "烴",
+  "ns": 0,
+  "id": 19965,
+  "timestamp": 1507155701000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|烃}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=烃}}\n{{zh-wp|zh|yue}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{blend|zh|碳|氫|gloss1=carbon|gloss2=hydrogen}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tīng,qīng,2nb=variant in Taiwan\n|c=ting1\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{zh-noun}}\n\n# {{lb|zh|organic compound}} [[hydrocarbon]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{zh-l|碳氫化合物}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jǐng\n|c=ging2\n|mc=y\n|oc=y\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

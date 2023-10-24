@@ -1,0 +1,39 @@
+{
+  "title": "毒",
+  "ns": 0,
+  "id": 18500,
+  "timestamp": 1549870154000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|毒|毒|毒|毒}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "See [[w:Han unification|Han unification]] on Wikipedia for differences in appearance by script by code point. Note that the bottom component is written [[毋]] in the {{w|Kangxi dictionary}} but appears as [[母]] in {{w|simplified Chinese}}, {{w|Hanja|Korean}} and {{w|Chữ Nôm|Vietnamese}} scripts."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=80|rad=毋|as=04|sn=9|snj=8|four=50507|canj=QMWYI|ids=⿱龶母(GKV),⿱龶毋(HTJ)}} <!-- Note: Mistaken form in T1-5175, Unicode CJK Unified Ideographs -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0589.060|dkj=16730|dj=0981.080|hdz=42382.050|uh=6BD2|ud=27602|bh=AC72|bd=44146}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

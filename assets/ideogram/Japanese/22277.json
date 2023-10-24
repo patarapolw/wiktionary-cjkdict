@@ -1,0 +1,54 @@
+{
+  "title": "禁",
+  "ns": 0,
+  "id": 22277,
+  "timestamp": 1542045454000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=示08}}\n\n# prohibition",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=きん\n|kun=とど-める, いさ-める, たえる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|禁漁|きんりょう}}, {{ja-r|禁漁|きんぎょ}}: [[prohibition]] on [[fishing]]\n* {{ja-r|禁猟|きんりょう}}: [[prohibition]] on [[hunting]]\n* {{ja-r|軟禁|なんきん}}: [[house arrest]]\n{{der-bottom}}\n\n{{ja-kanjitab|きん|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|きん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|きん}}\n\n# [[prohibition]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

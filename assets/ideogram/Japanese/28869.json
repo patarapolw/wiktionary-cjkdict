@@ -1,0 +1,44 @@
+{
+  "title": "邦",
+  "ns": 0,
+  "id": 28869,
+  "timestamp": 1545306958000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|那}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=邑04}}\n\n# home country (usually refers to Japan)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほう\n|kanon=ほう\n|kun=くに-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|連邦|れんぽう}}\n* {{ja-r|異邦|いほう}}\n* {{ja-r|邦楽|ほうがく}}\n* {{ja-r|邦人|ほうじん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くに}}\n\n# {{alternative spelling of|国|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

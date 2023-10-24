@@ -1,0 +1,66 @@
+{
+  "title": "医",
+  "ns": 0,
+  "id": 11884,
+  "timestamp": 1548341506000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|醫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|医|醫}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=匸05|kyu=醫}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い\n|kanon=い\n|kun=い-やす, くすし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=o}}\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|醫}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|い|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|い}}\n\n# [[doctor]]; [[physician]]; [[medicine]]"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い}}\n\n# [[doctor]]\n# [[medicine]], the healing arts",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top|medicine, the healing arts}}\n* {{ja-r|医%院|い%いん}}\n* {{ja-r|医%学|い%がく}}\n* {{ja-r|医%師|い%し}}\n* {{ja-r|医%者|い%しゃ}}\n* {{ja-r|医%術|い%じゅつ}}\n* {{ja-r|医%薬|い%やく}}\n* {{ja-r|医%療|い%りょう}}\n{{der-bottom}}\n\n{{der-top|doctor}}\n* {{ja-r|軍%医|ぐん%い}}\n* {{ja-r|校%医|こう%い}}\n* {{ja-r|侍%医|じ%い}}\n* {{ja-r|獣%医|じゅう%い}}\n* {{ja-r|女%医|じょ%い}}\n* {{ja-r|典%医|てん%い}}\n* {{ja-r|名%医|めい%い}}\n* {{ja-r|歯%科%医|し%か%い}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

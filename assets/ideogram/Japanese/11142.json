@@ -1,0 +1,85 @@
+{
+  "title": "偶",
+  "ns": 0,
+  "id": 11142,
+  "timestamp": 1539578608000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=ごう\n|kanyoon=ぐう\n|kun=たぐい-, たまたま-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* [[偶然]]\n{{mid3}}\n* {{ja-r|配偶者|gloss=[[spouse]]|はいぐうしゃ}}\n{{mid3}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|たま|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|適}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|infl=な|たま}}\n\n# [[occasional]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|たま}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たま}}\n\n# [[rarity]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|たまたま|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|偶偶}}, {{l|ja|偶々}}\n* {{l|ja|適}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adverb",
+                  "text": "{{ja-pos|adverb|たまたま}}\n\n# [[unexpectedly]], [[by chance]]; [[luckily]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "聞",
+  "ns": 0,
+  "id": 24182,
+  "timestamp": 1538546416000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|闻}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=耳08}}\n\n# hear",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もん\n|kanon=ぶん\n|kun=き-く, き-こえる, きこえ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|聞こえる|きこえる}}\n* {{ja-r|聞く|きく}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

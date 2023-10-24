@@ -1,0 +1,39 @@
+{
+  "title": "醐",
+  "ns": 0,
+  "id": 29144,
+  "timestamp": 1527420399000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=酉09}}\n\n# [[boil]]ed [[butter]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ, ご\n|kanon=こ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|醍%醐|だい%ご|[[ghee]]; [[fifth]] [[flavor]] in the ''{{w|Nirvana Sutra}}''}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

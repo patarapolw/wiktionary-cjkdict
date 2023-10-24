@@ -1,0 +1,58 @@
+{
+  "title": "尉",
+  "ns": 0,
+  "id": 14281,
+  "timestamp": 1553548403000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=寸08}}\n\n# military officer\n# jailer\n# old man\n# rank",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い, うち\n|kanon=い, うつ\n|kun=じょう-, おさえる, やすんじる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|い|yomi=on}}\n{{IPAchar|/wi/}} → {{IPAchar|/i/}}\n\nFrom {{der|ja|ltc|sort=|-}} {{ltc-l|尉|id=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|い|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|い|hhira=ゐ}}\n\n# a [[watchman]] or [[military]] [[officer]] in the ancient Chinese [[military]]\n# {{n-g|A [[military rank]].}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|尉官|いかん}}\n* {{ja-r|少尉|しょうい}}\n* {{ja-r|中尉|ちゅうい}}\n* {{ja-r|大%尉|たい%い}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

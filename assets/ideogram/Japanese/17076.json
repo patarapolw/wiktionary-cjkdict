@@ -1,0 +1,71 @@
+{
+  "title": "暴",
+  "ns": 0,
+  "id": 17076,
+  "timestamp": 1537873489000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|異}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=日11}}\n\n# [[violent]], [[brutal]], [[fierce]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぼう, ぼく\n|kanon=ほう, ほく\n|kanyoon=ばく\n|kun=あば-く, あば-れる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|暴怒|ぼうど}}: [[rage]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ぼう|yomi=o}}\nFrom {{etyl|ltc|ja|sort=ほう'}} {{m|zh|暴|tr=baw<sup>H</sup>||violent}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|ぼう|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Adjectival noun",
+              "text": "{{ja-adj|infl=na|ぼう}}\n\n# [[violent]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|ぼう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぼう}}\n\n# [[violentness]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

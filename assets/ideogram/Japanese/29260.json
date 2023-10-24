@@ -1,0 +1,39 @@
+{
+  "title": "釿",
+  "ns": 0,
+  "id": 29260,
+  "timestamp": 1549899716000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金04}}\n\n# {{defn|lang=ja|sort=金04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[きん]] (kin), [[ぎん]] (gin)|kun=[[たつ]] (tatsu), [[きる]] (kiru), [[まさかり]] (masakari)|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ちょうな}}\n\n# [[adze]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "塀",
+  "ns": 0,
+  "id": 13269,
+  "timestamp": 1506215603000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=土09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=へい\n|kun=かき\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|へい|yomi=kanyoon}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|へい}}\n\n# [[wall]]\n# [[fence]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

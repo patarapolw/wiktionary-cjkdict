@@ -1,0 +1,39 @@
+{
+  "title": "濁",
+  "ns": 0,
+  "id": 19622,
+  "timestamp": 1538546353000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|浊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水13}}\n\n# {{defn|lang=ja|sort=水13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だく\n|kanon=たく\n|kanyoon=じょく\n|kun=にご-す, にご-り, にご-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|濁音|だくおん}}\n* {{ja-r|濁点|だくてん}}\n{{mid2}}\n* {{ja-r|半濁点|はんだくてん}}\n* {{ja-r|連濁|れんだく}}: [[rendaku]], sequential voicing\n{{bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

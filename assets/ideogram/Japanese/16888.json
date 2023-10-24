@@ -1,0 +1,44 @@
+{
+  "title": "族",
+  "ns": 0,
+  "id": 16888,
+  "timestamp": 1546174563000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=方07}}\n\n# [[tribe]]\n# [[family]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞく\n|kanon=そく\n|on=そう\n|kun=やから-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{swp|lang=ja}}\n{{ja-kanjitab|ぞく|yomi=o}}\n{{ja-pron|acc=1|y=go|ぞく}}\n* {{hmp|lang=ja|sort=そく'|属|粟|続}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぞく}}\n\n# {{lb|ja|chemical element|sort=そく'}} a [[group]] {{gl|column in the periodic table}}\n# {{lb|ja|taxonomy|sort=そく'}} a [[tribe]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

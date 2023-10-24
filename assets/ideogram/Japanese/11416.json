@@ -1,0 +1,88 @@
+{
+  "title": "共",
+  "ns": 0,
+  "id": 11416,
+  "timestamp": 1550612111000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=八04}}\n\n# [[together]]\n# [[both]]\n# [[all]]\n# [[with]]\n# [[co-]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く, くう\n|kanon=きょう\n|kanyoon=ぐ\n|kun=とも-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|とも|acc=0|acc2=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der5|lang=ja\n|{{ja-r|共%演|きょう%えん}}\n|{{ja-r|共%学|きょう%がく}}\n|{{ja-r|共%感|きょう%かん}}\n|{{ja-r|共%産|きょう%さん}}\n|{{ja-r|共%産%党|きょう%さん%とう}}\n|{{ja-r|共%存|きょう%ぞん}}\n|{{ja-r|共%著|きょう%ちょ}}\n|{{ja-r|共%通|きょう%つう}}\n|{{ja-r|共%通%語|きょう%つう%ご}}\n|{{ja-r|共%同|きょう%どう}}\n|{{ja-r|共%犯|きょう%はん}}\n|{{ja-r|共%謀|きょう%ぼう}}\n|{{ja-r|共%鳴|きょう%めい}}\n|{{ja-r|共%有|きょう%ゆう}}\n|{{ja-r|共%用|きょう%よう}}\n|{{ja-r|共%和%国|きょう%わ%こく}}\n|{{ja-r|共%依%存|きょう%い%ぞん}}\n|{{ja-r|共%々|とも%ども}}, {{ja-r|共%共|とも%ども}}\n|{{ja-r|共%営|きょう%えい}}\n|{{ja-r|共%栄|きょう%えい}}\n|{{ja-r|共%益|きょう%えき}}\n|{{ja-r|共%起|きょう%き}}\n|{{ja-r|共%襟|とも%えり}}\n|{{ja-r|共%催|きょう%さい}}\n|{{ja-r|共%済|きょう%さい}}\n|{{ja-r|共%助|きょう%じょ}}\n|{{ja-r|共%晶|きょう%しょう}}\n|{{ja-r|公%共|こう%きょう}}\n|{{ja-r|事%共|こと%ども}}\n|{{ja-r|社%共|しゃ%きょう}}\n|{{ja-r|是%非%共|ぜ%ひ%とも}}\n|{{ja-r|中%共|ちゅう%きょう}}\n|{{ja-r|防%共|ぼう%きょう}}\n|{{ja-r|身%共|み%ども}}\n|{{ja-r|諸%共|もろ%とも}}\n|{{ja-r|容%共|よう%きょう}}\n|{{ja-r|両%方%共|りょう%ほう%とも}}\n|{{ja-r|私%共|わたくし%ども}}\n|{{ja-r|何%共|なん%とも}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とも}}\n\n# [[both]], [[all]]"
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|きょう}}\n\n# [[co-]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|とも}}\n\n# [[altogether]]\n# -[[included]]\n#: {{ja-usex|送料共|そうりょう-とも|including shipping fees, including postage}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|込|こみ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|ども}}\n\n# indicates [[plural]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|達|たち}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Affixing 共 to oneself indicates humbleness. Affixing 共 to other people is disrespectful compared to 達 (たち, -tachi)."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Related terms",
+              "text": "* {{ja-r|其れ共|それとも}}\n* {{ja-r|共食い|ともぐい}}\n* {{ja-r|共に|とも に}}\n* {{ja-r|共稼ぎ|ともかせぎ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

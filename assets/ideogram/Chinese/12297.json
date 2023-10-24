@@ -1,0 +1,141 @@
+{
+  "title": "咱",
+  "ns": 0,
+  "id": 12297,
+  "timestamp": 1521484954000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|偺}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|t2=喒|t3=偺|alt=𠴰,倃}}\nFusion of {{ltc-l|自家|self}} {{defdate|Song}} > Modern {{cog|cmn|-}} ''zá'' ({{zh-ref|Lü, 1984}}). Fusion with {{zh-l|們}} produces the form with a nasal coda {{defdate|Yuan}}, e.g. Modern {{cog|cmn|-}} ''zán'' ({{zh-ref|Norman, 1988}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zán,zá,1nb=standard in Mainland and Taiwan,2nb=standard in Taiwan,2nc=literary variant in Mainland\n|m_note=zán - “I (dialectal); we; particle”; zá - “I (literary)”\n|m-s=za2\n|c=zaa1,zaa2,ze1\n|c_note=zaa2, ze1 - rare\n|c-t=\n|g=\n|h=pfs=cha\n|j=za2\n|md=cā\n|mn=xm:cham/tw:cha\n|mn-t=za1\n|w=1tse\n|x=\n|ma=y\n|cat=pron,part\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary|or|dialectal}} [[I]]; [[me]]\n# {{lb|zh|inclusive}} [[we]]; [[us]]\n# {{lb|zh|literary}} {{non-gloss definition|A particle used after personal pronouns.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|我}}\n{{zh-dial|咱們}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "{{cmn-personal pronouns}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Fusion of {{zh-m|早晚}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zan\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal|in compounds}} [[time]]\n#: {{zh-x|這咱{zan}|now}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms|alt=俺,㑑,玌}}\nFrom {{zh-l|儂|lâng|person; I, me}} + elision of {{zh-l|儂|tr=-}}. Compare {{zh-l|阮|gún, goán|we, us (exclusive)}}, {{zh-l|恁|lín|you (plural)}}, {{zh-l|𪜶|tr=in|they, them}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|mn=lán\n|mn-t=nang2\n|cat=pron,det\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}} {{tlb|zh|Min Nan}}\n\n# {{lb|zh|inclusive}} [[we]]; [[us]]\n# {{lb|zh|polite}} [[you]]\n# {{lb|zh|inclusive}} [[our]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|咱們}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{qualifier|Min Nan|exclusive}} {{zh-l|阮|[[gún]], [[goán]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zá\n|cat=part\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{n-g|Sentence-final modal particle for the imperative mood, similar to {{zh-l|吧}}.}}\n# {{†}} {{n-g|Sentence-final modal particle for the declarative mood.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zǎ\n|cat=adv\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|咋|[[how]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|咱們|咱家|呋咱|不咱|俺咱|咱個|咱各|咱彼各|咱每|我咱|這咱|那咱|那咱晚}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{thcwd|4792}}\n* {{thcwda|325}}\n\n{{zh-cat|Beginning}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "炬",
+  "ns": 0,
+  "id": 19868,
+  "timestamp": 1511573626000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jù\n|c=geoi6\n|mn=qz:kǐr/tw,xm:kū/zz:kī/qz:kîr\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[torch]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|一炬|付之一炬|付諸一炬|目光如炬|炬火|火炬|麻炬|蠟炬}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

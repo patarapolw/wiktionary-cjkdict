@@ -1,0 +1,39 @@
+{
+  "title": "饂",
+  "ns": 0,
+  "id": 31439,
+  "timestamp": 1529742022000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=食10|grade=}}\n\n# {{only used in|lang=ja|饂飩|tr=udon, wantan}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=うん\n|kun=うどん-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|饂飩|うどん|[[udon]]}}\n* {{ja-r|饂飩|ワンタン|[[wonton]]}}\n\n[[Category:Japanese-only CJKV Characters|食]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

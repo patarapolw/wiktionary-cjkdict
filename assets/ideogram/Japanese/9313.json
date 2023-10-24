@@ -1,0 +1,104 @@
+{
+  "title": "北",
+  "ns": 0,
+  "id": 9313,
+  "timestamp": 1554096632000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|业|比|非|兆}}\n{{character info/new}}\n{{character info|0xF963}}\n{{character info|0x2F82B}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=匕03}}\n\n# [[north]]\n# [[escape]], [[run away]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほく\n|kanon=ほく\n|toon=ぺ\n|kanyoon=ぺい\n|kun=きた-, に-げる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|北%緯|ほく%い}}\n* {{ja-r|北海|ほっかい}}, {{ja-r|北海|^ほっかい}}\n* {{ja-r|北%海道|^ほっ%かいどう}}\n* {{ja-r|北極|ほっきょく}}, {{ja-r|北極|^ほっきょく}}\n* {{ja-r|北国|ほっこく}}\n* {{ja-r|北%州|^ほく%しゅう|rom=-}}, {{ja-r|北%洲|^ほく%しゅう}}\n* {{ja-r|北%上|ほく%じょう}}\n* {{ja-r|北条|^ほうじょう}}\n* {{ja-r|北進|ほくしん}}\n* {{ja-r|北西|ほくせい}}\n* {{ja-r|北%叟笑む|ほく%そえむ}}\n* {{ja-r|北端|ほくたん}}\n* {{ja-r|北天|ほくてん}}\n* {{ja-r|北%斗|ほく%と}}\n** {{ja-r|北%斗 七星|^ほく%と ^しちせい|[[Big Dipper]]}}\n* {{ja-r|北東|ほくとう}}\n* {{ja-r|北%部|ほく%ぶ}}\n* {{ja-r|北風|ほくふう}}\n* {{ja-r|北方|ほっぽう}}\n* {{ja-r|北%北西|ほく%-ほくせい}}\n* {{ja-r|北%北東|ほく%-ほくとう}}\n* {{ja-r|北溟|ほくめい|rom=-}}, {{ja-r|北冥|ほくめい}}\n* {{ja-r|北面|ほくめん}}\n* {{ja-r|北洋|ほくよう}}\n* {{ja-r|北陸|^ほくりく}}\n* {{ja-r|北方|ほっぽう}}\n* {{ja-r|極北|きょくほく}}\n* {{ja-r|硯北|けんぼく}}\n* {{ja-r|朔北|さくほく}}\n* {{ja-r|新北|^しんぼく}}\n* {{ja-r|西北|せいほく}}\n* {{ja-r|東北|とうほく}}\n* {{ja-r|南北|なんぼく}}\n* {{ja-r|敗北|はいぼく|[[defeat]]}}\n* {{ja-r|北平|^ペイピン}}\n* {{ja-r|北%京|^ペ%キン}}\n* {{ja-r|台北|^タイペイ}}\n* {{ja-r|東北|^トンペー}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|きた|yomi=k}}\n\nPossibly from {{inh|ja|ojp|sort=きた|-}}.\n\nUltimate derivation {{unk|ja|nocap=1|sort=きた}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|きた|acc=0|dev=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}\n{{rfv-pronunciation|ja|sort=きた}}\n{{ja-pron|y=k|きた|acc=1|acc_loc=[[w:Kansai dialect|Kyoto]]}}\n{{ja-pron|y=k|きた|acc=1|dev=2|acc_loc=[[w:Kagoshima dialect|Kagoshima]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きた}}\n\n# [[north]] {{gl|[[cardinal point]]}}\n#* '''905''', ''{{w|Kokin Wakashū}}'' (book 9, poem 412)\n#*: {{ja-usex|'''北'''へ行く雁ぞ鳴くなるつれてこし数はたらでぞかへるべらなる|'''きた''' へ ゆく かり ぞ なくなる つれて こし かず は たらで ぞ かへるべらなる|rom='''kita''' e yuku kari zo nakunaru tsurete koshi kazu wa tarade zo kaeruberanaru}}\n#: {{antonyms|ja|南|tr=minami}}\n# the [[North]] {{gl|[[northern]] [[part]] of a [[region]]}}\n# a [[northerly]], [[north wind]]\n#: {{synonyms|ja|北風|tr=kitakaze, hokufū}}\n#: {{antonyms|ja|南|tr=minami}}\n# {{short for|lang=ja|北の方|tr=kita no kata|nodot=1|sort=きた}}: [[northward]]\n# a [[developed country]]\n#: from the many [[country|countries]] in the [[Northern Hemisphere|''Northern'' Hemisphere]] are considered [[develop]]ed",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|北%面|きた%-おもて}}\n* {{ja-r|北風|きたかぜ}}\n* {{ja-r|北方|^きたがた}}\n* {{ja-r|北国|きたぐに}}\n* {{ja-r|北 時雨|きた しぐれ}}\n* {{ja-r|北の方|きた の かた}}\n* {{ja-r|北 半球|^きた ^はんきゅう}}\n* {{ja-r|北窓|きたまど}}\n* {{ja-r|西北|にし-きた}}\n* {{ja-r|東%北|ひがし%-きた}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|きた|キタ}}\n\n# ''a [[place name]]'', ''especially'' the name of a [[ward]] in various [[city|cities]] in Japan\n# {{lb|ja|sort=きた|historical}} the [[red-light district]] north of {{w|Edo Castle}}\n#: {{syn|ja|北郭|tr=Hokkaku|北国|tr2=Hokkoku}}\n# {{surname|lang=ja|A=a|nodot=1|sort=きた}}\n# {{given name|female|lang=ja|A=a|nodot=1|sort=きた}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{ja-verb-suru|きた}}\n\n# to [[go]] [[northward]]s\n#: {{syn|ja|[[北進]]する|tr=hokushin suru}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Conjugation",
+                      "text": "{{ja-suru|きた}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=i|sort=へえ''}}\n\nFrom {{bor|ja|cmn|sort=へえ''|北|tr=běi}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ペー}}\n\n# {{lb|ja|mahjong|sort=へえ''}} [[north wind]] ([[mahjong]] [[tile]])\n#: {{hyper|ja|風牌|tr=kazehai, fanpai}}\n# {{lb|ja|mahjong}} a {{m|ja|役|tr=yaku||[[win]]ning [[hand]]}} with a [[triplet]] or [[quad]] of north wind tiles; depending on wind round and player's seat wind, it is worth either 1 or 2 {{m|ja|翻|tr=han||[[double]]s}}\n#: {{hyper|ja|役牌|tr=yakuhai, yaku-pai}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Coordinate terms",
+                      "text": "* {{ja-r|風%牌|かぜ%ハイ|[[wind]] [[tile]]s}}: {{ja-r|東|トン|[[east wind]]}}, {{ja-r|南|ナン|[[south wind]]}}, {{ja-r|西|シャー|[[west wind]]}}, {{ja-r|北|ペー|north wind}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|きた]]\n[[Category:ja:Compass points|きた]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

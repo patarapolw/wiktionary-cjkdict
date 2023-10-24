@@ -1,0 +1,37 @@
+{
+  "title": "頩",
+  "ns": 0,
+  "id": 31146,
+  "timestamp": 1537646298000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0x2fa00}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{attention|zh|Simplified character in CJK Unified Ideographs extension G}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=pīng,pǐng\n|c=ping1,ping2\n|mc=y\n|oc=y\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

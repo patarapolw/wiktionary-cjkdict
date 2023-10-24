@@ -1,0 +1,61 @@
+{
+  "title": "漆",
+  "ns": 0,
+  "id": 19390,
+  "timestamp": 1544842133000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|柒}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しち\n|kanon=しつ\n|kun=うるし-\n|nanori=うる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Lacquer}}\n[[File:Wajimanurie.JPG|thumb|250px|{{lang|ja|漆}} (''urushi''): a traditional red '''[[lacquer]]'''ware serving set.]]\n</div>\n{{ja-kanjitab|yomi=k|うるし}}\nAppears to be derived from {{etyl|ojp|ja|sort=うるし}} root ''uru'', as in terms such as classical Japanese {{m|ja|潤う|tr=urufu}} → modern {{m|ja|潤う|tr=uruou||to be moist}}, {{m|ja|うるうる|tr=uruuru||wetly, moistly|pos=adverb}}. Probably from the way that a lacquered surface [[glisten]]s as if [[wet]]."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|うるし|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うるし}}\n\n# [[lacquer]], [[varnish]]\n# {{taxlink|Toxicodendron vernicifluum|species|noshow=1}}, the {{vern|lacquer tree}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{desc|en|urushiol|bor=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

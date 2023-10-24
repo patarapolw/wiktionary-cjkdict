@@ -1,0 +1,44 @@
+{
+  "title": "禂",
+  "ns": 0,
+  "id": 22278,
+  "timestamp": 1525188567000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|䮻}}"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=示08}}\n\n# {{rfdef|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=[[とう]] (tō), [[ちゅ]] (chu)\n|kun=[[いのる]] (inoru)\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|276650}}\n* {{R:Koseki Moji|276830}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

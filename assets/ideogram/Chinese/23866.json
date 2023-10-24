@@ -1,0 +1,39 @@
+{
+  "title": "缹",
+  "ns": 0,
+  "id": 23866,
+  "timestamp": 1524439679000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fǒu\n|c=fau2\n|mc=y\n|oc=y\n|ma=\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} to [[cook]]\n\n{{attention|yue|doublecheck the Unihan database}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|缹粥}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

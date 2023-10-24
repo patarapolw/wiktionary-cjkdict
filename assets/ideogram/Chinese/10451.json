@@ -1,0 +1,73 @@
+{
+  "title": "乍",
+  "ns": 0,
+  "id": 10451,
+  "timestamp": 1553546579000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𠆦}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{zh-pron\n|m=zhà\n|c=zaa3,zaa6\n|h=\n|mn=qz,xm:chā/qz,xm:chà/zz:chèe\n|w=\n|mc=y\n|oc=y\n|ma=\n|cat=adv\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# [[suddenly]]\n# [[at first]]"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{zh-pron\n|mn=tw:chàⁿ\n|cat=n\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{lb|zh|Min Nan}} to [[fry]]"
+                    },
+                    {
+                      "level": 5,
+                      "title": "References",
+                      "text": "* {{qualifier|Min Nan}} {{thcwd|1307}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|作|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-see|榨|ss}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

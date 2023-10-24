@@ -1,0 +1,42 @@
+{
+  "title": "冪",
+  "ns": 0,
+  "id": 11465,
+  "timestamp": 1551933750000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|幂|羃}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=幂}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\nOriginally written as {{zh-l|幎}}: {{Han compound|巾|冥|c1=s|c2=p|t1=cloth|ls=psc}}.\n\nLater the {{lang|zh|六}} was corrupted to {{lang|zh|大}} and the character becomes {{lang|zh|幂}}.\n\n{{lang|zh|艹}} was added to form a new {{Han compound|巾|幕|c1=s|c2=p|t1=cloth|ls=psc|nocap=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=mì\n|c=mik6\n|mc=y\n|oc=y\n|cat=v,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[cover]] with [[cloth]]\n# [[cloth]] [[cover]]\n# {{lb|zh|mathematics}} [[power]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|冪冪|升冪|冪級數|乘冪|冪䍦|降冪排列|降冪|冪律|冪等|冪定律|冪函數|冪零|三次冪|圓冪|升冪級數|雲冪}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

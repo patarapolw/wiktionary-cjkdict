@@ -1,0 +1,39 @@
+{
+  "title": "適",
+  "ns": 0,
+  "id": 28782,
+  "timestamp": 1549870617000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|适}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=辵11}}\n\n# suitable, appropriate, fit",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=てき, せき\n|kun=ゆ-く, かな-う, たまたま-, まさに\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "* {{ja-r|適切|てきせつ}}: appropriate, suitable, proper"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

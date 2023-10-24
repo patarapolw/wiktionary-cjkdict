@@ -1,0 +1,49 @@
+{
+  "title": "褊",
+  "ns": 0,
+  "id": 26625,
+  "timestamp": 1511580454000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=pián,biǎn\n|c=pin5,bin2\n|mc=y\n|oc=y\n|cat=\n}}\n{{zh-attn-split}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|剛褊自用|褊躁|褊狹|褊能|褊隘|褊迫|褊激|褊狹小器|褊小|褊陋|褊淺|褊褼|褊急|褊窄|褊心}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

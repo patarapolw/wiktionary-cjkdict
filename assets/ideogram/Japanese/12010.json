@@ -1,0 +1,80 @@
+{
+  "title": "厭",
+  "ns": 0,
+  "id": 12010,
+  "timestamp": 1538387544000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|厌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=厂12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん<えん<えむ, よう<えふ\n|kanon=えん<えん<えむ, よう<えふ\n|kanyoon=おん<おん<おむ\n|on=あん<あん<あむ, おう<おふ, ゆう<いふ\n|kun=あ-きる, いと-う<いと-ふ, いと-わし.い, いや-, おさ-える<おさ-へる, きら-う<きら-ふ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Shared root with {{l|ja|秋|tr=''aki'', \"[[autumn]]\"}}. Current meaning possibly arising from metaphorical use of the meaning \"autumn\".",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あき}}\n\n# [[disgust|Disgust]].\n# [[having|Having]] one's [[fill]]; [[loss]] of [[interest]]."
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|厭き}}\n* {{l|ja|飽}}\n* {{l|ja|飽き}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "* {{l/ja|厭きが来る}}: One will become [[fed up]] with or [[lose]] [[interest]] in something that was formerly [[satisfying]]."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Probably originally [[onomatopoetic]], much like the English {{m|en|yuck}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|infl=na|いや}}\n\n# [[disgusting|Disgusting]], [[unpleasant]], [[yucky]].",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|いや}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Interjection",
+                  "text": "{{ja-pos|いや|interjection}}\n\n# [[yuck|Yuck]], [[ew]]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

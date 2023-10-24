@@ -1,0 +1,39 @@
+{
+  "title": "兩",
+  "ns": 0,
+  "id": 11410,
+  "timestamp": 1553740950000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|両|两}}\n{{character info/new}}\n{{character info/new|0xf978}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|両|兩}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=入06|shin=両}}\n\n# [[both]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りょう<りやう\n|kanon=りょう<りやう\n|toon=りゃん\n|kun=ころ-, ふた-つ, もろ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|两}} {{qualifier|also kyūjitai}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

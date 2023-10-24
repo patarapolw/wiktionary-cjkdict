@@ -1,0 +1,56 @@
+{
+  "title": "譚",
+  "ns": 0,
+  "id": 27234,
+  "timestamp": 1553291204000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|谭}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言12}}\n\n# {{defn|lang=ja|sort=言12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|民譚|みんだん}}\n* {{ja-r|譚歌|たんか}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=たん, だん\n|kun=はなし-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|たん|yomi=o}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|たん}}\n\n# [[story]]; [[tale]]\n#: {{ja-usex-inline|変身'''譚'''|へんしん-'''たん'''|'''story''' that features a metamorphosis}}\n#: {{ja-usex-inline|『ディオニュソス'''譚'''』|『^ディオニュソス-'''たん'''』|''{{w|Dionysiaca}}''}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|話|はなし}}, {{ja-r|物語|ものがたり}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

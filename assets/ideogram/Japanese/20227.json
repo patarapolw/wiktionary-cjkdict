@@ -1,0 +1,44 @@
+{
+  "title": "燵",
+  "ns": 0,
+  "id": 20227,
+  "timestamp": 1528435997000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanjitab|yomi=o}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=たつ\n|kun=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|たつ|y=o}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たつ}}\n\n# [[foot]] [[warmer]]\n\n[[Category:Japanese-only CJKV Characters|火+13]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

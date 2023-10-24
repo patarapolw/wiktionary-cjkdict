@@ -1,0 +1,54 @@
+{
+  "title": "豉",
+  "ns": 0,
+  "id": 27480,
+  "timestamp": 1498780725000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=䜴,𢻃,敊,䜵,䜻,𩚡}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|豆|支|ls=psc|c1=s|c2=p|t1=bean}}.\n\nThe orthodox form in ''{{w|Shuowen}}'' was {{zh-l|𢻃}}, which has {{zh-l|*尗|legume; bean}} instead of {{zh-l|*豆}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{rfe|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=chǐ,shì,1nb=standard in Mainland and Taiwan,2nb=literary variant\n|c=si6\n|c-t=si5\n|h=pfs=sṳ;gd=si4\n|md=siê\n|mn=xm,zz,tp,kh,tn,yl,hc,tc:sīⁿ/qz,lk,sx,km,mg:sī\n|mn-t=si7\n|w=3zr\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[fermented]] [[bean]]\n#* {{zh-x|大 釜 煮 之，申舒 如 飼 牛 豆，掐 軟 便 止，傷 熱 則 豉 爛。||ref=Qimin Yaoshu}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|豉油|豉汁|豉椒|蠔豉|欖豉|麵豉|鹹豉|鹽豉|麴豉|豉羹|鹽豉湯|玉豉|豉酒|淡豆豉|豉甲|豆豉|豉蟲|豆豉油|豉油雞}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|鹽|v|{{q|Min Nan}} to salt; irritated}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

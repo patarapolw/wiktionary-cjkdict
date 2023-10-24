@@ -1,0 +1,59 @@
+{
+  "title": "誠",
+  "ns": 0,
+  "id": 27032,
+  "timestamp": 1553046693000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|诚}}\n{{character info/new}}\n{{character info|0x2F9CF}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=言07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<じやう\n|kanon=せい\n|kun=まこと-\n|nanori=きよ, さと, しげ, とも, のぶ, まさ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|誠%意|せい%い}}\n* {{ja-r|誠実|せいじつ}}\n* {{ja-r|誠心|せいしん}}\n* {{ja-r|赤誠|せきせい}}: [[sincerity]]\n{{der-bottom}}\n\n{{ja-kanjitab|まこと|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|まこと|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まこと}}\n\n# [[sincerity]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|まこと}}\n\n# {{given name|male|lang=ja|sort=まこと}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

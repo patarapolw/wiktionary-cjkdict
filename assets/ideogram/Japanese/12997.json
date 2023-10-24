@@ -1,0 +1,44 @@
+{
+  "title": "坂",
+  "ns": 0,
+  "id": 12997,
+  "timestamp": 1524350839000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|阪|坡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=土04}}\n\n# {{alternative form of|阪|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=べん, ほん\n|kanon=はん\n|kanyoon=ばん\n|kun=さか-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|さか|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さか}}\n\n# [[slope]], [[hill]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

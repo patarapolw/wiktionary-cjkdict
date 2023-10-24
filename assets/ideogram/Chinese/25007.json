@@ -1,0 +1,61 @@
+{
+  "title": "药",
+  "ns": 0,
+  "id": 25007,
+  "timestamp": 1530702791000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|藥|葯}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han simp|藥}}, which was originally simplified as [[葯#Etymology 2|<big>葯</big>]] by the {{w|Republic of China}} ({{w|Kuomintang}} government) in 1935 and by the {{w|People's Republic of China}} in 1956 <!-- Refer https://zh.wikisource.org/wiki/漢字簡化方案 --> before being simplified to its present form."
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|藥}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han simp|[[葯#Etymology 1|<big>葯</big>]]|f=約|t=约}} (original sense unrelated to {{l|mul|藥}}), based on simplification of its radical component."
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|葯}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "In mainland China, {{l|zh|藥}}, rather than {{l|zh|葯}} is listed officially as the traditional form of <big>药</big>."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "蚜",
+  "ns": 0,
+  "id": 25880,
+  "timestamp": 1525180713000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yá\n|c=ngaa4\n|md=\n|mn=qz,tw,xm,zz:gâ/qz,tw,xm:gê/zz:gêe\n|mn_note=gê/gêe - vernacular; gâ - literary\n|w=\n|mc=y\n|oc=y\n|cat=a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[plant]] [[louse]], [[aphid]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|蚜蟲|棉蚜蟲|麥蚜|麥蚜蟲}}\n\n{{zh-cat|Insects}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

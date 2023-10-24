@@ -1,0 +1,63 @@
+{
+  "title": "嚄",
+  "ns": 0,
+  "id": 12799,
+  "timestamp": 1551003180000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=ǒ\n|c=waak6,o2,wok6\n|mc=y\n|oc=y\n|cat=\n}}\n{{zh-attn-split}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# # {{n-g|Used to express [[realization]] or [[doubt]]:}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|喔嚄|呦嚄說|嚄嚄|嚄唶}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "References",
+                      "text": "* {{R:twedu|B00454}}\n* {{R:yue:mfccd}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=huō,huò\n|c=\n|mc=y\n|oc=y\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "# (''used to express [[surprise]]'')"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

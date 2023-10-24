@@ -1,0 +1,44 @@
+{
+  "title": "躰",
+  "ns": 0,
+  "id": 28282,
+  "timestamp": 1540181329000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|體}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=身05}}\n\n# [[body]]\n# [[shape]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たい\n|kanon=てい\n|kun=からだ-, かたち-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|からだ|yomi=kun}}\n{{ja-noun|からだ}}\n\n# {{alternative form of|lang=ja|体}}: [[body]]"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|かたち|yomi=kun}}\n{{ja-noun|かたち}}\n\n# {{lb|ja|sort=かたち|rare}} {{alternative form of|lang=ja|形}}: [[shape]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

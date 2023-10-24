@@ -1,0 +1,56 @@
+{
+  "title": "憷",
+  "ns": 0,
+  "id": 15819,
+  "timestamp": 1524945059000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=chǔ\n|c=co2\n|mc=y\n|oc=y\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|楚|[[pain]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=chù\n|c=zeot1\n|mc=\n|oc=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|怵|to [[fear]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Mostly not used in formal expressions like chengyu; {{zh-l|怵}} is used in such conditions."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

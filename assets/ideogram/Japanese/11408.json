@@ -1,0 +1,39 @@
+{
+  "title": "內",
+  "ns": 0,
+  "id": 11408,
+  "timestamp": 1553721902000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|内}}\n{{character info/new}}\n{{character info|0x2F814}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=入02}}\n\n# {{defn|lang=ja|sort=入02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[ない]] (nai)|kanon=[[だい]] (dai)|kun=[[うち]] (uchi), [[いる]] (iru), [[いれる]] (ireru)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is not used in Japanese and lacks JIS support. Tha variant {{m|ja|内}} (U+5185) is used instead."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

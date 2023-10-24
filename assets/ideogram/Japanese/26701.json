@@ -1,0 +1,51 @@
+{
+  "title": "襖",
+  "ns": 0,
+  "id": 26701,
+  "timestamp": 1542347974000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|袄}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=衣13}}\n\n# opaque [[sliding door]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=おう\n|kun=あお-, ふすま-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ふすま|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ふすま}}\n\n# [[fusuma]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|引き戸|ひきど}}\n* {{ja-r|障子|しょうじ}}\n\n{{c|ja|Architectural elements}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

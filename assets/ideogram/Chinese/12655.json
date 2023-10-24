@@ -1,0 +1,66 @@
+{
+  "title": "嘀",
+  "ns": 0,
+  "id": 12655,
+  "timestamp": 1543928922000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "<!--\n|c=dik6,dik1\n|mn=tih\n-->{{attention|zh}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|口|啇|ls=psc|c1=s|c2=p|t1=mouth|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-forms}}\n\n{{zh-pron\n|m=dī\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|An onomatopoeia.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-forms|alt=唙}}\n\n{{zh-pron\n|m=dí\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used in|嘀咕}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-see|謫|hduo}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|嘀咕|嘀裡嘟嚕|嘀嘀咕咕}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

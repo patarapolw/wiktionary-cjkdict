@@ -1,0 +1,51 @@
+{
+  "title": "胗",
+  "ns": 0,
+  "id": 24315,
+  "timestamp": 1507416810000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=zhěn\n|mc=y\n|oc=y\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[lip]] [[ulcer]]\n#: {{zh-alt-inline|疹}}\n# {{zh-alt-form|疹|tr=-|[[rash]]}}\n# {{zh-alt-form|診|tr=-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=zhēn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[stomach]] of [[bird]]s; [[gizzard]] of [[bird]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|胗肝兒}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

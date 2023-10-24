@@ -1,0 +1,51 @@
+{
+  "title": "岬",
+  "ns": 0,
+  "id": 14471,
+  "timestamp": 1549945919000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=山05}}\n\n# [[peninsula]]; [[promontory]]; [[cape]]; [[spit]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう<けふ\n|kanon=こう<かふ\n|kun=みさき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|みさき|yomi=k}}\n{{wikipedia|lang=ja}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|崎}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みさき}}\n\n# {{lb|ja|geography}} [[cape]]\n#: {{ja-usex|[[w:ja:襟%裳%岬|襟裳'''岬''']]|^えり%も%-'''みさき'''|{{w|Cape Erimo|'''Cape''' Erimo}}}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "没",
+  "ns": 0,
+  "id": 18707,
+  "timestamp": 1547138858000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|沒}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水04}} <!-- 沒 not listed as kyūjitai form in Jōyō Kanji 2010 -->\n\n# [[drown]]\n# [[sink]]\n# [[hide]]\n# [[fall into]]\n# [[disappear]]\n# [[death]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もつ\n|kanon=ぼつ\n|kun=しず-む, おぼ-れる, し-ぬ, い-る, ぼっ-する\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|死%没|し%ぼつ}}: [[death]]\n* {{ja-r|戦%没|せん%ぼつ}}: [[death]] in [[battle]]\n* {{ja-r|病%没|びょう%ぼつ}}: [[death]] by [[illness]]\n* {{ja-r|没%収|ぼっ%しゅう}}: [[confiscation]]; [[forfeiture]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ぼつ|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|ぼつ|yomi=o|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぼつ|ボツ|hhira=ぼつ}}\n\n# [[rejected]], [[unused]]\n#: {{ja-usex|[[原稿]]を'''没'''に[[する]]|げんこう を '''ぼつ''' に する|to reject a manuscript|lit=to make a manuscript '''rejected'''}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|ぼつ|hhira=ぼつ}}\n\n# [[rejected]], [[unused]]\n#: {{ja-usex|'''没'''[[タイトル]][[案]]|'''ぼつ'''-タイトル-あん|'''rejected''' ideas for titles}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

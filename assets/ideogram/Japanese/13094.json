@@ -1,0 +1,59 @@
+{
+  "title": "垢",
+  "ns": 0,
+  "id": 13094,
+  "timestamp": 1529826588000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=土06}}\n\n# [[grime]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=こう\n|kun=あか-, はじ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|頭垢|ふけ}}: [[dandruff]]\n* {{ja-r|目垢|めあか}}: [[rheum]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|あか|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|あか|acc=2|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あか}}\n\n# [[scum]]\n# [[dirt]]\n# {{lb|ja|slang|computing|sort=あか}} [[account]]\n#: {{ja-usex|'''垢'''BAN|'''あか'''-バン|ban of one's account}}\n#* {{ja-usex|さっきプレミアム'''垢'''にしてきたので画質テスト版です。|^さっき プレミアム '''あか''' に してきた の で がしつ テスト ばん です。|I just made my account a premium '''account''', so this is a video quality test version.|ref=[http://www.nicovideo.jp/watch/sm27024908]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|2channel slang}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

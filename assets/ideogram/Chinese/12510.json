@@ -1,0 +1,39 @@
+{
+  "title": "啶",
+  "ns": 0,
+  "id": 12510,
+  "timestamp": 1529815932000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dìng\n|c=ding6\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-used2|t}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|吡啶|菲啶|蝶啶|嘧啶|吖啶|吖丁啶|萘啶|哌啶}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "title": "間",
+  "ns": 0,
+  "id": 6207,
+  "timestamp": 1553572406000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|间|閒|閑}}\n{{character info/new}}\n<!-- may be replaced by zh-forms -->",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Japanese ryakuji KAN.png|thumb|right|100px|{{w|Ryakuji}} for 間, based on ryakuji for [[門#Japanese|門]]; compare also [[開#Japanese|開]].]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=門04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けん\n|kanon=かん\n|kun=あいだ-, ま-, あい-, あわい-\n|nanori=ちか\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|間性|かんせい}}: [[intersex]]\n* {{ja-r|人間|にんげん}}\n* {{ja-r|時間|じかん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=2054\n|shift=8ad4\n|jis=3456\n|euc=B4D6\n|freq=33\n|nelson=4949\n|newnelson=6391\n|halpern=3323\n|kld=2094\n|heisig=1620\n|tuttle=8e4.3\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あいだ|yomi=k}}\n{{ja-see|あいだ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ま|yomi=k}}\n{{ja-see|ま}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|あい|yomi=k}}\n{{ja-see|あい}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|かん|yomi=o}}\nFrom {{etyl|ltc|ja|sort=かん}} {{m|zh|間|tr=kɛn||interval}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|かん|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かん}}\n\n# [[interval]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|かん}}\n\n# ''suffixes some expressions of time to tell duration rather than time or date''\n#:{{ja-usex|二%時|に%-じ|two (o'clock)}}\n#:{{ja-usex|二%[[時間|時'''間''']]|に%-じ'''かん'''|two hours}}\n#:{{ja-usex|二%時 五%分|に%-じ ご%-ふん|five past two}}\n#:{{ja-usex|五%分('''間''')|ご%-ふん('''かん''')|five minutes}}\n#:{{ja-usex|二%日|ふつ%か|the 2nd (day of the month)}}\n#:{{ja-usex|二%日('''間''')|ふつ%か('''かん''')|two days}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

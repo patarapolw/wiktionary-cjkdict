@@ -1,0 +1,64 @@
+{
+  "title": "全",
+  "ns": 0,
+  "id": 11409,
+  "timestamp": 1554110272000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|金|𠓴|㒰}}\n{{character info/new}}\n{{character info/new|0xfa72}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=入04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぜん\n|kanon=せん\n|kun=すべ-て, まった-く, まった-い, まっと-う<まつた-う\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|全員|ぜんいん}}: [[all]] [[member]]s, all [[employee]]s\n* {{ja-r|全音|ぜんおん}}: a [[whole tone]]\n* {{ja-r|全部|ぜんぶ}}: [[altogether]]; [[everything]]\n* {{ja-r|全然|ぜんぜん}}: [[completely]] (not) {{qualifier|followed by a negative verb}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|ぜん}}\nFrom {{etyl|ltc|ja|sort=せん'}} {{m|zh|全|tr=dzjwen||complete, whole}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|ぜん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぜん}}\n\n# [[entire]], [[complete]], [[overall]]"
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|ぜん}}\n\n# [[all]], [[pan-]], [[omni-]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

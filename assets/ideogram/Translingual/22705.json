@@ -1,0 +1,39 @@
+{
+  "title": "笧",
+  "ns": 0,
+  "id": 22705,
+  "timestamp": 1533177232000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Due to {{w|Han unification}}, the {{w|Traditional Chinese|traditional form}} containing {{l|mul|冊}} and {{w|Simplified Chinese|simplified form}} containing {{l|mul|册}} are encoded under the same [[code point]]. Depending on the font installed, this character may appear to be either {{lang|zh|sc=Hant|笧}} or {{lang|zh|sc=Hans|笧}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=118|rad=竹|as=05|sn=11|four=|canj=HBBM,HBT,XHBBM,XHBT|ids=⿱[[竹|⺮]][[册]](G),⿱[[竹|⺮]][[冊]](HTJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0880.210|dkj=25938|dj=1308.150|hdz=52955.030|uh=7B27}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

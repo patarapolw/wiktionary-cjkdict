@@ -1,0 +1,49 @@
+{
+  "title": "粤",
+  "ns": 0,
+  "id": 23116,
+  "timestamp": 1549030510000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|粵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=米06}}\n\n# [[alas]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|goon=えち<ゑち,おち<をち|kanon=えつ<ゑつ|kun=ここ-に}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えつ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えつ|-}} {{ltc-l|粵}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えつ|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|えつ|hhira=ゑつ}}\n\n# alternate name for {{m|ja|広東|tr=Kanton||Guangdong}}\n# {{lb|ja|historical}} alternate spelling for {{ja-def|越}} the [[w:Yue_people|Yue people]] to the south of ancient China"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "坍",
+  "ns": 0,
+  "id": 13008,
+  "timestamp": 1532699673000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tān\n|c=taan1\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|坍臺|坍毀|坍落|崩坍|坍方|倒坍|坍壞|坍縮星|坍塌}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

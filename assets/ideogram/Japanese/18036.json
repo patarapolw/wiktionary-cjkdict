@@ -1,0 +1,39 @@
+{
+  "title": "樋",
+  "ns": 0,
+  "id": 18036,
+  "timestamp": 1553553620000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木11}}\n\n# {{defn|lang=ja|sort=木11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=つう\n|kanon=とう\n|kun=とい-, ひ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とい}}\n\n# {{lb|ja|architecture|sort=とい}} [[gutter]], a trough at the base of a roof used to convey rainwater"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

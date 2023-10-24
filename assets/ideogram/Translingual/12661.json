@@ -1,0 +1,49 @@
+{
+  "title": "嘆",
+  "ns": 0,
+  "id": 12661,
+  "timestamp": 1553322187000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|叹|歎}}\n{{character info/new}}\n{{character info|0xFA37}}\n{{character info|0x2F84C}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|嘆|[[叹]]|嘆}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In [[Traditional Chinese]], Japanese [[kyūjitai]], Korean [[hanja]] and Vietnamese [[Hán Nôm]], the component [[File:U26c29-ue0102.svg|25px|text-bottom|𦰩󠄂|link=𦰩]] for this character is written with {{l|mul|廿}} on top. Note that the bottom portion is written {{l|mul|口}} overlapped by {{l|mul|夫}} and not {{l|mul|中}} on top of {{l|mul|天}}.\n* In Japanese [[shinjitai]], the component [[File:U26c29.svg|25px|text-bottom|𦰩|link=𦰩]] is written with <big>{{l|mul|sc=Jpan|艹}}</big> on top and has one stroke less. Due to [[w:Han unification|Han unification]], both traditional Chinese and Japanese shinjitai forms are encoded under the same [[code point]]. The appearance of this character will differ depending on the font used.\n* In [[Simplified Chinese]], the component [[File:U26c29-ue0102.svg|25px|text-bottom|𦰩󠄂|link=𦰩]] is simplified to {{l|mul|又}} instead, giving the character {{l|mul|叹}} (<code>U+53F9</code>).\n* Two [[w:CJK Compatibility Ideographs|compatibility ideographs]] exist for this character. <code>U+FA37</code> corresponds to the [[kyūjitai]] form of this character while <code>U+2F84C</code> is an alternative form used in Taiwan and North Korea which is similar to Japanese shinjitai but the top right component is written <big>{{lang|mul|sc=Hant|艹}}</big> (4 strokes) instead of <big>{{lang|mul|sc=Jpan|艹}}</big> (3 strokes)."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=11|asj=10|sn=14|snj=13|four=64034|canj=RTLO,RTAO|ids=⿰口⿱廿⿻口夫(GHTKV,<code>U+FA37</code>),⿰口𦰩(J,<code>U+2F84C</code>)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|𫛗}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|叹}} {{q|[[Simplified Chinese]]}}\n* {{l|mul|歎}} {{q|Orthodox form in Hong Kong; [[w:Variant Chinese character|Variant]] [[Traditional Chinese|traditional form]] of {{l|mul|嘆}} in Mainland China}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{wikidata|Q55408224}}\n{{Han ref|kx=0205.010|dkj=04138|dj=0427.210|hdz=10673.080|uh=5606}}\n{{Han ref|uh=FA37}}\n{{Han ref|uh=2F84C}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

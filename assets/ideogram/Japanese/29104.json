@@ -1,0 +1,39 @@
+{
+  "title": "酪",
+  "ns": 0,
+  "id": 29104,
+  "timestamp": 1545537465000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=酉06}}\n\n# {{defn|lang=ja|sort=酉06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らく\n|kanon=らく\n|kun=ちちざけ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|乾酪|かんらく}}: [[cheese]]\n* {{ja-r|牛酪|ぎゅうらく}}: [[butter]]\n* {{ja-r|酪農|らくのう}}: [[dairy farm]]\n* {{ja-r|酪酸|らくさん}}: [[butyric acid]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

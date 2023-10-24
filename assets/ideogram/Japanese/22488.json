@@ -1,0 +1,59 @@
+{
+  "title": "穎",
+  "ns": 0,
+  "id": 22488,
+  "timestamp": 1548907325000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|頴|颖}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾11|shin=頴}}\n\n# {{defn|lang=ja|sort=禾11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう\n|kanon=えい\n|kun=ほさき-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|穎}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えい|acc=1|acc_ref=DJR|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えい}}\n\n# [[tip]]; [[sharp]] [[point]]\n# [[outstanding]]; [[talented]] {{q|interchangeable with {{m|ja|英|tr=ei}}}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えい}}\n\n# {{rfdef|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

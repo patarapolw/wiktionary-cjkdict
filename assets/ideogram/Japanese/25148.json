@@ -1,0 +1,51 @@
+{
+  "title": "菻",
+  "ns": 0,
+  "id": 25148,
+  "timestamp": 1535923587000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|麻}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸08}}\n\n# {{defn|lang=ja|sort=艸08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=りん\n|kun=きつねあざ\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|りん|yomi=on}}\n\nFrom {{bor|ja|ltc|sort=りん|-}} {{ltc-l|菻|[[artemisia]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|りん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|拂菻|ふつりん}}: {{lb|ja|historical|used by China}} {{w|Byzantine Empire}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

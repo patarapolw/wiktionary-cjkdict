@@ -1,0 +1,73 @@
+{
+  "title": "謁",
+  "ns": 0,
+  "id": 27137,
+  "timestamp": 1549027495000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|谒}}\n{{character info/new}}\n{{character info/new|0xfa62}}\n{{character info/new|0xfabc}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=言09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=えつ\n|kun=まみ-える\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えつ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えつ|-}} {{ltc-l|謁}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えつ|acc=1|acc_ref=DJR|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えつ}}\n\n# [[audience]] (with a noble)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|謁見|えっけん}}\n* {{ja-r|拝謁|はいえつ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えつ}}\n\n# {{lb|ja|literary}} a [[meeting]] or [[audience]] with a [[noble]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|おめみえ}}\n* {{ja-r|謁見|えっけん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "鰯",
+  "ns": 0,
+  "id": 32277,
+  "timestamp": 1511384269000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[file:Sardinops melanostictus.jpg|thumb|right|200px|鰯(iwashi)]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚10}}\n\n# [[sardine]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=いわし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{swp|lang=ja|イワシ}}\n{{ja-kanjitab|いわし|yomi=k}}\n* {{ja-l|鰮}}, {{ja-l|鰛}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|いわし|acc=0|acc_ref=NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いわし|イワシ}}\n\n# a {{w|European pilchard}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|鰯%鯨|イワシ%クジラ}}\n* {{ja-r|鰯%雲|いわし%ぐも}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Descendants",
+              "text": "* Russian: {{l|ru|иваси́|g=f}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n* [http://www.csse.monash.edu.au/%7Ejwb/wwwjdic.html Jim Breen's WWWJDIC Server]\n\n{{cln|ja|basic words|sort=いわし}}\n{{topics|ja|Herrings|sort=いわし}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

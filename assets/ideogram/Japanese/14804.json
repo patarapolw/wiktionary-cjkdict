@@ -1,0 +1,97 @@
+{
+  "title": "左",
+  "ns": 0,
+  "id": 14804,
+  "timestamp": 1553754316000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=工02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さ\n|kanon=さ\n|kun=ひだり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|㔫}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|左%遷|さ%せん}}\n* {{ja-r|左%官|さ%かん}}\n* {{ja-r|左%派|さ%は}}\n* {{ja-r|左%右|さ%ゆう}}\n* {{ja-r|左%翼|さ%よく}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ひだり|yomi=k}}\n/hidari/: *[pidari] → [ɸidari] → [çidari].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ひだり|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひだり}}\n\n# {{lb|ja|direction|sort=ひだり}} [[left]], the side of the left [[hand]]\n#* {{RQ:Nippo Jisho|229}}\n#*: '''Fidari'''. ヒダリ (左) 左手, または, 左の方\n#* {{quote-book||date=Aug 10 1999||{{lang|ja|幻の召喚神}}|trans-title=Phantom God|chapter={{ruby|{{lang|ja|[封](ふう)[印](いん)されし[者](もの)の[左](ひだり)[腕](うで)}}}}|trans-chapter=Left Arm of the Sealed One|lang=ja|publisher={{w|Konami}}||}}\n#*: {{ja-usex|封%印された'''左'''%腕。封%印を解くと、無%限の力を得られる。|^ふう%いんされた '''ひだり'''%うで。^ふう%いん を とく と、む%げん の ちから を えられる。|A sealed '''left''' arm. Whosoever breaks the seal shall earn infinite power.}}\n# {{lb|ja|politics|sort=ひだり}} a [[leftist]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Antonyms",
+                      "text": "* {{s|left}} {{ja-r|右|みぎ|right}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|左%側|ひだり%がわ}}\n* {{ja-r|左%利き|ひだり%きき}}\n* {{ja-r|左%手|ひだり%て}}\n* {{ja-r|左%巻き|ひだり%まき}}\n* {{ja-r|左%上|ひだり%うえ}}\n* {{ja-r|左%下|ひだり%した}}\n* {{ja-r|右%左|みぎ%ひだり}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|さ|yomi=o}}\n{{der|ja|ltc|左|sort=さ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|さ|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さ}}\n\n# the [[left]] in vertical writing\n# the [[following]] (one)\n#* {{RQ:I am a cat}}:\n#*: {{ja-usex|吾輩はまず彼がどのくらい無学であるかを試してみようと思って'''左'''の問答をして見た。|わがはい は まず かれ が どの くらい むがく で ある か を ためして みよう と おもって '''さ''' の もんどう を して みた。|To judge just how uneducated he was, I posed the following question.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Nippo Jisho}}\n\n[[Category:Japanese basic words|ひだり]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

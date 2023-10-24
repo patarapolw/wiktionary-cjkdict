@@ -1,0 +1,39 @@
+{
+  "title": "瓩",
+  "ns": 0,
+  "id": 21008,
+  "timestamp": 1549693727000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}} dating from the Meiji period in terms within the metric system. {{Han compound|瓦|千|t1=gram|t2=one thousand|ls=ic}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=瓦03}}\n\n# {{lb|ja|dated}} {{n-g|Symbol for [[kilogram]].}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=キログラム-\n|nanori=\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

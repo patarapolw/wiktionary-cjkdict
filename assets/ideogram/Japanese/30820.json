@@ -1,0 +1,56 @@
+{
+  "title": "雹",
+  "ns": 0,
+  "id": 30820,
+  "timestamp": 1519866570000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=雨05}}\n\n# [[hail]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぼく\n|kanon=はく\n|kanyoon=ひょく\n|kun=ひょう-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ひょう|yomi=k}}\n{{wikipedia|lang=ja}}\n[[file:Granizo.jpg|thumb|right|200px|雹 (hyō)]]\nPerhaps from {{m|ja|氷|tr=hyō||[[ice]]}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=a|y=k|ひょう}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひょう}}\n\n# [[hail]]\n# a [[hailstone]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|降%雹|こう%ひょう}}\n* {{ja-r|雹%害|ひょう%がい}}\n\n{{topics|ja|Weather|sort=ひょう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "瓦",
+  "ns": 0,
+  "id": 21005,
+  "timestamp": 1553178463000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=瓦00}}\n# [[tile]]\n# [[gram]], [[gramme]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ<げ<ぐゑ\n|kanon=が<ぐわ\n|kun=かわら-<かはら-, グラム-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|瓦%解|が%かい|[[collapse]], [[downfall]]}}\n* {{ja-r|瓦%礫|が%れき|[[rubble]], [[wreckage]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "[[Image:Tiled roof in Dubrovnik-edit.jpg|thumb]]\n{{ja-kanjitab|かわら|yomi=kun}}\n\n{{IPAchar|/kapara/}} → {{IPAchar|/kaɸara/}} → {{IPAchar|/kawara/}}\n\nProbably from {{der|ja|sa|sort=かわら|कपाल||cup, bowl, skull}},<ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>  possibly via {{ltc-l|迦波羅|id=2,1,1}}.  Along with Buddhism, roof tiles came to Japan in the {{w|Asuka period}}.\n\nCognate with {{m|ja|骨}}, {{m|ja|䯊|tr=kawara||a bone, particularly a covering bone such as a skull or kneecap}}.\n\nFolk etymologies include:\n* from {{m|ja|変わる|変わら|tr=kawara}}, the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|変わる|tr=kawaru||to change}}, from the idea that tiles were produced by changing the clay into pottery through [[firing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かわら|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かわら|hhira=かはら}}\n\n# [[roof tile]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Abbreviation of transliterated {{ja-ateji|sort=くらむ'}} spelling {{ja-r|瓦%蘭%姆|グ%ラ%ム}}, attested in the {{w|Meiji period}}.  The term {{ja-r|グラム}} itself was borrowed from either {{bor|ja|en|gram}} or {{bor|ja|fr|gramme}}.<ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nOnce considered a {{m|ja|国字|tr=kokuji||national character|pos=a kanji coined in Japan}}, another example being {{ja-r|瓲|トン|[[ton]], [[tonne]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|グラム|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|グラム}}\n\n# {{lb|ja|dated}} {{n-g|symbol for [[gram]], [[gramme]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top|Terms derived from グラム}}\n*{{ja-r|瓲|ミリグラム|[[milligram]], [[milligramme]]}}\n*{{ja-r|甅|センチグラム|[[centigram]], [[centigramme]]}}\n*{{ja-r|瓰|デシグラム|[[decigram]], [[decigramme]]}}\n*{{ja-r|瓧|デカグラム|[[decagram]], [[decagramme]]}}\n*{{ja-r|瓸|ヘクトグラム|[[hectogram]], [[hectogramme]]}}\n*{{ja-r|瓩|キログラム|[[kilogram]], [[kilogramme]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

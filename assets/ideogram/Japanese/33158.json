@@ -1,0 +1,66 @@
+{
+  "title": "鼻",
+  "ns": 0,
+  "id": 33158,
+  "timestamp": 1553729734000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|自}}\n{{character info/new}}\n{{character info/new|0x2FA1C}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=鼻00}}\n\n# [[nose]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=び\n|kanon=ひ\n|kun=はな-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* [[鼻音]]\n* [[鼻孔]]\n* [[鼻腔]]\n* [[鼻骨]]\n* [[鼻祖]]\n{{mid2}}\n* [[鼻母音]]\n* [[鼻梁]]\n* [[鼻息]]\n* [[鼻歌]]\n* [[鼻声]]\n* [[鼻血]]\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|はな|yomi=k}}\n* {{audio|Ja-hana-flower or nose etc.ogg|Audio|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はな}}\n\n# [[nose]]\n# {{qualifier|elephant or elephant seal}} [[trunk]]"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From pointing to one's nose to refer to oneself."
+            },
+            {
+              "level": 3,
+              "title": "Pronoun",
+              "text": "{{ja-pos|pronoun|はな}}\n\n# first-person personal male pronoun; [[I]], [[me]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|鼻様|はなさま}}\n\n[[Category:Japanese basic words|はな]]\n[[Category:ja:Anatomy|はな]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

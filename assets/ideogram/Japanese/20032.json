@@ -1,0 +1,59 @@
+{
+  "title": "然",
+  "ns": 0,
+  "id": 20032,
+  "timestamp": 1553398514000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=火08|grade=4}}\n\n# suffix after nouns to express likeness\n# and; and then\n# so, be as it is\n# and therefore\n# however (as [[shikashi]])\n# a certain thing",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ねん\n|kanon=ぜん\n|kun=も-える, しか-れども, しか-して\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|偶然|ぐうぜん}}: [[coincidence]]\n* {{ja-r|砉然|けきぜん}}: giving off a noise like separation of skin from bone\n* {{ja-r|全然|ぜんぜん}}\n* {{ja-r|突然|とつぜん}}\n* {{ja-r|判然|はんぜん}}: [[clearness]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ぜん|yomi=o}}\nFrom {{etyl|ltc|ja|sort=せん'}} {{m|zh|然|tr=nyen||-like}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|ぜん}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|ぜん}}\n\n# Indicates a state (no specific semantic content)"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* Halpern, Jack: New Japanese-English Character Dictionary -Kenkyusha 1990"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

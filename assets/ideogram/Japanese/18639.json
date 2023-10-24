@@ -1,0 +1,131 @@
+{
+  "title": "江",
+  "ns": 0,
+  "id": 18639,
+  "timestamp": 1553290554000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水03}}\n\n# [[creek]]\n# [[inlet]]\n# [[bay]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<こう\n|kanon=こう<かう\n|kanyoon=ごう<がう\n|kun=え-<え-<𛀁-\n|nanori=え.え, くん, こ, とうみ, のぶ, み, りえ\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{der-top|Compounds}}\n* {{ja-r|江湖|こうこ}}, {{ja-r|江%湖|ごう%こ}}\n* {{ja-r|江村|こうそん}}\n* {{ja-r|江都|^こうと}}\n* {{ja-r|江%鮭|あめ の %うお}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|え}}\n\n{{IPAchar|/je/}} → {{IPAchar|/e/}}\n\nFrom {{inh|ja|ojp|sort=え|-}}. The ''ye'' pronunciation gradually dropped out in {{w|Early Middle Japanese}}, persisting in some dialects and specific terms.  For instance, see {{pedialite|Yebisu}}\n\nThis term was so representative of the ''ye'' reading that it lent its shape to the {{w|hentaigana}} {{m|ja|𛀁|tr=ye}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|え|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|え}}\n\n# [[inlet]], [[bay]]\n# {{lb|ja|archaic|possibly|_|obsolete|sort=え}} {{gloss|general term for a large body of water}}\n## [[sea]]\n## [[large]] [[river]]\n## [[lake]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Although {{lang|ja|江}} (''e'') was sometimes used generically for a large body of water, it was most often used to indicate the portion of that body of water that extended [[inland]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|inlet}} {{ja-r|入%江|いり%え|rom=-}}, {{ja-r|入り江|いりえ}}\n* {{sense|bay}} {{ja-r|湾|わん}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|江戸|^えど}}: [[Edo]] (now [[Tokyo]])\n* {{ja-r|入り江|いりえ}}: [[inlet]]\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|え}}\n\n# {{surname|lang=ja|sort=え|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=kanon|こう}}\n\n{{IPAchar|/kau/}} → {{IPAchar|/kɔː/}} → {{IPAchar|/koː/}}\n\nFrom {{der|ja|ltc|sort=こう|-}} {{ltc-l|江}}.\n\nThe {{m|ja|漢音|kan'on}} reading, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|こう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こう|hhira=かう}}\n\n# {{lb|ja|archaic|sort=こう}} [[large]] [[river]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|こう|hhira=かう}}\n\n# {{short for|nocap=1|nodot=1|lang=ja|長江|tr=Chōkō}}: the [[Yangtze]] [[river|River]]\n# old name for {{m|ja|琵琶湖|tr=Biwa-ko}}: [[Lake Biwa]]\n# {{surname|A=a|nodot=1|lang=ja|sort=こう}}\n# {{given name|A=a|nodot=1|lang=ja|sort=こう|unisex}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|江河|^こうが}}: the [[Yangtze]] [[river|River]] and the [[Yellow River]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "Various nanori readings.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyo|ごう|acc=1}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ごう}}\n\n# {{surname|A=a|nodot=1|lang=ja|sort=こう'}}\n# {{given name|A=a|nodot=1|lang=ja|sort=こう'|unisex}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

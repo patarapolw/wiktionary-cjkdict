@@ -1,0 +1,88 @@
+{
+  "title": "杯",
+  "ns": 0,
+  "id": 17333,
+  "timestamp": 1549767221000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|盃}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wikipedia|lang=ja|盃}}\n[[Image:Otoso.jpg|thumb|A pile of three sake cups on the left]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=木04}}\n\n# Cupfuls",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へ\n|kanon=はい <!--, ぱい-->\n|kun=さかずき-<さかづき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{ja-l|酒坏|}}: {{ja-compound|酒|さか|坏|つき|t1=sake|t2=shallow bowl}}. {{ja-l|坏}} also has the [[訓読み#Japanese|kun-reading]] of ''sakazuki''.\n{{ja-kanjitab|さかずき|yomi=kun}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|盃}}\n* {{ja-l|巵}}\n* {{ja-l|盞}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さかずき|hhira=さかづき}}\n\n# [[sake]] [[cup]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|カップ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|お猪口|おちょこ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "From {{etyl|ltc|ja|sort=はい}} {{m|ltc|杯|tr=puoi|pos=reconstructed by some linguists as {{IPAchar|/puʌi/}}}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|盃}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|はい|counter}}\n\n# [[cupful]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|はい|suffix}}\n\n# {{lb|ja|games|sort=はい}} [[cup]] ([[contest]])"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|カップ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

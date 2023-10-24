@@ -1,0 +1,100 @@
+{
+  "title": "涙",
+  "ns": 0,
+  "id": 19021,
+  "timestamp": 1551033324000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|淚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|涙|淚}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水08|kyu=淚}}\n\n# [[tear]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=るい<るい<るゐ\n|kanon=るい<るい<るゐ\n|toon=れい\n|on=らい\n|kun=なみだ-\n}}\n{{attention|ja|is れい tōon or sōon}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|なみだ}}\n\nFrom {{inh|ja|ojp|sort=なみだ|-}}.\n\nAttested in the ''{{w|Nihon Shoki}}'' with the {{w|man'yōgana}} spelling {{ja-l||那瀰多|namita}}. The ''{{w|Kojiki}}'' and ''{{w|Man'yōshū}}'' have {{ja-l||那美多|namita}},<ref>{{RQ:Manyoshu|5|798}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#798 here]</ref> and the ''Man'yōshū'' also has later instances where the {{ja-l|多}} (''ta'') was replaced with {{ja-l|太}} (''da''), forming {{ja-l||奈美太|namida}},<ref>{{RQ:Manyoshu|20|4398}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4398 here]</ref> indicating a phonetic change over time from ''namita'' to ''namida''.\n\nUltimate derivation {{unknown|ja|nocap=1|sort=なみだ}}. There are interesting phonetic and semantic similarities with {{cog|th|น้ำตา||tear|lit=water + eye}}, overlapping semantically with {{cog|ko|눈물||tear|lit=eye + water}}, perhaps pointing to an ancient prehistoric borrowing. However, such similarities may also be purely accidental.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なみだ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|泪}}, {{ja-l|涕}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|なみだ}}\n\n# [[tear]], [[teardrop]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|なんだ}}\n\n{{IPAchar|/namida/}} → {{IPAchar|/nanda/}}\n\nAlteration of ''namida'' above.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なんだ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|なんだ|hhira=なむだ}}\n\n# [[tear]], [[teardrop]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|なだ}}\n\nAlteration of ''namida'' or ''nanda'' above. Used during the {{w|Edo period}} in the rough informal speech used by the staff and servants of [[samurai]] households, and others of lower social rank.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なだ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|なだ}}\n\n# {{lb|ja|sort=なだ|archaic|possibly|_|obsolete}} [[tear]], [[teardrop]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|泣く|なく}}: \"to cry\""
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Bodily fluids|なみだ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

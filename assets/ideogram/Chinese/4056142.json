@@ -1,0 +1,61 @@
+{
+  "title": "㨴",
+  "ns": 0,
+  "id": 4056142,
+  "timestamp": 1551233971000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jiàn\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n# {{zh-hg}} to [[turn over]]; to [[collapse]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=掀}}\nHas a [[wikipedia:Cantonese_nasal-stop_alternation|nasal-stop alternant]] in {{zh-l|揭|kit3}}. Compare Wuming {{cog|za|gwenj||to uncover}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=kin2\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n# {{lb|zh|Cantonese}} to [[lift]] (a [[lid]]); to [[uncover]]\n# {{lb|zh|Cantonese}} to [[flip]] (a [[page]] in a [[book]])"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|揭}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "否",
+  "ns": 0,
+  "id": 12130,
+  "timestamp": 1546674293000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|咅}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=口04}}\n\n# {{defn|lang=ja|sort=口04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=び, ふ\n|kanon=ひ, ふう\n|kun=いな, いな-む, いや, あらず\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|否%運|ひ%うん}}\n* {{ja-r|否%決|ひ%けつ}}\n* {{ja-r|否%塞|ひ%そく}}\n{{mid3}}\n* {{ja-r|否%泰|ひ%たい}}\n* {{ja-r|否%定|ひ%てい}}\n* {{ja-r|否%認|ひ%にん}}\n{{mid3}}\n* {{ja-r|否%応|いや%おう}}\n* {{ja-r|拒%否|きょ%ひ}}\n* {{ja-r|否む|いなむ}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Interjection",
+              "text": "{{ja-pos|いな|interjection|いいえ|いえ|いいや|いや}}\n\n# [[no]]\n#* {{RQ:Obama enzetsu}}\n#*: {{ja-usex|結局、 行動 する か '''否''' か は イスラエル人 と パレスティナ人 次%第 で ある。|けっきょく、 こうどう する か '''いな''' か は イスラエル-じん と パレスティナ-じん し%だい で ある。|Now, ultimately, it is up to the Israelis and Palestinians to take action.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The kanji spelling in the \"no\" sense is rarely encountered in modern Japanese. It is more commonly written as {{m|ja|いいえ}}.\n\n{{attention|ja|quotation seems to present usage as a noun}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

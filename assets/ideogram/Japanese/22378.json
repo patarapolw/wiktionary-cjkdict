@@ -1,0 +1,49 @@
+{
+  "title": "秤",
+  "ns": 0,
+  "id": 22378,
+  "timestamp": 1553776048000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾05}}\n\n# {{defn|lang=ja|sort=禾05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しよう\n|kanon=しょう<しよう\n|kanyoon=ひょう<ひやう,ひん,びん\n|kun=はかり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|天秤|てんびん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はかり|yomi=k}}\n{{wikipedia|lang=ja}}\n\nThe {{ja-etym-renyokei|量る|はかる}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はかり}}\n\n# [[scale]]\n\n[[Category:ja:Measuring instruments|はかり]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

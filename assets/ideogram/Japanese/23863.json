@@ -1,0 +1,95 @@
+{
+  "title": "缶",
+  "ns": 0,
+  "id": 23863,
+  "timestamp": 1551040283000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|罐|击}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|缶|罐}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=缶00|kyu=罐}}\n\n# [[pot]]; [[can]]\n# [[tin]] [[can]]\n# [[container]]\n# [[jar]] [[radical]] ([[no.]] 121)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かん<くわん, ふ\n|kanon=かん<くわん, ふう\n|kun=かま-, ほとぎ-\n|nanori=べ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|缶詰|かんづめ}}: [[canned]] food; [[confinement]] for a particular purpose\n* {{ja-r|缶詰業|かんづめぎょう}}: the [[canning]] [[industry]]\n* {{ja-r|缶詰業者|かんづめ ぎょうしゃ}}: a [[canner]], someone who [[cans]] as a [[business]]\n* {{ja-r|缶詰工場|かんづめ こうじょう}}: a [[cannery]], a [[canning]] [[plant]]\n* {{ja-r|缶詰食品|かんづめ しょくひん}}: [[canned]] [[food]]\n* {{ja-r|缶石|かんせき}}: [[scale]], [[lime]] and other [[deposits]] left behind in a [[boiler]], [[kettle]], or similar device\n* {{ja-r|缶切り|かんきり}}, {{ja-r|缶切|かんきり}}: a [[can opener]]\n* {{ja-r|缶胴|かまどう}}: the [[boiler]] of a [[steam engine]]\n* {{ja-r|缶焚き|かまたき}}, {{ja-r|缶焚|かまたき}}: [[minding]] a [[boiler]] [[fire]] for a [[steam engine]]; a [[steam engine]] [[fireman]], [[tender]], or [[stoker]]\n* {{ja-r|缶偏|かまへん}}: the [[Chinese character]] [[radical]] consisting of the {{m|ja|缶}} character\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Originally from {{etyl|nl|ja|sort=かん}} {{m|nl|kan||cylindrical metallic container}}, with additional influence from {{etyl|en|ja|sort=かん}} {{m|en|can||cylindrical metallic container}}. The kanji is an example of {{ja-ateji}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{ja-pron|かん|y=o}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|鑵}}, {{l|ja|カン}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かん}}\n\n# a [[can]], a [[tin]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "From {{etyl|ojp|ja|sort=かま}} ''kama'', signifying a container for high heat and referring variously to a {{m|en|hearth}}, {{m|en|oven}}, {{m|en|pot}}, {{m|en|kettle}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{ja-pron|かま|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|竈}}, {{l|ja|釜}}, {{l|ja|窯}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かま}}\n\n# a [[boiler]], as for a [[steam engine]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "For the {{m|en|boiler}} sense, this term ''kama'' is most often spelled using the kanji {{lang|ja|缶}}."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|ボイラー}}\n\n[[Category:ja:Containers|かん]]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

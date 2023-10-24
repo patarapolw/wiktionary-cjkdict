@@ -1,0 +1,49 @@
+{
+  "title": "仨",
+  "ns": 0,
+  "id": 10617,
+  "timestamp": 1536119951000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "[[contraction|Contraction]] of {{l|zh|[[三]][[個]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=sā\n|c=saam1\n|mc=\n|oc=\n|ma=\n|cat=num\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chiefly|Mandarin|colloquial}} {{n-g|functioning as {{zh-l|*三|three}} + an implied classifier}}: [[three]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{lang|zh|仨}} is not followed by any classifier."
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{zh-l|倆}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

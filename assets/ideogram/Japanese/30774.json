@@ -1,0 +1,39 @@
+{
+  "title": "雌",
+  "ns": 0,
+  "id": 30774,
+  "timestamp": 1532886735000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=隹05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-kanjitab|めす|yomi=k}}\n{{ja-readings\n|goon=し\n|kanon=し\n|kun=め-, めす-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|めす}}\n\n# [[female]] (non-human)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "甥",
+  "ns": 0,
+  "id": 21095,
+  "timestamp": 1499998510000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=生07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=せい, しょう\n|kun=おい-, むこ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{audio|Ja-oi-nephew.ogg|Audio|lang=ja}}\n{{ja-pron|おい|acc=0|acc_ref=SMK2,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おい}}\n\n# [[nephew]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{ja-r|姪|めい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|おい]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

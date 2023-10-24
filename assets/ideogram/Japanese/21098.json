@@ -1,0 +1,54 @@
+{
+  "title": "用",
+  "ns": 0,
+  "id": 21098,
+  "timestamp": 1553738504000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{also|甩}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=用00|grade=2}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ゆう\n|kanon=よう\n|kun=もち-いる<もち-ゐる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=4549\n|shift=9770\n|jis=4D51\n|euc=CDD1\n|skip=3-2-3\n|freq=107\n|nelson=2993\n|newnelson=3721\n|halpern=2976\n|kld=1889\n|heisig=1181\n|tuttle=2r3.1\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Formerly used as [[man'yōgana]] for the back-vowel variant ([[甲類]]) of {{m|ja|よ}}, romanized as ''yo<sub>1</sub>''."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|よう}}\n\n# [[use]] (noun)\n#: {{ja-usex|事%業の'''用'''に供している資%産|じ%ぎょう の '''よう''' に きょう して いる し%さん|assets provided for business '''use'''}}\n# a [[task]], [[business]], an [[errand]]\n#: {{ja-usex|今%晩'''用'''があるから出かける。|こん%ばん '''よう''' が ある から でかける。|I'll be out this evening because I have an '''[[errand]]'''.}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|よう}}\n\n# for the use of, for the purpose of\n#:{{ja-usex|家%庭'''用'''石%鹸、散%歩'''用'''のブーツ|か%てい'''よう''' せっ%けん、さん%ぽ'''よう''' の ブーツ|soap '''for''' household '''use''', boots '''for [the purpose of]''' walking}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

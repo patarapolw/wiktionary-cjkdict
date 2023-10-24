@@ -1,0 +1,49 @@
+{
+  "title": "亮",
+  "ns": 0,
+  "id": 10543,
+  "timestamp": 1553226810000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𠅙}}\n{{character info/new}}\n{{character info/new|0xf977}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=亠07}}\n\n# [[clear]]\n# [[help]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろう<らう\n|kanon=りょう<りやう\n|kun=あき-らか, すけ-\n|nanori=あき, あきら, きょう, たすく, ふさ, まこと, よし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|亮月|りょうげつ}}: [[bright]] [[moonlight]]\n* {{ja-r|亮察|りょうさつ}}: [[consideration]]\n* {{ja-r|亮然|りょうぜん}}: [[clear]], [[obvious]]\n* {{ja-r|亮直|りょうちょく}}: [[rightfulness]]\n* {{ja-r|明亮|めいりょう}}: [[clarity]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=4E3C\n|ku=4628\n|shift=97ba\n|euc=CEBC\n|freq=1821\n|nelson=302\n|newnelson=95\n|halpern=2071\n|kld=1313\n|heisig=2920\n|tuttle=2j7.6\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|りょう|hhira=りやう|proper}}\n\n# {{given name|male|lang=ja}}\n\n{{ja-pos|あきら|proper}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|りょう]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "鰶",
+  "ns": 0,
+  "id": 32284,
+  "timestamp": 1533996216000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚11}}\n\n# [[dotted gizzard shad]] (''[[Konosirus punctatus]]'')",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さい\n|kanon=せい\n|kun=このしろ-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|このしろ|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|このしろ|コノシロ}}\n\n# [[dotted gizzard shad]], ''[[Konosirus punctatus]]''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|燕鰶|つばめこのしろ}}: [[threadfin]], specifically [[striped threadfin]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|鮗}} {{qualifier|kokuji}}\n\n[[Category:ja:Herrings|このしろ]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

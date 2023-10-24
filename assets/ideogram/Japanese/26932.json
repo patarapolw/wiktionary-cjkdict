@@ -1,0 +1,58 @@
+{
+  "title": "証",
+  "ns": 0,
+  "id": 26932,
+  "timestamp": 1546559803000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|证|證}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|証|證}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=言05|kyu=證}}\n\n# {{defn|lang=ja|sort=言05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=しょう, せい\n|kun=あか-し, あかし-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あかし|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あかし}}\n\n# [[proof]], [[evidence]], [[testimony]]\n#: {{ja-usex|[[友情]]の'''証'''|ゆうじょう の '''あかし'''|'''symbol''' of friendship}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しょう|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しょう}}\n\n# {{rfdef|ja}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

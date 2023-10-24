@@ -1,0 +1,39 @@
+{
+  "title": "俅",
+  "ns": 0,
+  "id": 10925,
+  "timestamp": 1533267480000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人07}}\n\n# [[ornament]]al [[cap]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=きゅう<きう\n|kun=いただ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|高俅|こうきゅう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

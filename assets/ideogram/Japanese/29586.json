@@ -1,0 +1,61 @@
+{
+  "title": "鋼",
+  "ns": 0,
+  "id": 29586,
+  "timestamp": 1550136664000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|钢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=金08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<かう\n|kanon=こう<かう\n|kun=はがね-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|はがね|yomi=k|r=y}}\n* {{ja-l|刃金}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{com|ja|刃|金|tr1=ha|t1=[[blade]]|tr2=kane|t2=[[metal]]|sort=はがね}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=0|y=k|はがね}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はがね}}\n\n# [[steel]] {{gl|metal produced from iron}}\n#: {{ja-usex|'''鋼'''のように硬い。|'''^はがね''' の よう に かたい。|Hard as '''steel'''.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|鋼%鉄|こう%てつ}}\n\n{{C|ja|Alloys|sort=はがね}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

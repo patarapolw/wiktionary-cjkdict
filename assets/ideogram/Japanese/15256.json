@@ -1,0 +1,49 @@
+{
+  "title": "往",
+  "ns": 0,
+  "id": 15256,
+  "timestamp": 1552640916000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|徃}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=彳05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おう\n|kanon=おう\n|kun=い-く, いにしえ-, さき-に, ゆ-く\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おう|yomi=on}}\nFrom {{der|ja|ltc|sort=おう|-}} {{ltc-l|往}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|おう|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|おう|hhira=わう}}\n\n# to [[go]] to; to [[head]] for\n# [[past]]; [[previous]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "仯",
+  "ns": 0,
+  "id": 10624,
+  "timestamp": 1527672676000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=chào\n|c=caau3\n|mc=y\n|oc=y\n|ma=\n|cat=n,a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[child]]\n# [[tiny]]\n# {{zh-alt-form|㑳|[[stubborn]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 63]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|眇|v}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

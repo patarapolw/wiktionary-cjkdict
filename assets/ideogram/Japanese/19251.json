@@ -1,0 +1,44 @@
+{
+  "title": "湾",
+  "ns": 0,
+  "id": 19251,
+  "timestamp": 1538720143000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|灣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|湾|灣}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水09|kyu=灣}}\n\n# {{defn|lang=ja|sort=水09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん<ゑん\n|kanon=わん\n|kun=いりえ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|湾曲|わんきょく}}\n* {{ja-r|湾入|わんにゅう}}\n* {{ja-r|台湾|^たいわん}}\n* {{ja-r|湾岸|わんがん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|わん}}\n\n# {{lb|ja|geography}} [[bay]], [[gulf]], [[inlet]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

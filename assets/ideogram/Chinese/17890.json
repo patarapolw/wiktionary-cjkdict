@@ -1,0 +1,44 @@
+{
+  "title": "榍",
+  "ns": 0,
+  "id": 17890,
+  "timestamp": 1541857397000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xiè\n|c=sit3\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|classical}} [[threshold]]; [[doorsill]]; [[doorstep]]\n# {{lb|zh|classical}} {{n-g|type of tree described in ancient texts}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|threshold}}\n{{zh-syn-saurus|門檻}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

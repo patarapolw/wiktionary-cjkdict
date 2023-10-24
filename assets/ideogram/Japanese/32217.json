@@ -1,0 +1,54 @@
+{
+  "title": "鯳",
+  "ns": 0,
+  "id": 32217,
+  "timestamp": 1527742428000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}.\n\n{{Han compound|魚|底|c1=s|c2=s|t1=fish|t2=bottom|ls=ic}} - [[Alaska pollock]] is [[semipelagic]]."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚08}}\n\n# [[Alaska pollock]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=すけとうだら-}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|すけとうだら|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|すけとうだら|acc=5|acc_ref=DJR|acc2=3|acc2_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|すけとうだら|スケトウダラ}}\n\n# {{alternative form of|介党鱈|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Gadiforms|すけとうだら]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

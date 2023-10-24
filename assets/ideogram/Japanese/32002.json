@@ -1,0 +1,54 @@
+{
+  "title": "鬲",
+  "ns": 0,
+  "id": 32002,
+  "timestamp": 1537594102000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=鬲00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[きゃく]] (kyaku), [[りゃく]] (ryaku)|kanon=[[かく]] (kaku), [[れき]] (reki)|kun=[[かなえ]] (kanae)}}\n\n{{wp|lang=ja}}\n{{ja-kanjitab|れき|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{der|ja|ltc|鬲|sort=れき}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|れき|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|れき}}\n\n# a [[cauldron]] with three [[hollow]] legs used in ancient China"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "猊",
+  "ns": 0,
+  "id": 20510,
+  "timestamp": 1544871161000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=犬08}}\n\n# lion\n# the seat of a famous priest",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[げい]] (gei)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|猊下|げいか}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

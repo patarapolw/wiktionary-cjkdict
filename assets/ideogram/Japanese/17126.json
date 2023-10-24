@@ -1,0 +1,78 @@
+{
+  "title": "暈",
+  "ns": 0,
+  "id": 17126,
+  "timestamp": 1548741789000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|晕}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日09}}\n\n# blur, haze\n# mental haze or senility\n# intentional blurring or gradation",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=うん\n|kanon=うん\n|kun=かさ-, めまい-, ぼか-す, ぼか-し, かさ-む\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|かさ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|かさ|acc=1|acc_ref=ZAJ,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かさ}}\n\n# [[halo]] {{gloss|atmospheric phenomenon}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|うん|yomi=on}}\nFrom {{der|ja|ltc|sort=うん|-}} {{ltc-l|暈}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|うん|acc=1|acc_ref=DJR|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うん}}\n\n# [[halo]] {{gloss|atmospheric phenomenon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|うん}}\n\n# [[halo]] {{gloss|atmospheric phenomenon}}\n# [[dizzy]]; [[giddy]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

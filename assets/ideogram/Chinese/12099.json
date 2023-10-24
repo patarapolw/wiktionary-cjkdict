@@ -1,0 +1,44 @@
+{
+  "title": "吆",
+  "ns": 0,
+  "id": 12099,
+  "timestamp": 1538025329000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0x2F83B}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yāo\n|c=jiu1\n|mn=ml:iau/qz,xm,zz:io\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[yell]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|大吆小喝|喝五吆三|喝吆|吆三喝四|吆五喝六|大聲吆喝|吆喝|吆呼}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

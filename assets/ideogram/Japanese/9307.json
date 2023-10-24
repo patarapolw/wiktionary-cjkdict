@@ -1,0 +1,115 @@
+{
+  "title": "年",
+  "ns": 0,
+  "id": 9307,
+  "timestamp": 1550832594000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|秊|ヰ|𡕒}}\n{{character info/new}}\n{{character info/new|0xf98e}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=干03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ねん\n|kanon=でん\n|kun=とし-, とせ-, よわい-<よはひ-, みのり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|年%月日|ねん%がっぴ}}\n* {{ja-r|年%号|ねん%ごう}}\n* {{ja-r|年%次|ねん%じ}}\n* {{ja-r|年%数|ねん%すう}}\n* {{ja-r|年%度|ねん%ど}}\n* {{ja-r|年%輪|ねん%りん}}\n* {{ja-r|年%齢|ねん%れい}}\n{{der-mid}}\n* {{ja-r|閏%年|うるう%どし}}\n* {{ja-r|学%年|がく%ねん}}\n* {{ja-r|元%年|がん%ねん}}\n* {{ja-r|去%年|きょ%ねん}}\n* {{ja-r|今%年|こ%とし}}\n* {{ja-r|新%年|しん%ねん}}\n* {{ja-r|来%年|らい%ねん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|ねん}}\nFrom {{bor|ja|ltc|-|sort=ねん}} {{m|zh|年|tr=nen||year}}. Compare modern {{cog|cmn|-}} reading ''nián'', {{cog|hak|-}} ''ngièn'', {{cog|yue|-}} ''nin{{sup|4}}''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ねん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|ねん|counter}}\n\n# [[year]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ねん}}\n\n# a [[year]]\n#: {{ja-usex|'''年'''に一度|'''ねん''' に いちど|once a '''year'''}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|ねん|suffix}}\n\n# a [[grade]], a school year\n#: {{ja-usex|彼 は 中%学 ２'''年''' だ。|かれ は ちゅう%がく に-'''ねん''' だ。|He's in the second '''grade''' in junior high school.}}\n# a [[year]]\n#: {{ja-usex|２００８'''年''' に 橋 を 建設 し 始める よう だ。|にせん-はち-'''ねん''' に はし を けんせつ し はじめる よう だ。|It seems like they will start constructing the bridge in (the '''year''') 2008.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|とし}}\n/to{{sub|2}}si/}} → /tosi/ → /toɕi/\n\nFrom {{inh|ja|ojp|-|sort=とし}}. Originally referred to [[grain]], particularly [[rice]], and by extension, the year's [[harvest]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|とし|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|歳}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とし}}\n\n# {{lb|ja|sort=とし|obsolete}} [[grain]], particularly [[rice]]\n# {{lb|ja|sort=とし|obsolete}} a grain [[harvest]], a grain [[crop]]\n# a [[year]]\n# [[age]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|年%神|^とし%がみ}}: the [[spirit]] or [[god]] of the [[year]]\n* {{ja-r|年 を 取る|とし を とる}}: to [[pass]] [[New Years]]; to [[age]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|とせ}}\n/to{{sub|2}}se/ → /tose/\n\nFrom {{inh|ja|ojp|-|sort=とし}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Likely a shift in pronunciation from ''toshi''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|とせ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|とせ|suffix}}\n\n# {{lb|ja|sort=とせ|obsolete}} {{non-gloss definition|used to count years}}\n#* {{RQ:Manyoshu|5|880}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#880|here]:\n#*: {{ja-usex|阿麻社迦留、比奈尓伊都'''等世'''、周麻比都都、美夜故能提夫利、和周良延尓家利|^あまざかる、 ひな に いつ '''とせ'''、 すまひつつ、 みやこ の てぶり、 わすらえにけり|While living five '''years''' in the far-remote countryside, I wound up forgetting the manners of the capital}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|とし]]\n[[Category:ja:Time|とし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

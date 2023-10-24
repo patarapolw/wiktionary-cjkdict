@@ -1,0 +1,34 @@
+{
+  "title": "壗",
+  "ns": 0,
+  "id": 13421,
+  "timestamp": 1546060492000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|𡋤|壗}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土14|shin=𡋤}}\n\n# {{defn|lang=ja|sort=土14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "From {{w|Middle Chinese}} {{ltc-l|壗|[[steep]] [[slope]]}}:\n{{ja-readings\n|goon=じ\n|kanon=し\n}}\nAs a variant of {{ja-l|儘}} {{rfv-etymology|ja}}:\n{{ja-readings\n|goon=じん\n|kanon=しん\n|kun=まま-\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

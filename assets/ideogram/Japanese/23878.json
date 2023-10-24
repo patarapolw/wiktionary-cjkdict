@@ -1,0 +1,44 @@
+{
+  "title": "罅",
+  "ns": 0,
+  "id": 23878,
+  "timestamp": 1553633888000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=缶11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=か\n|kun=ひび-, すきま-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ひび|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひび|ヒビ}}\n\n# [[crack]]\n#: {{ja-usex|家の壁に'''ひび'''が入る|いえ の かべ に '''ひび''' が はいる|the walls of the houses have cracks}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

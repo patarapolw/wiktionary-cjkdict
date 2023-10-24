@@ -1,0 +1,39 @@
+{
+  "title": "踢",
+  "ns": 0,
+  "id": 28026,
+  "timestamp": 1537646153000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=足08}}\n\n# {{defn|lang=ja|sort=足08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[てき]] (teki), [[ちゃく]] (chaku), [[しゃく]] (shaku)|kun=[[ける]] (keru)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[踢達]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

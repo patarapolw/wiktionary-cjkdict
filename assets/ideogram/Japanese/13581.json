@@ -1,0 +1,80 @@
+{
+  "title": "奴",
+  "ns": 0,
+  "id": 13581,
+  "timestamp": 1553973435000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=女02}}\n\n# a [[thing]], an [[object]]; ([[derogatory]], [[familiar]]) a [[person]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぬ<ぬ\n|kanon=ど<ど\n|kun=やっこ-, やつ-, め-\n|nanori=ぬい\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{ja-kanjitab|やつ|yomi=k}}\n{{ja-pron|やつ|y=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|やつ|ヤツ}}\n\n# {{lb|ja|colloquial|impolite}} [[fellow]], [[chap]], [[guy]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|やつ|ヤツ}}\n\n# {{lb|ja|colloquial|impolite}} [[he]], [[she]]\n#* {{quote-book\n|lang=ja\n|location=Tokyo\n|publisher=Shogakukan\n|genre=fiction\n||{{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}\n|series={{wj|藤子・F・不二雄のSF短編|藤子不二雄少年SF短編集}}\n|{{wj|ポストの中の明日}}\n|trans-title=Post-Mid-Tomorrow\n|date=Jul 30 1988\n|edition=10th\n|origdate=Jul 25 1984\n|isbn=4-09-140702-1\n|volume=2\n|seriesvolume=2\n||65\n|chapter={{wj|おれ、夕子|おれ、[夕](ゆう)[子](こ)}}\n|trans-chapter=I, Yūko\n}}\n#*: {{ja-usex|解%説%者はたしかに中%身まで女だったと断%言した。きくなり、おれは'''ヤツ'''をぶんなぐった。|かい%せつ%しゃはたしかになか%みまで女だったとだん%げんした。きくなり、おれは'''ヤツ'''をぶんなぐった。|The commentator asserted that all my ins and outs had completely turned female. Upon hearing that, I just knocked him to the ground.|rom=Kaisetsusha wa tashika ni nakami made onna datta to dangenshita. Kiku nari, ore wa '''yatsu''' o bunnagutta.}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* {{U:ja:informal|ヤツ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{ja-kanjitab|やっこ|yomi=k}}\n{{ja-pron|やっこ|y=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|やっこ}}\n\n#  [[servant]], [[valet]], [[footman]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{ja-pron|め|y=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|め}}\n\n# {{n-g|Derogatory suffix attached to people's names or words that refer to people, animals, etc.}}\n#: {{ja-usex|ばか'''奴'''！|ばか-'''め'''！|Idiot!}}\n#* {{w2|ru|Леонид Андреев}} (translator {{w2|ja|森鴎外|tr={{w2|en|Mori Ōgai}}}}), {{l|ja||犬}} (''{{l|ru||Кусака}}'')\n#*: {{ja-usex|「来いといったら来い。シュッチュカ'''奴'''。馬鹿な奴だ。己れはどうもしやしない。」|「こい と いったら こい。シュッチュカ-'''め'''。ばか な やつ だ。おのれ は どうも し や しない。」|\"If I say come, come. '''Silly''' Zhuchka. You fool. I won't do anything to you.\"|ref=[http://www.aozora.gr.jp/cards/000907/files/4251_12065.html]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

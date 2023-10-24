@@ -1,0 +1,39 @@
+{
+  "title": "疊",
+  "ns": 0,
+  "id": 21197,
+  "timestamp": 1545037782000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|叠|畳|曡|疉}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|畳|疊}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=田17|shin=畳}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=じょう, ちょう\n|kun=たた-む, たたみ-, かさ-ねる\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たたみ|shin=畳}}\n\n# [[tatami]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

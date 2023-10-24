@@ -1,0 +1,95 @@
+{
+  "title": "唯",
+  "ns": 0,
+  "id": 12429,
+  "timestamp": 1550802627000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ゆい<ゆ.ゐ\n|kanon=い<ゐ\n|on=すい<す.ゐ\n|kun=ただ-<!--, これ-->\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Notes",
+                  "text": "As in historical readings {{ja-r|す.ゐ|hist=1}}, {{ja-r|つ.ゐ|hist=1}}, {{ja-r|る.ゐ|hist=1}}, most dictionaries do not have {{ja-r|ゆ.ゐ|hist=1}} as a historical reading for {{m-self|ja|唯}}. According to Heian-period data, the on-reading of {{m-self|ja|唯}} is {{ja-r|ゆい|hist=1}}. However, the Dai Kanwa Jiten, has the {{ja-r|ゆ.ゐ|hist=1}} and related -wi historical on-readings. {{attention|ja|please confirm this, this is translated from the Japanese Wikipedia}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ただ|yomi=k}}\n{{ja-see|ただ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|たった|yomi=k}}\n{{ja-see|たった}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|たんだ|yomi=k}}\n{{ja-see|たんだ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|ない|yomi=k}}\n{{ja-see|ない}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|ゆい|yomi=goon}}\nFrom {{der|ja|ltc|sort=ゆい|-}} {{ltc-l|唯|id=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|ゆい|proper}}\n\n# {{given name|female|lang=ja|sort=ゆい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|ゆい}}\n\n# [[only]]; [[solely]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|い|yomi=kanon}}\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|唯|id=2}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|い|hhira=ゐ}}\n\n# {{only used in|唯々|lang=ja}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|唯%々|い%い}}\n* {{ja-r|唯%々%諾%々|い%い%だく%だく}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

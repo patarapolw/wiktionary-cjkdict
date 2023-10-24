@@ -1,0 +1,39 @@
+{
+  "title": "梅",
+  "ns": 0,
+  "id": 17624,
+  "timestamp": 1553309717000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|楳|槑}}\n{{character info/new}}\n{{character info|0xFA44}}\n{{character info|0x2F8E2}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Commonscat}}\n{{ja-forms|梅|梅|梅}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "In {{w|Chinese character|Chinese}}, {{w|Hanja|Korean}} and {{w|Chữ Nôm|Vietnamese}} scripts, the right side component is written [[每]] (contains [[母]] with 2 dots). In Japanese {{w|shinjitai}}, the component is simplified to [[毎]] (contains [[毋]] with a single middle stroke). Due to {{w|Han unification}}, both characters ({{lang|und|sc=Hani|梅}}/{{lang|ja|梅}}) are encoded under the same Unicode codepoint. A CJK {{w|CJK compatibility ideographs|compatibility ideograph}} (U+FA44) exists for the {{w|kyūjitai}} form of {{lang|ja|梅}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=75|rad=木|as=07|asj=06|sn=11|snj=10|four=48957|canj=DOWY|ids=⿰木每(GHTKV),⿰木毎(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0528.080|dkj=14795|dj=0916.230|hdz=21215.130|uh=6885|ud=26757|bh=B1F6|bd=45558}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "碾",
+  "ns": 0,
+  "id": 22060,
+  "timestamp": 1549544193000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=niǎn\n|c=nin5,zin2,nin6\n|mn=lián/lún\n|mn_note=lián - literary; lún - vernacular\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|步碾兒|碾坊|碾子|碾房|碾盤|碾砣|碾米|碾船|茶碾子|碾橋|碾屋}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

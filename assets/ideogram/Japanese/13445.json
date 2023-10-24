@@ -1,0 +1,92 @@
+{
+  "title": "声",
+  "ns": 0,
+  "id": 13445,
+  "timestamp": 1543891200000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|聲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|声|聲}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=士04|kyu=聲}}\n\n# [[voice]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=せい\n|kun=こえ-<こゑ-, こわ-\n|nanori=おと, かた, ちか, な, のぶ, もり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|声%区|せい%く}}: [[vocal]] [[register]]\n* {{ja-r|乱声|らんじょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|こえ|yomi=k}}\n{{IPAchar|/kowe/}} → {{IPAchar|/koe/}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|こえ|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=聲|こえ|hhira=こゑ}}\n\n# [[voice]]\n#* 905 [[w:Kokin Wakashū|Kokin Wakashū]] (poem #16)<ref>{{cite-book|last=Kojima|first=Noriyuki|coauthors=Arai Eizō|title=Shin Nihon Koten Bungaku Taikei 5: [[w:Kokin Wakashū|Kokin Wakashū]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1989|origyear=905|lang=ja|isbn=4-00-240005-0}}</ref>\n#*: {{ja-usex|野%辺 ちかく 家%居 しせれば うぐひす の なくなる '''こゑ''' は 朝な 朝な きく|の%べ ちかく いへ%ゐ しせれば うぐひす の なくなる '''こゑ''' は あさな あさな きく|rom=nobe chikaku iei shisereba uguisu no naku naru '''koe''' ni wa asa na asa na kiku|Because I make my home near the fields and meadows, each and every morning, I hear the '''song''' of the mountain thrush trilling spring.<ref>{{cite-book|1996|Laurel Rasplica Rodd, Mary Catherine Henkenius|Kokinshū - A Collection of Poems Ancient and Modern|page=29}}</ref>\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|呻き声|うめきごえ|[[groan]], [[moan]]}}\n* {{ja-r|声を殺す|こえ を ころす}}\n* {{ja-r|声を出す|こえ を だす}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しょう|yomi=o}}\nFrom {{bor|ja|sort=しょう|ltc|-}} {{ltc-l|聲}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|しょう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=聲|しょう|hhira=しやう}}\n\n# [[voice]], [[speech]]\n# [[tone]]\n# [[variation]] of [[stress]] in [[pronunciation]]\n# [[tone mark]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|去%声|きょ%しょう}}\n* {{ja-r|四%声|し%しょう}}\n* {{ja-r|声%点|しょう%てん}}\n* {{ja-r|上%声|じょう%しょう}}\n* {{ja-r|入%声|にっ%しょう}}\n* {{ja-r|平%声|ひょう%しょう}}\n* {{ja-r|連%声|れん%じょう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|こえ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "舫",
+  "ns": 0,
+  "id": 24665,
+  "timestamp": 1553564066000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|舟|方|ls=psc|c1=s|c2=p|t1=boat}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fǎng\n|c=fong2\n|mn=hong/hóng\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[boat]]\n# [[fancy]] [[boat]]; [[yacht]] {{rfv-sense|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|畫舫}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "餾",
+  "ns": 0,
+  "id": 31435,
+  "timestamp": 1527076441000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|馏}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=馏|alt=𩞷,⿰氵畄-second round simplified}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n\n<!--\n|c=lau6,lau4\n|mn=liû/liū\n-->{{attention|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=liù\n|mc=y\n|oc=y\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|饙餾}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=餾\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|乾餾|分餾|木餾油|蒸餾|蒸餾器|蒸餾水|蒸餾法|蒸餾瓶|蒸餾酒|直餾|精餾}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "令",
+  "ns": 0,
+  "id": 10613,
+  "timestamp": 1554167956000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|命}}\n{{character info/new}}\n{{character info/new|codepoint=0xF9A8}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=人03}}\n\n# [[honour]]\n# [[admirable]]\n# [[command]]\n# [[order]]\n# [[rule]]\n# [[leader]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りょう\n|kanon=れい\n|kun=いいつけ-, おさ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|令%息|れい%そく}}: {{q|honorific}} [[son]]\n* {{ja-r|令%和|れい%わ}}: a new era name, effective on the 1st of May, 2019\n{{ja-kanjitab|れい|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|れい|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|れい}}\n\n# [[order]], [[command]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

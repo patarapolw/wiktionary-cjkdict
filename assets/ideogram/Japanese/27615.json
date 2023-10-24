@@ -1,0 +1,44 @@
+{
+  "title": "貫",
+  "ns": 0,
+  "id": 27615,
+  "timestamp": 1552986680000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|贯}}\n{{character info/new}}\n{{character info|0x2F9D4}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=貝04}}\n\n# [[pierce]]\n# approximately 3.75 [[kilogram|kg]] (8.33 [[pound]]s) ([[weight]])\n# [[penetrate]]\n# [[brace]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かん\n|kanon=かん\n|on=わん\n|kun=つらぬ-く, ぬき-, ぬ-く, ひ-く\n|nanori=つら, つらぬき, とおる, ぬき, やす\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|かん|counter}}\n\n# [[piece]]s of [[sushi]]"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かん}}\n\n# an obsolete unit of measure of weight corresponding to 3.75 kilograms\n# an obsolete unit of currency"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

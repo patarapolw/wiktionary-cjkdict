@@ -1,0 +1,88 @@
+{
+  "title": "数",
+  "ns": 0,
+  "id": 602,
+  "timestamp": 1549681096000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|數}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|数|數}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=攴09|kyu=數}}\n\n# [[number]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ<しゆ, そく\n|kanon=す, さく, しょく<しよく\n|kanyoon=すう\n|kun=かぞ-える<かぞ-へる, かず-, せ-める\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|数学|すうがく}}: [[mathematics]]\n* {{ja-r|数独|すうどく}}: [[sudoku]]\n* {{ja-r|自然数|しぜんすう}}: [[natural number]]\n* {{ja-r|整数|せいすう}}: [[integer]]\n* {{ja-r|実数|じっすう}}: [[real number]]\n{{mid2}}\n* {{ja-r|複%素%数|ふく%そ%すう}}: [[complex number]]\n* {{ja-r|対数|たいすう}}: [[logarithm]]\n* {{ja-r|変数|へんすう}}: [[variable]]\n* {{ja-r|定数|ていすう}}: [[constant]]\n* {{ja-r|助数詞|じょすうし}}: [[counter]] word\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|かず|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|かず|acc=1|acc_ref=SMK2}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かず}}\n\n# [[number]]; [[amount]]\n#: {{ja-usex|人 の '''数'''|ひと の '''かず'''|'''number''' of people}}\n#: {{ja-usex|夜空 の 星 の '''数'''|よぞら の ほし の '''かず'''|the '''number''' of stars in the night sky}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|すう|yomi=kanyoon}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=o|すう|acc=1|acc_ref=SMK2}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|すう}}\n\n# [[number]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|すう|prefix}}\n\n# [[several]]\n#: {{ja-usex|'''数'''百人|'''すう'''ひゃくにん|'''several''' hundred people}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|しばしば|yomi=k}}\n{{ja-see|しばしば}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|かず]]\n[[Category:ja:Mathematics|かず]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

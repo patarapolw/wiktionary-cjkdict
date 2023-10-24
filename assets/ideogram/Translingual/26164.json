@@ -1,0 +1,44 @@
+{
+  "title": "螆",
+  "ns": 0,
+  "id": 26164,
+  "timestamp": 1553047177000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|蛓}}\n{{character info/new}}\n{{character info|0x2F9BE}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In {{w|traditional Chinese}} (Taiwan and Hong Kong), the right component is written <big>{{l|mul|茲}}</big> (contains {{l|mul|艹}}), which is the orthodox form found in the {{w|Kangxi dictionary}}.\n* In {{w|simplified Chinese}} (mainland China), the right component is written <big>{{l|mul|兹}}</big> (contains {{l|mul|䒑}}), which is also a historical {{w|Variant Chinese character|variant}} found in {{w|classical Chinese}} dictionaries.\n* In Japanese {{w|kanji}}, the right component is written <big>{{l|mul|玆}}</big> (duplication of {{l|mul|玄}}).\n* Due to {{w|Han unification}}, the three forms above are encoded under the same [[code point]]. This character will appear differently depending on the font used."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=142|rad=虫|as=10|asc+=9|sn=16|snc+=15|four=58132|canj=LITVI|ids=⿰虫兹(G),⿰虫茲(HT),⿰虫玆(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[蛓]]}} ''(Orthodox form in {{w|Classical Chinese|classical}} usage)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1094.270|dkj=33368|dj=1557.170|hdz=42876.160|uh=8786}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

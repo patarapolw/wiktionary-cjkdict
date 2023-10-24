@@ -1,0 +1,54 @@
+{
+  "title": "吽",
+  "ns": 0,
+  "id": 12167,
+  "timestamp": 1548742809000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口04}}\n\n# [[bark]], [[growl]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "As \"to [[bark]], [[howl]]\":\n{{ja-readings\n|goon=く, ぐ\n|kanon=こう, ごう\n|kun=ほ-える\n}}\nAs transcription of {{bor|ja|sa|[[हूम्]]}}:\n{{ja-readings\n|goon=おん<おん<おむ\n|kanon=いん<いん<いむ\n|kanyoon=うん\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|うん|yomi=kanyoon}}\n''[[慣用音#Japanese|Kan'yoon]]'' pronunciation."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|うん|acc=1|acc_ref=DJR|y=kanyoon}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うん}}\n\n# {{lb|ja|Buddhism}} the [[Sanskrit]] syllable ''hūṃ''"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

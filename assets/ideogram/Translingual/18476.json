@@ -1,0 +1,44 @@
+{
+  "title": "殺",
+  "ns": 0,
+  "id": 18476,
+  "timestamp": 1553309254000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|杀}}\n{{character info/new}}\n{{character info|0xF970}}\n{{character info|0xFA96}}\n{{character info|0x2F8F5}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|殺|杀|殺|殺}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In {{w|traditional Chinese}} (based on the modern character forms used in {{w|zh:國字標準字體|Taiwan}} and {{w|zh:常用字字形表|Hong Kong}}), the bottom left component is {{l|mul|朮}} ({{l|mul|𣎳}} with an additional dot at its top right corner).\n* In mainland China (based on the {{w|Xin Zixing}} ({{w2|zh|新字形}}) standardized character forms), the bottom left component is {{l|mul|朩}} instead which is one stroke less.\n* In Korean {{w|hanja}}, the bottom left component is {{l|mul|术}}, which is also the historical form found in the {{w|Kangxi dictionary}}.\n* In Japanese {{w|shinjitai}} and Vietnamese [[Nôm]], the bottom left component is {{l|mul|木}} which is one stroke less.\n* Three {{w|CJK Compatibility Ideographs}} exist for this character:\n** <code>U+F970</code> corresponds to the Japanese {{w|kyūjitai}} form containing {{l|mul|术}} which is similar to the historical Kangxi form.\n** <code>U+FA96</code> corresponds to the alternative Korean form which is similar to the Japanese {{w|shinjitai}} form containing {{l|mul|木}}.\n** <code>U+2F8F5</code> is similar to the traditional form in Taiwan but has {{l|mul|𣎳}} (without dot at top right corner) instead of {{l|mul|朮}} as its bottom left component."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=79|rad=殳|as=07|asmj+=06|sn=11|snmj+=10|four=47947|canj=KCHNE,KDHNE|ids=⿰⿱㐅朩殳(G),⿰⿱㐅朮殳(HT),⿰⿱㐅木殳(JV,<code>U+FA96</code>),⿰⿱㐅术殳(K,<code>U+F970</code>).⿰⿱㐅𣎳殳(<code>U+2F8F5</code>)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[杀]]}} ''({{w|Simplified Chinese}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0585.110|dkj=16638|dj=0978.050|hdz=32157.010|uh=6BBA}}\n{{Han ref|uh=F970}}\n{{Han ref|uh=FA96}}\n{{Han ref|uh=2F8F5}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

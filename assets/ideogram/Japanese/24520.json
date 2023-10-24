@@ -1,0 +1,66 @@
+{
+  "title": "膣",
+  "ns": 0,
+  "id": 24520,
+  "timestamp": 1532193382000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|腟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちち\n|kanon=ちつ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Vagina}}\n</div>\n{{ja-kanjitab|yomi=o|ちつ}}\nFrom {{etyl|ltc|ja|sort=ちつ}} {{m|zh|膣||vagina}}. Compare modern {{etyl|yue|-}} reading ''zat<sup>6</sup>''."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{ja-pron|yomi=kanon|ちつ|acc=2|acc_ref=DJR|acc2=1|acc2_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|腟}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ちつ}}\n\n# {{lb|ja|sort=ちつ|anatomy}} [[vagina]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|ワギナ}}, {{ja-r|バギナ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

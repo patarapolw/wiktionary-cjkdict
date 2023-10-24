@@ -1,0 +1,44 @@
+{
+  "title": "腔",
+  "ns": 0,
+  "id": 24440,
+  "timestamp": 1541862638000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉08}}\n\n# {{defn|lang=ja|sort=肉08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう\n|kanon=こう\n|kanyoon=くう\n|kun=うつろ, からだ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|内腔|ないくう}}: [[lumen]] {{gloss|cavity within tubular organ}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The くう reading is favoured especially by medical professionals. こう is the most common on'yomi for a kanji to have, whereas くう is one of the least common, so the homophony difference is vast. Furthermore, the [[空]] component of this kanji is usually read as くう."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

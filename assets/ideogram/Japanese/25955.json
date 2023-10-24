@@ -1,0 +1,44 @@
+{
+  "title": "蛤",
+  "ns": 0,
+  "id": 25955,
+  "timestamp": 1537516680000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫06}}\n\n# {{defn|lang=ja|sort=虫06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<こふ\n|kanon=こう<こふ\n|kanyoon=か\n|kun=はまぐり-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{compound|ja|浜|栗|tr1=hama|tr2=kuri|t1=beach|t2=chestnut}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はまぐり|ハマグリ}}\n\n# [[clam]]\n\n[[Category:ja:Mollusks|はまくり]]\n[[Category:ja:Seafood|はまくり]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

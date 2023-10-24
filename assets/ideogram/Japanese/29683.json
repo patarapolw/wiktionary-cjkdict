@@ -1,0 +1,71 @@
+{
+  "title": "鍋",
+  "ns": 0,
+  "id": 29683,
+  "timestamp": 1552876283000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|锅}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=金09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か\n|kanon=か\n|kun=なべ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{| style=\"float:right;padding:0px;margin-right:-5px;\"\n| [[File:Nabe.jpg|thumb|none|119px|{{lang|ja|鍋}}: traditional ''nabe'' (both the pot and the food)]]\n| [[File:Cainz_Donabe_Hakusen-nagashi_19cm_2.jpg|thumb|none|118px|{{l|ja|土鍋|tr=''donabe''}}: traditional earthenware ''nabe'']]\n|-\n| [[File:The_woks_of_various_sizes.JPG|thumb|none|118px|{{l|ja|中華鍋|tr=''chūka nabe''}}: \"Chinese ''nabe''\", a.k.a. [[wok]]]]\n| [[File:IB_tajine_01.jpg|thumb|none|118px|{{l|ja|タジン}}{{lang|ja|鍋}} (''tajin nabe''): a Moroccan [[tajine]]]]\n|-\n| [[File:Feuertopf_Peking.jpg|thumb|none|119px|{{l|ja|火鍋|tr=''hinabe''}}: a [[fondue]] pot]]\n| [[File:Stock_Pot.jpg|thumb|none|119px|{{l|ja|スープ}}{{lang|ja|鍋}} (''sūpu nabe''): a soup pot or stockpot]]\n|}\n{{ja-kanjitab|なべ|yomi=k}}\nOriginally a compound of {{etyl|ojp|ja|sort=なべ}} elements {{compound|ja|sort=なべ|肴|tr1=na|t1=small snack, hors d'oeuvre|瓮|tr2=he|t2=a pot or pan for holding food or beverages}}. {{rendaku2|sort=なべ|he|be}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|なべ|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なべ}}\n\n# a broad-bottomed [[pot]] or [[pan]]\n#: This term is less specific than English {{m|en|pot}} or {{m|en|pan}}, and can often be used to refer to either of these. The sample images at right illustrate some of the various items that can be called a ''nabe'' in Japanese.\n# short for {{l|ja|鍋物|tr=''nabemono''}}, a [[dish]] where everything is cooked together in a ''nabe''; compare English {{m|en|hot pot}} or {{m|en|hotdish}}\n#: ⇒ {{l|ja|鍋物|tr=''nabemono''}}\n# by extension from the sense of someone working with pots and pans, a [[maidservant]]\n#: ⇒ {{l|ja|御鍋|tr=''onabe''}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ja-r|釜|かま}}: a big [[pot]], a [[kettle]] or [[boiler]]\n* {{ja-r|御釜|おかま}}: a [[maidservant]]; {{qualifier|slang}} one's [[butt]]; {{qualifier|slang}} a [[gay]] man\n* {{ja-r|御鍋|おなべ}}: a [[maidservant]]; [[nightwork]]; {{qualifier|slang}} a [[lesbian]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* Korean: {{ko-inline|냄비|naembi|pan, saucepan; pot}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{projectlink|wikipedia|lang=ja}}\n* {{projectlink|wikipedia|nabe}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Cookware and bakeware|なべ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

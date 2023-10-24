@@ -1,0 +1,63 @@
+{
+  "title": "㞎",
+  "ns": 0,
+  "id": 1577797,
+  "timestamp": 1526208469000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|尸|巴|ls=psc|c1=s|c2=p|t1=body|no_och2=1}}.\n\nThe choosing of {{l|zh|尸}} radical is seemingly influenced by character {{l|zh|屎}} (“faeces”)."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=bǎ\n|m-s=ba3\n|ma=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|childish|Sichuanese}} [[dung]], [[excrement]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{qualifier|Standard Mandarin}} {{zh-l|屎}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|㞎㞎|屎㞎㞎}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=pā\n|ma=\n|cat=cls\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-classifier|piles of excrement}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

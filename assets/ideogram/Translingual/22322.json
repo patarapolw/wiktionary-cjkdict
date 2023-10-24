@@ -1,0 +1,54 @@
+{
+  "title": "禮",
+  "ns": 0,
+  "id": 22322,
+  "timestamp": 1548564506000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|礼|𫌓}}\n{{character info/new}}\n{{character info/new|0xf9b6}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|禮|礼|礼|禮}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "In [[Traditional Chinese]], the component on the left of <code>U+79AE</code> is {{l|mul|礻}}. In Korean [[hanja]] and Japanese [[kyūjitai]], the component on the left of <code>U+79AE</code> is {{l|mul|示}} rather than {{l|mul|礻}}, which is also the historical form that appears in the [[w:Kangxi dictionary|Kangxi dictionary]]. A [[w:CJK compatibility ideographs|CJK compatibility ideograph]] exists at <code>U+F9B6</code> to reflect the form found in the Kangxi dictionary."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=113|rad=示|as=13|sn=18|four=35218|canj=IFTWT|ids=⿰礻豊(GHTV),⿰示豊(JK,U+F9B6)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𡅏]], [[𡓾]], [[𡤠]], [[𢹿]], [[𣠲]], [[𧕬]], [[𨰋]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|礼}} {{q|Japanese [[shinjitai]] and [[Simplified Chinese]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|ja|れ}} {{q|[[hiragana|Hiragana]] character derived from [[man'yōgana]]}}\n* {{l|ja|レ}} {{q|[[katakana|Katakana]] character derived from [[man'yōgana]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0847.070|dkj=24844|dj=1268.090|hdz=42409.140|uh=79AE}}\n{{Han ref|uh=F9B6}}\n\n[[Category:Han characters from which hiragana were derived|れ]]\n[[Category:Han characters from which katakana were derived|レ]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

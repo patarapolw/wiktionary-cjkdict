@@ -1,0 +1,51 @@
+{
+  "title": "哀",
+  "ns": 0,
+  "id": 12312,
+  "timestamp": 1548323192000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口06}}\n\n# [[pathetic]]\n# [[grief]]\n# [[sorrow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=あい, お\n|kanon=あい\n|kun=あわ-れ, あわ-れむ, かな-し.い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|あい|yomi=o}}\nFrom {{der|ja|ltc|sort=あい|-}} {{ltc-l|哀}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あい}}\n\n# [[grief]]; [[sorrow]]; [[sadness]]; [[lamentation]]\n#: {{ja-usex-inline|'''哀'''を思う|'''あい''' を おも.う|to feel grief; to grieve; to mourn; lament}}\n# [[pity]]; [[sympathy]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|悲しみ|かなしみ}}\n* {{ja-r|嘆き|なげき}}\n* {{ja-r|憂い|うれい}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

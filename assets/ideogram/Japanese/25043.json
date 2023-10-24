@@ -1,0 +1,39 @@
+{
+  "title": "莓",
+  "ns": 0,
+  "id": 25043,
+  "timestamp": 1545050319000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|苺}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸07}}\n\n# [[strawberry]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|goon=まい,め|kanon=ばい|kun=いちご-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|いちご|yomi=k}}\n{{ja-noun|いちご|イチゴ}}\n\n# {{altspell|lang=ja|苺||[[strawberry]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

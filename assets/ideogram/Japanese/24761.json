@@ -1,0 +1,54 @@
+{
+  "title": "芋",
+  "ns": 0,
+  "id": 24761,
+  "timestamp": 1553050978000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F990}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[Image:5aday sweet potato.jpg|thumb|right]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=艸03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=う\n|kun=いも-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|里芋|さといも|gloss=taro (potato)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|いも|acc=2|acc_ref=SMK2,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いも}}\n\n# a [[potato]]; a [[sweet potato]]; a [[taro]]; a [[yam]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|いも]]\n[[Category:ja:Vegetables|いも]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

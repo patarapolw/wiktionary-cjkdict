@@ -1,0 +1,39 @@
+{
+  "title": "裂",
+  "ns": 0,
+  "id": 26538,
+  "timestamp": 1537877974000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=衣06}}\n\n# {{defn|lang=ja|sort=衣06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れち\n|kanon=れつ\n|kun=さ-く, さ-ける\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|陰裂|いんれつ|[[pudendal cleft]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

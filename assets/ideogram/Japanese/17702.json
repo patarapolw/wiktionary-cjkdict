@@ -1,0 +1,54 @@
+{
+  "title": "棒",
+  "ns": 0,
+  "id": 17702,
+  "timestamp": 1552565433000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=木08}}\n\n# [[pole]], [[stick]], [[staff]], [[rod]], [[cane]]\n# [[straight line]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぼう<ばう\n|kanon=ほう<はう\n|kun=つえ-<つ.ゑ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|ぼう|yomi=o}}\nFrom {{der|ja|ltc|sort=ぼう|-}} {{ltc-l|棒}}. The ''{{ll|ja|呉音|goon}}'' pronunciation, so likely an earlier borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=go|ぼう|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぼう|hhira=ばう}}\n\n# a staff, measuring 6 ''{{ll|ja|尺|shaku}}'' (about 1.8 meters), used in martial arts such as {{m|ja|棒術|tr=bōjutsu}}\n# {{lb|ja|by extension}} [[stick]]-like or [[long]], [[cylindrical]] item: [[pointer]], [[pole]], [[rod]], etc.\n#: {{ja-usex|'''棒'''を持つ|'''ぼう''' を もつ|to hold a '''pointer'''}}\n#: {{ja-usex|うまい'''棒'''|^うまい'''ぼう'''|{{w|Umaibō}} (a cylinder-shaped snack food)}}\n#: {{ja-usex|'''棒'''のぼり|'''ぼう'''-のぼり|pole climbing (found in elementary schools to train the strength of students)}}\n# {{lb|ja|by extension}} a [[straight line]]; [[bar]]\n# {{lb|ja|by extension}} state of being in a \"straight line\"; [[continuous]]\n# [[taut]] [[leg]] [[muscle]]s due to [[fatigue]] {{rfv-sense|ja}}\n# {{lb|ja|Buddhism|sort=ほう}} staff used by practitioners of Zen Buddhism"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

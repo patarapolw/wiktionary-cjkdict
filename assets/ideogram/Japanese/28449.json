@@ -1,0 +1,39 @@
+{
+  "title": "輯",
+  "ns": 0,
+  "id": 28449,
+  "timestamp": 1532223804000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|辑}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=車09}}\n\n# {{defn|lang=ja|sort=車09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しゅう\n|kun=あつ-める, やわ-らぐ\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|特輯|とくしゅう}}\n* {{ja-r|編輯|へんしゅう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

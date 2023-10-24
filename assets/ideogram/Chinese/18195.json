@@ -1,0 +1,59 @@
+{
+  "title": "檨",
+  "ns": 0,
+  "id": 18195,
+  "timestamp": 1553309514000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8EB}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=榱}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|木|羨|ls=psc|c1=s|c2=p|t1=tree|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "An Austroasiatic substrate loanword; compare Khmer {{m|km|ស្វាយ||mango}}, Vietnamese {{m|vi|xoài||mango}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shē\n|c=ce1,se1\n|h=pfs=sôn\n|md=suông\n|mn=xm,zz,kh,tp,tn,tc,sx,yl,km,hc:soāiⁿ/qz,mg:soān/lk:soǎiⁿ\n|mn-t=suain7\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Hakka|Min}} [[mango]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|芒果}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* → Tsou: {{l|tsu|suai}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|檨仔|番檨|香檨|肉檨|木檨|蘋果檨|生檨仔|檨仔青|土檨仔|臺灣檨|牛𡳞脬檨}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

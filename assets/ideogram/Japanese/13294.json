@@ -1,0 +1,39 @@
+{
+  "title": "塙",
+  "ns": 0,
+  "id": 13294,
+  "timestamp": 1511757153000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土10}}\n\n# {{defn|lang=ja|sort=土10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=かく\n|kanon=かく\n|on=こう\n|kun=かた-い, はなわ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|はなわ|proper}}\n\n# a place name\n# {{surname|lang=ja|sort=はなわ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

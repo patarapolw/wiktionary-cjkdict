@@ -1,0 +1,39 @@
+{
+  "title": "軅",
+  "ns": 0,
+  "id": 28306,
+  "timestamp": 1520767388000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=身12}}\n\n# {{defn|lang=ja|sort=身12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=やがて\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Erroneous form of the [[kokuji]] {{m|ja|軈}}.\n\n[[Category:Ghost kanji]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

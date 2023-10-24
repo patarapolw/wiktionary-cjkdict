@@ -1,0 +1,56 @@
+{
+  "title": "鰤",
+  "ns": 0,
+  "id": 32266,
+  "timestamp": 1504724645000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚10}}\n\n# [[Japanese amberjack]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=し|kanon=し|kun=ぶり-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|yomi=k|ぶり}}\n{{swp|ブリ|lang=ja}}\n{{ja-pron|ぶり|acc=1|acc_ref=NHK|y=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぶり|ブリ}}\n\n# a [[Japanese amberjack]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|魬|はまち|[[young]] [[yellowtail]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{C|ja|Jackfish|sort=ふり'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

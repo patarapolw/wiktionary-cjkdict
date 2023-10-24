@@ -1,0 +1,39 @@
+{
+  "title": "餓",
+  "ns": 0,
+  "id": 31390,
+  "timestamp": 1542536498000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|饿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=食07}}\n\n# [[hungry]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=が\n|kanon=が\n|kun=う-える\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|餓鬼|がき}}\n* {{ja-r|餓死|がし}}\n* {{ja-r|餓狼|がろう|gloss=[[hungry]] [[wolf]]}}\n* {{ja-r|飢餓|きが}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

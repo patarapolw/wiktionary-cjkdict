@@ -1,0 +1,66 @@
+{
+  "title": "同",
+  "ns": 0,
+  "id": 12105,
+  "timestamp": 1549357474000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|仝|衕|何|向|回|伺|々}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=口03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ずう<づう\n|kanon=とう\n|kanyoon=どう\n|kun=おな-じ, とも-に\n|nanori=あつ, あつむ, とも, ひとし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|同床|どうしょう}}: [[sharing]] a [[bed]]\n\n{{ja-kanjitab|どう|yomi=kanyoon}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=とう'}} {{m|zh|同|tr=duwng||same}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|どう|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|どう}}\n\n# [[same]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* [[仝]], [[々]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "承",
+  "ns": 0,
+  "id": 16027,
+  "timestamp": 1538077033000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=手04}}\n\n# acquiesce",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<じよう\n|kanon=しょう<しよう\n|kun=うけたまわ-る<うけたまは-る, うけたまわり-<うけたまはり-, うけたまわ-り<うけたまは-り, う-ける, ささ-げる, とど-める, たす-ける, こ-らす, つい-で, すく-う<すく-ふ\n|nanori=こと, すけ, つぎ, つぐ, よし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|承諾|しょうだく}}: consent, acquiescence\n* {{ja-r|承知|しょうち}}: consent, acceptance\n* {{ja-r|承認|しょうにん}}: recognition, acknowledgment\n* {{ja-r|承服|しょうふく}}: compliance, consent\n* {{ja-r|承継|しょうけい}}: succession, accession\n* {{ja-r|継承|けいしょう}}: inheritance, succession\n* {{ja-r|伝承|でんしょう}}: transmission, hand down\n* {{ja-r|了承|りょうしょう}}: acknowledgment\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This may be the only kanji with a six-{{l|en|mora}} reading, of ''uketamawari''. However, this reading is more often spelled with the final ''-ri'' spelled in kana (as {{m|ja|承り}}) to clarify and disambiguate the reading of the single kanji.\n\nThis kanji is also one of very few kanji with five-{{l|en|mora}} readings, and the only verb, namely {{m|ja|承る|tr=uketamawaru|pos=with the kanji comprising the five-mora ''uketamawa-'' part}}. Other kanji with five-mora readings are the nouns {{m|ja|志|tr=kokorozashi}}, {{m|ja|詔}} / {{m|ja|勅|tr=mikotonori}}, and {{m|ja|宰}} / {{m|ja|司|tr=mikotomochi}}. No kanji have a reading of more than six morae."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

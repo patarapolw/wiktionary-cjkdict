@@ -1,0 +1,51 @@
+{
+  "title": "諱",
+  "ns": 0,
+  "id": 27116,
+  "timestamp": 1553569893000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|讳}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言09}}\n\n# posthumous (real) name",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=き\n|kun=い-む, いみな-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|いみな|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|忌み名}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いみな}}\n\n# {{rfdef|ja}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

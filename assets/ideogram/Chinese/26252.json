@@ -1,0 +1,49 @@
+{
+  "title": "蟀",
+  "ns": 0,
+  "id": 26252,
+  "timestamp": 1549127360000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𧍓}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|虫|率|ls=psc|c1=s|c2=p|t1=insect}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shuài\n|c=seot1,zeot1\n|c_note=zeot1 - vernacular\n|mn=sut\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[cricket]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|蟋蟀}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|蟋蟀草|鬥蟋蟀|蟋蟀}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

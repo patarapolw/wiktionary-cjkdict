@@ -1,0 +1,97 @@
+{
+  "title": "箒",
+  "ns": 0,
+  "id": 22816,
+  "timestamp": 1535829969000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹08}}\n\n# [[broom]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す\n|kanon=しゅう\n|kanyoon=そう\n|kun=ほうき-\n}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ほうき|yomi=k}}\nAlteration of ''hahaki''.<ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ほうき|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|帚}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほうき|hhira=はうき}}\n\n# [[broom]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|草箒|くさぼうき}}\n* {{ja-r|桑箒|くわぼうき}}, {{ja-r|鍬箒|くわぼうき}}\n* {{ja-r|毛箒|けぼうき}}: [[feather]] [[brush]]; [[hairbrush]]\n* {{ja-r|高野箒|こうやぼうき}}\n* {{ja-r|酒箒|さかぼうき}}\n* {{ja-r|座箒|ざぼうき}}\n* {{ja-r|稭箒|しべぼうき}}\n* {{ja-r|棕櫚箒|しゅろぼうき}}\n* {{ja-r|竹箒|たけぼうき}}\n* {{ja-r|玉箒|たまぼうき}}\n* {{ja-r|茶箒|ちゃぼうき}}\n* {{ja-r|手箒|てぼうき}}\n* {{ja-r|鳥箒|とりぼうき}}\n* {{ja-r|羽箒|はねぼうき}}\n* {{ja-r|羽箒|はぼうき}}\n* {{ja-r|箒神|ほうきがみ}}\n* {{ja-r|箒木|ほうきぎ}}\n* {{ja-r|箒草|ほうきぐさ}}\n* {{ja-r|箒鞘|ほうきざや}}\n* {{ja-r|箒尻|ほうきじり}}\n* {{ja-r|箒茸|ほうきたけ}}\n* {{ja-r|箒星|ほうきぼし}}: [[comet]]\n* {{ja-r|箒虫|ほうきむし}}\n* {{ja-r|箒目|ほうきめ}}\n* {{ja-r|箒蜀黍|ほうきもろこし}}\n* {{ja-r|目箒|めぼうき}}: [[basil]]\n* {{ja-r|蕨箒|わらびぼうき}}\n* {{ja-r|藁箒|わらぼうき}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ははき|yomi=irr}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|ははき}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|帚}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ははき}}\n\n# [[broom]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|玉箒|たまばはき}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

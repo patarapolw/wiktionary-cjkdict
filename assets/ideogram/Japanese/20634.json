@@ -1,0 +1,68 @@
+{
+  "title": "獺",
+  "ns": 0,
+  "id": 20634,
+  "timestamp": 1553948220000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|獭}}\n{{character info/new}}\n{{character info|0x2F928}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=犬16}}\n\n# [[otter]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たち\n|kanon=たつ\n|kanyoon=だつ\n|kun=うそ-, おそ-<をそ-, かわうそ-<かはうそ-, かわおそ-<かはをそ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|おそ|yomi=k}}\n{{ja-kanjitab|うそ|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=a|y=k|うそ}}\n* {{homophone|lang=ja|嘘|鷽|sort=うそ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うそ}} {{ja-altread|hira=おそ|hhira=をそ}}\n\n# an [[otter]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かわおそ|yomi=k}}\n{{ja-kanjitab|かわうそ|yomi=k}}\n{{compound|ja|川|獺|tr1=kawa|t1=[[river]]|tr2=uso|t2=[[otter]]|sort=かわうそ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=h|y=k|かわうそ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かわうそ|カワウソ|hhira=かはうそ}}<br>{{ja-altread|hira=かわおそ|kata=カワオソ|hhira=かはをそ}}\n\n# {{alternative spelling of|川獺|lang=ja||[[otter]]}}\n\n[[Category:ja:Mustelids|うそ]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

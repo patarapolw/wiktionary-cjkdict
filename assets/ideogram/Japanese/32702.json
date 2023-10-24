@@ -1,0 +1,170 @@
+{
+  "title": "鶴",
+  "ns": 0,
+  "id": 32702,
+  "timestamp": 1546926004000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鹤}}\n{{character info/new}}\n{{character info/new|0xfa2d}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=鳥10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がく\n|kanon=かく\n|kun=つる-, たず-, つ-\n|nanori=たず, ず, か, つ, づ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n[[File:Grus_japonensis_in_flight_at_Akan_International_Crane_Center.jpg|thumb|250px|{{lang|ja|鶴}} (''tazu'', ''tsuru''): the Japanese crane, ''[[Grus japonensis]]'']]\n{{Commonscat|Gruidae}}\n[[File:Origami-crane.jpg|thumb|250px|{{lang|ja|鶴}} (''tsuru''): a paper [[origami]] crane]]\n{{Commonscat|Origami crane}}\n[[File:Japanese_crest_Tsuru_no_Maru.svg|thumb|250px|{{lang|ja|鶴}} (''tsuru''): a crane {{m|ja|家紋|tr=kamon||family crest}}]]\n{{Commonscat|Tsuru mon (Japanese crests of crane)}}\n</div>\n{{ja-kanjitab|たず|yomi=k}}\nFrom {{der|ja|ojp|-|sort=たず}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> By one analysis, this may be a compound of {{affix|ja|sort=たず|田|tr1=ta|t1=rice paddy|pos1=a common place where cranes can be found|つ|tr2=tsu|t2=crane? large bird?}}. {{rendaku2|sort=たず|tsu|dzu, {{upright|modern}} zu}} This ''tsu'' is probably the ''tsu'' in ''tsuru'' (see below).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{l|ja|sc=Latn|訓読み|Kun'yomi}}\n* {{IPA|[ta̠zɯᵝ]|[ta̠d͡zɯᵝ]|lang=ja}} {{qualifier|dialect}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|田鶴}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たず|hhira=たづ}}\n\n# {{lb|ja|sort=たず|archaic|poetic}} a [[crane]]: a large, long-legged and long-necked [[bird]], member of the [[family]] or [[clade]] ''[[Gruidae]]''\n#* {{RQ:Manyoshu|7|1199}}; [http://etext.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1199 text here]\n#*: 藻苅舟 奥榜来良之 妹之嶋 形見之浦尓 '''鶴'''翔所見\n#*:: もかりふね おきこぎくらし いもがしま かたみのうらに '''たづ'''かけるみゆ\n#*:: ''Mo kari fune / oki kogi kurashi / Imogashima / Katami no ura ni / '''tazu''' kakeru miyu''\n#*:: Rowing the seaweed-gathering boat out to sea and back again, I saw the '''cranes''' soaring by Katami inlet on Imogashima",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This reading is now reserved for poetry.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鶴が音|たず が ね}}: a [[crane]]'s [[call]], the [[sound]] made by a crane\n* {{ja-r|鶴群|たず むら}}: a [[flock]] or [[crane]]s\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|つる|yomi=k}}\n{{wikipedia|lang=ja|ツル}}\nGiven a crane's long neck and how the bird hunts, possibly related to {{m|ja|蔓|tr=tsuru||vine}}; {{m|ja|弦|tr=tsuru||bowstring; musical instrument string}}; {{ja-l|釣る}}, {{m|ja|吊る|tr=tsuru||to hang down; to string up; to fish}}. Given how cranes flock together, possibly related also to {{m|ja|連る|tr=tsuru}}, older root form of modern verb {{m|ja|連れる|tr=tsureru||to accompany}}. That said, {{ja-l|連る}} also appears to ultimately derive from {{m|ja|蔓|tr=tsuru||vine}}.\n\nVovin (2008) considers it possibly related to an ancestor of {{cog|ko|두루미|tr=durumi||crane}}, with a root-final ''-m'' vanishing later, leaving only a Kansai accent pattern behind.<ref>{{cite-book|title=Proto-Japanese: Issues and Prospects|editors=Bjarke Frellesvig and John Whitman|year=2008|chapter=7|section=Proto-Japanese beyond the accent system|publisher=John Benjamins Publishing Company|location=Amsterdam; Philadelphia|pages=140-156|chapterurl=https://www.academia.edu/19253123/Proto-Japanese_beyond_the_accent_system}}</ref>\n\nThe reading ''tsuru'' is first seen used to mean {{m|en|crane|a crane|pos=the bird}} from the late [[w:Heian period|Heian period]]. Prior to that time, the only reading used for the bird was ''tazu''. However, the kanji {{lang|ja|鶴}} was used in the [[w:Man'yōshū|''Man'yōshū'']] as a phonetic [[ateji]] for the verb ending ''-tsuru'', suggesting that ''tsuru'' may have already existed as an everyday term meaning {{m|en|crane|a crane}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つる|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つる|ツル}}\n\n# a [[crane]]: a large, long-legged and long-necked [[bird]], member of the [[family]] or [[clade]] ''[[Gruidae]]''\n# short for {{ja-l|折鶴||orizuru}}: a [[paper]] [[crane]], the archetypical [[origami]] design\n# short for {{ja-l|鶴嘴||tsuruhashi}}: a [[pickaxe]]\n# a {{m|ja|家紋|tr=kamon||family crest}} depicting a [[crane]]\n# {{lb|ja|euphemism|sort=つる}} [[white]] [[hair]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "As with many words that name organisms, this word is often written in katakana when used in biology contexts."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鶴が城|^つる が ^じょう}}: the [[castle]] in [[w:Aizu Wakamatsu|Aizu Wakamatsu]], [[w:Fukushima Prefecture|Fukushima Prefecture]]\n* {{ja-r|鶴三|^つるぞう}}: a male given name\n{{der-mid}}\n* {{ja-r|姉羽鶴|あねはづる}}: a smaller species of [[crane]], ''[[Anthropoides virgo]]''\n* {{ja-r|紅鶴|べにづる}}: [[flamingo]]\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|凍て鶴|いてづる}}: “frozen crane” → a metaphor for something [[stock still]] and unmoving, from the way a crane will [[freeze]] when hunting"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|crane crest}} {{ja-r|鶴紋|つる もん}}\n* {{sense|white hair}} {{ja-r|白髪|しらが}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|つ|yomi=k}}\n{{der|ja|ojp|-|sort=つ}}. Only found in compounds. Uncertain derivation. May be a truncation of ''tsuru'', or an ancient form of its own. Not used in modern Japanese.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{l|ja|sc=Latn|訓読み|Kun'yomi}}\n* {{IPA|[t͡sɯᵝ]|[d͡zɯᵝ]|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つ}}\n\n# {{lb|ja|sort=つ|obsolete}} a [[crane]]: a large, long-legged and long-necked [[bird]], member of the [[family]] or [[clade]] ''[[Gruidae]]''",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|鶴|たず}}, {{ja-r|田鶴|たず}}: a [[crane]]\n* {{ja-r|葦田鶴|あしたず}}: a [[crane]]"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Appears as {{ja-l|ず}} (''zu'') in compounds due to [[rendaku]]."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|かく|yomi=o}}\nFrom {{der|ja|ltc|-|sort=かく}} {{m|ltc|鶴|tr=hak}}. Compare modern {{cog|cmn|鶴|tr=hè}}. Only found in compounds.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|かく}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かく}}\n\n# a [[crane]]: a large, long-legged and long-necked [[bird]], member of the [[family]] or [[clade]] ''[[Gruidae]]''",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鶴駕|かくが}}: the [[imperial]] [[prince]]'s [[carriage]]; a [[mythical]] [[sage]]'s [[vehicle]]\n* {{ja-r|鶴膝|かくしつ}}: a [[wasting]] [[disease]] whereby the [[leg]]s [[wither]], resembling a [[crane]]s legs\n* {{ja-r|鶴首|かくしゅ}}: the act of [[wait]]ing [[impatiently]] in [[anticipation]] of something, [[wait]]ing [[with bated breath]]\n* {{ja-r|鶴寿|かくじゅ}}: [[longevity]], [[long]] [[life]]\n* {{ja-r|鶴氅|かくしょう}}: a type of [[robe]] with [[crane]] [[feather]]s woven right into the fabric\n* {{ja-r|鶴髪|かくはつ}}: [[pure]] [[white]] [[hair]], similar to the pure white of a [[crane]]'s [[wing]]\n* {{ja-r|鶴髪童顔|かくはつ どうがん}}: someone with [[white]] [[hair]] but a [[youthful]] [[face]]\n* {{ja-r|鶴望|かくぼう}}: the act of [[wait]]ing [[impatiently]] in [[anticipation]] of something, [[wait]]ing [[with bated breath]]\n* {{ja-r|鶴翼|かくよく}}: a [[military]] [[formation]] with [[wing]]s on the [[flank]]s, similar to the shape of a [[crane]]'s outspread [[wing]]s\n* {{ja-r|鶴林|^かくりん}}: a [[forest]] in India where [[Sakyamuni]] died\n* {{ja-r|鶴林寺|^かくりんじ}}: a [[Buddhist]] [[temple]] in [[w:Hyōgo Prefecture|Hyōgo Prefecture]]\n{{der-mid}}\n* {{ja-r|一鶴|いっかく}}: a [[single]] [[crane]] {{qualifier|rare, only found in idioms}}\n* {{ja-r|雲鶴|うんかく}}: [[cloud]]s and [[crane]]s; a common [[design]] [[pattern]] using clouds and cranes; a kind of [[Korean]] [[celadon]] [[bowl]]\n* {{ja-r|雲中白鶴|うんちゅう はっかく}}: [[white]] [[crane]]s flying in the [[cloud]]s; a euphemism for a person of [[noble]] [[character]]\n* {{ja-r|亀鶴|きかく}}: a [[turtle]] and a [[crane]], symbols of [[longevity]]\n* {{ja-r|群鶴|ぐんかく}}: a [[flock]] of [[crane]]s\n* {{ja-r|玄鶴|げんかく}}: a [[black]] [[crane]]; an [[old]] crane\n* {{ja-r|西鶴|^さいかく}}: a male given name\n* {{ja-r|夜鶴|やかく}}: a [[crane]] in the [[night]], particularly a crane's [[call]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Further reading",
+              "text": "* {{projectlink|wikipedia|lang=ja|折鶴}} {{qualifier|origami}}\n* {{projectlink|wikipedia|Orizuru}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Cranes (birds)|つる]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

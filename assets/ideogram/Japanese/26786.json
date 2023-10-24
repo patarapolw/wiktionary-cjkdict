@@ -1,0 +1,66 @@
+{
+  "title": "親",
+  "ns": 0,
+  "id": 26786,
+  "timestamp": 1553973585000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|亲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=見09}}\n\n# [[parent]], [[elder]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん\n|kanon=しん\n|kun=おや-, した-しい, した-しむ, みずか-ら\n|nanori=ぎ, ちか, のり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* [[親方]]\n* [[親子]]\n* [[親父]]\n* [[親潮]]\n* [[親指]]\n* [[親愛]]\n* [[親戚]]\n* [[親切]]\n* [[親善]]\n* [[親等]]\n* [[親日]]\n* [[親王]]\n* [[親睦]]\n* [[親身]]\n* [[親密]]\n* [[親友]]\n* [[親類]]\n* [[両親]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|おや}}\nFrom {{etyl|ojp|ja|sort=おや}}. Cognate with or derived from {{etyl|ojp|-}} verb {{m|ja|老ゆ|tr=oyu||to become old|pos=modern {{m|ja|老いる}} ''oiru''}}, from the idea of one's {{m|en|elder|elders}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|おや|acc=2|acc_ref=DJR|a=Ja-oya-parent.ogg}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おや}}\n\n# a [[parent]]\n#* {{quote-book\n|lang=ja\n|location=Tokyo\n|publisher=Shogakukan\n|genre=fiction\n||{{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}\n|series={{wj|藤子・F・不二雄のSF短編|藤子不二雄少年SF短編集}}\n|{{wj|ポストの中の明日}}\n|trans-title=Post-Mid-Tomorrow\n|date=Jul 30 1988\n|edition=10th\n|origdate=Jul 25 1984\n|isbn=4-09-140702-1\n|volume=2\n|seriesvolume=2\n||112\n|chapter={{wj|世界名作童話|[世](せ)[界](かい)[名](めい)[作](さく)[童](どう)[話](わ)[第](だい)１[巻](かん)　みにくいアヒルの[子](こ)}}\n|trans-chapter=World’s Renowned Fairy Tales Book 1: {{w|The Ugly Duckling}}\n}}\n#*: {{ja-usex|ぼく の ほんと の '''おや''' は だれ かしら。|What are my real parents like?}}\n# the [[originator]] or [[founder]] of a [[school]], [[company]], or other [[organization]]\n# the [[boss]] or [[leader]]\n# the [[larger]] one of several objects of the same [[kind]]\n# {{lb|ja|sort=おや|gambling}} the [[dealer]], the [[banker]]\n# one's [[ancestor]]s, one's [[forebear]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "{{der-top}}\n* {{ja-r|'''親''' の 心 子 知らず|'''おや''' の こころ こ しらず}}: “the child doesn't know the parent's heart” → the child doesn't know the pain they cause their parents\n* {{ja-r|'''親''' の 光 は 七 光|'''おや''' の ひかり は なな ひかり}}: “a parent's bright light is seven bright lights” → a parent's social standing can be a huge influence on a person as they come into adulthood\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|sort=おや}}\n{{C|ja|Parents|sort=おや}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

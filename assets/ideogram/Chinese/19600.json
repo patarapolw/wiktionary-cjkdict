@@ -1,0 +1,44 @@
+{
+  "title": "澪",
+  "ns": 0,
+  "id": 19600,
+  "timestamp": 1552873690000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=líng\n|c=ling4\n|mc=y\n|oc=y\n|cat=a,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{n-g|The name of a body of water.}} {{attention|zh|is this the 澪渠 below?}}\n# {{zh-alt-form|泠}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|澪渠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C06468}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

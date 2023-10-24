@@ -1,0 +1,44 @@
+{
+  "title": "敢",
+  "ns": 0,
+  "id": 16774,
+  "timestamp": 1537645592000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=攵12|grade=c}}\n\n# daring, brave, bold\n# sad, tragic, pitiful",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=かん\n|kun=あ-えて, あ-えない, あ-えず\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|敢行|かんこう}}\n* {{ja-r|敢然|かんぜん}}\n* {{ja-r|敢闘|かんとう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=343A\n|ku=20-26\n|shift=8AB8\n|euc=B4BA\n|freq=1,859\n|nelson=2,054\n|newnelson=2,350\n|halpern=1,706\n|kld=1,121\n|heisig=826\n|tuttle=4i8.5\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

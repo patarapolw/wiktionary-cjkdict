@@ -1,0 +1,34 @@
+{
+  "title": "鴬",
+  "ns": 0,
+  "id": 32564,
+  "timestamp": 1541301201000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鶯}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|鴬|鶯}}\n{{ja-kanji forms|鴬|鷽}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥05}}\n\n# {{defn|lang=ja|sort=鳥05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "As a {{w|shinjitai}} form of {{ja-l|鶯}}:\n{{ja-readings\n|goon=よう<やう\n|kanon=おう<あう\n|kun=うぐいす-<うぐひす-\n}}\nAs a {{w|shinjitai}} form of {{ja-l|鷽}}:\n{{ja-readings\n|goon=がく\n|kanon=かく\n|kun=うそ-}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

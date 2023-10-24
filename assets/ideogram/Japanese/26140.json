@@ -1,0 +1,87 @@
+{
+  "title": "蝮",
+  "ns": 0,
+  "id": 26140,
+  "timestamp": 1551359104000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫09}}\n\n# [[pit viper]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふく\n|kanon=ふく\n|kun=まむし-\n|nanori=<!--たちひ, たじい, たじひ, たちい-->\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|はみ}}\n{{IPAfont|/pami<sub>2</sub>/}} → {{IPAchar|/pami/}} → {{IPAchar|/fami/}} → {{IPAchar|/hami/}}\n\nFrom {{inh|ja|ojp|sort=はみ|-}}. Appears in the ''{{w|Wamyō Ruijushō}}'' dictionary of 938 CE.<ref name=DJR>{{R:Daijirin}}</ref>\n\n{{rfe|ja|derivations? also mi<sub>2</sub> might be wrong/}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|はみ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はみ|ハミ}}\n# {{lb|ja|dated|possibly|_|obsolete|sort=はみ}} [[mamushi]], [[pit viper]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|くちはみ}}, {{ja-r|くちばみ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|まむし}}\nCompound of {{m|ja|真|tr=ma||[[true]]}} + {{m|ja|虫|tr=mushi||[[snake]]}}.<ref name=DJR>{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|まむし|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まむし|マムシ}}\n# {{short for|lang=ja|日本蝮||pos=[[mamushi]] ({{taxlink|Gloydius blomhoffii|species|ver=171011}})}}\n# {{lb|ja|by extension}} a [[pit viper]], [[adder]]\n#* {{quote-book|||Vol.4\n|||date=Jul 22 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|フレイム・ヴァイパー}}\n|trans-chapter=Flame Viper}}\n#*: {{ja-usex|シュルシュルと素%早く動き、口から火%炎をはく'''マムシ'''。|シュルシュル と す%ばやく うごき、くち から か%えん を はく '''マムシ'''。|A pit viper that spits fire and slithers swiftly.}}\n# person who is feared by others but gives no harm {{rfv-sense|ja}}\n# {{short for|lang=ja|まむし指}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|蝮%草|マムシ%グサ|pos={{taxlink|Arisaema serratum|species|ver=171011}}}}\n* {{ja-r|蝮%丼|まむし%-どん}}, {{ja-r|蝮%丼|まむし%-どんぶり|pos=alternative name of {{ja-l|鰻丼}}}}\n* {{ja-r|マムシ属|マムシ-ぞく}}\n* {{ja-r|日%本%蝮|^ニ%ホン% マムシ|[[mamushi]]|pos={{taxlink|Gloydius blomhoffii|species|ver=171011}}}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

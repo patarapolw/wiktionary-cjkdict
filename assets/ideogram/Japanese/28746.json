@@ -1,0 +1,66 @@
+{
+  "title": "運",
+  "ns": 0,
+  "id": 28746,
+  "timestamp": 1549340199000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|运|連}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=辵09}}\n\n# to [[drive]]\n# to [[manage]], to [[run]]\n# to [[ship]], to [[transport]]\n# [[luck]], [[fortune]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=うん\n|kanon=うん\n|kun=はこ-ぶ, めぐ-る, めぐらす\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|うん|yomi=on}}\nFrom {{der|ja|ltc|sort=うん|-}} {{ltc-l|運}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|うん|acc=1|acc_ref=DJR|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うん}}\n\n# [[luck]], [[fortune]]\n#: {{ja-usex|'''運'''がいい人|'''うん''' が い.い ひと|a person who has good '''luck'''}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|うん}}\n\n# [[move]]\n# [[carry]]; [[transport]]\n# [[put to work]]; [[operate]]\n# [[luck]]; [[fate]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|運動|うんどう}}: [[athletics]]\n* {{ja-r|運命|うんめい}}: [[fate]]\n* {{ja-r|運休|うんきゅう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

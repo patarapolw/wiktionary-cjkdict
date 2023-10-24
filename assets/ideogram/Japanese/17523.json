@@ -1,0 +1,39 @@
+{
+  "title": "校",
+  "ns": 0,
+  "id": 17523,
+  "timestamp": 1553766056000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=木06}}\n\n# school building",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう, ぎょう\n|kanon=こう\n|kun=かせ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|学校|がっこう}}: school\n* {{ja-r|校僕|こうぼく}}: school custodian\n* {{ja-r|校舎|こうしゃ}}: school building\n* {{ja-r|校門|こうもん}}: school gate"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

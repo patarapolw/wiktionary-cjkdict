@@ -1,0 +1,75 @@
+{
+  "title": "創",
+  "ns": 0,
+  "id": 11674,
+  "timestamp": 1550025604000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|创|剙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=刀10}}\n\n# [[injury]], [[wound]]\n# [[originate]], [[start]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "From {{w|Middle Chinese}} {{ltc-l|創|id=1|[[injury]], [[wound]]}}:\n{{ja-readings\n|goon=しょう<しやう\n|kanon=そう<さう\n|kun=きず-, きずつ-ける\n}}\nFrom {{w|Middle Chinese}} {{ltc-l|創|id=2|[[originate]], [[start]]}}:\n{{ja-readings\n|goon=しょう<しやう\n|kanon=そう<さう\n|kun=つく-る, はじ-める\n|nanori=はじむ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|創作|そうさく|[[create]]}}\n* {{ja-r|創始|そうし|[[initiating]]}}\n* {{ja-r|創唱|そうしょう}}\n* {{ja-r|創造|そうぞう|[[creation]]}}\n* {{ja-r|創世|そうせい}}\n* {{ja-r|創薬|そうやく}}\n* {{ja-r|開創|かいそう}}\n* {{ja-r|挫創|ざそう}}\n* {{ja-r|射創|しゃそう}}\n* {{ja-r|刃創|じんそう}}\n* {{ja-r|打%撲%創|だ%ぼく%そう}}\n* {{ja-r|刀創|とうそう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|そう|yomi=kanon}}\n{{IPAchar|/t͡ʃau/}} → {{IPAchar|/sau/}} → {{IPAchar|/sɔː/}} → {{IPAchar|/soː/}}\n\nFrom {{bor|ja|ltc|sort=さう|-}} {{ltc-l|創}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|そう|hhira=さう}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=そう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|つくる|yomi=i}}\n\nNominalization of verb {{m|ja|創る|tr=tsukuru||to [[create]] ([[new]] [[thing]]s)}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|つくる}}\n\n# {{given name|female|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|はじめ|yomi=i}}\n\nNominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|始める|tr=hajimeru||to [[begin]], [[start]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|はじめ}}\n\n# {{given name|female|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

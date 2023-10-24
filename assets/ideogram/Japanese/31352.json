@@ -1,0 +1,140 @@
+{
+  "title": "飯",
+  "ns": 0,
+  "id": 31352,
+  "timestamp": 1553858679000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|饭}}\n{{character info/new}}\n{{character info/new|0xfa2a}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=食04}}\n\n# [[cook]]ed [[grain]]s {{gl|[[rice]], etc.}}\n# [[meal]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぼん\n|kanon=はん\n|kun=めし-, い.い-<いひ-, く-らう<く-らふ, く-らわす<く-らはす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|飯台|はんだい}}\n* {{ja-r|飯店|はんてん}}\n* {{ja-r|飯場|はんば}}\n* {{ja-r|飯粒|はんりゅう}}\n* {{ja-r|一飯|いっぱん}}\n* {{ja-r|朝飯|あさはん}}\n* {{ja-r|椀飯|おうばん|rom=-}}, {{ja-r|埦飯|おうばん|rom=-}}, {{ja-r|垸飯|おうばん}}\n* {{ja-r|ご飯|ごはん}}, {{ja-r|御飯|ごはん}}\n* {{ja-r|残飯|ざんぱん}}\n* {{ja-r|浄飯王|^じょうぼんのう}}\n* {{ja-r|炊飯|すいはん}}\n* {{ja-r|赤飯|せきはん}}\n* {{ja-r|粗飯|そはん|rom=-}}, {{ja-r|麁飯|そはん}}\n* {{ja-r|中飯|ちゅうはん|rom=-}}, {{ja-r|昼飯|ちゅうはん}}\n* {{ja-r|麦飯|ばくはん}}\n* {{ja-r|噴飯|ふんぱん}}\n* {{ja-r|芳飯|ほうはん|rom=-}}, {{ja-r|苞飯|ほうはん}}\n* {{ja-r|米飯|べいはん}}\n* {{ja-r|夕飯|ゆうはん}}\n* {{ja-r|三飯|さば|rom=-}}, {{ja-r|散飯|さば|rom=-}}, {{ja-r|生飯|さば}}\n* {{ja-r|炒%飯|チャー%ハン}}\n* {{ja-r|飯匙倩|ハブ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|めし|yomi=k}}\n\nThe {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|召す|tr=mesu||to [[call]]}}.<ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|めし|acc=2|acc_ref=DJR,SMK2,ZAJ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|めし}}\n\n# [[cooked]] [[grain]]s, ''especially'' [[cooked rice|cooked]] [[rice]]\n# {{lb|ja|sort=めし|informal}} a [[meal]]\n#: {{ja-usex|'''飯'''を食う|'''めし''' を く.う|eat a '''meal'''}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This is an informal way to refer to food, and {{m|ja|食う|tr=kuu}} is a correspondingly informal way to say \"[[eat]]\"."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|飯粒|めしつぶ}}\n* {{ja-r|朝飯|あさめし}}\n* {{ja-r|煎り飯|いりめし|rom=-}}, {{ja-r|炒り飯|いりめし}}\n* {{ja-r|釜飯|かまめし}}\n* {{ja-r|五%目 飯|ご%もく めし}}\n* {{ja-r|強飯|こわめし}}\n* {{ja-r|猫飯|ねこめし}}\n* {{ja-r|早飯|はやめし}}\n* {{ja-r|昼飯|ひるめし}}\n* {{ja-r|麦飯|むぎめし}}\n* {{ja-r|無駄 飯|むだ めし|rom=-}}, {{ja-r|徒 飯|むだ めし}}\n* {{ja-r|夕飯|ゆうめし}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|めし}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=めし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|いい|yomi=k}}\n{{IPAfont|⟨ipi<sub>1</sub>⟩}} → *{{IPAchar|/ipʲi/}} → {{IPAchar|/ifi/}} → {{IPAchar|/iwi/}} → {{IPAchar|/iː/}}\n\nFrom {{inh|ja|ojp|sort=いい|-}}, also used as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨pi<sub>1</sub>⟩}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|い.い|hhira=いひ}}\n\n# {{lb|ja|sort=いい|archaic}} [[cooked]] [[grain]]s, ''especially'' [[cooked rice|cooked]] [[rice]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|飯窪|^い.いくぼ}}\n* {{ja-r|飯島|^い.いじま}}\n* {{ja-r|飯%粒|い.い%ぼ}}\n* {{ja-r|飯村|^い.いむら}}\n* {{ja-r|飯山|^い.いやま}}\n* {{ja-r|朝飯|あさい.い}}\n* {{ja-r|強飯|こわ-い.い}}\n* {{ja-r|続%飯|そく%い}}, {{ja-r|続%飯|そく%い.い}}\n* {{ja-r|姫飯|ひめ-い.い}}\n* {{ja-r|麦飯|むぎ-い.い}}\n* {{ja-r|糯飯|もち-い.い}}\n** {{ja-r|餅|もち}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|い.い|hhira=いひ}}\n\n# {{surname|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|まま|yomi=i}}\n\n{{rfe|ja|sort=まま}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まま}}\n\n# ''Same as'' {{m|ja||めし|tr=meshi}} ''above''",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|飯%借り|まま%かり}}\n* {{ja-r|飯事|ままごと}}\n* {{ja-r|飯%子菜|ママ%コナ}}\n* {{ja-r|飯%焚き|まま%たき}}, {{ja-r|飯%炊き|まま%たき}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|まんま|yomi=i}}\n\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まんま}}\n\n# {{lb|ja|sort=まんま|usually|_|childish}} ''Same as'' {{m|ja||めし|tr=meshi}} ''above''",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|赤 飯|あか まんま}}, {{ja-r|赤の飯|あか の まんま}}\n* {{ja-r|御%飯|お%-まんま}}\n* {{ja-r|猫 飯|ねこ まんま}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

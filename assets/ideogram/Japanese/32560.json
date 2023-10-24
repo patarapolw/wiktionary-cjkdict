@@ -1,0 +1,117 @@
+{
+  "title": "鴨",
+  "ns": 0,
+  "id": 32560,
+  "timestamp": 1553876397000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鸭}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=鳥05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<えふ\n|kanon=おう<あふ\n|kun=かも-, あひる-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja|カモ}}\n{{wikipedia|Duck}}\n[[File:Anas_crecca_landing_on_the_water.JPG|thumb|250px|{{lang|ja|鴨}} (''kamo''): a pair of '''[[duck]]s'''.]]\n</div>\n{{ja-kanjitab|yomi=k|かも}}\n\n{{unk|ja|sort=かも}}. Possibly alteration of {{inh|ja|ojp|sort=かも|-}} {{m|ja|浮かむ|tr=ukamu||to float}}, modern {{m|ja|浮かぶ|tr=ukabu}}. Alternatively, may derive from {{bor|ja|ltc|sort=かも|-}} {{ltc-l|雁|a type of wild goose}}, borrowed with the [[漢音#Japanese|kan'on]] reading ''gan'', with initial ''g'' changing to ''k'' due to the avoidance of voiced stops at the start of Japanese words in older times, and final ''n'' changing to ''mu'' due to apparent lack of final ''n'' in {{cog|ojp|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kun|かも|acc=1|acc_ref=NHK,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鳧}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かも|カモ}}\n\n# a [[duck]]\n# {{lb|ja|sort=かも|slang}} {{qualifier|from the way ducks return to the same place and are thus easy to hunt}} a [[mark]] or easy [[target]] for a [[swindle]], someone who is likely to lose at [[gambling]] or other competition\n# {{lb|ja|sort=かも|slang}} {{qualifier|from the good flavor of duck meat}} short for {{m|ja|鴨の味|tr=kamo no aji||duck flavor}}: a very good [[flavor]]; by extension, any remarkably good [[sensation]] or [[feeling]], particularly describing happy [[married]] [[life]]\n# {{lb|ja|sort=かも|slang}} {{qualifier|from the uniform of black clothing}} short for {{m|ja|黒鴨|tr=kurogamo||black duck}}: a [[male]] [[servant]], such as a [[butler]] or [[chauffeur]] (compare English {{m|en|penguin}})",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "{{U:ja:biology|カモ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鴨る|かもる}}: “to make a duck of someone”: to [[skillfully]] or [[cunningly]] beat out an opponent, such as in [[gambling]] or a [[swindle]]\n* {{ja-r|黒鴨|くろがも}}: [[common]] [[scoter]]\n* {{ja-r|鴨嘴|かものはし}}: [[platypus]]\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|家鴨|あひる|rom=-}}, {{ja-r|鶩|あひる}}: a [[domestic duck]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|かも}}\n\nProbably from the ''duck'' sense above, in reference to the {{m|ja|鴨川|tr=Kamogawa|lit=duck river}} flowing through {{w|Kyoto}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かも}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|賀茂}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|かも}}\n\n# {{surname|lang=ja|sort=かも}}\n# any of various places, particularly in {{w|Kyoto}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|あひる}}\n\nRare alternative spelling for {{m|ja|家鴨|tr=ahiru}}.  See that entry for fuller details.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あひる|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あひる}}\n\n# {{lb|ja|sort=あひる|rare}} {{alternative spelling of|nocap=1|lang=ja|sort=あひる|家鴨}}: a [[domestic duck]], ''[[Anas platyrhynchos]] var. domesticus'', descended from the [[mallard]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Ducks|かも]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

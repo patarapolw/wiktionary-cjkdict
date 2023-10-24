@@ -1,0 +1,49 @@
+{
+  "title": "睫",
+  "ns": 0,
+  "id": 21720,
+  "timestamp": 1546578296000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=目08}}\n\n# [[eyelashes]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しょう\n|kun=まつげ-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{cite-book\n|last=Tsukishima\n|first=Hiroshi\n|title=Kojisho Ongi Shūsei 3: Daihannya-kyō Ongi, Daihannya-kyō Jishō\n|publisher=Kyūko Shoin\n|year=1978\n|location=Tōkyō\n|lang=ja\n|isbn=4-7629-3090-3\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Literally \"hair of eye\". Compound of {{m|ja|目|tr=ma||eye}}, {{m|ja|つ|tr=tsu|pos=genitive case}}, and {{m|ja|毛|tr=ke||hair}}. Final -ke voices to -ge due to [[w:Rendaku|rendaku]]."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まつげ}}\n\n# [[eyelash]]es\n#* c. '''790''': ''Daihannya-kyō Ongi'' (Ishiyamadera manuscript, page 34)\n#*: 眼睫 [...] 倭言'''麻都竒'''"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

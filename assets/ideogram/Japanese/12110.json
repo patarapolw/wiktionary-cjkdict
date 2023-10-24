@@ -1,0 +1,39 @@
+{
+  "title": "向",
+  "ns": 0,
+  "id": 12110,
+  "timestamp": 1544016142000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|何|同|回|嚮}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=口03}}\n\n# yonder\n# facing",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<かう\n|kanon=きょう<きやう\n|on=しょう<しやう\n|kun=む-く, む-かう<む-かふ, さきに\n}}\n\n{{attention|ja|okurigana for \"saki ni\"?}}\n{{attention|ja|what kind of on-reading is \"shō\"?}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|むかい|proper|hhira=むかひ}}\n\n# {{surname|lang=ja||sort=むかい}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "久",
+  "ns": 0,
+  "id": 10443,
+  "timestamp": 1550050489000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|乆}}\n{{character info/new}}\n<!-- may be replaced by zh-forms -->",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=丿02}}\n\n# [[long]] [[time]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=きゅう<きう\n|kun=ひさ-し.い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ja\n|{{ja-r|久%遠|く%おん}}\n|{{ja-r|久%慈%目|く%じ%め}}\n|{{ja-r|久%遠|きゅう%えん}}\n|{{ja-r|久%懐|きゅう%かい}}\n|{{ja-r|久%闊|きゅう%かつ}}, {{ja-r|久%濶|きゅう%かつ}}\n|{{ja-r|久%方|ひさ%かた}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|ひさし|proper}}\n\n# {{given name|male|lang=ja|sort=ひさし}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

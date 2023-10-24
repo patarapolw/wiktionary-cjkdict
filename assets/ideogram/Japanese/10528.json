@@ -1,0 +1,46 @@
+{
+  "title": "亞",
+  "ns": 0,
+  "id": 10528,
+  "timestamp": 1547455675000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|亚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|亜|亞}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=二06|shin=亜}}\n\n# rank\n# follow\n# [[sub-]] prefix",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え\n|kanon=あ, あつ, おう\n|kun=つ-ぎ, つ-ぐ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "{{ja-kref\n|jis=5033\n|ku=4819\n|shift=98b1\n|euc=D0B3\n|freq=''not ranked''\n|nelson=45\n|newnelson=82\n|halpern=3563\n|kld=''not listed''\n|heisig=''not listed''\n|tuttle=0a7.14\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* [[旧字体]] ([[kyūjitai]]) old form character\n* Also used phonetically for あ (a)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

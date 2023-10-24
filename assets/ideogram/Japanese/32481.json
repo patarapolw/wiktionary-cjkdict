@@ -1,0 +1,80 @@
+{
+  "title": "鳧",
+  "ns": 0,
+  "id": 32481,
+  "timestamp": 1553571660000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|凫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[file:Vanellus cinereus 02.JPG|thumb|right|200px|鳧(keri)]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=鳥02}}\n\n# [[grey]]-[[head]]ed [[lapwing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶ\n|kanon=ふ\n|kun=かも, けり, のがも\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|けり|yomi=k}}\n{{wikipedia|lang=ja|ケリ}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=2|y=k|けり}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|計里}}, {{ja-l|水札}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|けり|ケリ}}\n\n# a {{w|grey-headed lapwing}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|頭%黒%鶏冠%鳧|ズ%グロ% トサカ%ゲリ}}\n* {{ja-r|田%鳧|タ%ゲリ}}\n* {{ja-r|朱鷺%嘴%鳧|トキ%ハシ%ゲリ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かも|yomi=k}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=1|y=k|かも}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かも|カモ}}\n\n# {{alternative spelling of|鴨|lang=ja||[[duck]]}}\n\n[[Category:Japanese words with multiple readings]]\n[[Category:ja:Shorebirds|けり]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

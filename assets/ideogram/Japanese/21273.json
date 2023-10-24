@@ -1,0 +1,66 @@
+{
+  "title": "痔",
+  "ns": 0,
+  "id": 21273,
+  "timestamp": 1533446971000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=疒06}}\n\n# [[illness]] in the [[anal]] [[region]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ<ぢ\n|kanon=ち\n|kun=しもがさ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|痔核|じかく}}\n* {{ja-r|痔血|じけつ}}\n* {{ja-r|痔疾|じしつ}}\n* {{ja-r|痔裂|じれつ}}\n* {{ja-r|痔瘻|じろう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja}}\n{{wp|Hemmorhoid}}\n</div>\n{{ja-kanjitab|じ|yomi=o}}\nFrom {{bor|ja|ltc|sort=し'|-}} {{ltc-l|痔}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=go|じ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|hira=じ|hhira=ぢ}}\n\n# {{lb|ja|pathology|sort=し'}} [[hemorrhoids]], [[piles#Etymology 2|piles]]\n#: {{syn|ja|痔疾|tr=jishitsu|ヘモロイド|tr2=hemoroido}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|穴%痔|あな%じ}}\n* {{ja-r|疣%痔|いぼ%じ}}\n* {{ja-r|切れ痔|きれじ|rom=-}}, {{ja-r|裂れ痔|きれじ}}\n* {{ja-r|裂け痔|さけじ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "有",
+  "ns": 0,
+  "id": 17227,
+  "timestamp": 1552867588000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|肴|右|🈶}}\n{{character info/new}}\n{{character info/new|🈶}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}\n{{stroke order|type=jbw|strokes=6}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=74|rad=月|as=02|sn=6|four=40227|canj=KB|ids=⿸𠂇月}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Despite the technically-correct radical being {{l|zh|⺼||meat}} as described in this entry’s [[#Glyph_origin|glyph origin]] section, {{lang|zh|有}} is associated with the radical {{l|zh|月||moon}} in dictionaries for historical reasons and is likewise written as if it contained the {{lang|zh|月}} radical, i.e. it has {{lang|zh|二}} instead of {{lang|zh|冫}} inside of {{lang|zh|冂}}."
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0504.200|dkj=14332|dj=0880.020|hdz=32041.050|uh=6709|ud=26377|bh=A6B3|bd=42675}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

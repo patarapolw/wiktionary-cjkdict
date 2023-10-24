@@ -1,0 +1,58 @@
+{
+  "title": "駕",
+  "ns": 0,
+  "id": 31617,
+  "timestamp": 1550413053000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|驾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=馬05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=か\n|kanyoon=が\n|kun=かご-, の-る, しの-ぐ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|が|yomi=o}}\n\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|が|yomi=o|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|が|hhira=が}}\n\n# vehicle; horse-drawn carriage",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|駕を枉げる|が を まげる}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

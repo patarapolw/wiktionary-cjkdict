@@ -1,0 +1,49 @@
+{
+  "title": "耙",
+  "ns": 0,
+  "id": 24112,
+  "timestamp": 1511650130000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=䎬,䎱}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=pá,bà\n|c=paa4,baa3\n|mn=ml:pâ/qz,xm,zz:phâ/qz,tw,xm:pê/zz:pēe/tw:pē\n|mn_note=pâ/phâ - literary; pê/pēe - vernacular\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|倒打一耙|拽耙扶犁|耙地|耙子|釘耙|釘齒耙|齒耙}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A03261}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

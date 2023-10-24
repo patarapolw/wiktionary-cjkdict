@@ -1,0 +1,56 @@
+{
+  "title": "臼",
+  "ns": 0,
+  "id": 24612,
+  "timestamp": 1553564049000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𦥑|曰|白|日|鼠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=臼00}}\n\n# [[millstone]]; [[mortar]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=きゅう<きう\n|kun=うす-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|うす|yomi=k}}\n[[File:Mozdzierz_kuchenny.jpg|thumb]]\n\nFrom {{inh|ja|jpx-pro|*osu ~ usu}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|うす|y=k|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うす}}\n\n# [[mortar]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|杵|きね|[[pestle]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

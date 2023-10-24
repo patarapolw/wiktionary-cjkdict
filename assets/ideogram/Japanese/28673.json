@@ -1,0 +1,90 @@
+{
+  "title": "逆",
+  "ns": 0,
+  "id": 28673,
+  "timestamp": 1551147432000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=辵06}}\n\n# [[reverse]], [[opposite]], [[upside-down]]\n# [[opposition]], [[rebellion]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎゃく\n|kanon=げき\n|kun=さか-, さか-う, さか-さ, さか-さま, さか-しま, さか-る, さか-らう, むかた-む\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{l|ja|逆位}}\n* {{l|ja|逆意}}\n* {{ja-r|逆境|ぎゃっきょう}}\n* {{l|ja|逆計}}\n* {{ja-r|逆行|ぎゃっこう}}\n* {{l|ja|逆詐}}\n* {{ja-r|逆算|ぎゃくさん}}\n* {{l|ja|逆進}}\n* {{ja-r|逆襲|ぎゃくしゅう}}\n* {{ja-r|逆説|ぎゃくせつ}}\n* {{l|ja|逆接}}\n* {{l|ja|逆賊}}\n* {{ja-r|逆転|ぎゃくてん}}\n* {{ja-r|逆風|ぎゃくふう}}\n* {{l|ja|逆命}}\n* {{l|ja|逆用}}\n* {{l|ja|逆理}}\n* {{ja-r|逆流|ぎゃくりゅう}}\n* {{ja-r|逆鱗|げきりん}}\n* {{l|ja|順逆}}\n* {{l|ja|反逆}}\n* {{ja-r|吃逆|しゃっくり}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|yomi=o|ぎゃく}}\nFrom {{der|ja|ltc|-}} {{ltc-l|逆}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|ぎゃく|y=o|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|ぎゃく|infl=na}}\n\n# [[reverse]]; [[contrary]]; [[opposite]]\n#: {{ja-usex|位置が'''逆'''なことに気づく|いち が '''ぎゃく''' な こと に きづく|to notice that the positions are '''switched'''}}\n#: {{ja-usex|すごすぎて'''逆に'''普通|すごすぎて '''ぎゃく に''' ふつう|so extraordinary that it's actually not that interesting}}\n#: {{ja-usex|クソすぎて'''逆に'''見たい|クソすぎて '''ぎゃく に''' みたい|so shitty that '''on the contrary''', I ''do'' want to see}}\n#: {{ja-usex|'''逆に'''知りたい|'''ぎゃく に''' しりたい|honestly, I want to know too}}\n# {{lb|ja|logic}} [[converse]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|ぎゃく}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|真%逆|ま%ぎゃく}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぎゃく}}\n\n# [[reverse]]; [[contrary]]; [[opposite]]\n#: {{ja-usex|'''逆'''のアプローチ|'''ぎゃく''' の アプローチ|an '''opposite''' approach}}\n# {{lb|ja|logic}} [[converse]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Antonyms",
+                      "text": "* {{sense|reverse}} {{ja-r|順|じゅん}}\n* {{sense|converse}} {{ja-r|裏|うら}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|ぎゃく}}\n\n# [[reverse]]; [[contrary]]; [[opposite]]\n#: {{ja-usex|'''逆'''方向|'''ぎゃく'''ほうこう|'''opposite''' direction}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

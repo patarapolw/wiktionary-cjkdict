@@ -1,0 +1,61 @@
+{
+  "title": "壁",
+  "ns": 0,
+  "id": 13399,
+  "timestamp": 1549587095000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|璧}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=土13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひゃく\n|kanon=へき\n|kun=かべ-, とりで\n|nanori=かべ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|かべ|yomi=k}}\n{{rfe|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|かべ|acc=h|acc_ref=NHK|y=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かべ}}\n\n# [[wall]]; [[barrier]]\n#* {{quote-book|||Beginner's Edition 1\n|||date=May 14 2011\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|アクア・マドール}}\n|trans-chapter=Aqua Madoll}}\n#*: {{ja-usex|水をあやつる魔%法%使い。分%厚い水の'''壁'''をつくり敵を押しつぶす。|みず を あやつる ま%ほう%つかい。ぶ%あつい みず の '''かべ''' を つくり てき を おしつぶす。|A water-manipulating magician who crushes his enemies with his massive water walls.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|床|ゆか}}: [[floor]]\n* {{ja-r|天井|てんじょう}}: [[ceiling]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

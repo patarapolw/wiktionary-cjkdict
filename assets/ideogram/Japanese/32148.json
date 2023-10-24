@@ -1,0 +1,83 @@
+{
+  "title": "鮭",
+  "ns": 0,
+  "id": 32148,
+  "timestamp": 1526714271000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲑}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=魚06}}\n\n# [[chum salmon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け<け<くゑ, げ\n|kanon=かい, けい<けい<くゑい\n|kun=さけ-, しゃけ-<しやけ-, ふぐ-\n}}\n{{attn|ja|also kun:さかな?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|入れ子鮭|いれこざけ}}, {{ja-r|内子鮭|いれこざけ}}\n* {{ja-r|乾鮭|からざけ}}\n* {{ja-r|銀鮭|ぎんざけ}}\n* {{ja-r|鮭鱒|けいそん|[[salmon]]s and [[trout]]s}}\n* {{ja-r|子籠もり鮭|こごもりざけ}}\n* {{ja-r|塩鮭|しおざけ}}\n* {{ja-r|塩鮭|しおじゃけ}}\n* {{ja-r|白鮭|しろざけ}}\n* {{ja-r|時鮭|ときざけ}}\n* {{ja-r|生鮭|なまざけ}}\n* {{ja-r|紅鮭|べにざけ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|さけ|yomi=k}}\n{{wikipedia|lang=ja|サケ}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鮏}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|さけ|acc=1|acc_ref=DJR,NHK,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さけ|サケ}}\n\n# a [[chum salmon]]\n\n{{topics|ja|Salmonids|sort=さけ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|さけ|k1=しゃけ|yomi=irr|sort=しゃけ}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=i|しゃけ|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しゃけ}}\n\n# a [[chum salmon]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

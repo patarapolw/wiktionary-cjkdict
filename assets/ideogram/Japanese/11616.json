@@ -1,0 +1,39 @@
+{
+  "title": "刻",
+  "ns": 0,
+  "id": 11616,
+  "timestamp": 1553325314000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F820}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=刀06}}\n\n# [[engrave]], [[carve]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こく\n|kanon=こく\n|kun=きざ-む, きざ-み, とき-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[刻印]]\n* [[刻限]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

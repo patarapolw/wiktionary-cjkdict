@@ -1,0 +1,54 @@
+{
+  "title": "酰",
+  "ns": 0,
+  "id": 29110,
+  "timestamp": 1529524588000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|酉|先|c1=s|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xiān\n|c=sin1\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic chemistry|Mainland|Hong Kong}} [[acyl]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{qualifier|dated|still used in Taiwan}} {{zh-l|醯}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|酰胺}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C14730}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "鉦",
+  "ns": 0,
+  "id": 29365,
+  "timestamp": 1511582630000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|钲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金05}}\n\n# a [[gong]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう\n|kanon=せい\n|kun=かね-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|どら}}\n\n# {{alternative spelling of|lang=ja|sort=どら|銅鑼}}: a [[gong]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

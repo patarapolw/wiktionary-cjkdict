@@ -1,0 +1,34 @@
+{
+  "title": "謡",
+  "ns": 0,
+  "id": 27176,
+  "timestamp": 1545685548000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|謠|谣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|謡|謠}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=言10|kyu=謠}}\n\n# [[recitation]]; [[chanting]]\n# [[noh]] chanting; a noh song",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<えう\n|kanon=よう<えう\n|kun=うたい-, うた-う\n|nanori=\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

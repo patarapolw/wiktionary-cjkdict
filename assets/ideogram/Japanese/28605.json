@@ -1,0 +1,49 @@
+{
+  "title": "迂",
+  "ns": 0,
+  "id": 28605,
+  "timestamp": 1548693225000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|遇}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=辵03}}\n\n# roundabout way",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=う\n|kun=さ-ける, とお-い<とほ-い, とおみち-<とほみち-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|う|yomi=on}}\nFrom {{der|ja|ltc|sort=う|-}} {{ltc-l|迂}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|う|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|う}}\n\n# [[roundabout]]; [[detour]]\n# [[ignorant]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

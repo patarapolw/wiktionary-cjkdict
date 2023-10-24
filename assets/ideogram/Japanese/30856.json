@@ -1,0 +1,54 @@
+{
+  "title": "霙",
+  "ns": 0,
+  "id": 30856,
+  "timestamp": 1506210093000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=雨09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=えい, よう\n|kun=みぞれ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|みぞれ|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|みぞれ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|みぞれ}}\n\n# [[sleet]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "宗",
+  "ns": 0,
+  "id": 14150,
+  "timestamp": 1552491089000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|完}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=宀05}}\n\n# religion",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そ\n|kanon=そう\n|kanyoon=しゅう\n|kun=むね-, たっとぶ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|宗派|しゅうは|gloss=religious [[sect]]}}\n* {{ja-r|宗教|しゅうきょう|gloss=religion}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

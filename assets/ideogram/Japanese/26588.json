@@ -1,0 +1,39 @@
+{
+  "title": "裰",
+  "ns": 0,
+  "id": 26588,
+  "timestamp": 1542096913000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=衣08}}\n\n# [[mend]] [[clothes]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たち\n|kanon=たつ\n|kanyoon=とつ\n|kun=つくろ-う<つくろ-ふ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|直裰|じきとつ}}\n* {{ja-r|褊裰|へんとつ}}, {{ja-r|褊裰|へんてつ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

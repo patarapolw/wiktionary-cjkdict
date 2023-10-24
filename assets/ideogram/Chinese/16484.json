@@ -1,0 +1,39 @@
+{
+  "title": "搿",
+  "ns": 0,
+  "id": 16484,
+  "timestamp": 1530552709000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=gé\n|ma=y\n|c=gaap3\n|w=5geq\n|cat=v,w:pron\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal}} [[hug]] [[tightly]], [[clutch]]\n# {{lb|zh|Wu}} [[this]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|hug}} {{zh-l|抱}}, {{zh-l|摟}}\n* {{sense|this}}\n{{zh-dial|這}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

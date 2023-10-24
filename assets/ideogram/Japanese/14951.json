@@ -1,0 +1,39 @@
+{
+  "title": "幣",
+  "ns": 0,
+  "id": 14951,
+  "timestamp": 1541414544000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|币}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wikipedia|lang=en|Gohei}}\n{{wikipedia|lang=en|Ōnusa}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=巾12}}\n\n# {{defn|lang=ja|sort=巾12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=べ\n|kanon=へい\n|kun=ぬさ-, みてぐら-, ぜに-, たから\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|貨幣|かへい}}: [[currency]]\n* {{ja-r|紙幣|しへい}}: [[paper money]], bill, note"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

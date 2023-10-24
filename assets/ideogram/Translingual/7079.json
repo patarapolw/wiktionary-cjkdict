@@ -1,0 +1,39 @@
+{
+  "title": "城",
+  "ns": 0,
+  "id": 7079,
+  "timestamp": 1553720857000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F852}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=9}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=06|sn=9|four=43150|canj=GIHS|ids=⿰土成}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𬁃]], [[𪾓]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0229.320|dkj=05086|dj=0465.220|hdz=10438.070|uh=57CE}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

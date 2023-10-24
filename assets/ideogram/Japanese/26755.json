@@ -1,0 +1,85 @@
+{
+  "title": "見",
+  "ns": 0,
+  "id": 26755,
+  "timestamp": 1551289275000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|见|貝|目}}\n{{character info/new}}\n{{character info/new|0xfa0a}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=見00}}\n\n# to [[see]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けん, げん\n|kanon=けん\n|kun=み-る, み-える, まみ-える, み-せる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* {{ja-r|見解|けんかい}}\n* {{ja-r|見聞|けんぶん}}\n* {{ja-r|一見|いっけん}}, {{ja-r|一見|いちげん}}\n* {{ja-r|所見|しょけん}}\n* {{ja-r|初見|しょけん}}\n* {{ja-r|必見|ひっけん}}\n* {{ja-r|無見|むけん}}: the belief that everything in this world is completely [[null]] and [[void]], with no [[substance]].\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|み}}\n\n{{IPAfont|[mi<sub>1</sub>]}} → {{IPAchar|/mi/}}\n\nFrom {{inh|ja|ojp|-}}.  Attested in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref name=\"MYS\">{{RQ:Manyoshu|20|4360}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4360 here]</ref>\n\nThe {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|見る|tr=miru||to see; to look at}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>  Ultimately cognate with {{m|ja|目|tr={{upright|ancient}}ma , {{upright|modern}} me||eye}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|み}}\n* Generally only found in compounds in modern Japanese, where the pitch accent depends on the entire term."
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|み}}\n\n# [[seeing]], [[looking]]\n# the [[look]] or [[appearance]] of something\n# a [[view]], as of a [[landscape]]\n#* {{RQ:Manyoshu|20|4360}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4360 here]\n#*: <span style=\"font-size:large;\">{{lang|ja|夜麻美礼婆 '''見'''能等母之久 可波美礼婆 '''見'''乃佐夜氣久}}</span>\n#*: {{ja-usex|山 見れば'''見'''の羨しく川 見れば'''見'''の清けく|やま みれば '''み''' の ともしく かわ みれば '''み''' の さやけく|looked to the mountains, and the '''view''' was stunning; looked to the rivers and the '''view''' was clear and refreshing}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|けん}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|見|see; seem; opinion}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|けん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|けん}}\n\n# [[seeing]], [[looking]]\n# a [[view]], [[perspective]], [[thought]], or [[opinion]] about something\n# {{lb|ja|sort=けん|noh}} the [[visual]] [[impact]] the [[performer]]s have on the [[audience]]\n# [[window-shopping]]\n# a [[window-shopper]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|thought, opinion}} {{ja-r|考え|かんがえ}}, {{ja-r|思い付き|おもいつき}}, {{ja-r|見%解|けん%かい}}\n* {{sense|noh}} {{ja-r|見%風|けん%ぷう}}\n* {{sense|window-shopping, window-shopper}} {{ja-r|素%見|す%けん}}, {{ja-r|冷やかし|ひやかし}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

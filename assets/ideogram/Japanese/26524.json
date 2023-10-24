@@ -1,0 +1,61 @@
+{
+  "title": "袷",
+  "ns": 0,
+  "id": 26524,
+  "timestamp": 1535381059000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|祫|裕}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=衣06}}\n\n# [[lined]] [[clothing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "From {{w|Middle Chinese}} {{ltc-l|袷|id=1|[[lined]] [[clothing]]}}:\n{{ja-readings\n|goon=きょう<けふ\n|kanon=きょう<けふ\n|kun=あわせ-<あはせ-\n}}\nFrom {{w|Middle Chinese}} {{ltc-l|袷|id=2|[[overlap]]ing [[collar]]}}:\n{{ja-readings\n|goon=こう<こふ\n|kanon=こう<かふ\n|kun=えり-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|あわせ|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=あわせ|-}}.\n\nCognate with {{m|ja|合わせ|tr=awase||[[join]]ing [[together]]}}.<ref name=\"DJR\"/>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|あわせ|acc=3|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あわせ|hhira=あはせ}}\n\n# a [[lined]] [[kimono]]\n#* {{RQ:Manyoshu|12|2965}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man12Yo.html#2965 here]\n#*: {{ja-usex|m=橡%之 '''袷'''衣 裏%尓為者 吾%将強%八方 君%之%不来座|m_kana=つるはみ%の '''あはせの'''ころも うら%にせば われ%しひめ%やも きみ%が%きまさぬ|[[橡]]の'''袷'''の衣%裏にせば我れ強ひめやも君が来まさぬ|つるばみ の '''あはせ''' の ころも% うら に せば われ しひめ や も きみ が きまさぬ|rom=tsurubami no '''awase''' no koromo ura ni seba ware shiime ya mo kimi ga kimasenu|sort=あわせ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|袷ジュバン|あわせ ジュバン}}\n* {{ja-r|袷%羽%織|あわせ%-ば%おり}}\n* {{ja-r|秋%袷|あき%-あわせ}}\n* {{ja-r|三枚%袷|さんまい%-あわせ}}\n* {{ja-r|素%袷|す%あわせ}}\n* {{ja-r|初%袷|はつ%-あわせ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Clothing|あわせ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

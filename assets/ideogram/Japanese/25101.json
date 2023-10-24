@@ -1,0 +1,39 @@
+{
+  "title": "菌",
+  "ns": 0,
+  "id": 25101,
+  "timestamp": 1553048633000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F9A2}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=艸08}}\n\n# {{defn|lang=ja|sort=艸08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=きん<きん<くゐん\n|kun=きのこ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|細菌|さいきん}}: [[bacterium]], [[germ]]\n* {{ja-r|納豆菌|なっとう きん}}: ''Bacillus subtilis'' var. ''natto''"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "帙",
+  "ns": 0,
+  "id": 14876,
+  "timestamp": 1499410365000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=巾05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|goon=[[じち]] (jichi)|kanon=[[ちつ]] (chitsu)|kun=[[ふまき]] (fumaki)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|ちつ|counter}}\n\n# book cases"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

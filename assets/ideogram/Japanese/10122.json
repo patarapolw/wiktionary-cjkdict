@@ -1,0 +1,39 @@
+{
+  "title": "㐮",
+  "ns": 0,
+  "id": 10122,
+  "timestamp": 1514169843000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|襄}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=衣11}} <!-- This character is not an official shinjitai character -->\n\n# {{defn|lang=ja|sort=衣11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[じょう]] (jō)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Only used as a [[component]] in the following {{w|shinjitai}} characters: [[嬢]] [[譲]] [[醸]] [[壌]] [[穣]]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

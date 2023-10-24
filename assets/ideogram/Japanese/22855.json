@@ -1,0 +1,64 @@
+{
+  "title": "箸",
+  "ns": 0,
+  "id": 22855,
+  "timestamp": 1549524475000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹09}}\n\n# [[chopstick]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょ<ぢよ, じゃく<ぢやく\n|kanon=ちょ, ちゃく\n|kun=はし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|菜%箸|さい%ばし}}\n* {{ja-r|割り箸|わりばし}}\n* {{ja-r|箸%置き|はし%おき|[[chopstick rest]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はし|yomi=k}}\n{{swp|lang=ja}}\nFrom {{der|ja|ja|嘴||beak}}, or its source {{der|ja|ja|端||tip}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|はし|acc=1|y=k|acc_ref=NHK,DJR,SMK5}}\n* {{hmp|lang=ja|嘴|觜|sort=はし}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はし}}\n\n# a [[chopstick]]"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|おてもと}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{C|ja|Cutlery|sort=はし}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

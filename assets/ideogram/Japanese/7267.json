@@ -1,0 +1,104 @@
+{
+  "title": "十",
+  "ns": 0,
+  "id": 7267,
+  "timestamp": 1553192126000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|十|〸|ㆺ|𬂛|uni=auto}}\n{{character info/new}}\n\n{{commonscat}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{cardinalbox|ja|9|10|11|九|十一}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=十00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゅう<じふ\n|kanon=しゅう<しふ\n|kanyoon=じっ<じふ, じゅっ\n|kun=と-, とお-<とを-\n|nanori=い, か, ぎ, さ, し, そ, そう, ち, とう, ね, ま, る, わ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ja\n|{{ja-r|十雨|じゅうう}}\n|{{ja-r|十戒|じっかい}}, {{ja-r|十誡|じっかい|gloss=the [[Ten Commandments]]}}\n|{{ja-r|十月|じゅうがつ|October}}\n|{{ja-r|十姉妹|じゅうしまつ}}\n|{{ja-r|十字|じゅうじ}}\n|{{ja-r|十手|じって|gloss=[[martial arts]] [[truncheon]]}}\n|{{ja-r|十種競技|じっしゅ きょうぎ|gloss=[[decathlon]]}}\n|{{ja-r|十進法|じっしんほう|gloss=[[decimal]] [[system]]}}\n|{{ja-r|十人並|じゅうにんなみ}}\n|{{ja-r|十全|じゅうぜん}}\n|{{ja-r|十哲|じってつ}}\n|{{ja-r|十能|じゅうのう|gloss=small [[fire]] [[shovel]]}}\n|{{ja-r|十把一絡|じっぱ ひとからげ}}\n|{{ja-r|十部門分類法|じゅうぶもん ぶんるいほう}}\n|{{ja-r|十分|じゅうぶん}}\n|{{ja-r|十万億土|じゅうまんおくど}}\n|{{ja-r|十目|じゅうもく}}\n|{{ja-r|十薬|じゅうやく}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{audio|Ja-10-jyuu.ogg|Audio|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|じゅう|hhira=じふ}}\n\n# [[ten]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "{{japanese number}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "/so<small>1</small>/: [so].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そ}}\n\n# ten; used in compounds",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|十六夜|いざよい|the [[sixteenth]] night of every month}}\n* {{ja-r|十露盤|そろばん}}\n* {{ja-r|三十日|みそか}}\n* {{ja-r|三十路|みそじ|gloss=thirty; thirty years of age}}\n* {{ja-r|四十|よそ|gloss=forty}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "/to<small>2</small>/: [tə] > [to].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|と}}\n\n# ten"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "/to<small>2</small>wo/: [təwo] > [towo] > [too] > [toː].\n\nUltimately from {{inh|ja|jpx-pro|*təwə}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とお|hhira=とを}}\n\n# ten\n\n{{topics|ja|Ten}}\n\n[[Category:Japanese basic words|しゅう']]\n[[Category:Japanese numeral symbols|10]]\n[[Category:Japanese numerals]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "簫",
+  "ns": 0,
+  "id": 22986,
+  "timestamp": 1533054728000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|箫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹12|shin=簘}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kun=[[ふえ]] (fue)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|簫鼓|しょうこ}}: [[flute]]s and [[drum]]s\n* {{ja-r|簫の笛|しょう の ふえ}}: [[xiao]] {{gloss|Chinese flute}}\n* {{ja-r|長簫|ちょうしょう}}\n* {{ja-r|洞簫|どうしょう}}: [[xiao]] {{gloss|Chinese flute}}\n* {{ja-r|排簫|はいしょう}}\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|しょう|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=しょう}} {{m|zh|簫|tr=sew||xiao {{gloss|Chinese flute}}}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|しょう|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しょう|hhira=せう|shin=簘}}\n\n# [[xiao]] {{gloss|Chinese flute}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Synonymous with the longer phrase {{m|ja|簫の笛|tr=shō no fue|lit=''shō'' flute}}.<ref name=\"DJR\">{{R:Daijirin}}</ref> However, given the rarity of this kanji in writing, and the large number of possible single-kanji terms pronounced as ''shō'' in Japanese, this longer term that specifies {{m|ja|笛||flute}} is used to [[clarify]] and [[disambiguate]]."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Musical instruments|しょう]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "囎",
+  "ns": 0,
+  "id": 12874,
+  "timestamp": 1520760030000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口19}}\n\n# {{non-gloss definition|Only used in Japanese place names.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[そ]] (so)|kun=[[しょう]] (shō)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Japanese-coined kokuji."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

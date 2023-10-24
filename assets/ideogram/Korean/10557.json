@@ -1,0 +1,39 @@
+{
+  "title": "亽",
+  "ns": 0,
+  "id": 10557,
+  "timestamp": 1549721166000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Lower half of the chararcter {{l|ko|罖}}, simplified form of {{l|ko|羅|tr=ra}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|ko|丶}}: more simplified form"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Particle",
+              "text": "{{ko-pos|particle|hangeul=라}}\n\n# ''[[kwukyel|Kwukyel]] form of'' {{ko-l|라|to be ''(copula)''}}\n\n[[Category:Korean-only CJKV Characters|人+01]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

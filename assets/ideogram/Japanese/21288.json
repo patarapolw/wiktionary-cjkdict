@@ -1,0 +1,56 @@
+{
+  "title": "痣",
+  "ns": 0,
+  "id": 21288,
+  "timestamp": 1529391002000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=疒07}}\n\n# {{defn|lang=ja|sort=疒07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=あざ-, ほくろ-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あざ}}\n\n# [[bruise]], [[birthmark]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|あざ|acc=2|acc_ref=SMK2,ZAJ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Often written in hiragana as {{m|ja|あざ}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

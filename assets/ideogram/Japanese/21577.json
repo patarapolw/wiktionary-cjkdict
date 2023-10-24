@@ -1,0 +1,155 @@
+{
+  "title": "相",
+  "ns": 0,
+  "id": 21577,
+  "timestamp": 1553521174000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|租}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=目04}}\n\n# [[mutual]], [[reciprocal]], [[with]] [[one another]]\n# [[appearance]], [[look]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう<さう\n|kanon=しょう<しやう\n|kun=あい-<あひ-, こもごも-<こもこも-, さが-\n|nanori=あ, い, おう, さ, さが, すけ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|相%手|あい%て|companion, partner, opponent}}\n* {{ja-r|液%相|えき%そう|[[liquid phase]]}}\n* {{ja-r|気%相|き%そう|[[gaseous phase]]}}\n* {{ja-r|固%相|こ%そう|[[solid phase]]}}\n* {{ja-r|相撲|すもう|sumo}}\n* {{ja-r|相%談|そう%だん|consultation}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あい|yomi=k}}\n{{ja-see|あい}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Originally a compound of {{etyl|ojp|ja|sort=こもこも}} elements {{compound|ja|sort=こもこも|此|tr1=ko|t1=this|も|tr2=mo|t2=too|此|tr3=ko|t3=this|も|tr4=mo|t4=too}}. Appears as ''komokomo'' in older texts, evolving into ''komogomo'' in modern Japanese.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|こもごも|acc=2|acc_ref=DJR,NHK|acc2=3|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|こもごも}}, {{l|ja|交交}}, {{l|ja|交}}, {{l|ja|更}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adverb",
+                  "text": "{{ja-pos|こもごも|adverb}}\n\n# alternating, one after another\n#: {{ja-usex|悲喜'''相'''|ひき '''こもごも'''|sadness and happiness '''one after another''' ⇒ '''mixed''' feelings}}\n# all mixed up and indistinct\n#: {{ja-usex|'''相'''考える|'''こもごも''' かんがえる|to be '''mixed up''' in one's thoughts, to think '''confusedly'''}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Most often seen spelled in hiragana as {{l|ja|こもごも}}. May also be spelled variously as {{l|ja|交交}}, {{l|ja|交}}, {{l|ja|更}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "From {{etyl|ojp|ja|sort=さが}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|さが|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|性}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さが}}\n\n# [[nature]], [[personality]]\n# [[fate]], [[destiny]]\n# a [[habit]], [[custom]], or [[practice]]\n# the [[good]] and [[bad]] of a person; especially, one's [[fault|faults]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|nature}} {{ja-r|性質|せいしつ}}\n* {{sense|fate}} {{ja-r|運命|うんめい}}; {{ja-r|宿命|しゅくめい}}\n* {{sense|habit}} {{ja-r|癖|くせ}}\n* {{sense|custom}} {{ja-r|習慣|しゅうかん}}; {{ja-r|慣わし|ならわし|rom=-}}, {{ja-r|習わし|ならわし}}\n* {{sense|good and bad}} {{ja-r|善悪|ぜんあく}}\n* {{sense|faults}} {{ja-r|欠点|けってん}}; {{ja-r|短所|たんしょ}}; {{ja-r|悪癖|わるぐせ}}, {{ja-r|悪癖|あくへき}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "From {{etyl|ltc|ja|sort=しょう}}, deriving from the meaning of {{m|en|with}} from the way that a [[minister]] would always be with their [[lord]]. {{l|ja|sc=Latn|漢音|Kan'on}}, so likely a later borrowing than the ''sō'' reading.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|しょう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|しょう|suffix|hhira=しゃう}}\n\n# [[minister]] of state\n#: {{ja-usex|首'''相'''|しゅ'''しょう'''|prime '''minister'''}}\n#: {{ja-usex|内'''相'''|ない'''しょう'''|'''minister''' of the interior}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|大臣|だいじん}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "From {{etyl|ltc|ja|sort=そう}}. {{l|ja|sc=Latn|呉音|Goon}}, so likely an earlier borrowing than the ''shō'' reading.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|そう|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そう|hhira=さう}}\n\n# [[appearance]], how something [[look|looks]]\n# an [[aspect]] of something\n#: {{ja-usex|大%自%然 の 色々 な '''相'''|だい%し%ぜん の いろいろ な '''そう'''|various '''aspects''' of nature}}\n# {{lb|ja|sort=そう|grammar}} [[grammatical]] [[aspect]]\n# {{lb|ja|sort=そう|physics}} a [[phase]], as of [[matter]]\n# {{lb|ja|sort=そう|ikebana}} the central supporting [[branch]] of an [[ikebana]] [[arrangement]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Related terms",
+                      "text": "* {{sense|ikebana}} {{ja-r|役枝|やくえだ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

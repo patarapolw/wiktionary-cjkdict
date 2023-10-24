@@ -1,0 +1,49 @@
+{
+  "title": "課",
+  "ns": 0,
+  "id": 27050,
+  "timestamp": 1550126870000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|课}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=言08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か\n|kanon=か\n|kun=こころ-みる\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|か|counter}}\n\n# [[lesson]]s\n#: {{ja-usex|第%二'''課'''|だい-%に-'''か'''|Lesson 2}}\n# [[chapter]]s of a book"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|か}}\n\n# [[lesson]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|か|suffix}}\n\n# [[section]], [[department]]\n# [[lesson]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

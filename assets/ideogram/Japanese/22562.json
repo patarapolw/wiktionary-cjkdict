@@ -1,0 +1,39 @@
+{
+  "title": "窘",
+  "ns": 0,
+  "id": 22562,
+  "timestamp": 1553563284000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=穴07}}\n\n# [[rebuke]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=きん<きん<くゐん\n|on=くん\n|kun=たしな-める, くるし-む\n}}\n\n{{attention|ja|what kind of on-reading is \"kun\"?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|窘迫|きんぱく}}: [[troubledness]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

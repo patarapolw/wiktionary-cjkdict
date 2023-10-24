@@ -1,0 +1,39 @@
+{
+  "title": "冷",
+  "ns": 0,
+  "id": 11477,
+  "timestamp": 1552620795000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|codepoint=0xF92E}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=7}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=15|rad=冫|as=05|sn=7|four=38127|canj=IMOII|ids=⿰冫令}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|mul|泠}} <!-- visually similar -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0132.010|dkj=01622|dj=0295.030|hdz=10296.050|uh=51B7|ud=20919|bh=A74E|bd=42830}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

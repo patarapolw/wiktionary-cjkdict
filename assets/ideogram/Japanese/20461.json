@@ -1,0 +1,83 @@
+{
+  "title": "狛",
+  "ns": 0,
+  "id": 20461,
+  "timestamp": 1540268352000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=犬05}}\n\n# [[Goguryeo]]\n# {{short for|lang=ja|狛犬|tr=komainu|nodot=1}}: [[lion dog]] [[statue]]s found in [[Shinto]] [[shrine]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=はく\n|kanon=はく\n|kun=こま-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|こま|yomi=k}}\n* {{s|something originally imported from Korea, Goguryeo}} {{ja-l|高麗}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{m|ja|高麗|tr=Koma||[[Goguryeo]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|こま|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こま}}\n\n# {{short for|lang=ja|狛犬|tr=komainu|nodot=1|sort=こま}}: [[lion dog]] [[statue]]s found in [[Shinto]] [[shrine]]s"
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|こま}}\n\n# {{n-g|indicates something that was originally imported via the Korean Peninsula}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|狛犬|こまいぬ}}\n* {{ja-r|狛%江|^こま%え}}\n* {{ja-r|狛楽|こまがく}}\n* {{ja-r|狛%剣|こま%-つるぎ}}\n* {{ja-r|狛%錦|こま%-にしき}}\n* {{ja-r|狛笛|こまぶえ}}\n* {{ja-r|狛鉾|こまぼこ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|こま}}\n\n# {{lb|ja|sort=こま|historical}} the [[Goguryeo]] [[kingdom]], located on the [[Korean Peninsula]] 37 {{BCE}}–668 {{CE}}\n# ''a [[place name]]''\n# {{given name|female|lang=ja|A=a|nodot=1|sort=こま}}\n# {{surname|lang=ja|A=a|nodot=1|sort=こま}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|独楽|こま}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

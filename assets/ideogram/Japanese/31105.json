@@ -1,0 +1,49 @@
+{
+  "title": "頁",
+  "ns": 0,
+  "id": 31105,
+  "timestamp": 1549982358000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|页|貝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=頁00}}\n\n# big [[shell]]\n# [[page]]\n# [[leaf]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げち<げち\n|kanon=けつ<けつ, よう<えふ\n|kanyoon=こう<こう\n|kun=かしら-, ページ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|頁岩|けつがん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Borrowed from {{bor|ja|en|page}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ページ}}\n\n# [[page]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

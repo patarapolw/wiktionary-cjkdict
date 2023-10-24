@@ -1,0 +1,173 @@
+{
+  "title": "雷",
+  "ns": 0,
+  "id": 30818,
+  "timestamp": 1552876303000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=雨05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らい\n|kanon=らい\n|kun=いかずち-<いかづち-, かみなり-, かんなり-, なるかみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|避%雷%針|ひ%らい%しん}}: [[lightning rod]]\n* {{ja-r|雷%鳥|らい%ちょう}}: a [[rock]] [[ptarmigan]], a [[snow grouse]]\n* {{ja-r|雷%神鳥|らい%じんちょう}}: a [[thunderbird]]\n* {{ja-r|雷%獣|らい%じゅう}}: a [[thunder]] [[beast]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Thunder}}\n{{wikipedia|Lightning}}\n[[File:Lightning over Oradea Romania 3.jpg|thumb|right|250px|{{lang|ja|雷}} (''kaminari'', ''kannari'', ''ikazuchi'', ''narukami'', ''rai''): '''[[thunder]]''' and '''[[lightning]]'''.]]\n</div>\n{{ja-kanjitab|yomi=k|かみなり}}\nCompound of {{compound|ja|sort=かみなり|神|tr1=kami|t1=god, spirit|鳴り|tr2=nari|t2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|鳴る}} ''naru'', “to cry out, to call”}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かみなり|acc=3|acc_ref=NHK,DJR|acc2=4|acc2_ref=NHK,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かみなり}}\n\n# [[thunder]] {{qualifier|the sound}}\n# [[lightning]], a [[thunderbolt]]\n#* {{quote-book|||Vol.1\n|||date=Feb 4 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{laja|サンダー・キッズ}}\n|trans-chapter=Thunder Kid}}\n#*: {{ja-usex|'''雷'''をからだの中に蓄%電させている。泣かせたときは危%険。|'''かみなり'''をからだの中にちく%でんさせている。なかせたときはき%けん。|He stores lightning inside his body. He’s very dangerous when he cries.|rom='''Kaminari''' o karada no naka ni chikuden saseteiru. Nakaseta toki wa kiken.}}\n#* {{quote-book|||BOOSTER 1\n|||date=Mar 1 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|エレキッズ}}\n|trans-chapter=Elekid}}\n#*: {{ja-usex|'''雷'''攻%撃は意%外と強い。甘く見ると感%電するぞ。|'''かみなり'''こう%げき は い%がい と つよい。あまく みる と かん%でん する ぞ。|It has a surprisingly powerful lightning attack. However, its electrocution tends to be underestimated.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This ''kaminari'' reading is the most common reading when used as a standalone noun."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|thunder}}: {{ja-r|雷鳴|らいめい}}\n* {{sense|lightning}}: {{ja-r|電|いなずま}}, {{ja-r|稲妻|いなずま}}, {{ja-r|稲光|いなびかり}}, {{ja-r|落雷|らくらい}}\n* {{sense|both}} {{ja-r|雷電|らいでん}}: [[thunder]] and [[lightning]]"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|雷が落ちる|かみなり が おちる}}: “the thunder comes down” → to be [[scolded]] severely by a superior, to be [[ripped]] a new one"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|かんなり}}\n{{IPAchar|/kaminari/}} → {{IPAchar|/kannari/}}\n\nShift in pronunciation from ''kaminari'' above.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かんなり}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|雷鳴り}}, {{ja-l|雷鳴}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かんなり}}\n\n# {{lb|ja|sort=かんなり|rare|archaic}} [[thunder]] {{qualifier|the sound}}\n# {{lb|ja|sort=かんなり|rare|archaic}} [[lightning]], a [[thunderbolt]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|かんなり}}\n\n# {{lb|ja|sort=かんなり|rare|archaic}} short for {{m|ja|雷の壺|tr=Kaminari no Tsubo|lit=thunder pot}}, one of the five buildings in the imperial palace in ancient {{m|ja|平安京|tr=Heian Kyō||[[w:Heian-kyō|Heian-kyō]]|pos=modern-day [[w:Kyoto|Kyōto]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|いかずち}}\n{{IPAchar|/ika t͡su t͡ɕi/}} → {{IPAchar|/ikad͡ʑut͡ɕi/}} → {{IPAchar|/ikazut͡ɕi/}}\n\nFrom {{etyl|ojp|ja|sort=いかずち}}. Originally a compound of {{compound|ja|sort=いかずち|厳|tr1=ika|t1=sternness, terribleness, imposingness|つ|tr2=tsu|pos2={{etyl|ojp|-}} possessive particle|霊|tr3=chi|t3=spirit, force, essence}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いかずち}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いかずち|hhira=いかづち}}\n\n# {{lb|ja|sort=いかずち|rare|archaic}} something [[ferocious]] and [[imposing]], a [[demon]] or [[devil]]\n# {{lb|ja|sort=いかずち|rare|archaic}} [[thunder]] {{qualifier|the sound}}\n# {{lb|ja|sort=いかずち|rare|archaic}} [[lightning]], a [[thunderbolt]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|なるかみ}}\nCompound of {{compound|ja|sort=なるかみ|鳴る|tr1=naru|t1=to cry out, to call|神|tr2=kami|t2=god, spirit}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なるかみ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鳴る神}}, {{ja-l|鳴神}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|なるかみ}}\n\n# {{lb|ja|sort=なるかみ|rare}} [[thunder]] {{qualifier|the sound}}\n# {{lb|ja|sort=なるかみ|rare}} [[lightning]], a [[thunderbolt]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|なるかみ}}\n\n# one of the eighteen styles of [[kabuki]]\n#: This sense is more commonly spelled as {{ja-l|鳴神}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=o|らい}}\nFrom {{etyl|ltc|ja|sort=らい}} {{m|zh|雷|tr=luəi||thunder}}. Compare modern {{etyl|cmn|-}} reading '' léi'', {{etyl|yue|-}} ''leoi<sup>4</sup>''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|らい|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|らい}}\n\n# {{lb|ja|sort=らい|rare}} [[thunder]] {{qualifier|the sound}}\n# {{lb|ja|sort=らい|rare}} [[lightning]], a [[thunderbolt]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Used more in compounds than on its own. As a standalone noun, the ''kaminari'' reading is the most common."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|かみなり]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

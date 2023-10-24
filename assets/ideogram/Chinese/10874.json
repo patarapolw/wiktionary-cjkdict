@@ -1,0 +1,44 @@
+{
+  "title": "侕",
+  "ns": 0,
+  "id": 10874,
+  "timestamp": 1549652049000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=ér\n|c=ji4\n|mn=jî\n|mc=\n|oc=\n|ma=\n|cat=a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[many]], [[numerous]], [[multitudinous]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{qualifier|Teochew}} {{zh-l|侕侕|tr=dzeu5 dzeu5}}: a big mess. In Mandarin it would be {{zh-l|亂}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{qualifier|Cantonese}} [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 65]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

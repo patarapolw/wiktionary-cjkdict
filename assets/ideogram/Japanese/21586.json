@@ -1,0 +1,44 @@
+{
+  "title": "省",
+  "ns": 0,
+  "id": 21586,
+  "timestamp": 1545317732000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=目04}}\n# [[government]] [[ministry]]\n# [[Chinese]] [[province]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=せい\n|kun=かえり-みる<かへり-みる, はぶ-く, み-る\n|nanori=さとし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|しょう}}\n\n# [[saving]], [[conservation]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|しょう}}\n\n# [[ministry]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

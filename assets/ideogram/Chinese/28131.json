@@ -1,0 +1,63 @@
+{
+  "title": "躂",
+  "ns": 0,
+  "id": 28131,
+  "timestamp": 1531098370000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|跶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=跶|alt=𨂛,𨂧,𨂨,⿰[[𧾷]][[幸]],⿰[[𧾷]][[逹]],⿰[[𧾷]]⿱[[𡗜]][[𢆉]]}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A04050 -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|足|達|c1=s|c2=p|t1=foot|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=tà\n|c=taat3\n|m-s=da2\n|mc=y\n|oc=y\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[stumble]]; to [[slip]]; to [[fall down]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|滑躂|踢躂|蹦躂}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=dā\n|c=taat3\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|蹓躂}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A04050}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "街",
+  "ns": 0,
+  "id": 26427,
+  "timestamp": 1553314949000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=行06}}\n\n# {{defn|lang=ja|sort=行06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=かい\n|kanyoon=がい\n|kun=まち-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まち}}\n\n# [[town]]; [[neighborhood]]\n\n{{attention|ja|can this also mean \"road\"?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|街%明かり|まち%あかり}}, {{ja-r|街%明り|まち%あかり}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "烙",
+  "ns": 0,
+  "id": 19912,
+  "timestamp": 1532691242000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|火|各|c1=s|c2=p|t1=fire|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lào,luò,1nb=colloquial,2nb=literary\n|m_note=luò - “to burn”. also used in {{l|zh|炮烙}}\n|c=lok3,lok6\n|c_note=lok3 - colloquial; lok6 - variant\n|mn=ml:lo̍k/qz,xm,zz:lo̍h/tw,xm,zz:lō\n|mn_note=lo̍k - literary; lo̍h/lō - vernacular\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[brand#Verb|brand]]; to [[mark]] on [[livestock]] with [[hot]] [[metallic]] [[object]]\n# to [[iron]]\n#: {{zh-syn|熨|燙}}\n# to [[pan-fry]]\n#: {{zh-x|烙餅|type of [[flatbread]]}}\n# to [[burn]]; to [[cauterize]]\n#: {{zh-syn|灼}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|烙印|烙燒餅|烙餅|烙花|烙鐵|烙鐵印兒|炮烙}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A02405}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

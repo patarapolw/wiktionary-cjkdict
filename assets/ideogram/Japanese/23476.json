@@ -1,0 +1,71 @@
+{
+  "title": "緯",
+  "ns": 0,
+  "id": 23476,
+  "timestamp": 1549461990000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|纬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=糸09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ\n|kanon=い<ゐ\n|kun=よこいと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|緯経|よこたて}}: [[breadth]] and [[length]]; [[woof]] and [[warp]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|い|yomi=on}}\n{{IPAchar|/wi/}} → {{IPAchar|/i/}}\n\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|緯}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|い|acc=1|acc_ref=DJR|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|い|hhira=ゐ}}\n\n# [[weft]], [[woof]]\n# parallels of latitude"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ぬき|yomi=k}}\n{{ja-see|ぬき}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|よこいと|yomi=k}}\n{{ja-see|よこいと}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

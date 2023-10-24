@@ -1,0 +1,63 @@
+{
+  "title": "殿",
+  "ns": 0,
+  "id": 18481,
+  "timestamp": 1553659244000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{see|宸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=殳09}}\n\n# [[palace]], [[hall]], [[temple]]\n# [[lord]], [[noble]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=でん\n|kanon=てん\n|kun=との-, どの-, しんがり-\n|nanori=あと, すえ, との\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|沈殿|ちんでん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|どの|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|どの}}\n\n# Mr., Ms., a more formal title than {{ja-r|さん|-さん}} but not so respectful as {{ja-r|様|-さま}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{clear}}\n{{ja-kanjitab|との|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|との}}\n# a [[feudal]] [[lord]]\n#: {{ja-usex|殿様|との-さま|[[daimyo]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

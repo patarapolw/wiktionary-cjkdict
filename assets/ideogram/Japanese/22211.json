@@ -1,0 +1,61 @@
+{
+  "title": "社",
+  "ns": 0,
+  "id": 22211,
+  "timestamp": 1539245681000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|k=y}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=示03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃ\n|kanon=しゃ\n|kun=やしろ-, くみあい, こそ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|社員|しゃいん}}\n* {{ja-r|社会|しゃかい}}\n* {{ja-r|社交|しゃこう}}\n* {{ja-r|社寺|しゃじ}}\n* {{ja-r|社稷|しゃしょく}}\n* {{ja-r|社団|しゃだん}}\n{{mid3}}\n* {{ja-r|社長|しゃちょう}}\n* {{ja-r|副社長|ふくしゃちょう}}\n* {{ja-r|愛社精神|あいしゃせいしん}}\n* {{ja-r|会社|かいしゃ}}\n* {{ja-r|会社員|かいしゃいん}}\n* {{ja-r|支社|ししゃ}}\n{{mid3}}\n* {{ja-r|神社|じんじゃ}}\n* {{ja-r|入社|にゅうしゃ}}\n* {{ja-r|退社|たいしゃ}}\n* {{ja-r|本社|ほんしゃ}}\n* {{ja-r|末社|まっしゃ}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{der|ja|ltc|社|tr=dzyæX||god of earth; place for worshiping the god of earth}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|やしろ}}\n\n# a [[shrine]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|しゃ}}\n\n# Abbreviation of [[会社]] ([[かいしゃ]] kaisha) \"company.\"; [[co.]]\n#* [[毎日]][[新聞]][[社]]\n#*: [[まいにち]][[しんぶん]]'''しゃ'''\n#*: ''Mainichi Shimbun-sha''\n#*: The Mainichi Newspapers [Company]\n# When in parentheses, an abbreviation of [[社団]][[法人]] ([[しゃだん]][[ほうじん]] shadan hōjin), a type of [[incorporated]] [[association]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|株|かぶ}}: [[inc.]]\n* {{ja-r|有|ゆう}}: [[Ltd.]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

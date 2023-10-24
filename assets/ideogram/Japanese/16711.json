@@ -1,0 +1,39 @@
+{
+  "title": "攣",
+  "ns": 0,
+  "id": 16711,
+  "timestamp": 1553551239000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|挛}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手19}}\n\n# {{defn|lang=ja|sort=手19}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れん\n|kanon=れん\n|kun=つ-る, ひ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|痙攣|けいれん}}\n* {{ja-r|攣縮|れんしゅく}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

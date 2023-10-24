@@ -1,0 +1,75 @@
+{
+  "title": "立",
+  "ns": 0,
+  "id": 22614,
+  "timestamp": 1549290789000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ᇁ|gu1}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=立00}}\n\n# [[erect]]\n# to [[set up]]\n# to [[stand up]]\n# to [[rise]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りゅう<りふ\n|kanon=りゅう<りふ\n|kanyoon=りつ\n|kun=た-つ, た-てる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|立会人|たちあいにん}}\n* {{ja-r|立場|たちば}}\n* {{ja-r|帆立貝|ほたてがい|scallop}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|りつ|yomi=kanyoon}}\n{{der|ja|ltc|立|sort=りつ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyoon|りつ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|りつ}}\n\n# [[stand]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|立%位|りつ%い|[[standing]] [[sex position]]}}\n* {{ja-r|立%脚|りっ%きゃく}}\n* {{ja-r|立%憲|りっ%けん}}\n* {{ja-r|立%候%補|りっ%こう%ほ}}\n* {{ja-r|立%秋|りっ%しゅん}}\n* {{ja-r|立%体|りっ%たい|a solid (shape) {{qualifier|geometry}}}}\n* {{ja-r|立%派|りっ%ぱ|[[splendor]]}}\n* {{ja-r|立%春|りっ%しゅん}}\n* {{ja-r|立%証|りっ%しょう}}\n* {{ja-r|立%夏|りっ%か|first day of summer}}\n* {{ja-r|立%冬|りっ%とう}}\n* {{ja-r|立%腹|りっ%ぷく}}\n* {{ja-r|立%方|りっ%ぽう|the third power of a number, [[cube]]}}\n* {{ja-r|立%方体|りっ%ぽうたい|[[cube]] {{qualifier|geometric object}}}}\n* {{ja-r|立%法|りっ%ぽう}}\n* {{ja-r|立%礼|りつ%れい}}\n* {{ja-r|孤%立|こ%りつ|[[isolation]]}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|りっとる|yomi=irr|sort=りっとる}}\n{{ateji|c=y|sort=りっとる}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|リットル}}\n\n# {{rare spelling of|リットル|lang=ja|sort=りっとる}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

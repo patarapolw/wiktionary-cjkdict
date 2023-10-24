@@ -1,0 +1,39 @@
+{
+  "title": "瑙",
+  "ns": 0,
+  "id": 20859,
+  "timestamp": 1546999876000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=玉09}}\n\n# [[agate]]\n# [[onyx]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=のう<なう\n|kanon=どう<だう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|縞瑪瑙|しまめのう}}\n* {{ja-r|瑪瑙|めのう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

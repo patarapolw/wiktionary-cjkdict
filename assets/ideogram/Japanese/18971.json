@@ -1,0 +1,39 @@
+{
+  "title": "浴",
+  "ns": 0,
+  "id": 18971,
+  "timestamp": 1553554654000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|溶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=水07}}\n\n# {{defn|lang=ja|sort=水07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よく\n|kanon=よく\n|kun=あ-びる, あ-びせる\n|nanori=あみ, えき, さこ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|浴衣|ゆかた}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

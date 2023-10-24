@@ -1,0 +1,105 @@
+{
+  "title": "鞴",
+  "ns": 0,
+  "id": 31024,
+  "timestamp": 1505887181000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=革10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=び|kanon=ひ|kun=ふいご-,ふいごう-,ふきがわ-}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|踏鞴|たたら}}, {{ja-r|蹈鞴|たたら|[[foot]] [[bellows]]}}\n\n{{wp|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ふいご|yomi=k}}\nAlteration of ''fuigō'' below.<ref name=\"DJR\">{{R:Daijirin}}</ref><ref>{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ふいご|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|吹子}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふいご}}\n\n# [[bellows]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ふいごう|yomi=k}}\nAlteration of ''fukigawa'' below.<ref name=\"DJR\">{{R:Daijirin}}</ref><ref>{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|ふいごう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふいごう|hhira=ふいがう}}\n\n# [[bellows]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|ふきがわ|yomi=k}}\nCompound of {{affix|ja|吹|tr1=fuki|t1=blowing|革|tr2=kawa|t2=leather}}.<ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ふきがわ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|吹き皮}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふきがわ|hhira=ふきがは}}\n\n# [[bellows]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Tools|ふいご]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

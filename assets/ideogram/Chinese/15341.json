@@ -1,0 +1,42 @@
+{
+  "title": "忖",
+  "ns": 0,
+  "id": 15341,
+  "timestamp": 1553549960000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cǔn\n|c=cyun2\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|思忖|忖量|忖著勁兒|忖度|忖前思後|忖測|暗忖|自忖}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "圧",
+  "ns": 0,
+  "id": 12961,
+  "timestamp": 1547997443000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|壓|压}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|圧|壓}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=土02|kyu=壓}}\n\n# [[pressure]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<えふ\n|kanon=おう<あふ\n|kanyoon=あつ\n|kun=お-さえる\n}}\n\n{{ja-kanjitab|あつ|yomi=kanyoon}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|あつ}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あつ}}\n\n# [[pressure]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|側圧|そくあつ|[[lateral]] [[pressure]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|あつ}}\n\n# [[push]]; [[press]]; [[suppress]]\n# [[pressure]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

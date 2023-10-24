@@ -1,0 +1,39 @@
+{
+  "title": "衍",
+  "ns": 0,
+  "id": 26416,
+  "timestamp": 1553569787000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=行03}}\n\n# {{defn|lang=ja|sort=行03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=えん\n|kun=し-く, あま-り, はびこ-る\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[衍字]]\n* [[敷衍]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

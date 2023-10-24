@@ -1,0 +1,153 @@
+{
+  "title": "環",
+  "ns": 0,
+  "id": 20946,
+  "timestamp": 1552876051000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|环}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=玉17}}\n\n# [[circle]], [[ring]], [[wheel]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん<ぐゑん\n|kanon=かん<くわん\n|kun=わ-, たまき-, ゆびまき\n|nanori=たま\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|可換環|かかんかん}}: [[commutative ring]]\n* {{ja-r|環礁|かんしょう}}: [[atoll]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|かん|yomi=o}}\nFrom {{etyl|ltc|ja|sort=かん}} {{m|zh|環|tr=hwæn}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|かん|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かん|hhira=くわん}}\n\n# [[ring]]\n# {{lb|ja|algebra|sort=かん}} [[ring]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|かん|hhira=くわん}}\n\n# [[circum-]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|わ}}\nFrom {{etyl|ojp|ja|sort=わ}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|わ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|輪}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|わ}}\n\n# a [[ring]] or [[circle]] shape {{qualifier|such as a ring for a finger, or Saturn's rings}}\n# a [[hoop]] {{qualifier|such as for a [[barrel]]}}\n# a [[wheel]] {{qualifier|as of a vehicle}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|circle shape}} {{ja-r|丸|まる}}, {{ja-r|円形|えんけい}}\n* {{sense|finger ring}} {{ja-r|指輪|ゆびわ}}\n* {{sense|barrel hoop}} {{ja-r|箍|たが}}\n* {{sense|vehicle wheel}} {{ja-r|車輪|しゃりん}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|たまき|yomi=k}}\nOriginally a compound of {{compound|ja|sort=たまき|手|tr1=ta|t1=hand|pos1=ancient combining form of modern ''te''|巻き|tr2=maki|t2=winding, wrapping|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|巻く}} ''maku'', “to wind, to wrap”}}, from the way that the bracelet would be worn around the wrist.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|たまき|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|手纏}}, {{ja-l|鐶}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たまき}}\n\n# an ancient [[bracelet]] strung with jewels or bells and worn at the elbow\n# a longer tube-shaped [[gauntlet]] to protect the hand during [[archery]]\n# {{lb|ja|sort=たまき|obsolete}} an ancient [[jewel]] or other [[stone]] in the shape of a ring",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|archery gauntlet}} {{ja-r|手覆|たおおい}}\n* {{sense|ring}} {{ja-r|指輪|ゆびわ}}, {{lang|ja|環}} (''yubimaki'') {{qualifier|see below}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|ゆびまき}}\nOriginally a compound of {{compound|ja|sort=ゆびまき|指|tr1=yubi|t1=finger|pos1=ancient combining form of modern ''te''|巻き|tr2=maki|t2=winding, wrapping|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|巻く}} ''maku'', “to wind, to wrap”}}, from the way that the ring would be worn around a finger.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ゆびまき}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|指巻}}, {{ja-l|鐶}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ゆびまき}}\n\n# {{lb|ja|sort=ゆびまき|obsolete}} an ancient [[jewel]] or other [[stone]] in the shape of a ring",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|指輪|ゆびわ}}, {{lang|ja|環}} (''tamaki'') {{qualifier|see above}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

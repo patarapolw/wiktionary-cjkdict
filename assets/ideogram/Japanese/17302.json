@@ -1,0 +1,44 @@
+{
+  "title": "杏",
+  "ns": 0,
+  "id": 17302,
+  "timestamp": 1541831275000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|呆}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wikispecies|Prunus armeniaca}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう\n|kanon=こう\n|toon=あん\n|kanyoon=きょう\n|kun=あんず-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|あんず|yomi=k|r=y}}\n{{ja-pron|acc=0|あんず|y=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あんず|アンズ}}\n\n# {{altspell|lang=ja|杏子||[[apricot]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

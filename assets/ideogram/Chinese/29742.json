@@ -1,0 +1,37 @@
+{
+  "title": "鎅",
+  "ns": 0,
+  "id": 29742,
+  "timestamp": 1523721860000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𠝹}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiè\n|c=gaai3\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} to [[cut]] with a [[blade]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|鎅開|鎅損|鎅女|鎅刀|鎅碟|鎅板}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

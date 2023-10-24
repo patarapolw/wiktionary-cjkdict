@@ -1,0 +1,54 @@
+{
+  "title": "膝",
+  "ns": 0,
+  "id": 24514,
+  "timestamp": 1549255795000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しち\n|kanon=しつ\n|kun=ひざ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|膝蓋|しつがい}}: [[patella]], [[kneecap]]\n{{der-bottom}}\n\n{{ja-kanjitab|ひざ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|ひざ|acc=0|acc_ref=DJR|a=Ja-hiza-knee.ogg}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひざ}}\n\n# [[knee]]\n#: {{ja-usex|'''膝'''を抱える|'''ひざ''' を かかえる|to hug one's '''knees'''}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|ひざ]]\n[[Category:ja:Anatomy|ひざ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

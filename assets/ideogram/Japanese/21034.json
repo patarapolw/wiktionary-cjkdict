@@ -1,0 +1,58 @@
+{
+  "title": "甃",
+  "ns": 0,
+  "id": 21034,
+  "timestamp": 1514258099000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=瓦09}}\n\n# {{defn|lang=ja|sort=瓦09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しゅう\n|kun=しきがわら-, いしだたみ-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いしだたみ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いしだたみ}}\n\n# {{alternative spelling of|lang=ja|石畳}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しきがわら|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しきがわら}}\n\n# {{alternative spelling of|lang=ja|敷瓦}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

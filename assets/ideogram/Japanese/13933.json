@@ -1,0 +1,44 @@
+{
+  "title": "嫐",
+  "ns": 0,
+  "id": 13933,
+  "timestamp": 1525738348000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|嬲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=女10}}\n\n# [[frolic]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=のう\n|kanon=どう\n<!--|on=じょう-->\n|kun=なぶ-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja}}\n{{wp|Uwanari}}\n</div>\n{{ja-kanjitab|うわなり|yomi=irr|sort=}}\n\nFrom {{m|ja|後妻|tr=uwanari||[[concubine]], [[second]] [[wife]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|うわなり|hhira=うはなり}}\n\n# one of the {{w|Kabuki Jūhachiban|Eighteen Best Kabuki Plays}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

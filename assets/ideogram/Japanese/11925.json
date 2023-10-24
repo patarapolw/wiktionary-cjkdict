@@ -1,0 +1,44 @@
+{
+  "title": "博",
+  "ns": 0,
+  "id": 11925,
+  "timestamp": 1553324937000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|愽}}\n{{character info/new}}\n{{character info|0x2F82E}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=十10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=はく\n|kanon=はく\n|kanyoon=ばく\n|kun=ひろ-い, ひろめる\n|nanori=とおる, はか, ひろ, ひろし, ひろむ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ひろし}}\n\n# {{given name|male|lang=ja|sort=ひろし}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|はく}}\n\n# [[doctor]], PhD\n# [[exposition]], fair"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

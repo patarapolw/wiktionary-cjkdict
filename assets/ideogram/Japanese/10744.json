@@ -1,0 +1,73 @@
+{
+  "title": "位",
+  "ns": 0,
+  "id": 10744,
+  "timestamp": 1553920316000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=人05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ\n|kanon=い<ゐ\n|kun=くらい-<くらゐ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|い|yomi=o}}\n{{der|ja|ltc|位|sort=い}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|い|acc=1|acc_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|い|hhira=ゐ}}\n\n# [[rank]], [[place]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|位%階|い%かい}}\n* {{ja-r|位%冠|い%かん}}\n* {{ja-r|位%官|い%かん}}\n* {{ja-r|位%記|い%き}}\n* {{ja-r|位%勲|い%くん}}\n* {{ja-r|位%次|い%じ}}\n* {{ja-r|位%相|い%そう}}\n* {{ja-r|位%置|い%ち}}\n* {{ja-r|位%牌|い%はい}}\n* {{ja-r|騎%乗%位|き%じょう%い|[[cowgirl position]]}}\n* {{ja-r|屈%曲%位|くっ%きょく%い|[[Viennese oyster]]}}\n* {{ja-r|交%差%位|こう%さ%い|a [[sex position]] in which both partners' legs are [[interlock]]ed}}\n* {{ja-r|後%背%位|こう%はい%い|[[doggy style]]}}\n* {{ja-r|座%位|ざ%い}}, {{ja-r|坐%位|ざ%い|[[seat]]; [[posing]] of [[sit]]ting; [[sitting]] [[sex position]]}}\n* {{ja-r|伸%長%位|しん%ちょう%い|a [[variation]] of the [[missionary position]] in which a man [[spread]]s himself over the woman}}\n* {{ja-r|側%位|そく%い|[[spoons position]]}}\n* {{ja-r|立%位|りつ%い|[[standing]] [[sex position]]}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|い|hhira=ゐ}}\n\n# [[rank]], [[place]]\n#: {{ja-usex|第１'''位'''[[で]][[ある]]。|だい-いち-'''い''' で ある。|To be '''ranked''' first.}}\n#: {{ja-usex|２'''位'''[[に]][[なる]]。|に-'''い''' に なる。|To take second '''place'''.}}\n#: {{ja-usex|１０'''位'''[[に]][[落ちる]]。|じゅう-'''い''' に おちる。|To drop to tenth '''place'''.}}\n# decimal place\n# [[ghost]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|くらい|yomi=k}}\n{{ja-see|くらい}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

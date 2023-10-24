@@ -1,0 +1,44 @@
+{
+  "title": "皨",
+  "ns": 0,
+  "id": 21498,
+  "timestamp": 1520763868000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=白13}}\n\n# [[star]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=せい\n|kun=ほし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Nonstandard variant of {{m|ja|星}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ほし}}\n\n# {{lb|ja|obsolete|sort=ほし}} {{alternative spelling of|星|lang=ja|sort=ほし}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "矮",
+  "ns": 0,
+  "id": 21851,
+  "timestamp": 1553506939000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=矢08}}\n\n# [[small]], [[little]], [[dwarf]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え\n|kanon=あい\n|kanyoon=わい\n|kun=ひく-い, みじか-い\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{sense|small}} [[矮化]], [[矮躯]], [[矮小]], [[矮人]], [[矮星]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

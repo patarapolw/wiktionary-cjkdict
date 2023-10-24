@@ -1,0 +1,44 @@
+{
+  "title": "塡",
+  "ns": 0,
+  "id": 13302,
+  "timestamp": 1531036876000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|填}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土10}} <!-- Note: Not a kyūjitai form of 填 -->\n\n# to [[fill in]]\n# to [[fill up]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=てん, ちん\n|kun=ふさ-ぐ, うず-める\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|装塡|そうてん}}: to [[reload]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character was added to the 2010 {{w|Jōyō kanji}} reform instead of {{l|ja|填}}, despite {{l|ja|填}} being part of the {{w|JIS X 0208}} standard character set at that time."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

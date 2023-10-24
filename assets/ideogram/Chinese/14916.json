@@ -1,0 +1,42 @@
+{
+  "title": "幀",
+  "ns": 0,
+  "id": 14916,
+  "timestamp": 1553548999000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|帧}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=帧}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=幀\n|c=zing3\n|mc=\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}} {{attention|zh|normal defs}}\n# {{lb|zh|computing}} [[frame]]\n#: {{zh-x|掉幀|to drop a frame}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|橫幀|裝幀}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "鑽",
+  "ns": 0,
+  "id": 30140,
+  "timestamp": 1543397623000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|钻|鑚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|鑚|鑽}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金19|shin=鑚}}\n\n# to [[start]] a [[fire]] {{gloss|by [[friction]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[さん]] (san)|kun=[[きり]] (kiri), [[きる]] (kiru), [[たがね]] (tagane)|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鑽孔|さんこう}}: to [[bore#Verb|bore]], to {{l|en|punch}}\n* {{ja-r|鑽孔機|さんこうき}}: {{l|en|punching}} {{l|en|machine}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "An {{w|extended shinjitai}} character, [[鑚]] (U+945A) is available for this character."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "圄",
+  "ns": 0,
+  "id": 12926,
+  "timestamp": 1537848680000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=囗07}}\n\n# [[prison]]\n# [[arrest]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=ご\n|kanon=ぎょ\n|kun=ひとや-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|囹圄|れいぎょ}}, {{ja-r|囹圄|れいご}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

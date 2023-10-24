@@ -1,0 +1,44 @@
+{
+  "title": "贈",
+  "ns": 0,
+  "id": 27737,
+  "timestamp": 1538062033000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|赠}}\n{{character info/new}}\n{{character info/new|codepoint=0xfa65}}\n{{character info/new|codepoint=0xfac1}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=貝12}}\n\n# {{defn|lang=ja|sort=貝12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞう\n|kanon=そう\n|kun=おく-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|寄贈|きぞう|[[donation]]}}\n* {{ja-r|贈呈|ぞうてい}}\n* {{ja-r|贈答|ぞうとう}}\n* {{ja-r|贈与|ぞうよ}}\n* {{ja-r|贈賄|ぞうわい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|贈る|おくる}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

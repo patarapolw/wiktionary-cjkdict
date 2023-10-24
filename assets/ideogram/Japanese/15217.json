@@ -1,0 +1,65 @@
+{
+  "title": "彙",
+  "ns": 0,
+  "id": 15217,
+  "timestamp": 1548404633000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|彚|汇}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=彐10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ\n|kanon=い<ゐ\n|kun=はりねずみ-, あつ-める, たぐい-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|い|yomi=on}}\n{{IPAchar|/wi/}} → {{IPAchar|/i/}}\n\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|彙}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|い|hhira=ゐ}}\n\n# to [[sort]] and [[collect]]; [[collection]], [[compilation]], [[group]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|語彙|ごい}}\n* {{ja-r|彙報|いほう}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|はりねずみ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はりねずみ|ハリネズミ}}\n\n# {{altspell|針鼠|lang=ja||[[hedgehog]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

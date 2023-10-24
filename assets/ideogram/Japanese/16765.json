@@ -1,0 +1,90 @@
+{
+  "title": "教",
+  "ns": 0,
+  "id": 16765,
+  "timestamp": 1545934835000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|敎}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=攴07}}\n\n# to [[teach]]; [[teaching]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう<けう\n|kanon=こう<かう\n|kun=おし-え<をし-へ, おし-える<をし-へる, おそ-わる<をし-はる\n|nanori=さとし, のり, ひさ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|教%育|きょう%いく|[[education]]}}\n* {{ja-r|教%室|きょう%しつ|[[classroom]]}}\n* {{ja-r|教%員|きょう%いん}}\n* {{ja-r|教%化|きょう%か}}\n* {{ja-r|教%科|きょう%か}}\n* {{ja-r|教%会|きょう%かい}}\n* {{ja-r|教%戒|きょう%かい}}\n* {{ja-r|教%誨|きょう%かい}}\n* {{ja-r|教%学|きょう%がく}}\n* {{ja-r|教%材|きょう%ざい|[[teaching]] [[materials]]}}\n* {{ja-r|教%義|きょう%ぎ}}\n* {{ja-r|教%師|きょう%し}}\n* {{ja-r|教%授|きょう%じゅ}}\n* {{ja-r|教%習|きょう%しゅう}}\n* {{ja-r|教%習%所|きょう%しゅう%じょ}}\n* {{ja-r|教%訓|きょう%くん}}\n* {{ja-r|教%条|きょう%じょう}}\n* {{ja-r|教%法|きょう%ほう|[[teaching]] [[method]]}}\n* {{ja-r|宗%教|しゅ%きょう|[[religion]]}}\n* {{ja-r|教%条 主%義|きょう%じょう しゅ%ぎ}}\n* {{ja-r|教%諭|きょう%ゆ}}\n* {{ja-r|教%養|きょう%よう}}\n* {{ja-r|回%教|かい%きょう}}\n* {{ja-r|儒%教|じゅ%きょう}}\n* {{ja-r|調%教|ちょう%きょう}}\n* {{ja-r|教%祖|きょう%そ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|きょう}}\n{{IPAchar|/keu/}} → {{IPAchar|/kjoː/}}\n\nFrom {{der|ja|ltc|-|sort=きょう}} {{ltc-l|教|gloss=to teach, to instruct}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|きょう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|きょう|hhira=けう}}\n\n# [[teaching]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Only used in kanji compounds. Never used in isolation with this reading."
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|きょう|hhira=けう}}\n\n# [[-ism]] {{gloss|religion}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|さとし}}\nFrom either the classical {{m|ja|終止形|tr=shūshikei||terminal form}} ''satoshi'' of modern adjective {{m|ja|聡い|tr=satoi||clever, sharp-witted}}, or the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} ''satoshi'' of cognate verb {{m|ja|諭す|tr=satosu||to admonish, persuade, remonstrate → to redirect into a smarter direction}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|さとし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|さとし}}\n\n# {{given name|lang=ja|sort=さとし|male}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Kokugo Dai Jiten}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "慵",
+  "ns": 0,
+  "id": 15753,
+  "timestamp": 1553550404000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yōng,yóng\n|c=jung4\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|意懶心慵|嬌慵|慵惰|心慵意懶|意慵心懶|偎慵墮懶|慵懶|乖慵|疏慵|疏慵愚鈍}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B01165}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

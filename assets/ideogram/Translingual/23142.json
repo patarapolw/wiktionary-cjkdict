@@ -1,0 +1,39 @@
+{
+  "title": "精",
+  "ns": 0,
+  "id": 23142,
+  "timestamp": 1543581443000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa1d}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=14}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=119|rad=米|as=08|sn=14|four=95927|canj=FDQMB|ids=⿰米青(GHTJV), ⿰米靑(K,U+FA1D)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𡁔]], [[𪇒]], [[𦾿]], [[𧓔]]}} ''(Contains <small>{{l|mul|青}}</small>)''\n* {{l|mul|[[𭨇]]}} ''(Contains <small>{{l|mul|靑}}</small>)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0910.100|dkj=26997|dj=1336.080|hdz=53150.110|uh=7CBE}}\n{{Han ref|uh=FA1D}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

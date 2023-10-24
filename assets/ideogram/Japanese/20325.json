@@ -1,0 +1,44 @@
+{
+  "title": "牖",
+  "ns": 0,
+  "id": 20325,
+  "timestamp": 1497594455000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=片11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ゆ\n|kanon=ゆう\n|kun=まど-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|窓牖|そうゆう|[[window]]}}\n* {{ja-r|牖戸|ゆうこ}}\n\n{{ja-kanjitab|まど|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まど}}\n\n# {{alternative spelling of|lang=ja|窓}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

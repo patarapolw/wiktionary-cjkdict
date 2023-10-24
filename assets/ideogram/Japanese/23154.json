@@ -1,0 +1,54 @@
+{
+  "title": "糊",
+  "ns": 0,
+  "id": 23154,
+  "timestamp": 1545486154000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|胡|餬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=米09}}\n\n# [[glue]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ご\n|kanon=こ\n|kun=のり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|糊化|こか}}\n* {{ja-r|糊精|こせい}}: [[dextrin]]\n* {{ja-r|糊塗|こと}}\n* {{ja-r|模糊|もこ}}, {{ja-r|糢糊|もこ}}\n{{der-bottom}}\n\n{{ja-kanjitab|のり|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|のり|acc=2|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|のり}}\n\n# [[glue]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

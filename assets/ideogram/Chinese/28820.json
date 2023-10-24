@@ -1,0 +1,51 @@
+{
+  "title": "邋",
+  "ns": 0,
+  "id": 28820,
+  "timestamp": 1553570319000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=liè\n|mc=2\n|oc=2\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|獵}}\n# {{zh-alt-form|躐}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=lā\n|c=laap6\n|mc=1\n|oc=1\n|cat=\n}}\n{{attention|nan|Is pronunciation \"lia̍p\" verified?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|邋遢}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

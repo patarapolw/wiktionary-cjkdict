@@ -1,0 +1,44 @@
+{
+  "title": "進",
+  "ns": 0,
+  "id": 28716,
+  "timestamp": 1552119259000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|进}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=辵08}}\n\n# [[advance]], make [[progress]], [[enter]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん\n|kanon=しん\n|on=じん\n|kun=すす-む, すす-める, の-びる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|進化|しんか}}\n* {{ja-r|進出|しんしゅつ}}\n* {{ja-r|昇進|しょうしん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|すすむ}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|すすむ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

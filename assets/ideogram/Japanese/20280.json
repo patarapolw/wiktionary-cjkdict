@@ -1,0 +1,87 @@
+{
+  "title": "爪",
+  "ns": 0,
+  "id": 20280,
+  "timestamp": 1553192207000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|爫|瓜|手|寸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=爪00}}\n\n# [[nail]], [[claw]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=そう\n|kun=つめ-, つま-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|つめ|yomi=k}}\nUltimately from {{inh|ja|jpx-pro|*tumay}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|つめ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つめ}}\n\n# [[nail]]; [[claw]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der3|lang=ja\n| {{ja-r|鷹の爪|たか の つめ}}\n}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|つま|yomi=k}}\nUltimately from {{inh|ja|jpx-pro|*tumay}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|つま}}\n\n# {{lb|ja|only in compounds}} [[nail]]; [[claw]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der3|lang=ja\n| {{ja-r|爪先|つまさき}}\n}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Related terms",
+                      "text": "{{der3|lang=ja\n| {{ja-r|摘まむ|つまむ}}, {{ja-r|摘む|つむ}}\n}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />\n\n[[Category:Japanese basic words|つめ]]\n[[Category:ja:Anatomy|つめ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

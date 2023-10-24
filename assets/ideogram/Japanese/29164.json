@@ -1,0 +1,39 @@
+{
+  "title": "醤",
+  "ns": 0,
+  "id": 29164,
+  "timestamp": 1507161144000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|醬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=酉10|kyu=醬}}\n\n# {{defn|lang=ja|sort=酉10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう<さう\n|kanon=しょう<しやう\n|kun=ひしお-<ひしほ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[醤油]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

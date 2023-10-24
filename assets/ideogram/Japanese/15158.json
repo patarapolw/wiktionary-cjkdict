@@ -1,0 +1,90 @@
+{
+  "title": "弟",
+  "ns": 0,
+  "id": 15158,
+  "timestamp": 1552875927000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=弓04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だい\n|kanon=てい\n|kanyoon=で\n|kun=おと-, おとうと-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|おと}}\nCognate with the verb {{m|ja|劣る|tr=otoru||to be lesser, inferior}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|おと}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|乙}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おと}}\n\n# a [[younger]] [[sibling]]"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|劣る|おとる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Brother}}\n[[File:Nuclear_family_member_younger_brother.svg|thumb|250px|{{lang|ja|弟}} (''otōto''): the orange highlighting indicates the '''[[younger]] [[brother]]''' relative to all of the children to the left.]]\n</div>\n{{ja-kanjitab|yomi=k|おとうと}}\n{{IPAchar|/otopito/}} → {{IPAchar|/otoɸito/}} → {{IPAchar|/otowito/}} → {{IPAchar|/*otowuto/}} → {{IPAchar|/otouto/}} → {{IPAchar|/otoːto/}}\n\nOriginally a compound of {{compound|ja|sort=おとうと|弟|t1=younger sibling|tr1=oto|人|t2=person|tr2=hito}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|おとうと|acc=4|acc_ref=NHK,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おとうと}}\n\n# one’s own [[younger]] [[brother]]\n# a younger [[male]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Used when referring to one’s own younger brother. To refer to someone else’s younger brother, the suffixed form {{m|ja|弟}}{{m|ja|さん|tr=otōto-san}} is used instead. When ''addressing'' one’s own younger brother, the given name is used, often with a suffix, such as {{m|ja|太郎}}{{m|ja|君|tr=Tarō-kun}}. Contrast with addressing one’s own older brother, when one uses the honorific {{m|ja|お兄さん|tr=onīsan}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|おとうと]]\n[[Category:ja:Family|おとうと]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

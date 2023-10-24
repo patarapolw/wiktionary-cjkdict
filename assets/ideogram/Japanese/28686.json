@@ -1,0 +1,39 @@
+{
+  "title": "逓",
+  "ns": 0,
+  "id": 28686,
+  "timestamp": 1532883065000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|遞}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|逓|遞}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=辵07|kyu=遞}}\n\n# [[relay]]\n# [[in turn]]\n# [[sending]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=てい\n|kun=たが-いに, か-わる\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* {{ja-r|逓信|ていしん}}: {{l|en|communications}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

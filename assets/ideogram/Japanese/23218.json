@@ -1,0 +1,54 @@
+{
+  "title": "紆",
+  "ns": 0,
+  "id": 23218,
+  "timestamp": 1548693441000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|纡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=糸03}}\n\n# {{defn|lang=ja|sort=糸03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|goon=[[う]] (u)|kanon=[[う]] (u)|kun=[[まがる]] (magaru), [[めぐる]] (meguru)|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|う|yomi=on}}\nFrom {{der|ja|ltc|sort=う|-}} {{ltc-l|紆}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|う|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|う}}\n\n# [[roundabout]]"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|迂|う}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

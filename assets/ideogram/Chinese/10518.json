@@ -1,0 +1,56 @@
+{
+  "title": "亓",
+  "ns": 0,
+  "id": 10518,
+  "timestamp": 1523499168000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|其|元}}\n{{character info/new}}\n<!-- may be replaced by zh-forms -->",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=qí\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|其}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Clipping of {{zh-l|亓官}}, which is a corrupted form of {{zh-l|笄官|an ancient official position}}<!--https://www.zhihu.com/question/20799328-->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=qí\n|cat=pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{surname|lang=zh}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

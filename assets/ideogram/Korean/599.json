@@ -1,0 +1,39 @@
+{
+  "title": "馬",
+  "ns": 0,
+  "id": 599,
+  "timestamp": 1553252499000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|马}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja/new|말|마}}<br>\n{{ko-hanja/new|성|마}}\n\n# [[horse]] (in compounds)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ko-l|마차|馬車|horse-drawn carriage}}\n* {{ko-l|경마|競馬|horserace}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ko-l|말}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

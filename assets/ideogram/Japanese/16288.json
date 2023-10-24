@@ -1,0 +1,49 @@
+{
+  "title": "捺",
+  "ns": 0,
+  "id": 16288,
+  "timestamp": 1553550724000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手08}}\n\n# [[press]]\n# [[print]]\n# [[affix]] a [[stamp]]\n# [[seal]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=なち, なつ\n|kanon=だつ\n|kun=お-す, さ-す, つ-く\n|nanori=な\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|捺印|なついん}}\n* {{ja-r|捺染|なっせん}}\n* {{ja-r|捺%落|な%らく}}\n* {{ja-r|捺筆|だっぴつ}}\n* {{ja-r|押捺|おうなつ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|なつ|yomi=o}}\n\nFrom {{der|ja|ltc|sort=なつ|-}} {{ltc-l|捺}}."
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|なつ}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=なつ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

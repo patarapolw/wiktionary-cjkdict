@@ -1,0 +1,44 @@
+{
+  "title": "痾",
+  "ns": 0,
+  "id": 21315,
+  "timestamp": 1548323088000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|疴}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=疒08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=あ\n|kanon=あ\n|kun=やまい-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|あ|yomi=o}}\nFrom {{der|ja|ltc|sort=あ|-}} {{ltc-l|痾}}."
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|あ}}\n\n# [[illness]]; [[disease]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "鞍",
+  "ns": 0,
+  "id": 30974,
+  "timestamp": 1553570913000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鞌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=革06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=あん\n|kanon=あん\n|kun=くら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|くら|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くら}}\n\n# [[saddle]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|あん|yomi=o}}\nFrom {{der|ja|ltc|sort=あん|-}} {{ltc-l|鞍}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|あん}}\n\n# [[saddle]]\n\n[[Category:ja:Horse tack|くら]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

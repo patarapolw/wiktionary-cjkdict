@@ -1,0 +1,39 @@
+{
+  "title": "穿",
+  "ns": 0,
+  "id": 22537,
+  "timestamp": 1544016602000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=穴04}}\n\n# [[put on]] (to the feet)\n# [[dig]]\n# [[pierce]]\n# [[drill]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kun=うが-つ, は-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|穿る|ほじる}}, {{ja-r|穿る|ほじくる}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

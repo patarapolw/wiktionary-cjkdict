@@ -1,0 +1,85 @@
+{
+  "title": "胃",
+  "ns": 0,
+  "id": 24295,
+  "timestamp": 1552533026000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|胄|冑}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=肉05}}\n\n# [[stomach]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ\n|kanon=い<ゐ\n}}{{attn|ja|Period of reading ゐ needs verification: perhaps it's ancient?}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=o}}\n{{IPAchar|/wi/}} → {{IPAchar|/i/}}\n\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|胃}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|い|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|い|hhira=ゐ}}\n\n# [[stomach]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|胃%袋|い%ぶくろ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|い|hhira=ゐ}}\n\n# {{lb|ja|Chinese astronomy|sort=い}} Stomach Mansion {{gloss|one of the {{w|Twenty-Eight Mansions}}}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|胃宿|えきえぼし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い|hhira=ゐ}}\n\n# [[stomach]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|胃%液|い%えき}}: [[gastric juice]]\n* {{ja-r|胃%癌|い%がん}}: [[gastric]] [[cancer]]\n* {{ja-r|胃%酸|い%さん}}: [[gastric acid]]\n* {{ja-r|胃%腸|い%ちょう}}: [[stomach]] and [[intestine]]s\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n[[Category:Japanese basic words|い]]\n[[Category:ja:Anatomy|い]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

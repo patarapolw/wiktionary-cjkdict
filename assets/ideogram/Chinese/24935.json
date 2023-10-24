@@ -1,0 +1,66 @@
+{
+  "title": "茸",
+  "ns": 0,
+  "id": 24935,
+  "timestamp": 1550548819000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n''{{w|Shuowen}}'': {{Han compound|艸|聰|c1=s|c2=p|t1=grass|ls=psc|abb2=y}} (''{{w|Shuowen}}'')."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|zh|←→[[絨]]?}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=róng\n|m-s=\n|c=jung4,jung5\n|c-t=\n|g=\n|h=pfs=yùng\n|j=\n|mb=ě̤ng\n|md=\n|mn=qz,tp,xm:liông/kh,zz:jiông\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=a,n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# soft and downy, [[pilose]]\n# fine thin [[hair]]\n# the [[pilose]] [[antler]] of a [[young]] [[stag]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|茸毛|茸茸|鹿茸|丰茸|尨茸|毛茸|毛茸茸|狐裘龍茸|紅茸|綠茸茸|蓊茸|蓬茸|蘢茸|闒茸|闒茸貨|麋茸|松茸|椎茸}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=rǒng\n|dial=n\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-obsolete}} {{defn|zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{qualifier|Hakka}} {{R:hak:Lau 1997}}\n* {{qualifier|Min Nan}} {{thcwdq}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

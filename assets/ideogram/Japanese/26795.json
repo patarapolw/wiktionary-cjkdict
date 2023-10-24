@@ -1,0 +1,51 @@
+{
+  "title": "観",
+  "ns": 0,
+  "id": 26795,
+  "timestamp": 1551339951000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|觀}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|観|觀}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=見11|kyu=觀}}\n\n# [[see]], [[observe]], [[view]]\n# [[appearance]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かん<くわん\n|kanon=かん<くわん\n|kun=み-る, しめす\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=かん}} {{m|zh|觀|tr=kwan||look}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|かん}}\n\n# [[look]], [[appearance]]\n# [[sight]]\n# {{lb|ja|Buddhism|sort=かん}} observation meditation"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|観音|^かんのん}}\n* {{ja-r|観念|かんねん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

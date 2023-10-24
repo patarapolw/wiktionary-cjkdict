@@ -1,0 +1,54 @@
+{
+  "title": "麋",
+  "ns": 0,
+  "id": 32971,
+  "timestamp": 1553571700000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=鹿06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=み\n|kanon=び\n|kun=おおじか, なれしか\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おおじか|yomi=k|r=y}}\nCompound of {{compound|ja|sort=おおじか|大|tr1=ō|t1=big|鹿|tr2=shika|t2=deer}}. {{rendaku2|sort=おおじか|shika|jika}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|おおじか|acc=h|acc_ref=DJR|y=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おおじか|hhira=おほじか}}\n\n# {{alternative spelling of|lang=ja|sort=おおじか|大鹿}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Cervids|おおじか]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

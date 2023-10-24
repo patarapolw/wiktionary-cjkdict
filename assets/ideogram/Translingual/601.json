@@ -1,0 +1,44 @@
+{
+  "title": "国",
+  "ns": 0,
+  "id": 601,
+  "timestamp": 1551704686000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|國|囯}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|国|国|[[國]]}}\n{{stroke order|type=gbw|strokes=8}}\n{{stroke order|type=ganimate}}\n<div style=\"float:right;\">{{stroke order|type=janimate}}</div>",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=31|rad=囗|as=05|sn=8|four=60103|canj=WMGI|ids=⿴囗玉}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[啯]], [[帼]], [[掴]], [[𬇹]], [[椢]], [[蝈]], [[𬧩]], [[𫭔]], [[𬜿]], [[𫂆]], [[𠏹]]}}\n* {{l|mul|腘}} {{q|Exception: Only for mainland China character. Taiwan character contains <big>{{l|mul|囯}}</big> with {{l|mul|王}} instead}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|國}} {{q|Orthodox [[Traditional Chinese|traditional form]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{wikidata|Q2014925}}\n{{Han ref|kx=0218.041|dkj=04752|dj=0446.070|hdz=10716.070|uh=56FD}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "㐪",
+  "ns": 0,
+  "id": 10118,
+  "timestamp": 1495644582000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=亠04}}\n\n# {{rfdef|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=[[がい]] (gai)\n|kun=[[い]] (i)\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|003590}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

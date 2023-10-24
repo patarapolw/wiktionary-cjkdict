@@ -1,0 +1,68 @@
+{
+  "title": "眼",
+  "ns": 0,
+  "id": 21652,
+  "timestamp": 1554138505000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|眠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=目06}}\n\n# {{defn|lang=ja|sort=目06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん\n|kanon=がん\n|on=ごん\n|kun=まなこ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|まなこ|yomi=k}}\nCompound of {{m|ja|目|tr=ma||eye}} + {{m|ja|の|tr=no|pos=genitive case}} + {{m|ja|子|tr=ko|pos=nominalizing suffix}}. Initial ''ma'' is the unbound form of {{m|ja|目|tr=me|pos=id}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|まなこ|acc=1|acc_ref=SMK2,ZAJ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まなこ}}\n\n# the pupil; also, the eyes in general\n#* c. '''790''': ''Daihannya-kyō Ongi'' (Ishiyamadera manuscript, page 34)\n#*: 眼晴 [...] 倭言'''麻那古'''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|め|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|め}}\n\n# {{alternative form of|目|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{cite-book\n|last=Tsukishima\n|first=Hiroshi\n|title=Kojisho Ongi Shūsei 3: Daihannya-kyō Ongi, Daihannya-kyō Jishō\n|publisher=Kyūko Shoin\n|year=1978\n|location=Tōkyō\n|lang=ja\n|isbn=4-7629-3090-3\n}}\n<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

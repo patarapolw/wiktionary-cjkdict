@@ -1,0 +1,39 @@
+{
+  "title": "驛",
+  "ns": 0,
+  "id": 31751,
+  "timestamp": 1553571263000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|駅|驿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|駅|驛}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=馬13|shin=駅}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=やく\n|kanon=えき\n|kun=うまや-\n}}\n\n{{ja-kanjitab|えき|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えき|shin=駅}}\n\n# {{kyujitai spelling of|駅}}: [[station]] (train, underground/subway)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

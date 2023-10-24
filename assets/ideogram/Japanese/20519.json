@@ -1,0 +1,44 @@
+{
+  "title": "猒",
+  "ns": 0,
+  "id": 20519,
+  "timestamp": 1539057214000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=犬08}}\n\n# {{defn|lang=ja|sort=犬08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん<えん<えむ<!--, よう<えふ-->\n|kanon=えん<えん<えむ<!--, よう<えふ-->\n|kanyoon=おん<おん<おむ<!--, おう<おふ-->\n|kun=あ-きる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Used only once in the ''Man'yōshū'' as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨u⟩}}:\n* {{RQ:Manyoshu|19|4214}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man19Yo.html#4214 here]\n*: {{ja-usex|m=[...]　世間%之 '''猒'''家口都良家苦 開花%毛 時%尓宇都呂布　[...]|m_kana=[...]　よのなか%の '''う'''けくつらけく さくはな%も とき%にうつろふ　[...]|[...]　世の中の'''憂'''けく辛けく咲く花も時に移ろふ　[...]|[...]　よ の なかの '''う'''けく つらけく さく はな も とき に うつろふ　[...]|rom=...yo-no-naka no '''u'''keku tsurakeku saku hana mo toki ni utsurou...|This world is a sad and and painful place. The blossoms scatter with the season, and life, too, is evanescent.<ref>{{cite-book|1982|Paula Doe|author2=Yakamochi Ōtomo|A Warbler's Song in the Dusk: The Life and Work of {{w|Ōtomo no Yakamochi|Ōtomo Yakamochi}} (718-785)|contributor=University of California, Berkeley. Center for Japanese Studies|edition=illustrated|publisher=University of California Press|isbn=0520043464|page=174}}</ref>|sort=う}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

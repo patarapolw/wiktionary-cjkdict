@@ -1,0 +1,90 @@
+{
+  "title": "尚",
+  "ns": 0,
+  "id": 14298,
+  "timestamp": 1551757933000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|尙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=小05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<じやう\n|kanon=しょう<しやう\n|kun=くわえる<くは-へる, たか-い, たか-める, たっと-ぶ, とうと-ぶ<たふと-ぶ, とうと-い<たふと-い, なお-<なほ, ねが-う<ねが-ふ\n|nanori=さね, たか, たかし, なか, なり, ひさ, ひさし, まさ, まし, ます, よし, より\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|尚古|しょうこ}}\n* {{ja-r|尚歯|しょうし}}\n* {{ja-r|尚書|^しょうしょ}}\n* {{ja-r|尚早|しょうそう}}\n* {{ja-r|尚武|しょうぶ}}\n* {{ja-r|好尚|こうしょう}}\n* {{ja-r|高尚|こうしょう}}\n* {{ja-r|和尚|おしょう}}, {{ja-r|和尚|かしょう}}, {{ja-r|和尚|わじょう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=kanon|しょう}}\n\nFrom {{bor|ja|ltc|sort=しよう|-}} {{ltc-l|尚|id=2}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|しょう|hhira=しやう}}\n\n# [[esteem]], [[respect]]\n# [[high]] [[status]]\n# [[long]] [[time]]\n# [[furthermore]], [[still]], [[yet]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しょう|hhira=しやう}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=しよう}}\n# {{given name|male|or=female|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|なお}}\n{{ja-see|なお}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|なお|hhira=なほ}}\n\n# {{given name|male|or=female|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=n|たかし}}\nNominalization of classical adjective {{m|ja|高し|tr=takashi}}, modern {{m|ja|高い|tr=takai||[[high]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|たかし}}\n\n# {{surname|lang=ja|A=a|nodot=1}}\n# {{given name|male|lang=ja|A=a|nodot=1}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=n|ひさし}}\nNominalization of classical adjective {{m|ja|久し|tr=hisashi}}, modern {{m|ja|久しい|tr=hisashii||[[long]] [[time]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ひさし}}\n\n# {{given name|male|or=female|lang=ja|A=a|nodot=1|sort=ひさし}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

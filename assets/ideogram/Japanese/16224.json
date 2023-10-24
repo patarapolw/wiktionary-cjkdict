@@ -1,0 +1,51 @@
+{
+  "title": "挺",
+  "ns": 0,
+  "id": 16224,
+  "timestamp": 1553849182000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう\n|kanon=てい\n|on=ちょう\n|kun=ぬ-く\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ちょう|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|ちょう|counter}}\n\n# long and narrow things such as guns, scissors, candles, inksticks"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|空挺|くうてい}}: [[airborne]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

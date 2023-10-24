@@ -1,0 +1,51 @@
+{
+  "title": "撥",
+  "ns": 0,
+  "id": 16586,
+  "timestamp": 1541204397000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|拨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|𫝼|撥}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手12|shin=𫝼}}\n\n# {{defn|lang=ja|sort=手12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=はち\n|kanon=はつ\n|kanyoon=ばち\n|kun=は-ねる, おさ-める\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja|撥}}\n{{ja-kanjitab|ばち|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ばち|バチ|shin=𫝼}}\n\n# [[plectrum]] for instruments such as the [[biwa]] and [[shamisen]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ja-r|桴|ばち|rom=-}}, {{ja-r|枹|ばち}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

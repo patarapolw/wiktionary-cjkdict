@@ -1,0 +1,49 @@
+{
+  "title": "流",
+  "ns": 0,
+  "id": 18920,
+  "timestamp": 1553057564000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xF9CA}}\n{{character info|0xFA97}}\n{{character info|0x2F902}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han stroke|Mainland China, Japan and Korea<br/>[[File:流-bw.png|400px]]}}\n{{Han stroke|Taiwan<br/>[[File:流-tred.png|90px]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China (based on ''{{w|Xin Zixing}}'' character form), Japanese [[kanji]], Korean [[hanja]] and Vietnamese [[Nôm]], the upper right component {{l|mul|sc=Jpan|𠫓}} is written {{l|mul|⿱[[亠]][[厶]]}} (4 strokes) while the bottom right stroke is written <big>{{l|mul|乚}}</big> with an ending hook which is the historical form found in the {{w|Kangxi Dictionary}}.\n* In Taiwan and Hong Kong (based on {{w|Big5}} character form), the upper right component {{l|mul|sc=Hant|𠫓}} is written {{l|mul|⿻[[一]][[厶]]}} (3 strokes) while the bottom right stroke is written <big>{{l|mul|㇄}}</big> without the ending hook.\n* Three {{w|CJK compatibility ideographs}} exist for this character:\n** <code>U+F9CA</code> corresponds to a duplicate character found in South Korea's {{w|KS X 1001}} character set.\n** <code>U+FA97</code> corresponds to an alternative form used in North Korea which is similar to the character used in Taiwan/Hong Kong.\n** <code>U+2F902</code> corresponds to an alternative form used in Taiwan which is similar to the character used in mainland China/Japan/Korea but the bottom right stroke is written <big>{{l|mul|㇄}}</big> without the ending hook."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=07|sn=9|snmj=10|snk=10|four=34113|canj=EYIU|ids=⿰氵㐬(GJKV,<code>U+F9CA</code>,<code>U+2F902</code>),⿰氵⿱𠫓⿲丿丨㇄(HT,<code>U+FA97</code>)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𠺩]], [[𭱛]], [[𣹭]], [[蓅]], [[𥧕]], [[𥰤]], [[𡏬]], [[𭒐]], [[𬈰]], [[瑬]], [[𮋠]], [[鎏]], [[𪃂]], [[𩙣]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|ja|ル}} ''([[Katakana]] character derived from {{w|Man'yōgana}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{wikidata|Q54875319}}\n{{Han ref|kx=0623.040|dkj=17572|dj=1019.070|hdz=31631.120|uh=6D41}}\n{{Han ref|uh=F9CA}}\n{{Han ref|uh=FA97}}\n{{Han ref|uh=2F902}}\n\n[[Category:Han characters from which katakana were derived|ル]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

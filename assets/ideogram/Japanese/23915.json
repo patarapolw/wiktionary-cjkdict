@@ -1,0 +1,63 @@
+{
+  "title": "罪",
+  "ns": 0,
+  "id": 23915,
+  "timestamp": 1544248402000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|辠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=网08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ざい\n|kanon=さい\n|kun=つみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top4}}\n* {{ja-r|罪悪感|ざいあくかん}}\n{{mid4}}\n* {{ja-r|罪状|ざいじょう}}\n{{mid4}}\n* {{ja-r|罪人|ざいにん}}, {{ja-r|罪人|つみびと}}\n{{mid4}}\n* {{ja-r|犯罪|はんざい}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|つみ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つみ}}\n\n# [[guilt]]\n# [[sin]]\n# [[offence]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|infl=na|つみ}}\n\n# [[sinful]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|つみ}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

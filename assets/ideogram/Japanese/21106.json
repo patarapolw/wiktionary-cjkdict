@@ -1,0 +1,76 @@
+{
+  "title": "田",
+  "ns": 0,
+  "id": 21106,
+  "timestamp": 1553523036000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𐌎|⊞|申|甲|由}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=田00}}\n\n# [[paddy]], [[field]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=でん\n|kanon=てん\n|kun=た-\n|nanori=だ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Note that the {{m|en|rice paddy}} meaning is specific to Japanese. The Chinese word for [[rice paddy]] is {{m|zh|水田}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|豊%田|^とよ%た}}\n* {{ja-r|成%田|^なり%た}}\n* {{ja-r|羽%田|^はね%だ}}\n* {{ja-r|半%田|^はん%だ}}\n* {{ja-r|油%田|ゆ%でん|[[oil field]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|た|yomi=k}}\nFrom {{etyl|ojp|ja|sort=た}}. Appears in the [[w:Kojiki|''Kojiki'']] written in roughly 711-712.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|た|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|た}}\n\n# [[rice paddy]]\n#: {{ja-usex|'''田'''を耕す|'''た''' を たがやす|to plow a '''rice field'''}}\n# [[cultivated]] [[field]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The term ''ta'' can refer to either a wet field as for rice agriculture, or a dry field as for other crops. This term does not refer to a wild field or [[meadow]]."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|田圃|たんぼ}}, {{ja-r|田んぼ|たんぼ}}: a [[cultivated]] [[field]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

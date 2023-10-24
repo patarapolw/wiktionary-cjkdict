@@ -1,0 +1,49 @@
+{
+  "title": "均",
+  "ns": 0,
+  "id": 13002,
+  "timestamp": 1544764311000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=土04}}\n\n# [[gentle]]\n# [[equalize]]\n# [[equally]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=うん, きん\n|kanon=うん, きん\n|kanyoon=いん\n|kun=なら-す\n|nanori=お, ただ, なお, なり, ひとし, ひら, まさ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top4}}\n* {{ja-r|均%一|きん%いつ}}\n* {{ja-r|均衡|きんこう}}\n{{mid4}}\n* {{ja-l|均輸法}}\n* {{ja-r|均斉|きんせい}}\n{{mid4}}\n* {{ja-r|均沾|きんてん}}\n* {{ja-r|均田|きんでん}}\n{{mid4}}\n* {{ja-r|均等|きんとう}}\n* {{ja-r|均整|きんせい}}\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=2249\n|shift=8BCF\n|jis=3651\n|euc=B6D1\n|skip=1-3-4\n|freq=715\n|nelson=1065\n|newnelson=988\n|halpern=235\n|kld=173\n|heisig=160\n|tuttle=3b4.8\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ひとし}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|ひとし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

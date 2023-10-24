@@ -1,0 +1,39 @@
+{
+  "title": "折",
+  "ns": 0,
+  "id": 16052,
+  "timestamp": 1548575165000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|摺}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=手04}}\n\n# fold",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せち\n|kanon=せつ\n|kun=お-る<を-る, おり-, お-れる<を-れる, くじ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|折紙|おりがみ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

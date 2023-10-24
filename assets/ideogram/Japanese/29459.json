@@ -1,0 +1,95 @@
+{
+  "title": "銅",
+  "ns": 0,
+  "id": 29459,
+  "timestamp": 1552876273000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|铜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=金06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ずう<づう\n|kanon=とう\n|kanyoon=どう\n|kun=あかがね-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|黄銅|おうどう}}, {{ja-r|黄銅|こうどう}}: [[brass]]\n* {{ja-r|青銅|せいどう}}: [[bronze]]\n* {{ja-r|銅製|どうせい}}: [[coppern]]\n* {{ja-r|銅牌|どうはい}}: [[bronze medal]]\n* {{ja-r|銅鑼|どら}}: [[gong]]\n{{der-bottom}}\n\n{{elements|Cu|{{ja-r|ニッケル}}|Ni|{{ja-r|亜%鉛|あ%えん}}|Zn|lang=ja|sort=とう'}}\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|どう|yomi=kanyoon}}\nFrom {{etyl|ltc|ja|sort=とう'}} {{m|zh|銅|tr=duwng||copper}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyoon|どう|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|どう}}\n\n# [[copper]], [[Cu]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|あかがね|yomi=k}}\nCompound of {{compound|ja|赤|tr1=aka|t1=red|金|tr2=kane|t2=metal|sort=あかがね}}. {{rendaku2|kane|gane|sort=あかがね}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あかがね|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あかがね}}\n\n# [[copper]], [[Cu]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|あか|yomi=irr}}\nAbbreviation of ''akagane''.<ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|あか|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あか}}\n\n# [[copper]], [[Cu]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|とう']]\n[[Category:ja:Metals|とう']]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

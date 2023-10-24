@@ -1,0 +1,39 @@
+{
+  "title": "竃",
+  "ns": 0,
+  "id": 22606,
+  "timestamp": 1537743864000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|灶|竈}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|竃|竈}}\n{{wp|lang=ja|竃}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=穴16|kyu=竈}}\n\n# [[hearth]]; [[kitchen]] [[stove]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[そう]] (sō)|kun=[[かまど]] (kamado), [[かま]] (kama), [[へっつい]] (hettsui)|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This is an {{w|extended shinjitai}} character that was added to {{w|JIS X 0208}} in 1990."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

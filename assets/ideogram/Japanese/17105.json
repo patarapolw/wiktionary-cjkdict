@@ -1,0 +1,39 @@
+{
+  "title": "晴",
+  "ns": 0,
+  "id": 17105,
+  "timestamp": 1548453147000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa12}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=日08}}\n\n# clear up",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう\n|kanon=せい\n|kun=は-れる, はれ-, は-らす\n|nanori=はる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はれ}}\n\n# {{alternative form of|晴れ|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

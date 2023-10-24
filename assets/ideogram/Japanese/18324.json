@@ -1,0 +1,66 @@
+{
+  "title": "欧",
+  "ns": 0,
+  "id": 18324,
+  "timestamp": 1552636675000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|歐}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|欧|歐}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=欠04|kyu=歐}}\n\n# [[Europe]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=おう\n|kun=は-く, うた-う\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おう|yomi=kanon}}\nFrom {{der|ja|ltc|sort=おう|-}} {{ltc-l|歐}}, originally meaning “to [[vomit]]” (''ʔəu<sup>X</sup>'', modern Mandarin ''ǒu'', Cantonese ''au<sup>2</sup>''). Later taken from the first character of the transliteration {{m|ja|欧羅巴|tr=Yōroppa|t=[[Europe]]}}, which is identified with ''ʔəu'' (modern Mandarin ''ōu'', Cantonese ''au<sup>1</sup>'')."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|おう|acc=1|acc_ref=DJR|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|おう|kyu=歐}}\n\n# {{short for|lang=ja|欧羅巴|tr=Yōroppa||[[Europe]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|欧米|^おう-^べい}}: {{l|en|Europe}} and {{l|en|America}}\n* {{ja-r|欧州|^おうしゅう}}: {{l|en|Europe}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|おう|kyu=歐}}\n\n# {{short for|lang=ja|欧羅巴|tr=Yōroppa||[[Europe]]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "宮",
+  "ns": 0,
+  "id": 14173,
+  "timestamp": 1554096337000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|宫|官}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{was fwotd|2015|December|21|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=宀07}}\n\n# a [[shrine]]; a [[palace]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=きゅう<きゆう\n|kanyoon=ぐう\n|kun=みや-, いえ-\n|nanori=いえ, たか\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|守宮|やもり}}, {{ja-r|守宮|しゅきゅう}}: [[gecko]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|みや}}\n/mi{{sub|1}}ya/}} → /miya/\n\nFrom {{inh|ja|ojp|-|sort=みや}}. A compound of {{m|ja|神}} or {{compound|ja|sort=みや|御|tr1=mi|t1=spiritual honorific|屋|tr2=ya|t2=house}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref><ref name=\"SMK5\">{{R:Shinmeikai5}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|みや|acc=0|acc_ref=NHK,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みや}}\n\n# {{lb|ja|sort=みや|Shinto}} the place where a god resides: a [[shrine]]\n#* {{RQ:Nippo Jisho|413}}<ref name=\"NJ\">{{R:Nippo Jisho}}</ref>\n#*: '''Miya'''. ミヤ (宮) 神 (Camis)の社.\n# {{lb|ja|sort=みや|Buddhism}} a [[temple]] holding a Buddhist statue\n# the place where a ruler resides: a [[palace]]\n#* {{RQ:Nippo Jisho|413}}<ref name=\"NJ\"/>\n#*: '''Miya'''. ミヤ (宮) 国王の子. また, 国王の宮殿\n# a member of the imperial family\n#* {{RQ:Nippo Jisho|413}}<ref name=\"NJ\"/>\n#*: '''Miya'''. ミヤ (宮) 国王の子. また, 国王の宮殿"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|みや|proper}}\n\n# {{surname|lang=ja|sort=みや}}\n# an old name for a region in the Atsuta area of {{w|Nagoya}}, {{w|Aichi prefecture}}, where the {{w|Atsuta Shrine}} is located"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|きゅう}}\nFrom {{bor|ja|ltc|-|sort=きゅう}} {{m|zh|宮|tr=kjuwng||dwelling; palace; note on a scale}}. Compare modern {{cog|nan|-}} reading ''kiong''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|きゅう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きゅう}}\n\n# a [[palace]]\n# {{lb|ja|sort=きゅう|traditional|_|music|_|of China and Japan}} the [[keynote]] or [[tonic]] of a [[musical]] [[scale]], such as {{m|en|do}} in the {{m|en|do}} {{m|en|re}} {{m|en|mi}} scale notation of [[solfège]]\n# {{short for|lang=ja|sort=きゅう|宮刑|nodot=1}}: literally “palace punishment”, this consisted of [[castration]] for men and [[sequestration]] in the [[palace]] for women\n# {{lb|ja|sort=きゅう|astronomy|astrology}} a [[zodiac]] [[sign]] or [[house]], defined as one-twelfth of the circle of the [[ecliptic]]\n#: {{ja-usex|黄道十二'''宮'''、宝瓶'''宮'''|おうどう じゅうに '''きゅう'''、 ほうへい '''きゅう'''|the twelve '''signs''' of the zodiac, the '''house''' of Aquarius}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

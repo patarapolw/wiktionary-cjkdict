@@ -1,0 +1,39 @@
+{
+  "title": "唎",
+  "ns": 0,
+  "id": 12396,
+  "timestamp": 1533287315000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口07}}\n\n# [[sound]], [[noise]]<!--\n# [[final]] [[particle]]-->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=り\n|kanon=り\n|kun=こえ-<こゑ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Used in the ''{{w|Nihon Shoki}}'' (720 {{CE}}) as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨ri⟩}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

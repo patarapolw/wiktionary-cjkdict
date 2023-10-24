@@ -1,0 +1,80 @@
+{
+  "title": "鍔",
+  "ns": 0,
+  "id": 29692,
+  "timestamp": 1553570427000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|锷}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 4,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金09}}\n\n# [[sword]] [[guard]]\n# [[kettle]] [[brim]]",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がく\n|kanon=がく\n|kun=つば-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ja|鐔}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|つみは|yomi=k}}\n{{ja-kanjitab|つみば|yomi=k}}\n{{IPAfont|⟨tumi<sub>1</sub> pa⟩}} → {{IPAchar|/tumipa/}} → {{IPAchar|/t͡sumifa/}} → {{IPAchar|/t͡sumiha/}}\n\nFrom {{inh|ja|ojp|sort=つみは|-}}, first attested in the ''{{w|Kojiki}}'' (720 {{CE}}).\n\nAppears to be derived from a compound. {{rfv-etymology|ja}}\n\nUsually pronounced with {{rendaku|sort=つみば}}, as ''tsumiba''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つみは|つみば}}\n\n# the [[guard]] at the end of the grip of a [[sword]] or [[polearm]]\n#* {{RQ:Wamyō Ruijushō|5|45}}<ref name=\"WMS\">{{R:Wamyō Ruijushō}}</ref>\n#*: {{lang|ja|'''鐔''' 唐韻云、鐔、音尋、一音潭、'''都美波''' [...] 今俗急呼都婆 劔鼻也}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|つば|yomi=k}}\n{{IPAchar|/tumiha/}} → {{IPAchar|/tumuba/}} → {{IPAchar|/tunba/}} → {{IPAchar|/t͡suba/}}\n\nLikely from {{inh|ja|ojp|sort=つば|-}}, attested in the ''{{w|Wamyō Ruijushō}}'' (938 {{CE}}).\n\nShift from ''tsumiha'' or ''tsumiba'' above.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|つば|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つば}}\n\n# the [[guard]] at the end of the grip of a [[sword]] or [[polearm]]\n#* {{RQ:Wamyō Ruijushō|5|45}}<ref name=\"WMS\"/>\n#*: {{lang|ja|'''鐔''' 唐韻云、鐔、音尋、一音潭、都美波 [...] 今俗急呼'''都婆''' 劔鼻也}}\n#* {{RQ:Nippo Jisho|620}}<ref name=\"NJ\">{{R:Nippo Jisho}}</ref>\n#*: {{lang|ja|'''Tçuba'''. '''ツバ''' ('''鍔'''・'''鐔''') 刀 (Catana)の鍔, すなわち, 刀の柄（つか）に密着している, 銅やその他の金属製の円いある種の輪.}}\n# the [[brim]] or [[visor]] {{gloss|of a [[hat]], for example}}\n# the [[brim]] of a [[kettle]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鍔音|つばおと}}\n* {{ja-r|鍔際|つばぎわ}}, {{ja-r|鍔元|つばもと}}\n* {{ja-r|鍔%師|つば%-し}}\n* {{ja-r|鍔%競り合い|つば%-ぜりあい|rom=-}}, {{ja-r|鍔%迫り合い|つば%-ぜりあい}}\n* {{ja-r|鍔%無し|つば%-なし}}\n* {{ja-r|鍔%鳴り|つば%-なり}}\n* {{ja-r|鍔広|つばびろ}}\n* {{ja-r|葵 鍔|あおい つば}}\n* {{ja-r|金鍔|きんつば}}\n* {{ja-r|銀鍔|ぎんつば}}\n* {{ja-r|車 鍔|くるま つば}}\n* {{ja-r|萩鍔|はぎつば}}\n* {{ja-r|粢 鍔|しとぎ つば}}\n* {{ja-r|食み出し 鍔|はみだし つば}}\n* {{ja-r|肥後%鍔|^ひご%-つば}}\n* {{ja-r|丸鍔|まるつば}}\n* {{ja-r|鍔 継%手|つば つぎ%て|rom=-}}, {{ja-r|鍔 継ぎ手|つば つぎて}}\n* {{ja-r|汲み鍔|くみつば}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

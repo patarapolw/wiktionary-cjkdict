@@ -1,0 +1,63 @@
+{
+  "title": "殕",
+  "ns": 0,
+  "id": 18439,
+  "timestamp": 1514993859000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=fǒu\n|c=fau2\n|h=pfs=\n|j=\n|md=\n|md_note=\n|mn=qz,tw,xm,zz:phú\n|mn-t=\n|mn-t_note=\n|w=\n|w_note=\n|mc=1+2\n|oc=1+2\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to gather [[mold]]; to become [[mildewed]]; to be covered in [[mildew]]\n# {{lb|zh|Min Nan}} [[dark]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=è\n|mc=3\n|oc=3\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[die]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-see|踣|v}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 135]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

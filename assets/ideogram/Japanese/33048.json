@@ -1,0 +1,49 @@
+{
+  "title": "黍",
+  "ns": 0,
+  "id": 33048,
+  "timestamp": 1548130328000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=黍00}}\n\n# [[millet]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょ\n|kanon=しょ\n|kun=きび-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{wp|lang=ja|キビ}}\n{{ja-kanjitab|yomi=k|きび}}\n* {{ja-l|稷}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=1|きび|y=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|きび|キビ}}\n\n# [[proso millet]] (''[[Panicum miliaceum]]'')\n\n{{topics|ja|Grains|sort=きび}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "姬",
+  "ns": 0,
+  "id": 13700,
+  "timestamp": 1553314825000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|姫}}\n{{character info/new}}\n{{character info|0x2F862}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=女07}} <!-- Not listed as kyūjitai in 2010 Jōyō Kanji -->\n\n# {{alt-form|lang=ja|姫}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=き\n|kanon=き\n|kun=ひめ-\n|nanori=ひめ, こひめ, ひめさき, ぷりんせす, れもん\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひめ}}\n\n# {{ja-def|姫}} [[princess]]; [[woman]]; [[prostitute]]; a kind of [[glue]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

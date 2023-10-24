@@ -1,0 +1,39 @@
+{
+  "title": "杓",
+  "ns": 0,
+  "id": 17305,
+  "timestamp": 1553551752000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8DC}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃく<じやく, ひょう<へう\n|kanon=しゃく<しやく, ひょう<へう\n|kun=ひしゃく-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しゃく}}\n\n# [[ladle]], [[dipper]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

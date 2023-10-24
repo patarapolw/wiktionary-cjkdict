@@ -1,0 +1,49 @@
+{
+  "title": "澇",
+  "ns": 0,
+  "id": 19565,
+  "timestamp": 1553557012000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|涝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=涝}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|勞|ls=psc|c1=s|c2=p|t1=water}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lào\n|c=lou6,lou4\n|h=pfs=\n|md=\n|mn=qz:lō͘/tw:làu/xm,zz:lō\n|w=\n|mc=y\n|oc=y\n|cat=v,n,adj\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[inundated]], [[flooded]] ''(of agricultural fields)''\n# flood water in agricultural fields",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{zh-l|旱}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|洪澇|旱澇保收}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

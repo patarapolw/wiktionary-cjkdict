@@ -1,0 +1,44 @@
+{
+  "title": "其",
+  "ns": 0,
+  "id": 11421,
+  "timestamp": 1548358803000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|丌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=八06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎ, ご\n|kanon=き\n|kun=そ-の, そ-れ, それ-, し\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|其れ|それ}}\n* {{ja-r|其の|その}}\n* {{ja-r|其処|そこ}}\n* {{ja-r|其方|そちら}}\n* {{ja-r|其れ共|それとも}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronoun",
+              "text": "{{ja-pos|pronoun|し}}\n\n# {{lb|ja|archaic|sort=し}} [[that]]\n# [[you]]\n# [[oneself]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

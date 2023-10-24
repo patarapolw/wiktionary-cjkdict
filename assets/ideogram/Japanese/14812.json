@@ -1,0 +1,66 @@
+{
+  "title": "差",
+  "ns": 0,
+  "id": 14812,
+  "timestamp": 1544172760000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|着|羞}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=工07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し, しゃ, せ\n|kanon=し, さ, さい\n|kun=さ-す, たが-う, たがい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* [[差異]]\n* [[差違]]\n* [[差益]]\n* [[差額]]\n* [[差金]]\n* [[差遣]]\n* [[差損]]\n* [[差等]]\n* [[差動]]\n* [[差配人]]\n* [[差別]]\n* [[脇差]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|さ}}\n\nFrom {{bor|ja|ltc|sort=さ|-}} {{ltc-l|差}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|さ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さ}}\n\n# {{lb|ja|sort=さ|generally}} [[difference]]\n#: {{ja-usex|資%金%力で'''差'''を付ける|し%きん %りょく で '''さ''' を つける|to make a '''difference''' in the financial power}}\n#: {{synonyms|ja|差異|tr1=sai|違い|tr2=chigai}}\n# {{lb|ja|sort=さ|arithmetic}} [[difference]]\n#: {{ja-usex|九%十と七%十%八の'''差'''は十%二である。|きゅう%じゅう と なな%じゅう%はち の '''さ''' は じゅう%に で ある。|The '''difference''' of ninety and seventy-eight is twelve.}}\n#: {{antonyms|ja|和|tr=wa|q=[[sum]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|被%減%数|ひ%げん%すう}}; {{ja-r|減%数|げん%すう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "験",
+  "ns": 0,
+  "id": 31679,
+  "timestamp": 1507163084000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|驗|验}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|験|驗}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=馬08|kyu=驗}}\n\n# {{defn|lang=ja|sort=馬08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん\n|kanon=げん\n|kanyoon=けん\n|kun=しるし-, あかし-, ため-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|経験|けいけん|gloss=[[experience]]}}\n* {{ja-r|経験値|けいけんち|gloss=[[experience point]]}}\n* {{ja-r|試験|しけん|gloss=[[test]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

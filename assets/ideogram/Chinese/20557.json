@@ -1,0 +1,37 @@
+{
+  "title": "猹",
+  "ns": 0,
+  "id": 20557,
+  "timestamp": 1526897822000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|ls=psc|犬|c1=s|t1=dog|alt1=犭|查|no_och2=y|c2=p}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chá\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# A species of [[wild]] [[animal]] mentioned in {{w|Lu Xun}}'s ''{{w|My Old Home}}''. Its true identity remains unknown but it was identified as possibly being a badger in one of his letters."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

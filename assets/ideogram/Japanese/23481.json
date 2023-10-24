@@ -1,0 +1,39 @@
+{
+  "title": "練",
+  "ns": 0,
+  "id": 23481,
+  "timestamp": 1538060562000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|练}}\n{{character info/new}}\n{{character info/new|0xf996}}\n{{character info/new|0xfa57}}\n{{character info/new|0xfab0}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|k=y}} <!-- U+FA57 is the kyūjitai form -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=糸09}}\n\n# [[practice]]\n# [[gloss]]\n# [[train]]\n# [[drill]]\n# [[polish]]\n# [[refine]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=れん\n|kun=ね-る, ねりぎぬ-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|練習|れんしゅう}}: [[practice]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

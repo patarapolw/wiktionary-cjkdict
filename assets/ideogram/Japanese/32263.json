@@ -1,0 +1,39 @@
+{
+  "title": "鰡",
+  "ns": 0,
+  "id": 32263,
+  "timestamp": 1507500250000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[りゅう]] (ryū)|kun=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぼら|ボラ}}\n\n# [[flathead mullet]], ''[[Mugil cephalus]]''\n\n{{wikipedia|Flathead mullet}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

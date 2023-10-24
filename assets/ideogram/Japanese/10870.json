@@ -1,0 +1,39 @@
+{
+  "title": "侑",
+  "ns": 0,
+  "id": 10870,
+  "timestamp": 1554015794000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人06}}\n\n# urge to eat",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=ゆう\n|kun=すす-める, たす-ける}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ゆう}}\n\n# {{given name|female|lang=ja|sort=ゆう}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

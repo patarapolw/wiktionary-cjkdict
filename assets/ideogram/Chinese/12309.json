@@ -1,0 +1,76 @@
+{
+  "title": "咽",
+  "ns": 0,
+  "id": 12309,
+  "timestamp": 1548510264000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|嚥}}\n{{character info/new}}\n{{character info/new|0xf99e}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|口|t1=mouth|因|ls=psc|c1=s|c2=p}} – connected to the mouth, the throat."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yān\n|c=jin1\n|h=pfs=\n|md=\n|mn=qz,tw,xm,zz:ian\n|w=\n|mc=1\n|oc=1\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[throat]], [[pharynx]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|咽喉|咽炎|口咽|喉咽|咽頭}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|嚥|sv}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yè\n|c=jit3\n|mc=3\n|oc=2,3\n|ma=\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to make a [[hoarse]] sound"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|嗚咽|哽咽}}\n\n{{zh-cat|Elementary}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

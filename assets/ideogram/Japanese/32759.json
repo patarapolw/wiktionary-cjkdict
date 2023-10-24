@@ -1,0 +1,61 @@
+{
+  "title": "鷭",
+  "ns": 0,
+  "id": 32759,
+  "timestamp": 1531782840000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=鳥12}}\n\n# {{defn|lang=ja|sort=鳥12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぼん\n|kanon=はん\n|kanyoon=ばん\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|ばん|yomi=kanyoon}}\nFrom {{der|sort=はん'|ja|ltc|鷭|tr=bʉɐn}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|ばん|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ばん|バン}}\n\n# [[common moorhen]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|大鷭|おおばん|[[Eurasian coot]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Rallids|はん']]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

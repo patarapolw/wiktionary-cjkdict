@@ -1,0 +1,44 @@
+{
+  "title": "蝌",
+  "ns": 0,
+  "id": 26103,
+  "timestamp": 1523541129000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=kē\n|c=fo1\n|mn=ml:kho/qz:kho͘/qz:kher\n|mc=y\n|oc=y\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{n-g|Used in {{zh-l|蝌蚪}}.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|蝌子|蝌蚪|蝌蚪文|蝌蝌啃蠟}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

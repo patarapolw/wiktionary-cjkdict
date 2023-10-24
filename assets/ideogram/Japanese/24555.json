@@ -1,0 +1,56 @@
+{
+  "title": "臆",
+  "ns": 0,
+  "id": 24555,
+  "timestamp": 1552642171000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=肉13}}\n\n# [[chest]]; [[breast]]; [[heart]]\n# to [[repress]] one's [[mind]]; to be [[hesitant]] in one's [[thought]]s\n# [[timid]]; [[nervous]]; [[afraid]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おく\n|kanon=よく\n|kun=おく-する, むね, おもう, おぼえる\n|nanori=ぞう\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おく|yomi=goon}}\nFrom {{der|ja|ltc|sort=おく|-}} {{ltc-l|臆}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|おく|y=goon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|おく}}\n\n# [[chest]]\n# [[guess]]; [[conjecture]]\n# [[timid]]; [[nervous]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* [[臆出]]\n* {{ja-r|臆度|おくたく}}: [[guessing]]; [[speculation]]\n* {{ja-r|臆断|おくだん}}: {{alt-form|lang=ja|{{ja-r|憶断|おくだん|rom=-}}||[[hasty]] [[conclusion]]; [[conjecture]]}}\n* {{ja-r|臆病|おくびょう}}: [[timidity]]; [[cowardice]]\n* {{ja-r|臆面|おくめん}}: [[shy]] [[face]]\n* {{ja-r|臆見|おっけん}}: [[conjecture]]\n* {{ja-r|臆説|おくせつ}}: [[hypothesis]]; [[speculation]]\n* {{ja-r|臆測|おくそく}}: [[guessing]]; [[supposition]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

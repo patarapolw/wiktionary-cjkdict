@@ -1,0 +1,49 @@
+{
+  "title": "腫",
+  "ns": 0,
+  "id": 24463,
+  "timestamp": 1546105503000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|肿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉09}}\n\n# [[tumor]], [[growth]]; [[swelling]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ\n|kanon=しょう\n|kun=は-れる, は-らす, く-む, はれもの-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|しゅ|yomi=o}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しゅ}}\n\n# tumor, growth"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|しゅ|suffix}}\n\n# tumor\n# [[type]] of [[cancer]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

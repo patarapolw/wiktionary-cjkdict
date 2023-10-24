@@ -1,0 +1,97 @@
+{
+  "title": "蒜",
+  "ns": 0,
+  "id": 25320,
+  "timestamp": 1551724317000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=艸10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[さん]] (san)|kanon=[[さん]] (san)|kun=[[にんにく]] (ninniku), [[ひる]] (hiru)}}\n\n{{wp|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|にんにく|yomi=k}}\nSaid to be from {{m|ja|忍辱}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|にんにく|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|大蒜}}, {{ja-l|葫}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|にんにく|ニンニク}}\n\n# [[garlic]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "{{U:ja:biology|ニンニク}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|浜蒜|はまにんにく}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ひる|yomi=k}}\n\nFrom {{inh|ja|jpx-pro|*peru||garlic}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ひる|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひる}}\n\n# [[allium]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|大蒜|おおびる|[[garlic]]}}\n* {{ja-r|根蒜|ねびる}}, {{ja-r|沢蒜|ねびる}}\n* {{ja-r|野蒜|のびる}}\n* {{ja-r|蒜山|^ひるぜん|[[w:Hiruzen|Hiruzen]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Alliums|にんにく]]\n[[Category:ja:Spices and herbs|にんにく]]\n[[Category:ja:Vegetables|にんにく]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

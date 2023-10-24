@@ -1,0 +1,66 @@
+{
+  "title": "菻",
+  "ns": 0,
+  "id": 25148,
+  "timestamp": 1535923587000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|麻}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𦾰}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph 1",
+              "text": "{{Han-glyphref|⿱艹林|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han etym}}\n{{Han compound|艸|林|c1=s|c2=p|t1=grass; plant|ls=psc}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=lǐn\n|c=lam4\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|botany}} [[artemisia]]\n#: {{zh-syn|蒿}}\n# {{†}} {{zh-used in|拂菻|{{w|Byzantine Empire}}}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Glyph 2",
+              "text": "{{Han-glyphref|⿱[[⻀]][[𣏟]]|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "Found in the historical ''{{w|Jiyun}}'' {{w2|zh|pref=《|集韻|suf=》}} {{w|rime dictionary}} published during the {{w|Song dynasty}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|麻|v}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C11594}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "title": "怨",
+  "ns": 0,
+  "id": 15422,
+  "timestamp": 1552546358000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心05}}\n\n# [[grudge]]\n# [[resentment]]\n# [[jealous]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん<をん\n|kanon=えん<ゑん\n|kun=うら-む, うら-み, うら-めし.い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-l|恨}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えん|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えん|-}} {{ltc-l|怨}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えん|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えん|hhira=ゑん}}\n\n# [[hate]]; [[resent]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|怨言|えんげん}}\n* {{ja-r|怨恨|えんこん}}\n* {{ja-r|怨色|えんしょく}}: [[grudging]] [[look]]\n* {{ja-r|怨望|えんぼう}}\n* {{ja-r|私怨|しえん}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おん|yomi=goon}}\nFrom {{der|ja|ltc|sort=おん|-}} {{ltc-l|怨}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|おん|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|おん|hhira=をん}}\n\n# [[hate]]; [[resent]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|怨敵|おんてき}}\n* {{ja-r|怨念|おんねん}}\n* {{ja-r|怨霊|おんりょう}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

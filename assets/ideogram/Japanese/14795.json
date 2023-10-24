@@ -1,0 +1,76 @@
+{
+  "title": "川",
+  "ns": 0,
+  "id": 14795,
+  "timestamp": 1553743471000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|州|巛|𫶧}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=巛00}}\n\n# [[river]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kun=かわ-<かは-\n|nanori=か, こ, さわ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|川上|かわかみ|upstream}}\n* {{ja-r|川下|かわしも|downstream}}\n* {{ja-r|川岸|かわぎし|river bank}}\n* {{ja-r|川口|かわぐち|mouth of river}}\n* {{ja-r|川崎|^かわさき|Kawasaki}}\n* {{ja-r|川%瀬|かわ%せ|rapids}}\n* {{ja-r|川蝉|かわせみ|kingfisher}}\n* {{ja-r|川端|かわばた|riverbank}}\n* {{ja-r|川縁|かわぶち}}, {{ja-r|川縁|かわべり|riverside}}\n{{der-mid3}}\n* {{ja-r|川獺|かわうそ|otter}}\n* {{ja-r|川嫁|かわよめ|river [[nymph]]}}\n* {{ja-r|川%原|かわ%ら|[[riparian]] plain, flats alongside a river}}\n* {{ja-r|川%柳|せん%りゅう|comic haiku}}\n* {{ja-r|小%川|お%がわ|brook}}\n* {{ja-r|河%川|か%せん|rivers}}\n* {{ja-r|山川|さんせん|mountains and rivers}}\n* {{ja-r|滝川|たきがわ|rapids}}\n* {{ja-r|谷川|たにがわ|mountain stream}}\n{{der-mid3}}\n* {{ja-r|堀川|ほりかわ|canal}}\n* {{ja-r|淀川|^よどがわ|Yodogawa River}}\n* {{ja-r|川%下り|かわ%くだり|going downstream}}\n* {{ja-r|川%沿い|かわ%ぞい|along the river}}\n* {{ja-r|ドン川|^ドン-がわ|Don River}}\n* {{ja-r|天の川|^あま の がわ|Milky Way}}\n* {{ja-r|江戸%川|^えど%がわ|Edo River}}\n* {{ja-r|角川|^かどかわ|surname}}\n* {{ja-r|河%川敷|か%せんしき|riverbed}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{inh|ja|ojp|-}} {{IPAfont|kapa}}<ref>[http://npcmj.ninjal.ac.jp/interfaces/cgi-bin/dictionary.sh?search=l050025&part=n&db=oncoj Old Japanese kapa] in [http://oncoj.ninjal.ac.jp/ Oxford-NINJAL Corpus of Old Japanese]</ref> from {{inh|ja|jpx-pro|*kapa}}<ref>Stewart A. Curry. (2004) ''Small linguistics: phonological history and lexical loans in Nakijin dialect Okinawan''. http://hdl.handle.net/10125/11526</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|かわ|acc=2|acc_ref=SMK2}}\n* {{a|[[w:Kagoshima dialect|Kagoshima]]}} {{IPA|[ko̞ː]|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かわ|hhira=かは}}\n\n# [[river]], [[stream]], [[brook]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|河川|かせん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|河}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|かわ|hhira=かは|suffix}}\n\n# the ... [[river]], used in named of rivers or streams\n\n{{ja-pos|がわ|hhira=がは|suffix}}\n\n# the ... [[river]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|かわ']]\n[[Category:ja:Rivers]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

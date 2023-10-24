@@ -1,0 +1,85 @@
+{
+  "title": "衛",
+  "ns": 0,
+  "id": 26432,
+  "timestamp": 1548775709000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|衞|卫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|衛|衞}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=行10|kyu=衞}}\n\n# [[defense]]\n# [[protection]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え<ゑ\n|kanon=えい<ゑい\n|kun=まも-る, まもり\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|衛}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えい|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えい|hhira=ゑい}}\n\n# [[defend]]; [[protect]]; [[guard]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|えい|hhira=ゑい}}\n\n# {{lb|ja|historical}} {{w|Wey (state)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|え|yomi=goon}}\nFrom {{der|ja|ltc|sort=え|-}} {{ltc-l|衛}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|え|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|え|hhira=ゑ}}\n\n# {{lb|ja|rare}} [[defend]]; [[protect]]; [[guard]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|まもる}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|まもる]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

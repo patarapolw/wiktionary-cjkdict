@@ -1,0 +1,88 @@
+{
+  "title": "蜩",
+  "ns": 0,
+  "id": 26068,
+  "timestamp": 1539316804000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫08}}\n\n# [[clear]]-[[tone]]d [[cicada]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<でう\n|kanon=ちょう<てう\n|kun=ひぐらし-, せみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|茅蜩|ひぐらし}}, {{ja-r|茅蜩|ぼうちょう|[[evening cicada]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|ヒグラシ}}\n{{wp|Tanna japonensis}}\n</div>\n{{ja-kanjitab|ひぐらし|yomi=k}}\n\nFrom {{m|ja|日暮らし|tr=higurashi||[[all day]]}}. {{rfv-etymology|ja|sort=ひくらし}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|茅蜩}}, {{ja-l|晩蝉}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ひぐらし|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひぐらし|ヒグラシ}}\n\n# the [[evening cicada]], {{taxlink|Tanna japonensis|species}}\n#: {{syn|ja|茅蜩|tr=bōchō}}\n#: {{hyper|ja|蝉|tr=semi}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かなかな|yomi=irr}}\n{{onomatopoeic|ja|sort=かなかな}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|かなかな|acc=0|acc_ref=DJR|acc2=4|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かなかな|カナカナ}}\n\n# the [[evening cicada]], {{taxlink|Tanna japonensis|species}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|寒蝉|かんせみ}}, {{ja-r|寒蝉|かんせん}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese onomatopoeias|かなかな]]\n[[Category:ja:Hemipterans|ひぐらし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

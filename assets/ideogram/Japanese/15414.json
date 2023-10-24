@@ -1,0 +1,39 @@
+{
+  "title": "怠",
+  "ns": 0,
+  "id": 15414,
+  "timestamp": 1547086895000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心05}}\n\n# [[neglect]]\n# [[laziness]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だい\n|kanon=たい\n|kun=おこた-る, なま-ける\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|怠け者|なまけもの}}\n* {{ja-r|懈怠|かいたい}}, {{ja-r|懈%怠|け%たい}}, {{ja-r|懈%怠|け%だい}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

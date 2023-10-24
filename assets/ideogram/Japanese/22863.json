@@ -1,0 +1,63 @@
+{
+  "title": "節",
+  "ns": 0,
+  "id": 22863,
+  "timestamp": 1553602136000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|节|卩}}\n{{character info/new}}\n{{character info/new|0xfa56}}\n{{character info/new|0xfaad}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|節|pic2=節 kyuujitai.PNG}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=竹07}}\n\n# [[node]]\n# [[joint]]; [[section]]\n# [[season]]\n# [[verse]] {{qualifier|part of a song}}, [[stanza]] {{qualifier|part of a poem}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せち\n|kanon=せつ\n|kun=ふし-, ふ-, よ-, ノット-\n|nanori=たかし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* [[節介]]\n* [[節季]]\n* [[節句]]\n* [[節奏]]\n* [[節操]]\n* [[節度]]\n* [[節分]]\n* [[節目]]\n* [[節約]]\n* [[節理]]\n* {{ja-r|季%節|き%せつ}}: a [[season]]\n* {{ja-r|文%節|ぶん%せつ}}: a [[phrase]], [[part]] of a [[sentence]]\n* {{ja-r|関%節|かん%せつ}}: a [[joint]] {{qualifier|as in a finger or an insect leg}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ふし|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふし}}\n\n# a [[knuckle]], a [[joint]]\n# [[melody]]\n#: {{ja-usex|Aに'''節'''をつける|エー に '''ふし''' を つける|set A to tune}}\n# [[point]]\n# [[section]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|せつ|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せつ}}\n\n# [[occasion]], [[time]]\n# a person's [[principles]]\n# [[paragraph]], [[stanza]], [[clause]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

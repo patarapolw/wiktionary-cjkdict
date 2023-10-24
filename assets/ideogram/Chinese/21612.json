@@ -1,0 +1,49 @@
+{
+  "title": "眚",
+  "ns": 0,
+  "id": 21612,
+  "timestamp": 1531406693000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𤯝}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|生|目|c1=p|c2=s|t2=eye|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shěng\n|c=saang2\n|mc=y\n|oc=y\n|cat=n,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[disease]] of the [[eye]]; {{w|cataract}}\n# [[eclipse]]\n# [[fault]]; [[negligence]]\n#: {{zh-syn|過失}}\n# [[disaster]]; [[catastrophe]]\n# {{zh-alt-form|省}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|災眚|眚沴|眚災|日月之眚}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B02864}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "叫",
+  "ns": 0,
+  "id": 12072,
+  "timestamp": 1553324696000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F839}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=5}}\n{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=02|asj=03|sn=5|snj=6|four=64000|canj=RVL|ids=⿰口丩}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𢫃]], [[𣐲]], [[𣌺]], [[𨦀]], [[䆗]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0172.060|dkj=03240|dj=0383.020|hdz=10573.020|uh=53EB}}\n{{Han ref|uh=2F839}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

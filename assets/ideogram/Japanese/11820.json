@@ -1,0 +1,56 @@
+{
+  "title": "勺",
+  "ns": 0,
+  "id": 11820,
+  "timestamp": 1553325100000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA77}}\n{{character info|0x2F828}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=勹01}}<ref>Removed from the daily use [[w:Jōyō kanji|Jōyō kanji]] by the Japanese government in 2010.\n\n: The Japan Times (October 21, 2009). ''[http://www.kanjiclinic.com/kc99final.htm Get set for next year's overhaul of joyo kanji].'' Accessed February 23, 2010.</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃく\n|kanon=しゃく\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "<references/>\n\n{{ja-kanjitab|しゃく|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|しゃく|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しゃく}}\n\n# 18 [[millimeter]]s (a tenth of a {{ja-r|合|ごう}})\n# 0.033 square meters (a hundredth of a [[tsubo]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|せき|tr=seki}}\n\n[[Category:ja:Units of measure|しゃく]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

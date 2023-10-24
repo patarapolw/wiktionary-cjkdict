@@ -1,0 +1,136 @@
+{
+  "title": "青",
+  "ns": 0,
+  "id": 6210,
+  "timestamp": 1553693926000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|靑}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=青00|kyu=靑}}\n\n# [[blue]], [[bluish]]-[[green]]\n# [[immature]], [[unripe]], [[young]]\n# [[publication]], [[record]]\n# [[east]]\n# [[cyan]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=せい<!--\n|toon=しん-->\n|soon=し.い\n|kun=あお-<あを-, あお-い<あを-い, さお-<さを-\n|nanori=お, きよ, はる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|青青|せいせい}}\n* {{ja-r|青果|せいか|[[produce]], [[fruit]]s and [[vegetable]]s}}\n* {{ja-r|青化法|せいかほう}}\n* {{ja-r|青雲|せいうん}}\n* {{ja-r|青眼|せいがん}}\n* {{ja-r|青酸|せいさん|[[hydrocyanic acid]]}}\n* {{ja-r|青山|せいざん}}\n* {{ja-r|青史|せいし}}\n* {{ja-r|青磁|せいじ}}\n* {{ja-r|青春|せいしゅん}}\n* {{ja-r|青松|せいしょう}}\n* {{ja-r|青天|せいてん}}\n* {{ja-r|青銅|せいどう}}\n* {{ja-r|青年|せいねん}}\n* {{ja-r|青嵐|せいらん}}\n* {{ja-r|青竜|せいりゅう}}\n* {{ja-r|青竜|せいりょう}}\n* {{ja-r|青竜|しょうりゅう}}\n* {{ja-r|汗青|かんせい}}\n* {{ja-r|殺青|さっせい}}\n* {{ja-r|丹青|たんせい}}\n* {{ja-r|瀝青|れきせい|[[bitumen]]}}\n* {{ja-r|群青|ぐんじょう|[[ultramarine]]}}\n* {{ja-r|紺青|こんじょう}}\n* {{ja-r|緑青|ろくしょう}}\n* {{ja-r|刺青|いれずみ|[[tattoo]], [[tattooing]]}}\n* {{ja-r|万年青|オモト}}\n* {{ja-r|青%菜|チン%ツァイ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あお|yomi=k}}\n{{IPAchar|/sawo/}} {{q|uncertain, may be compound as opposed to root}} → {{IPAchar|/awo/}} → {{IPAchar|/ao/}}\n\nFrom {{inh|ja|ojp|sort=あお|-}}, ultimately from {{inh|ja|jpx-pro|*awo}}.<ref>Thomas Pellard.  [https://hal.archives-ouvertes.fr/hal-01289288/document Ryukyuan perspectives on the proto-Japonic vowel system].  Frellesvig, Bjarke; Sells, Peter. Japanese/Korean Linguistics 20, CSLI Publications, pp.81–96, 2013.</ref>\n\nAppears as the latter part in older compounds with an ''-s-'' infix or prefix. It is unclear if this leading {{IPAchar|/s/}} is indicative of an earlier form (''sawo''), or if this was an addition for [[euphony]] to avoid vowel clusters, or for other reasons. This {{IPAchar|/s/}} is also seen in {{m|ja|雨|tr=ame||[[rain]]|pos=becoming ''same'' in old compounds}} and {{m|ja|稲|tr=ine||[[rice]]|pos=becoming ''shine'' in old compounds}}.\n\nGiven that this {{IPAchar|/s/}} only ever appears interstitially, and given the semantics, this {{IPAchar|/s/}} may be cognate with {{cog|ko|-}} interfix {{m|ko|ᄉ|-ᄉ-|tr=-s-}} used to mark possession; compare {{nc|de|-s-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あお|acc=1|acc_ref=DJR|a=Ja-ao-blue.ogg}}\n* (''[[w:Kansai dialect|Kyoto]]'') あ{{overline|お}} [àóꜜ]<ref>{{R:Keihankei}}</ref>"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=靑|あお|hhira=あを}}\n\n# [[blue]]\n## one of three [[primary colour]]s\n## a [[shade]] of blue to [[blue green]]\n# {{short for|lang=ja|青信号|tr=ao-shingō|nodot=1|sort=あお}}: [[green]] {{gl|[[traffic light]] [[color]], as the color of [[plant]]s}}\n#: {{ant|ja|赤|tr=aka}}\n# the [[black]], [[bluish]] [[color]] of a [[horse]]'s [[hair]]; also, such a horse\n#* {{RQ:Nippo Jisho|39}}<ref>{{R:Nippo Jisho}}</ref>\n#*: '''Auo'''. {{lang|ja|'''アヲ (青)''' 馬の毛色で, 全体に黒くて'''青'''みがあり, 両耳の内側に多少白いところのあるもの. この部分の毛も他の部分と同じようにすっかり黒い時には,}} Curo{{lang|ja|(黒)と呼ばれる.}}\n#: {{syn|ja|青毛|tr=aoge}}\n# {{lb|ja|sort=あお|card games}} {{short for|lang=ja|[[青短]], [[青丹]]|tr=aotan|nodot=1}}: one of the three ''[[hanafuda]]'' [[card]]s bearing a blue {{m|ja|短冊|tr=tanzaku||[[narrow]] [[card]] used for [[poetry]]}}; a {{m|ja|役|tr=yaku}} of the three ''aotan'' cards, worth 3 points\n# {{lb|ja|sort=あお|card games}} a blue card in {{m|ja|天正カルタ|tr=Tenshō karuta}}\n# {{short for|lang=ja|青本|tr=aohon|nodot=1}}: {{rfdef|ja}}\n# {{short for|lang=ja|青銭|tr=aosen|nodot=1}}: {{rfdef|ja}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|青い|あおい}}: [[blue]] {{qualifier|adjective}}\n* {{ja-r|青青|あおあお}}\n* {{ja-r|青%嵐|あお%-あらし}}\n* {{ja-r|藍|あい|[[indigo]]}}\n* {{ja-r|青%海原|あお%-うなばら}}\n* {{ja-r|青馬|あお.うま}}\n* {{ja-r|青黴|あおかび}}\n* {{ja-r|青桐|あおぎり}}\n* {{ja-r|青草|あおくさ}}\n* {{ja-r|青雲|あおくも}}, {{ja-r|青雲|あおぐも}}\n* {{ja-r|青%写真|あお%-じゃしん}}\n* {{ja-r|青%信号|あお%-しんごう|[[green light]]}}\n* {{ja-r|青筋|あおすじ}}\n* {{ja-r|青空|あおぞら}}\n* {{ja-r|青%田|あお%た}}\n* {{ja-r|青竹|あおたけ}}, {{ja-r|青竹|あおだけ}}\n* {{ja-r|青短|あおたん|rom=-}}, {{ja-r|青丹|あおたん}}\n* {{ja-r|青%菜|あお%な}}\n* {{ja-r|青%嶺|あお%ね}}\n* {{ja-r|青虫|あおむし}}\n* {{ja-r|青物|あおもの}}\n* {{ja-r|青柳|あおやぎ}}\n* {{ja-r|青山|あおやま}}\n* {{ja-r|真%青|ま%さお}}, {{ja-r|真っ青|まっさお}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proverbs",
+                  "text": "* {{ja-r|青は藍より出でて藍より青し|あお は あい より いでて あい より あおし}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "{{table:colors/ja}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|kyu=靑|あお|hhira=あを}}\n\n# [[unripe]], [[young]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|青%臭い|あお%くさい|[[inexperienced]]}}\n* {{ja-r|青%侍|あお%さぶらい}}, {{ja-r|青%侍|あお%ざむらい}}\n* {{ja-r|青%大将|あお%-だいしょう}}\n* {{ja-r|青%二%才|あお%-に%さい|[[greenhorn]]}}\n* {{ja-r|青%女房|あお%-にょうぼう}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|kyu=靑|あお|hhira=あを}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=あお}}\n# {{surname|lang=ja|A=a|nodot=1|sort=あお}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|せい|yomi=o}}\n\nFrom {{bor|ja|ltc|sort=せい|-}} {{ltc-l|青}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=ko|せい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せい}}\n\n# the [[color]] [[blue]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|kyu=靑|せい}}\n\n# {{given name|female|lang=ja|A=a|nodot=1}}\n# {{surname|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|しい|yomi=o}}\n{{unk|ja|sort=しい}}. The reading might be an obscure term from {{etyl|ojp|-}} or dialect. The use of the character {{lang|ja|青}} arises from its {{m|ja|宋音|tr=sōon||Song-dynasty pronunciation}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|しい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=靑|し.い}}\n\n# {{lb|ja|sort=しい|rare|archaic|mythology}} a [[beast]] that looks like a [[weasel]], and is said to have lived in present-day [[w:Fukuoka prefecture|Fukuoka]] and [[w:Yamaguchi prefecture|Yamaguchi]] [[prefecture]]s\n# {{lb|ja|rare|archaic|mythology}} a [[beast]] that looks like a [[wolf]], and is said to have appeared around {{w|Mount Yoshino}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|sort=あお}}\n{{topics|ja|Blues|JLPT-5|Greens|sort=あお}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

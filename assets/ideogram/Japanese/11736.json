@@ -1,0 +1,118 @@
+{
+  "title": "劫",
+  "ns": 0,
+  "id": 11736,
+  "timestamp": 1554162859000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|刦}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=力05}}\n\n# [[intimidate]]\n# [[aeon]], [[eon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<こふ\n|kanon=きょう<けふ\n|kanyoon=ごう<ごふ\n|kun=おびや-かす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|劫火|こうか}}\n* {{ja-r|曠劫|こうごう}}\n* {{ja-r|劫濁|こうじょく}}\n* {{ja-r|劫奪|こうだつ}}\n* {{ja-r|劫初|ごうしょ}}\n* {{ja-r|劫盗|ごうとう}}\n* {{ja-r|劫末|ごうまつ}}\n* {{ja-r|劫掠|ごうりゃく|rom=-}}, {{ja-r|劫略|ごうりゃく}}\n* {{ja-r|永劫|えいごう}}\n* {{ja-r|壊劫|えこう}}\n* {{ja-r|億劫|おっこう}}, {{ja-r|億劫|おっくう}}\n* {{ja-r|空劫|くうこう}}\n* {{ja-r|久遠%劫|くおん%ごう}}\n* {{ja-r|倶胝%劫|くてい%こう}}\n* {{ja-r|減劫|げんこう}}\n* {{ja-r|賢劫|けんごう}}, {{ja-r|賢劫|げんごう}}\n* {{ja-r|五劫 思惟|ごこう しゆい}}\n* {{ja-r|三 阿 僧祇 劫|さん あ そうぎ こう}}\n* {{ja-r|四劫|しこう}}\n* {{ja-r|住劫|じゅうこう}}\n* {{ja-r|小劫|しょうこう}}\n* {{ja-r|成劫|じょうこう}}, {{ja-r|成劫|じょうごう}}\n* {{ja-r|塵劫|じんこう}}, {{ja-r|塵劫|じんごう}}, {{ja-r|塵点%劫|じんでん%ごう}}\n* {{ja-r|増劫|ぞうこう}}\n* {{ja-r|多生%劫|たしょう%ごう}}\n* {{ja-r|万劫|まんごう}}, {{ja-r|万劫|ばんごう}}\n* {{ja-r|無量%劫|むりょう%ごう}}\n* {{ja-r|歴劫|りゃっこう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja}}\n{{wp|Kalpa (aeon)}}\n</div>\n{{ja-kanjitab|こう|yomi=o}}\n{{IPAchar|/kopu/}} → {{IPAchar|/kofu/}} → *{{IPAchar|/kowu/}} → {{IPAchar|/koː/}}\n\nFrom {{bor|ja|ltc|sort=こう|-}} {{ltc-l|劫}}, short form of {{ltc-l|劫波}}, itself a [[transliteration]] of {{bor|ja|sa|sort=こう|कल्प||[[aeon]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{ja-pron|y=go|こう|acc=1|acc_ref=DJR}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Noun",
+                      "text": "{{ja-noun|こう|hhira=こふ}}\n\n# {{lb|ja|Buddhism|sort=こう}} ''[[kalpa]]'': a unit of time in [[Buddhist]] [[cosmology]]",
+                      "subSections": [
+                        {
+                          "level": 6,
+                          "title": "Derived terms",
+                          "text": "{{der-top}}\n* {{ja-r|劫を経る|こう を へる}}\n* {{ja-r|劫﨟|こうろう|rom=-}}, {{ja-r|劫臘|こうろう}}\n* {{ja-r|億万%劫|おくまん%ごう}}\n* {{ja-r|時劫|じこう}}\n{{der-bottom}}"
+                        },
+                        {
+                          "level": 6,
+                          "title": "Proverbs",
+                          "text": "* {{ja-r|烏賊の甲より年の劫|いか の こう より とし の こう}}\n* {{ja-r|亀の甲より年の劫|かめ の こう より とし の こう}}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{ja-pron|y=go|こう|acc=0|acc2=1|acc_ref=DJR|acc2_ref=DJR}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Noun",
+                      "text": "{{ja-noun|こう|hhira=こふ}}\n\n# {{lb|ja|Go|sort=こう}} a position in which two [[alternating]] [[stone]]s can be [[capture]]d and [[recapture]]d [[indefinitely]]",
+                      "subSections": [
+                        {
+                          "level": 6,
+                          "title": "Derived terms",
+                          "text": "{{der-top}}\n* {{ja-r|劫材|こうざい}}\n* {{ja-r|劫%立て|こう%だて}}\n* {{ja-r|劫種|こうだね}}\n{{der-bottom}}"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ごう|yomi=o}}\n\n{{IPAchar|/ɡopu/}} → {{IPAchar|/ɡofu/}} → *{{IPAchar|/ɡowu/}} → {{IPAchar|/ɡoː/}}\n\nPossibly a shift from ''kō'' above. {{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=kanyo|ごう|acc=1}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ごう|hhira=ごふ}}\n\n# {{lb|ja|Buddhism}} ''[[kalpa]]'': a unit of time in [[Buddhist]] [[cosmology]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|劫罰|ごうばつ}}\n* {{ja-r|時劫|じごう}}\n* {{ja-r|多劫|たごう}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{top|ja|Go|sort=こう}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "徜",
+  "ns": 0,
+  "id": 15284,
+  "timestamp": 1553549417000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cháng\n|c=soeng4\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only|徜徉}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|徉徜|徜徉}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

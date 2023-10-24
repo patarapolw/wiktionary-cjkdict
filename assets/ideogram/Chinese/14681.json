@@ -1,0 +1,49 @@
+{
+  "title": "嵫",
+  "ns": 0,
+  "id": 14681,
+  "timestamp": 1553314242000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F87F}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zī\n|c=zi1\n|mc=y\n|oc=y\n|cat=a,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-used in|嵫釐|{{lb|zh|of a [[mountain]]}} [[arduous]]; [[lofty]]}}\n# {{zh-used in|崦嵫|name of [[mountain]] in [[Gansu]] province}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|崦嵫|嵫景|嵫釐}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B00842}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "賰",
+  "ns": 0,
+  "id": 27712,
+  "timestamp": 1495667471000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=䞐|alt=偆}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|貝|春|ls=psc|c1=s|t1=shell; money|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=chǔn,shǔn\n|c=ceon2\n|mc=y\n|oc=y\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[rich]]; [[wealthy]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|賱賰}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|s=䞐|alt=偆,伸,剩}}\n\nFrom {{zh-l|伸|chhun|to extend}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|mn=xm,zz,tw:chhun/qz:chhǔn/zz:chhūn\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}} {{tlb|zh|Min Nan}}\n\n# to be [[left]]; to [[remain]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|賰錢}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

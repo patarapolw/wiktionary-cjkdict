@@ -1,0 +1,39 @@
+{
+  "title": "桿",
+  "ns": 0,
+  "id": 17618,
+  "timestamp": 1507154395000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|杆}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=木07}}\n\n# [[stick]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=かん|kanon=かん|kun=てこ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|操縦桿|そうじゅうかん|{{lb|ja|aviation|nocat=1}} [[control]] [[stick]]}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "電",
+  "ns": 0,
+  "id": 30822,
+  "timestamp": 1553506287000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|电}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=雨05}}\n\n# [[lightning]]\n# [[electricity]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=でん\n|kanon=てん\n|kun=いなずま-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|電圧|でんあつ}}: [[voltage]]\n* {{ja-r|電気|でんき}}: [[electricity]]\n* {{ja-r|電球|でんきゅう}}: [[light bulb]]\n* {{ja-r|電子|でんし}}: [[electron]]\n* {{ja-r|電磁界|でんじかい}}: [[electromagnetic]] [[field]]\n* {{ja-r|電子計算機|でんし けいさんき}}: [[computer]]\n* {{ja-r|電車|でんしゃ}}: [[electric]] [[train]]\n* {{ja-r|電束|でんそく}}: [[electric flux]]\n* {{ja-r|電卓|でんたく}}: [[electric]] [[calculator]]\n* {{ja-r|電灯|でんとう}}: [[light]], [[lamp]]\n* {{ja-r|電流|でんりゅう}}: [[electric]] [[current]]\n* {{ja-r|電力|でんりょく}}: [[electric power]]\n* {{ja-r|電話|でんわ}}: a [[telephone]]\n* {{ja-r|発電|はつでん}}: [[electric]] [[power generation]]\n* {{ja-r|雷電|らいでん}}: [[thunder]] and [[lightning]]\n* {{ja-r|電撃|でんげき}}: [[shock]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いなずま|yomi=k}}\nCompound of {{compound|ja|いな|tr1=ina|t1=[[rice]] plant|つま|tr2=tsuma|t2=[[spouse]]|sort=いなずま}}. From an old folk belief that lightning joined with the rice plant to bring it to seed. {{rendaku2|tsuma|zuma|sort=いなずま}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|いなずま|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|稲妻}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いなずま|hhira=いなづま}}\n\n# [[lightning]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|落%雷|らく%らい}}\n* {{ja-r|稲%光|いな%びかり}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

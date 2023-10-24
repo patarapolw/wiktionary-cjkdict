@@ -1,0 +1,63 @@
+{
+  "title": "凹",
+  "ns": 0,
+  "id": 11550,
+  "timestamp": 1552875853000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|zh|Related to 坳 or 䫜?}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=āo\n|m-s=wa4/ye2\n|c=aau3,nap1\n|c_note=nap1 - semantic (訓讀)\n|h=gd=au1\n|mn=au/qz,xm:nah/qz,zz:lap\n|mn_note=au - literary; lap - literary (俗); nah - vernacular (俗)\n|mn-t=ao1\n|mc=y\n|oc=y\n|ma=Zh-ao.ogg\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[concave]]; [[hollow]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Antonyms",
+                      "text": "* {{zh-l|凸|convex}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|凹凸|凹下|山凹|凹心臉兒|凹地|凹版|冷鼻凹|凹透鏡|凹版畫|凹心硯|低凹|凹版印刷|凹凸有致|凹狀|凹凸不平|凹面鏡|凹陷|照相凹版|窩窩凹凹|鼻凹糖|鼻凹}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=wā\n|c=waa1\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialect}} {{n-g|Same as}} {{zh-l|洼|wā}}. \n\n{{zh-cat|Advanced}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

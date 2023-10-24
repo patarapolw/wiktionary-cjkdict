@@ -1,0 +1,90 @@
+{
+  "title": "峠",
+  "ns": 0,
+  "id": 14527,
+  "timestamp": 1547084207000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}.\n\n{{Han compound|山|上|下|ls=ic|t1=mountain|t2=up; ascend|t3=down; descend}}.\n\nCompare {{ja-r|裃|かみしも}}, {{ja-r|垰|たお}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=山06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=とうげ-<たうげ-\n|nanori=たわ, たわとう\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|とうげ|yomi=k}}\n{{IPAchar|/tamuke/}} → {{IPAchar|/tauɡe/}} → {{IPAchar|/toːɡe/}}\n\nSound shift from {{m|ja|手向け|tr=tamuke||tribute to a person about to depart}}.<ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref> It is said that these offerings were \"given\" to them as they traveled into the afterlife, akin to a ''mountain''. {{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{ja-pron|y=k|とうげ|acc=3|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とうげ|hhira=たうげ}}\n\n# [[mountain]] [[pass]], [[ridge]]\n# {{lb|ja|figurative|sort=とうげ}} [[crisis]], [[climax]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|峠を越える|とうげ を こえる|[[cross]] a pass}}\n* {{ja-r|峠を越す|とうげ を こす|to finish the most difficult part; to be over the worst|lit=cross over a pass}}\n* {{ja-r|峠%越え|とうげ%-ごえ|crossing a mountain pass}}\n* {{ja-r|峠%道|とうげ%みち|[[road]] over a mountain pass}}\n* {{ja-r|碓%氷%峠|^う%すい%-とうげ|{{w|Usui Pass}}}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Proverbs",
+                      "text": "* {{ja-r|洞ヶ峠 を 決め込む|^ほらヶとうげ を きめこむ|to wait for a good opportunity|lit=to wait and see at {{w|lang=ja|洞ヶ峠|Horagatōge}}}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|たうげ}}\n\n# {{surname|lang=ja|sort=たうげ}}\n\n{{ja-pos|proper|とうげ|hhira=たうげ}}\n\n# ''A place name''.\n# {{surname|lang=ja|sort=とうげ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Various nanori readings.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|たお}}\n\n# {{surname|lang=ja|sort=たお}}\n\n{{ja-pos|proper|たおげ}}\n\n# {{surname|lang=ja|sort=たおげ}}\n\n{{ja-pos|proper|とおげ}}\n\n# {{surname|lang=ja|sort=とおげ}}\n\n{{ja-pos|proper|どうげさき}}\n\n# {{surname|lang=ja|sort=どうげさき}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

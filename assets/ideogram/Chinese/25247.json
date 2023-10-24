@@ -1,0 +1,63 @@
+{
+  "title": "葚",
+  "ns": 0,
+  "id": 25247,
+  "timestamp": 1531812447000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|椹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=椹,𣞵,[[黮#Pronunciation 3|黮]]}} <!-- Note: 黮 is not listed as a variant form by 《教育部異體字字典》. Refer 《漢語大字典》 instead. -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|艸|甚|ls=psc|c1=s|c2=p|t1=grass; plant}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=shèn\n|c=sam6,zam1\n|c_note=sam6 - colloquial; zam1 - variant\n|mc=y\n|oc=y\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[mulberry]] [[fruit]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|桑葚}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=rèn\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal}} {{zh-only|桑葚兒}} <!-- Refer 《現代漢語詞典》 at http://pic.guoxuedashi.com/xdhycd/1097.gif -->"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B03944}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

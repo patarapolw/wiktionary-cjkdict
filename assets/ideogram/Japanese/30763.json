@@ -1,0 +1,92 @@
+{
+  "title": "雁",
+  "ns": 0,
+  "id": 30763,
+  "timestamp": 1553570581000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鳫|䧹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=隹04}}\n\n# [[wild goose]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん\n|kanon=がん\n|kun=かり-\n}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|がん|yomi=o}}\nFrom {{etyl|ltc|ja|sort=かん'}} {{m|zh|雁|tr=ngæn<sup>H</sup>||wild goose}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|がん|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鴈}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|がん}}\n\n# [[wild goose]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|雁首|かりくび}} goose's neck, something resembling a goose's neck; [[corona]] {{gloss|circumference of the base of the glans penis in human males}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かり|yomi=k}}\nSaid to be from the cry of a wild goose.<ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かり|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かり}}\n\n# [[wild goose]]\n# [[cry]] of a [[wild goose]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|雁首|がんくび}} [[bowl]] {{gloss|part of a pipe}}; human neck or head\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|words with multiple readings}}\n{{topics|ja|Geese|sort=かん'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

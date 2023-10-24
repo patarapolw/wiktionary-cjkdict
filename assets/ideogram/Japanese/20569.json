@@ -1,0 +1,56 @@
+{
+  "title": "獅",
+  "ns": 0,
+  "id": 20569,
+  "timestamp": 1553507663000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|狮}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=犬10}}\n\n# a [[lion]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{der|ja|ltc|-|sort=し}} {{ltc-l|獅}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|し}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|し}}\n\n# [[lion]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Very rarely used on its own. The ''shishi'' reading is almost always spelled as {{m|ja|獅子}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

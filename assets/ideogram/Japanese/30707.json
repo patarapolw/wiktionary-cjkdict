@@ -1,0 +1,39 @@
+{
+  "title": "隊",
+  "ns": 0,
+  "id": 30707,
+  "timestamp": 1548401928000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|队}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=阜09}}\n\n# {{defn|lang=ja|sort=阜09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だい\n|kanon=たい\n|on=つい\n|kun=くみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{der3|lang=ja|{{ja-l|艦隊}}\n|{{ja-l|戦隊}}\n|{{ja-l|捜隊}}\n|{{ja-l|警邏隊}}\n}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "title": "踮",
+  "ns": 0,
+  "id": 28038,
+  "timestamp": 1495667529000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=踮\n|c=dim2,dim3\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to stand on one's [[tiptoe]]s\n#: {{zh-x|踮 起 腳尖|to stand on one's tiptoes}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|踮腳}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=站,惦}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|mn=tiàm/twv:tàm\n|cat=v,prep\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}} {{tlb|zh|Min Nan}}\n\n# to [[live]] (somewhere); to [[stay]] (somewhere)\n# {{lb|zh|Xiamen|Taiwan}} [[at]]; [[in]]\n# {{lb|zh|Zhangzhou}} to [[hide]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|在}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|踮水沬|踮房|踮岫}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}\n* {{R:nan:thcwdq}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

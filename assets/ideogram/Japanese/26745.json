@@ -1,0 +1,68 @@
+{
+  "title": "要",
+  "ns": 0,
+  "id": 26745,
+  "timestamp": 1553602100000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-see-also|要する}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=西03}}\n\n# [[need]], [[necessity]], [[essential]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<えう\n|kanon=よう<えう\n|kun=い-る, かなめ-, かのめ, ぬま, ぬみ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|重要|じゅうよう}}\n* {{ja-r|要塞|ようさい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|よう}}\n\n# [[cornerstone]]\n# [[requirement]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かなめ}}\n\n# [[pivot]], [[cornerstone]], [[keystone]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|かなめ}}\n\n# {{given name|male|lang=ja|sort=かなめ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

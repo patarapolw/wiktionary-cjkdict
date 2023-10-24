@@ -1,0 +1,68 @@
+{
+  "title": "別",
+  "ns": 0,
+  "id": 11594,
+  "timestamp": 1548400332000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|别}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=刀05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=べち\n|kanon=へつ\n|kanyoon=べつ\n|kun=わか-れる, わ-ける, わかれ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|別%案|べつ%あん}}\n* {{ja-r|別%格|べっ%かく}}\n* {{ja-r|別%館|べっ%かん}}\n* {{ja-r|別%件|べっ%けん}}\n* {{ja-r|別%個|べっ%こ}}\n* {{ja-r|別%字|べつ%じ}}\n* {{ja-r|別%所|べっ%しょ}}\n{{mid3}}\n* {{ja-r|別%称|べっ%しょう}}\n* {{ja-r|別%荘|べっ%そう}}\n* {{ja-r|別%宅|べっ%たく}}\n* {{ja-r|別%天%地|べっ%てん%ち}}\n* {{ja-r|別%途|べっ%と}}\n* {{ja-r|別%当|べっ%とう}}\n* {{ja-r|別%府|べっ%ぷ}}\n{{mid3}}\n* {{ja-r|別%嬪|べっ%ぴん}}\n* {{ja-r|別%離|べつ%り}}\n* {{ja-r|鑑%別%所|かん%べつ%しょ}}\n* {{ja-r|区%別|く%べつ}}\n* {{ja-r|個%別|こ%べつ}}\n* {{ja-r|離%別|り%べつ}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{ja-adj|infl=な|べつ}}\n\n# [[different]], [[separate]], [[another]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|べつ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adverb",
+              "text": "{{ja-pos|べつ|adverb}}\n\n# not [[particularly]]; not [[specially]] (used with a negative verb)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|別に|べつ に}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|べつ}}\n\n# [[difference]], another, [[exception]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

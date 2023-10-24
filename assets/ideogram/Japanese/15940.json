@@ -1,0 +1,82 @@
+{
+  "title": "截",
+  "ns": 0,
+  "id": 15940,
+  "timestamp": 1527997800000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=戈10}}\n\n# to [[cut]], to [[sever]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぜち\n|kanon=せつ\n|kanyoon=さい\n|kun=た-つ, き-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{etyl|ltc|ja|sort=せつ}} {{m|ltc|截|tr=*dzhet}}. Compare modern {{cog|yue|截|tr=zit<sup>6</sup>}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{l|ja|sc=Latn|音読み|On'yomi}}, specifically [[漢音#Japanese|''kan'on'']]\n* {{IPA|lang=ja|[se̞t͡sɯᵝ]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|せつ}}\n\n# [[section]]\n# [[cut]]\n# [[sever]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-l|截枝|せっし|sesshi}}: a method of [[pruning]], whereby tree branches are removed to prompt new growth at the site of the old branches\n* {{ja-l|截取|せっしゅ|sesshu}}: [[cutting]] [[off]], cutting [[away]]\n* {{ja-l|截然|せつぜん|setsuzen}}: clearly [[delineated]], clearly [[distinct]]; clearly [[cut]] [[away]]\n* {{ja-l|截断|せつだん|setsudan}}: [[cutting]] something out, off, or away; [[amputation]]; a [[section]] or [[cross-section]], as in [[mathematics]]\n* {{ja-l|截断言|せつだんげん|setsudangen}}: archaic term for {{m|ja|終止形|tr=shūshikei||terminal form}}\n* {{ja-l|截頭|せっとう|settō}}: a clipped point, as when a leaf or flower-petal tip is snipped\n{{der-mid}}\n* {{ja-l|直截|ちょくせつ|chokusetsu}}: [[direct]], [[straightforward]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Probably originally a misreading based on this character's visual and semantic similarity to {{ja-l|裁}}, commonly read as ''sai''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{l|ja|sc=Latn|音読み|On'yomi}}: specifically [[慣用読み#Japanese|''kan'yōyomi'']]\n* {{IPA|lang=ja|[sa̠i]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|さい}}\n\n# [[section]]\n# [[cut]]\n# [[sever]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-l|截金|さいきん|saikin}}: thin layers of [[gold leaf]] cut into various shapes\n* {{ja-l|截然|さいぜん|saizen}}: clearly [[delineated]], clearly [[distinct]]\n* {{ja-l|截断|さいだん|saidan}}: [[distinction]] between [[right]] and [[wrong]]; [[cutting]] cloth, paper, or some other substance into a defined pattern or shape\n* {{ja-l|截留|さいりゅう|sairyū}}: [[embezzlement]] by government officials in ancient Japan\n* {{ja-l|截癱|さいなん|sainan}}: a kind of [[motor]] [[paralysis]] in the lower leg or lower torso, due to [[spinal]] [[damage]] or chronic [[alcoholism]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "跎",
+  "ns": 0,
+  "id": 27942,
+  "timestamp": 1512760213000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tuó\n|c=to4\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only|蹉跎|tr=-}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|日月蹉跎|磨跎|跎縴|蹉跎|飛跎傳}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

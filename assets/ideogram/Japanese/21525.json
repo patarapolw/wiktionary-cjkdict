@@ -1,0 +1,44 @@
+{
+  "title": "盃",
+  "ns": 0,
+  "id": 21525,
+  "timestamp": 1514459227000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|罘|杯}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=皿04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=はい\n|kun=さかずき-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|はい|counter}}\n\n# {{alternative form of|杯|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|はい|suffix}}\n\n# {{alternative form of|杯|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

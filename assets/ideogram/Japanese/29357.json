@@ -1,0 +1,70 @@
+{
+  "title": "鉞",
+  "ns": 0,
+  "id": 29357,
+  "timestamp": 1549026199000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|钺}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[えつ]] (etsu)|kun=[[まさかり]] (masakari)|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|まさかり|yomi=k}}\nThe final -kari may be the nominalized form of {{m|ja|刈る|tr=karu||cut}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まさかり}}\n\n# a large [[axe]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|斧|おの}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|えつ|yomi=on}}\nFrom {{der|ja|ltc|sort=えつ|-}} {{ltc-l|鉞}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えつ|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えつ|hhira=ゑつ}}\n\n# {{lb|ja|historical}} an ancient Chinese bronze [[battle-axe]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

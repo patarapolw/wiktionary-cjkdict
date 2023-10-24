@@ -1,0 +1,51 @@
+{
+  "title": "弐",
+  "ns": 0,
+  "id": 15138,
+  "timestamp": 1533612981000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|弐|貳}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=弋03|kyu=貳}}\n\n# [[two]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=に\n|kanon=じ\n|kun=ふた-つ, そえ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|弐%心|に%しん}}, {{ja-r|弐%心|ふた%ごころ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Numeral",
+              "text": "{{ja-pos|numeral|に}}\n\n# [[two]], [[2]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Used in official financial documents in place of the common kanji for two, {{ja-l|二}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

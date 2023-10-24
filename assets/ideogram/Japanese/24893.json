@@ -1,0 +1,73 @@
+{
+  "title": "茎",
+  "ns": 0,
+  "id": 24893,
+  "timestamp": 1532681968000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|莖}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|茎|莖}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=艸05|kyu=莖}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう\n|kanon=こう\n|kanyoon=けい\n|kun=くき-, なかご-\n}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|くき|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くき|acc=2|dev=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=莖|くき}}\n\n# [[stem]], [[stalk]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|なかご|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なかご|acc=2|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=莖|なかご}}\n\n# {{lb|ja|sort=なかご|swords}} [[tang]] {{gloss|part of a sword blade}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|くき]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

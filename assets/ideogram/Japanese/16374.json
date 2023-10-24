@@ -1,0 +1,39 @@
+{
+  "title": "提",
+  "ns": 0,
+  "id": 16374,
+  "timestamp": 1550142539000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=手09}}\n\n# to [[lower]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だい\n|kanon=てい\n|toon=ちょう<ちやう\n|kun=さ-げる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|提供|ていきょう}}\n* {{ja-r|提出|ていしゅつ}}\n* {{ja-r|前提|ぜんてい}}\n* {{ja-r|提灯|ちょうちん}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

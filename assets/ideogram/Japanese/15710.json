@@ -1,0 +1,44 @@
+{
+  "title": "態",
+  "ns": 0,
+  "id": 15710,
+  "timestamp": 1544009422000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|态|熊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=心10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たい\n|kanon=たい\n|kun=さま-, わざ-と\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たい}}\n\n# {{lb|ja|grammar|sort=たい}} [[voice]] - a particular mode of inflecting or conjugating verbs, or a particular form of a verb, by means of which is indicated the relation of the subject of the verb to the action which the verb expresses."
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|たい}}\n\n# {{lb|ja|grammar|sort=たい}} [[voice]], [[diathesis]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

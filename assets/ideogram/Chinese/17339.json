@@ -1,0 +1,37 @@
+{
+  "title": "杶",
+  "ns": 0,
+  "id": 17339,
+  "timestamp": 1553551769000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chūn\n|c=ceon1\n|mc=y\n|oc=y\n|ma=\n|cat=pn,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# a [[kind]] of [[tree]] — Chinese [[toon]] ({{taxlink|Toona sinensis|species|ver=1801130}})\n# [[varnish]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

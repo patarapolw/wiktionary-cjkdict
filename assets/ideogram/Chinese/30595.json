@@ -1,0 +1,42 @@
+{
+  "title": "阡",
+  "ns": 0,
+  "id": 30595,
+  "timestamp": 1537855174000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|阜|千|ls=psc|c1=s|c2=p|t1=[[soil]] [[mountain]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qiān\n|c=cin1\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} footpaths between fields going north to south"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|阡陌}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

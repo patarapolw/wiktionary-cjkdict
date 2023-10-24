@@ -1,0 +1,39 @@
+{
+  "title": "珠",
+  "ns": 0,
+  "id": 20737,
+  "timestamp": 1547440603000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=玉06}}\n\n# {{defn|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す\n|kanon=しゅ\n|kun=たま-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|耳珠|じじゅ}}: [[tragus]]\n* {{ja-r|真珠|しんじゅ}}: [[pearl]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

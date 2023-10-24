@@ -1,0 +1,70 @@
+{
+  "title": "埿",
+  "ns": 0,
+  "id": 13187,
+  "timestamp": 1533206324000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土08}}\n\n# [[mud]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n\nAs a variant/ancient form of {{ja-l|泥}}:\n{{ja-readings\n|goon=ない\n|kanon=でい<!--\n|kun=こいじ-<こひぢ-, どろ-, なず-む<なづ-む, ひじりこ-<ひぢりこ- -->\n}}\n\nAs a variant form of {{ja-l|湴}}:\n{{ja-readings\n|goon=ばん<ばん<ばむ\n|kanon=はん<はん<はむ\n}}\n\nReadings shared by both forms:\n{{ja-readings\n|kun=うき-, ひじ-<ひぢ-<!--, こて-, ぬ-からみ, ぬ-る-->\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Used as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨de⟩}} and {{IPAfont|⟨pi<sub>1</sub>⟩}} in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}})."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ひじ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひじ|hhira=ひぢ}}\n\n# {{altspell|lang=ja|泥|tr=hiji}}: [[mud]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|埿土|ういじ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|うき|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うき}}\n\n# {{altspell|lang=ja|泥|tr=uki}}: a [[marshland]], [[swamp]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

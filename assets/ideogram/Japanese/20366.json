@@ -1,0 +1,39 @@
+{
+  "title": "特",
+  "ns": 0,
+  "id": 20366,
+  "timestamp": 1549868930000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=牛06}}\n\n# special",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どく\n|kanon=とく\n|kun=お.うし-, ひと-り, ことに\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|特別|とくべつ}}\n* {{ja-r|特防|とくぼう}}\n* {{ja-r|特撮|とくさつ}}\n* {{ja-r|特捜|とくそう}}\n* {{ja-r|特殊|とくしゅ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

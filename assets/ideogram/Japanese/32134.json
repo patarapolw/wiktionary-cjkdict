@@ -1,0 +1,44 @@
+{
+  "title": "鮟",
+  "ns": 0,
+  "id": 32134,
+  "timestamp": 1515848921000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=魚06鮟}}\n\n# [[anglerfish]], [[monkfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=あん\n|kanon=あん\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鮟鱇|あんこう}}: [[anglerfish]], [[monkfish]]\n* {{ja-r|鮟肝|あんきも}}: [[monkfish]] [[liver]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Only found in compounds. Not used in isolation."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

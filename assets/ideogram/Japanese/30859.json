@@ -1,0 +1,81 @@
+{
+  "title": "霜",
+  "ns": 0,
+  "id": 30859,
+  "timestamp": 1544749824000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=雨09}}\n\n# [[frost]]\n# [[year]]s\n# [[white]] [[white as snow|as snow]], [[cold]] [[cold as ice|as ice]], [[harsh]] as [[snow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=そう<さう\n|kun=しも-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|霜害|そうがい}}\n* {{ja-r|霜月|そうげつ}}\n* {{ja-r|霜鬢|そうびん}}\n* {{ja-r|降霜|こうそう}}\n* {{ja-r|秋霜|しゅうそう}}\n* {{ja-r|春霜|しゅんそう}}\n* {{ja-r|除霜|じょそう}}\n* {{ja-r|星霜|せいそう}}\n* {{ja-r|霜林|そうりん}}\n* {{ja-r|氷霜|ひょうそう}}\n* {{ja-r|風霜|ふうそう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja}}\n{{wp|Frost}}\n</div>\n{{ja-kanjitab|しも|yomi=k}}\n{{IPAchar|/simo/}} → {{IPAchar|/ɕimo/}}\n\nFrom {{inh|ja|ojp|sort=しも|-}}, first attested in the ''{{w|Nihon Shoki}}'' (720 {{CE}}).\n\nThought to be cognate with or derived from {{m|ja|下|tr={{IPAfont|⟨simo<sub>1</sub>⟩}} → shimo||[[bottom]], [[lower]] [[part]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|しも|y=k|acc=2|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しも}}\n\n# [[frost]] {{gl|[[ice]] [[crystal]]s in [[object]]s [[expose]]d to the [[air]]}}\n#: {{syn|ja|フロスト|tr=furosuto}}\n# {{lb|ja|by extension}} [[ice]] [[adhere]]d [[inside]] an [[electric]] [[refrigerator]]\n# {{lb|ja|sort=しも|figurative}} [[white]] [[hair]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|霜%曇|しも%ぐもり|rom=-}}, {{ja-r|霜曇り|しもぐもり}}\n* {{ja-r|霜月|しもつき}}\n* {{ja-r|霜%柱|しも%ばしら}}\n* {{ja-r|秋霜|あきしも}}\n* {{ja-r|大霜|おおしも}}\n* {{ja-r|晩霜|おそじも}}\n* {{ja-r|露霜|つゆじも}}\n* {{ja-r|初霜|はつしも}}\n* {{ja-r|夕霜|ゆうしも}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "* {{ja-r|霜を置く|しも を おく}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proverbs",
+                  "text": "* {{ja-r|霜を履んで堅氷%至る|しも を ふんで けんぴょう% いたる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|しも}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=しも}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

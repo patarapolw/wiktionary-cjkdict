@@ -1,0 +1,44 @@
+{
+  "title": "祟",
+  "ns": 0,
+  "id": 22243,
+  "timestamp": 1553563208000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|崇}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=示05}}\n\n# {{defn|lang=ja|sort=示05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=すい\n|kun=たた-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|たたり|acc=1|acc_ref=SMK2}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

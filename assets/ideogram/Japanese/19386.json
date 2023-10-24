@@ -1,0 +1,39 @@
+{
+  "title": "漂",
+  "ns": 0,
+  "id": 19386,
+  "timestamp": 1529812163000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水11}}\n\n# {{defn|lang=ja|sort=水11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ひょう\n|kun=ただよ-う\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|漂着|ひょうちゃく}}\n* {{ja-r|漂白|ひょうはく}}\n* {{ja-r|漂白剤|ひょうはくざい}}\n* {{ja-r|漂泊|ひょうはく}}\n* {{ja-r|漂流|ひょうりゅう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

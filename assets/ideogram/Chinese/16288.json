@@ -1,0 +1,54 @@
+{
+  "title": "捺",
+  "ns": 0,
+  "id": 16288,
+  "timestamp": 1553550724000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n[[File:N-black.png|thumb|right|250px]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|手|alt1=扌|t1=hand|奈}} – to press down with the hand, stamp."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=nà\n|m-s=\n|c=naat6\n|c-t=\n|g=\n|h=pfs=\n|j=\n|mb=\n|md=\n|mn=ml:la̍t\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=v,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[press]] [[down]] [[firmly]] with the [[hand]]\n# {{lb|zh|Chinese calligraphy}} a [[stroke]] that falls downwards towards the right ({{m|mul|㇏}})",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|stroke}} {{zh-l|磔}}; {{q|Min Nan}} {{zh-l|裁刀}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{list:basic character strokes/zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|捺下|捺擱|捺定性子|捺倒|捺印|按捺|按捺不住}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

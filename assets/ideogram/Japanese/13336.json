@@ -1,0 +1,88 @@
+{
+  "title": "境",
+  "ns": 0,
+  "id": 13336,
+  "timestamp": 1538546244000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=土11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう\n|kanon=けい\n|kun=さかい-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|難境|なんきょう}}: [[difficult]] [[situation]], [[difficult]] [[circumstances]]\n* {{ja-r|越境|えっきょう}}: [[crossing]] a [[border]] (of a [[country]] or [[territory]])\n* {{ja-r|環境|かんきょう}}: The [[environment]], an [[environment]]\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|きょう|yomi=o}}\n\nFrom {{etyl|ltc|ja|sort=きょう}} {{m|zh|境|tr=kjæng<sup>X</sup>}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|きょう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きょう|hhira=きやう}}\n\n# [[region]], [[environment]]\n# [[mental]] state\n# {{lb|ja|Buddhism|sort=きょう}} something that can be perceived with the mind or senses"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|さかい|yomi=k}}\n\n{{IPAchar|/sakapi/}} → {{IPAchar|/sakaɸi/}} → {{IPAchar|/sakahi/}} → {{IPAchar|/sakai/}}\n\nThe {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of obsolete verb {{m|ja|境う|tr=sakau||to divide, to form a boundary between things}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>\n\nSome sources<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> further derive the verb as {{der|ja|ojp|sort=さかい|-}} element {{m|ja|境|tr=saka||division, border, boundary}} + auxiliary verb {{m|ja|ふ|tr=fu}} indicating repetition or ongoing state. However, given the semantics, this could also be analyzed as the repetitive or ongoing aspect of {{der|ja|ojp|sort=さかい|-}}-derived verb ''saku'' with an underlying meaning of “to split apart, to separate, to put distance between”, spelled variously as {{m|ja|割く}}, {{m|ja|裂く}}, {{m|ja|離く}}, or {{m|ja|放く}}, and cognate with {{m|ja|咲く|tr=saku||to bloom|pos=from the idea of the blooms splitting open}}, {{m|ja|栄える|tr=sakaeru||to prosper|pos=extended from the ''bloom'' sense}}, {{m|ja|盛ん|tr=sakan||prospering, fluorishing}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|さかい|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|界}} {{qualifier|less common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さかい|hhira=さかひ}}\n\n# [[border]], [[boundary]], [[limits]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|さかい|hhira=さかひ}}\n\n# {{surname|lang=ja|sort=さかい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

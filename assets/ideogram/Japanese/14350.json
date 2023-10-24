@@ -1,0 +1,124 @@
+{
+  "title": "屎",
+  "ns": 0,
+  "id": 14350,
+  "timestamp": 1544243525000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=尸06}}\n\n# [[excrement]], [[feces]], [[poop]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=くそ-, ばば-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|くそ}}\nFrom {{inh|ja|jpx-pro|*kuso}}. Cognate with {{m|ja|臭い|tr=kusai||stinky, smelly}}, {{m|ja|腐る|tr=kusaru||to rot, to become stinky}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くそ|acc=2|dev=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|糞}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くそ}}\n\n# {{lb|ja|colloquial|sort=くそ}} [[feces]], [[excrement]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|屎っ垂れ|くそったれ}}: [[dingleberry]] {{qualifier|vulgar epithet}}\n* {{ja-r|目屎|めくそ}}: [[rheum]], [[eye]] [[mucus]]\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|屎にする|くそ に する}}: “to turn something into shit; to treat something as shit” → to make something worthless; to treat something as worthless\n* {{ja-r|屎の役にも立たぬ|くそ の やく に も たたぬ}}: “not even standing in the role of shit” → not even good for shit\n*: (See {{ja-r|役に立つ|やく に たつ}}: “to be useful, to play a role”)\n* {{ja-r|屎も味噌も一緒|くそ も みそ も いっしょ}}: “both crap and miso together” → a situation where it is difficult to tell the good from the bad\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Interjection",
+                  "text": "{{ja-pos|interjection|くそ}}\n\n# {{lb|ja|sort=くそ|expletive}} [[shit]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This is not considered as profane as the English glosses. For instance, a child of five using the Japanese interjection ''kuso'' would be unremarkable, whereas it would be very socially inappropriate for a child of five to use the English interjection {{m|en|shit}}."
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|くそ}}\n\n# {{non-gloss definition|A [[derogatory]] prefix.}}\n#: {{ja-usex|'''屎'''爺い|'''くそ'''じじい|'''crappy''' old man}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|くそ}}\n\n# {{non-gloss definition|A [[derogatory]] [[emphasis|emphasizing]] suffix.}}\n#: {{ja-usex|下手'''屎'''|へた'''くそ'''|'''crappy''' bad at something; to be '''shit''' at doing something}}\n#: {{ja-usex|襤褸'''屎'''|ぼろ'''くそ'''|broken down '''for shit''', raggedy-'''ass'''}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|ばば}}\nAppears to derive from [[baby talk]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> Compare {{cog|en|poopoo}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ばば|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|糞}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ばば}}\n\n# {{qualifier|children's word}}: [[poopoo]], [[poop]], [[dookie]]\n# {{qualifier|children's word}}: something [[unclean]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|猫屎する|ねこばばする}}: to [[sweep something under the rug]] → to hide a problem without actually dealing with it {{qualifier|from how a cat will bury its poop}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "著",
+  "ns": 0,
+  "id": 25243,
+  "timestamp": 1553050444000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|着}}\n{{character info/new}}\n{{character info|0xFA5F}}\n{{character info|0x2F99F}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han stroke|Mainland China and Japan<br/>[[File:著-bw.png|350px]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In Korean {{w|hanja}}, the bottom component <font size=5, lang=ko>[[者#Translingual|者]]</font> is written with an additional {{l|mul|丶}} stroke above {{l|mul|日}}, which is the form found in the historical {{w|Kangxi dictionary}}.\n* Two {{w|CJK Compatibility Ideographs}} exist at <code>U+FA5F</code> and <code>U+2F99F</code>. The former corresponds to the alternative Japanese form with an additional {{l|mul|丶}} stroke above {{l|mul|日}} while the latter corresponds to the alternative Korean form without an additional {{l|mul|丶}} stroke above {{l|mul|日}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=08|ask+=09|sn=12|snmj=11|snk=13|four=44604|canj=TJKA,TJKI|ids=⿱艹者}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[㒂]], [[墸]], [[𢅔]], [[擆]], [[𤀞]], [[𣛰]], [[𣦡]], [[𤏸]], [[𥖛]], [[𦅷]]([[𬙅]]), [[𮖺]], [[躇]], [[鐯]]([[䦃]]), [[𬟜]], [[𣃈]], [[𫊔]], [[𤻔]], [[𡈥]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[着]]}} ''(Preferred form used in Hong Kong and mainland China for Pronunciation 1 and 2 in Chinese)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1044.260|dkj=31302|dj=1505.190|hdz=53228.020|uh=8457}}\n{{Han ref|uh=FA5F}}\n{{Han ref|uh=2F99F}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

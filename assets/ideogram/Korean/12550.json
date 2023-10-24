@@ -1,0 +1,34 @@
+{
+  "title": "喝",
+  "ns": 0,
+  "id": 12550,
+  "timestamp": 1552025689000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa36}}\n{{character info/new|0xfa78}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[갈]], [[애]]|mr=kal, ae}}\n\n# [[loud]] [[voice]]\n# to [[call out]], [[yell]], [[shout]]\n# to [[scold]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{l|ko|喝采||tr=[[갈채]], galchae|applause}}\n* {{l|ko|喝取||tr=[[갈취]], galchwi|blackmailing}}\n* {{l|ko|喝破||tr=[[갈파]], galpa|proclamation}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

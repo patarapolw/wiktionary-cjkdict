@@ -1,0 +1,44 @@
+{
+  "title": "鷂",
+  "ns": 0,
+  "id": 32716,
+  "timestamp": 1552876348000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鹞}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥10}}\n\n# {{defn|lang=ja|sort=鳥10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[よう]] (yō)|kun=[[はいたか]] (haitaka)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{compound|ja|sort=はいたか|灰|tr1=hai|t1=ash|鷹|tr2=taka|t2=hawk}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はいたか|ハイタカ}}\n\n# [[Eurasian sparrowhawk]]\n\n[[Category:ja:Birds|はいたか]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

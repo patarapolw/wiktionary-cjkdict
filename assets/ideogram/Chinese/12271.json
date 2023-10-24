@@ -1,0 +1,70 @@
+{
+  "title": "咗",
+  "ns": 0,
+  "id": 12271,
+  "timestamp": 1522357889000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=唨-rare,阻-rare,左-nonstandard,o左-internet}}\nFirst attested in {{lang|zh|《散語四十章》}} (1877) as {{zh-l|*阻}} ({{zh-ref|Yue, 2004}}).\n\nProbably from {{zh-l|*著}}; the pronunciation may be due to influence from Mandarin ''zhuó'' ({{zh-ref|Chan, 1998}}).\n\n{{zh-ref|Chan (1995)}} proposes that the original character is {{ltc-l|𧇣|to go}}; others (including {{w|zh:彭志銘|Jimmy Pang}} and {{w|zh:曾焯文|Chapman Chan}}) have similarly proposed {{ltc-l|徂|to go}} to be the original character. These derivations are phonologically and semantically problematic.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=zo2\n|cat=part\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} {{non-gloss definition|Used to emphasise an action which has been completed and whose result still applies to the present situation. It roughly translates to the past tense in English.}}\n#: {{zh-x|佢哋 啱啱 走 咗。|They left just now.|C}}\n#: {{zh-x|阿媽 尋日 煲 咗 湯{tong1}。佢 而家 去 咗 超級市場 買 餸。|My mum made soup yesterday. Now, she has gone grocery shopping in the supermarket.|C}}\n#: {{zh-x|食 咗 就 冇|if you eat it there will not be any more|C}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|了}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zuo\n|cat=interjection\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|A chant sound made while working.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|嘿咗}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

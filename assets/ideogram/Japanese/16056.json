@@ -1,0 +1,44 @@
+{
+  "title": "抜",
+  "ns": 0,
+  "id": 16056,
+  "timestamp": 1547087885000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|拔}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|抜|拔}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手04|kyu=拔}}\n\n# {{defn|lang=ja|sort=手04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ばち\n|kanon=はつ\n|kanyoon=ばつ\n|kun=ぬ-く, ぬ-ける, ぬ-かる, ぬ-かす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|縄%抜け|なわ%ぬけ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|抜ける|ぬける}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

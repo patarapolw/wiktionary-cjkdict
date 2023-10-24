@@ -1,0 +1,44 @@
+{
+  "title": "圕",
+  "ns": 0,
+  "id": 12944,
+  "timestamp": 1553984678000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Created by Chinese library sciences expert Du Dingyou ({{l|ja||杜定友}}) in Japan in the early 20th century by combining the {{m|ja|圖}} and {{m|ja|書}} of {{m|ja|圖書館}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=囗10}}\n\n# {{lb|ja|obscure}} [[library]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しょ\n|kun=としょかん-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|としょかん}}\n\n# {{lb|ja|obsolete}} {{abbreviation of|lang=ja|図書館|nodot=y}}: [[library]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

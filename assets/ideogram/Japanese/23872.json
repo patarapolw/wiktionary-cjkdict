@@ -1,0 +1,39 @@
+{
+  "title": "缿",
+  "ns": 0,
+  "id": 23872,
+  "timestamp": 1531707895000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=缶06}}\n\n# [[immature]] {{w|Japanese pond turtle}}, {{taxlink|Mauremys japonica|species}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=ぐ, ず<づ\n|kanon=こう, とう\n|kun=ぜにがめ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Uncommon alternative form of {{m|ja|銭亀|tr=zenigame}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

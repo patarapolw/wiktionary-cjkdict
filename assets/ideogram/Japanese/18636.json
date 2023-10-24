@@ -1,0 +1,242 @@
+{
+  "title": "汝",
+  "ns": 0,
+  "id": 18636,
+  "timestamp": 1552444591000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水03}}\n\n# [[you]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にょ\n|kanon=じょ\n|kun=い-, まし-, いまし-, みまし-, うぬ, し, な-, なれ-, なむち-, なむじ-<なむぢ-, なんじ-<なんぢ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|い}}\n\nFrom {{inh|ja|ojp|sort=い|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> Possibly cognate with {{cog|ko|이#Etymology_4|이|this person}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|い}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|い}}\n\n# {{lb|ja|sort=い|derogatory}} {{n-g|second person pronoun}}: [[you]]\n#* 712: [[w:Kojiki|Kojiki]] (page 156)\n#*: 大久米命二人、召兄宇迦斯罵詈云、'''伊'''賀<small>此二字以音</small>所作仕奉於大殿内者、意禮<small>此二字以音</small>先入、明白其將爲仕奉之状而[...]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Takes the particle {{m|ja|が}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|まし}}\n\nThe [[nominalization]] of [[honorific]] verb {{m|ja|坐す|tr=masu||to be|pos=honorific}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nAlternatively, a shortening of ''imashi''<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> (see below).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|まし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|まし}}\n\n# {{lb|ja|sort=まし|obsolete|informal}} {{n-g|second person pronoun}}: [[you]]\n#* {{RQ:Man'yōshū|14|3440}}\n#*: 許乃河泊尓 安佐菜安良布児 奈礼毛安礼毛 余知乎曽母弖流 伊仾児多婆里尓 <sub>一云 '''麻之'''毛安礼母</sub>",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Less honorific than both ''mashi'' and ''imashi''."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|汝|いまし}}\n* {{ja-r|汝|みまし}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|いまし}}\n\nThe [[nominalization]] of [[honorific]] verb {{m|ja|坐す|tr=imasu||to be|pos=honorific}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nPossibly also analyzable as a compound of {{prefix|ja|sort=いまし|汝|tr1=i|t1=you|坐|tr2=mashi|t2=presence; being|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of honorific verb {{m|ja|坐す}} ''masu'', “to be”}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いまし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|いまし}}\n\n# {{lb|ja|sort=いまし|obsolete|polite}} {{n-g|second person pronoun}}: [[you]]\n#* {{RQ:Man'yōshū|11|2517}}\n#*: 足千根乃 母尓障良婆 無用 '''伊麻思'''毛吾毛 事應成\n#* {{RQ:Man'yōshū|14|3359}}\n#*: 駿河能宇美 於思敝尓於布流 波麻都豆良 '''伊麻思'''乎多能美 波播尓多我比奴 <sub>一云 於夜尓多我比奴</sub>\n#* 797: [[w:Shoku Nihongi|Shoku Nihongi]] (edict #29)\n#*: 朕子'''伊末之'''<small>仁</small>授給",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "More honorific than ''mashi''. Less honorific than ''mimashi''."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|みまし}}\n\nCompound of {{prefix|ja|sort=みまし|御|tr1=mi|pos1=honorific prefix|汝|tr2=mashi|t2=you}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Also analyzable as a shift in meaning of {{m|ja|御座|tr=mimashi}}, an honorific term of address or reference used for [[nobility]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|みまし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|みまし}}\n\n# {{lb|ja|sort=みまし|obsolete|honorific}} {{n-g|second person pronoun}}: [[you]]\n#* 797: [[w:Shoku Nihongi|Shoku Nihongi]] (edict #5)\n#*: 藤原宮<small>爾</small>天下所知'''美麻斯'''<small>乃</small>父<small>止</small>坐天皇<small>乃</small>'''美麻斯'''<small>爾</small>賜<small>志</small>天下之業<small>止</small>詔大命<small>乎</small>聞食恐<small>美</small>受賜懼<small>理</small>坐事<small>乎</small>衆聞食宣。可久賜時<small>爾</small>'''美麻斯'''王<small>乃</small>齡<small>乃</small>弱<small>爾</small>[...]吾子'''美麻斯'''王<small>爾</small>授賜[...]\n#* 797: [[w:Shoku Nihongi|Shoku Nihongi]] (edict #51)\n#*: '''美末斯'''大臣<small>乃</small>萬政總以<...> 彌麻之大臣之家内子等<small>乎母</small><...>'''美麻之'''大臣<small>乃</small>罷道<small>母</small>[...]\n#* 797: [[w:Shoku Nihongi|Shoku Nihongi]] (edict #52)\n#*: 大命坐詔<small>久</small>'''美麻斯'''大臣<small>乃</small>仕奉來狀<small>波</small>[...]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "More honorific than both ''mashi'' and ''imashi''."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=k|な}}\n\nFrom {{inh|ja|ojp|sort=な|-}}, from {{inh|ja|jpx-pro|sort=な|*na}}. Possibly cognate with {{cog|ko|너||you|pos=second-person singular informal pronoun}}.\n\nAlso found in some instances as a self-reference, {{m|en|one}}, {{m|en|oneself}}. This sense is more commonly spelled {{m|ja|己}} when used in isolation.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Possibly cognate with {{cog|ko|나||I|pos=first-person singular informal pronoun}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|な}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|己}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|な}}\n\n# {{lb|ja|sort=な|obsolete}} {{n-g|second person pronoun}}: [[you]]\n#* 712: [[w:Kojiki|Kojiki]] (poem #5)\n#*: 夜知富許能 加微能美許登夜 阿賀淤富久迩奴斯 '''那'''許曾波 遠迩伊麻世婆 宇知微流 斯麻能佐岐邪岐 加岐微流 伊蘇能佐岐淤知受和加久佐能 都麻母多勢良米 阿波母與 賣迩斯阿禮婆 '''那'''遠岐弖遠波那志 '''那'''遠岐弖 都麻波那斯 [...]\n#* 720: [[w:Nihon Shoki|Nihon Shoki]] (poem #90)\n#*: 飫裒枳瀰能 耶陛能矩瀰哿枳 哿哿梅騰謀 '''儺'''嗚阿摩之耳彌 哿哿農倶彌柯枳\n#* {{RQ:Man'yōshū|14|3353}}\n#*: 阿良多麻能 伎倍乃波也之尓 '''奈'''乎多弖天 由伎可都麻思自 移乎佐伎太多尼\n#* {{RQ:Man'yōshū|14|3468}}\n#*: 夜麻杼里乃 乎呂能波都乎尓 可賀美可家 刀奈布倍美許曽 '''奈'''尓与曽利鶏米\n#* c. 920: ''Azuma Asobi Uta'' (#2)\n#*: 衣 和賀世古加 介左乃古止天者 奈奈川乎乃 也川乎乃古止乎 之良部 太留古止也 '''奈'''乎加介也末乃 可川乃介也 乎々々々\n# {{lb|ja|sort=な|obsolete}} {{n-g|first person pronoun}}: [[I]]\n# {{lb|ja|sort=な|obsolete}} {{n-g|self-referential pronoun}}: [[one]], [[oneself]]\n#* c. 759: ''{{w|Man'yōshū}} poem 1755 (text [http://jti.lib.virginia.edu/japanese/manyoshu/Man9Yos.html#1755 here])\n#*: {{lang|ja|鴬之 生卵乃中尓 霍公鳥 獨所生而 '''己'''父尓 似而者不鳴 己母尓 似而者不鳴}}\n#*: {{lang|ja|うぐひすの かひごのなかに ほととぎす ひとりうまれて '''な'''がちちに にてはなかず}}\n#*: ''Inside a warbler's egg, a cuckoo was born, but it looked like '''its own''' father and did not sing...''",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|汝|なれ}}: [[you]] (see below)\n* {{ja-r|汝|なむち}}: [[you]] (see below)\n* {{ja-r|汝|なむぢ}}: [[you]] (see below)\n* {{ja-r|汝|なんじ}}: [[you]] (see below)\n{{der-mid}}\nAlso appears in some ancient compound terms with a sense of {{m|en|I}}, {{m|en|my}}.\n* {{ja-r|汝%弟|な%おと}}: my younger brother\n* {{ja-r|汝%夫|な%せ}}: my man, my husband\n* {{ja-r|汝%妹|な%にも}}: my younger sister\n* {{ja-r|汝%姉|な%ね}}: my older sister\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|yomi=k|なれ}}\n\nFrom {{inh|ja|ojp|sort=なれ|-}}. The long form of {{m|ja|汝|tr=na}} above. Compound of {{m|ja|汝|tr=na}} and suffix {{m|ja|れ|tr=re}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なれ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|なれ}}\n\n# {{lb|ja|sort=な|obsolete}} {{n-g|second person pronoun}}: [[you]]\n#* {{RQ:Man'yōshū|14|3440}}\n#*: 許乃河泊尓 安佐菜安良布児 '''奈礼'''毛安礼毛 余知乎曽母弖流 伊仾児多婆里尓 <sub>一云 麻之毛安礼母</sub>\n#* c. 913 [[w:Kokin Wakashū|Kokin Wakashū]] (#904)\n#*: ちはやぶる宇治のはしもり '''なれ'''をしぞあはれとは思ふ 年のへぬれば"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 7",
+              "text": "{{ja-kanjitab|yomi=k|なむち}}\n\nFrom {{inh|ja|ojp|sort=なむち|-}}. Compound of {{compound|ja|sort=なむち|汝|tr1=na|t1=you|貴|tr2=muchi|t2=noble}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なむち}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|なむち}}\n\n# {{lb|ja|sort=なむち|obsolete}} {{n-g|second person pronoun}}: [[you]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 8",
+              "text": "{{ja-kanjitab|yomi=k|なむぢ}}\n\n{{IPAchar|/namuti/}} → {{IPAchar|/namudi/}} → {{IPAchar|/namud͡ʑi/}}\n\nFrom earlier {{m|ja|なむち|tr=namuchi}}. Final voicing due to influence of medial voiced {{IPAchar|/m/}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なむじ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|なむじ|hhira=なむぢ}}\n\n# {{lb|ja|sort=なむぢ|obsolete}} {{n-g|second person pronoun}}: [[you]]\n#* {{RQ:Taketori Monogatari}}\n#*: 大納言わらゐて、「'''なむぢ'''らが君の使と名を流しつ。君の仰ごとをば、いかが背くべき」との給て [...]\n#* {{RQ:Taketori Monogatari}}\n#*: 大納言起きゐてのたまはく、「'''汝（なむぢ）'''らよくもて來ずなりぬ。龍は鳴る神のるいにこそありけれ。[...]」"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 9",
+              "text": "{{ja-kanjitab|yomi=k|なんじ}}\n\n{{IPAchar|/namuti/}} → {{IPAchar|/namudi/}} → {{IPAchar|/nandi/}} → {{IPAchar|/nand͡ʑi/}}\n\nFrom earlier {{m|ja|なむぢ|tr=namudi}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なんじ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|爾}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|なんじ|hhira=なんぢ}}\n\n# {{lb|ja|sort=なんじ|archaic}} {{n-g|second person pronoun}}: [[you]]\n#* {{RQ:Taketori Monogatari}}\n#*: 「'''汝（なんぢ）'''が持ちて侍るかぐや姫たてまつれ。」\n#* {{RQ:Taketori Monogatari}}\n#*: いはく、「'''汝（なんぢ）'''、おさなき人、いささかなる功徳を翁つくりけるによりて、'''汝（なんぢ）'''が助けにとて、かた時のほどとて下ししを[...]」"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{cite-book\n|last=Horiuchi\n|first=Hideaki\n|coauthors=Akiyama Ken\n|title=Shin Nihon Koten Bungaku Taikei 17: [[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]\n|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]\n|date=1997\n|location=[[w:Tōkyō|Tōkyō]]\n|lang=ja\n|isbn=4-0024-0017-4\n}}\n:* {{cite-book\n|last=Kurano\n|first=Kenji\n|title=[[w:Shoku Nihongi|Shoku Nihongi]] Senmyō\n|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]\n|year=1936\n|location=[[w:Tōkyō|Tōkyō]]\n|lang=ja\n|isbn=4-00-300381-0\n}}\n:* {{cite-book\n|last=Kurano\n|first=Kenji\n|coauthors=Yūkichi Takeda\n|title=Nihon Koten Bungaku Taikei 1: [[w:Kojiki|Kojiki]], Norito\n|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]\n|year=1958\n|isbn=4-0006-0001-X\n}}\n:* {{cite-book\n|last=Saeki\n|first=Umetomo\n|title=Nihon Koten Bungaku Taikei 8: [[w:Kokin Wakashū|Kokin Wakashū]]\n|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]\n|date=1958\n|location=[[w:Tōkyō|Tōkyō]]\n|lang=ja\n|isbn=4-0006-0008-7\n}}\n:* {{R:Taketori Monogatari}}\n:* {{R:Man'yōshū 3}}\n:* {{R:Kodai Kayōshū}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

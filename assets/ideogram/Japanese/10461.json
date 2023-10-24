@@ -1,0 +1,49 @@
+{
+  "title": "乗",
+  "ns": 0,
+  "id": 10461,
+  "timestamp": 1531318978000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|乘|垂}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|乗|乘}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=丿08|kyu=乘}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう\n|kanon=しょう\n|kun=の-る, の-り, の-せる\n|nanori=のり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der5|lang=ja|{{ja-l|移乗}}\n|{{ja-l|階乗}}\n|{{ja-l|騎乗}}\n|{{ja-l|警乗}}\n|{{ja-l|下乗}}\n|{{ja-l|三乗}}\n|{{ja-l|座乗}}, {{ja-l|坐乗}}\n|{{ja-l|史乗}}\n|{{ja-l|試乗}}\n|{{ja-l|小乗}}\n|{{ja-l|上乗}}\n|{{ja-l|相乗}}\n|{{ja-l|大乗}}\n|{{ja-l|添乗}}\n|{{ja-l|搭乗}}\n|{{ja-l|同乗}}\n|{{ja-l|二乗}}\n|{{ja-l|自乗}}\n|{{ja-l|配乗}}\n|{{ja-l|陪乗}}\n|{{ja-l|万乗}}\n|{{ja-l|便乗}}\n|{{ja-l|分乗}}\n|{{ja-l|冪乗}}\n|{{ja-l|累乗}}\n|{{ja-l|乗合}}\n|{{ja-l|乗員}}\n|{{ja-l|乗換}}\n|{{ja-l|乗艦}}\n|{{ja-l|乗気}}\n|{{ja-l|乗客}}\n|{{ja-l|乗降}}\n|{{ja-l|乗号}}\n|{{ja-l|乗算}}\n|{{ja-l|乗車}}\n|{{ja-l|乗手}}\n|{{ja-l|乗除}}\n|{{ja-l|乗数}}\n|{{ja-l|乗積}}\n|{{ja-l|乗船}}\n|{{ja-l|乗組}}\n|{{ja-l|小乗的}}\n|{{ja-l|大乗的}}\n|{{ja-l|乗馬}}\n|{{ja-l|乗物}}\n|{{ja-l|乗法}}\n|{{ja-l|乗務}}\n|{{ja-l|乗羃}}\n|{{ja-l|乗用}}\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{l|ja|乗じる}}\n* {{l|ja|乗す}}\n* {{l|ja|乗ずる}}\n* {{l|ja|乗せる}}\n* {{l|ja|乗っかる}}\n{{der-mid}}\n* {{l|ja|乗っける}}\n* {{l|ja|乗っ切る}}\n* {{l|ja|乗っ取る}}\n* {{l|ja|乗る}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|じょう|suffix}}\n\n# {{lb|ja|mathematics|sort=しょう'}} [[power]]\n#: {{ja-usex|３の３'''乗'''は２７である。|さん の さん '''じょう''' は に じゅう なな で ある。|Three to the third '''power''' is 27.}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

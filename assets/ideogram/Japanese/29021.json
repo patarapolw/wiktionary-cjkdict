@@ -1,0 +1,39 @@
+{
+  "title": "鄕",
+  "ns": 0,
+  "id": 29021,
+  "timestamp": 1517546204000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|郷|鄉|乡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|郷|鄕}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=邑10|shin=郷}}\n\n# [[village]]\n# [[hometown]]\n# [[countryside]], [[country]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<かう\n|kanon=きょう<きやう\n|kanyoon=ごう\n|kun=さと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Non-[[w:Jōyō kanji|Jōyō]] alternate for {{m|ja|郷}}. Rarely used."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

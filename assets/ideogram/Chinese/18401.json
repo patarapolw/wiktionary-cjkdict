@@ -1,0 +1,42 @@
+{
+  "title": "歰",
+  "ns": 0,
+  "id": 18401,
+  "timestamp": 1527632268000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=sè\n|c=saap3\n|mc=y\n|oc=y\n|ma=\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} {{zh-only|歰氣|to [[argue]], [[wrangle]], [[disagree]]}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|歰氣}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

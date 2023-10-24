@@ -1,0 +1,39 @@
+{
+  "title": "玳",
+  "ns": 0,
+  "id": 20691,
+  "timestamp": 1540700705000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=玉05}}\n\n# {{defn|lang=ja|sort=玉05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だい, どく\n|kanon=たい, とく\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|玳%皮盞|^たい%ひさん|rom=-}}, {{ja-r|玳%玻盞|^たい%ひさん}}\n* {{ja-r|玳瑁|タイマイ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "乑",
+  "ns": 0,
+  "id": 10455,
+  "timestamp": 1531166489000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㐺|众|𠂢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=丿05}}\n\n# {{defn|lang=ja|sort=丿05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=ぎん\n|kun=ならびた-つ\n}}\n\nAs a variant of {{m|ja|攀}}:\n{{ja-readings\n|goon=はん\n|kanon=はん\n|kun=よ-じる<よ-ぢる\n}}\n\nAs a variant of {{m|ja|衆}}/{{m|ja|眾}}:\n{{ja-readings\n|goon=しゅ<しゆ\n|kanon=しゅう<しゆう\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:DKJ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

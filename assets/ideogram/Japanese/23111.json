@@ -1,0 +1,46 @@
+{
+  "title": "粟",
+  "ns": 0,
+  "id": 23111,
+  "timestamp": 1552383406000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|栗}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=米06}}\n\n# {{defn|lang=ja|sort=米06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そく\n|kanon=しょく\n|kanyoon=ぞく\n|kun=あわ<あぱ-, もみ-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|あわ|yomi=k}}\nFrom {{inh|ja|jpx-pro|*apa||millet}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あわ|アワ}}\n\n# [[foxtail millet]]\n\n[[Category:ja:Grains|あわ]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

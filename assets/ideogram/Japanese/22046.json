@@ -1,0 +1,71 @@
+{
+  "title": "碰",
+  "ns": 0,
+  "id": 22046,
+  "timestamp": 1553563203000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石09}}\n\n# [[collide]], [[bump into]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=ほう\n|kun=ぶつ-かる, ぶつ-ける\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja|副露}}\n{{ja-kanjitab|ぽん|yomi=irr}}\nBorrowed from {{bor|ja|cmn|碰|tr=pèng|sort=ほん}}.<ref>{{R:Daijisen}}</ref><ref name=\"DJR\"/>\n\nCompare {{cog|yue|碰|tr=pung<sup>3</sup>}} and {{cog|nan|碰|tr=pōng}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|ポン|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ポン}}\n\n# {{lb|ja|mahjong|sort=ほん}} [[pung]], [[pong]]: [[call]] for a {{m|ja|明刻|tr=minkō||[[open]] or [[expose]]d [[triplet]]}} from a [[discard]]ed [[tile]], given that the player who called ''pon'' has a [[pair]] of said tiles"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|双%碰|シャン%ポン}}: [[two]]-[[side]]d wait pattern, winning tile may form a triplet with one or the other pair"
+                },
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|吃|チー|[[chow]]}}\n* {{ja-r|槓|カン|[[kong]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|刻%子|コー%ツ|[[triplet]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

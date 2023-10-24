@@ -1,0 +1,51 @@
+{
+  "title": "顧",
+  "ns": 0,
+  "id": 31207,
+  "timestamp": 1539040474000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|顾|頋}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=頁12}}\n\n# {{defn|lang=ja|sort=頁12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=こ\n|kun=かえり-みる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|counter|hira=こ|kata=コ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|こ|y=ko}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "# ''(often as '''''一顧 ikko''''')''<!-- Could not deitalicize kanji or rōmaji within {{lb}} parameters --> looks back, double-takes\n## ''([[Appendix:Glossary#figurative|figuratively]], often followed by neg. form of '''''[[する|する suru]]''''')'' amount of cares\n##: それに'''一顧'''もしない！\n##: Sore ni '''ikko''' mo shinai!\n##: ''I don't care '''a bit''' about that!''"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

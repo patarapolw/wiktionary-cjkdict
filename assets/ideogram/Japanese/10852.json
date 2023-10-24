@@ -1,0 +1,44 @@
+{
+  "title": "使",
+  "ns": 0,
+  "id": 10852,
+  "timestamp": 1549311398000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|便}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=人06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=つか-う, しむ, せしむ, しめば\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|大%使%館|たい%し%かん}}: embassy\n* {{ja-r|天%使|てん%し}}: angel\n* {{ja-r|大%使|たい%し}}: ambassador\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|し}}\n\n# [[messenger]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

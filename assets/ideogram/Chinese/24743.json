@@ -1,0 +1,46 @@
+{
+  "title": "艹",
+  "ns": 0,
+  "id": 24743,
+  "timestamp": 1538050394000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|艸}}\n{{character info/new}}\n{{character info/new|codepoint=0xFA5D}}\n{{character info/new|codepoint=0xFA5E}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=cǎo,cǎozìtóu\n|m_note=草字頭/草字头 when used as a component\n|c=\n|mc=\n|oc=\n|ma=\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|combining form of {{l|zh|艸}}.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=cǎo,cào\n|cat=v,intj\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Internet slang|euphemistic}} {{zh-alt-form|肏|[[fuck]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

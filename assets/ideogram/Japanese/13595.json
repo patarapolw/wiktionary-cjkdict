@@ -1,0 +1,73 @@
+{
+  "title": "如",
+  "ns": 0,
+  "id": 13595,
+  "timestamp": 1553762162000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=女03}}\n\n# [[likeness]]; [[such as]]; to [[seem]]; [[as if]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にょ\n|kanon=じょ\n|kun=ごと-く, し-く\n|nanori=ゆ,ゆき\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|如何|どう}} / {{ja-r|如何|いかが}}: in [[what]] [[manner]]; [[how]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|にょ|yomi=goon}}\nFrom {{der|ja|ltc|sort=にょ|-}} {{ltc-l|如|id=1|[[as if]]; [[as though]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=go|にょ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der2|lang=ja|title=Terms derived from {{ja-r|如|にょ}}:\n|{{ja-r|如実|にょじつ}}: {{lb|ja|Buddhism}} [[ultimate]] [[reality]]; [[absolute]] [[truth]]\n|{{ja-r|如来|にょらい}}: {{lb|ja|Buddhism}} {{w|Tathāgata}}\n|{{ja-r|真如|しんにょ}}: {{lb|ja|Buddhism}} [[suchness]]\n|{{ja-r|不如意|ふにょい}}: [[thing]]s [[gone]] [[awry]]; [[shortage]] of [[money]]; [[financial]] [[difficulty]]\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|じょ|yomi=kanon}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=kan|じょ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der2|lang=ja|title=Terms derived from {{ja-r|如|じょ}}:\n|{{ja-r|欠如|けつじょ}}: [[shortage]]; [[deficiency]]\n|{{ja-r|突如|とつじょ}}: [[suddenly]]; [[all]] of a [[sudden]]\n|{{ja-r|躍如|やくじょ}}: [[vivid]]; [[lifelike]]\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "打",
+  "ns": 0,
+  "id": 15981,
+  "timestamp": 1553684515000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=手02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう<ちやう\n|kanon=てい\n|toon=た\n|kanyoon=だ\n|kun=う-ち, う-つ, ぶ-つ, ダース-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|ja}}\nThis kanji spelling is {{ateji}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ダース}}\n\n# [[dozen]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

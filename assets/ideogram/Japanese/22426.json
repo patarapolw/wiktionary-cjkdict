@@ -1,0 +1,39 @@
+{
+  "title": "稔",
+  "ns": 0,
+  "id": 22426,
+  "timestamp": 1524890449000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾08}}\n\n# {{defn|lang=ja|sort=禾08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=にん<にむ\n|kanon=じん<じむ\n|kanyoon=ねん\n|kun=みの-る, とし, みのり\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|みのる}}\n\n# {{given name|male|lang=ja|sort=みのる}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

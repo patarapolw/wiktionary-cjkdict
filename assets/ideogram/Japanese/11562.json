@@ -1,0 +1,107 @@
+{
+  "title": "分",
+  "ns": 0,
+  "id": 11562,
+  "timestamp": 1552577507000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|份}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=刀02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶん, ふん\n|kanon=ふん\n|kanyoon=ぶ\n|kun=わ-かる, わ-かれる, わ-ける, わ-かつ\n|nanori=いた, わけ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|分割|ぶんかつ}}\n* {{ja-r|分詞|ぶんし}}\n* {{ja-r|分数|ぶんすう}}\n* {{ja-r|分析|ぶんせき}}\n* {{ja-r|分布|ぶんぷ}}\n* {{ja-r|分別|ふんべつ}}\n* {{ja-r|分野|ぶんや}}\n* {{ja-r|分離|ぶんり}}\n* {{ja-r|分立|ぶんりつ}}\n* {{ja-r|分類|ぶんるい}}: [[classification]]\n* {{ja-r|分類学|ぶんるいがく}}: [[taxonomy]]\n* {{ja-r|過分|かぶん}}\n* {{ja-r|区分|くぶん}}\n* {{ja-r|気分|きぶん}}\n* {{ja-r|十分|じっぷん}}\n* {{ja-r|充分|じゅうぶん}}\n* {{ja-r|秋分|しゅうぶん}}\n* {{ja-r|春分|しゅんぶん}}\n* {{ja-r|成分|せいぶん}}\n* {{ja-r|存分|ぞんぶん}}\n* {{ja-r|多分|たぶん}}\n* {{ja-r|半分|はんぶん}}\n* {{ja-r|不可分|ふかぶん}}\n* {{ja-r|自分|じぶん}}\n* {{ja-r|養分|ようぶん}}\n* {{ja-r|区%分|く%わけ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|ふん}}\n\n{{IPAchar|/pun/}} → {{IPAchar|/fun/}}\n\nFrom {{der|ja|ltc|-|sort=ふん}} {{ltc-l|分|gloss=a minute|id=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ふん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|ふん}}\n\n# [[minute]]s (duration)"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふん}}\n\n# a [[minute]] (unit of time)\n# a [[minute]] (unit of angle)",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "When preceded by a number, the reading changes depending on the phonetic context.\n{{ja-minutes}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|ぶん}}\n\nFrom {{der|ja|ltc|-|sort=ふん}} {{ltc-l|分|gloss=a minute|id=2}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ぶん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぶん}}\n\n# a [[part]], a [[share]], a [[portion]]\n#: {{ja-usex|このケーキは君の'''分'''だよ。|この ケーキ は きみ の '''ぶん''' だ よ。|This piece of cake is your '''portion'''.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=o|ぶ}}\n\n{{IPAchar|/bun/}} → {{IPAchar|/bu/}}\n\nShift from ''bun'' above, with influence on the meaning from the {{cog|ltc|-}} sense tied to original {{cog|ltc|-}} reading {{IPAchar|/pɨun/}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyo|ぶ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぶ}}\n\n# an obsolete unit of currency equal to four {{ja-r|両|りょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|ふん]]\n[[Category:ja:Time|ふん]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

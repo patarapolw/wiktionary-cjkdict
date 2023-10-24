@@ -1,0 +1,39 @@
+{
+  "title": "擢",
+  "ns": 0,
+  "id": 16647,
+  "timestamp": 1553551130000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手14}}\n\n# {{defn|lang=ja|sort=手14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だく\n|kanon=たく\n|kanyoon=てき\n|kun=ぬき-んでる, ぬ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|抜擢|ばってき}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

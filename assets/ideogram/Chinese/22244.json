@@ -1,0 +1,44 @@
+{
+  "title": "祠",
+  "ns": 0,
+  "id": 22244,
+  "timestamp": 1541684001000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|礻|司|ls=psc|ls2=ic|c1=s|c2=p|t1=divinity}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cí\n|c=ci4\n|h=pfs=\n|md=\n|mn=qz:sîr/tw,xm,zz:sû/xm,zz:sî\n|mn_note=sîr/sû - literary; sî - vernacular\n|mn-t=se5\n|w=\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|雷家祠|家祠|宗祠|叢祠|奉祠|禖祠|生祠|祠官|祠堂|祠兵|淫祠|祠宇|龍祠|行祠|史祠}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "尼",
+  "ns": 0,
+  "id": 14332,
+  "timestamp": 1552577867000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=尸02}}\n\n# {{defn|lang=ja|sort=尸02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=に, ねい\n|kanon=じ, でい\n|kun=あま-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[尼君]]\n* [[尼御前]]\n* [[尼寺]]\n* [[尼法師]]\n* [[尼僧]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あま}}\n\n# [[nun]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

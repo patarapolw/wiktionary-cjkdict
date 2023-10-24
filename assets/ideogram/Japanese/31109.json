@@ -1,0 +1,66 @@
+{
+  "title": "項",
+  "ns": 0,
+  "id": 31109,
+  "timestamp": 1550933009000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|项|頂}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=頁03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごう\n|kanon=こう\n|kun=うなじ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|項目|こうもく|gloss=article}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|うなじ|yomi=k}}\n{{ja-see|うなじ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|こう|yomi=o}}\nFrom {{der|ja|ltc|-}} {{ltc-l|項}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|こう|y=o|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こう|hhira=かう}}\n\n# [[section]]\n# {{lb|ja|maths}} [[term]]\n# {{lb|ja|linguistics}} [[argument]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

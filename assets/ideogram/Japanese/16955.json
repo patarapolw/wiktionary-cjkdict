@@ -1,0 +1,93 @@
+{
+  "title": "易",
+  "ns": 0,
+  "id": 16955,
+  "timestamp": 1551968441000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|昜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=日04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い, やく\n|kanon=い, えき\n|kun=おさ-める, やさ-し.い, か-える\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えき|yomi=kanon}}\n\nFrom {{der|ja|ltc|sort=えき|-}} {{ltc-l|易|id=2}}.\n\nThe ''[[漢音#Japanese|kan'on]]'', so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えき|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えき}}\n\n# [[divination]]; [[fortune-telling]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|卜|うらない}}\n* {{ja-r|占|うら}}\n* {{ja-r|卜占|ぼくせん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|えき}}\n\n# {{short for|易経||[[I Ching]] {{gloss|Chinese classic text}}|lang=ja|tr=Ekikyō}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えき}}\n\n# [[exchange]]\n# [[divination]]; [[fortune-telling]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|い|yomi=o}}\n\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|易|id=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|い|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|い}}\n\n# something [[easy]] to do; [[easiness]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|い}}\n\n# [[easy]]; [[simple]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

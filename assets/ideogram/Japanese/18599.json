@@ -1,0 +1,98 @@
+{
+  "title": "永",
+  "ns": 0,
+  "id": 18599,
+  "timestamp": 1554098007000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|氷}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=水01}}\n\n# [[eternity]]\n# [[long]]\n# [[lengthy]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう<ゐやう\n|kanon=えい<えい<ゑい\n|kun=なが-い, とこしえ-\n|nanori=え, と, のり, ひさ, ひさし, のえ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|永字|えいじ|the character {{m|ja|永|tr=ei||eternity}}}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-l|久}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=1742\n|shift=8969\n|jis=314A\n|euc=B1CA\n|skip=2-1-4\n|freq=846\n|nelson=130\n|newnelson=3031\n|halpern=1937\n|kld=1230\n|heisig=132\n|tuttle=3a1.1\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|永}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えい|acc=1|acc_ref=DJR|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えい}}\n\n# [[long]] (time)\n# [[perpetual]]; [[eternal]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えい}}\n\n# {{lb|ja|historical}} {{abbreviation of|永楽銭|lang=ja|tr=eirakusen}}\n# {{lb|ja|historical}} {{rfdef|ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|よう|yomi=goon}}\nFrom {{der|ja|ltc|sort=よう|-}} {{ltc-l|永}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|よう|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|よう|hhira=やう}}\n\n# {{lb|ja|rare}} {{syn of|永|lang=ja|tr=ei|t=long (time), eternal}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|なが|yomi=k}}\n{{ja-see|なが}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

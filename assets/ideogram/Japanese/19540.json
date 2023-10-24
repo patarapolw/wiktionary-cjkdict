@@ -1,0 +1,110 @@
+{
+  "title": "潮",
+  "ns": 0,
+  "id": 19540,
+  "timestamp": 1553057204000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F90F}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=水12}}\n\n# [[tide]]\n# [[saltwater]]\n# [[opportunity]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<でう\n|kanon=ちょう<てう\n|kun=うしお-<うしほ-, しお-<しほ-\n|nanori=いた, しおい, しおり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Both {{ja-l|潮}} and {{ja-l|汐}} have the ''kun''-readings of ''shio'' and ''ushio''. Archaically, tides in the morning were called {{m|ja|朝潮|tr=asashio}}, the term for tides at nighttime was {{m|ja|夕汐|tr=yūshio}}. For tides at any time of day, {{m|ja|潮汐|tr=chōseki}} may be used."
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|潮%汐|ちょう%せき|[[tide]]}}\n* {{ja-r|怒潮|どちょう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{sense|for tides in the [[evening]]}} {{ja-l|汐}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しお|yomi=k}}\n{{IPAchar|/usipo/}} → *{{IPAchar|/isipo/}} → {{IPAchar|/sipo/}} → {{IPAchar|/ɕifo/}} → {{IPAchar|/ɕiwo/}} → {{IPAchar|/ɕio/}}\n\nA shift from or a shortening of {{inh|ja|ojp|sort=しお|-}} ''ushio'' (see below).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|しお|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しお|hhira=しほ}}\n\n# a ([[morning]]) [[tide]]\n#* {{RQ:Man'yōshū|18|4045}}<ref>{{R:Man'yōshū 4}}</ref>, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo.html#4045 here]\n#*: {{ja-usex|m=於伎敝欲里 美知久流'''之保'''能 伊也麻之尓 安我毛布支見我 弥不根可母加礼|m_kana=おきへより みちくる'''しほ'''の いやましに あがもふきみが みふねかもかれ|沖%辺 より 満ち来る '''潮''' の いや増し に 我が 思ふ 君 が 御%船 か も かれ|おき%べ より みちくる '''しほ''' の いやまし に あが もふ きみ が み%ふね か も かれ|rom=okibe yori michikuru '''shio''' no iyamashi ni aga 'mou kimi ga mifune ka mo kare|My lord[,] for whom I long more and more like the '''tide''' coming up from the offing, could that there be your boat?<ref>{{cite-book|1963|Jan Lodewijk Pierson, Jr.|The Manyôśû Translated and Annotated Book XVIII|publisher=Brill Archive|page=14}}</ref>|sort=しお}}\n# [[seawater]]\n# a (usually [[favorable]]) [[chance]] or [[opportunity]]\n#: {{synonyms|ja|潮時|tr=shiodoki}}\n# [[charm]], [[attractive]]ness\n#: {{synonyms|ja|愛嬌|tr=aikyō}}\n# {{lb|ja|historical|sort=しお}} in the {{w|Edo period}}, name of a [[courtesan]] [[rank]] in the {{w|Shinmachi}} district of Osaka, next to the {{m|ja|鹿恋|tr=kakoi}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|塩|しお|[[salt]]}}\n* {{ja-r|潮時|しおどき}}\n* {{ja-r|朝潮|あさしお|[[morning]] tide}}\n* {{ja-r|真%潮|ま%しお}}\n* {{ja-r|夕潮|ゆうしお|[[evening]] tide}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しお|hhira=しほ}}\n\n# {{surname|lang=ja|A=a|sort=しお}}\n# {{given name|female|lang=ja|A=a|sort=しお}}\n\n{{ja-pos|proper|しほ}}\n\n# {{surname|lang=ja|A=a|sort=しほ}}\n# {{given name|female|lang=ja|A=a|sort=しほ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|うしお|yomi=k}}\n{{IPAchar|/usipo/}} → {{IPAchar|/usipo/}} → {{IPAchar|/uɕifo/}} → {{IPAchar|/uɕiwo/}} → {{IPAchar|/uɕio/}}\n\nFrom {{inh|ja|ojp|sort=うしお|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|うしお|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うしお|hhira=うしほ}}\n\n# a ([[morning]]) [[tide]]\n# [[seawater]]\n# a [[tidal current]]\n#: {{synonyms|ja|潮流|tr=chōryū}}\n# {{short for|lang=ja|潮汁|tr=ushiojiru|nodot=1}}: a [[thin]] [[soup]] of [[fish]] or [[shellfish]] [[boil]]ed in seawater",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|潮%汁|うしお%じる}}, {{ja-r|潮%煮|うしお%に}}\n* {{ja-r|潮%染|うしお%ぞめ|rom=-}}, {{ja-r|潮%染め|うしお%ぞめ}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|うしお|hhira=うしほ}}\n\n# ''a [[place name]]''\n# {{surname|lang=ja|A=a|sort=うしお}}\n# {{given name|female|lang=ja|A=a|sort=うしお}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

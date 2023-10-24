@@ -1,0 +1,61 @@
+{
+  "title": "劇",
+  "ns": 0,
+  "id": 11693,
+  "timestamp": 1553744393000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|剧}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=刀13}}\n\n# {{defn|lang=ja|sort=刀13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎゃく\n|kanon=けき\n|kanyoon=げき\n|kun=はげ-し.い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|げき|yomi=kanyoon}}\nFrom {{etyl|ltc|ja|sort=けき'}} {{m|zh|劇}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|げき|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|げき}}\n\n# [[play]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|喜%劇|き%げき|[[comedy]]}}\n* {{ja-r|奇%跡%劇|き%せき%げき|[[miracle play]]}}\n* {{ja-r|悲%劇|ひ%げき|[[tragedy]]}}\n* {{ja-r|劇%場|げき%じょう|[[theater]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "盈",
+  "ns": 0,
+  "id": 21530,
+  "timestamp": 1548850571000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=皿04}}\n\n# fill\n# surplus",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|kanon=[[えい]] (ei)|goon=[[よう]] (yō)|kun=[[みちる]] (michiru), [[みたす]] (mitasu), [[みつ]] (mitsu)|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds with 盈}}\n* {{ja-r|潮盈珠|しおみつたま}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|盈}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えい|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えい}}\n\n# to be [[full]]; to be [[filled]]; (of [[moon]]) to [[wax]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|盈盈|えいえい}}\n* {{ja-r|盈虧|えいき}}\n* {{ja-r|盈虚|えいきょ}}\n* {{ja-r|盈月|えいげつ}}\n* {{ja-r|盈満|えいまん}}\n* {{ja-r|虧盈|きえい}}\n* {{ja-r|欠盈|けつえい}}\n* {{ja-r|充盈|じゅうえい}}\n* {{ja-r|満盈|まんえい}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

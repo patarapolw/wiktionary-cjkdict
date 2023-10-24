@@ -1,0 +1,49 @@
+{
+  "title": "畦",
+  "ns": 0,
+  "id": 21161,
+  "timestamp": 1547796353000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=田06}}\n\n# rice paddy ridge\n# [[furrow]]\n# [[rib]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え<ゑ\n|kanon=けい<くゑい\n|kun=あぜ-, うね-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あぜ|yomi=k}}\n{{ja-see|あぜ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|あ|yomi=k}}\n{{ja-see|あ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|うね|yomi=k}}\n{{ja-see|うね}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "脒",
+  "ns": 0,
+  "id": 24374,
+  "timestamp": 1525179548000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp|zh|yue}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Borrowed from {{bor|zh|en|[[amidine|a'''mi'''dine]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=mǐ\n|c=mai5\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemistry}} [[amidine]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

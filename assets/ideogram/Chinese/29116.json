@@ -1,0 +1,42 @@
+{
+  "title": "酶",
+  "ns": 0,
+  "id": 29116,
+  "timestamp": 1550602985000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp|zh:酶|en:Enzyme}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=méi\n|c=mui4\n|h=pfs=\n|md=\n|mn=qz,xm:mûi/zz:bôe\n|w=\n|mc=\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|biochemistry}} [[enzyme]]\n#: {{zh-syn|酵素}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|消化酶|澱粉酶|細胞溶解酶|胃蛋白酶|胰澱粉酶|胰脂酶|胰蛋白酶|轉化酶|酒化酶|酒精去氫酶|酯酶}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "俄",
+  "ns": 0,
+  "id": 10924,
+  "timestamp": 1517314973000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=が\n|kanon=が\n|kun=にわか-<にはか-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|俄然|がぜん}}: suddenly, abruptly\n* {{ja-r|俄雨|にわか.あめ}}: rain shower\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{ja-adj|infl=な|にわか|hhira=にはか}}\n\n# [[sudden]], [[abrupt]], [[unexpected]], [[improvised]], [[offhand]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|にわか}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|にわか|hhira=にはか}}\n\n# abbreviation of {{ja-r|俄狂言|にわか きょうげん}}: a [[farce]]; an [[impromptu]] comic interlude during a [[Noh]] play\n# by extension, any impromptu [[joke]], [[witticism]], or [[pun]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|駄洒落|だじゃれ}}: a pun, a [[groaner]]\n* {{ja-r|地口|じぐち}}: a pun"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

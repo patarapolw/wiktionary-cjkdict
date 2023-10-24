@@ -1,0 +1,39 @@
+{
+  "title": "擬",
+  "ns": 0,
+  "id": 16657,
+  "timestamp": 1551147586000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|儗|拟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手14}}\n\n# {{defn|lang=ja|sort=手14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ご\n|kanon=ぎ\n|kun=まがい-, もど-き, なぞら-える, はか-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|擬%薬|ぎ%やく|[[placebo]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

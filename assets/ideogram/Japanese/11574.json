@@ -1,0 +1,54 @@
+{
+  "title": "刑",
+  "ns": 0,
+  "id": 11574,
+  "timestamp": 1538492496000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|形}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=刀04}}\n\n# [[penalty]], [[punishment]]\n# to [[punish]]\n# to [[execute]] (to [[kill]] as a penalty)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<ぎやう\n|kanon=けい\n|kun=しおき, おしおき\n|nanori=のり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top4}}\n* {{ja-r|刑部省|ぎょうぶしょう}}\n* {{ja-r|刑罪|けいざい}}\n* {{ja-r|刑死|けいし}}\n* {{ja-r|刑事|けいじ}}\n* {{ja-r|刑場|けいじょう}}\n{{mid4}}\n* {{ja-r|刑罰|けいばつ}}\n* {{ja-r|刑法|けいほう}}\n* {{ja-r|刑務所|けいむしょ}}\n* {{ja-r|刑余|けいよ}}\n* {{ja-r|刑吏|けいり}}\n{{mid4}}\n* {{ja-r|寛刑|かんけい}}\n* {{ja-r|求刑|きゅうけい}}\n* {{ja-r|宮刑|きゅうけい}}\n* {{ja-r|厳刑|げんけい}}\n* {{ja-r|減刑|げんけい}}\n{{mid4}}\n* {{ja-r|死刑|しけい}}\n* {{ja-r|終身刑|しゅうしんけい}}\n* {{ja-r|処刑|しょけい}}\n* {{ja-r|磔刑|たっけい}}\n* {{ja-r|笞刑|ちけい}}\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{S-JIS|8C59}}\n* {{JIS|373A}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|けい}}\n\n# punishment"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|けい}}\n\n# [[punishment]]; [[sentence]]; [[penalty]]\n\n[[Category:ja:Law enforcement|けい]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

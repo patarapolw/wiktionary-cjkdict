@@ -1,0 +1,71 @@
+{
+  "title": "鰐",
+  "ns": 0,
+  "id": 32246,
+  "timestamp": 1549587402000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鳄}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|鰐|鱷}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=魚09|kyu=鱷}}\n\n# [[alligator]], [[crocodile]]\n# a [[shark]] or other large dangerous fish",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がく\n|kanon=がく\n|kun=わに-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鰐魚|がくぎょ}}: [[crocodilian]]; large, dangerous fish\n* {{ja-r|鰐淵寺|がくえんじ}}: a {{w|Tiantai}} [[Buddhist]] [[temple]] in {{w|Shimane Prefecture}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|alligator|mul=crocodile}}\n[[Image:Alligator.jpg|thumb|250px|{{lang|ja|鰐}} (''wani''): a '''[[crocodile]]'''.]]\n</div>\n{{ja-kanjitab|yomi=k|わに}}\nFrom {{etyl|ojp|ja|sort=わに}}. Derivation uncertain. Appears in the ''{{w|Kojiki}}'' in ambiguous reference to a kind of sea creature (possibly sharks<ref name=\"DJR\">{{R:Daijirin}}</ref> or crocodiles). The sense of {{m|en|crocodile}} clearly appears in the ''{{w|Wamyō Ruijushō}}'' dictionary (938) with an explanation of “having four legs like a turtle and a three-foot mouth with sharp teeth.”\n\nVarious theories exist regarding the term's origin, such as an alteration of {{m|ja|鬼|tr=oni||demon, devil}}, or an abbreviation of {{m|ja|海主|tr=watanushi||sea master, sea god}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|わに|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|わに}}\n\n# [[crocodilian]] ([[crocodile]], [[alligator]], [[gavial]])\n#* {{quote-book|||Booster 5\n|||date=Oct 17 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{laja|クロコダイラス}}\n|trans-chapter=Crocodilus}}\n#*: {{ja-usex|知%恵を持ちさらに狂%暴%化した'''ワニ'''。かたいうろこで攻%撃をはじく。|ち%え を もち さら に きょう%ぼう%か した '''ワニ'''。かたい うろこ で こう%げき を はじく。|A frenzied crocodilian who’s actually quite intelligent. He repels attacks with his hard scales.}}\n# {{lb|ja|obsolete|sort=わに}} a [[shark]] or other large and dangerous [[fish]]\n#* {{RQ:Shinsen Jikyō|9|2}}\n#*: 鰐 五各反 '''和尓'''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|鰐の口|わに の くち}}: \"the alligator's mouth\" → an [[extremely]] [[dangerous]] [[place]] or [[situation]]\n* {{ja-r|鰐口|わにぐち}}: a [[crocodile]]'s or [[alligator]]'s mouth; a terrible [[rumor]]; someone with a physically large mouth; a wide [[bronze]] [[bell]] rung with a [[rope]] and hung at [[shrine]]s; part of a Japanese [[saddle]]; {{qualifier|slang}} the female [[genitalia]]; {{qualifier|slang}} a coin [[purse]]\n* {{ja-r|鰐口草|わにぐちそう}}: a [[perennial]] [[plant]] in the [[lily]] family, possibly related to ''[[Polygonatum]]''\n* {{ja-r|鰐鮫|わにざめ}}: an [[alligator]] or [[crocodile]]; a [[shark]] or other large dangerous fish\n* {{ja-r|鰐千鳥|わにちどり}}: the [[crocodile bird]] or {{w|Egyptian plover}}, ''[[Pluvianus aegyptius]]''\n* {{ja-r|鰐足|わにあし}}: [[knock knee]]s, [[bowleg]]s\n* {{ja-r|鰐皮|わにがわ}}: [[crocodile]] or [[alligator]] [[skin]] or [[hide]]\n* {{ja-r|鰐鱶|わにぶか}}: an [[alligator]] or [[crocodile]]; a [[shark]] or other large dangerous fish\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "{{der-top|Idioms}}\n* {{ja-r|鰐の口を逃れる|わに の くち を のがれる}}: \"to escape the alligator's mouth\" → to [[escape]] an [[extremely]] [[dangerous]] [[place]] or [[situation]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Shinsen Jikyō}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

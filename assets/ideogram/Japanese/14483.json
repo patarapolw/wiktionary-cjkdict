@@ -1,0 +1,44 @@
+{
+  "title": "岸",
+  "ns": 0,
+  "id": 14483,
+  "timestamp": 1550120763000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㟁|𡶜|崖}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=山05}}\n\n# [[beach]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がん\n|kanon=がん\n|kun=きし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|きし|yomi=k}}\n{{ja-noun|きし}}\n\n# [[bank]], [[coast]], [[shore]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|きし|proper}}\n\n# {{surname|lang=ja|sort=きし}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

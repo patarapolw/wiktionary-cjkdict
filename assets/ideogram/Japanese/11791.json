@@ -1,0 +1,61 @@
+{
+  "title": "勝",
+  "ns": 0,
+  "id": 11791,
+  "timestamp": 1553963526000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|胜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=力10}}\n\n# {{sense|[[win]] a game}} [[かつ]], [[かち]]\n# {{sense|be [[superior]] to}} [[まさる]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう\n|kanon=しょう\n|kun=か-つ, すぐ-れる, た-える, まさ-る\n|nanori=すぐる, すぐろ, とう, のり, ます, よし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|勝気|かちき}}\n* {{ja-r|勝鬨|かちどき}}\n* {{ja-r|勝ちを千里の外に決す|かち を せんり の ほか に けっす}}\n* {{ja-r|殘に勝ち殺を去るべし|ざん に かち さつ を さる べし}}\n* {{ja-r|勝引|かちびき}}\n* {{ja-r|勝因|しょういん}}\n* {{ja-r|勝会|しょうかい}}\n* {{ja-r|勝軍|しょうぐん}}\n* {{ja-r|勝景|しょうけい}}\n* {{ja-r|勝国|しょうこく}}\n{{mid3}}\n* {{ja-r|勝算|しょうさん}}\n* {{ja-r|勝事|しょうじ}}\n* {{ja-r|勝状|しょうじょう}}\n* {{ja-r|勝迹|しょうせき}}\n* {{ja-r|勝絶|しょうぜつ}}\n* {{ja-r|勝戦|しょうせん}}\n* {{ja-r|勝訴|しょうそ}}\n* {{ja-r|勝地|しょうち}}\n* {{ja-r|勝致|しょうち}}\n* {{ja-r|勝敗|しょうはい}}\n* {{ja-r|勝負|しょうぶ}}\n* {{ja-r|勝兵|しょうへい}}\n{{mid3}}\n* {{ja-r|勝友|しょうゆう}}\n* {{ja-r|勝遊|しょうゆう}}\n* {{ja-r|勝利|しょうり}}\n* {{ja-r|勝流|しょうりゅう}}\n* {{ja-r|勝麗|しょうれい}}\n* {{ja-r|大勝|たいしょう}}\n* {{ja-r|名勝|めいしょう}}\n* {{ja-r|優勝|ゆうしょう}}\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=3001\n|shift=8F9F\n|jis=3E21\n|euc=BEA1\n|skip=1-4-8\n|freq=185\n|nelson=3787\n|newnelson=553\n|halpern=1005\n|kld=686\n|heisig=1209\n|tuttle=4b8.4\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|しょう|counter}}\n\n# [[win]]s, [[victories]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{l|ja|敗}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|まさる|proper}}\n\n# {{given name|male|lang=ja|sort=まさる}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "title": "為",
+  "ns": 0,
+  "id": 19882,
+  "timestamp": 1548419461000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|爲|为|𫞟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|為|爲}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=火05|kyu=爲}}\n\n# [[do]], [[perform]], [[carry out]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ\n|kanon=い<ゐ\n|kun=す-る, ため-, たり-, つく-る, な-す, なり-, な-る\n|nanori=さだ, しげ, す, すけ, た, ち, なり, び.い, ゆき, よし, より\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|以為らく|おもえらく}}\n* {{ja-r|為替|かわせ}}\n* {{ja-r|所為|せい}}\n* {{ja-r|為体|ていたらく}}\n* {{ja-r|為人|ひととなり}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ため|yomi=k}}\n{{ja-see|ため}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|た|yomi=k}}\n{{ja-see|た}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|す|yomi=k}}\nFrom {{inh|ja|ojp|sort=す|-}}.\n\nUsed as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨su⟩}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{ja-verb|kyu=爲|す|type=3}}\n\n# {{lb|ja|archaic|sort=す}} to [[do]]\n# {{lb|ja|archaic|sort=す}} to [[cause]], [[become]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|する}}\n* {{ja-r|為為|すす}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|い|yomi=o}}\n{{IPAchar|/wi/}} → {{IPAchar|/i/}}\n\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|為|id=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|い|hhira=ゐ|kyu=爲}}\n\n# the [[twelfth]] [[string]] on a [[koto]] {{qualifier|Japanese [[zither]]}}\n# a [[fingering]] [[method]] for playing the [[shakuhachi]] {{qualifier|Japanese [[flute]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|い|hhira=ゐ|kyu=爲}}\n\n# [[do]]; [[perform]]; [[carry out]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|為政|いせい}}\n* {{ja-r|有為|うい}}\n* {{ja-r|営%為|えい%い}}\n* {{ja-r|行為|こうい}}\n* {{ja-r|作%為|さく%い}}\n* {{ja-r|所為|しょい}}\n* {{ja-r|人為|じんい}}\n* {{ja-r|所為|そい}}\n* {{ja-r|天為|てんい}}\n* {{ja-r|無為|ぶい}}\n* {{ja-r|無為|むい}}\n* {{ja-r|有%為|ゆう%い}}\n* {{ja-r|所為|せい}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

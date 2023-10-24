@@ -1,0 +1,92 @@
+{
+  "title": "逸",
+  "ns": 0,
+  "id": 28724,
+  "timestamp": 1553570243000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa25}}\n{{character info/new|0xfa67}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=辵08|kyu=逸}}\n\n# [[flee]], [[escape]]\n# [[conceal]], [[hide]] {{gl|from the [[outside world]]}}\n# {{altspell|lang=ja|佚|tr=itsu|sort=いつ|nodot=1}}: [[lost]], [[unknown]]; [[indulge]]; [[disappear]]\n# [[great]], [[superb]], [[outstanding]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いち\n|kanon=いつ\n|kun=うしな-う<うしな-ふ, そ-れる, はし-る, はや-る\n|nanori=すぐる, とし, はつ, はや, はやし, まさ, やす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|都都%逸|どど%いつ}}\n* {{ja-r|独逸|^ドイツ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いち|yomi=o}}\n{{IPAfont|/iti/}} → {{IPAfont|/it͡ɕi/}}\n\nCognate with adverbs {{m|ja|甚|tr=ita, ito||[[very]], [[exceedingly]]}}.<ref name=\"DJS\">{{R:Daijisen}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>\n\nThe use of this kanji is an example of phonetic {{ateji|sort=いち}},<ref name=\"DJR\"/> possibly by extension of the \"[[great]], [[superb]], [[outstanding]]\" senses.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|いち}}\n\n# [[very]], [[excellent]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|著しい|いちじるし.い}}\n* {{ja-r|逸早|いちはや}}\n* {{ja-r|逸早い|いちはやい}}\n* {{ja-r|逸物|いちぶつ}}, {{ja-r|逸物|いちもつ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|いつ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=いつ|-}} {{ltc-l|逸}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いつ|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いつ}}\n\n# {{lb|ja|literary}} [[ease]]; [[comfort]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いつ}}\n\n# [[escape]]; [[flee]]; [[break loose]]\n# [[leisure]]; [[ease]]\n# [[lost]]; not known in the world\n# [[excellent]]; [[outstanding]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|逸居|いっきょ}}\n* {{ja-r|逸才|いっさい}}\n* {{ja-r|逸材|いつざい}}\n* {{ja-r|逸散|いっさん}}\n* {{ja-r|逸%事|いつ%じ}}\n* {{ja-r|逸史|いっし}}\n* {{ja-r|逸詩|いっし}}\n* {{ja-r|逸書|いっしょ}}\n* {{ja-r|逸出|いっしゅつ}}\n* {{ja-r|逸走|いっそう}}\n* {{ja-r|逸足|いっそく}}\n* {{ja-r|逸脱|いつだつ}}\n* {{ja-r|逸品|いっぴん}}\n* {{ja-r|逸物|いつぶつ}}\n* {{ja-r|逸文|いつぶん}}\n* {{ja-r|逸聞|いつぶん}}\n* {{ja-r|逸民|いつみん}}\n* {{ja-r|逸遊|いつゆう}}\n* {{ja-r|逸楽|いつらく}}\n* {{ja-r|逸%話|いつ%わ}}\n* {{ja-r|安逸|あんいつ}}\n* {{ja-r|隠逸|いんいつ}}\n* {{ja-r|後逸|こういつ}}\n* {{ja-r|散逸|さんいつ}}\n* {{ja-r|秀逸|しゅういつ}}\n* {{ja-r|放逸|ほういつ}}\n* {{ja-r|奔逸|ほんいつ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

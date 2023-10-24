@@ -1,0 +1,39 @@
+{
+  "title": "爵",
+  "ns": 0,
+  "id": 20291,
+  "timestamp": 1553056711000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA9E}}\n{{character info|0x2F921}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=爪14}}\n\n# {{defn|lang=ja|sort=爪14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せく\n|kanon=しゃく\n|kun=さかずき-<さかづき-, すずめ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Derived terms",
+              "text": "* {{ja-r|公爵|こうしゃく}}: [[duke]]\n* {{ja-r|侯爵|こうしゃく}}: [[marquess]]\n* {{ja-r|伯爵|はくしゃく}}: [[earl]]\n* {{ja-r|子%爵|し%しゃく}}: [[viscount]]\n* {{ja-r|男爵|だんしゃく}}: [[baron]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

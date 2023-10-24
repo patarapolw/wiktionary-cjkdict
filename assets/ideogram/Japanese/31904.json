@@ -1,0 +1,56 @@
+{
+  "title": "髭",
+  "ns": 0,
+  "id": 31904,
+  "timestamp": 1551795067000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=髟05}}\n\n# {{defn|lang=ja|sort=髟05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=し\n|kun=ひげ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|頬髭|ほおひげ}}\n* {{ja-r|口髭|くちひげ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひげ}}\n\n# [[mustache]]; [[beard]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}\n#*: 鬚髻 上栗喩反 頤毛也 倭云加末智乃'''比偈''' 又花蘂之本也 髻髪也\n# [[whisker]]\n#* {{RQ:I am a cat}}:\n#*: {{ja-usex|彼の鼻の先からぴんと突張っている長い'''髭'''をびりびりと震わせて非常に笑った。|かれ の はな の さき から ぴん と つっぱっている ながい '''ひげ''' を びりびり と ふるわせて ひじょう に わらった。|He stuck out his whiskers and laughed so hard that they trembled.}}\n# [[corn]] [[silk]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|鬚|ひげ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Nara Ibun 3}}\n\n[[Category:Japanese basic words|ひげ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

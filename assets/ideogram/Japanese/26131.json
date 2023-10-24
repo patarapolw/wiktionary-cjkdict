@@ -1,0 +1,85 @@
+{
+  "title": "蝦",
+  "ns": 0,
+  "id": 26131,
+  "timestamp": 1546628668000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|虾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫09}}\n\n# [[lobster]]\n# [[prawn]]\n# [[shrimp]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ\n|kanon=か\n|kun=えび-, かえる-<かへる-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|蝦夷|^えぞ}}, {{ja-r|蝦夷|^えびす}}, {{ja-r|蝦夷|^えみし}}, {{ja-r|蝦夷|^えみす}}\n* {{ja-r|蝦蟇|ガマ}}\n* {{ja-r|魚蝦|ぎょか}}\n* {{ja-r|蝦虎魚|ハゼ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えび|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|えび|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えび|エビ}}\n\n# {{altspell|lang=ja|海老|tr=ebi|nodot=1|sort=えび}}: ''any [[long]]-[[tail]]ed [[decapod]] [[crustacean]] or [[arthropod]]'': [[crayfish]], [[lobster]], [[prawn]], [[shrimp]], etc.; a [[padlock]]; a type of {{m|ja|家紋|tr=kamon||[[family]] [[crest]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|蝦%錠|えび%じょう|[[padlock]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かえる|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かえる|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かえる|カエル|hhira=かへる|hkata=カヘル}}\n\n# {{altspell|lang=ja|蛙|tr=kaeru|nodot=1}}: a [[frog]] ([[amphibious]] [[animal]])"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|えび]]\n[[Category:ja:Crustaceans|えび]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

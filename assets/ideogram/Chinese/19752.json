@@ -1,0 +1,115 @@
+{
+  "title": "瀼",
+  "ns": 0,
+  "id": 19752,
+  "timestamp": 1548926557000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|alt1=氵|襄|c1=s|c2=p|t1=water|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}\nFrom {{inh|zh|sit-pro|*s-naːŋ||heavy; thick (of liquids); viscous}}; cognate with {{cog|lus|hnâng||thick; viscous}} ({{zh-ref|Schuessler, 2007}}; STEDT). {{zh-ref|Coblin (1986)}} also compares this with {{cog|my|နှင်း||dew; mist}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=ráng\n|c=joeng4\n|mn=jiông\n|mc=y\n|oc=y\n|cat=a,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[dewy]]; [[heavy]] with [[dew]]; [[misty]]\n# {{zh-div|河}} Rang River {{gloss|a river in [[Henan]], [[China]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|甘露瀼瀼|瀼瀼濕濕|瀼瀼|瀼河}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=讓}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=瀼\n|m-s=rang4\n|c=joeng6\n|mc=\n|oc=\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}} <!-- 四川方言词语续考: 江水橫通山谷或山間溪流入江處; 大字典: 澗水横通山谷入江河; 大詞典: 流入江河的山溪水; 兩岸: 蜀人多稱澗水橫通山谷入江河為「瀼」; 國語辭典: 山間的溪流通到江裡去的，蜀人多稱為「瀼」 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|瀼渡河}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=nǎng,ráng,2nb=variant\n|mc=\n|oc=\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|of water}} [[flowing]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|泱瀼}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=nǎng,rǎng,2nb=variant\n|c=\n|mc=\n|oc=\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}} <!-- 水淤；漚漬 -->"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

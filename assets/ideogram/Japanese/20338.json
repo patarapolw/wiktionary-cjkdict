@@ -1,0 +1,49 @@
+{
+  "title": "牟",
+  "ns": 0,
+  "id": 20338,
+  "timestamp": 1543616635000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=牛02}}\n\n# [[pupil]] {{gl|[[hole]] in [[middle]] of an [[iris]]}}\n# [[moo]] {{gl|[[low#Verb_3|low]]ing [[sound]] of a [[cow]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=む\n|kanon=ぼう\n<!--|kun=むさぼ-る-->\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der2|lang=ja\n|{{ja-r|牟牟|ぼうぼう}}\n|{{ja-r|牟尼|むに}}\n|{{ja-r|牟礼|^むれ}}\n|{{ja-r|牟婁|^むろ}}\n|{{ja-r|大%穴%牟%遅%神|^おお%あな%む%ち の% ^かみ}}\n|{{ja-r|大%牟田|^おお%むた}}\n|{{ja-r|莫%牟|まく%も}}\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Used in {{w|Old Japanese}} as a {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨mu⟩}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|224330}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

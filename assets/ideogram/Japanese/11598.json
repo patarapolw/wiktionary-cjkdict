@@ -1,0 +1,66 @@
+{
+  "title": "利",
+  "ns": 0,
+  "id": 11598,
+  "timestamp": 1549543971000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=刀05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=り\n|kanon=り\n|kun=き-く, よ-い, するど-い, と-し\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|砂%利|じゃ%り|[[gravel]]; [[child]]}}, {{ja-r|砂%利|ざ%り|[[gravel]]}}\n* {{ja-r|利%益|り%えき}}\n* {{ja-r|利%害|り%がい}}\n* {{ja-r|利%権|り%けん}}\n* {{ja-r|利%己|り%こ}}\n* {{ja-r|利%口|り%こう}}\n* {{ja-r|利%子|り%し|[[interest]]}}\n* {{ja-r|利%鞘|り%ざや|[[profit margin]]}}\n* {{ja-r|利%息|り%そく|[[interest]]}}\n* {{ja-r|利%発|り%はつ}}\n* {{ja-r|利%便|り%べん}}\n* {{ja-r|利%便%性|り%べん%せい}}\n{{mid3}}\n* {{ja-r|利%用%者|り%よう%しゃ}}\n* {{ja-r|利%用|り%よう}}\n* {{ja-r|利%率|り%りつ|[[interest rate]]}}\n* {{ja-r|営%利|えい%り}}\n* {{ja-r|鋭%利|えい%り}}\n* {{ja-r|元%利|がん%り}}\n* {{ja-r|権%利|けん%り}}\n* {{ja-r|功%利|こう%り}}\n* {{ja-r|功%利%的|こう%り%てき}}\n* {{ja-r|功%利%主%義|こう%り%しゅ%ぎ}}\n* {{ja-r|高%利|こう%り}}\n{{mid3}}\n* {{ja-r|高%利%貸し|こう%り%がし}}\n* {{ja-r|犀%利|さい%り}}\n* {{ja-r|薄%利|はく%り}}\n* {{ja-r|福%利|ふく%り}}\n* {{ja-r|複%利|ふく%り}}\n* {{ja-r|暴%利|ぼう%り}}\n* {{ja-r|利%尻%島|^り%しり%-とう}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|り|yomi=o}}\nFrom {{etyl|sort=り|ltc|ja}} {{m|zh|利|tr=lij<sup>H</sup>||profit}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|り|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|り}}\n\n# [[profit]], [[benefit]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{ja-r|害|がい|gloss=[[damage]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

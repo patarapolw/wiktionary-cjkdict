@@ -1,0 +1,39 @@
+{
+  "title": "訛",
+  "ns": 0,
+  "id": 26899,
+  "timestamp": 1540818560000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|譌|讹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言04}}\n\n# {{defn|lang=ja|sort=言04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=が\n|kanon=が\n|kanyoon=か\n|kun=なま-る, なまり-, あやま-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[訛音]]\n* [[訛伝]]\n* [[転訛]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

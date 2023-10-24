@@ -1,0 +1,37 @@
+{
+  "title": "嗥",
+  "ns": 0,
+  "id": 12628,
+  "timestamp": 1512491301000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=háo\n|c=hou4\n|mc=\n|oc=\n|ma=\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[howl]] (like a [[wolf]]); [[wail]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|嗥叫|狼嗥|鬼哭狼嗥}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

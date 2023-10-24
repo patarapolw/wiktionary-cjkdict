@@ -1,0 +1,121 @@
+{
+  "title": "鮪",
+  "ns": 0,
+  "id": 32145,
+  "timestamp": 1548295633000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲔}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚06}}\n\n# [[tuna]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ\n|kanon=い<ゐ\n|kanyoon=ゆう<いう\n|kun=まぐろ-, しび-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|まぐろ}}\n\n{{rfe|ja|sort=まくろ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{ja-pron|y=k|まぐろ|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まぐろ|マグロ}}\n\n# a [[tuna]] {{gl|[[fish]] of the [[genus]] ''[[Thunnus]]''}}\n#* [http://lambda.bugyo.tk/cdr/mwl/index.html マンガで分かるLisp] (Manga Guide to Lisp)\n#*: {{ja-usex|みりん。地%域%猫。最近までマクロのことを'''マグロ'''と思っていた。|みりん。ち%いき%ねこ。さいきん まで マクロ の こと を '''マグロ''' と おもっていた。|Mirin: A neighbours' cat. Until recently often confused macros with '''tuna'''.}}\n#: {{hyper|ja|鯖|tr=saba}}\n# {{lb|ja|sort=まくろ|colloquial}} {{short for|lang=ja|黒鮪|tr=kuromaguro|nodot=1|sort=まくろ}}: a {{vern|Pacific bluefin tuna}}, {{taxlink|Thunnus orientalis|species|ver=190115}}\n# {{lb|ja|sort=まくろ|slang}} a [[dead fish]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|マグロ}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n* {{ja-r|鮪%茶|まぐ%ちゃ}}\n* {{ja-r|磯%鮪|イソ%マグロ}}\n* {{ja-r|インド鮪|^インド まぐろ}}\n* {{ja-r|梶%木 鮪|カジ%キ マグロ|rom=-}}, {{ja-r|旗魚 鮪|カジキ マグロ}}\n* {{ja-r|黄%肌 鮪|キ%ハダ マグロ}}, {{ja-r|黄%肌 鮪|き%わだ まぐろ}}\n* {{ja-r|黒%鮪|クロ%マグロ}}\n* {{ja-r|五島 鮪|^ごとう まぐろ}}\n* {{ja-r|塩%鮪|しお%まぐろ}}\n* {{ja-r|畜%養 鮪|ちく%よう まぐろ}}\n* {{ja-r|葱%鮪|ねぎ%ま}}\n* {{ja-r|畑%鮪|ハタ%マグロ}}\n* {{ja-r|鬢%長 鮪|びん%なが まぐろ}}\n* {{ja-r|本%鮪|ほん%まぐろ}}\n* {{ja-r|南 鮪|ミナミ マグロ}}\n* {{ja-r|めじ鮪|めじまぐろ}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|鮪を抱いて寝たよう|まぐろ を だいて ねたよう}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|黄%肌|キ%ハダ|[[yellowfin tuna]]}}\n* {{ja-r|鬢%長|ビン%ナガ|[[albacore]]}}\n* {{ja-r|目%撥|メ%バチ}}\n* {{ja-r|とろ|toro}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|しび}}\n{{IPAfont|⟨sibi<sub>1</sub>⟩}} → *{{IPAchar|/sibʲi/}} → {{IPAchar|/ɕibi/}}\n\nFrom {{inh|ja|ojp|sort=しひ|-}}.\n\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しび}}\n\n# {{lb|ja|obsolete|sort=しひ}} a [[tuna]]\n#* {{RQ:Kojiki|poem 110}}\n#*: {{ja-usex|m=意布袁余志 '''斯毘'''都久阿麻余 斯賀阿禮婆 宇良胡本斯祁牟 '''斯毘'''都久志毘|m_kana=おふをよし '''しび'''つくあまよ しがあれば うらこほしけむ '''しび'''つくしび|大魚よし'''しび'''突く海人よ 其が離れば うら恋ほしけむ '''しび'''突く志毘|おふを よし '''しび''' つく あま よ し が あれば うらごほしけむ '''しび'''つく ^しび|rom=ouo yoshi '''shibi''' tsuku ama yo shi ga areba uragōshikemu '''shibi''' tsuku Shibi}}\n#: {{ant|ja|めじ|tr=meji}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|鮪%節|しび%ぶし}}\n* {{ja-r|糸%鮪|いと%しび}}\n* {{ja-r|蜻蛉%鮪|トンボ%シビ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|大魚よし|お.う.お よし|pos=[[pillow word]] alluding to ''shibi''}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=irr}}\n\nAppears in the ''{{w|Wakan Sansai Zue}}'' (1712).\n\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はつ}}\n\n# {{lb|ja|obsolete}} a [[tuna]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|鮪の身|はつ の み}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{top|ja|Fish|sort=まぐろ}}\n\n[[Category:Japanese basic words|まぐろ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

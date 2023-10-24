@@ -1,0 +1,59 @@
+{
+  "title": "団",
+  "ns": 0,
+  "id": 12894,
+  "timestamp": 1546552801000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|團|团}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|団|團}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=囗03|kyu=團}}\n\n# [[group]], [[association]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だん\n|kanon=たん\n|toon=とん\n|kun=かたまり-, まる-い\n|nanori=あつ, まろ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|だん|yomi=o}}\n\nFrom {{der|ja|ltc|sort=たん'|-}} {{ltc-l|團}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|だん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|だん}}\n\n# {{surname|lang=ja|sort=だん|A=a|dot=}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|だん|kyu=團}}\n\n# [[group]], [[team]], [[gang]]\n#: {{ja-usex|銀%河'''団'''|ぎん%が'''だん'''|a [[galaxy cluster|galaxy '''cluster''']]}}\n#: {{ja-usex|ロケット'''団'''|^ロケット-'''だん'''|{{w|Team Rocket|'''Team''' Rocket}}}}\n#: {{ja-usex|CLAMP 学園 探偵'''団'''|^クランプ ^がくえん ^たんてい'''だん'''|{{w|Clamp School Detectives|Clamp Academy Detective'''s'''}}}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

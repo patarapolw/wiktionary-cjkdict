@@ -1,0 +1,66 @@
+{
+  "title": "萁",
+  "ns": 0,
+  "id": 25154,
+  "timestamp": 1542332968000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸08}}\n\n# {{defn|lang=ja|sort=艸08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=き, ぎ\n|kanon=き\n|kun=まめがら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|まめがら|yomi=k}}\n\n* {{ja-l|豆殻}}, {{ja-l|豆幹}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Compound of {{com|ja|sort=まめから|豆|tr1=mame|t1=[[bean]]|殻|tr2=kara|t2=[[husk]], [[shell]]}}.\n\n{{rendaku2|sort=まめから|kara|gara}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|まめがら|acc=0|acc2=4|acc_ref=DJR|acc2_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まめがら}}\n\n# [[bean]] [[husk]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|豆を煮るに萁をたく|まめ を にる に まめがら を たく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

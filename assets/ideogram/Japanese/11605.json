@@ -1,0 +1,49 @@
+{
+  "title": "到",
+  "ns": 0,
+  "id": 11605,
+  "timestamp": 1531894736000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=刀06}}\n\n# [[arrival]]\n# [[proceed]]\n# [[reach]]\n# [[attain]]\n# {{lb|ja|archaic|sort=いたる}} [[result]] in",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=とう\n|kanon=とう\n|kun=いた-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|到來|とうらい}}: [[arrival]]; [[beginning]], [[start]]\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|ja|至}}\n\n{{ja-kref\n|jis=457E\n|ku=3794\n|shift=939e\n|euc=C5FE\n|freq=1032\n|nelson=3846\n|newnelson=477\n|halpern=1264\n|kld=848\n|heisig=755\n|tuttle=2f6.4\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|いたる|proper}}\n\n# {{given name|male|lang=ja|sort=いたる}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

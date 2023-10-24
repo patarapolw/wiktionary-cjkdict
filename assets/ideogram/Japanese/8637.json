@@ -1,0 +1,59 @@
+{
+  "title": "編",
+  "ns": 0,
+  "id": 8637,
+  "timestamp": 1544399932000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|编}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=糸09}}\n\n# {{defn|lang=ja|sort=糸09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へん\n|kanon=へん\n|kun=あ-む, とじいと-, ふみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|短編|たんぺん}}\n* {{ja-r|長編|ちょうへん}}\n* {{ja-r|編集|へんしゅう}}\n* {{ja-r|編鐘|へんしょう}}: [[bianzhong]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|へん|yomi=o}}\nFrom {{der|ja|sort=へん|ltc|編|tr=pen}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|へん|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|へん}}\n\n# [[compilation]]\n# {{lb|ja|fiction|sort=へん}} a [[story arc]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

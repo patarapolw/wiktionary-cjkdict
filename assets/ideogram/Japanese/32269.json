@@ -1,0 +1,56 @@
+{
+  "title": "鰧",
+  "ns": 0,
+  "id": 32269,
+  "timestamp": 1538227857000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=魚10}}\n\n# A bottom-dwelling spiny fish, such as those in families [[Uranoscopidae]] and {{taxlink|Synanceiidae|family|ver=180929}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=[[じん]] (jin), [[ちん]] (chin), [[とう]] (tō)\n|kun=[[おこぜ]] (okoze)\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おこぜ|オコゼ}}\n\n# A [[scorpionfish]] ([[Scorpaenidae]]), a [[stonefish]] (''[[Synanceia]]''), a {{vern|devil stinger}} ({{taxlink|Inimicus japonicus|species|ver=180929}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|虎魚}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|鬼鰧|おにおこぜ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{pedialite|Uranoscopidae}}\n* {{pedialite|Synanceiidae}}\n* {{pedialite|Inimicus}}\n\n[[Category:ja:Fish|おこぜ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

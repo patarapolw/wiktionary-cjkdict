@@ -1,0 +1,51 @@
+{
+  "title": "閏",
+  "ns": 0,
+  "id": 30417,
+  "timestamp": 1530218885000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|闰|閠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=門04}}\n\n# {{defn|lang=ja|sort=門04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にん\n|kanon=じゅん\n|kun=うるう-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* [[閏年]] (うるうどし, urū-doshi)\n* [[輝閏]]\n* [[清水閏]]\n* [[正閏]]\n* [[平閏]]\n* [[沃閏]]\n* [[閏井]]\n* [[閏一]]\n* [[閏賀]]\n{{mid3}}\n* [[閏賀橋]]\n* [[閏間]]\n* [[閏刑]]\n* [[閏月]]\n* [[閏戸]]\n* [[閏子]]\n* [[閏住]]\n* [[閏田]]\n* [[閏統]]\n{{mid3}}\n* [[閏二]]\n* [[閏日]]\n* [[閏秒]]\n* [[閏夫]]\n* [[閏米]]\n* [[置閏法]]\n* [[閏木]]\n* [[閏野]]\n* [[閏余]]\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|うるう|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うるう}}\n\n# [[intercalary]], [[leap]]\n#: [[閏日|'''閏'''日]] (うるうび; '''intercalary''' day)\n#: [[閏年|'''閏'''年]] (うるうどし; [[leap year|'''leap''' year]])\n#: '''閏'''8月 (うるうはちがつ; '''intercalary''' August, according to the lunisolar calendar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

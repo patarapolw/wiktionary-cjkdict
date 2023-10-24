@@ -1,0 +1,106 @@
+{
+  "title": "鮴",
+  "ns": 0,
+  "id": 32155,
+  "timestamp": 1538111262000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=めばる-, ごり-, こち-, まて-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|めばる}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|眼張}} {{qualifier|more common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|めばる}}\n\n# a [[sea perch]] or [[rockfish]], a fish of [[genus]] ''[[Sebastes]]''",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The ''mebaru'' reading is probably the most common."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|ごり}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ごり}}\n\n# a [[sculpin]] or [[bullhead]], a fish of [[family]] [[Cottidae]]\n# a [[freshwater]] [[goby]] of [[genus]] {{taxlink|Rhinogobius|genus|noshow=1}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The ''gori'' reading is probably the most common."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|こち}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鯒}} {{qualifier|more common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こち}}\n\n# {{lb|ja|sort=こち|rare}} a [[flathead]], a fish of [[family]] {{taxlink|Platycephalidae|family|noshow=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|まて}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まて}}\n\n# {{lb|ja|sort=まて|rare}} alternate name for {{m|ja|馬刀貝|tr=mategai||razor clam}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

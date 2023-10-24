@@ -1,0 +1,124 @@
+{
+  "title": "束",
+  "ns": 0,
+  "id": 17317,
+  "timestamp": 1546465031000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=木03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そく\n|kanon=しょく\n|kun=たば-, たば-ねる, つか-, つか-ねる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|結%束|けっ%そく}}: union, unity\n* {{ja-r|拘%束|こう%そく}}: restriction, restraint\n* {{ja-r|装%束|しょう%ぞく}}: costume, attire\n* {{ja-r|束%帯|そく%たい}}: old ceremonial court dress\n* {{ja-r|束に立つ|そく に たつ}}\n* {{ja-r|束%縛|そく%ばく}}: restraint, shackles\n* {{ja-r|束%髪|そく%はつ}}: bundling one's hair, or the hair so bundled; a [[pompadour]]-like traditional Japanese hairstyle for women\n* {{ja-r|電%束|でん%そく}}: [[electric flux]]\n* {{ja-r|波%束|は%そく}}: [[wave packet]]\n* {{ja-r|約%束|やく%そく}}: arrangement, convention"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|たば|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|たば|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|把}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|たば}}\n\n# counter for [[bundle]]s\n#: {{ja-usex|それ は 一'''束''' 十 円 の 値段 でした|それ は ひと'''たば''' じゅう えん の ねだん でした|They cost 10 yen a '''bundle'''}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たば}}\n\n# [[bundle]], [[bunch]], [[batch]], [[sheaf]], [[coil]]\n#: {{ja-usex|彼 は 古い 手%紙 を '''束''' に した|かれ は ふるい て%がみ を '''たば''' に した|He bound old letters into a '''bundle'''}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|札%束|さつ%たば}}: wad of bills\n* {{ja-r|束になって掛かる|たば に なって かかる}}: attack all in a bunch\n* {{ja-r|束ねる|たばねる}}: tie up in a bundle\n* {{ja-r|花%束|はな%たば}}: bunch of flowers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|つか|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つか|acc=2|dev=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つか}}\n\n# [[handbreadth]], [[bundle]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|束の間|つかのま}}: brief space of time"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|そく|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|そく|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|そく|counter}}\n\n# large bundles"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そく}}\n\n# {{lb|ja|mathematics|order theory|sort=そく}} [[lattice]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "蹴",
+  "ns": 0,
+  "id": 28116,
+  "timestamp": 1526318852000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=足12}}\n\n# {{defn|lang=ja|sort=足12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=すく\n|kanon=しゅく<しゆく\n|kanyoon=しゅう<しう\n|kun=け-る\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|蹴球|しゅうきゅう|[[soccer]]}}\n* {{ja-r|缶蹴り|かんけり|[[kick the can]]}}\n* {{ja-r|蹴出し|けだし|underskirt worn under kimono}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

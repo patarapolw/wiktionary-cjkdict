@@ -1,0 +1,39 @@
+{
+  "title": "緜",
+  "ns": 0,
+  "id": 23458,
+  "timestamp": 1495666679000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=糸09}}\n\n# {{alternative form of|綿|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=[[べん]] (ben), [[べつ]] (betsu), [[めん]] (men), [[めち]] (mechi)\n|kun=[[つらなる]] (tsuranaru), [[つらねる]] (tsuraneru), [[まとう]] (matou), [[わた]] (wata)\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|308910}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

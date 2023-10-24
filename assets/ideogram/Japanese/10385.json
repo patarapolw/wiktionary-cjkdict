@@ -1,0 +1,39 @@
+{
+  "title": "丅",
+  "ns": 0,
+  "id": 10385,
+  "timestamp": 1527012980000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|下|ㄒ}}\n{{character info/new}}\n<!-- may be replaced by zh-forms -->",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=一01}}\n\n# [[under]]\n# [[below]]\n# [[inferior]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ\n|kanon=か\n|kun=しも-, した-, もと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Non-standard for [[下]]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

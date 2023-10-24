@@ -1,0 +1,66 @@
+{
+  "title": "千",
+  "ns": 0,
+  "id": 7263,
+  "timestamp": 1553969039000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|于|仟|壬|干|韆}}\n{{character info/new}}\n\n{{commonscat}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=十01}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kun=ち-\n|nanori=かず, ゆき\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|せん|yomi=o}}\nFrom {{etyl|ltc|ja|sort=せん}} {{m|zh|千|tr=tshen||thousand}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|せん|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ち}}\n\n# thousand",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|千名|ちな}}: various [[rumour]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Number",
+              "text": "{{ja-pos|せん|numeral symbol}}\n\n# [[thousand]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Han characters from which katakana were derived|チ]]\n\n{{cln|ja|words with multiple readings}}\n{{cln|ja|numeral symbols|sort=1000}}\n{{cln|ja|basic words|sort=せん}}\n{{C|ja|Thousand|sort=せん}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

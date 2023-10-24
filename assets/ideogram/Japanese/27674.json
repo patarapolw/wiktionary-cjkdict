@@ -1,0 +1,66 @@
+{
+  "title": "賊",
+  "ns": 0,
+  "id": 27674,
+  "timestamp": 1553340834000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|戝|贼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=貝06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞく\n|kanon=そく\n|kun=そこ-なう\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|烏賊|いか}}: [[squid]], [[cuttlefish]]\n* {{ja-r|山賊|さんぞく}}\n{{der-bottom}}\n\n{{ja-kanjitab|ぞく|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{bor|ja|ltc|-|sort=そく'}} {{ltc-l|賊}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|ぞく|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぞく}}\n\n# [[thief]]\n# [[rebel]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|長髪賊|ちょうはつぞく|[[Taiping]] [[rebel]]s}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

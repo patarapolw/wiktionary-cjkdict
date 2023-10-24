@@ -1,0 +1,39 @@
+{
+  "title": "臭",
+  "ns": 0,
+  "id": 24597,
+  "timestamp": 1533608306000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𦤀}}\n{{character info/new}}\n{{character info/new|0xfa5c}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|臭|臭|臭}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In Japanese {{w|shinjitai}}, the bottom component is simplified to {{m|mul|大}}, rather than the traditional {{m|mul|犬||dog|sc=Hani}}.\n** This character has technically been encoded in Unicode as {{m|mul|𦤀}} (<code>U+26900</code>) but is not used in Japanese computing; instead, the character {{m|mul|臭}} (<code>U+81ED</code>) changes appearance depending on the font.\n** A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+FA5C</code> for the {{w|kyūjitai}} form used in Japanese which contains {{l|mul|犬}} as its bottom component."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=132|rad=自|as=04|asj=03|sn=10|snj=9|four=26430|canj=HUIK|ids=⿱自犬(GHTKV,<code>U+FA5C</code>),⿱自大(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1000.200|dkj=30103|dj=1456.070|hdz=53047.040|uh=81ED}}\n{{Han ref|uh=FA5C}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

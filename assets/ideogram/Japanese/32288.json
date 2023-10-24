@@ -1,0 +1,39 @@
+{
+  "title": "鰺",
+  "ns": 0,
+  "id": 32288,
+  "timestamp": 1542085076000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|鯵|鰺}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=魚11|shin=鯵}}\n\n# [[horse mackerel]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう<さう\n|kanon=そう<さう\n|kun=あじ-<あぢ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|shin=鯵|あじ|アジ|hhira=あぢ|hkata=アヂ}}\n\n# [[horse mackerel]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

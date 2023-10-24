@@ -1,0 +1,44 @@
+{
+  "title": "醺",
+  "ns": 0,
+  "id": 29190,
+  "timestamp": 1520432001000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|酉|熏|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xūn\n|c=fan1\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to be [[drunk]]; to [[intoxicate]] with [[alcohol]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|微醺|醺酣|醉醺醺|醺醺}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "蜆",
+  "ns": 0,
+  "id": 25989,
+  "timestamp": 1537065841000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|蚬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫07}}\n\n# {{defn|lang=ja|sort=虫07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けん, げん\n|kanon=けん\n|kun=しじみ-\n|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|しじみ|yomi=k}}\n{{wikipedia|lang=ja}}\n\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しじみ|シジミ}}\n\n# a type of clam {{rfgloss|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology}}\n\n[[Category:ja:Bivalves|しじみ]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

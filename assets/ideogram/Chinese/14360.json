@@ -1,0 +1,61 @@
+{
+  "title": "屘",
+  "ns": 0,
+  "id": 14360,
+  "timestamp": 1512959369000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Probably from {{och-l|晚|late}}; compare {{cog|hak|-}} {{zh-l|滿|mân}} ({{zh-ref|Wu and Wu, 2008}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=屘\n|mn=tw:ban\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|chiefly|Taiwan}} the [[youngest]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|屘仔|屘囝|屘叔}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=mei1\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} {{zh-alt-form|尾|last|tr=mei<sup>5-1</sup>}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

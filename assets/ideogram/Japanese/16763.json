@@ -1,0 +1,44 @@
+{
+  "title": "敗",
+  "ns": 0,
+  "id": 16763,
+  "timestamp": 1527388796000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|败}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=攴07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へ, べ\n|kanon=はい\n|on=ばい\n|kun=やぶ-れる, やぶ-る, ま-ける\n}}{{attn|ja|Are べ and ばい independent readings or from rendaku?}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|はい|counter}}\n\n# [[loss]]es"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "* {{sense|lose a game}} [[敗北]], [[敗退]], [[敗軍]], [[敗戦]], [[完敗]], [[大敗]], [[勝敗]]\n* {{sense|fail}} [[失敗]], [[成敗]], [[腐敗]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

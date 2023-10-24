@@ -1,0 +1,49 @@
+{
+  "title": "甑",
+  "ns": 0,
+  "id": 21049,
+  "timestamp": 1523580519000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zèng\n|c=zang6,zang3\n|mn-t=zêng1/seng5\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[cauldron]], rice pot",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|丹甑|墯甑不顧|曲頸甑|甑塵釜魚|甑箄|破甑生塵}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}\n* http://cstc.lib.stu.edu.cn/Articleview.asp?ArticleID=6537"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

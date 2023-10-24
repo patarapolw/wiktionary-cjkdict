@@ -1,0 +1,37 @@
+{
+  "title": "㓟",
+  "ns": 0,
+  "id": 10309,
+  "timestamp": 1553325335000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F81F}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{vi-readings|hanviet=bi, phi|phienthiet=蒲糜 bồ mi, 攀糜 phan mi|nom=phay|rs=刀05}}"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[phay]], [[bi]], [[phi]]|rs=刀05}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* Trần Văn Chánh (1999), ''Từ Điển Hán Việt'', Ho Chi Minh City: Youth Publishing House (Hán Việt fanqie)\n* Vũ Văn Kính (1999), ''Đại Tự Điển Chữ Nôm'', Ho Chi Minh City: Arts Publishing House\n* {{R:WinVNKey:Lê Sơn Thanh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

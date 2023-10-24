@@ -1,0 +1,85 @@
+{
+  "title": "異",
+  "ns": 0,
+  "id": 21171,
+  "timestamp": 1553056060000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|异|畀|暴}}\n{{character info/new}}\n{{character info|0xF962}}\n{{character info|0x2F938}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=田07}}\n\n# [[different]], [[other]], [[hetero-]]\n# [[uncommon]], [[special]]\n# [[curious]], [[odd]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い\n|kanon=い\n|kun=こと-, こと-なる, あや-し.い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|い|yomi=on}}\nFrom {{der|ja|ltc|sort=|-}} {{ltc-l|異}}.  Compare modern {{cog|cmn|異|tr=yì|pos={{IPAfont|/i⁵¹/}}}}, {{cog|yue|異|tr=ji<sup>6</sup>|pos={{IPAfont|/jiː²²/}}}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|い|acc=1|acc_ref=DJR|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|い}}\n\n# {{lb|ja|literary}} [[difference]]\n# {{lb|ja|Buddhism}} [[change]] or [[disease]], one of the four [[states]] or [[avasthā]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|い|infl=na}}\n\n# {{lb|ja|literary}} [[strange]]; [[unusual]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|い}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|い}}\n\n# [[different]]\n# [[strange]]; [[unusual]]; [[extraordinary]]; [[excellent]]\n# [[aberrant]]\n# [[other]]; [[another]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|異義|いぎ}}\n* {{ja-r|異議|いぎ}}\n* {{ja-r|異教|いきょう}}\n* {{ja-r|異郷|いきょう}}\n* {{ja-r|異境|いきょう}}\n* {{ja-r|異%才|い%さい}}\n* {{ja-r|異%彩|い%さい}}\n* {{ja-r|異種|いしゅ}}\n* {{ja-r|異趣|いしゅ}}\n* {{ja-r|異状|いじょう}}\n* {{ja-r|異常|いじょう}}\n* {{ja-r|異%色|い%しょく}}\n* {{ja-r|異人|いじん}}: [[foreigner]], [[stranger]]\n* {{ja-r|異%国%人|い%こく%じん}}: [[foreigner]], [[stranger]]\n* {{ja-r|異相|いそう}}\n* {{ja-r|異%俗|い%ぞく}}\n* {{ja-r|異存|いぞん}}\n* {{ja-r|異端|いたん}}\n* {{ja-r|異途|いと}}\n* {{ja-r|異同|いどう}}\n* {{ja-r|異動|いどう}}\n* {{ja-r|異%物|い%ぶつ}}\n* {{ja-r|異母|いぼ}}\n* {{ja-r|異邦|いほう}}: [[foreign country]]\n* {{ja-r|異%邦%人|い%ほう%じん}}: [[foreigner]], [[stranger]]\n* {{ja-r|異様|いよう}}\n* {{ja-r|異例|いれい}}\n* {{ja-r|変異|へんい}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|こと|yomi=k}}\n{{ja-see|こと}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

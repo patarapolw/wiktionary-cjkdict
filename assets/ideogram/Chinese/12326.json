@@ -1,0 +1,49 @@
+{
+  "title": "哎",
+  "ns": 0,
+  "id": 12326,
+  "timestamp": 1525578677000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|口|艾|ls=psc|c1=s|c2=p|t1=mouth}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=āi\n|c=aai1,ai3\n|h=pfs=ái\n|md=\n|mn=ai\n|w=\n|mc=y\n|oc=y\n|cat=interj\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[interjection]] of [[surprise]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|哎呀|哎喲}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}\n\n{{zh-cat|Elementary}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

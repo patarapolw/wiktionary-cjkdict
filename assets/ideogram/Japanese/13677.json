@@ -1,0 +1,44 @@
+{
+  "title": "委",
+  "ns": 0,
+  "id": 13677,
+  "timestamp": 1553547902000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=女05}}\n\n# committee",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ\n|kanon=い<ゐ\n|kun=ゆだ-ねる, すえ, くわ-し.い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=o}}\n{{IPAfont|/wi/}} → {{IPAfont|/i/}}\n\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|委}}."
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い|hhira=ゐ}}\n\n# [[entrust]]; [[leave]] to\n# [[cast aside]]; [[abandon]]\n# [[detailed]]\n# {{short for|委員会||[[committee]]|lang=ja|tr=iinkai}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

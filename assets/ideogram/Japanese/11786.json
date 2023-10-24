@@ -1,0 +1,44 @@
+{
+  "title": "勘",
+  "ns": 0,
+  "id": 11786,
+  "timestamp": 1538955242000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=力09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=かん\n|kun=かんが-える\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{ja-kanjitab|かん|yomi=o}}\n* {{ja-r|勘定|かんじょう}}: bill, check\n* {{ja-r|勘違い|かんちがい}}: misunderstanding, wrong guess"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かん}}\n\n# [[intuition]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

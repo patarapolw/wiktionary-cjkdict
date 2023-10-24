@@ -1,0 +1,83 @@
+{
+  "title": "門",
+  "ns": 0,
+  "id": 30401,
+  "timestamp": 1553348250000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鬥|门}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Japanese abbreviation kanji mon.png|thumb|right|100px|[[w:en:Ryakuji|Ryakuji]] for {{lang|ja|門}}. Compare derived ryakuji for {{l|ja|間}} and {{l|ja|開}}, and simplified Chinese {{l|zh|门}}.]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=門00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もん\n|kanon=ぼん\n|kun=かど-\n|nanori=かど, かな, と, ひろ, ゆき\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top4}}\n* {{ja-r|部門|ぶもん}}\n{{mid4}}\n* {{ja-r|専門|せんもん|gloss=[[expertise]], area of study}}\n{{mid4}}\n* {{ja-r|門戸|もんこ|gloss=[[family]]}}\n{{mid4}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|もん|yomi=o}}\n{{rfe|lang=ja|from {{etyl|ltc|ja|sort=もん}} {{m|zh|門|tr=mwon||gate}}?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|もん|acc=a|acc_ref=NHK|y=go}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|もん}}\n\n# [[gate]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かど|yomi=k}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|かど|acc=a|acc_ref=NHK|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かど}}\n\n# [[gate]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|かど|proper}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=かど}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese words with multiple readings]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

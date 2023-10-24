@@ -1,0 +1,107 @@
+{
+  "title": "夜",
+  "ns": 0,
+  "id": 13493,
+  "timestamp": 1553573966000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{also|亱}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=夕05}}\n\n# [[night]], [[nighttime]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=や\n|kanon=や\n|kun=よ-, よる-\n|nanori=やす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top4|Compounds}}\n* {{ja-r|夜夜|やや|rom=-}}, {{ja-r|夜々|やや}}\n* {{ja-r|夜陰|やいん}}\n* {{ja-r|夜間|やかん}}\n* {{ja-r|夜行|やぎょう}}\n* {{ja-r|夜勤|やきん}}\n* {{ja-r|夜%景|や%けい}}\n* {{ja-r|夜行|やこう}}\n* {{ja-r|夜座|やざ|rom=-}}, {{ja-r|夜坐|やざ}}\n* {{ja-r|夜%食|や%しょく|night [[meal]], [[midnight]] [[snack]]}}\n* {{ja-r|夜中|やちゅう}}\n* {{ja-r|夜半|やはん}}\n* {{ja-r|暗夜|あんや|rom=-}}, {{ja-r|闇夜|あんや}}\n* {{ja-r|一%夜|いち%や}}\n* {{ja-r|雨夜|うや}}\n* {{ja-r|月%夜|げつ%や}}\n* {{ja-r|五夜|ごや}}\n* {{ja-r|今夜|こんや}}\n* {{ja-r|昨%夜|さく%や}}\n* {{ja-r|終夜|しゅうや}}\n* {{ja-r|初夜|しょや}}\n* {{ja-r|除夜|じょや}}\n* {{ja-r|深夜|しんや}}\n* {{ja-r|初夜|そや}}\n* {{ja-r|昼夜|ちゅうや}}\n* {{ja-r|通夜|つや}}, {{ja-r|通夜|つうや}}\n* {{ja-r|徹%夜|てつ%や}}\n* {{ja-r|日%夜|にち%や}}\n* {{ja-r|暮夜|ぼや}}\n* {{ja-r|連夜|れんや}}\n* {{ja-r|十六夜|いざよい|[[sixteenth]] [[night]] of every [[month]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|よる}}\n\n{{IPAfont|⟨yo<sub>1</sub>ru⟩}} → *{{IPAchar|/jʷoru/}} → {{IPAchar|/joru/}}\n\nFrom {{inh|ja|ojp|sort=よる|-}}.\n\nDerived from ''yo'' below, suffixed with an element ''ru'' of unclear meaning.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>  Compare {{m|ja|日||tr=hi|[[day]]}} → {{m|ja|昼||tr=hiru|[[daytime]]}}, which seems to use this same ''ru'' element.<ref name=\"KDJ\"/>\n\nNow the most common term for {{m|en|night}} in modern {{cog|ja|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|よる|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|よる}}\n\n# [[night]], [[evening]]\n#: {{ja-usex|sort=よる|[[東京]]の'''夜'''|^とうきょう の '''よる'''|Tokyo '''nights'''}}\n#: {{ja-usex|[[不安]]な'''夜'''を[[過ごす]]|ふあん な '''よる''' を すごす|to endure a '''night''' of anxiety|lit=to pass an '''uneasy''' night}}\n#: {{ja-usex|'''夜'''の[[星空]]を[[見上げる]]|'''よる''' の ほしぞら を みあげる|to look up at the '''night'''<nowiki/>'s starry sky}}\n#: {{ja-usex|『[[w:ja:夜のヒットスタジオ|'''夜'''のヒットスタジオ]]』|『^'''よる''' の ^ヒット ^スタジオ』|\"Hit Studio of the '''Night'''\" {{gloss|prominent Japanese music show}}}}\n#: {{syn|ja|夜間|tr=yakan}}\n#: {{ant|ja|昼|tr=hiru}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n* {{ja-r|夜夜|よるよる|rom=-}}, {{ja-r|夜々|よるよる}}\n* {{ja-r|お夜|お-よる|rom=-}}, {{ja-r|御%夜|お%-よる}}\n* {{ja-r|夜 鶯|よる うぐいす}}\n* {{ja-r|夜%顔|ヨル%ガオ}}\n* {{ja-r|夜%席|よる%せき}}\n* {{ja-r|夜の御殿|よる の おとど}}\n* {{ja-r|夜の御座|よる の おまし}}\n* {{ja-r|夜の底|よる の そこ}}\n* {{ja-r|夜の殿|よる の との}}\n* {{ja-r|夜の帳が下りる|よる の とばり が おりる}}\n* {{ja-r|夜の錦|よる の にしき}}\n* {{ja-r|夜%昼|よる%ひる}}\n* {{ja-r|夜 夜%中|よる よ%なか}}\n* {{ja-r|夜を昼になす|よる を ひる に なす}}\n* {{ja-r|小%夜|こ%よる}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|夜の衣を返す|よる の ころも を かえす}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|よる}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=よる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|よ}}\n\n{{IPAfont|⟨yo<sub>1</sub>⟩}} → {{IPAchar|/jʷo/}} → {{IPAchar|/jo/}}\n\nFrom {{inh|ja|ojp|-}}.\n\nIn modern development, this term has taken on a more [[literary]] sense.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|よ|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|よ}}\n\n# {{lb|ja|literary}} [[night]], [[evening]]\n#: {{ja-usex|『[[w:ja:真夏の夜の夢|真夏の'''夜'''の夢]]』|『^まなつ の '''^よ''' の ^ゆめ』|''[[w:A Midsummer Night's Dream|A Midsummer '''Night''''s Dream]]''}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top4}}\n* {{ja-r|夜夜|よよ|rom=-}}, {{ja-r|夜々|よよ}}\n* {{ja-r|夜上がり|よあがり}}\n* {{ja-r|夜明け|よあけ}}\n* {{ja-r|夜%風|よ%かぜ}}\n* {{ja-r|夜着|よぎ}}\n* {{ja-r|夜籠もる|よごもる}}\n* {{ja-r|夜さり|よさり}}, {{ja-r|夜さり|ようさり}}\n* {{ja-r|終夜|よすがら}}\n* {{ja-r|夜%釣|よ%づり|rom=-}}, {{ja-r|夜釣り|よづり}}\n* {{ja-r|夜な夜な|よなよな}}\n* {{ja-r|夜%中|よ%なか}}\n* {{ja-r|夜%長|よ%なが}}\n* {{ja-r|夜の目|よ の め}}\n* {{ja-r|夜 一%夜|よ ひと%よ}}\n* {{ja-r|夜更け|よふけ|rom=-}}, {{ja-r|夜深け|よふけ}}\n* {{ja-r|昨夜|よべ}}, {{ja-r|昨夜|ようべ}}\n* {{ja-r|夜間|よま}}\n* {{ja-r|終夜|よもすがら}}\n* {{ja-r|夜も日も明けない|よ も ひ も あけない}}\n* {{ja-r|夜を明かす|よ を あかす}}\n* {{ja-r|夜を掛く|よ を かく}}\n* {{ja-r|夜を籠む|よ を こむ}}\n* {{ja-r|夜半|よわ}}\n* {{ja-r|夜を徹する|よ を てっする}}\n* {{ja-r|夜を日に継ぐ|よ を ひ に つぐ}}\n* {{ja-r|小夜|さよ}}\n* {{ja-r|千夜|ちよ}}\n* {{ja-r|月%夜|つき%よ}}, {{ja-r|月%夜|つく%よ}}\n* {{ja-r|一%夜|ひと%よ}}\n* {{ja-r|闇%夜|やみ%よ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|夕|ゆう}}, {{ja-r|夕べ|ゆうべ}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|よる]]\n[[Category:ja:Times of day|よる]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

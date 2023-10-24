@@ -1,0 +1,39 @@
+{
+  "title": "笇",
+  "ns": 0,
+  "id": 22673,
+  "timestamp": 1542297105000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹04}}\n\n# {{altform|lang=ja|算}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さん\n|kanon=さん\n|kun=かず-, かぞ-える<かぞ-へる, そろばん-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|夾笇|きょうさん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

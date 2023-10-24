@@ -1,0 +1,39 @@
+{
+  "title": "腿",
+  "ns": 0,
+  "id": 24483,
+  "timestamp": 1545913830000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=たい\n|kun=もも-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|もも}}\n\n# a [[thigh]]\n# [[knee]]s\n\n[[Category:Japanese basic words|もも]]\n[[Category:ja:Anatomy|もも]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "満",
+  "ns": 0,
+  "id": 19253,
+  "timestamp": 1554057976000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|滿|🈵}}\n{{character info/new}}\n{{character info/new|🈵}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|満|滿}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=水09|kyu=滿}}\n\n# [[full]]\n# [[fullness]]\n# [[enough]]\n# [[satisfy]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=まん\n|kanon=ばん\n|kun=み-ちる, み-たす\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|みつる}}\n\n# {{given name|male|lang=ja|sort=みつる}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "脈",
+  "ns": 0,
+  "id": 24364,
+  "timestamp": 1546161301000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|脉}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=肉06}}\n\n# {{defn|lang=ja|sort=肉06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=みゃく\n|kanon=ばく\n|kun=すじ-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|みゃく|yomi=o}}\nFrom {{der|ja|ltc|-}} {{ltc-l|脈}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|みゃく|yomi=o|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みゃく}}\n\n# [[pulse]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

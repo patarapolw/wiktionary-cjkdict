@@ -1,0 +1,61 @@
+{
+  "title": "畏",
+  "ns": 0,
+  "id": 21137,
+  "timestamp": 1553562191000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=田04}}\n\n# [[fear]]\n# [[majestic]]\n# [[graciously]]\n# be apprehensive",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え\n|kanon=い\n|kun=おそ-れる, かしこ-し, かしこ-まる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|い|yomi=kanon}}\n\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|畏}}.\n\nThe ''[[漢音#Japanese|kan'on]]'', so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|い}}\n\n# [[fear]]\n# [[respect]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|敬畏|けい.い}}: [[reverence]], [[holding]] in [[awe]], [[fear]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かしこ|yomi=k}}\n{{ja-see|かしこ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|かしく|yomi=k}}\n{{ja-see|かしく}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "title": "榎",
+  "ns": 0,
+  "id": 17891,
+  "timestamp": 1552875984000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=か\n|kun=え-, えのき-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|榎草|えのきぐさ}}\n* {{ja-r|榎茸|えのきたけ}}: [[enokitake]]\n* {{ja-r|榎寺|えのきでら}}\n* {{ja-r|榎の実|えのみ}}\n* {{ja-r|榎本|^えのもと}}: ''A [[surname]].''\n* {{ja-r|椋榎|むくえのき}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Celtis sinensis}}\n[[File:Celtis_sinensis%3DChinese_Hackberry.jpg|thumb|250px|{{m|ja|榎|tr=e, enoki}}: the '''[[Chinese hackberry]] [[tree]]'''.]]\n</div>\n{{ja-kanjitab|yomi=k|え}}\n\nFrom {{inh|ja|ojp|sort=え|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|16|3872}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man16Yo.html#3872 here]</ref>\n\nThere are various theories regarding the ultimate derivation of this ''e''.  Some of these include:\n* From {{m|ja|枝||tr=e, eda|branch}}, from the many [[branch]]es\n* From {{m|ja|餌||tr=e, esa|food for animals}}, from the multitude of berries eaten by birds\n* From {{m|ja|柄||tr=e|handle}}, from the way the wood was used for [[tool]] [[handle]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|え}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|え}}\n\n# {{taxlink|Celtis sinensis|species}}, the [[Chinese hackberry]] [[tree]]\n#: {{synonyms|ja|榎|tr=enoki|q=see below}}\n# {{lb|ja|sort=え|rare}} the [[Chinese hackberry]] [[fruit]]\n#: {{synonyms|ja|榎の実|tr=e no mi, enoki no mi}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This reading is generally not used in isolation in modern Japanese."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|えのき}}\n\nCompound of {{compound|ja|sort=えのき|榎|tr1=e|t1=[[Chinese hackberry]]|の|tr2=no|pos2=possessive particle|木|tr3=ki|t3=[[tree]]}}.  Compare the similar formation of various other tree names, such as {{m|ja|楠||tr=kusu|camphor; camphor tree}} and {{m|ja|楠||tr=kusunoki|camphor tree}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|えのき|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|朴}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えのき|エノキ}}\n\n# {{taxlink|Celtis sinensis|species}}, the [[Chinese hackberry]] [[tree]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|えのき|proper}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=えのき}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "{{U:ja:biology|エノキ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            },
+            {
+              "level": 3,
+              "title": "Further reading",
+              "text": "[http://www.nihonjiten.com/data/46198.html Etymology at Nihonjiten] (in Japanese)\n\n[[Category:ja:Trees|えのき]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

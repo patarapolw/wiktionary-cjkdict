@@ -1,0 +1,64 @@
+{
+  "title": "敦",
+  "ns": 0,
+  "id": 16778,
+  "timestamp": 1550143111000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=攴08}}\n\n# [[kindness]], [[affinity]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=とん, たい\n|kanon=とん, たい\n|kanyoon=つい\n|kun=あつ-い\n|nanori=あつし, つとむ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|敦盛|あつもり}}\n* {{ja-r|敦賀|^つるが}}: [[w:Tsuruga, Fukui|Tsuruga, Fukui]]\n* {{ja-r|敦厚|とんこう}}\n* {{ja-r|敦煌|^とんこう}}; [[w:Dunhuang|Dunhuang]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|たい|yomi=o}}\nFrom {{der|ja|ltc|-|sort=たい}} {{ltc-l|敦}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|たい|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たい}}\n\n# {{w|dui (vessel)}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|あつし|つとむ}}\n\n# {{given name|male|lang=ja|sort=あつし}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

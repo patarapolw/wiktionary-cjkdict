@@ -1,0 +1,39 @@
+{
+  "title": "框",
+  "ns": 0,
+  "id": 17560,
+  "timestamp": 1547797977000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[きょう]] (kyō)|kun=[[かまち]] (kamachi)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かまち}}\n\n# [[window frame]] or [[door frame]]\n\n[[Category:ja:Architecture|かまち]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

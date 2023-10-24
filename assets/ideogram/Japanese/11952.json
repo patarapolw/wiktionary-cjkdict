@@ -1,0 +1,54 @@
+{
+  "title": "即",
+  "ns": 0,
+  "id": 11952,
+  "timestamp": 1553324912000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|卽|既}}\n{{character info/new}}\n{{character info|0x2F82F}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|即|卽}} <!-- As found in Jōyō kanji 2010 -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=卩05|kyu=卽}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そく\n|kanon=しょく\n|kun=つ-く, すなわ-ち, もし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|即%時|そく%じ}}\n* {{ja-r|即%発|そく%はつ}}: [[immediate]] [[explosion]]\n* {{ja-r|即%興|そっ%きょう}}\n* {{ja-r|即%刻|そっ%こく}}\n* {{ja-r|当%意%即%妙|とう%い%そく%みょう}}\n{{der-bottom}}\n\n{{ja-kanjitab|そく|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|そく|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Adverb",
+              "text": "{{ja-pos|adverb|そく}}\n\n# [[immediately]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

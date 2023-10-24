@@ -1,0 +1,39 @@
+{
+  "title": "抹",
+  "ns": 0,
+  "id": 16085,
+  "timestamp": 1547148160000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手05}}\n\n# [[grind]]\n# [[rub]]\n# [[crush]]\n# [[erase]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=まつ, まち\n|kanon=ばつ\n|toon=も\n|kun=す-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|抹茶|まっちゃ}}: [[matcha]], powdered green tea"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

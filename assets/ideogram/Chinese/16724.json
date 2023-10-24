@@ -1,0 +1,61 @@
+{
+  "title": "攰",
+  "ns": 0,
+  "id": 16724,
+  "timestamp": 1545569296000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㩻}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{rfc|zh|<br>* Unattested glyph origin quoted from https://zh-yue.wikipedia.org/wiki/攰 <br>* Cantonese pronunciation ''[[gui6]]'' obtained from Unihan database differs from expected fanqie reading of ''[[gwai3]]''<br>* Additional sources needed besides https://yue.forvo.com/word/攰/#yue to verify its pronunciation.<br>* Pronunciation ''[[gwai3]]'', ''[[ci3]]'' obtained from 《粵語同音字典》 may need to be merged with etymology 2 of {{l|zh|㩻#Etymology 2|㩻|gloss= {{nobold|[[guì]]}} in Mandarin}}}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|支|t1=limb|力|t2=strength|ls=ic}} – [[limbs]] using a lot of [[strength]], which results in [[tiredness]]."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=癐,䠩}}\n{{zh-wp|yue}}\nLikely cognate with {{cog|hak|-}} {{zh-l|𤸁|khioi|tired}}.\n\nThe etymology is uncertain. This character itself is often regarded as the etymological character ({{zh-l|*本字}}), but the expected Cantonese reflex from the ''fanqie'' found in ''{{w|Jiyun}}'' ({{zh-l|*集韻}}) would be ''gwai<sup>3</sup>'' instead of ''gui<sup>6</sup>''. In recent years, this character has overtaken {{zh-l|*癐}} as the usual way this word is written, probably because of its appearance on the show {{w2|zh|每日一字 (香港)|每日一字}} in the 1980s.\n\nThe following are other etymologies that have been proposed:\n* {{zh-ref|Bai (1980)}} suggests {{zh-l|䠩|tired}} as the etymological character. This character has been rejected by {{zh-ref|Yan (2000)}} for being a late word.\n* {{zh-ref|Yan (2000)}} suggests {{zh-l|*睡|to sleep}} as the etymological character: ''*gljiois'' (Old Chinese, based on Zhengzhang, 1987) > ''*gljioi'' > ''*gioi'' > ''*kioi'' > ''*koi'' > ''*kui'' (Guangzhou), ''*kɔi'' (Yangjiang).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=gui6\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} [[tired]]; [[exhausted]]; [[fatigued]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|累}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|㩻|v|{{lb|zh|Mandarin}} [[thin]] and [[weak]]; [[fatigue]]; [[total]] [[exhaustion]]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C04544-002#28}}\n* {{R:yue:Jyutjam}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

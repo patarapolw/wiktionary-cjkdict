@@ -1,0 +1,39 @@
+{
+  "title": "帛",
+  "ns": 0,
+  "id": 14878,
+  "timestamp": 1542536745000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=巾05}}\n\n# {{defn|lang=ja|sort=巾05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=びゃく\n|kanon=はく\n|kun=きぬ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|金帛|きんぱく}}: [[gold]] and [[silk]], [[money]] and [[cloths]]\n* {{ja-r|竹帛|ちくはく}}\n* {{ja-r|幣帛|へいはく}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

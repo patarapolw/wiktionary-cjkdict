@@ -1,0 +1,90 @@
+{
+  "title": "源",
+  "ns": 0,
+  "id": 19269,
+  "timestamp": 1552787541000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|厵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=水10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=げん<げん<ぐゑん\n|kanyoon=がん<ぐわん\n|kun=みなもと-\n|nanori=はじめ, もと, よし \n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3}}\n* {{ja-r|源委|げんい}}\n* {{ja-r|源泉|げんせん}}\n* {{ja-r|源流|げんりゅう}}\n* {{ja-r|淵源|えんげん}}\n* {{ja-r|起源|きげん}}\n* {{ja-r|語源|ごげん}}\n* {{ja-r|根源|こんげん}}\n* {{ja-r|光源|こうげん}}\n* {{ja-r|財%源|ざい%げん}}\n* {{ja-r|資源|しげん}}\n* {{ja-r|字源|じげん}}\n* {{ja-r|震源|しんげん}}\n* {{ja-r|塞%源|そく%げん}}\n* {{ja-r|電源|でんげん}}\n* {{ja-r|同源|どうげん}}\n* {{ja-r|病源|びょうげん}}\n* {{ja-r|本源|ほんげん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|みなもと}}\n\nDerived from {{com|ja|sort=みなもと|水|tr1=mi|t1=[[water]]|pos1=combining form|な|tr2=na|pos2={{inh|ja|ojp|sort=みなもと|-}} possessive particle|[[元]], [[本]]|tr3=moto|t3=[[origin]], [[source]]}}.<ref>{{R:Daijisen}}</ref><ref name=\"DJR\"/>\n\nVovin believes that the ''na'' in the initial ''mina-'' element is not a genitive particle, but rather actually meant \"water\", contending that the ''mi'' was instead the honorific prefix {{m|ja|御|tr=mi-}}.<ref>{{cite-book|author=Vovin, Alexander|authorlink=Alexander Vovin|title=Man'yoshu, Book 14: A New English Translation Containing the Original Text, Kana Transliteration, Romanization, Glossing and Commentary|year=2012,|publisher=Brill|page=57}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|みなもと|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みなもと}}\n\n# a [[fountainhead]] {{gl|[[source]] of a [[river]]}}\n#: {{syn|ja|水源|tr=suigen}}\n# a source, [[origin]]\n#: {{syn|ja|起源|tr1=kigen|根源|tr2=kongen|本源|tr3=hongen}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|みなもと|proper}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=みなもと}}, ''especially'' those who are [[descendant]]s of {{w|Emperor Saga}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=kanon|げん}}\n\nFrom {{bor|ja|ltc|sort=けん'|-}} {{ltc-l|源}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|げん}}\n\n# [[source]], [[origin]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|げん}}\n\n# [[fountainhead]]\n# [[source]], [[origin]]\n# {{short for|lang=ja|源氏|tr=Genji|nodot=1|sort=けん'}}: the {{w|Minamoto clan}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|源氏|^げんじ}}\n* {{ja-r|源%平%藤%橘|^げん%ぺい%とう%きつ|[[Minamoto]], [[Taira]], [[Fujiwara]], and [[Tachibana]]|pos=four powerful families in medieval Japan}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

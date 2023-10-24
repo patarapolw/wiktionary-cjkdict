@@ -1,0 +1,66 @@
+{
+  "title": "続",
+  "ns": 0,
+  "id": 23382,
+  "timestamp": 1536379751000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|續|续}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|続|續}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=糸07|kyu=續}}\n\n# to [[continue]], [[continuation]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞく\n|kanon=しょく\n|kun=つづ-く, つづ-ける, つ-ぐ\n|nanori=つぎ, つぐ, つづく, ひで\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ぞく|yomi=o}}\n\nFrom {{der|ja|ltc|sort=そく'|-}} {{ltc-l|續}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|ぞく|acc=1|acc_ref=DJR}}\n* The pitch accent only applies to the noun sense."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぞく}}\n\n# a [[continuation]]\n# {{lb|ja|by extension|literature|_|and other|_|media}} [[next]] [[installment]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|続%編|ぞく%へん}}: a [[sequel]], a [[continuation]] of an earlier [[work]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|ぞく}}\n\n# {{lb|ja|literature|_|and other|_|media}} [[next]] [[installment]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

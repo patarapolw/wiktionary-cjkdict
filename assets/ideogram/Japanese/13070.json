@@ -1,0 +1,49 @@
+{
+  "title": "型",
+  "ns": 0,
+  "id": 13070,
+  "timestamp": 1553315112000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F855}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=土06}}\n\n# {{defn|lang=ja|sort=土06}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かた}}\n\n# {{lb|ja|martial arts}} [[choreograph]]ed [[training]] [[exercise]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう\n|kanon=けい\n|kun=かた-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|模型|もけい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{pedialite|lang=ja}}\n* {{pedialite|Kata}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

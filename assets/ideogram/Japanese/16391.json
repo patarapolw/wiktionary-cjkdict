@@ -1,0 +1,44 @@
+{
+  "title": "握",
+  "ns": 0,
+  "id": 16391,
+  "timestamp": 1549027033000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手09}}\n\n# grip",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=あく\n|kanon=あく\n|kun=にぎ-る, にぎ-り\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|あく|yomi=o}}\nSino-Japanese."
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|あく}}\n\n# [[grip]]; [[hold]]\n#: {{ja-usex-inline|'''握'''手|'''あく'''しゅ|handshake}}\n#: {{ja-usex-inline|'''握'''力|'''あく'''りょく|grip strength}}\n#: {{ja-usex-inline|把'''握'''|は'''あく'''|control; grasp (understanding)}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

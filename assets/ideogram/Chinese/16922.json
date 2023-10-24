@@ -1,0 +1,51 @@
+{
+  "title": "旲",
+  "ns": 0,
+  "id": 16922,
+  "timestamp": 1527673243000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|昊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=tái\n|c=toi4\n|mc=\n|oc=\n|ma=y\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|obsolete}} [[daylight]]; [[sunlight]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=yǐng\n|c=\n|cat=a\n}}\n<!-- Unihan is probably wrong. yǐng comes from the Kangxi Dictionary -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|obsolete}} [[big]], [[great]], [[vast]], [[large]], [[high]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{qualifier|Cantonese}} [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 122]\n* {{R:twedu|C04785}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

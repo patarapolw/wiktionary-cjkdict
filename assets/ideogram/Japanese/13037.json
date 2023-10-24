@@ -1,0 +1,61 @@
+{
+  "title": "坪",
+  "ns": 0,
+  "id": 13037,
+  "timestamp": 1552579453000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=土05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=びょう\n|kanon=へい\n|kun=つぼ-\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The [[音読み#Japanese|''on'yomi'']] are not used in modern Japanese."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Pyeong}}\n</div>\n{{ja-kanjitab|yomi=k|つぼ}}\nCognate with {{m|ja|壺|tr=tsubo||basin}}. The current meaning related to area arose from the way a surrounded area with the base or floor lower than the circumference looks like a basin.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nAlthough the reading is different, this areal measurement meaning for {{lang|ja|坪}} is shared in common with the terms {{ko-inline|평|||坪}} in Korean and {{m|zh|坪|tr=pe<sup>5</sup>}} in Taiwanese."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|つぼ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|つぼ}}\n\n# A [[unit]] of [[areal]] measure, traditionally a square six {{m|ja|尺|tr=shaku|pos=traditional Japanese unit of length, roughly equivalent to the English [[foot]]}} per side, equivalent to the area covered by two standard-sized [[tatami]] mats. In modern usage, standardized at 3.306 [[square metre]]s."
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

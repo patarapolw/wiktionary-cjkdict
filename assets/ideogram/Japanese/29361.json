@@ -1,0 +1,63 @@
+{
+  "title": "鉢",
+  "ns": 0,
+  "id": 29361,
+  "timestamp": 1513572645000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|缽|钵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=金05}}\n\n# [[bowl]]; [[pot]]\n# [[skull]]; [[cranium]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=はち\n|kanon=はつ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|はち|yomi=o}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|はち|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はち}}\n\n# [[bowl]], [[pot]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|植木鉢|うえきばち}}: [[flowerpot]]\n* {{ja-r|金魚鉢|きんぎょばち}}: [[goldfish bowl]]\n* {{ja-r|擂鉢|すりばち}}: [[mortar]] {{qualifier|bowl}}\n* {{ja-r|鉢植え|はちうえ}}: [[potted plant]]\n* {{ja-r|火鉢|ひばち}}: A [[charcoal]]-powered heating [[brazier]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Containers|はち]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

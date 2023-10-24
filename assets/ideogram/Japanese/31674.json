@@ -1,0 +1,39 @@
+{
+  "title": "騎",
+  "ns": 0,
+  "id": 31674,
+  "timestamp": 1553571035000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|骑}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=馬08}}\n\n# [[ride]] [[horseback]]\n# [[mount]]\n# [[cavalry]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎ\n|kanon=き\n|kun=の-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|騎士|きし}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

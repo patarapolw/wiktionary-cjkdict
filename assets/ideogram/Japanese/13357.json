@@ -1,0 +1,44 @@
+{
+  "title": "増",
+  "ns": 0,
+  "id": 13357,
+  "timestamp": 1531164458000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|增}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|増|增}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=土11|kyu=增}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう\n|kanon=そう\n|kanyoon=ぞう\n|kun=ま-す, ふ-える, ふ-やす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|増し|まし|rom=-}}, {{ja-r|まし|rom=-}}, {{ja-r|マシ}}\n* {{ja-r|増す|ます}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぞう}}\n\n# [[increase]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

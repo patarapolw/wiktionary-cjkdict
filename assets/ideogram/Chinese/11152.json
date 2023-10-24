@@ -1,0 +1,71 @@
+{
+  "title": "傀",
+  "ns": 0,
+  "id": 11152,
+  "timestamp": 1547217582000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=kuǐ\n|c=faai3\n|mn=ml:khúi/ka\n|mn_note=ka - 嘉 is used in the Mainland\n|mc=2\n|oc=n,2\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|傀儡|[[puppet]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|傀儡|傀儡家庭|傀儡戲|傀儡政權|懸絲傀儡|文樂傀儡|線抽傀儡|肉傀儡|藥發傀儡|跳傀儡}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=guī\n|c=gwai1\n|mc=1\n|oc=n,1\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[odd]]; [[peculiar]]; [[extraordinary]]\n# [[great]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "''{{w|Xiandai Hanyu Guifan Cidian}}'' ({{w2|zh|pref=《|现代汉语规范词典|suf=》}}) proscribes the use of the pronunciation {{m|cmn|guī}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|傀偉|傀儡:guīlěi|傀奇|傀然}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

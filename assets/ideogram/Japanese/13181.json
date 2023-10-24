@@ -1,0 +1,39 @@
+{
+  "title": "培",
+  "ns": 0,
+  "id": 13181,
+  "timestamp": 1551449089000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=土08}}\n\n# [[cultivate]]\n# [[foster]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ばい, ぶ, べ\n|kanon=はい, ほう\n|kun=つちか-う\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[培植]]\n* [[培養]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

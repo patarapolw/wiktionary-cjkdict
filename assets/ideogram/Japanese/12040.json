@@ -1,0 +1,44 @@
+{
+  "title": "友",
+  "ns": 0,
+  "id": 12040,
+  "timestamp": 1546529845000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=又02}}\n\n# [[friend]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=ゆう<いう\n|kun=とも-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とも}}\n\n# [[friend]]; [[pal]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ゆう}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|ゆう]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

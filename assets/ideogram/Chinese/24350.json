@@ -1,0 +1,66 @@
+{
+  "title": "胺",
+  "ns": 0,
+  "id": 24350,
+  "timestamp": 1546198671000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|肉|c1=s|t1=meat|安|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}\n{{zh-wp|zh|yue}}\nBorrowed from {{bor|zh|en|amine|'''am'''ine}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=胺\n|c=on1,on3\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemistry}} [[amine]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|多巴胺:dopamine|抗組織胺|硫胺素|磺胺劑|組織胺|組胺|胺基酸|醯胺類|間胺黃|氯胺酮}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=𦛅,餲}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=è,ān,2nb=Taiwan\n|c=aat3\n|mc=y\n|oc=y\n|cat=v,c:a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|of meat}} to [[rot]] and [[smell]]\n# {{lb|zh|Cantonese}} [[smell]]ing of [[urine]]\n#: {{zh-x|一 行 入 個 廁所 就 聞到{dou3-2} 成{seng4} 陣{zam6} 胺{aat3} 味，好似 十 世 冇 洗 過 噉。|The washroom smells '''like urine''' once you walk in, like it's not been washed in ages.|C}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

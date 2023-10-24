@@ -1,0 +1,44 @@
+{
+  "title": "侶",
+  "ns": 0,
+  "id": 10910,
+  "timestamp": 1511480287000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|侣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とも}}\n\n: [[友]] (とも, tomo)\n: [[朋]] (とも, tomo)\n: [[伴]] (とも, tomo)\n\n# [[companion]], [[follower]]"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろ\n|kanon=りょ\n|kun=とも-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|侶伴|りょばん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

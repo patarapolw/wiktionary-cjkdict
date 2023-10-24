@@ -1,0 +1,61 @@
+{
+  "title": "秒",
+  "ns": 0,
+  "id": 22357,
+  "timestamp": 1551340254000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|禾|少|ls=psc|c1=s|c2=p|t1=cereal; grain}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=miǎo\n|m-s=miao3\n|c=miu5\n|c-t=miau4\n|g=mieu3\n|h=pfs=miéu;gd=miau3\n|j=miau2\n|mb=miǎu\n|md=miēu\n|mn=biáu/tw:bió\n|mn_note=Taiwan: biáu - literary; bió - vernacular\n|mn-t=miao2/miou2\n|mn-t_note=miao2 - Shantou; miou2 - Chaozhou\n|w=3miau\n|x=miau3\n|mc=y\n|oc=y\n|ma=Zh-miao.ogg\n|cat=n,a,cl,adv\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[awn]]; [[arista]]\n# {{†}} [[tiny]]; [[minute]]; [[insignificant]]\n# {{†}} [[tip]]; [[end]]; [[extremity]]\n# {{zh-classifier|time|t=[[second]]}}\n#: {{zh-x|一 天 有 @86400 秒。|There are 86,400 '''seconds''' in one day.}}\n# {{zh-classifier|measuring an angle or latitude/longitude|t=[[second]]}}\n# {{lb|zh|neologism|internet slang|by extension}} [[in]] [[seconds]]; [[immediately]]; [[instantly]]; [[at once]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{zh-l|秒鐘}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|分秒|分秒必爭|秒針|秒忽|秒差距|秒錶|毫秒|爭分奪秒|披秒|讀秒|秒殺|位元每秒|每秒位元數|每秒傳輸千位元數|每秒傳送位數|每秒千位元數|每秒千字節|每秒千比特|比特每秒|秒鐘|米每秒|秒回}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|藐|ss}}\n\n{{zh-cat|Time|Elementary}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "僆",
+  "ns": 0,
+  "id": 11225,
+  "timestamp": 1543637822000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𫢪}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Unclear. Compare {{cog|lep|||young|tr=lyeŋ}}, {{cog|ium|jaih jaanx|jaih '''jaanx'''|a hen which has not laid eggs}}, {{cog|tai-pro|*C̬.qɤːŋᴮ||young hen}}, {{cog|lic-pro|*C-ləŋ||chicken classifier}} (> {{cog|lic|lang}}) ({{zh-ref|Schuessler, 2007}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=liàn\n|c=leng1,lin5\n|c_note=leng1 - vernacular (may not be related); lin5 - literary\n|h=pfs=lon\n|mn=xm,zz,tp,kh,tn,tc,hc,sx,yl,mg:nōa/qz,lk:lōa/km:loāi\n|mn-t=nuan3\n|mc=2\n|oc=1,2\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} ([[newly]] [[hatched]]) [[chick]]\n# {{lb|zh|Cantonese}} {{zh-alt-form|𡃁}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|雞僆|雞僆仔}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{rfe|zh|related to 孿?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=liǎn,liàn\n|c=lin5\n|mc=1\n|oc=n,1\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[twin]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|僆子}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=lián\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|僆𠋵}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

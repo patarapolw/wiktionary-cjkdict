@@ -1,0 +1,49 @@
+{
+  "title": "喵",
+  "ns": 0,
+  "id": 12576,
+  "timestamp": 1509022723000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|口|苗|ls=psc|c1=s|c2=p|no_och2=y}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=miāo\n|c=miu1,meu1\n|mc=\n|oc=\n|ma=\n|cat=intj\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|onomatopoeia}} {{n-g|the [[sound]] of a [[cat]]:}} [[meow]], [[mew]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|咪咪}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|喵喵}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

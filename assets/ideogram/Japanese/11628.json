@@ -1,0 +1,88 @@
+{
+  "title": "則",
+  "ns": 0,
+  "id": 11628,
+  "timestamp": 1549256914000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|则}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=刀07}}\n\n# {{defn|lang=ja|sort=刀07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そく\n|kanon=そく\n|kun=のり-, のっと-る, すなわ-ち\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|獄則|ごくそく}}: [[prison]] [[rules]]\n* {{ja-r|反則|はんそく}}, {{ja-r|犯則|はんそく}}: [[violation]] of the [[rules]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|そく|yomi=o}}\nFrom {{etyl|ltc|ja|sort=そく}} {{m|zh|則|tr=tsok||rule}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|そく|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|そく}}\n\n# counter for [[rules]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そく}}\n\n# [[rule]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|のり|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|のり|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|法}}, {{ja-l|矩}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のり}}\n\n# [[law]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

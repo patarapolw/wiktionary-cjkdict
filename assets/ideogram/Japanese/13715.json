@@ -1,0 +1,56 @@
+{
+  "title": "姻",
+  "ns": 0,
+  "id": 13715,
+  "timestamp": 1548513297000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|婣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=女06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いん\n|kanon=いん\n|kun=とつ-ぐ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いん|yomi=on}}\nFrom {{der|ja|ltc|sort=いん|-}} {{ltc-l|姻}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|いん|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|いん}}\n\n# [[marriage]]; [[matrimonial]] [[alliance​]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|婚姻|こんいん}}: marriage, matrimony\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

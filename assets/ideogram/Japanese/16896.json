@@ -1,0 +1,58 @@
+{
+  "title": "旗",
+  "ns": 0,
+  "id": 16896,
+  "timestamp": 1538440770000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|旂}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=方10}}\n\n# [[national]] [[flag]]\n# [[banner]]\n# [[standard]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎ\n|kanon=き\n|kun=はた-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|はた|yomi=k}}\n{{wikipedia|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はた}}\n\n# [[flag]]\n#: {{ja-usex|プエルトリコの'''旗'''|^プエルト ^リコ の '''はた'''|'''flag''' of Puerto Rico}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|き|yomi=o}}\n{{wikipedia|lang=ja|旗 (行政単位)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|き}}\n\n# [[banner]] {{gloss|type of administrative division in Inner Mongolia, China}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

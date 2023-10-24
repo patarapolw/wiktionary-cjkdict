@@ -1,0 +1,69 @@
+{
+  "title": "周",
+  "ns": 0,
+  "id": 12210,
+  "timestamp": 1553896410000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|固|週}}\n{{character info/new}}\n{{character info|0x2F83F}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=口05}}\n\n# [[circumference]]\n# [[circuit]]\n# [[lap]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ, す\n|kanon=しゅう\n|kun=まわ-り, あまね-し, あまね-く, めぐ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|周南|^しゅうなん|[[w:Shūnan|Shūnan]]}}\n* {{ja-r|周波数|しゅうはすう}}: [[frequency]]\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|しゅう|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|sort=しゅう|ltc|ja}} {{ltc-l|周}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|しゅう|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|counter|しゅう|hhira=しう}}\n\n# [[lap]]s or [[circuit]]s"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|しゅう|hhira=しう}}\n\n# [[Zhou]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|まこと}}\n\n# {{given name|male|lang=ja|sort=まこと}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

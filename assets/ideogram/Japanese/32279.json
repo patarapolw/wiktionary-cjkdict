@@ -1,0 +1,44 @@
+{
+  "title": "鰱",
+  "ns": 0,
+  "id": 32279,
+  "timestamp": 1543388585000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚11}}\n\n# [[silver carp]]\n# fish of genus ''[[Hypophthalmichthys]]''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れん\n|kanon=れん\n|kun=たなご-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|たなご|yomi=k}}\n{{rfelite|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たなご|タナゴ}}\n\n# a [[bitterling]] (''a small fish of the [[carp]] [[family]]'')\n\n[[Category:ja:Fish|たなご]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

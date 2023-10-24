@@ -1,0 +1,59 @@
+{
+  "title": "列",
+  "ns": 0,
+  "id": 11580,
+  "timestamp": 1549290585000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=刀04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れち\n|kanon=れつ\n|kun=なら-ぶ, ならべ-る, つら-ねる, つら-なる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|行%列|ぎょう%れつ}}: [[matrix]]\n* {{ja-r|配%列|はい%れつ}}: [[arrangement]]; [[array]]; [[sequence]]\n* {{ja-r|系%列|けい%れつ}}: [[series]]; [[Japanese]] [[conglomerate]]\n* {{ja-r|列%車|れっ%しゃ}}: (rail transport) [[train]]\n* {{ja-r|貨%物%列%車|か%もつ%-れっ%しゃ}}: [[freight train]]\n* {{ja-r|列%島|れっ%とう}}: [[archipelago]]\n* {{ja-r|千%島%列%島|^ち%しま-%れっ%とう}}: [[Kuril Islands]]\n\n{{der-bottom}}\n\n{{ja-kanjitab|れつ|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=れつ}} {{m|zh|列|tr=ljet}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|れつ|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|れつ}}\n\n# [[line]], [[row]]\n# {{lb|ja|mathematics|sort=れつ}} a [[column]] of a [[matrix]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

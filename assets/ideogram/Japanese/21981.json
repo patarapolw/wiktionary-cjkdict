@@ -1,0 +1,61 @@
+{
+  "title": "硯",
+  "ns": 0,
+  "id": 21981,
+  "timestamp": 1513178213000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|砚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石07}}\n\n# [[inkstone]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん\n|kanon=げん\n|kanyoon=けん\n|kun=すずり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|硯海|けんかい}}\n* {{ja-r|硯材|けんざい}}\n* {{ja-r|硯池|けんち}}\n* {{ja-r|硯滴|けんてき}}\n* {{ja-r|硯田|けんでん}}\n* {{ja-r|硯北|けんぽく}}\n* {{ja-r|筆硯|ひっけん}}\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|すずり|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|すずり|acc=3|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|すずり}}\n\n# [[inkstone]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|硯箱|すずりばこ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

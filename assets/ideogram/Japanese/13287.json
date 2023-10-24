@@ -1,0 +1,134 @@
+{
+  "title": "塒",
+  "ns": 0,
+  "id": 13287,
+  "timestamp": 1537468953000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|埘}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=土10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[じ]] (ji)|kanon=[[し]] (shi)|kun=[[ねぐら]] (negura), [[とぐろ]] (toguro), [[とや]] (toya), [[とぐら]] (togura)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|就塒|しゅうじ|[[roost]]ing}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ねぐら|yomi=k}}\nCompound of {{ja-compound|寝|ね|座|くら}}.<ref name=\"DJR\">{{R:Daijirin}}</ref> {{rendaku2|sort=ねぐら|kura|gura}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ねぐら|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ねぐら}}\n\n# [[roost]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|とぐろ|yomi=k}}\n{{rfe|lang=ja|{{ja-r|鳥|と}}+{{ja-r|くろ}} from {{ja-r|幹|から}}, as in {{ja-r|身|むくろ}}?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|とぐろ|acc=3|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|蜷局}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とぐろ}}\n\n# [[coil]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|塒を巻く|とぐろ を まく}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|とや|yomi=k}}\nCompound of {{ja-compound|鳥|と|屋|や}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|とや|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鳥屋}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とや}}\n\n# [[henhouse]]\n\n{{c|ja|Poultry|sort=とや}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|とぐら|yomi=k}}\nCompound of {{ja-compound|鳥|と|座|くら}}. {{rendaku2|sort=とぐら|kura|gura}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|とぐら}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鳥栖}}, {{ja-l|鳥座}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とぐら}}\n\n# [[nest]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

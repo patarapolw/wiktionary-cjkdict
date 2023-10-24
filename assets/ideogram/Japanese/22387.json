@@ -1,0 +1,46 @@
+{
+  "title": "秭",
+  "ns": 0,
+  "id": 22387,
+  "timestamp": 1541821588000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Number",
+              "text": "{{ja-kanjitab|し|yomi=on}}\n{{ja-pos|numeral symbol|し}}\n\n# A [[trillion]] [[trillion]], 10<sup>24</sup>, or a [[septillion]] of modern English in modern Japanese since 17th century.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|𥝱|じょ}}\n\n[[Category:Japanese numeral symbols|10^24]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

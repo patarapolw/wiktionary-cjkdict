@@ -1,0 +1,61 @@
+{
+  "title": "耳",
+  "ns": 0,
+  "id": 24138,
+  "timestamp": 1545829870000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|目}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=耳00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=に\n|kanon=じ\n|kun=みみ-, のみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|耳珠|じじゅ}}: [[tragus]]\n* {{ja-r|耳朶|じだ}}: [[earlobe]]\n{{der-bottom}}\n\n{{ja-kanjitab|みみ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|みみ|acc=2|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|みみ}}\n\n# [[ear]]; [[ear]]s\n#: {{ja-usex|'''耳'''が痒いのです。|'''みみ''' が かゆい の です。| My '''ear''' is itchy.}}\n# [[crust]] (of [[bread]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|獣%耳|けもの%みみ}}: [[kemonomimi]]\n* {{ja-r|猫%耳|ねこ%みみ}}: [[nekomimi]]\n* {{ja-r|耳%朶|みみ%たぶ}}, {{ja-r|耳%埵|みみ%たぶ}}: [[earlobe]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|みみ]]\n[[Category:ja:Anatomy|みみ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

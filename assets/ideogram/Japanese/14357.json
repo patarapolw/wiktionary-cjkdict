@@ -1,0 +1,49 @@
+{
+  "title": "展",
+  "ns": 0,
+  "id": 14357,
+  "timestamp": 1550250294000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=尸07}}\n\n# [[unfold]]\n# [[expand]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=てん\n|kun=の-べる, つら-ねる, のびる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|展覧会|てんらんかい}}: exhibition"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|まこと}}\n\n# {{given name|male|lang=ja|sort=まこと}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|てん}}\n\n# [[exhibition]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

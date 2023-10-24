@@ -1,0 +1,44 @@
+{
+  "title": "莒",
+  "ns": 0,
+  "id": 25042,
+  "timestamp": 1528463775000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Due to {{w|Han unification}}, the {{w|Traditional Chinese|traditional form}} containing <font size=4.5, lang=\"zh-hant\">[[呂]]</font> and {{w|Simplified Chinese|simplified form}} containing <font size=4.5, lang=\"zh-hans\">[[吕]]</font> are encoded under the same [[code point]]. Depending on the font installed, this character may appear to be either <font size=4.5, lang=\"zh-hant\">莒</font> or <font size=4.5, lang=\"zh-hans\">莒</font>."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=07|asc=06|sn=10|snc=9|four=44606|canj=TRHR,TRR|ids=⿱艹吕(G),⿱艹呂(HTJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𪬠]]}} ''(Contains ⿱{{l|mul|[[艹]][[呂]]}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1034.030|dkj=31046|dj=1493.080|hdz=53204.030|uh=8392}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

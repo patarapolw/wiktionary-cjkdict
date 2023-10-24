@@ -1,0 +1,61 @@
+{
+  "title": "禹",
+  "ns": 0,
+  "id": 22333,
+  "timestamp": 1551338591000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=禸04}}\n\n# Name of a Xia Dynasty [[emperor]] in [[ancient]] China: Emperor Yŭ, Yŭ the Great, or Dà Yŭ.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=[[う]] (u)\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|禹域|ういき}}\n* {{ja-r|禹穴|うけつ}}\n* {{ja-r|禹行舜趨|うこうしゅんすう}}\n* {{ja-r|禹貢|うこう}}\n* {{ja-r|禹歩|うほ}}\n* {{ja-r|禹余糧|うよりょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=う}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{l|ja|sc=Latn|音読み|On'yomi}}\n* {{IPA|lang=ja|[ɯᵝ]}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|う|proper}}\n\n# [[w:Yu the Great|Yu the Great]], legendary founder of the [[w:Xia Dynasty|Xia Dynasty]] in ancient China",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Further reading",
+                  "text": "* {{projectlink|wikipedia|lang=ja}}\n* {{projectlink|wikipedia|Yu the Great}}\n* {{projectlink|wikipedia|Xia Dynasty}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

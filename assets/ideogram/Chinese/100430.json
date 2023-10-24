@@ -1,0 +1,44 @@
+{
+  "title": "䵷",
+  "ns": 0,
+  "id": 100430,
+  "timestamp": 1523022630000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wā\n|c=waa1\n|mn=\n|w=\n|mc=\n|oc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|archaic}} [[frog]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|蛙}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{zh-l|鼃}}\n* {{zh-l|哇}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

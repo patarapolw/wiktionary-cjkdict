@@ -1,0 +1,70 @@
+{
+  "title": "魄",
+  "ns": 0,
+  "id": 32021,
+  "timestamp": 1553571344000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鬼05}}\n\n# a [[soul]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひゃく, たく\n|kanon=はく, たく\n|on=ばく\n|kun=たま-, たま-し.い<たま.し.ひ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|たま|yomi=k}}\nPerhaps from {{m|ja|玉|tr=tama||[[jewel]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たま}}\n\n# {{altspell|魂|lang=ja||[[soul]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|はく|yomi=o}}\n{{swp|lang=ja|魂魄}}\nFrom {{der|ja|sort=はく|ltc|魄|tr=phæk}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=1|y=ko|はく}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はく}}\n\n# {{lb|ja|religion|folklore|sort=はく}} {{w|Hun and po|po}} (haku), the [[soul]] which does not leave the [[body]] after [[death]], compared to [[魂|hun]] (kon) which does.\n#* {{quote-book|genre=fiction|||first=Rumiko\n|last=Takahashi\n|authorlink=Rumiko Takahashi|{{w2|ja|犬夜叉|{{ruby|[犬](いぬ)[夜](や)[叉](しゃ)}}|sc=Jpan}}|trans-title={{w|InuYasha|Inuyasha}}|location=Tokyo|publisher=Shogakukan|date=Jun 15 2004|isbn=4-09-126665-7|volume=35|chapter={{ruby|{{lang|ja|[第](だい)１[話](わ)　[試](し)[作](さく)}}}}|trans-chapter=Chapter 1: Prototypes|lang=ja||8}}\n#*: {{ja-usex|魂は心…つまり魂だ。そして'''魄'''は体を動かす力…|^こん は こころ… ^つまり たましい だ。^そして '''はく''' は からだ を うごかす ちから…|Kon is the heart… in other words, the soul. And haku is the force that moves the body…}}\n#* {{quote-book|genre=fiction|||first=Rumiko\n|last=Takahashi\n|authorlink=Rumiko Takahashi|{{w2|ja|犬夜叉|{{ruby|[犬](いぬ)[夜](や)[叉](しゃ)}}|sc=Jpan}}|trans-title={{w|InuYasha|Inuyasha}}|location=Tokyo|publisher=Shogakukan|date=Jun 15 2004|isbn=4-09-126665-7|volume=35|chapter={{ruby|{{lang|ja|[第](だい)１[話](わ)　[試](し)[作](さく)}}}}|trans-chapter=Chapter 1: Prototypes|lang=ja||8}}\n#*: {{ja-usex|'''魄'''ってやつがあれば、魂のない死%骸でも動くんだな。|'''はく'''って やつ が あれ ば、たましい の ない し%がい でも うごくんだ な。|As long as it has this haku thing, even a soulless corpse can move.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|魂%魄|こん%ぱく}}\n\n{{C|ja|Death|sort=はく}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

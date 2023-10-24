@@ -1,0 +1,39 @@
+{
+  "title": "氪",
+  "ns": 0,
+  "id": 18588,
+  "timestamp": 1552110511000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=kè\n|c=hak1\n|mn=tw,xm,zz:khek/qz:khiak\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[krypton]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|氪金}}\n\n{{zh-cat|Chemical elements}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

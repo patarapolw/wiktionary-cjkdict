@@ -1,0 +1,44 @@
+{
+  "title": "牀",
+  "ns": 0,
+  "id": 20301,
+  "timestamp": 1549513950000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|床}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=爿04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう\n|kanon=そう\n|kanyoon=しょう\n|kun=ゆか-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|牀几|しょうぎ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|しょう|counter}}\n\n# {{alternative form of|床|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

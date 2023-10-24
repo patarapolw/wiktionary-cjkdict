@@ -1,0 +1,59 @@
+{
+  "title": "斧",
+  "ns": 0,
+  "id": 16842,
+  "timestamp": 1549587174000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Axt zum spalten1.jpg|250px|thumb|斧]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=斤04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ\n|kanon=ふ\n|kun=おの-<をの-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-l|斧鉞}}\n* {{ja-l|斧鑿}}\n* {{ja-l|斧正}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おの|yomi=k}}\n{{swp|lang=ja}}\nFrom {{inh|ja|jpx-pro|sort=おの|*wənə}}. Cognate with {{cog|yoi|斧|tr=ぶぬ, bunu}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=1|y=k|おの}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おの|hhira=をの|オノ|hkata=ヲノ}}\n\n# [[axe]]\n#* {{RQ:Konkōmyō Saishōōkyō Ongi|9 (back)}}\n#*: 斧 '''乎乃'''\n#* {{quote-book|||{{lj|[STARTER DECK](スターターデッキ)}}\n|||date=Mar 15 2008\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|アックス・レイダー}}\n|trans-chapter=Axe Raider}}\n#*: {{ja-usex|'''オノ'''を持つ戦%士。片%手で'''オノ'''を振り回す攻%撃はかなり強い。|'''オノ''' を もつ せん%し。かた%て で '''オノ''' を ふりまわす こう%げき は かなり つよい。|An axe-wielding warrior. He swings his axe with only one arm, yet he can deal quite some heavy blows.}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Konkōmyō Saishōōkyō Ongi}}\n\n{{C|ja|Tools|Weapons|sort=おの}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

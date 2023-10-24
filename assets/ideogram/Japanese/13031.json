@@ -1,0 +1,44 @@
+{
+  "title": "坤",
+  "ns": 0,
+  "id": 13031,
+  "timestamp": 1540067130000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|堃|☷}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土05}}\n\n# [[southwest]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=こん\n|kun=つち-, ひつじさる-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{compound|ja|未|tr1=hitsuji|申|tr2=saru}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひつじさる}}\n\n# {{lb|ja|obsolete|sort=ひつじさる}} southwest"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

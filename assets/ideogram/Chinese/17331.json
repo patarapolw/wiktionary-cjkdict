@@ -1,0 +1,68 @@
+{
+  "title": "杭",
+  "ns": 0,
+  "id": 17331,
+  "timestamp": 1538546317000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|木|亢|ls=psc|c1=s|c2=p|t1=wood}}.\n\nOriginally a variant of {{och-l|抗|to fight against}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=háng\n|c=hong4\n|mn=hâng/qz,xm:hông\n|mn-t=hang5\n|mc=y\n|oc=y\n|ma=\n|cat=pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|航|[[boat]]; [[ship]]}}\n# {{†}} {{zh-alt-form|航|to [[cross]] a [[stream]]; to [[ferry]]}}\n# {{†}} {{zh-alt-form|航|to [[sail]]; to [[navigate]]}}\n# {{lb|zh|dialectal}} [[suddenly]]; [[all of a sudden]]\n# {{zh-abbrev|杭州|[[Hangzhou]]}}\n# {{surname|lang=zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|上有天堂，下有蘇杭|杭剪|杭子|杭州|杭愛山|杭菊|榔杭|餘杭|杭筏|杭絕|杭紗|杭紬|杭越|杭蓋}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=kāng\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|康|[[broad]] [[road]]}}\n#: {{zh-x|杭{kāng}莊|broad road}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=kàng\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|抗|to [[resist]]; to [[fight]]}}\n# {{†}} {{zh-alt-form|抗|to [[raise]]; to [[lift]] up}}\n# {{†}} {{zh-alt-form|抗|[[high]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

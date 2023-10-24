@@ -1,0 +1,85 @@
+{
+  "title": "座",
+  "ns": 0,
+  "id": 15019,
+  "timestamp": 1546675493000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|坐}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=广07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ざ\n|kanon=さ\n|kun=すわ-る, くら-, いま-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|座位|ざい|[[seat]]; [[posing]] of [[sit]]ting; [[sitting]] [[sex position]]}}\n* {{ja-r|座視|ざし}}\n* {{ja-r|座州|ざしゅう}}\n* {{ja-r|座礁|ざしょう}}\n* {{ja-r|端座|たんざ}}\n* {{ja-r|便座|べんざ}}\n* {{ja-r|連座|れんざ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ざ|yomi=o}}\n{{der|ja|ltc|座|sort=さ'}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ざ|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|ざ}}\n\n# names of [[constellation]]s\n# names of [[theater]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|くら|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くら}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|くら}}\n\n# [[high]] [[place]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|位|くらい|[[grade]], [[rank]]}}\n* {{ja-r|塒|ねぐら|[[roost]]}}\n* {{ja-r|鳥%栖|と%ぐら|rom=-}} {{ja-r|塒|とぐら|rom=-}}, {{ja-r|鳥%座|と%ぐら|[[nest]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

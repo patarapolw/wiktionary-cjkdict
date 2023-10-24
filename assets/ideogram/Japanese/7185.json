@@ -1,0 +1,39 @@
+{
+  "title": "層",
+  "ns": 0,
+  "id": 7185,
+  "timestamp": 1553572794000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|层}}\n{{character info/new}}\n{{character info/new|0xfa3b}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|k=s}} <!-- U+FA3B is the kyūjitai form -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=尸12}}\n\n# [[layer]], [[level]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞう\n|kanon=そう\n|kun=こし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|階層|かいそう}}\n* {{ja-r|段階|だんかい}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "title": "彼",
+  "ns": 0,
+  "id": 15252,
+  "timestamp": 1552572317000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 4,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=彳05}}",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひ\n|kanon=ひ\n|kun=あ-, あ-の, あれ-, あ-れ, か-, かれ-, かの-\n|nanori=その\n}}"
+                },
+                {
+                  "level": 5,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|彼処|あそこ|that place over there, that organization over there}}\n* {{ja-r|彼方|あちら, かなた|that way, that over there; far away}}\n* {{ja-r|彼女|かのじょ|she, girlfriend}}\n* {{ja-r|彼我|ひが|friend and foe}}\n* {{ja-r|彼岸|ひがん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|か}}\nFrom {{etyl|ojp|ja|sort=か}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|か|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|か}}\n\n# [[distal]] [[demonstrative]], something far off [[removed]] from both speaker and listener: [[that]], [[yon]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|彼|かの}}, {{ja-r|彼の|かの|his; that}}\n* {{ja-r|彼|かれ|he}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|かれ}}\nFrom {{etyl|ojp|ja|sort=かれ}}. Compound of {{suffix|ja|sort=かれ|彼|tr1=ka|t1=that, yon|れ|tr2=re|pos2=nominalizing suffix for demonstratives}}. Found in the ''[[w:Man'yōshū|Man'yōshū]]'' compiled around 759.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かれ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|かれ}}\n\n# [[distal]] [[demonstrative]], something far off [[removed]] from both speaker and listener: [[that]], [[yon]]\n#* {{RQ:Man'yōshū|18|4045}}\n#*: {{lang|ja|於伎敝欲里 美知久流之保能 伊也麻之尓 安我毛布支見我 弥不根可母'''加礼'''}}\n# third person pronoun: [[he]], [[she]]\n## particularly, male personal third person pronoun: [[he]]\n## by extension from ''he'': [[boyfriend]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|boyfriend}} {{ja-r|彼氏|かれし}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|彼氏|かれし|boyfriend}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|か|o1=の}}\nCompound of {{compound|ja|sort=かの|彼|tr1=ka|t1=that, yon|の|tr2=no|pos2=possessive particle}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かの|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|彼の}} {{qualifier|much more common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|かの}}\n\n# [[distal]] [[demonstrative]], something far off [[removed]] from both speaker and listener: [[that]], [[yon]]\n# third person pronoun: [[he]], [[she]], [[it]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The term ''kano'' has been mostly replaced by {{ja-r|あの}} in modern Japanese. ''Kano'' is still in use, but is viewed as more [[formal]] and [[archaic]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|彼女|かのじょ|she; girlfriend}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|あ}}\n{{ja-see|あ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=k|あれ}}\nCompound of {{suffix|ja|sort=あれ|彼|tr1=a|t1=that, yon|れ|tr2=re|pos2=nominalizing suffix for demonstratives}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あれ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|あれ}}\n\n# [[distal]] [[demonstrative]], something far off [[removed]] from both speaker and listener: [[that]], [[yon]]\n# third person pronoun: [[he]], [[she]], [[it]]\n# second person pronoun: [[you]]\n# a euphemism for sex: [[it]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-l|此}}, {{ja-l|是}}, {{ja-l|之}} (''ko'', ''kore'')\n* {{ja-l|其}} (''so'', ''sore'')"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "More often spelled in hiragana, as {{ja-l|あれ}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|かれ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

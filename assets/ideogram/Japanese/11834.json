@@ -1,0 +1,39 @@
+{
+  "title": "匈",
+  "ns": 0,
+  "id": 11834,
+  "timestamp": 1529562967000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=勹04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=きょう\n|kun=むね-, おそれる, さわぐ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|きょう}}\n\n# {{abbreviation of|匈牙利|lang=ja|sort=はんがりい}} [[Hungary]]\n\n[[Category:ja:Countries|はんがりい]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

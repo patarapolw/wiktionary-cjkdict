@@ -1,0 +1,54 @@
+{
+  "title": "係",
+  "ns": 0,
+  "id": 10922,
+  "timestamp": 1550152598000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|系}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=人07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ\n|kanon=けい\n|kun=かか-る, かかり-, かか-わる, つながり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[係船]]\n* [[係争]]\n* [[係属]]\n* [[係留]]\n* [[連係]]\n* [[係助詞]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かかり}}\n\n# person [[in charge]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|がかり|suffix}}\n\n# person in charge\n#: {{ja-x|カメラ'''係'''|カメラ-'''がかり'''|cameraman}}\n#: {{ja-x|撮%影%'''係'''|さつ%えい%-'''がかり'''|photographer}}"
+            },
+            {
+              "level": 3,
+              "title": "Descendants",
+              "text": "* {{desc|bor=y|id|gakari}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

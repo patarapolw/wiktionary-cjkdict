@@ -1,0 +1,61 @@
+{
+  "title": "竽",
+  "ns": 0,
+  "id": 22663,
+  "timestamp": 1507045141000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=竹03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=[[う]] (u)\n|kun=[[ふえ]] (fue)\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=う}} {{m|ltc|竽|tr=*hju}}. Compare modern {{cog|cmn|竽|tr=yú}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{l|ja|sc=Latn|音読み|On'yomi}}\n* {{IPA|lang=ja|[ɯᵝ]}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|う}}\n\n# a [[woodwind]] instrument introduced to Japan from China during the [[w:Nara period|Nara period]], similar to a {{m|ja|笙|tr=shō||a kind of free-reed woodwind instrument}}, but larger and one octave lower in [[pitch]]\n#: This instrument fell out of use for {{m|ja|雅楽|tr=gagaku||court music}} in the mid-[[w:Heian period|Heian period]], and was later reconstructed after World War II based in part on artifacts at the [[w:Shōsōin|Shōsōin]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "* {{ja-r|竽を好むに瑟を鼓す|う を このむ に しつ を こす}}: “to play a bass koto to someone who likes the ''u''” → to do something that doesn't [[suit]] a person's [[taste]]s or [[preference]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

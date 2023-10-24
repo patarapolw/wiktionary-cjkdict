@@ -1,0 +1,80 @@
+{
+  "title": "伎",
+  "ns": 0,
+  "id": 10655,
+  "timestamp": 1549650127000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=jì\n|c=gei6\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=2\n|oc=1,3\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} {{zh-alt-form|技|[[skill]]}}\n#: {{zh-x|伎倆{liǎng}|underhanded trick; dishonest tactic}}\n# {{lb|zh|historical}} [[performer]], especially female entertainers whose profession involved [[singing]] and [[dancing]], in ancient China\n# {{†}} [[companion]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|女伎|伎館|司空伎倆|伎癢|展伎|家伎|坐部伎|伎倆|伎坊|敏於伎|油花伎倆|故伎重演|本等伎倆|歌伎|材伎|歌舞伎|薄伎|鬼魅伎倆|鬼蜮伎倆|繩伎}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=qí\n|c=kei4\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=1\n|oc=n,2\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|伎伎}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=zhì\n|c=\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=3\n|oc=n,1\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|忮}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 4",
+              "text": "{{zh-pron\n|m=qì\n|c=\n|h=pfs=\n|md=\n|mn=\n|w=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|𢺵}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "title": "所",
+  "ns": 0,
+  "id": 15962,
+  "timestamp": 1552414816000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=戶04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょ<しよ\n|kanon=そ\n|kun=ところ-, とこ-, と, く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|一所懸命|いっしょけんめい}}\n* {{ja-r|近所|きんじょ}}\n* {{ja-r|住所|じゅうしょ}}\n* {{ja-r|便所|べんじょ}}\n* {{ja-r|所為|しょい}}\n* {{ja-r|所感|しょかん}}\n* {{ja-r|所管|しょかん}}\n* {{ja-r|所見|しょけん}}\n* {{ja-r|所作|しょさ}}\n* {{ja-r|所在|しょざい}}\n* {{ja-r|所在地|しょざいち}}\n* {{ja-r|所在|しょざい}}\n* {{ja-r|所持|しょじ}}\n* {{ja-r|所属|しょぞく}}\n* {{ja-r|所存|しょぞん}}\n* {{ja-r|所帯|しょたい}}\n* {{ja-r|所得|しょとく}}\n* {{ja-r|所得税|しょとくぜい}}\n* {{ja-r|所有物|しょゆうぶつ}}\n* {{ja-r|所有者|しょゆうしゃ}}\n* {{ja-r|所有|しょゆう}}\n* {{ja-r|所有権|しょゆうけん}}\n* {{ja-r|所謂|いわゆる}}\n* {{ja-r|適材適所|てきざいてきしょ}}\n* {{ja-r|場所|ばしょ}}\n* {{ja-r|所以|ゆえん}}\n* {{ja-r|所有制|しょゆうせい}}\n* {{ja-r|所有主|しょゆうぬし}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|しょ}}\n\nFrom {{bor|ja|ltc|sort=しょ|-}} {{ltc-l|所}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|しょ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|しょ}}\n\n# [[place]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|しょ}}\n\n# [[place]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|市%役%所|し%やく%しょ}}: [[city hall]] (literally, \"'''place''' where city duties happen\")\n* {{ja-r|事%務%所|じ%む%しょ}}: [[office]] (literally, \"'''place''' where business duties happen\")\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|ところ}}\n\n{{IPAfont|⟨to<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>⟩}} → {{IPAchar|/tokoro/}}\n\nFrom {{inh|ja|ojp|sort=ところ|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>  Found in the ''{{w|Man'yōshū}}'' (c. 759 CE).<ref>{{RQ:Manyoshu|19|4288}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man19Yo.html#4288 here]</ref>\n\nA surface analysis suggests that this could be an ancient compound of {{IPAfont|⟨to<sub>2</sub>}} (“place”, as in {{m|ja|跡}} {{IPAfont|⟨ato<sub>2</sub>⟩}}, “footprint, track”, from “foot '''place''', where one has stepped”) + {{IPAfont|⟨ko<sub>2</sub>⟩}} (noun-forming suffixing element denoting “place”, as in {{m|ja|ここ}} {{IPAfont|⟨ko<sub>2</sub>ko<sub>2</sub>⟩}}, “here”, from “this '''place'''”) + {{IPAfont|⟨ro<sub>2</sub>⟩}} (noun-forming suffixing element, apparently indicating within a general area, possibly as in {{m|ja|心}} {{IPAfont|⟨ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>⟩}}, “heart, mind, emotions”, {{m|ja|頃}} {{IPAfont|⟨ko<sub>2</sub>ro<sub>2</sub>⟩}}, “general span of time, around a certain time”、{{m|ja|うつろ}} {{IPAfont|⟨uturo<sub>2</sub>⟩}}, “hollowness, empty interior”).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ところ|acc=0|acc_ref=DJR,NHK,SMK5|acc2=3|acc2_ref=NHK,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|処}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ところ}}\n\n# a [[place]], a [[scene]], a [[site]]; an [[address]]\n#: {{ja-usex|遠い'''所'''に行ってみたい。|とおい '''ところ''' に いって みたい。|I want to go to a '''faraway''' place.}}\n#: {{ja-usex|あの窓の'''ところ'''にいる人は誰？|あの まど の '''ところ''' に いる ひと は だれ？|Who is the person by that window?}}\n#: {{ja-usex|嫌な'''ところ'''を直す|いや な '''ところ''' を なおす|to change the unpleasant '''part/aspect''' (of one's personality)}}\n# a state of being\n## {{lb|ja|after a plain verb}} [[about to]]\n##: {{ja-usex|映%画を見に行く'''ところ'''だった。|えい%が を み に いく '''ところ''' だった。|I was '''about to''' go to a movie.}}\n## {{lb|ja|after a verb in the past tense}} [[just]]\n##: {{ja-usex|駅に着いた'''ところ'''です。|えき に ついた '''ところ''' です。|I '''just''' arrived at the station.}}\n## {{lb|ja|after a verb in the progressive ている}} {{non-gloss definition|indicates the current state, or how you have progressed so far in a chain of actions}}\n##: {{ja-usex|今、敬%語を勉%強している'''ところ'''です。|いま、けい%ご を べん%きょう して いる '''ところ''' です。|I'm now learning polite language.|ref=[https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1442454474]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|所で|ところ で}}: [[by the way]], [[incidentally]]\n* {{ja-r|所々|ところどころ}}, {{ja-r|所所|ところどころ}}, {{ja-r|処々|ところどころ}}, {{ja-r|処処|ところどころ}}: [[here and there]]\n* {{ja-r|所へ|ところ へ}}: [[thereupon]]\n* {{ja-r|所もある|ところ も ある}}: some, sometimes\n* {{ja-r|国%所|くに%ところ}}: [[country]] of [[birth]], [[birthplace]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|とこ}}\n\nListed in some sources as an abbreviation of ''tokoro'' above.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>  However, this is also listed as cognate with {{m|ja|床||tr=toko|raised area; bed}},<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> which term already appears in use as far back as the ''{{w|Man'yōshū}}'' (c. 759 CE), one of the oldest Japanese texts.<ref>{{RQ:Manyoshu|14|3554}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3554 here]</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|とこ|acc=2|acc_ref=DJR,SMK5|acc2=0|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|処}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とこ}}\n\n# {{lb|ja|sort=とこ|informal|spoken}} {{n-g|see the senses for '''tokoro''' above}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The ''toko'' reading in modern Japanese is regarded as the informal and spoken version of ''tokoro'' above."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|と}}\n\n{{IPAfont|⟨to<sub>2</sub>⟩}} → {{IPAchar|/to/}}\n\nFrom {{inh|ja|ojp|sort=と|-}}.  Appears mainly as an affixing element indicating place, as in {{m|ja|後||tr=ato|after; behind; the back of something}}, from {{m|ja|跡||tr=ato|footprint, track}}, itself a compound of {{m|ja|足||tr=a|foot}} + {{m|ja|所||tr=to|place}}; or in {{m|ja|留まる||tr=todomaru|to stop in a place}}.\n\nIn modern Japanese references,<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> there are various compound terms ending in ''-to'' or ''-do'' that are spelled and / or described as deriving from this {{m|ja|所||tr=to|place}}, including {{m|ja|隈所||tr=kumato|a bent and twisted place, such as a tunnel, out of sight}}, {{m|ja|立ち所||tr=tachido|standing place}}, {{m|ja|竈||tr=kamado|kiln}}.  However, an historical analysis reveals that many of these terms do not derive from {{m|ja|所}}, {{m|ja|処}} {{IPAfont|⟨to<sub>2</sub>⟩}} “place”, but rather from {{m|ja|戸}}, {{m|ja|門}} {{IPAfont|⟨to<sub>1</sub>⟩}} “gate, door, place of entry and exit”.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|と}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|処}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|と}}\n\n# [[place]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|後|あと}}: after; behind; the back of something\n* {{ja-r|跡|あと}}: footprint, track; scar\n* {{ja-r|留まる|とどまる}}: to stop in a place\n* {{ja-r|留める|とどめる}}: to stop something in a place\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{attention|ja|This entire entry needs quite a bit of expansion and reorganization.}}\n\n[[Category:Japanese basic words]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

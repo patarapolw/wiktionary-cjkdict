@@ -1,0 +1,51 @@
+{
+  "title": "蓋",
+  "ns": 0,
+  "id": 25373,
+  "timestamp": 1538276786000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|盖}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸10}}\n\n# [[cover]]\n# [[lid]]\n# [[flap]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かい, ごう\n|kanon=かい, こう\n|kanyoon=がい\n|kun=ふた-, けだ-し, おお-う, かさ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|膝蓋|しつがい}}: [[patella]], [[kneecap]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ふた|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふた|フタ}}\n\n# [[lid]]; [[cap]]; [[cover]]\n#: {{ja-usex-inline|箱の'''ふた'''|はこ の '''ふた'''|box '''lid'''}}\n#: {{ja-usex-inline|ビンの'''蓋'''|ビン の '''ふた'''|'''cap''' of a bottle}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

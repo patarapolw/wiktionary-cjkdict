@@ -1,0 +1,76 @@
+{
+  "title": "因",
+  "ns": 0,
+  "id": 12891,
+  "timestamp": 1552399634000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|囙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=囗03}}\n\n# because; cause",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いん\n|kanon=いん\n|kun=よ-る, ちな-む, よって\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いん|yomi=on}}\nFrom {{der|ja|ltc|sort=いん|-}} {{ltc-l|因}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いん|acc=1|acc_ref=DJR|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いん}}\n\n# [[cause]]; [[reason]]\n# [[follow]]; be [[based]] on"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いん}}\n\n# [[cause]]; [[reason]]; [[factor]]\n# {{lb|ja|Buddhism}} {{rfdef|ja}}\n# {{lb|ja|Indian logic}} {{rfdef|ja}}\n# {{surname|lang=ja|sort=いん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|もと|yomi=k}}\n{{ja-see|もと}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|ちな|o1=み|yomi=k}}\n{{ja-see|ちなみ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|よすが|yomi=k}}\n{{ja-see|よすが}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

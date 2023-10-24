@@ -1,0 +1,44 @@
+{
+  "title": "焙",
+  "ns": 0,
+  "id": 20002,
+  "timestamp": 1506219503000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bèi,fèn\n|c=bui6\n|mn=pōe/qz:pēr/tw,xm:pē\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|預焙|焙藥|焙粉|焙煎|焙燒窯|焙燒爐|焙燒|焙烤|焙火爐|焙果|焙乾|焙製|烘焙箱|烘焙店|烘焙|炭焙}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

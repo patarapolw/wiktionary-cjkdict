@@ -1,0 +1,39 @@
+{
+  "title": "溍",
+  "ns": 0,
+  "id": 19266,
+  "timestamp": 1528390457000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Due to {{w|Han unification}}, both {{w|Traditional Chinese|traditional}} and {{w|Simplified Chinese|simplified form}} (containing {{l|mul|晉}} and {{l|mul|晋}} respectively) are encoded under the same [[code point]]. Depending on the font installed, this character may appear to be either <font size=4.5, lang=\"zh-hant\">溍</font> or <font size=4.5, lang=\"zh-hans\">溍</font>."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=10|sn=13|four=31161|canj=EMCA,EMIA|ids=⿰氵晋(G),⿰氵晉(HTJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0639.120|dkj=17922|dj=1046.050|hdz=31697.050|uh=6E8D}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

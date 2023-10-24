@@ -1,0 +1,148 @@
+{
+  "title": "柚",
+  "ns": 0,
+  "id": 17443,
+  "timestamp": 1510502186000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木05}}\n\n# [[citron]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じく<ぢく, ゆ\n|kanon=ちく, ゆう<いう\n|kun=ゆず-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|晩%白%柚|バン%ペイ%ユ|{{w|banpeiyu}}}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ゆ|yomi=o}}\nFrom {{der|ja|ltc|sort=ゆ|-}} {{ltc-l|柚|id=1}}. The ''{{ll|ja|呉音|goon}}'' pronunciation, so likely an earlier borrowing.\n\nFound in the ''{{w|Wamyō Ruijushō}}'':<ref name=DJR>{{R:Daijirin}}</ref>\n\n:{{lang|ja|'''柚'''　爾雅集注云柚（音由又以臰反）一名樤（音條和名'''由'''）...}}\n\nwhere {{ja-l|由}} is the ''{{w|man'yōgana}}'' form of {{ja-l|ゆ}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=go|ゆ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ゆ}}\n\n# {{lb|ja|possibly|_|obsolete|sort=ゆ}} [[yuzu]] (''{{w|Citrus junos}}'')",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|柚餅子|ゆべし}}\n* {{ja-r|柚%味噌|ゆ%みそ}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ゆ}}\n\n# {{surname|lang=ja|sort=ゆ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ゆう|yomi=o}}\n{{IPAchar|/iu/}} → {{IPAchar|/juː/}}\n\nProbably from {{der|ja|ltc|sort=ゆう|-}} {{ltc-l|柚|id=1}}. The ''{{ll|ja|漢音|kan'on}}'' pronunciation, so likely a later borrowing. {{rfv-etymology|ja}}\n\nFound in the ''{{w|Wakan Sansai Zue}}''.<ref name=DJR>{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=kan|ゆう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ゆう|hhira=いう}}\n\n# {{lb|ja|possibly|_|obsolete|sort=ゆう}} [[yuzu]] (''{{w|Citrus junos}}'')",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|柚%香%菊|ユウ%カ%-ギク}}\n* {{ja-r|柚%香%焼|ゆう%か%やき|rom=}}, {{ja-r|柚%香%焼き|ゆう%か%やき|[[citrus]]-[[grill]]ed}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ゆう}}\n\n# {{given name|lang=ja|female|sort=ゆう}}\n# {{surname|lang=ja|sort=ゆう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{wp|lang=ja|ユズ}}\n{{ja-kanjitab|ゆず|yomi=k}}\nProbably a borrowing from {{bor|ja|cmn|柚子|tr=yòuzi|sort=ゆす}}. {{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|ゆず|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ゆず|ユズ}}\n\n# {{altspelling|lang=ja|柚子||[[yuzu]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "* {{U:ja:biology}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|柚%茶|ゆず%ちゃ}}\n* {{ja-r|柚坊|ゆずぼう|{{w|swallowtail butterfly}} [[larva]]|pos=pest of citrus plants}}\n* {{ja-r|柚%味噌|ゆず%みそ}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ゆず}}\n\n# {{given name|lang=ja|female|sort=ゆず}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "Other various nanori readings.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ゆい}}\n\n# {{given name|lang=ja|female|sort=ゆ}}\n\n{{ja-pos|proper|ゆざき}}\n\n# {{surname|lang=ja|sort=ゆさき}}\n\n{{ja-pos|proper|ゆずさき}}\n\n# {{surname|lang=ja|sort=ゆすさき}}\n\n{{ja-pos|proper|ゆに}}\n\n# {{given name|lang=ja|female|sort=ゆに}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "頸",
+  "ns": 0,
+  "id": 31161,
+  "timestamp": 1552080404000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|颈}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=頁07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう, ぎょう\n|kanon=けい\n|kun=くび-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くび}}\n\n# {{alternative form of|首|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

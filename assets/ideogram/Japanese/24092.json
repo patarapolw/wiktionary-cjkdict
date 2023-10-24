@@ -1,0 +1,92 @@
+{
+  "title": "者",
+  "ns": 0,
+  "id": 24092,
+  "timestamp": 1553052891000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA5B}}\n{{character info|0xFAB2}}\n{{character info|0x2F97A}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|者|k=y|pic2=者 kyuujitai.PNG}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=老04|kyu=&#xfa5b;}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃ\n|kanon=しゃ\n|kun=もの-\n|nanori=ひさ, ひと\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|もの|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|もの|acc=o|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|もの}}\n\n# [[person]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|人|ひと}}\n* {{ja-r|人|じん}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der2|lang=ja\n|{{ja-r|裏%切り者|うら%ぎりもの}}: [[traitor]]; [[betrayer]]; [[turncoat]]\n|{{ja-r|臆%病%者|おく%びょう%もの}}: [[coward]]\n|{{ja-r|人%気%者|にん%き%もの}}: [[popular]] person\n|{{ja-r|若%者|わか%もの}}: [[youth]]; [[youngster]]\n|{{ja-r|悪%者|わる%もの}}: [[rascal]], [[bad]] [[fellow]]\n}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しゃ|yomi=o}}\nFrom {{der|ja|ltc|sort=しゃ|-}} {{ltc-l|者}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|しゃ|y=o}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|しゃ|suffix}}\n\n# [[someone]] of that [[type]], someone who does [[that]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der2|lang=ja\n|{{ja-r|愛国者|あいこくしゃ}}: [[patriot]]\n|{{ja-r|愛読者|あいどくしゃ}}: [[avid]] [[reader]], [[book]] [[lover]]\n|{{ja-r|医者|いしゃ}}: [[doctor]]\n|{{ja-r|患者|かんじゃ}}: [[patient]]\n|{{ja-r|学者|がくしゃ}}: [[scholar]]\n|{{ja-r|記者|きしゃ}}: [[reporter]]; [[journalist]]\n|{{ja-r|芸者|げいしゃ}}, {{ja-r|芸者|げいじゃ}}: [[geisha]]\n|{{ja-r|作者|さくしゃ}}: [[author]]; [[creator]] of a [[work]]\n|{{ja-r|新聞記者|しんぶん きしゃ}}: [[journalist]]\n|{{ja-r|担当者|たんとうしゃ}}: person [[in charge]]\n|{{ja-r|著者|ちょしゃ}}: [[author]]\n|{{ja-r|忍者|にんじゃ}}: [[ninja]]\n|{{ja-r|配偶者|はいぐうしゃ}}: [[spouse]]\n|{{ja-r|歯医者|はいしゃ}}: [[dentist]]\n|{{ja-r|被害者|ひがいしゃ}}: [[victim]]\n|{{ja-r|利用者|りようしゃ}}: [[consumer]]\n}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|家|-や}}\n* {{ja-r|手|-しゅ}}\n* {{suffixsee|ja}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

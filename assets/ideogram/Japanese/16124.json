@@ -1,0 +1,44 @@
+{
+  "title": "拠",
+  "ns": 0,
+  "id": 16124,
+  "timestamp": 1547088305000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|拠|據}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手05|kyu=據}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こ\n|kanon=きょ\n|kun=よ-る, よりどころ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|証%拠|しょ%うこ}}\n* {{ja-r|根%拠|こん%きょ}}\n* {{ja-r|拠%点|きょ%てん}}\n{{mid3}}\n* {{ja-r|人%証|にん%しょう}}\n* {{ja-r|人%的%証%拠|じん%てき%しょう%こ}}\n* {{ja-r|物%的%証%拠|ぶっ%てき%しょう%こ}}\n{{mid3}}\n* {{ja-r|物%証|ぶっ%しょう}}\n* {{ja-r|準%拠|じゅん%きょ}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|よりどころ}}\n\n# {{alternative form of|拠り所|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

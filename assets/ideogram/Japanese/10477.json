@@ -1,0 +1,34 @@
+{
+  "title": "乪",
+  "ns": 0,
+  "id": 10477,
+  "timestamp": 1525160424000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{attention|ja|This kanji is not part of the JIS x 213:2004 standard, and does not appear to be used in Japanese, despite it's inclusion in Dai Kanwa Jiten.}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=乙05}}\n\n# {{defn|lang=ja|sort=乙05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=のう<なう\n|kanon=どう<だう\n|kun=くま-\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

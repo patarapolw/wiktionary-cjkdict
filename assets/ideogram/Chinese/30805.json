@@ -1,0 +1,90 @@
+{
+  "title": "雩",
+  "ns": 0,
+  "id": 30805,
+  "timestamp": 1553570605000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|雨|于|ls=psc|c1=s|c2=p|t1=rain}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=𩁹,𦏻,𦏴}}\nA {{zh-l|平聲}} noun derived from {{och-l|雨|to rain|id=1}}, possibly through [[back-formation]] ({{zh-ref|Schuessler, 2007}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yú\n|c=jyu4\n|w=3hhy\n|mc=1\n|oc=1,2\n|ma=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|historical}} [[sacrifice]] with [[prayer]] and [[dance]] for [[rain]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|雩祀|雩壇|雩山|雩祭|雩帝|舞雩|雩都}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}\nPreserved in many modern Wu dialects, as well as a few neighbouring Huizhou and Jianghuai Mandarin dialects, as {{zh-l|*鱟}} ({{zh-ref|Xiang, 2014}}).\n\n{{etystub|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yù\n|ma=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[rainbow]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|虹}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xū\n|mc=2\n|oc=n,1\n|ma=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|雩婁}}\n\n{{zh-cat|Religion}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

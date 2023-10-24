@@ -1,0 +1,49 @@
+{
+  "title": "蹛",
+  "ns": 0,
+  "id": 28083,
+  "timestamp": 1552283356000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dài,zhì\n|c=zai6,daai3\n|h=\n|md=\n|mn=tòa\n|w=\n|mc=y\n|oc=y\n|cat=prep\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Min Nan}} to [[reside]]\n#: {{zh-x|你 蹛 佗位？|tr=Lí '''tòa''' tó-ūi?|Where do you '''live''' at? (Mandarin: {{lang|zh|你'''住'''在哪裡？}})|MN}}\n# {{lb|zh|Min Nan}} in, at",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{qualifier|Mandarin}} {{zh-l|在}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|蹛林|蹛財}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

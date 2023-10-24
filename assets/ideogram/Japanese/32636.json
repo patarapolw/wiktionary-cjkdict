@@ -1,0 +1,71 @@
+{
+  "title": "鵲",
+  "ns": 0,
+  "id": 32636,
+  "timestamp": 1540738586000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鹊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥08}}\n\n# [[Eurasian magpie]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さく\n|kanyoon=じゃく<じやく\n|kanon=しゃく<しやく\n|kun=かささぎ-}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鵲豆|ふじまめ|[[hyacinth]] [[bean]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja|カササギ}}\n{{ja-kanjitab|かささぎ|yomi=k}}\nLikely from {{inh|ja|ojp|sort=かささき|-}}.\n\nDerivation {{unk|ja|nocap=y}}.\n* May be derived from Proto-Altaic, as seen in {{cog|ko|까치|tr=kkachi||[[magpie]]}} and {{cog|tr|saksağan||[[magpie]]}}, all derived from [[onomatopoeia]]. This is problematic because there is little evidence of differing elisions of ''k-'' and ''s-'' in the language family.\n* Alternatively, a compound of {{m|ja|カラ|tr=kara||[[caw]]|pos=onomatopoeia, seen in {{m|ja|烏|tr=karasu||[[crow]]}}}} + {{m|ja|鷦鷯|tr=sasagi||[[wren]]|pos=obsolete}}.\n\n{{rfv-etymology|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=0|acc2=2|かささぎ|y=k|acc_ref=NHK,DJR,SMK5|acc2_ref=SMK5}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かささぎ|カササギ}}\n\n# a [[Eurasian magpie]] (''[[Pica pica]]'')\n#* '''1205''', ''{{w|Shin Kokin Wakashū}}'' (book 5 poem 522), text [http://jti.lib.virginia.edu/japanese/shinkokinshu/Ano05Sh.html#522 here]\n#*: {{ja-usex|'''かささぎ'''の[[雲の梯|雲のかけはし]][[秋]]%[[暮れる|暮れて]][[夜半]]には[[霜]]や[[冴え渡る|さえわたる]]らむ|'''かささぎ''' の くも の かけはし あき% くれ て よは に は しも や さえ-わたるらむ|rom='''kasasagi''' no kumo no kakehashi aki kurete yowa ni wa shimo ya sae-wataruran|To the bridge of clouds over-spanned by '''magpie''' wings comes autumn's close: for at midnight the frost spreads a chill throughout the sky.<ref>{{cite-book|1991|Steven D. Carter|Traditional Japanese Poetry: An Anthology|edition=illustrated|publisher=Stanford University Press|isbn=0-8047-2212-9|page=186}}</ref>|sort=かささき}}\n#: '''1205''', ''{{w|Shin Kokin Wakashū}}'' (book 6 poem 620), text [http://jti.lib.virginia.edu/japanese/shinkokinshu/Ano06Sh.html#620 here] (also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 6)\n#:: {{ja-usex|'''かささぎ'''の[[鵲の橋|渡せる橋]]に[[置く|おく]]霜の[[白い|白き]]を[[見る|見れ]]ば[[夜]]ぞ[[更ける|ふけ]]にける|'''かささぎ''' の わたせる はし に おく しも の しろき を みれば よ ぞ ふけ に ける|When I see the whiteness of the frost that lies on the bridge the '''magpies''' spread, then do I know, indeed, that the night has deepened.<ref>{{cite-book|1996|Joshua S. Mostow|Pictures of the Heart: The Hyakunin Isshu in Word and Image|edition=illustrated|publisher=University of Hawaii Press|isbn=0-8248-1705-2|page=158}}</ref>|sort=かささき}}\n# {{lb|ja|archaic|possibly|_|obsolete|sort=}} a kind of [[heron]], now likely referred to as {{m|ja|蒼鷺|tr=aosagi||[[grey heron]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|鵲の橋|かささぎ の はし|Magpie-Bridge|pos=[[Tanabata]] element}}\n* {{ja-r|鵲%雁|カササギ%ガン|[[magpie-goose]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|かささぎ}}\n\n# {{surname|lang=ja|A=a|sort=かささき}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{topics|ja|Corvids|sort=かささぎ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

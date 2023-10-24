@@ -1,0 +1,39 @@
+{
+  "title": "鮹",
+  "ns": 0,
+  "id": 32160,
+  "timestamp": 1538070747000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[file:Octopus vulgaris2.jpg|thumb|right|200px|鮹(tako)]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚07}}\n\n# {{defn|lang=ja|sort=魚07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<せう\n|kanon=しょう<せう, そう<さう\n|kun=たこ-\n}}\n\n{{ja-kanjitab|たこ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たこ|タコ}}\n\n# {{alternative spelling of|蛸|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

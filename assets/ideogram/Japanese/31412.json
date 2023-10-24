@@ -1,0 +1,153 @@
+{
+  "title": "館",
+  "ns": 0,
+  "id": 31412,
+  "timestamp": 1554088770000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|舘|馆}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{attention|ja|Dog's breakfast. Needs reworking + expansion.}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=食08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かん<くわん\n|kanon=かん<くわん\n|kun=やかた-, たて-, たち-, むろつみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|やかた}}\n\nCompound of {{compound|ja|sort=やかた|屋|tr1=ya|t1=house, hut, structure|形|tr2=kata|t2=shape, form}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|やかた|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|屋形}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|やかた}}\n\n# a [[roofed]] [[structure]] on a [[boat]], shaped like a [[house]]\n# a [[house]]-shaped structure on a [[cart]], such as a [[caravan]]\n# a [[temporary]] [[house]], a temporary [[shelter]]\n# a [[mansion]], a [[manor]] [[house]], an [[estate]]\n# {{lb|ja|sort=やかた|honorific|archaic}} a form of address or reference for a [[noble]]\n# {{clipping of|lang=ja|sort=やかた|屋形船|nodot=1}} (''yakata-bune''): a [[houseboat]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{der-top|Synonyms}}\n* {{sense|structure on a boat}} {{ja-r|船%屋%形|ふね%や%かた}}\n* {{sense|temporary house}} {{ja-r|仮%屋|かり%や}}, {{ja-r|寓%居|ぐう%きょ}}\n* {{sense|mansion, manor}} {{ja-r|邸%宅|てい%たく}}, {{lang|ja|館}} (''tate'', ''tachi'' - see above)\n* {{sense|honorific}} {{lang|ja|館}} (''tate'', ''tachi'' - see above)\n* {{sense|houseboat}} {{ja-r|屋%形船|や%かた-ぶね}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|たて}}\n\nLikely derived as the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} ''tate'' of verb {{m|ja|建てる|tr=tateru||to erect a structure}}, in turn from the verb {{m|ja|立つ|tr=tatsu||to stand, to stand up}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>\n\nThe reading ''tate'' is most common in eastern Japan, correlating to the ''tachi'' reading in western Japan.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|たて|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たて}}\n\n# a large [[building]]\n# a [[mansion]], a [[villa]], an [[estate]]\n# {{lb|ja|sort=たて|honorific|archaic}} a form of address or reference for a [[noble]]\n# a small [[castle]] or [[fort]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|たち}}\n\nLikely derived as the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} ''tachi'' of verb {{m|ja|立つ|tr=tatsu||to stand, to stand up}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> Alternatively, may be a shift in pronunciation from ''tate'' above.\n\nThe reading ''tachi'' is most common in western Japan, correlating to the ''tate'' reading in eastern Japan.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|たち}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たち}}\n\n# a large [[building]]\n# a [[mansion]], a [[villa]], an [[estate]]\n# {{lb|ja|sort=たち|honorific|archaic}} a form of address or reference for a [[noble]]\n# a small [[castle]] or [[fort]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=o|かん}}\n\n{{IPAchar|/kwan/}} → {{IPAchar|/kan/}}\n\nFrom {{bor|ja|ltc|sort=かん|-}} {{ltc-l|館|house; lodge; residence; premises}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|かん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かん|hhira=くわん}}\n\n# a large [[building]]\n# a [[mansion]], a [[villa]], an [[estate]]\n# a [[movie]] [[theatre]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|かん|hhira=くわん}}\n\n# a [[hall]], a [[building]], a section of a building, a [[house]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|図%書%館|と%しょ%かん}}: a [[library]]\n* {{ja-r|博%物%館|はく%ぶつ%かん}}: a [[museum]]\n* {{ja-r|美%術%館|び%じゅつ%かん}}: an [[art gallery]]\n* {{ja-r|旅%館|りょ%かん}}: a [[traditional]] [[Japanese]] [[inn]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=k|むろつみ}}\n\nCompound of {{compound|ja|sort=むろつみ|室|tr1=muro|t1=cellar; room|積み|tr2=tsumi|t2=piling up, heaping up, stacking up|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|積む}} ''tsumu'', “to pile, heap, or stack up”}},<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> possibly in reference to the way that the oldest such buildings may have started out as simple [[pithouse]]s.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|むろつみ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|室積}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|むろつみ}}\n\n# {{lb|ja|sort=むろつみ|rare|archaic}} [[lodging]]s along a [[stagecoach]] [[route]], an [[inn]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

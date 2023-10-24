@@ -1,0 +1,95 @@
+{
+  "title": "鰊",
+  "ns": 0,
+  "id": 32240,
+  "timestamp": 1531836583000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[file:Clupea pallasii by OpenCage.jpg|thumb|right|200px|鰊(nishin)]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚09}}\n# [[herring]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れん\n|kanon=れん\n|kun=にしん-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|かど|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|かど|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かど|カド}}\n\n# {{lb|ja|chiefly|_|Tohōku}} [[Pacific herring]] (''Clupea pallasii'')"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|かずの子|かずのこ|rom=-}}, {{ja-r|数の子|かずのこ|rom=-}}, {{ja-r|鯑|カズノコ|[[herring]] [[roe]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|にしん|yomi=k}}\nUncertain.\n* Probably from {{m|ja|[[ニ]][[親]]|tr=ni shin|pos=[[two]] + [[parent]], as in [[father]] and [[mother]]}}, due to the large number of herring offsprings.\n* Can also be from {{m|ja|[[煮]][[渋]]|tr=ni shibu|pos=[[boil]](ed dish) + [[bitter]]}}.\n* From {{m|ja|[[二]][[身]]|tr=ni shin|pos=[[two]] + [[body]]}}, from the way it is prepared before cooking.\n* It can also be from a clipping of {{m|ja|[[西]][[の]][[海]][[の]][[魚]]|tr='''nishi n'''o umi no uo|pos=literally, \"fish of the west seas\"}}.\n\n{{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鯡}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|にしん|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|にしん|ニシン}}\n\n# [[Pacific herring]] (''Clupea pallasii'')",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|鰊%粕|にしん%かす|[[dry|dried]] and [[press]]ed [[boil]]ed herring|pos=used as [[fertilizer]]}}\n* {{ja-r|鰊%曇り|にしん%-ぐもり}}\n* {{ja-r|鰊%蕎麦|にしん%-そば}}\n* {{ja-r|身%欠き鰊|み%かき にしん|dried, [[slice]]d herring}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            },
+            {
+              "level": 3,
+              "title": "Further reading",
+              "text": "* Etymology entry for {{m|ja||鰊}} at Gogen-Yurai Jiten (''Etymology and Origin Dictionary'', in Japanese): http://gogen-allguide.com/ni/nishin.html\n* Etymology entry for {{m|ja||鰊}} at All Fish Gyo (in Japanese): http://allfishgyo.com/486.html\n\n[[Category:ja:Fish|にしん]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

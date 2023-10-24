@@ -1,0 +1,44 @@
+{
+  "title": "汐",
+  "ns": 0,
+  "id": 18623,
+  "timestamp": 1508353584000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水03}}\n\n# [[eventide]]\n# [[tide]]\n# [[salt water]]\n# [[opportunity]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃく<じやく\n|kanon=せき\n|kun=うしお-<うしほ-, しお-<しおほ-\n|nanori=いそ, せい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Both {{ja-l|汐}} and {{ja-l|潮}} have the kun-readings of ''shio'' and ''ushio''. Archaically, {{ja-r|夕汐|ゆうしお}} was used to mean tides during the night, and {{ja-r|朝潮|あさしお}} was used for tides in the morning. For tides at any time of day, the compound ''chōseki'' may be used, below."
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|潮%汐|ちょう%せき|[[tide]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

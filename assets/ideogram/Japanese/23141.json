@@ -1,0 +1,76 @@
+{
+  "title": "粽",
+  "ns": 0,
+  "id": 23141,
+  "timestamp": 1543780722000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|糉|糭}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{Wikipedia|lang=ja}}\n{{Wikipedia|Chimaki}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=米08}}\n\n# [[rice]] [[dumpling]]s [[steam]]ed in [[bamboo]] [[leaf|leaves]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す, すう\n|kanon=そう\n|kun=ちまき-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{wp|lang=ja|ちまき}}\n{{ja-kanjitab|ちまき|yomi=k}}\n\n* {{ja-l|茅巻}}, {{ja-l|茅巻き}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Compound of {{ja-compound|茅|ち|巻|まき|pos1=short for ''chigaya'', \"[[cogon]]\"|t2=[[wrapping]]|sort=ちまき}}.\n\nOriginally, [[rice cake]]s were [[wrap]]ped in [[leaf|leaves]] from cogon [[grass]].<ref name=\"DJS\">{{R:Daijisen}}</ref><ref name=\"DJR\"/>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|ちまき|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ちまき}}\n\n# a [[rice]] [[rice cake|cake]] or [[dumpling]] [[wrap]]ped in [[bamboo]] [[leaf|leaves]]\n# [[zongzi]]\n#: {{syn|ja|[[中国]]粽|tr=Chūgoku-jimaki}}\n# {{lb|ja|Buddhism|architecture|sort=ちまき}} {{short for|lang=ja|粽形|tr=chimaki-gata|nodot=1|sort=ちまき}}: a [[Zen]]-[[style]] [[pillar]] with [[round]]ed [[edge]]s on the [[top]] and [[bottom]] parts {{defdate|since {{w|Kamakura period}}}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|粽 馬|ちまき うま}}\n* {{ja-r|粽%形|ちまき%‐がた}}\n* {{ja-r|粽%草|チマキ%グサ}}\n* {{ja-r|粽%笹|チマキ%-ザサ}}\n* {{ja-r|飴 粽|あめ ちまき}}, {{ja-r|飴%粽|あめ%-ぢまき}}\n* {{ja-r|飾り 粽|かざり ちまき}}\n* {{ja-r|葛 粽|くず ちまき}}\n* {{ja-r|笹 粽|ささ ちまき}}\n* {{ja-r|水仙 粽|すいせん ちまき}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|端午の節句|^たんご の ^せっく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ちまき}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=ちまき}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

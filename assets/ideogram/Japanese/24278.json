@@ -1,0 +1,54 @@
+{
+  "title": "育",
+  "ns": 0,
+  "id": 24278,
+  "timestamp": 1553052432000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|毓}}\n{{character info/new}}\n{{character info|0x2F982}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=肉04}}\n\n# {{defn|lang=ja|sort=肉04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いく\n|kanon=いく\n|kun=そだ-てる, はぐく-む, そだ-つ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|教%育|きょう%いく}}: education"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いく|yomi=on}}\nFrom {{der|ja|ltc|sort=いく|-}} {{ltc-l|育}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|いく|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|いく}}\n\n# [[raise]]; [[bring up]]; [[grow up]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

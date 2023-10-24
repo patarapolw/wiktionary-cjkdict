@@ -1,0 +1,134 @@
+{
+  "title": "箏",
+  "ns": 0,
+  "id": 22813,
+  "timestamp": 1552876102000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|筝|琴}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹08}}\n\n# [[zither]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=そう<さう\n|kun=こと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|古箏|こそう|[[guzheng]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|箏}}\n{{wp|Koto (musical instrument)}}\n</div>\n{{ja-kanjitab|yomi=k|こと}}\n\n{{IPAfont|⟨ko<sub>2</sub>to<sub>2</sub>⟩}} → *{{IPAchar|/kətə/}} → {{IPAchar|/koto/}}\n\nFrom {{inh|ja|ojp|sort=こと|-}}, attested in the three major literature works of the {{w|Nara period}}: the ''{{w|Kojiki}}'' (712 {{CE}}), the ''{{w|Nihon Shoki}}'' (720 {{CE}}), and the ''{{w|Man'yōshū}}'' ({{circa2|759 {{CE}}|short=1}}).\n\nPossibly derived from a compound of elements {{compound|ja|木|tr1=ko|t1=[[tree]], [[wood]]|pos1=combining form|音|tr2=oto|t2=[[sound]]|nocat=1}}, with the additional medial ''o'' dropped by [[haplology]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|筝}}\n* {{s|Japanese zither}} {{ja-l|琴}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|こと|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こと}}\n\n# a ''[[koto]]'' {{gl|[[Japanese]] [[zither]]}}\n#* '''720''', ''{{w|Nihon Shoki}}'' (poem 41)\n#*: {{ja-usex|sort=こと|m=訶羅怒烏 之褒珥椰枳 之餓阿摩離 '''虚等'''珥莵句離 訶枳譬句椰 由羅能斗能 斗那訶能異句離珥 敷例多莵 那豆能紀能 佐椰佐椰|m_kana=からのを しほにやき しがあまり '''こと'''につくり かきひくや ゆらのとの となかのいくりに ふれたつ なづのきの さやさや|枯%野を塩に焼き其が余り'''こと'''に作り掻き弾くや由良の門の門%中のいくりに振れ立つなづの木のさやさや|から%の を しほ に やき し が あまり '''こと''' に つくり かきひく や ^ゆら-の-と の と%なか の いくり に ふれたつ なづ の き の さやさや|rom=Karano o shio ni yaki shi ga amari '''koto''' ni tsukuri kakihiku ya Yura-no-to no tonaka no ikuri ni furetatsu nazu no ki no sayasaya}}\n# {{lb|ja|sort=こと|colloquial}} a ''[[guzheng]]'', ''[[zheng]]'' {{gl|[[Chinese]] zither}}, where the ''koto'' was based on {{defdate|since after the {{w|Edo period}}}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|箏%糸|こと%いと}}\n* {{ja-r|箏%歌|こと%うた}}\n* {{ja-r|箏%柱|こと%じ}}\n* {{ja-r|箏%爪|こと%づめ}}\n* {{ja-r|琴の組|こと の くみ}}\n* {{ja-r|歌箏|うたごと}}\n* {{ja-r|楽%箏|がく%そう}}\n* {{ja-r|筑%紫%箏|^つく%し%ごと}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|古筝}}\n{{wp|Guzheng}}\n</div>\n{{ja-kanjitab|yomi=kanon|そう}}\n{{IPAchar|/sau/}} → {{IPAchar|/sɔː/}} → {{IPAchar|/soː/}}\n\nFrom {{bor|ja|ltc|sort=そう|-}} {{ltc-l|箏}}.\n\nThe ''{{ll|ja|漢音|kan'on}}''  reading, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|筝}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=ko|そう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そう|hhira=さう}}\n\n# a ''[[guzheng]]'', ''[[zheng]]'' {{gl|[[Chinese]] [[zither]]}}\n#: {{syn|ja|古箏|tr=kosō}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|箏%曲|そう%きょく}}\n* {{ja-r|箏の琴|そう の こと}}\n* {{ja-r|俗%箏|ぞく%そう}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|そう|hhira=さう}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=そう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=goon|しょう}}\n{{IPAchar|/ɕʲau/}} → {{IPAchar|/ɕɔː/}} → {{IPAchar|/ɕoː/}}\n\nAppears in the ''{{w|Iroha Jiruishō}}'' ({{circa2|mid-late 12th century|short=1}}).\n\nFrom {{bor|ja|ltc|-}} {{ltc-l|箏}}. The ''{{ll|ja|呉音|goon}}'' reading, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|筝}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しょう|hhira=しやう}}\n\n# {{lb|ja|sort=しよう|possibly|_|obsolete}} a ''[[guzheng]]'', ''[[zheng]]'' {{gl|[[Chinese]] [[zither]]}}, where the ''[[koto]]'' was based on"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|箏の琴|しょう の こと}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|琴|きん|[[guqin]], [[qin]]}}: a kind of ancient Chinese [[zither]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

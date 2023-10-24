@@ -1,0 +1,39 @@
+{
+  "title": "迅",
+  "ns": 0,
+  "id": 28608,
+  "timestamp": 1532882853000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=辵03}}\n\n# [[swift]]\n# [[fast]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅん, しん\n|kanon=しゅん, しん\n|kanyoon=じん\n|kun=はや-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|迅速|じんそく}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

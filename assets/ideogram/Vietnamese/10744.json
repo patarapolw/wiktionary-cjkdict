@@ -1,0 +1,39 @@
+{
+  "title": "位",
+  "ns": 0,
+  "id": 10744,
+  "timestamp": 1553920316000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[vị]], [[vì]]|rs=人05}}\n\n# {{defn|lang=vi|sort=人05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{l|vi|形位||hình vị}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=4f4d Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

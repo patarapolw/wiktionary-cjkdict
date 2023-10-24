@@ -1,0 +1,107 @@
+{
+  "title": "茄",
+  "ns": 0,
+  "id": 24883,
+  "timestamp": 1552272503000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{rfe|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=qié\n|c=ke4,ke4-2\n|h=pfs=khiò\n|md=giò\n|mn=kiô\n|mn-t=gio5/giê5\n|w=\n|mc=1\n|oc=1+2\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[eggplant]]; [[aubergine]]\n# {{lb|zh|Cantonese}} {{zh-short|番茄|tr=faan<sup>1</sup> ke<sup>4-2</sup>|[[tomato]]}}\n#: {{zh-x|車厘茄{ke4-2}|cherry '''tomato'''|C}}\n#: {{zh-x|茄{ke4-2} 蛋{daan6-2} 治|'''tomato''' and egg sandwich|C}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|茄子}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|番茄:tomato|茄子:eggplant|茄汁|茄瓜|東瓜茄子|番茄素|番茄醬|番茄炒蛋|茄酸|黃水茄|茄科|茄袋}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{desc|tai-pro|bor=1}}\n** {{desc|lo|ຫມາກເຂືອ}}\n** {{desc|shn|မၢၵ်ႇၶိူဝ်}}\n** {{desc|th|มะเขือ}}\n** {{desc|za|lwggwz}}, {{l|za|gwz}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jiā\n|c=gaa1\n|h=pfs=kâ\n|md=gă\n|mn=xm,qz,tw:ka/zz:kee\n|mn-t=gia1\n|w=\n|dial=n\n|mc=2\n|oc=3\n|cat=n,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[lotus]] [[stem]]\n# {{lb|zh|historical}} a state in modern [[Anhui]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|茄冬|紅茄苳|茄克|雪茄}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms|alt=𡲢}}\nCompare:\n* {{cog|sit-pro|*kləj}}: {{cog|zh|-}} {{och-l|屎|id=1}}, {{cog|my|ချေး}};\n* {{cog|tai-pro|*C̬.qɯjᶜ||excrement}}: {{cog|th|ขี้}}.\n\n{{zh-ref|Bauer (1996)}} does not consider this to be a loan from Tai.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=ke1\n|dial=n\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese|colloquial}} [[poop]]\n#: {{zh-x|屙茄{ke1}|to poop|C}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{zh-l|屎}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

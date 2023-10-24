@@ -1,0 +1,68 @@
+{
+  "title": "林",
+  "ns": 0,
+  "id": 17372,
+  "timestamp": 1551263299000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xf9f4}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=木04}}\n\n# [[woods]]; [[grove]]; [[forest]]; [[copse]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りん<りん<りむ\n|kanon=りん<りん<りむ\n|kun=はやし-, おお-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|林檎|りんご}}: [[apple]] (fruit, tree)\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はやし}}\n\n# [[woods]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|森|もり}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|はやし}}\n\n# {{surname|lang=ja}}\n# {{given name|female|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|りん}}\n\n# {{surname|lang=ja}}\n# {{lb|ja|rare}} {{given name|female|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "As a surname, this reading is more often used by people of Chinese ancestry, since it is similar to the Mandarin Chinese reading of Lín.\n\n[[Category:Japanese female given names|はやし]]\n[[Category:Japanese male given names|はやし]]\n[[Category:Japanese surnames|はやし]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "屶",
+  "ns": 0,
+  "id": 14407,
+  "timestamp": 1530854359000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=山02}}\n\n# ''Used in proper Japanese names.''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=なた-}}\n\n[[Category:Japanese-only CJKV Characters|山+02]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

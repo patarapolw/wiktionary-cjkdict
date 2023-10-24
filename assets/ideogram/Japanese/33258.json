@@ -1,0 +1,39 @@
+{
+  "title": "龠",
+  "ns": 0,
+  "id": 33258,
+  "timestamp": 1532266564000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=龠00}}\n\n# [[flute]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=やく\n|kanon=やく\n|kun=ふえ-}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|一龠|いちやく|a [[unit]] of [[volume]] equal to 1,200 [[millet]] [[grain]]s}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

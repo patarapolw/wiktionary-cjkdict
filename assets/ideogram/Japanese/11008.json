@@ -1,0 +1,46 @@
+{
+  "title": "個",
+  "ns": 0,
+  "id": 11008,
+  "timestamp": 1544890634000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|个}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=人08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か\n|kanon=か\n|toon=こ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|counter|こ}}\n\n# [[item]], [[article]], [[thing]]\n#: {{ja-usex|あの枝に桜ん坊が十二'''個'''だけあります。|あの えだ に さくらんぼ が じゅうに-'''こ''' だけ あります。|There are only twelve cherries on that branch.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This is the most generic counter in Japanese. It can be used to count just about anything."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

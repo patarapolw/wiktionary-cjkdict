@@ -1,0 +1,61 @@
+{
+  "title": "宋",
+  "ns": 0,
+  "id": 14134,
+  "timestamp": 1550599840000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=8|rs=宀04}}\n\n# [[Song]] ([[Chinese]] [[dynasty]])\n<!--# [[dwell]] -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=そ\n|kanon=そう\n|toon=そん\n|soon=そん\n<!--|kun=すまい-, お-る-->\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|屈%宋|^くっ%そう}}\n* {{ja-r|呂%宋|^ル%ソン|[[Luzon]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|そう|yomi=o}}\n\nFrom {{der|ja|ltc|sort=そう|-}} {{ltc-l|宋}}. {{rfv-etymology|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=kan|そう}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|そう}}\n\n# [[Song]] (former [[Chinese]] [[dynasty]]):\n## name of the state during the [[Zhou]] dynasty {{rfv-sense|ja}}\n## the {{m|ja|劉宋|tr=Ryūsō}}, around 420-479\n## the {{m|ja|北宋|tr=Hokusō||Northern Song}} and {{m|ja|南宋|tr=Nansō||Southern Song}} dynasties, spanning around 960-1279\n# {{surname|lang=ja|A=a|sort=そう}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|宋音|^そう-おん}}\n* {{ja-r|宋学|^そう-がく}}\n* {{ja-r|宋詞|^そう-し}}\n* {{ja-r|宋朝|^そう-ちょう}}\n* {{ja-r|入宋|にゅう-^そう}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

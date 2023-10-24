@@ -1,0 +1,49 @@
+{
+  "title": "多",
+  "ns": 0,
+  "id": 13491,
+  "timestamp": 1553314924000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|夛|𭐴}}\n{{character info/new}}\n{{character info|0x2F85D}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=夕03}}\n\n# [[many]], [[much]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja|section=Requesting verification of ''kun'' reading: まさ-る, まさ-に for 多}}\n{{ja-readings\n|goon=た\n|kanon=た\n|kun=おお-い, さわ<さは, まさ-る, まさ-に\n|nanori=まさる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|多分|たぶん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|多く|おおく}}\n* {{ja-r|多い|おおい}}\n\n[[Category:Han characters from which katakana were derived|タ]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|た|prefix}}\n\n# [[multi-]]\n#: {{ja-usex|'''多'''%言%語%辞%書|'''た'''%げん%ご%じ%しょ|'''multi'''lingual dictionary}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

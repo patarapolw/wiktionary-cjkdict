@@ -1,0 +1,39 @@
+{
+  "title": "餐",
+  "ns": 0,
+  "id": 31387,
+  "timestamp": 1538182123000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=184|rad=食|as=07|sn=16|four=27732|canj=YEOIV|ids=⿱𣦼食}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[爘]], [[𡄄]], [[𩽐]], [[𬆝]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1419.390|dkj=44160|dj=1944.150|hdz=74455.050|uh=9910|ud=39184|bh=C05C|bd=49244}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

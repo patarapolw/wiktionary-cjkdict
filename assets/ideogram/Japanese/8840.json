@@ -1,0 +1,117 @@
+{
+  "title": "刀",
+  "ns": 0,
+  "id": 8840,
+  "timestamp": 1552875813000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ㄉ|力}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wikipedia|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=刀00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=と, とう<たう\n|kanon=とう<たう\n|kun=かたな-\n|nanori=き, ち, わき\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds with irregular readings of {{lang|ja|刀}}}}\n* {{ja-r|薙刀|なぎなた}}: a traditional Japanese [[halberd]]\n* {{ja-r|太刀|たち}}: a traditional Japanese [[longsword]]\n* {{ja-r|馬刀貝|まてがい}}: a [[razor clam]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|かたな}}\nCompound of {{compound|ja|sort=かたな|片|t1=one side|tr1=kata|刃|t2=edge|tr2=na}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|acc=3|acc2=2|かたな}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かたな}}\n\n# {{lb|ja|sort=かたな|weapons}} a single-[[edge]]d [[sword]], such as a [[katana]]\n#* {{quote-book|||Vol.5\n|||date=Sep 23 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|[鎧](よろい)[武](む)[者](しゃ)ゾンビ}}\n|trans-chapter=Armored Musha Zombie}}\n#*: {{ja-usex|怨%念により蘇った武%者。闇%雲にふりまわす'''カタナ'''に注%意。|おん%ねん に より よみがえった む%しゃ。やみ%くも に ふりまわす '''カタナ''' に ちゅう%い。|A musha reanimated by deep hatred. Watch out when he brandishes his katana.}}\n# a small single-edged [[blade]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|small blade}} {{ja-r|切れ物|きれもの}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Coordinate terms",
+                      "text": "* {{ja-r|脇差|わきざし}} traditional Japanese [[shortsword]] (30cm to 60cm)\n* {{ja-r|短刀|たんとう}} traditional Japanese [[knife]] or [[dagger]] (30cm and shorter)\n* {{ja-r|大小|だいしょう}}: “big and small”: the ''katana'' and ''wakizashi'' as a [[set]]"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Related terms",
+                      "text": "* {{sense|sword, two-edged}} {{ja-r|剣|つるぎ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|刀%市|かたな% いち}}: a [[sword]] [[market]]\n* {{ja-r|刀%引|かたな%びき}}: [[giving]] a [[sword]] worn on one's hip to another as a [[gift]] at a [[banquet]] or other social [[gathering]]\n{{der-mid}}\n* {{ja-r|小%刀|こ%がたな}}: a small [[knife]], a [[penknife]], a [[pocketknife]], a [[jackknife]]\n* {{ja-r|腰%刀|こし%がたな}}: a hip-sword, smaller than a katana and with no {{m|ja|鍔|tr=tsuba||sword guard}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|刀 折れ 矢 尽きる|かたな おれ や つきる}}: “swords bent, out of arrows” → completely [[rout]]ed, a complete [[loss]] in [[battle]]\n* {{ja-r|刀 に 懸けて|かたな に かけて}}: “[depending, swearing] on one's sword” → a metaphor for [[firm]] [[resolve]] to see something through\n* {{ja-r|刀 の 錆び|かたな の さび}}: “sword [[rust]]” → a metaphor for killing someone or being killed, from the way that [[blood]] can cause the [[steel]] of a sword to rust; a [[derogatory]] term for someone who isn't even worth [[soil]]ing a sword\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|とう|yomi=o}}\nFrom {{etyl|ltc|ja|sort=とう}} {{m|ltc|刀|tr=taw}}. Compare modern {{cog|cmn|刀|tr=dāo}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|とう|acc=a|y=o}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とう|hhira=たう}}\n\n# a [[sword]], a [[katana]]\n# a [[scalpel]], such as that used by a [[surgeon]]\n# a kind of [[bronze]] or [[copper]] [[money]] in ancient China, shaped a bit like a [[sword]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|sword in general}} {{ja-r|刀剣|とうけん}}\n* {{sense|scalpel}} {{ja-r|メス|}}\n* {{sense|Chinese money}} {{ja-r|刀銭|とうせん|rom=-}}, {{ja-r|刀泉|とうせん}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n'''Terms beginning with {{lang|ja|刀}}:'''\n* {{ja-r|刀下|とうか}}: the [[underside]] or [[back]] of a [[blade]]\n* {{ja-r|刀架|とうか}}: a [[sword]] [[stand]]\n* {{ja-r|刀剣|とうけん}}: a [[sword]] in general, either single- or double-[[blade]]d\n* {{ja-r|刀工|とうこう}}: a [[swordsmith]]\n* {{ja-r|刀貨|とうせん}}: a kind of [[bronze]] or [[copper]] [[money]] in ancient China, shaped a bit like a [[sword]]\n{{der-mid}}\n'''Terms ending with {{lang|ja|刀}}:'''\n* {{ja-r|斬馬刀|ざんばとう}}: an especially large, curved sword\n* {{ja-r|小刀|しょうとう}}: a [[small]] [[knife]], [[short sword]]\n* {{ja-r|大刀|だいとう}}: a [[long sword]], a [[katana]]\n* {{ja-r|短刀|たんとう}}: a short sword\n* {{ja-r|直刀|ちょくとう}}: a straight sword\n* {{ja-r|日本刀|にほんとう}}: a [[katana]], a Japanese sword, a long sword with a single-edge\n* {{ja-r|木刀|ぼくとう}}: a [[wooden]] [[sword]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese words with multiple readings]]\n[[Category:ja:Swords]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

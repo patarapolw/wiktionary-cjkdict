@@ -1,0 +1,54 @@
+{
+  "title": "喺",
+  "ns": 0,
+  "id": 12581,
+  "timestamp": 1550195966000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=*o係-Internet,匸,𫪈}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|c=hai2\n|h=gd=hoi1/hoi4\n|cat=adv,prep,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}} {{tlb|zh|Cantonese}}\n\n# be ...[[-ing]]; in the middle of doing something {{gloss|indicating an action in progress}}\n# to [[exist]]; to [[be]] (located)\n#: {{zh-x|我 而家 喺 香港。|I am in Hong Kong now.|C}}\n# (located) [[in]]; [[at]]; [[within]]\n#: {{zh-x|喺 架 車 入便|inside the car|C}}\n# {{lb|zh|temporal}} [[in]]\n#: {{zh-x|喺 @2012|in 2012|C}}\n# [[within]]; [[in]]\n#: {{zh-x|喺 英文 度|within English|C}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|在}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Not to be confused with {{zh-l|係|hai6|to be}}.\n* While Mandarin {{zh-l|在}} can be used by itself as a verb ({{zh-l|[[他]][[現在]][[不]][[在]]}} \"he is not here right now\"), Cantonese must use {{zh-l|喺度}} ({{zh-l|[[佢]][[而家]][[唔]][[喺度]]}} \"he is not here right now\"). {{attention|zh|can this wording be improved?}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|喺處|喺度}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "裔",
+  "ns": 0,
+  "id": 26559,
+  "timestamp": 1551665766000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=衣07}}\n\n# [[descendant]]\n# [[border]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えい\n|kanon=えい\n|kun=すそ-, すえ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えい|yomi=on}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|裔}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えい|acc=1|acc_ref=DJR|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えい}}\n\n# [[descendant]]s; [[offspring]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えい}}\n\n# {{lb|ja|literary}} [[descendant]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|こはな|yomi=k}}\n{{ja-see|こはな}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

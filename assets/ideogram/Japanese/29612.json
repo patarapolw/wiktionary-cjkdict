@@ -1,0 +1,39 @@
+{
+  "title": "錐",
+  "ns": 0,
+  "id": 29612,
+  "timestamp": 1553570413000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|锥}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=すい\n|kanon=すい\n|kun=きり-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|すい|yomi=o}}\n{{ja-kanjitab|きり|yomi=k}}\n{{ja-noun|すい}}\n\n# {{lb|ja|geometry|sort=すい}} [[cone]], [[pyramid]]\n\n{{ja-noun|きり}}\n\n# [[drill]]\n\n[[Category:ja:Geometry|すい]]\n[[Category:ja:Mathematics|すい]]\n[[Category:ja:Shapes|すい]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

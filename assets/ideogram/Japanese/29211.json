@@ -1,0 +1,78 @@
+{
+  "title": "量",
+  "ns": 0,
+  "id": 29211,
+  "timestamp": 1546472129000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=里05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りょう\n|kanon=りょう\n|kun=はか-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|音量|おんりょう}}: [[sound]] [[volume]]\n* {{ja-r|狭量|きょうりょう}}\n* {{ja-r|斤量|きんりょう}}: [[weight]]\n* {{ja-r|計量|けいりょう}}\n* {{ja-r|考量|こうりょう}}\n* {{ja-r|降水%量|こうすい%りょう}}\n* {{ja-r|少量|しょうりょう}}, {{ja-r|小量|しょうりょう}}\n* {{ja-r|定量|ていりょう}}\n* {{ja-r|量感|りょうかん}}\n* {{ja-r|量産|りょうさん}}\n* {{ja-r|量子|りょうし}}: [[quantum]]\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|りょう|yomi=o}}\nFrom {{etyl|ltc|ja|sort=りょう}} {{m|zh|量|tr=ljang<sup>H</sup>||measure}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|りょう|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|りょう|hhira=りやう}}\n\n# [[volume]], amount\n#: {{ja-usex|交通'''量'''|こうつう-'''りょう'''|'''amount''' of traffic}}\n# {{lb|ja|Buddhist logic|sort=りょう}} [[pramana]]\n#: {{ja-usex|比'''量'''|ひ-'''りょう'''|'''pramana''' of Reasoning}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|はか|yomi=k}}\nCognate with {{m|ja|計り|tr=hakari}}.<ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|はか|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はか}}\nForm of {{m|ja|量り|tr=hakari}}\n\n# an instrument to [[measure]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

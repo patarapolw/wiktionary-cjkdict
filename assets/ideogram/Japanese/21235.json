@@ -1,0 +1,39 @@
+{
+  "title": "疱",
+  "ns": 0,
+  "id": 21235,
+  "timestamp": 1508306050000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|皰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=疒05}}\n\n# {{defn|lang=ja|sort=疒05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=ひょう\n|kanon=ほう\n|kun=もがさ, にきび}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|水疱|すいほう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

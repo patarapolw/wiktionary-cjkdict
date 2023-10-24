@@ -1,0 +1,39 @@
+{
+  "title": "亦",
+  "ns": 0,
+  "id": 10535,
+  "timestamp": 1548858971000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|赤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=8|rs=亠04}}\n\n# [[also]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=やく\n|kanon=えき\n|kun=また-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{ja-kanjitab|また|yomi=k}}\n{{ja-see|また}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "麩",
+  "ns": 0,
+  "id": 33007,
+  "timestamp": 1522813827000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|麸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=麥04|shin=麸}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ\n|kanon=ふ\n|kun=ふすま-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|天麩羅|てんぷら}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|shin=麸|ふ}}\n\n# [[wheat|Wheat]] [[bran]].\n# Wheat [[gluten]].\n# Foods made from wheat gluten, somewhat similar to [[bread]]."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|shin=麸|ふすま}}\n\n# Wheat bran."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

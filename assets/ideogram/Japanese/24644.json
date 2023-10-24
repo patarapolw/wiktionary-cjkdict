@@ -1,0 +1,44 @@
+{
+  "title": "舗",
+  "ns": 0,
+  "id": 24644,
+  "timestamp": 1507489589000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鋪|舖|铺}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=舌09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ほ\n|kun=みせ-, し-く\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|ほ|counter|kyu=舖}}\n\n# folded texts, especially [[map]]s"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ほ|kyu=舖}}\n\n# [[shop]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

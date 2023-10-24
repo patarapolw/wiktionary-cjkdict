@@ -1,0 +1,63 @@
+{
+  "title": "巳",
+  "ns": 0,
+  "id": 14817,
+  "timestamp": 1549397517000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|己|已}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wikipedia|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=8|rs=己00}}\n\n# sign of the [[snake]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=み-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|み|yomi=k}}\n{{wp|lang=ja}}\nShort for {{m|ja|蛇|tr=hemi||[[snake]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=0|y=k|み}}\n* {{hmp|lang=ja|sort=み|身|実|子}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|み}}\n\n# the {{w|Snake (zodiac)|Snake}}, the sixth of the twelve {{w|Earthly Branches}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|し|yomi=o}}\nFrom {{der|ja|ltc|巳|tr=zi<sup>X</sup>|sort=し}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|し}}\n\n# the {{w|Snake (zodiac)|Snake}}, the sixth of the twelve {{w|Earthly Branches}}\n\n{{cln|ja|words with multiple readings}}\n{{topics|ja|Earthly Branches|sort=み}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

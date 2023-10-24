@@ -1,0 +1,54 @@
+{
+  "title": "疋",
+  "ns": 0,
+  "id": 21198,
+  "timestamp": 1553562197000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|匹|正|辵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=疋00}}\n\n# [[counter]] for [[horse]]s, [[mule]]s, and small [[animal]]s\n# [[counter]] for [[roll]]s of [[cloth]]\n# a [[measure]] of [[cloth]]\n# [[foot]] {{qualifier|rare}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ, しょ, ひち\n|kanon=が, そ, ひつ\n|kanyoon=ひき\n|kun=あし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|ひき}}\nFrom {{etyl|ltc|ja|sort=ひき}} {{m|zh|疋|tr=srjo||foot; roll of cloth}}. Conflated in Japanese with {{etyl|ltc|-}} {{m|zh|匹|tr=phjit||counter for horses and mules; counter for rolls of cloth}}, both in meaning and in reading. The ''hichi'' reading evolved into ''hiki'' by association with {{m|ja|引き|tr=hiki||pulling}}, from the way that an animal's [[leash]] is [[pull]]ed.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyo|ひき}}"
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|ひき|counter}}\n\n# {{alternative form of|lang=ja|sort=ひき|匹}}: [[counter]] for smaller [[animal]]s"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Daijirin}}\n:* {{R:Daijisen}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "title": "婆",
+  "ns": 0,
+  "id": 13793,
+  "timestamp": 1550390643000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=女08}}\n\n# [[old woman]], [[crone]]\n# {{n-g|Used in {{ncog|sa|-}} [[transliteration]]s}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ば\n|kanon=は\n|toon=ほ\n|kun=ばあ-, ばば-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top4|Compounds}}\n* {{ja-r|婆伽婆|ばがば}}, {{ja-r|婆伽婆|ばぎゃば}}\n* {{ja-r|婆娑|ばさ}}\n* {{ja-r|婆娑羅|ばさら}}, {{ja-r|婆娑羅|ばしゃら}}\n* {{ja-r|婆%婆%鰈|バ%バ%ガレイ}}\n* {{ja-r|婆%羅%門|バ%ラ%モン|[[brahmin]]}}\n* {{ja-r|悪%婆|あく%ば}}\n* {{ja-r|産婆|さんば}}\n* {{ja-r|奪%衣婆|だつ%えば|rom=-}}, {{ja-r|脱%衣婆|だつ%えば}}\n* {{ja-r|娑婆|しゃば}}\n* {{ja-r|卒塔婆|そとば|[[stupa]]}}\n* {{ja-r|薩婆訶|そわか|svāhā}}\n* {{ja-r|転婆|てんば}}\n** {{ja-r|お転婆|おてんば|rom=-}}, {{ja-r|御転婆|おてんば}}\n* {{ja-r|湯湯婆|ゆたんぽ|[[hot water bottle]]}}\n* {{ja-r|老婆|ろうば}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|ばば}}\nPossibly a [[reduplication]] of {{m|ja|姥|tr=uba||[[old woman]]}}. {{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|ばば|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ばば}}\n\n# an [[elderly]] [[woman]], [[old woman]]\n#: {{syn|ja|老女|tr1=rōjo|老婆|tr2=rōba}}\n#: {{ant|ja|爺|tr=jiji}}\n# {{lb|ja|sort=はは'|card games}} [[Old Maid]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n* {{ja-r|お婆さん|おばあさん}}\n* {{ja-r|悪%婆|あく%ばば}}\n* {{ja-r|梅%干 婆|うめ%ぼし ばば}}\n* {{ja-r|火車 婆|かしゃ ばば}}\n* {{ja-r|鎌%婆|かま%ばば}}\n* {{ja-r|子取り婆|ことり%ばば}}\n* {{ja-r|狸%婆|たぬき%ばば}}\n* {{ja-r|猫%股 婆|ねこ%また ばば}}\n* {{ja-r|灸の婆|やいと の ばば}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=i|ばばあ}}\n{{IPAchar|/baba/}} → {{IPAchar|/babaː/}}\n\nAlteration of ''baba'' above.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=i|ばばあ|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ばばあ}}\n\n# an [[elderly]] [[woman]], [[old woman]]\n#: {{ant|ja|爺|tr=jijī}}\n# {{lb|ja|sort=ははあ'|colloquial}} a [[complaint]], [[grumbling]]\n#: {{syn|ja|愚痴|tr=guchi}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|狸%婆|たぬき%ばばあ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|祖母|ばば|[[grandmother]]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "授",
+  "ns": 0,
+  "id": 16302,
+  "timestamp": 1544625786000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=手08}}\n\n# impart",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゅ\n|kanon=しゅう\n|kun=さず-ける, さず-かる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "# give\n# grant (a grant is given)\n# bestow"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

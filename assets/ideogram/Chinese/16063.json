@@ -1,0 +1,39 @@
+{
+  "title": "抣",
+  "ns": 0,
+  "id": 16063,
+  "timestamp": 1553550687000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yún,jūn\n|c=gwan1\n|mc=\n|oc=\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* (''Mandarin'') [http://www.cns11643.gov.tw/AIDB/query_general_view.do?page=3&code=647B Chinese National Standards (Master Ideographs Seeker for CNS 11643)]\n* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 113]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

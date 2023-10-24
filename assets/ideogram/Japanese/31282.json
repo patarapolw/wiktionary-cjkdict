@@ -1,0 +1,39 @@
+{
+  "title": "颪",
+  "ns": 0,
+  "id": 31282,
+  "timestamp": 1520768660000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{swp|lang=ja}}\n{{swp|Oroshi}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=風03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=あらし-,おろし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おろし}}\n\n# The wind that blows down from the top of a mountain.\n\n[[Category:Japanese-only CJKV Characters|風]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

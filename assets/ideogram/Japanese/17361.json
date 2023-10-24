@@ -1,0 +1,92 @@
+{
+  "title": "枌",
+  "ns": 0,
+  "id": 17361,
+  "timestamp": 1553552417000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木04}}\n\n# a [[wooden]] [[shake]] {{gloss|as used in roofing}}\n# a [[pine]] tree {{qualifier|rare}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶん\n|kanon=ふん\n|kun=そぎ, まつ\n|nanori=すぎ, へぎ\n}}\n\n{{wikipedia|lang=ja|こけら葺}}\n[[File:Wooden shingles Sweden.JPG|thumb|250px|{{lang|ja|枌}}: ''sogi'' on a roof]]\n{{wikipedia|Shake_(shingle)|Shake (shingle)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Abbreviation of {{l|ja|枌板}}, {{l|ja|削板|tr=''sogiita''}}, itself a compound of {{m|ja|削ぎ|tr=sogi||shaving, chipping|pos=stem noun form of verb {{l|ja|削ぐ|tr=sogu}}, “to chip or shave off”}} + {{m|ja|板|tr=ita||board, plank}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{l|ja|sc=Latn|訓読み|Kun'yomi}}\n* {{IPA|lang=ja|[so̞ɡi]|[so̞ŋi]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|削}}, {{l|ja|削ぎ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そぎ|hhira=そき}}\n\n# a [[wooden]] [[shake#Noun|shake]] or large [[shingle]]: a thin [[board]] or [[plank]] of wood chipped or shaved off a larger piece and used as [[roofing]] or [[siding]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{l|ja|削ぎ板}}, {{l|ja|削板}}, {{l|ja|殺ぎ板}}, {{l|ja|殺板}}, {{l|ja|枌板|tr={{l|ja|そぎいた}}, ''{{l|ja|sc=Latn|sogiita}}''; {{l|ja|そぎた}}, ''{{l|ja|sc=Latn|sogita}}''}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Related terms",
+                      "text": "* {{l|ja|杮|tr={{l|ja|こけら}}, ''{{l|ja|sc=Latn|kokera}}''}}: wood chips; a [[shingle]] (smaller than a ''sogi'')\n* {{l|ja|杮葺|tr={{l|ja|こけらぶき}}, ''{{l|ja|sc=Latn|kokerabuki}}''}}: [[shingling]]; a [[shingled]] [[roof]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Uncommon alternate spelling for {{m|ja|松|tr=matsu||pine tree}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{l|ja|sc=Latn|訓読み|Kun'yomi}}\n* {{IPA|lang=ja|[ma̠t͡sɯᵝ]|[ma̠t͡sɯ̥ᵝ]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まつ}}\n\n# {{alternative spelling of|lang=ja|松}}: {{lb|ja|rare|sort=まつ}} a [[pine]] tree",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Seldom used. The spelling {{l|ja|松}} is much more common."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

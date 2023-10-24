@@ -1,0 +1,102 @@
+{
+  "title": "朝",
+  "ns": 0,
+  "id": 6217,
+  "timestamp": 1553572431000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=月08}}\n\n# [[morning]]\n# [[dynasty]]; [[regime]]\n# [[epoch]]; [[period]]\n# [[Korea]]; {{qualifier|more specifically}} [[North Korea]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう<てう, じょう<でう\n|kanon=ちょう<てう\n|kun=あさ-, あした-\n|nanori=あ, あそ, ささ, ちか, とも\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|朝な 夕な|あさな ゆうな}}\n* {{ja-r|朝食|ちょうしょく}}\n* {{ja-r|朝刊|ちょうかん}}: [[newspaper]] (to be delivered in the morning)\n* {{ja-r|朝貢|ちょうこう}}\n* {{ja-r|朝廷|ちょうてい}}\n* {{ja-r|朝野|ちょうや}}\n* {{ja-r|王朝|おうちょう}}\n* {{ja-r|早朝|そうちょう}}\n* {{ja-r|朝%飯%前|あさ%めし%まえ}}: a piece of cake (an easy thing to do)\n* {{ja-r|朝%日|あさ%ひ}}: [[rising sun]]\n* {{ja-r|今%朝|け%さ}}: this morning\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|あさ}}\nHistorically a day was split into two halves:\n* afternoon cycle: {{ja-r|朝|あさ}}, {{ja-r|昼|ひる}}, {{ja-r|夕|ゆう}}\n* evening cycle: {{ja-r|夕べ|ゆうべ}}, {{ja-r|宵|よい}}, {{ja-r|夜%中|よ%なか}}, {{ja-r|暁|あかつき}}, {{ja-r|朝|あした}}\nWhile ''asa'' and ''ashita'' represent the same time period, ''asa'' was associated with beginning of the afternoon and ''ashita'' was associated with the end of the night. Both terms share an initial ''as-'' and are likely etymologically related.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あさ|acc=1|acc_ref=DJR,SMK2}}\n** (''[[w:Kansai dialect|Kyoto]]'') あ{{overline|さ}} [àsáꜜ]<ref>{{R:Keihankei}}</ref>"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あさ}}\n\n# [[morning]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|あした}}\nHistorically a day was split into two halves:\n* afternoon cycle: {{ja-r|朝|あさ}}, {{ja-r|昼|ひる}}, {{ja-r|夕|ゆう}}\n* evening cycle: {{ja-r|夕べ|ゆうべ}}, {{ja-r|宵|よい}}, {{ja-r|夜%中|よ%なか}}, {{ja-r|暁|あかつき}}, {{ja-r|朝|あした}}\nWhile ''asa'' and ''ashita'' represent the same time period, ''asa'' was associated with beginning of the afternoon and ''ashita'' was associated with the end of the night. Both terms share an initial ''as-'' and are likely etymologically related.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あした|acc=3|acc_ref=DJR}}\n** (''[[w:Kansai dialect|Kyoto]]'') {{overline|あした}} [áshítá]<ref>{{R:Keihankei}}</ref>"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|明日}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あした}}\n\n# [[morning]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The spelling {{ja-l|明日}} is much more common in modern Japanese."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-kanjitab|yomi=on|ちょう}}\n\n# [[dynasty]]\n#: {{ja-usex|ブルボン'''朝'''|^ブルボン-'''ちょう'''|the Bourbon '''Dynasty'''}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|あさ]]\n[[Category:ja:Time|あさ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "梣",
+  "ns": 0,
+  "id": 17655,
+  "timestamp": 1553553017000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=木07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じん<じむ\n|kanon=しん<しむ\n|kun=とねりこ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|とねりこ|yomi=k}}\nCorruption of {{ja-r|戸に塗る木|と-に-ぬる-き}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|とねりこ|acc=0|acc_ref=DJR,NHK|acc2=3|acc2_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とねりこ|トネリコ}}\n\n# [[ash tree]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Trees|とねりこ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

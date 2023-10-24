@@ -1,0 +1,51 @@
+{
+  "title": "供",
+  "ns": 0,
+  "id": 10880,
+  "timestamp": 1540249684000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=人06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=きょう\n|kanyoon=ぐ\n|kun=そな-える, とも-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|供物|そなえもの}}\n* {{ja-r|供物|くもつ}}\n* {{ja-r|供宴|きょうえん}}\n* [[供応]]\n* [[供花]]\n* [[供華]]\n* [[供犠]]\n* {{ja-r|供給|きょうきゅう}}\n* [[供血]]\n* [[供御]]\n* [[供祭]]\n* [[供出]]\n* [[供述]]\n* [[供進]]\n* [[供人]]\n* [[供勢]]\n* [[供託]]\n{{mid2}}\n* [[供米]]\n* [[供奉]]\n* [[供与]]\n* [[供用]]\n* [[供養]]\n* [[供覧]]\n* [[供料]]\n* [[口供]]\n* [[自供]]\n* [[節供]]\n* [[提供]]\n* [[私供]]\n* [[初節供]]\n* [[子供]]\n* [[試供品]]\n{{bottom}}\n\n{{ja-kanjitab|とも|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とも}}\n\n# [[attendant]], [[servant]]\n# [[companion]]\n# [[entourage]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{l|ja|人身御供}}\n* {{l|ja|供回り}}\n{{der-mid}}\n* {{l|ja|供待ち}}\n* {{l|ja|供揃い}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

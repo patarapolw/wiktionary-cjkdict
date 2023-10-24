@@ -1,0 +1,63 @@
+{
+  "title": "㓾",
+  "ns": 0,
+  "id": 10340,
+  "timestamp": 1501826089000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xī\n|c=sai1\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} to [[wound]] the [[skin]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=治}}\nFrom {{ltc-l|治|to regulate; to clean (fish)|id=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=chí\n|h=pfs=chhṳ̀;gd=ci2\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal Mandarin}} to [[clean]] [[fish]]; to [[gut]] fish\n# {{lb|zh|Hakka}} to [[slaughter]] (livestock)\n# {{lb|zh|Fujian|Taiwan Hakka}} to [[kill]] (a human)\n# {{lb|zh|Fujian|Taiwan Hakka}} to [[cut]] [[open]] (fruit)",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|宰}}\n{{zh-dial|殺}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

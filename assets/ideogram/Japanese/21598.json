@@ -1,0 +1,68 @@
+{
+  "title": "県",
+  "ns": 0,
+  "id": 21598,
+  "timestamp": 1548883923000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|縣|县|呉}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|県|縣}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=目04|kyu=縣}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん<げん<ぐゑん, きょう<けう\n|kanon=けん<けん<くゑん, きょう<けう\n|kun=か-ける, か-かる, あがた-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あがた|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あがた}}\n\n# {{lb|ja|historical}} an [[administrative]] [[district]] of Japan\n# the [[countryside]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|あがた|proper}}\n\n# {{surname|lang=ja|sort=あがた}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|けん|yomi=kanon}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|けん}}\n\n# a type of [[administrative]] [[district]], including 43 of the 47 [[prefecture]]s of modern Japan, Chinese counties, French departments, etc."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|都道府県|gloss=political subdivisions of Japan|とどうふけん}}\n\n[[Category:ja:Political subdivisions|けん]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

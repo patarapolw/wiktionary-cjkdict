@@ -1,0 +1,39 @@
+{
+  "title": "拓",
+  "ns": 0,
+  "id": 16111,
+  "timestamp": 1550757678000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手05}}\n\n# [[expand]]\n# [[open]]\n# [[pioneer]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=たく, せき\n|kun=ひら-く, ひろ-う\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|たく}}\n\n# {{given name|male|lang=ja|sort=たく}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

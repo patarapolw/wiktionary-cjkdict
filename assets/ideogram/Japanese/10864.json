@@ -1,0 +1,44 @@
+{
+  "title": "例",
+  "ns": 0,
+  "id": 10864,
+  "timestamp": 1536685944000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|れい}}\n\n: 例 ([[ためし]], [[tameshi]])\n: 例し (ためし, tameshi)\n\nThe most common reading is れい (rei).\n\n# [[example]], [[instance]]\n#* 例を[[引く]] <nowiki>[</nowiki>[[挙げる]]<nowiki>]</nowiki>\n#*: れいをひく[あげる]\n#*: rei o hiku [ageru]\n#*: cite [give] an example\n# [[illustration]]\n# [[case]]\n# [[custom]], the [[usual]]\n#* 例によって\n#*: れいによって\n#*: rei ni yotte\n#*: as usual\n#* 例に無く\n#*: れいになく\n#*: rei ni naku\n#*: contrary to habit\n# [[precedent]]\n# [[that]]\n#* 例の[[男]]\n#*: れいのおとこ\n#*: rei no otoko\n#*: that man (who we were speaking about)"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=人06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れ\n|kanon=れい\n|on=れつ\n|kun=たと-える, たぐい-, ためし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[例会]]\n* [[例解]]\n* [[例外]]\n* [[例規]]\n* [[例月]]\n* [[例言]]\n* [[例刻]]\n* [[例祭]]\n* [[例時]]\n* [[例示]]\n* [[例式]]\n* [[例証]]\n* [[例数]]\n* [[例題]]\n* [[例日]]\n* [[例年]]\n* [[例文]]\n* [[例話]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

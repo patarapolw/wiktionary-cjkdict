@@ -1,0 +1,85 @@
+{
+  "title": "俠",
+  "ns": 0,
+  "id": 10952,
+  "timestamp": 1549256436000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|侠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人07|shin=侠}}\n\n# [[chivalrous]] [[person]]\n# [[chivalry]]\n# [[knight-errant]]\n# [[tomboy]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<げふ\n|kanon=きょう<けふ\n|toon=きゃん<きやん\n|kun=おとこだて-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|きょう|yomi=o}}\nFrom {{bor|ja|ltc|sort=きやん|-}} {{ltc-l|俠}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=ko|きょう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|shin=侠|きょう|hhira=けふ}}\n\n# {{kyujitai spelling of|侠}}: [[chivalrous]] [[spirit]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|きゃん|yomi=o}}\n\nFrom a later borrowing of {{bor|ja|ltc|sort=きやん|-}} {{ltc-l|俠}}. {{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=to|きゃん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|shin=侠|きゃん}}\n\n# {{kyujitai spelling of|侠}}: a [[chivalrous]] [[person]]; a [[tomboy]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|shin=侠|infl=na|きゃん}}\n\n# {{kyujitai spelling of|侠}}: [[chivalrous]], [[tomboyish]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|きゃん}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

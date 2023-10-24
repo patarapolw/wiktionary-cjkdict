@@ -1,0 +1,71 @@
+{
+  "title": "倈",
+  "ns": 0,
+  "id": 11005,
+  "timestamp": 1538498860000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|俫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|s=俫}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=lái\n|c=loi4\n|mc=y\n|oc=y\n|ma=\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[induce]] to [[come]]\n# to [[encourage]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|s=俫|alt=孻,賴,徠,乃-Pingxiang Gan}}\nPossibly from {{och-l|兒|son|id=2}} ({{zh-ref|Schuessler, 2007}}).\n\nAlternatively, {{zh-ref|Sagart (2002)}} treats it as a semantic broadening of {{zh-l|孻|tr=-|youngest son}} in a language ancestral to Hakka and Gan.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|h=pfs=lai;gd=lai4\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Hakka|dialectal Gan}} [[son]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|兒子}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|倈仔|細倈人|細倈仔}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

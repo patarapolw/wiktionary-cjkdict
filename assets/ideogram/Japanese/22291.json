@@ -1,0 +1,83 @@
+{
+  "title": "福",
+  "ns": 0,
+  "id": 22291,
+  "timestamp": 1553054755000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA1B}}\n{{character info|0x2F956}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|pic1=福_shinjitai.png|pic2=福_kyuujitai.PNG}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=示09|kyu=&#xfa1b;}}\n\n# [[good fortune]], [[good luck]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふく\n|kanon=ふく\n|kun=さいわ-い<さいは-ひ<!--<さきは-ひ-->\n|nanori=さき, さち, たる, とし, とみ, ふ, ふき, ぼく, むら, もと, よ, よし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top4|Compounds}}\n* {{ja-r|福%祉|ふく%し}}\n* {{ja-r|福%相|ふく%そう}}\n* {{ja-r|福%徳|ふく%とく}}\n* {{ja-r|福%利|ふく%り}}\n* {{ja-r|福%禄|ふく%ろく}}\n* {{ja-r|福%禄%寿|^ふく%ろく%じゅ}}: [[w:Fukurokuju|Fukurokuju]]; one of the [[w:Seven Lucky Gods|seven gods of good fortune]]\n* {{ja-r|禍%福|か%ふく}}\n* {{ja-r|幸%福|こう%ふく|[[happiness]]}}\n* {{ja-r|至%福|し%ふく}}\n* {{ja-r|祝%福|しゅく%ふく}}\n* {{ja-r|浄%福|じょう%ふく}}\n* {{ja-r|清%福|せい%ふく}}\n* {{ja-r|多%福|た%ふく}}\n* {{ja-r|追%福|つい%ふく}}\n* {{ja-r|万%福|ばん%ぷく}}, {{ja-r|万%福|まん%ぷく}}\n* {{ja-r|冥%福|みょう%ふく}}, {{ja-r|冥%福|めい%ふく}}\n* {{ja-r|裕%福|ゆう%ふく}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|ふく}}\n\nFrom {{bor|ja|ltc|sort=ふく|-}} {{ltc-l|福|id=2}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=o|ふく|acc=2|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ふく}}\n\n# [[good luck]], [[good fortune]]\n#: {{syn|ja|幸運|tr=kōun}}\n#: {{ant|ja|禍|tr=ka}}\n# [[happiness]]\n# {{lb|ja|sort=ふく|Shinto|Buddhism}} a [[blessing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|福%島|^ふく%しま}}\n* {{ja-r|大%福|おお%ぶく}}\n* {{ja-r|大%福|だい%ふく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjectival noun",
+              "text": "{{ja-adj|infl=na|ふく}}\n\n# [[wealthy]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|ふく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ふく}}\n\n# ''a [[placename]]''\n# {{surname|lang=ja|A=a|nodot=1|sort=ふく}}\n# {{given name|female|lang=ja|A=a|nodot=1|sort=ふく}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

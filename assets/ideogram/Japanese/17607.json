@@ -1,0 +1,100 @@
+{
+  "title": "桴",
+  "ns": 0,
+  "id": 17607,
+  "timestamp": 1553552864000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木07}}\n\n# [[drumstick]], [[mallet]]\n# [[raft]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ, ぶ\n|kanon=ふ, ふう\n|kun=ばち-, ぶち-, いかだ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Bachi}}\n[[File:Taikos_bachi.jpg|thumb|250px|{{m|ja|桴|tr=bachi}}: a selection of [[taiko]] '''[[drumstick]]s'''.]]\n</div>\n{{ja-kanjitab|ばち|yomi=k}}\n\nMight be a sound shift from ''buchi'' (see below), from the sense of {{m|en|strike|striking}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ばち|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|撥}}, {{ja-l|枹}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ばち|バチ}}\n\n# {{ja-def|桴|枹}} a [[drum stick]] for instruments such as the [[taiko]] and [[gong]], a [[percussion]] [[mallet]]\n#: {{synonyms|ja|桴|tr1=buchi|q1=see below}}\n# {{ja-def|撥|桴}} in {{m|ja|雅楽||tr=gagaku|traditional Japanese court music}}, the [[plectra]] or [[pick]]s used to play the [[biwa]] [[lute]] and [[shamisen]], together with the [[stick]]s and other objects held by the [[dancer]] in {{m|ja|舞楽||tr=bugaku|traditional Japanese court dance}}\n#: {{n-g|the former is generally spelled {{m|ja|撥}}, and the latter {{m|ja|桴}}}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|ぶち}}\n\nAppears to be the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|打つ||tr=butsu|to strike something, to hit something}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ぶち}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぶち}}\n\n# {{lb|ja|sort=ふち'|archaic|possibly|_|obsolete}} a [[drum stick]] for instruments such as the [[taiko]] and [[gong]], a [[percussion]] [[mallet]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Raft}}\n[[File:Isarfloss.jpg|thumb|250px|{{m|ja|桴|tr=ikada}}: a '''[[raft]]''' on a river in Germany.]]\n</div>\n{{ja-kanjitab|yomi=k|いかだ}}\n\nFrom {{inh|ja|ojp|sort=いかだ|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|1|50}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man1Yos.html#50 here]</ref>\n\nAppears to be a possible compound, but the ultimate derivation is unknown.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いかだ|acc=0|acc_ref=DJR,NHK,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|筏}} {{qualifier|more common}}, {{ja-l|栰}} {{qualifier|rare}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いかだ|イカダ}}\n\n# a [[raft]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

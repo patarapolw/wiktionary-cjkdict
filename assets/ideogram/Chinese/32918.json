@@ -1,0 +1,49 @@
+{
+  "title": "鹺",
+  "ns": 0,
+  "id": 32918,
+  "timestamp": 1535890588000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鹾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=鹾}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|鹵|差|ls=psc|c1=s|c2=p|t1=salt}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cuó\n|c=co4,co1\n|mc=y\n|oc=y\n|cat=a,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[salted]]\n# {{lb|zh|literary}} [[salt]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|鹺使|鹺務}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B06212}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

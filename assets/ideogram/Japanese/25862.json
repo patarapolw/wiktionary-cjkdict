@@ -1,0 +1,73 @@
+{
+  "title": "蚊",
+  "ns": 0,
+  "id": 25862,
+  "timestamp": 1553569695000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|螡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=虫04}}\n\n# [[mosquito]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もん\n|kanon=ぶん\n|kun=か-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|か|yomi=k}}\nFrom {{etyl|ojp|ja|sort=か}}. Possibly related to {{m|ja|噛む|tr=kamu||to bite}} or {{m|ja|痒い|tr=kayui||itchy}}, although the ultimate derivation remains unknown.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|か|acc=0|acc_ref=DJR,NHK|a=ja-ka.ogg}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|か}}\n\n# [[mosquito]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|161}}\n#*: 蚊蟻 上'''可''' 下音疑 訓安利乃古"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かあ|yomi=irr}}\nCognate with {{m|ja|蚊|tr=ka}}. Likely pronounced long due to being a single mora. Elongation of single mora words is still seen in the Ōsaka dialect with words like ''teː'' \"hand\" from ''te''. The 794 quotation is the oldest extant example of a long vowel in Japanese.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|かあ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かあ}}\n\n# [[mosquito]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|104}}\n#*: 蚊蝄䖟蜺 [...] 上二字'''加安'''下二字阿牟\n#* {{RQ:Konkōmyō Saishōōkyō Ongi|3 (back)}}\n#*: 蚊 '''加阿'''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{Shin'yaku Kegonkyō Ongi Shiki}}\n:* {{R:Konkōmyō Saishōōkyō Ongi}}\n\n[[Category:Japanese basic words|か]]\n[[Category:ja:Dipterans|か]]\n[[Category:ja:Parasites|か]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

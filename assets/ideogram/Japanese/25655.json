@@ -1,0 +1,39 @@
+{
+  "title": "藁",
+  "ns": 0,
+  "id": 25655,
+  "timestamp": 1551894018000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸14}}\n\n# {{defn|lang=ja|sort=艸14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<かう\n|kanon=こう<かう\n|kun=わら-<わら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|わら|yomi=k}}\n{{ja-see|わら}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

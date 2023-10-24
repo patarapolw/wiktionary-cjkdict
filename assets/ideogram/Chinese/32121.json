@@ -1,0 +1,44 @@
+{
+  "title": "鮓",
+  "ns": 0,
+  "id": 32121,
+  "timestamp": 1553227183000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=鲊|alt=䱹}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhǎ\n|c=zaa2,zaa3\n|mn=thē\n|mc=y\n|oc=\n|cat=n,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|魚鮓|鮓肉|鮓醬}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

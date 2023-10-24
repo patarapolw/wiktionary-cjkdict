@@ -1,0 +1,47 @@
+{
+  "title": "赦",
+  "ns": 0,
+  "id": 27833,
+  "timestamp": 1545682414000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𢼜,𢽀}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\nIn the bronze script, it was written as {{zh-l|𢼜}}, a {{Han compound|亦|攴|ls=psc|c1=p|c2=s|t2=hand holding a stick|nocap=1}}. In later scripts, the phonetic component was replaced with {{och-l|赤}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "[[exoactive|Exoactive]] ([[causative]]) of {{och-l|釋|to unloose; to release}} ({{zh-ref|Schuessler, 2007}}). Also related to {{och-l|舍|to let off|id=1}} ({{zh-ref|Wang, 1982}}), of which there exists a derived reading {{och-l|舍|to let off; to liberate|id=2}} that formed a variant relationship with {{och-l|赦}}, despite not having the same pronunciation in Old Chinese (*''-aːs'' vs *''-ags'')."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shè\n|m-s=se4\n|c=se3\n|c-t=sie1\n|g=sa4\n|h=pfs=sa;gd=sa4\n|j=se3\n|mb=sia̿\n|md=siá\n|mn=sià\n|mn-t=sia3\n|w=2so\n|x=she4\n|mc=y\n|oc=y\n|cat=v,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[pardon]]; to [[forgive]]\n# {{surname|lang=zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|恩赦|三赦|十惡不赦|大赦|大赦天下|放赦|特赦|獨角赦書|特赦令|曲赦|赦宥|赦書|罪不可赦|赦免|赦罪|肆赦|赦文|貰赦}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

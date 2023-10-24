@@ -1,0 +1,39 @@
+{
+  "title": "装",
+  "ns": 0,
+  "id": 26543,
+  "timestamp": 1523706628000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|裝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|装|裝}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=衣06|kyu=裝}}\n\n# {{defn|lang=ja|sort=衣06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=そう<さう\n|kun=よそお-う<よそほ-ふ, よそお-い<よそほ-ひ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|外%装|がい%そう}}\n* {{ja-l|天装}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

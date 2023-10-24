@@ -1,0 +1,73 @@
+{
+  "title": "酸",
+  "ns": 0,
+  "id": 29118,
+  "timestamp": 1546564057000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|痠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=酉07}}\n\n# {{lb|ja|chemistry}} [[acid]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さん\n|kanon=さん\n|kun=す, す-い, つら-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|アミノ酸|アミノさん|[[amino acid]]}}\n* {{ja-r|アルギン酸|アルギンさん|[[alginic acid]]}}\n* {{ja-r|安息香酸|あんそくこうさん|[[benzoic acid]]}}\n* {{ja-r|胃酸|いさん|[[gastric acid]]}}\n* {{ja-r|塩酸|えんさん|[[hydrochloric acid]]}}\n* {{ja-r|オクタデカン酸|オクタデカン-さん|[[octadecanoic acid]]}}\n* {{ja-r|オレイン酸|オレイン-さん|[[oleic acid]]}}\n* {{ja-r|核酸|かくさん|[[nucleic acid]]}}\n* {{ja-r|カルボン酸|カルボン-さん|[[carboxylic acid]]}}\n* {{ja-r|蟻酸|ぎさん|[[formic acid]]}}\n* {{ja-r|枸櫞酸|くえんさん|[[citric acid]]}}\n* {{ja-r|グルタミン酸|グルタミンさん|[[glutamic acid]]}}\n* {{ja-r|珪酸|けいさん|[[silicic acid]]}}\n* {{ja-r|麹酸|こうじさん|[[kojic acid]]}}\n* {{ja-r|琥%珀酸|こ%はくさん|[[succinic acid]]}}\n* {{ja-r|酢酸|さくさん|[[acetic acid]]}}\n* {{ja-r|酸化|さんか|[[oxidation]]}}\n* {{ja-r|酸性|さんせい|[[acidity]]}}\n* {{ja-r|酸素|さんそ|[[oxygen]]}}\n* {{ja-r|酸鼻|さんび|[[appalling]], [[horrible]]}}\n* {{ja-r|酸味|さんみ|[[sourness]]}}\n* {{ja-r|脂肪酸|しぼうさん|[[fatty acid]]}}\n* {{ja-r|酒石酸|しゅせきさん|[[tartaric acid]]}}\n* {{ja-r|硝酸|しょうさん|[[nitric acid]]}}\n* {{ja-r|焦性葡萄酸|しょうせいぶどうさん|[[pyruvic acid]]}}\n* {{ja-r|ステアリン酸|ステアリン-さん|[[stearic acid]]}}\n* {{ja-r|青酸|せいさん|[[hydrocyanic acid]]}}\n* {{ja-r|石炭酸|せきたんさん|[[phenol]] {{gl|caustic compound derived from benzene}}}}\n* {{ja-r|炭酸|たんさん|[[carbonic acid]]}}\n* {{ja-r|胆汁酸|たんじゅうさん|[[bile acid]]}}\n* {{ja-r|乳酸|にゅうさん|[[lactic acid]]}}\n* {{ja-r|尿酸|にょうさん|[[uric acid]]}}\n* {{ja-r|馬尿酸|ばにょうさん|[[hippuric acid]]}}\n* {{ja-r|パルミチン酸|パルミチン-さん|[[palmitic acid]]}}\n* {{ja-r|砒酸|ひさん|[[arsenic acid]]}}\n* {{ja-r|硼酸|ほうさん|[[boric acid]]}}\n* {{ja-r|油酸|ゆさん|[[oleic acid]]}}\n* {{ja-r|葉酸|ようさん|[[folic acid]]}}\n* {{ja-r|沃素酸|ようそさん|[[iodic acid]]}}\n* {{ja-r|酪酸|らくさん|[[butyric acid]]}}\n* {{ja-r|硫酸|りゅうさん|[[sulphuric acid]]}}\n* {{ja-r|林檎酸|りんごさん|[[malic acid]]}}\n* {{ja-r|燐酸|りんさん|[[phosphoric acid]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|さん|yomi=o}}\n{{wp|lang=ja}}\nFrom {{der|ja|ltc|酸|sort=さん}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=o|さん|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さん}}\n\n# [[sourness]] {{gl|quality or condition}}\n# {{lb|ja|chemistry|sort=さん}} [[acid]]\n\n{{topics|ja|Taste|sort=さん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|す|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|す}}\n\n# {{altspell|lang=ja|酢||[[vinegar]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|words with multiple readings}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

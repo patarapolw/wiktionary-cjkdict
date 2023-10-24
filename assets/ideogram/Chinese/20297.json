@@ -1,0 +1,49 @@
+{
+  "title": "爻",
+  "ns": 0,
+  "id": 20297,
+  "timestamp": 1533272974000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|乂|乂|ls=p}} – 2 stacked ‘X’ marks, indicating cuts or marks."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yáo\n|c=ngaau4\n|h=pfs=yèu\n|mn=ngâu\n|w=\n|mc=y\n|oc=y\n|ma=|ma2=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# a figure composed of six stacked horizontal lines; a [[hexagram]] of the [[I Ching]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|六爻|卦爻|陰爻|陽爻}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:yue:Hanzi}}\n* {{thcwdq}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

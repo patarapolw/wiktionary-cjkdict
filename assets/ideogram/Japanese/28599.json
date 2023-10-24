@@ -1,0 +1,39 @@
+{
+  "title": "込",
+  "ns": 0,
+  "id": 28599,
+  "timestamp": 1550278527000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=辵02}}\n\n# {{defn|lang=ja|sort=辵02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=こ-む, こ-める, こ-み\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|込む|こむ}}\n* {{ja-r|ねじ込む|ねじこむ}}\n* {{ja-r|飲み込む|のみこむ}}\n* {{ja-r|巻き込む|まきこむ}}\n* {{ja-r|申込書|もうしこみしょ}}\n* {{ja-r|潜り込む|もぐりこむ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

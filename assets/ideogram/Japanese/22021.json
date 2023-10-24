@@ -1,0 +1,39 @@
+{
+  "title": "碗",
+  "ns": 0,
+  "id": 22021,
+  "timestamp": 1525219105000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=石08}}\n\n# [[porcelain]] [[bowl]]\n# [[teacup]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=わん\n|kanon=わん\n|kun=こばち-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|茶碗|ちゃわん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

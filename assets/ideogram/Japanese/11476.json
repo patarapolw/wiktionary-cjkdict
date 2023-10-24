@@ -1,0 +1,39 @@
+{
+  "title": "冶",
+  "ns": 0,
+  "id": 11476,
+  "timestamp": 1540770751000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=冫05}}\n\n# [[smelting]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=や\n|kanon=や\n|kun=い-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|冶金|やきん}}: {{l|en|metallurgy}}\n* {{ja-r|冶容|やよう}}: to {{l|en|put on}} {{l|en|makeup}}; a {{l|en|charming}} {{l|en|figure}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

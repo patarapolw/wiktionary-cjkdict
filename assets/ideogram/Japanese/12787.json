@@ -1,0 +1,44 @@
+{
+  "title": "噸",
+  "ns": 0,
+  "id": 12787,
+  "timestamp": 1544493126000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|吨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[とん]] (ton)|kun=[[とん]] (ton)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "[[ateji]], for {{etyl|en|ja|sort=とん}} {{m|en|ton}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とん|トン}}\n\n# {{ja-def|トン}} [[ton]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

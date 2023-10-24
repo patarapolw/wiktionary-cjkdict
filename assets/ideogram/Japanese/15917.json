@@ -1,0 +1,39 @@
+{
+  "title": "戒",
+  "ns": 0,
+  "id": 15917,
+  "timestamp": 1528521304000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=戈03}}\n\n# commandment",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=かい\n|kun=いまし-める\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|戒告|かいこく}}\n* {{ja-r|十戒|じっかい}}\n* {{ja-r|教戒|きょうかい}}\n* {{ja-r|訓戒|くんかい}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

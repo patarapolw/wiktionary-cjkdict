@@ -1,0 +1,85 @@
+{
+  "title": "肺",
+  "ns": 0,
+  "id": 24286,
+  "timestamp": 1552821502000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=肉04}}\n\n# {{defn|lang=ja|sort=肉04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほ\n|kanon=はい\n|kun=まごころ\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|肺臓|はいぞう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "* pukupukusi → ɸukuɸusi.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{IPA|[ɸukuɸukuɕi]|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふくふくし}}\n\n# {{lb|ja|anatomy}} [[lung]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|68}}\n#*: 心肺 々音辨 々訓'''布々久々之'''\n#* {{RQ:Wamyō Ruijushō|2|35}}\n#*: 肺 白虎通云 音廢 '''布久布久之''' [...] 金之精也 色白 [...] 肺藏也 [...]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|はい}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{IPA|[hai]|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はい}}\n\n# {{lb|ja|anatomy}} [[lung]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|肺臓|はいぞう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{Shin'yaku Kegonkyō Ongi Shiki}}\n* {{R:Wamyō Ruijushō}}\n* {{R:Nara Ibun 3}}\n\n[[Category:ja:Anatomy|はい]]\n[[Category:ja:Anatomy|ふくふくし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

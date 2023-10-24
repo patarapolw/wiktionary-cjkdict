@@ -1,0 +1,39 @@
+{
+  "title": "掻",
+  "ns": 0,
+  "id": 16353,
+  "timestamp": 1532368954000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|搔}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=手08|kyu=搔}}\n\n# {{defn|lang=ja|sort=手08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=そう\n|kun=か-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|掻く|かく}}\n* {{ja-r|引っ掻く|ひっかく}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

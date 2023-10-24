@@ -1,0 +1,42 @@
+{
+  "title": "戉",
+  "ns": 0,
+  "id": 15908,
+  "timestamp": 1553550512000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{liushu|p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Possibly an {{der|zh|map}} loan, since this kind of axe has been discovered in archaeological sites in areas where Austronesian languages were once spoken; compare {{cog|poz-pro|*wasay||axe}} ({{zh-ref|Mahdi, 1994}}; {{zh-ref|Schuessler, 2007}}). Also compare {{cog|mkh-pro|*wac||knife; sword}}, {{cog|omx|rwas||weapon}} ({{zh-ref|Schuessler, 2007}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yuè\n|c=jyut6\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|historical}} a type of [[battle axe]] used in ancient China"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

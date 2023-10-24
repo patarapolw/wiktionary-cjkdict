@@ -1,0 +1,146 @@
+{
+  "title": "猪",
+  "ns": 0,
+  "id": 20543,
+  "timestamp": 1552579369000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|豬}}\n{{character info/new}}\n{{character info/new|0xFA16}}\n{{character info/new|0xFAA0}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=犬08<!--|kyu=U+FA16-->}}\n\n# [[wild boar]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょ\n|kanon=ちょ\n|kun=い-<ゐ-, いのしし-<ゐのしし-\n|nanori=しし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|猪牙%舟|ちょき%ぶね}}, {{ja-r|猪牙|ちょき}}\n* {{ja-r|猪口|ちょく}}, {{ja-r|猪口|ちょこ}}\n* {{ja-r|猪突|ちょとつ}}\n* {{ja-r|猪 八戒|^ちょ ^はっかい}}\n* {{ja-r|猪勇|ちょゆう}}\n* {{ja-r|猪苓|ちょれい}}\n* {{ja-r|家猪|かちょ}}\n* {{ja-r|玄猪|げんちょ}}\n* {{ja-r|野猪|やちょ}}\n* {{ja-r|豪猪|ヤマ.アラシ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|イノシシ}}\n{{wp|Wild boar}}\n</div>\n{{ja-kanjitab|yomi=k|いのしし}}\n\nCompound of {{compound|ja|sort=いのしし|猪|tr1=i|t1=[[pig]], [[boar]]|pos1=see below|の|tr2=no|pos2=possessive particle|獣|tr3=shishi|t3=[[beast]]|pos3=archaic}}.<ref>{{R:Daijisen}}</ref><ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いのしし|acc=3|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun<!--|kyu=U+FA16-->|いのしし|イノシシ|hhira=ゐのしし|hkata=ヰノシシ}}\n\n# a [[wild boar]], ''[[Sus scrofa]]''\n#: {{syn|ja|野荒らし|tr=noarashi|野猪|tr2=noshishi}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "{{U:ja:biology|イノシシ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|猪%鹿%蝶|いの%-しか%-ちょう}}\n* {{ja-r|猪熊 通り|^いのくま ^どおり}}\n* {{ja-r|猪%豚|いの%ぶた|[[wild boar]]-[[pig]] [[hybrid]]}}\n* {{ja-r|猪 武者|いのしし むしゃ}}\n* {{ja-r|疣 猪|イボ イノシシ}}\n* {{ja-r|鹿 猪|シカ イノシシ|[[babirusa]]}}\n* {{ja-r|萩に猪|はぎ に いのしし}}\n* {{ja-r|臍 猪|へそ いのしし|[[peccary]]}}\n* {{ja-r|琉球 猪|^りゅうきゅう いのしし}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper<!--|kyu=U+FA16-->|いのしし|hhira=ゐのしし}}\n\n# {{surname|lang=ja|sort=いのしし|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|い}}\n\n{{IPAchar|/wi/}} → {{IPAchar|/i/}}\n\nFrom {{inh|ja|ojp|sort=い|-}}, also used in the ''{{w|Man'yōshū}}'' (759 {{CE}}) as {{m|ja|借音|tr=shakuon}} ''[[kana]]'' for {{IPAfont|⟨wi⟩}}.\n\n{{onomatopoeic|ja}} of the sound of a wild boar.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|豬}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|い}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun<!--|kyu=U+FA16-->|い|hhira=ゐ}}\n\n# a [[pig]] or [[wild boar]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|亥|い}}\n* {{ja-r|猪%養|い%かい|rom=-}}, {{ja-r|猪%飼|い%かい|rom=-}}, {{ja-r|猪%甘|い%かい}}\n* {{ja-r|猪%口|い%ぐち}}\n* {{ja-r|猪%首|い%くび|rom=-}}, {{ja-r|猪%頸|い%くび}}\n* {{ja-r|猪名%川|^いな%がわ}}\n* {{ja-r|猪名野|^いなの}}\n* {{ja-r|猪%苗%代|^い%なわ%しろ}}\n* {{ja-r|豕|いのこ|rom=-}}, {{ja-r|猪の子|いのこ}}\n* {{ja-r|猪尻草|いのしりぐさ}}\n* {{ja-r|猪の手|いので}}\n* {{ja-r|猪俣|^いのまた}}\n* {{ja-r|猪の目|いのめ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=irr|しし}}\n\nFrom {{m|ja|肉|tr=shishi||[[meat]], [[flesh]]}}.<ref name=\"DJR\"/><ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|獣}}\n* {{s|[[deer]] [[meat]]}} {{ja-l|鹿}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|しし|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun<!--|kyu=U+FA16-->|しし}}\n\n# collective term for [[beast]]s used as [[food]]\n# {{lb|ja|by extension}} a [[wild boar]], ''[[Sus scrofa]]''",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|猪%独活|シシ%ウド}}\n* {{ja-r|猪垣|ししがき}}\n* {{ja-r|猪狩|ししがり|rom=-}}, {{ja-r|猪%狩り|しし%がり}}\n* {{ja-r|猪じもの|ししじもの}}\n* {{ja-r|猪%田|しし%だ}}\n* {{ja-r|猪茸|シシタケ}}\n* {{ja-r|猪鍋|ししなべ}}\n* {{ja-r|猪 防ぎ|しし ふせぎ}}\n* {{ja-r|猪道|ししみち}}\n* {{ja-r|猪%矢来|しし%やらい}}\n* {{ja-r|猪論|ししろん}}\n* {{ja-r|野%猪|の%じし}}\n* {{ja-r|病み猪|やみしし}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper<!--|kyu=U+FA16-->|しし}}\n\n# {{surname|lang=ja|sort=しし|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|豚|ブタ|[[pig]]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Pigs|いのしし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

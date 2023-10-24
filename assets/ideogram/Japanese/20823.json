@@ -1,0 +1,39 @@
+{
+  "title": "琵",
+  "ns": 0,
+  "id": 20823,
+  "timestamp": 1549842519000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=玉08}}\n\n# glissando on strings, lute",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[び]] (bi)|kanon=[[ひ]] (hi)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|琵音|びおん}}: [[arpeggio]]\n* {{ja-r|琵琶|びわ}}: [[biwa]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

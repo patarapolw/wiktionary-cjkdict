@@ -1,0 +1,85 @@
+{
+  "title": "沬",
+  "ns": 0,
+  "id": 18720,
+  "timestamp": 1533397409000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n\n<!--\n|c=mui6\n-->{{attention|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-forms|alt=頮,湏,靧}}\n{{zh-pron\n|m=huì\n|oc=2\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|classical}} to [[wash]] the [[face]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-forms}}\n{{zh-pron\n|m=Mèi\n|mc=y\n|oc=3+1\n|cat=pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-forms}}\n{{zh-pron\n|m=mèi\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-obsolete}} the [[light]] of [[twilight]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 4",
+              "text": "{{zh-forms|alt=汆}}\n\n{{zh-pron\n|md=mê\n|mn=bī\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "# {{lb|zh|Min Nan|Min Dong}} to [[sink]]\n# {{lb|zh|Min Nan|Min Dong}} to [[lose]] oneself in, to become [[engrossed]] in, to become [[addicted]] to\n# {{lb|zh|Min Dong}} to [[bow]] one's head"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|沬血|洿沬|沬水|沬頭溜}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B02050}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

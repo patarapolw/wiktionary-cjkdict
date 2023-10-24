@@ -1,0 +1,39 @@
+{
+  "title": "巧",
+  "ns": 0,
+  "id": 14805,
+  "timestamp": 1548541055000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=工02}}\n\n# clever, skillful",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう\n|kanon=こう<かう\n|kun=うま-い, たく-み, たく-む, さとい\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-kanjitab|こう|yomi=o}}{{ja-kanjitab|たく|o1=み|yomi=k}}\n{{ja-pos|proper|たくみ}} {{ja-altread|hira=こう|rom=Kō|hhira=かう}}\n\n# {{given name|male|lang=ja|sort=たくみ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

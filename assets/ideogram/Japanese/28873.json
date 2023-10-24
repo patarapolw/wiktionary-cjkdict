@@ -1,0 +1,49 @@
+{
+  "title": "邪",
+  "ns": 0,
+  "id": 28873,
+  "timestamp": 1532885582000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=邑04}}\n\n# [[wicked]]\n# [[injustice]]\n# [[wrong]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃ<じや, や\n|kanon=しゃ, や\n|kun=か-, よこしま-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|邪魔|じゃま}}\n* {{ja-r|風邪|かぜ}}\n* {{ja-r|邪気|じゃき}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|evil}} {{l|ja|奸}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{sense|evil}} {{l|ja|正}}, {{l|ja|義}} ([[righteous]])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

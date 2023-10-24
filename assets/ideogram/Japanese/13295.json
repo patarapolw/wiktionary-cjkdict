@@ -1,0 +1,71 @@
+{
+  "title": "塚",
+  "ns": 0,
+  "id": 13295,
+  "timestamp": 1547073459000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|冢}}\n{{character info/new}}\n{{character info/new|0xfa10}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=土10}}\n\n# [[mound]], [[hillock]], [[tumulus]] {{qualifier|implies a manmade origin}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちゅう\n|kanon=ちょう\n|kun=つか-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Mound}}\n</div>\n{{ja-kanjitab|つか|yomi=k}}\nCognate with {{etyl|ojp|ja|sort=つか}} verb {{m|ja|築く|tr=tsuku||to build up using earth and/or stone}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nThe {{IPAchar|/a/}} ending may indicate that ''tsuka'' developed as the [[nominalization]] of the {{m|ja|未然形|tr=mizenkei||[[irrealis]] form}} of the verb, suggesting an original meaning of \"that which is being built up into an [[earthworks]] (but isn't finished yet)\". The irrealis is also the root form for constructing the passive form of all Japanese verbs, so the original meaning might instead have been just the passive sense of \"that which is built up into an earthworks\"."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|つか|acc=2|dev=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|冢}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|つか}}\n\n# a [[mound]] or [[hillock]], generally [[manmade]]\n# a [[grave]], a [[tumulus]] or [[burial mound]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|蟻%塚|あり%づか|rom=-}}, {{ja-r|垤|ありづか}}: [[anthill]]\n* {{ja-r|一%里%塚|いち%り%づか}}: a [[milestone]]\n* {{ja-r|鶯%塚|^うぐいす%づか}}: the [[kabuki]] [[play]], ''Mukashigatari Uguisuzuka''\n* {{ja-r|鰻%塚|うなぎ%づか}}\n* {{ja-r|貝%塚|かい%づか}}: a [[shell]] [[mound]] or [[midden]]\n* {{ja-r|狐%塚|きつね%づか}}: [[foxhole]]\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|grave, small burial mound}} {{ja-r|墓|はか}}\n* {{sense|tumulus, large burial mound}} {{ja-r|古墳|こふん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "鼓",
+  "ns": 0,
+  "id": 33118,
+  "timestamp": 1551358019000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|皼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=鼓00}}\n\n# [[drum]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=こ\n|kun=つづみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鼓%手|こ%しゅ|[[drummer]]}}\n* {{ja-r|鼓%声|こ%せい|[[sound]] of a [[drum]]}}\n* {{ja-r|鼓%膜|こ%まく|[[eardrum]]}}\n* {{ja-r|簫%鼓|しょう%こ|[[flute]]s and [[drum]]s}}\n* {{ja-r|太%鼓|たい%こ|[[taiko]]}}\n* {{ja-r|鼓%草|つづみ%ぐさ|[[dandelion]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|つづみ|yomi=k}}\n{{IPAfont|/tudumi<sub>1</sub>/}} → {{IPAchar|/tudumi/}} → {{IPAchar|/t͡sud͡zumi/}} →  {{IPAchar|/t͡suzumi/}}\n\nFrom {{inh|ja|ojp|sort=つつみ|-}}. Attested in the ''{{w|Nihon Shoki}}''.\n\nUltimately derived from {{der|ja|sa|दुन्दुभि|t=[[drum]]|sort=つつみ}}. {{rfv-etymology|ja}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|皷}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つづみ|acc=3|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つづみ}}\n\n# [[generic name]] for [[musical instrument]]s with a leather head that can be struck.\n# a ''[[tsuzumi]]'', [[hand drum]] with leather heads at both ends, used in Japanese traditional performing arts:\n## a {{m|ja|小鼓|tr=kotsuzumi}}\n## an {{m|ja|大鼓|tr=ōtsuzumi}}\n# a style of {{m|ja|家紋|tr=kamon||family [[crest]]}}, like the leather head of a ''tsuzumi''"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|つずみ}}\n\n# {{surname|lang=ja|sort=つすみ}}\n\n{{ja-pos|proper|つづみ}}\n\n# {{given name|lang=ja|female|sort=つつみ}}\n# {{surname|lang=ja|sort=つつみ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Various nanori readings.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|つつみ}}\n\n# {{surname|lang=ja|sort=つつみ}}\n\n{{ja-pos|proper|ひびき}}\n\n# {{given name|lang=ja|female|sort=ひひき}}\n#: from {{m|ja|響き|tr=hibiki||[[echo]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Musical instruments|つづみ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

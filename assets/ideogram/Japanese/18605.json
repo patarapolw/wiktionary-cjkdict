@@ -1,0 +1,44 @@
+{
+  "title": "氾",
+  "ns": 0,
+  "id": 18605,
+  "timestamp": 1537229374000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|泛}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水02}}\n\n# spread out\n# wide",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほん<ほむ\n|kanon=はん<はむ\n|kun=ひろ-がる}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|氾濫|はんらん|gloss=[[flood]], [[inundation]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=4037\n|shift=94c3\n|jis=4845\n|euc=C8C5\n|freq=''not ranked''\n|nelson=2483\n|newnelson=3033\n|halpern=''not listed''\n|kld=''not listed''\n|heisig=2301\n|tuttle=3a2.3\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

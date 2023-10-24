@@ -1,0 +1,39 @@
+{
+  "title": "稼",
+  "ns": 0,
+  "id": 22467,
+  "timestamp": 1544748537000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=禾10}}\n\n# {{defn|lang=ja|sort=禾10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=か\n|kun=みの-り, う-える, かせ-ぐ\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|稼業|かぎょう}}\n{{mid3}}\n* {{ja-r|稼動|かどう}}\n{{mid3}}\n* {{ja-r|稼働|かどう}}\n{{bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

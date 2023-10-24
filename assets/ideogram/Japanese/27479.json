@@ -1,0 +1,51 @@
+{
+  "title": "豈",
+  "ns": 0,
+  "id": 27479,
+  "timestamp": 1554020409000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|岂}}\n{{character info/new}}\n{{character info/new|codepoint=0xF900}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=豆03}}\n\n# an interjection of surprise",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[き]] (ki), [[がい]] (gai), [[かい]] (kai)|kun=[[あに]] (ani)|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{IPA|[ani]|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Adverb",
+              "text": "{{ja-pos|あに|adverb}}\n\n# a rhetorical interrogative; (just) [[how]]\n# expresses a strong denial; not at all, not in the least",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|豈図らんや|あに はからん や}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

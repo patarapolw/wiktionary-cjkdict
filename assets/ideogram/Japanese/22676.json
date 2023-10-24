@@ -1,0 +1,44 @@
+{
+  "title": "笊",
+  "ns": 0,
+  "id": 22676,
+  "timestamp": 1529814765000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=竹04}}\n\n# {{defn|lang=ja|sort=竹04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=そう\n|kun=ざる-, す-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ざる|yomi=k}}\n{{wikipedia|Zaru}}\n[[File:Zaru.jpg|thumb]]\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ざる}}\n\n# [[zaru]], a bamboo [[basket]], used like a [[sieve]] or [[colander]], especially to present food."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

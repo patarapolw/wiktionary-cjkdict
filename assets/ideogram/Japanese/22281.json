@@ -1,0 +1,71 @@
+{
+  "title": "禅",
+  "ns": 0,
+  "id": 22281,
+  "timestamp": 1549346499000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|禪|褝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|禅|禪}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=示09|kyu=禪}}\n\n# [[Chinese]] [[emperor]] [[sacrifice]] [[ceremony]]\n# Chinese emperor [[abdicate|abdicating]] the [[throne]]\n# [[meditative]] [[concentration]]\n# ''[[dhyana]]'', [[Zen]] [[Zen Buddhism|Buddhism]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぜん\n|kanon=せん\n|kun=しずか-<しづか-, ゆず-る<ゆづ-る\n|nanori=さとり, ゆずり<ゆづり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|禅刹|ぜんさつ}}\n* {{ja-r|禅師|ぜんじ}}\n* {{ja-r|禅定|ぜんじょう}}\n* {{ja-r|禅譲|ぜんじょう}}\n* {{ja-r|禅杖|ぜんじょう}}\n* {{ja-r|禅僧|ぜんそう}}\n* {{ja-r|禅道|ぜんどう}}\n* {{ja-r|禅那|ぜんな}}\n* {{ja-r|禅味|ぜんみ}}\n* {{ja-r|禅門|ぜんもん}}\n* {{ja-r|禅林|ぜんりん}}\n* {{ja-r|座禅|ざぜん|rom=-}}, {{ja-r|坐禅|ざぜん|[[sit]]ting meditation}}\n* {{ja-r|参禅|さんぜん}}\n* {{ja-r|四禅|しぜん}}\n* {{ja-r|修禅|しゅぜん}}\n* {{ja-r|受禅|じゅぜん}}\n* {{ja-r|封禅|ほうぜん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja}}\n{{wp|Zen}}\n</div>\n{{ja-kanjitab|ぜん|yomi=o}}\n\nShortened from {{m|ja|禅那|tr=zenna||[[Zen]] [[meditation]] [[practice]]}}, from {{der|ja|ltc|sort=せん'|-}} {{ltc-l|禪那|id=1,1}}, a transliteration of {{der|ja|sa|sort=せん'|ध्यान|tr=[[dhyana|dhyāna]]||[[profound]] [[meditation]]}}.<ref>{{R:Nipponica}}</ref><ref>{{R:Daijisen}}</ref><ref>{{R:Sekai Dai Hyakka Jiten}}</ref><ref name=\"DJR\"/><ref>{{R:Britannica Japan}}</ref> Compare {{cog|pi|झान|tr={{l|pi|jhāna}}}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|ぜん|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|kyu=禪|ぜん}}\n\n# {{lb|ja|Buddhism|sort=せん'}} ''[[dhyana]]-[[samadhi]]'': {{rfdef|ja}}\n#: {{syn|ja|禅定|tr=zenjō|禅那|tr2=zenna}}\n# {{lb|ja|Buddhism}} the [[discipline]]s and [[doctrine]] of [[Zen Buddhism]]\n# {{short for|lang=ja|座禅|tr=[[zazen]]|nodot=1|sort=せん'}}: a [[sit]]ing [[position]] in a [[Zen]] [[meditation]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|禅院|ぜんいん}}\n* {{ja-r|禅客|ぜんかく}}, {{ja-r|禅客|ぜんがく}}\n* {{ja-r|禅宗|^ぜんしゅう}}\n* {{ja-r|禅寺|ぜんでら}}\n* {{ja-r|禅問答|ぜんもんどう}}\n* {{ja-r|蝦蟇禅|がまぜん}}\n* {{ja-r|吹禅|すいぜん|[[blow]]ing [[meditation]]}}\n* {{ja-r|生禅|なまぜん}}\n* {{ja-r|野狐禅|やこぜん|someone who has not fully attained [[enlightenment]], but [[put on airs|puts on airs]] and becomes [[self-important]] as if they have}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|kyu=禪|ぜん}}\n\n# {{lb|ja|Buddhism}} {{short for|lang=ja|禅宗|tr=Zenshū|nodot=1}}: [[Zen Buddhism]]\n# {{surname|lang=ja|A=a|nodot=1|sort=せん'}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "匹",
+  "ns": 0,
+  "id": 11882,
+  "timestamp": 1549587051000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|疋}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=7|rs=匸02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひち\n|kanon=ひつ\n|on=\n|kun=ひき-, たぐい, たぐ-う\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|ひき|counter}}\n\n# small animals\n#: {{ja-usex|犬が'''一匹'''います。|いぬ が '''いっぴき''' います。|There is one dog.}}\n#: {{ja-usex|猫'''三匹'''を飼っています。|ねこ '''さんびき''' を かって います。|I have three cats.}}\n#* {{quote-book\n|lang=ja\n|location=Tokyo\n|publisher=Kodansha\n|||first=Hajime\n|last=Isayama\n|authorlink=Hajime Isayama\n|{{wj|進撃の巨人}}\n|trans-title={{w|Attack on Titan|attack on titan}}\n|isbn=978-4-06-384276-0\n|date=Mar 17 2010\n|origdate=Jul 5 2010\n|edition=4th\n|volume=1\n||86–87\n|chapter={{lj|その[日](ひ)}}\n|trans-chapter=That Day\n}}\n#*: {{ja-usex|駆%逐してやる‼この世から…'''一%匹'''…残らず‼|^く%ちくして やる‼ ^この よ から… '''いっ%ぴき'''… のこらず‼|I will wipe them out‼ Every single one… of those pests… off the face of the earth‼}}\n# rolls of cloth\n# {{lb|ja|historical}} numbers of {{ja-r|銭|せん}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Depending on the preceding word, ''-hiki'' may change via [[euphony]] to become ''-biki'' or ''-piki''.\n* The counter for larger animals, such as [[livestock]], is usually {{m|ja|頭|tr=tō||head}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|疋}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|頭|とう}}: counter for large animals"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Meikyo}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "着",
+  "ns": 0,
+  "id": 21656,
+  "timestamp": 1546269806000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|著|差|羞|看}}\n{{character info/new}}\n{{character info/new|0xfaaa}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han stroke|Mainland China<br/>[[File:着-bw.png|350px]]}}\n{{stroke order|type=animate}}\n{{stroke order|type=janimate}}\n{{ja-forms|着|着|[[著]]/着}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China, the top component is written {{l|mul|⺶}} (the {{l|mul|丿}} stroke is not split into two strokes).\n* In Hong Kong, Japan and Korea, the top component is written {{l|mul|𦍌}} followed by {{l|mul|丿}} (split into two separate components).\n* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+FAAA</code> for the alternative form used in Taiwan that resembles the form used in Hong Kong/Japan/Korea that is written with 12 strokes."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=109|rad=目|as=07|asm++=06|sn=12|snm++=11|four=80605|canj=TQBU|ids=⿸⺶目(GT,<code>U+FAAA</code>),⿱𦍌⿰丿目(HJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is not found in the authoritative {{w|Kangxi dictionary}}. See glyph origin below."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𬿜]], [[𪢂]], [[撯]], [[𬍃]], [[𭢑]], [[𣚰]], [[𤏲]], [[𦅝]], [[𧝙]], [[𨬣]], [[𮬍]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[著]]}} ''(Preferred form used for {{w|traditional Chinese}} in Taiwan)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0808.051|dkj=23339|hdz=53129.090|uh=7740}}\n{{Han ref|uh=FAAA}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

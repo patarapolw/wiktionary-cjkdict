@@ -1,0 +1,39 @@
+{
+  "title": "唱",
+  "ns": 0,
+  "id": 12431,
+  "timestamp": 1552510891000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=口08}}\n\n# chant\n# choir",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう\n|kanon=しょう\n|kun=とな-える, うた-う, うた-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|歌唱|かしょう}}\n* {{ja-r|合唱|がっしょう}}\n* {{ja-r|提唱|ていしょう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

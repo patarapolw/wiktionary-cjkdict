@@ -1,0 +1,39 @@
+{
+  "title": "焜",
+  "ns": 0,
+  "id": 20005,
+  "timestamp": 1495665920000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火08}}\n\n# {{defn|lang=ja|sort=火08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[こん]] (kon)|kun=[[かがやく]] (kagayaku)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|焜炉|こんろ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

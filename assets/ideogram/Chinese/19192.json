@@ -1,0 +1,61 @@
+{
+  "title": "湃",
+  "ns": 0,
+  "id": 19192,
+  "timestamp": 1553555858000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=pài\n|c=paai3,baai3\n|mn=ml:phài/tw:pài\n|mc=y\n|oc=y\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|Used in {{l|zh|澎湃}} and {{l|zh|湃湃}}, etc.}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|奔騰澎湃|彭湃|心潮澎湃|澎湃|浪濤澎湃|滂湃|洶涌澎湃|湃湃|洶湧澎湃|泙湃}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=bá\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Mandarin}} to [[soak]] something in [[cold]] [[water]] to [[cool]]\n#: {{zh-alt-inline|拔}}\n# {{zh-obsolete}} to [[bury]] something in [[ice]] to [[cool]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "雀",
+  "ns": 0,
+  "id": 30762,
+  "timestamp": 1544259910000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=隹03}}\n\n# [[sparrow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さく\n|kanon=しゃく\n|kanyoon=じゃく, じゃん\n|kun=すずめ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|雀%羅|じゃく%ら|[[sparrow]] [[net]]}}\n* {{ja-r|雀%蜂|すずめ%ばち}}\n{{der-bottom}}\n\n{{wikipedia|lang=ja|スズメ}}\n{{ja-kanjitab|すずめ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|すずめ|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|すずめ|スズメ}}\n\n# a {{w|Eurasian tree sparrow}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|黄%雀|こう%じゃく}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Shortened from {{l|ja|麻雀}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": ""
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ジャン}}\n\n# {{w|mahjong}}<ref>{{cite web|url=http://www.kanji.org/kanji/dictionaries/KKLD/learnrev.htm|title=Kanji Dictionary Publishing Society - Kanji Dictionary for Japanese Learners|site=kanji.org|year=2013|accessdate=2018-10-9}}</ref> {{rfv-sense|ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|sort=すずめ}}\n{{topics|ja|True sparrows|sort=すずめ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

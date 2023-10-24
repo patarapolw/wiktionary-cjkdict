@@ -1,0 +1,44 @@
+{
+  "title": "叟",
+  "ns": 0,
+  "id": 12060,
+  "timestamp": 1553324731000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|叜}}\n{{character info/new}}\n{{character info|0x2F837}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In Taiwan and Hong Kong, this character and its derived characters are written with {{l|mul|𦥑}} (7 strokes) as the upper component while in {{w|zh:新字形|mainland China}}, this character and its derivatives are written with {{l|mul|臼}} (6 strokes) as the upper component.\n* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+2F837</code>''(composition: <small>{{l|mul|⿱[[申]][[又]]}}</small>)'' and is encoded for a historical variant found in the Ming dynasty dictionary 《重訂直音篇》. <!-- Refer Page 35, Character no. 4 of https://archive.org/stream/02076767.cn#page/n34/mode/2up -->"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "* <code>U+53DF</code> {{Han char|rn=29|rad=又|as=08|asc=07|sn=10|snc=9|four=77407|canj=HXLE|ids=⿱⿻臼丨又(G),⿱⿻𦥑丨又(HTJK)}} <!-- 𦥔 has two different forms and is only used in G and T -->\n* <code>U+2F837</code> {{Han char|rn=29|rad=又|as=05|sn=7|four=|canj=LLE|ids=⿱申又}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[傁]], [[嗖]], [[𭎾]], [[嫂]], [[𡻁]], [[㥰]], [[搜]], [[溲]], [[遚]], [[膄]], [[㮴]], [[𣯜]], [[𭵕]], [[獀]], [[瞍]], [[𥕋]], [[𦃈]], [[䏂]], [[艘]], [[螋]], [[謏]]([[𫍲]]), [[𧳶]], [[𫌆]], [[𧽏]], [[醙]], [[鎪]]([[锼]]), [[𩌅]], [[颼]]([[飕]]), [[餿]]([[馊]]), [[騪]]([[𩨄]]), [[𩴍]], [[䱸]]([[𫠑]]), [[鄋]], [[㪢]], [[㲣]], [[𠭦]], [[㟬]], [[𤔣]], [[蓃]], [[𥰞]], [[𠪇]], [[廋]], [[瘦]]}} ''(Note: Different form used in mainland China)''\n* {{l|mul|[[捜]], [[痩]]}} ''(Japanese {{w|shinjitai}} containing  <code>U+2F837</code>(⿱<small>{{l|mul|[[申]][[又]]}}</small>))''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0166.210|dkj=03176|dj=0378.130|hdz=10399.010|uh=53DF}}\n{{Han ref|uh=2F837}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "生",
+  "ns": 0,
+  "id": 21089,
+  "timestamp": 1551520882000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|主|玍}}\n{{character info/new|生|name=CJK UNIFIED IDEOGRAPH-751F|image=|block=CJK Unified Ideographs|sc=Hani|combining=false|aliases=\n|previous_codepoint=0x751E|previous_codepoint_sc=Hani|previous_codepoint_combining=false|previous_codepoint_name=CJK UNIFIED IDEOGRAPH-751E|previous_codepoint_printable=true|previous_codepoint_title=self\n|next_codepoint=0x7520|next_codepoint_sc=Hani|next_codepoint_combining=false|next_codepoint_name=CJK UNIFIED IDEOGRAPH-7520|next_codepoint_printable=false|next_codepoint_title=self\n}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "<!--Middle Korean ᄉᆡᆼ, IPA pronunciation estimate is Sʌiŋ.-->{{attention|ko}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja/new|나다|날|생}}\n\n# [[fresh]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[生日]] ([[생일]], saeng-il): [[birthday]]\n* [[生麥酒]] ([[생맥주]], saengmaekju): [[draft]]/[[draught]] [[beer]]\n* [[妓生]] ([[기생]], gisaeng): [[kisaeng]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

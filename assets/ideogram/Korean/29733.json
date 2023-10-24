@@ -1,0 +1,39 @@
+{
+  "title": "鍼",
+  "ns": 0,
+  "id": 29733,
+  "timestamp": 1511585771000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|针}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[침]], [[감]]|eumhun=|rv=chim, gam|mr=ch'im, kam|y=chim, kam}}\n\n# ([[침]] 침): [[needle]] (used in [[acupuncture]]).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|ko|針|tr=[[침]], chim}} [[needle]] (used in [[sew]]ing, etc., i.e., [[바늘]])."
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{l|ko|鍼術|tr=[[침술]], chimsul}} [[acupuncture]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

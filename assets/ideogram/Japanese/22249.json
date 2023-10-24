@@ -1,0 +1,90 @@
+{
+  "title": "祥",
+  "ns": 0,
+  "id": 22249,
+  "timestamp": 1539251152000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa1a}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|kyu=<!--FA1A-->|rs=示06}}\n\n# [[auspicious]]ness, [[happiness]]\n# [[good]] [[omen]] or [[sign]]\n# [[celebration]] after the [[end]] of a [[mourning]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞう<ざう\n|kanon=しょう<しやう\n|kun=きざ-し, さいわ-い<さいは-ひ, さが-, さち-\n|nanori=あき, あきら, さか, さき, さむ, ただ, なが, ひろ, やす, よし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|祥雲|しょう.うん}}\n* {{ja-r|祥気|しょうき}}\n* {{ja-r|祥忌|しょうき}}\n* {{ja-r|祥慶|しょうけい}}\n* {{ja-r|祥瑞|しょうずい}}\n* {{ja-r|嘉祥|かしょう}}\n* {{ja-r|吉%祥|きち%じょう}}, {{ja-r|吉祥|きっしょう}}\n* {{ja-r|休祥|きゅうしょう}}\n* {{ja-r|錦祥女|^きんしょうじょ}}\n* {{ja-r|災祥|さいしょう}}\n* {{ja-r|小祥忌|しょうしょうき}}, {{ja-r|小祥|しょうしょう}}\n* {{ja-r|瑞祥|ずいしょう}}\n* {{ja-r|清祥|せいしょう}}\n* {{ja-r|善祥|ぜんしょう}}\n* {{ja-r|多祥|たしょう}}\n* {{ja-r|大祥忌|だいしょうき}}, {{ja-r|大祥|だいしょう}}\n* {{ja-r|発祥|はっしょう}}\n* {{ja-r|不祥|ふしょう}}\n* {{ja-r|福%祥|ふく%しょう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しょう|yomi=kanon}}\n{{IPAchar|/sɨau/}} → {{IPAchar|/sʲɨɔː/}} → {{IPAchar|/sjɔː/}} → {{IPAchar|/sjoː/}}\n\nFrom {{bor|ja|ltc|sort=しよう|-}} {{ltc-l|祥}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=ko|しょう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=<!--FA1A-->|しょう|hhira=しやう}}\n\n# a [[omen]] of [[good]] [[fortune]] or [[happiness]]\n#: {{syn|ja|吉兆|tr=kitchō|瑞兆|tr2=zuichō}}\n# a [[sign]] of good or [[bad]] [[luck]]\n# {{Rfdef|ja|sort=しょう}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|祥%月|しょう%つき}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|kyu=<!--FA1A-->|しょう|hhira=しやう}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=しよう}}\n# {{surname|lang=ja|A=a|nodot=1|sort=しよう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|さが|yomi=k}}\n\nAttested in the ''{{w|Nihon Shoki}}'' (720 {{CE}}).<ref name=\"DJR\"/>\n\nCognate with {{m|ja|性|tr=saga||one's [[nature]], [[destiny]]}}.<ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|前兆}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=<!--FA1A-->|さが}}\n\n# {{lb|ja|archaic|sort=さか}} a [[sign]], [[omen]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

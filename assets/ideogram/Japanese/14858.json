@@ -1,0 +1,44 @@
+{
+  "title": "帋",
+  "ns": 0,
+  "id": 14858,
+  "timestamp": 1553548990000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|紙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=巾04}}\n\n# [[paper]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=し\n|kun=かみ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=5663\n|ku=5467\n|shift=9BE1\n|euc=D6E3\n|freq=''not ranked''\n|nelson=''not listed''\n|newnelson=1552\n|halpern=''not listed''\n|kld=''not listed''\n|heisig=''not listed''\n|tuttle=6a4.4\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "[[俗字]] (zokuji). Non-standard for [[紙]]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "喝",
+  "ns": 0,
+  "id": 12550,
+  "timestamp": 1552025689000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa36}}\n{{character info/new|0xfa78}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かち\n|kanon=かつ\n|kun=しか-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|喝采|かっさい}}\n* {{ja-r|喝破|かっぱ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Interjection",
+              "text": "{{ja-pos|かつ|interjection}}\n\n# {{lb|ja|Buddhism|sort=かつ}} an interjection uttered by Zen Buddhist masters to [[scold]] their students"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かつ}}\n\n# a loud [[exclamation]] or [[scolding]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Kojien}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

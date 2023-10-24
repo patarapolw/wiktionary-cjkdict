@@ -1,0 +1,39 @@
+{
+  "title": "碉",
+  "ns": 0,
+  "id": 22007,
+  "timestamp": 1519048315000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=diāo\n|c=diu1\n|mn=ml:tiau\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|碉堡|碉樓|碉房|高碉}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

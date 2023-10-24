@@ -1,0 +1,37 @@
+{
+  "title": "畋",
+  "ns": 0,
+  "id": 21134,
+  "timestamp": 1539503143000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=田,佃,甸,𤝗-“hunt”}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tián\n|c=tin4\n|mn=ml:tiân\n|mc=y\n|oc=2+1,y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[till]] [[land]]; to [[cultivate]]\n# to [[hunt]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|焚林而畋|捕捉畋獵|畋獵|遊畋}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

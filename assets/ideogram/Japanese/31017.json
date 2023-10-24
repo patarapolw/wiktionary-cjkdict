@@ -1,0 +1,53 @@
+{
+  "title": "鞭",
+  "ns": 0,
+  "id": 31017,
+  "timestamp": 1549587376000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=革09}}\n\n# {{defn|lang=ja|sort=革09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へん\n|kanon=へん\n|kanyoon=べん\n|kun=むち-, むちう-つ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|むち|yomi=k}}\n{{wikipedia|lang=ja}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|むち}}\n\n# [[whip]]\n#: {{ja-usex|'''鞭'''で打つ|'''むち''' で うつ|to whip; to flog}}\n#* {{quote-book|||BOOSTER 1\n|||date=Mar 1 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|グロス}}\n|trans-chapter=Gross}}\n#*: {{ja-usex|'''ムチ'''のように長い腕で、少し離れたところでも攻%撃できる。|'''ムチ''' の よう に ながい うで で、すこし は なれた ところ で も こう%げき できる。|It attacks from a short distance with its long whip-like arms.}}\n#* {{quote-book|||{{lj|\tPharaoh’s Servant －ファラオのしもべ－}}\n|||date=Jul 13 2000\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|ツインテール}}\n|trans-chapter=Twin-Tail}}\n#*: {{ja-usex|'''ムチ'''のようなしっぽ２%本を振り回し攻%撃する、水%中%生%物。|'''ムチ'''のようなしっぽ２%ほんをふりまわしこう%げきする、すい%ちゅう%せい%ぶつ。|An aquatic creature that attacks by brandishing its 2 whip-like tails.|rom='''Muchi''' no yō na shippo ni-hon o furimawashi kōgeki suru, suichū seibutsu.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Alternative forms",
+                      "text": "* {{ja-l|笞}}, {{ja-l|策}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

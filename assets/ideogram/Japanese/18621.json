@@ -1,0 +1,46 @@
+{
+  "title": "汎",
+  "ns": 0,
+  "id": 18621,
+  "timestamp": 1553309157000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|泛}}\n{{character info/new}}\n{{character info|0x2F8FA}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほん\n|kanon=はん\n|on=ふう, ほう, ぶ\n|kun=ただよ-う, ひろ-い\n|nanori=ひろし, ひろ, みな\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|はん}}\n\n# [[pan-]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|汎心論|はんしんろん}}: panpsychism\n* {{ja-r|汎神論|はんしんろん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "叱",
+  "ns": 0,
+  "id": 12078,
+  "timestamp": 1553324660000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𠮟|uni=auto}}\n{{character info/new}}\n{{character info|0x2F83A}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=口02}}\n\n# [[scold]]\n# [[shout]]\n# [[reprove]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しち\n|kanon=しつ\n|kun=しか-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|叱る|しかる}}: to scold\n* {{ja-r|叱り飛ばす|しかりとばす}}: to scold away"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Interjection",
+              "text": "{{ja-pos|interjection|しっ}}\n\n# [[shh]]\n# [[shoo]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Not included in the 2010 jōyō reform in favor of very similar [[𠮟]] (<code>U+20B9F</code>), despite 叱 having been standard in Japanese character sets."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

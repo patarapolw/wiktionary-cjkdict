@@ -1,0 +1,112 @@
+{
+  "title": "歩",
+  "ns": 0,
+  "id": 18394,
+  "timestamp": 1531488015000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|步}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|歩|步}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=止04|kyu=步}}\n\n# [[walk]]\n# a [[step]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶ\n|kanon=ほ\n|kanyoon=ふ\n|kun=ある-く, あゆ-む, あゆ-み\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|歩%廊|ほ%ろう|[[corridor]]; [[platform]]}}\n* {{ja-r|歩行|ほこう|[[travel]] by foot}}\n* {{ja-r|散歩|さんぽ|a [[walk]], to go walking, scatter-steps}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ほ|yomi=o}}\nFrom {{etyl|ltc|ja|sort=ほ}} {{m|zh|歩|tr=bu<sup>H</sup>||step}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ほ|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|kyu=步|ほ|counter}}\n\n# [[steps]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=步|ほ}}\n\n# a [[step]] (as in footstep)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ふ|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyoon|ふ|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=步|ふ}}\n\n# {{lb|ja|shogi|sort=ふ}} [[pawn]] (short for {{m|ja|歩兵|tr=fuhyō}})"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|ぶ|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ぶ|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=步|ぶ}}\n\n# a unit of land measurement"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|kyu=步|あゆみ}}\n\n# {{given name|female|lang=ja|sort=あゆみ}}\n\n{{ja-pos|proper|kyu=步|あゆむ}}\n\n# {{given name|unisex|lang=ja|sort=あゆむ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

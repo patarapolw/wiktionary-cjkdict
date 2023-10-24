@@ -1,0 +1,44 @@
+{
+  "title": "淘",
+  "ns": 0,
+  "id": 19084,
+  "timestamp": 1548839117000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水08}}\n\n# {{defn|lang=ja|sort=水08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どう\n|kanon=とう\n|kun=ゆ-る, よな-ぐ, よな-げる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|淘去|とうきょ}}: [[washing]] [[away]]\n* {{ja-r|淘汰|とうた}}\n* {{ja-r|淘来|とうらい}}: [[washing]] [[near]]\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|淘る|ゆる}}\n* {{ja-r|淘ぐ|よなぐ}}\n* {{ja-r|淘げる|よなげる}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

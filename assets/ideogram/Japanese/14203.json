@@ -1,0 +1,59 @@
+{
+  "title": "富",
+  "ns": 0,
+  "id": 14203,
+  "timestamp": 1553670680000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|冨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=宀09}}\n\n# [[wealth]]\n# [[enrich]]\n# [[abundant]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ\n|kanon=ふう\n|kun=と-む, とみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|豊富|ほうふ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|とみ|yomi=k}}\n\n{{ja-etym-renyokei|富む|とむ|to be [[rich]]}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|とみ|y=k|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とみ}}\n\n# [[wealth]]; [[fortune]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

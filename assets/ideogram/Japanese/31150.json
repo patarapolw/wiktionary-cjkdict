@@ -1,0 +1,324 @@
+{
+  "title": "頭",
+  "ns": 0,
+  "id": 31150,
+  "timestamp": 1553921581000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|头}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=頁07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ず<づ\n|kanon=とう\n|toon=じゅう<ぢゆう\n|kanyoon=と\n|kun=あたま-, かしら-, かぶり-, こうべ-<かうべ-\n|nanori=かぶ, かぶし, かみ, ちゃん, つぶり, つむ, つむり, づ, どたま\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|頭%蓋%骨|とう%がい%こつ|[[skull]], [[cranium]]}}\n* {{ja-r|頭%角|とう%かく|[[distinguishing]] [[oneself]]}}\n* {{ja-r|頭%脳|ず%のう|[[brain]] (intellect)}}\n* {{ja-r|若%頭|わか%がしら|[[underboss]]}}\n* {{ja-r|頭%領|とう%りょう|[[head]], [[chief]]}}\n* {{ja-r|饅%頭|まん%じゅう|{{w|Manjū|manjū}}|pos=a type of bun typically with bean paste filling}}\n* {{ja-r|頭%垢|ふ%け|[[dandruff]]}}\n* {{ja-r|頭%痛|ず%つう|[[headache]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|あたま|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=あたま|-}} of {{unknown|ja|nocap=1|sort=あたま}} derivation. Theories include:\n* Compound of {{m|ja|天}}{{m|ja|玉|tr=a tama|lit=[[heaven]], [[sky]] + [[ball]]}}.  This is problematic phonetically, as {{m|ja|天}} appears historically as ''ama'' or ''ame'', not as just ''a''\n* Compound of {{m|ja|当てる|当て}}{{m|ja|間|tr=ate ma|lit=putting something in contact + [[space]], [[gap]]}}, referring to the head as a [[moxibustion]] point.  This is also problematic phonetically, as the shift from ''ate'' to ''ata'' necessitates a change in meaning of the underlying verb.  This is also problematic semantically, as the {{m|ja|間|tr=ma}} term refers more specifically to a {{m|en|gap}} or {{m|en|space}}.\n* Compound of {{m|ja|貴}}{{m|ja|間|tr=ate ma|lit=[[noble]] + space}}, referring to the most important part of the body.  However, the use of {{m|ja|間|tr=ma}} in this way is again problematic.  Moreover, {{m|ja|貴|tr=ate||noble}} appears in ''{{w|The Tale of the Bamboo Cutter}}'' dating to the 900s CE, while {{lang|ja|頭}} (''atama'') with a sense of {{m|en|fontanelle}} appears in the ''{{w|Wamyō Ruijushō}}'' dated 938 CE, leaving insufficient time for either the semantic or phonetic drift required.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>\n\nHistorically, this term first appears with a sense of {{m|en|fontanelle}}, in reference to the soft place on the top of an infant's head where the bones of the skull have not yet fused.  As such, a more likely derivation might be as a compound of {{compound|ja|当たる|alt1=当た|tr1=ata|t1=not quite touching, not quite in contact|pos1=possibly a fossilized {{m|ja|未然形|tr=mizenkei||incomplete form}} of classical verb {{m|ja|当つ|tr=atsu}}, root of modern {{m|ja|当たる|tr=ataru||to touch, to come into contact}}|間|tr2=ma|t2=space, gap, opening}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あたま|acc=3|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あたま}}\n\n# [[head]] (body part)\n#: {{ja-usex|'''頭'''が痛い。|'''あたま''' が いたい。|My '''head''' hurts.}}\n# {{lb|ja|sort=あたま|anatomy|archaic|possibly|_|obsolete}} the [[fontanelle]] part of the skull",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|頭が良い|あたま が い.い}}: [[bright]], [[intelligent]]\n* {{ja-r|頭が悪い|あたま が わるい}}: [[stupid]], [[intellectually]] [[challenged]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|かしら}}\n\nFrom {{inh|ja|ojp|sort=かしら|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>  Found as a standalone noun in the ''{{w|Man'yōshū}}'', completed some time after 759 CE, and as a counter in the ''{{w|Kojiki}}'', dating to 712 CE.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{sense|head of a doll}} {{l|ja|首}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かしら|acc=3|acc_ref=DJR,NHK}}\n* The pitch accent for the counter depends on the preceding noun."
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|かしら}}\n\n# a [[head]], as when counting [[people]], or [[cattle]] or other [[livestock]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かしら}}\n\n# the [[head]] as a whole\n# [[boss]], [[leader]]\n# top part of a [[Chinese character]]\n# the [[head]] of a [[doll]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|年%頭|とし%がしら|oldest person}}\n* {{ja-r|膝%頭|ひざ%がしら|[[kneecap]]}}\n* {{ja-r|前%頭|まえ%がしら|pos=rank-and-file sumo wrestler}}\n{{der-mid}}\n'''Radical names containing 頭:'''\n* {{ja-r|網%頭|あみ%-がしら|top 'net' radical}}\n* {{ja-r|糸%頭|いと%-がしら|top 'thread' radical}}\n* {{ja-r|老%頭|おい%-がしら|top 'old' radical}}\n* {{ja-r|髪%頭|かみ%-がしら|top 'hair' radical}}\n* {{ja-r|彑%頭|けい%-がしら|top 'pig's head' radical}}\n* {{ja-r|虎%頭|とら%-がしら|top 'tiger' radical}}\n* {{ja-r|冬%頭|ふゆ%-がしら|top 'winter' radical}}\n* {{ja-r|八%頭|はち%-がしら|top 'eight' radical}}\n* {{ja-r|発%頭|はつ%-がしら|top 'dotted tent' radical}}\n* {{ja-r|人%頭|ひと%-がしら|top 'person' radical}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|かぶり|yomi=k}}\n\nCognate with and shift in meaning from {{ja-r|かぶり||covering; hat, crown}}, spelled in kanji as {{m|ja|被り}} or {{m|ja|冠}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かぶり|acc=0|acc_ref=DJR,NHK|acc2=3|acc2_ref=DJR,NHK|acc3=1|acc3_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かぶり}}\n\n# [[head]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|頭を振る|かぶり を ふる|[[shake one's head]] (in [[denial]])}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|かぶ|yomi=irr}}\n\nCognate with {{ja-r|株|かぶ|stump; root}}, from a general sense of {{m|en|lump}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|かぶ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かぶ}}\n\n# {{lb|ja|obsolete|sort=かぶ}} [[head]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|傾く|かぶく|to [[tilt]] one's head; to dress or act in a strange or eccentric way to attract one's attention; to perform [[kabuki]]}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|つぶり|yomi=irr}}\n\nCognate with {{m|ja|粒|tr=tsubu||round thing|pos=such as a grain}}, {{m|ja|禿ぶ|tr=tsubu||to go bald|pos=from the idea of one's head becoming ''round''}}, {{m|ja|円ら|tr=tsubura|pos=adjective||round}}, {{m|ja|潰れる|tr=tsubureru||to become rounded, as from wear and tear, or from crushing}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nSome sources<ref name=\"DJR\">{{R:Daijirin}}</ref> derive this as a shift from {{m|ja|円ら|tr=tsubura|pos=adjective||round}}.  However, the phonology and semantics for this do not fit (changing {{IPAchar|/a/}} to {{IPAchar|/i/}}, and repurposing the adjectivizing suffix {{m|ja|ら}} to instead form a noun).  The modern verb ''tsubureru'' had the form ''tsuburu'' in older stages of the language.  The ''tsuburi'' reading for {{lang|ja|頭}} may more likely represent a nominalization derived from this older verb, following normal patterns for creating nouns from verbs.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|つぶり}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つぶり}}\n\n# [[head]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|つむり|yomi=irr}}\n\nFrom ''tsuburi'' above. Bilabial plosive {{IPAchar|/b/}} becomes bilabial nasal {{IPAchar|/m/}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|つむり|acc=3|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つむり}}\n\n# [[head]]\n# [[hair]] of the [[head]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 7",
+              "text": "{{ja-kanjitab|つむ|yomi=irr}}\n\nShortened from ''tsumuri'' above.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|つむ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つむ}}\n\n# [[head]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|御%頭|お%つむ|[[head]]|pos=mainly used of an infant}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 8",
+              "text": "{{ja-kanjitab|こうべ|yomi=k}}\n\n{{IPAchar|/kamipe/}} → {{IPAchar|/kampe/}} → {{IPAchar|/kaube/}} → {{IPAchar|/kɔːbe/}} → {{IPAchar|/koːbe/}}\n\nCompound of either {{m|ja|上|tr=kami||upper}} or {{m|ja|髪|tr=kami||hair}} (likely [[cognate]]s) with the suffix {{m|ja|方|tr=pe||location, direction}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>\n\nAlternatively, may be an alteration from {{lang|ja|頭}} (''kabu'', “head”, see above) + {{m|ja|上|tr=ue||up}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|こうべ|acc=0|acc_ref=DJR,NHK|acc2=3|acc2_ref=DJR,NHK|acc3=1|acc3_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|首}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こうべ|hhira=かうべ}}\n\n# [[head]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|髑%髏|され%こうべ|[[skull]]|pos=used as a symbol of death}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 9",
+              "text": "{{ja-kanjitab|どたま|yomi=irr}}\n\nContraction of {{prefix|ja|sort=とたま'|ど|tr1=do|t1=super-|pos1=often used ironically as a derogatory prefix|頭|tr2=atama|t2=head}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|どたま|acc=3|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|どたま}}\n\n# {{lb|ja|derogatory|sort=とたま'}} [[head]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Often spelled in hiragana, as {{m|ja|どたま}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 10",
+              "text": "{{ja-kanjitab|ず|yomi=o}}\n\n{{IPAchar|/du/}} → {{IPAchar|/d͡zu/}} → {{IPAchar|/zu/}}\n\nFrom {{der|ja|ltc|sort=す'|-}} {{ltc-l|頭}}. The ''{{ll|ja|呉音|goon}}'' reading, so likely an earlier borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ず|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ず|hhira=づ}}\n\n# [[head]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This reading is more often found in compounds, such as {{m|ja|頭痛|tr=zutsū||a headache}}."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|頭が高い|ず が たかい|[[haughty]]}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 11",
+              "text": "{{ja-kanjitab|とう|yomi=o}}\n\nFrom {{der|ja|ltc|sort=す'|-}} {{ltc-l|頭}}. The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing. The shift from initial {{IPAchar|/d/}} to voiceless {{IPAchar|/t/}} is due to influence or reborrowing from a later stage of the Chinese language.  Compare modern {{cog|cmn|-}} reading ''tóu'', {{cog|yue|-}} ''tau<sup>4</sup>'', {{cog|nan|-}} ''tao<sup>5</sup>''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|とう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|とう|counter}}\n\n# [[head]]s of large animals (cows, horses)\n#: {{ja-usex|合わせて １３００ '''頭''' 余り が 出%荷 され、 全%国 各%地 に 流%通 した。|あわせて せんさんびゃく '''とう''' あまり が しゅっ%か され、 ぜん%こく かく%ち に りゅう%つう した。|Altogether over 1300 '''head''' of cattle have been distributed throughout the country.}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とう}}\n\n# [[head]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|蔵%人%頭|くろ%うど の% とう}}\n* {{ja-r|頭%中%将|とう の% ちゅう%じょう}}\n* {{ja-r|頭%弁|とう の% べん}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            },
+            {
+              "level": 3,
+              "title": "Further reading",
+              "text": "* Etymology entry for {{m|ja||頭|tr=atama}} at Gogen-Yurai Jiten (''Etymology and Origin Dictionary''; in Japanese): http://gogen-allguide.com/a/atama.html\n* Etymology entry for {{m|ja||頭|tr=atama}} at Key: Zatsugaku Jiten (''Key: Dictionary of Miscellaneous Knowledge''; in Japanese}: http://www.7key.jp/data/language/etymology/a/atama.html#etymology\n\n[[Category:Japanese basic words|あたま]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

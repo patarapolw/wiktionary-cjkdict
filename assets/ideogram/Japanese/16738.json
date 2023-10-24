@@ -1,0 +1,39 @@
+{
+  "title": "放",
+  "ns": 0,
+  "id": 16738,
+  "timestamp": 1550416920000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=攴04}}\n\n# [[set free]]\n# [[release]]\n# [[fire]]\n# [[shoot]]\n# [[emit]]\n# [[banish]]\n# [[liberate]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほう\n|kanon=ほう\n|kun=はな-す, はな-つ, はな-れる, ほう-る, ゆる-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|放棄|ほうき}}: [[abandonment]], [[giving up]]; [[renunciation]]\n* {{ja-r|放送|ほうそう}}: [[broadcast]]\n* {{ja-r|放射能|ほうしゃのう}}: [[radioactivity]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

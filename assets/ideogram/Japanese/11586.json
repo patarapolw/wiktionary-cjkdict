@@ -1,0 +1,95 @@
+{
+  "title": "初",
+  "ns": 0,
+  "id": 11586,
+  "timestamp": 1547317472000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=刀05}}\n\n# [[beginning]], [[start]], [[first]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そ\n|kanon=しょ\n|kun=はじ-め, はじ-めて, はつ-, うい-, そ-める\n|nanori=はじめ, し, もと\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|初%雪|はつ%ゆき}}: the first snow\n* {{ja-r|初%心|しょ%しん}}: original intention\n* {{ja-r|初%心%者|しょ%しん%しゃ}}: beginner\n* {{ja-r|最%初|さい%しょ}}: first\n* {{ja-r|初%速%度|しょ%そく%ど}}: initial velocity\n* {{ja-r|初%夏|しょ%か}}: the beginning of summer\n* {{ja-r|初%春|しょ%しゅん}}: the beginning of spring\n* {{ja-r|初%秋|しょ%しゅう}}: the beginning of autumn\n* {{ja-r|初%冬|しょ%とう}}: the beginning of winter\n* {{ja-r|初%誕%生|はつ%たん%じょう}}: first birthday\n* {{ja-r|初%々しい|うい%ういし.い}}: innocent"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|初め|はじめ}}\n* {{ja-r|初めて|はじめて}}\n* {{ja-r|初め|-ぞめ}}\n* {{ja-r|書き初め|かきぞめ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-l|始}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|うい|yomi=k}}\nFrom {{etyl|ojp|ja|sort=うい}}.\n\nupi > uɸi > uwi > ui.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うい|hhira=うひ}}\n\n# the first; a start"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|うい|hhira=うひ}}\n\n# first"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|はつ|yomi=k}}\nFrom {{etyl|ojp|ja|sort=はつ}}.\n\npatu > ɸatu > hatu",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はつ}}\n\n# the [[first]]; a [[start]]; the [[beginning]]\n#: {{ja-usex|今年'''初の'''コンサート|ことし '''はつ の''' コンサート|the '''first''' concert of this year}}\n# first sexual relations\n\n; Antonyms\n* {{ja-r|末|すえ|gloss=[[last]], [[end]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|はつ}}\n\n# first"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|sort=はじめ|yomi=k}}\nFrom {{m|ja|始め|tr=hajime||beginning, first}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|はじめ}}\n\n# {{given name|male|lang=ja|sort=はじめ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

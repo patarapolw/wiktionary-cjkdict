@@ -1,0 +1,39 @@
+{
+  "title": "秀",
+  "ns": 0,
+  "id": 22340,
+  "timestamp": 1541743754000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=禾02}}\n\n# [[excellent]], [[outstanding]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-kanjitab|しゅう|yomi=o}}\n{{ja-readings\n|goon=しゅ\n|kanon=しゅう\n|kun=ひい-でる\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|しゅう}}\n\n# {{given name|male|lang=ja|sort=しゅう}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

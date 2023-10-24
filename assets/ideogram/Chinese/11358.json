@@ -1,0 +1,66 @@
+{
+  "title": "儳",
+  "ns": 0,
+  "id": 11358,
+  "timestamp": 1527236732000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=chán\n|c=caam4\n|mc=1\n|oc=1\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[disorderly]]\n# {{†}} [[ugly]]\n# {{†}} {{zh-alt-form|攙|to [[support]] by the [[arm]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|儖儳|儳亂|儳互|儳儳:chánchán|儳巖|輕儳|鼓儳}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=chàn\n|c=caam3,zaam6\n|mc=2+3\n|oc=2+3\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} to [[insert]]\n# {{†}} {{rfdef|zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|儳言|儳道|儳儳:chànchàn|儳和|儳婦|儳焉|儳然|儳羼|儳路}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B00195}}\n* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

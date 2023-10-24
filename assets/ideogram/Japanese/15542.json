@@ -1,0 +1,44 @@
+{
+  "title": "悠",
+  "ns": 0,
+  "id": 15542,
+  "timestamp": 1509346892000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心07}}\n\n# permanence",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ゆう\n|kun=とお-い, はる-か\n|nanori=ちか, ちかし, はるか, ひさ, ひさし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ゆう}}\n\n# {{given name|male|lang=ja|sort=ゆう}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|はるか}}\n\n# {{given name|female|lang=ja|sort=はるか}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

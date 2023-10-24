@@ -1,0 +1,44 @@
+{
+  "title": "姬",
+  "ns": 0,
+  "id": 13700,
+  "timestamp": 1553314825000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|姫}}\n{{character info/new}}\n{{character info|0x2F862}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|姬|姬|姫|姬}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "The character commonly used in Japanese is {{l|mul|姫}} (<code>U+59EB</code>). Note that the Korean form is written with {{l|mul|𦣝}} as the right component, which is the historical form found in the {{w|Kangxi Dictionary}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=38|rad=女|as=07|sn=10|four=41417|canj=VSLL|ids=⿰女𦣞(GHT),⿰女𦣝(K)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𩠯]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0260.230|dkj=06230|dj=0526.240|hdz=21049.150|uh=59EC}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

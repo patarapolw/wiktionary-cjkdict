@@ -1,0 +1,39 @@
+{
+  "title": "愥",
+  "ns": 0,
+  "id": 15672,
+  "timestamp": 1525805273000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yīng\n|c=\n|mc=\n|oc=\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://www.cns11643.gov.tw/AIDB/query_general_view.do?page=3&code=6479 Chinese National Standards (Master Ideographs Seeker for CNS 11643)]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

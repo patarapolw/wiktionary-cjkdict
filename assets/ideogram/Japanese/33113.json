@@ -1,0 +1,90 @@
+{
+  "title": "鼎",
+  "ns": 0,
+  "id": 33113,
+  "timestamp": 1552876360000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=鼎00}}\n[[File:Liu_Ding.jpg|thumb|250px|{{lang|ja|鼎}} (''kanae'', ''tei''): ceremonial tripod kettle]]\n\n# [[three-legged]] [[kettle]]\n# [[trio]], [[triad]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう<ちやう\n|kanon=てい<てい\n|kun=かなえ-<かなへ-\n|nanori=かね\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[鼎談]]\n* [[鼎立]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|かなえ|yomi=kun}}\nOriginally a compound of {{compound|ja|sort=かなえ|金|tr1=kana|t1=metal|瓮|tr2=he|t2=a pot or pan for holding food or beverages}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{ja-pron|かなえ|acc=h|y=k|acc_ref=SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|釜}} {{qualifier|less common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かなえ|hhira=かなへ}}\n\n# a [[three-legged]] [[kettle]], a [[tripod]] kettle, used for [[cooking]] and later for [[ceremonial]] purposes in ancient China, and often made of [[bronze]]\n# a [[symbol]] of a [[king]] or other high [[authority]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|鼎の軽重を問う|かなえ の けいじゅう を とう}}: \"to ask about the weight of a kettle\" ⇒ to [[question]] a person's [[ability]]\n* {{ja-r|鼎の沸くが如し|かなえ の わく が ごとし}}: \"just like a boiling kettle\" ⇒ a metaphor for a noisy busy situation\n* {{ja-r|鼎の中の一切れの肉|かなえ の なか の ひときれ の にく}}: \"single slice of meat [from] in the kettle\" ⇒ to get a read on the whole from a small sample\n* {{ja-r|鼎を扛ぐ|かなえ を あぐ}}: \"to lift a kettle\" ⇒ to be physically strong\n* {{ja-r|鼎を定む|かなえ を さだむ}}: \"to settle the kettle\" ⇒ to control the imperial capital, to ascend the throne"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|てい|yomi=on}}\nFrom {{etyl|ltc|ja|sort=てい}} {{ltc-l|鼎}}. Compare modern {{cog|cmn|鼎|tr=dǐng}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{ja-pron|てい|acc=a|y=o|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|てい}}\n\n# a three-legged [[kettle]], a [[tripod]] kettle, used for [[cooking]] and later for [[ceremonial]] purposes in ancient China, and often made of [[bronze]]\n# one of the [[I Ching]] [[hexagram]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

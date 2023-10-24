@@ -1,0 +1,47 @@
+{
+  "title": "焗",
+  "ns": 0,
+  "id": 20000,
+  "timestamp": 1524691596000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=焅,鋦}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|火|局|ls=psc|c1=s|c2=p|t1=fire}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "First attested as {{l|zh|局}} in {{lang|zh|《廣東省土話字彙》}} {{defdate|1828}} and as {{l|zh|焗}} in {{lang|zh|《粵語全書》}} {{defdate|1905}} ({{zh-ref|Zhang and Li, 2017}}).\n\nPossible origins include:\n# From {{ltc-l|酷|to be cooked}} ({{w|zh:陳伯陶|Chen Botao}}, {{lang|zh|《東莞縣志》}}), based on an entry in ''{{w|Fangyan}}'':\n#: {{zh-x|胹、飪、亨{pēng}、爛、糦、酋、'''酷'''，熟 也。|''Er'', ''ren'', ''peng'', ''lan'', ''xi'', ''qiu'', '''''ku''''': to be cooked.|collapsed=y|ref=Fangyan}}\n# From {{ltc-l|焅|dry, hot air}} ({{zh-ref|Chan, 1995}}).\n# From {{ltc-l|熇|hot; blazing}} ({{zh-ref|Zhan and Qiu, 2003}}).\n# From {{bor|yue|en|cook}} ({{zh-ref|Zhang and Li, 2017}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jú\n|c=guk6\n|c-t=guuk5\n|h=pfs=kiuk\n|md=\n|mn=xm:ke̍k/qz:kia̍k/zz:kio̍k/tw:ko̍k\n|w=\n|cat=c:a,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} [[stuffy]]\n#: {{zh-x|間 房{fong4-2} 又 冇 開 窗，又 冇 開 風扇，真係 好 焗 啊{aa3}。|The windows are not open and the fan is not on, so it's really '''stuffy''' in the room.|C}}\n# {{lb|zh|chiefly|Cantonese|cooking}} to [[wrap]] [[food]] in [[gauze]], [[tin foil]], or [[paper]] and [[cook]] in [[salt]] or [[sand]] in a [[seal]]ed pot\n# {{lb|zh|Cantonese|cooking}} to [[bake]]\n#: {{zh-x|焗 蛋糕|to '''bake''' a cake|C}}\n# {{lb|zh|Cantonese}} {{rfdef|zh}}\n#: {{zh-x|焗 茶||C}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|鹽焗雞|焗油|焗坊|焗暑|焗雨|焗爐|焗嚫|焗汗|焗傷風|焗盅|焗腳}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

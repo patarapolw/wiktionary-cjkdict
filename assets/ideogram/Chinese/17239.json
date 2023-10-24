@@ -1,0 +1,49 @@
+{
+  "title": "朕",
+  "ns": 0,
+  "id": 17239,
+  "timestamp": 1528467037000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etyl}}\n{{Han simp|𦩎|f=舟|t=月|f2=灷|t2=关}}, corruption of an {{Han compound|舟|t1=boat|丨|t2=item|廾|t3=two hands|ls=ic|nocap=1}}, seen in the oracle bone script and bronze inscriptions, originally meaning “to mend a boat”. It was later borrowed to be used as a first-person pronoun."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhèn\n|c=zam6\n|md=dêng\n|mn=tīm\n|w=3zen\n|mc=y\n|oc=y\n|cat=pron,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[I]]; [[my]] {{gloss|reserved for use by the [[emperor]] after the [[w:Qin Dynasty|Qin Dynasty]]}}\n# [[omen]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|我}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|兆朕|朕兆|朕躬|朕命}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

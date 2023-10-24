@@ -1,0 +1,56 @@
+{
+  "title": "倍",
+  "ns": 0,
+  "id": 11010,
+  "timestamp": 1546198391000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=人08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ばい, べ\n|kanon=はい\n|kun=そむ-く, ま-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|一倍|一粒万倍|数倍|逓倍|人一倍|勇気百倍|倍音|倍加|倍額|倍旧|五倍子|倍数|倍精度|安倍川餅|倍増|倍大|倍率|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ばい}}\n\n# [[twice]], [[double]], [[two]] [[times]]\n#: {{ja-usex|田%中さん の 家 は 私 の 家 の '''倍''' の 大きさ だ。|^た%なか-さん の いえ は わたし の いえ の '''ばい''' の おおきさ だ。|Tanaka's house is '''twice''' the size of mine.}}\n#: {{ja-usex|'''倍''' に する|'''ばい''' に する|to [[double]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{ja-r|半|はん|half}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|ばい}}\n\n# [[times]], [[-fold]]\n#: {{ja-usex|この 飛行機 は あの 飛行機 より も ３'''倍''' 速い。|この ひこうき は あの ひこうき より も さん-'''ばい''' はやい。|This plane is a whole three '''times''' faster than that plane.}}\n#: {{ja-usex|４ の ５'''倍'''|よん の ご-'''ばい'''|4 '''times''' 5}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

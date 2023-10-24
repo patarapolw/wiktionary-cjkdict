@@ -1,0 +1,85 @@
+{
+  "title": "閤",
+  "ns": 0,
+  "id": 30438,
+  "timestamp": 1533473884000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|閣|阁|合|𬮤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|門|合|c1=s|c2=p|t1=door|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|s=阁|alt=𬮤-nonstandard}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=gé\n|c=gap3,gok3\n|c_note=gap3 - side door, surname; gok3 - alt.form of 閣\n|h=pfs=\n|md=\n|mn=kap\n|w=\n|mc=y\n|oc=y\n|cat=n,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[side]] [[door]]\n# [[throne]] [[room]]\n# {{zh-alt-lb|閣*}} [[chamber]]; [[pavilion]]\n# {{zh-alt-lb|閣*}} [[female]] [[quarters]]\n# {{surname|lang=zh}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|閤中|閤兒|閤下|閤子|閤分|閤門}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is considered a {{w|variant Chinese character|variant form}} of {{l|zh|閣}} in mainland China which is succeeded by {{zh-l|阁}} as its simplified form."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|s=合}} <!-- Note: Not considered a variant Chinese character of 闔 in Taiwan or mainland China -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=hé\n|c=hap6\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=\n|oc=\n|cat=v,adv\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-lb|合|闔*}} to [[close]]; to [[shut]]\n#: {{zh-x|把 眼睛 閤{hé} 上。|to '''[[shut]]''' one's [[eyes]]}}\n# {{zh-alt-lb|闔*}} [[all of]]; [[whole]] of; [[entire]]\n#: {{zh-syn|全}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|閤眼|閤家|閤府}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A04386}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

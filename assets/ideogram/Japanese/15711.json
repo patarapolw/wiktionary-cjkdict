@@ -1,0 +1,34 @@
+{
+  "title": "慌",
+  "ns": 0,
+  "id": 15711,
+  "timestamp": 1553550365000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8A7}}\n{{character info|0x2F8A9}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心10}}\n\n# disconcerted",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<くわう\n|kanon=こう<くわう\n|kun=あわ-てる, あわ-ただし.い, くらい\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

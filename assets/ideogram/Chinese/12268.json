@@ -1,0 +1,54 @@
+{
+  "title": "咔",
+  "ns": 0,
+  "id": 12268,
+  "timestamp": 1531308754000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=kǎ,kā\n|c=kaa4,kaa1\n|h=\n|md=\n|mn=\n|w=\n|cat=syllables\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|Used in [[onomatopoeia]] and [[transcription]]s.}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|咔嚓|咔戲|咔唑|咔啉|咔嘰}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|哢|v}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B00331}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

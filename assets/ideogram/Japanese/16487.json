@@ -1,0 +1,39 @@
+{
+  "title": "摂",
+  "ns": 0,
+  "id": 16487,
+  "timestamp": 1530749558000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|攝|摄}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|摂|攝}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手10|kyu=攝}}\n\n# {{defn|lang=ja|sort=手10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<せふ\n|kanon=しょう<せふ\n|kanyoon=せつ\n|kun=おさ-める, かね-る, と-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|おさむ|proper|kyu=攝}}\n\n# {{given name|male|lang=ja|sort=おさむ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

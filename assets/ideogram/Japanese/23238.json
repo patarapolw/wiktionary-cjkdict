@@ -1,0 +1,76 @@
+{
+  "title": "紙",
+  "ns": 0,
+  "id": 23238,
+  "timestamp": 1552532131000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|纸|帋}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=糸04}}\n\n# [[paper]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|帋}} ([[俗字#Japanese|zokuji]])"
+                },
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=かみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|折%紙|おり%がみ}}, {{ja-r|折り%紙|おり%がみ|[[origami]]}}\n* {{ja-r|切%紙|きり%がみ}}, {{ja-r|切り%紙|きり%がみ|[[kirigami]]}}\n* {{ja-r|紙%幣|し%へい|[[paper money]], [[bill]], [[note]]}}\n* {{ja-r|手%紙|て%がみ|[[letter]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=3B66\n|ku=2770\n|shift=8e86\n|euc=BBE6\n|freq=559\n|nelson=3510\n|newnelson=4455\n|halpern=1302\n|kld=879\n|heisig=1829\n|tuttle=6a4.4\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|かみ|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|かみ|acc=o|y=k|acc_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かみ}}\n\n# [[paper]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|紙パック|かみパック}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|かみ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

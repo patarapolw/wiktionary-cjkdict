@@ -1,0 +1,47 @@
+{
+  "title": "獴",
+  "ns": 0,
+  "id": 20627,
+  "timestamp": 1551449240000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym|蒙}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Likely from {{bor|zh|mr|मुंगूस}}, ultimately from {{der|zh|te|ముంగిస}} {{rfv-etymology|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=měng,méng,mǎng\n|c=mung4\n|mn-t=mong5/mou5\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[mongoose]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|蟹獴|食蟹獴|紅頰獴|赤頰獴|蛇獴}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "灼",
+  "ns": 0,
+  "id": 19820,
+  "timestamp": 1532636346000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火03}}\n\n# {{defn|lang=ja|sort=火03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しゃく\n|kun=や-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|灼熱|しゃくねつ}}\n* {{ja-r|灼眼|しゃくがん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

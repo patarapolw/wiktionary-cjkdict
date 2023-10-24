@@ -1,0 +1,44 @@
+{
+  "title": "住",
+  "ns": 0,
+  "id": 10746,
+  "timestamp": 1537584452000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|隹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|じゅう|yomi=on}}\n{{ja-noun|じゅう}}\n\n# [[dwelling]]; [[living]]"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=人05}}\n\n# [[dwelling]], [[reside]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゅう<ぢゆう\n|kanon=ちゅう\n|kun=す-む, す-まう, ず-まい, すみ, し\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|住む|すむ}}: to [[live]] in\n* {{ja-r|住所|じゅうしょ}}: [[address]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

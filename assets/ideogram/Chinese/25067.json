@@ -1,0 +1,49 @@
+{
+  "title": "莪",
+  "ns": 0,
+  "id": 25067,
+  "timestamp": 1544352658000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|䕏}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=䕏,⿱艸義*,⿱艹⿻十𢍻}}\n{{zh-wp|zh:角蒿|en:Incarvillea sinensis}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|艸|我|c1=s|c2=p|t1=grass; plant|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=é\n|c=ngo4\n|mn=gô\n|mn-t=ngo5\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|botany}} {{taxlink|Incarvillea sinensis|species}}\n#: {{zh-syn|角蒿|莪蒿|萝蒿}}\n# {{†}} {{lb|zh|botany}} {{zh-alt-form|菌|tr=jùn|[[mushroom]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|莪蒿|菁莪|蓼莪}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B03884}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

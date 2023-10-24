@@ -1,0 +1,39 @@
+{
+  "title": "篁",
+  "ns": 0,
+  "id": 22864,
+  "timestamp": 1526939339000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹09}}\n\n# bamboo grove",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おう\n|kanon=こう\n|kun=たかむら-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|たかむら|proper}}\n\n# {{surname|lang=ja|sort=たかむら}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

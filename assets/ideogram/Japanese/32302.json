@@ -1,0 +1,66 @@
+{
+  "title": "鱈",
+  "ns": 0,
+  "id": 32302,
+  "timestamp": 1553571623000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鳕}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=魚11}}\n\n# [[codfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=せつ\n|kun=たら-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|矢鱈|やたら}}\n* {{ja-r|出鱈目|でたらめ}}\n\n[[file:Pacific cod - cropped.jpg|thumb|right|200px|鱈(tara)]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|たら|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たら|タラ}}\n\n# [[codfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|助宗鱈|すけそうだら}}, {{ja-r|助惣鱈|すけそうだら}}: [[Alaska pollock]]\n* {{ja-r|介党鱈|すけとうだら}}, {{ja-r|鯳|すけとうだら}}: [[Alaska pollock]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Fish|たら]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

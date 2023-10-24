@@ -1,0 +1,51 @@
+{
+  "title": "扉",
+  "ns": 0,
+  "id": 15971,
+  "timestamp": 1551532351000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=戶08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひ\n|kanon=ひ\n|kun=とびら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とびら}}\n\n# [[door]]\n#: {{ja-usex|その'''扉'''は永久に閉ざされた。|その '''とびら''' は えいきゅう に とざされた。|The '''door''' was closed for good.}}\n# [[title page]]"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ja|闔}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|標題紙|ひょうだいし|gloss=title page}}\n\n[[Category:Japanese basic words|とびら]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

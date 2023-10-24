@@ -1,0 +1,44 @@
+{
+  "title": "治",
+  "ns": 0,
+  "id": 18736,
+  "timestamp": 1553250354000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=水05}}\n\n# [[govern]], [[regulate]], [[administer]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=ち\n|kun=おさ-める, おさ-まる, なお-る, なお-す\n|nanori=はる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|治安|ちあん}}\n* {{ja-r|治世|ちせい}}\n* {{ja-r|治癒|ちゆ}}\n* {{ja-r|治療|ちりょう}}\n* {{ja-r|政治|せいじ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|おさむ|proper}}\n\n# {{given name|male|lang=ja|sort=おさむ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

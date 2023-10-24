@@ -1,0 +1,44 @@
+{
+  "title": "備",
+  "ns": 0,
+  "id": 11180,
+  "timestamp": 1553866066000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|备|僃}}\n{{character info/new}}\n{{character info|0x2F809}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=人10}}\n\n# equip, provision",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=び\n|kanon=ひ\n|kun=そな-える, そな-わる, そなえ\n|nanori=そなう, そなわる, たる, とも, なが, なり, のぶ, まさ, みつ, みな, よ, よし, より\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|備%蓄|び%ちく|gloss=emergency stores}}\n* {{ja-r|備品|びひん|gloss=fixtures}}\n* {{ja-r|準備|じゅんび|gloss=preparation}}\n* {{ja-r|装備|そうび|gloss=equipment}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The printed form of this character typically differs from its handwritten form, with the latter nearly matching the Traditional Chinese form."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

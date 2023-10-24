@@ -1,0 +1,44 @@
+{
+  "title": "柂",
+  "ns": 0,
+  "id": 17420,
+  "timestamp": 1536380016000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木05}}\n\n# [[rudder]], [[tiller]], [[helm]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=い, り, た\n|kun=かじ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|かじ|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かじ|hhira=かぢ}}\n\n# {{lb|ja|uncommon}} {{alternative spelling of|lang=ja|舵||[[helm]]; [[rudder]]; [[position]] of [[leadership]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

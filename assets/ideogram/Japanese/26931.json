@@ -1,0 +1,39 @@
+{
+  "title": "註",
+  "ns": 0,
+  "id": 26931,
+  "timestamp": 1547529978000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|注}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言05}}\n\n# {{defn|lang=ja|sort=言05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちゅう\n|kanon=ちゅう\n|kun=ときあか-す, とく, しるす\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[註解]]\n* [[註釈]]\n* [[註文]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

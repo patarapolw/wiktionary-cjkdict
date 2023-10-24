@@ -1,0 +1,104 @@
+{
+  "title": "侠",
+  "ns": 0,
+  "id": 10886,
+  "timestamp": 1531556182000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|俠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人06|kyu=俠}}\n\n# [[tomboy]]\n# [[chivalry]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<げふ\n|kanon=きょう<けふ\n|toon=きゃん<きやん\n|kun=おとこだて-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|侠客|きょうかく}}\n* {{ja-r|侠気|きょうき}}\n* {{ja-r|侠骨|きょうこつ}}\n* {{ja-r|侠者|きょうしゃ}}\n* {{ja-r|義侠|ぎきょう}}\n* {{ja-r|豪侠|ごうきょう}}\n* {{ja-r|任侠|じんきょう|rom=-}}, {{ja-r|仁侠|じんきょう}}, {{ja-r|任侠|にんきょう|rom=-}}, {{ja-r|仁侠|にんきょう}}\n* {{ja-r|勇侠|ゆうきょう}}\n* {{ja-r|游侠|ゆうきょう|rom=-}}, {{ja-r|遊侠|ゆうきょう}}\n* {{ja-r|侠%気|おとこ%ぎ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|きょう|yomi=o}}\n{{IPAchar|/kepu/}} → {{IPAchar|/kefu/}} → *{{IPAchar|/kewu/}} → {{IPAchar|/keu/}} → {{IPAchar|/kjoː/}}\n\nFrom {{bor|ja|ltc|sort=きやん|-}} {{ltc-l|俠}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=ko|きょう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=俠|きょう|hhira=けふ}}\n\n# [[chivalrous]] [[spirit]] {{rfv-sense|ja}}\n#: {{synonyms|ja|男気|tr=otokogi|俠気|tr2=kyōki}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|侠血|きょうけつ}}\n* {{ja-r|侠心|きょうしん}}\n* {{ja-r|侠盗|きょうとう}}\n* {{ja-r|侠婦|きょうふ}}\n* {{ja-r|武侠|ぶきょう}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|きゃん|yomi=o}}\n\nFrom a later borrowing of {{bor|ja|ltc|sort=きやん|-}} {{ltc-l|俠}}. {{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=to|きゃん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=俠|きゃん}}\n\n# a [[chivalrous]] [[person]]\n#: {{synonyms|ja|侠客|tr=kyōkaku}}\n# a [[tomboy]]\n#: {{synonyms|ja|御侠|tr=o-kyan|転婆|tr2=tenba}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|御%侠|お%-きゃん}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|kyu=俠|infl=na|きゃん}}\n\n# [[chivalrous]]\n# [[tomboyish]]\n#: {{synonyms|ja|御侠|tr=o-kyan|転婆|tr2=tenba}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|きゃん}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

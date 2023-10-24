@@ -1,0 +1,51 @@
+{
+  "title": "陽",
+  "ns": 0,
+  "id": 30694,
+  "timestamp": 1553721455000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|阳}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=阜09}}\n\n# the [[sun]]\n# [[yang]] {{qualifier|in contrast to [[yin]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう\n|kanon=よう<やう\n|kun=ひ-\n|nanori=あきら, みなみ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{l|ja|陽気}}\n* {{l|ja|陽極}}\n* {{l|ja|陽光}}\n* {{l|ja|陽性}}\n* {{l|ja|陽暦}}\n* {{l|ja|太陽}}\n* {{l|ja|陽子}}\n* {{l|ja|夕陽}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ひ|yomi=k}}\n\nSee {{m|ja|日}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひ}}\n\n# {{alternative spelling of|日|lang=ja}}: [[sun]], [[sunshine]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

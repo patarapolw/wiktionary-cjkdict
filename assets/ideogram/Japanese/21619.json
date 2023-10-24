@@ -1,0 +1,61 @@
+{
+  "title": "眠",
+  "ns": 0,
+  "id": 21619,
+  "timestamp": 1549941578000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|眼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=目05}}\n\n# [[sleep]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=めん\n|kanon=べん\n|kanyoon=みん\n|kun=ねむ-い, ねむ-る, ねむり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|眠い|ねむい}}\n* {{ja-r|居眠り|いねむり}}\n* {{ja-r|睡眠|すいみん}}\n\n{{ja-kanjitab|みん|yomi=kanyoon}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|みん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|みん}}\n\n# [[rest]] {{gloss|of a [[silkworm]] before [[moult]]ing}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|of a silkworm}} {{ja-r|休み|やすみ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

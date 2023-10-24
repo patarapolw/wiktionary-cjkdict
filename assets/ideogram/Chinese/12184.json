@@ -1,0 +1,44 @@
+{
+  "title": "呎",
+  "ns": 0,
+  "id": 12184,
+  "timestamp": 1541806199000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|尺}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chǐ\n|c=cek3\n|mn=chhek\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dated}} {{zh-synonym|英尺|foot}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|呎燭光|呎磅|板呎}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A00519}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

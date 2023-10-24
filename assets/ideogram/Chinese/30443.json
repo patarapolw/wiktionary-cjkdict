@@ -1,0 +1,54 @@
+{
+  "title": "閩",
+  "ns": 0,
+  "id": 30443,
+  "timestamp": 1528272430000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|闽}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=闽|alt=𨷷}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|門|虫|ls=psc|c1=p|c2=s|t2=snake}}. The {{zh-l|*虫}} radical was a common component of the names of barbarians ({{zh-ref|Schuessler, 2007}}), probably reflecting the Min people's worship of snakes ({{zh-ref|Li, 2017}})."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "In most modern Min dialects and some other southern dialects (including Hakka and Xiang), it is read with a level tone ({{zh-l|*平聲}}), which is the expected reflex based on rime dictionaries. In Mandarin and the remaining southern dialects, it is read with a rising tone ({{zh-l|*上聲}}), probably due to analogy with the phonetic component of {{ltc-l|閔}} ({{zh-ref|Li, 2017}}).\n\n{{etystub|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=閩\n|m-s=min3\n|c=man5,man4\n|c_note=man4 - uncommon\n|c-t=man3\n|g=min3\n|h=pfs=mén;gd=men2\n|j=ming2\n|mb=mâing\n|md=mìng\n|mn=bân/ml:bîn\n|mn_note=bân - vernacular; bîn - literary\n|mn-t=mang5\n|w=3min\n|x=min2\n|mc=y\n|oc=y\n|cat=n,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[Min]] people {{gloss|ancient ethnic group}}\n# {{zh-div|江}} {{place|zh|t={{w|Min River (Fujian)|Min River}}|river|p/Fujian|c/China}}\n# [[Fujian]]\n# {{zh-div|語|方言}} [[Min]] languages\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|閩越|閩東|閩東話|閩東語|閩南|閩西|閩北|濂洛關閩|洛閩之學|閩語|閩劇|閩侯|閩清|閩本|閩北話|閩北語|閩學|閩江|閩南話|閩中|閩中話|閩中語|閩南語|七閩|八閩|洛閩|閩中十子|閩嶠|閩嶺|閩川|閩徼|閩洛|閩派|閩海|閩粵|閩荒|閩虻|閩蚋|閩關|閩隸}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{zh-l|蠻}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

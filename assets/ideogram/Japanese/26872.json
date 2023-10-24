@@ -1,0 +1,85 @@
+{
+  "title": "言",
+  "ns": 0,
+  "id": 26872,
+  "timestamp": 1547801610000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|訁|讠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=言00}}\n\n# to [[say]]\n# speech",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=げん\n|kun=こと-, い-う, ことば-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|箴言|しんげん|[[proverb]]}}, {{ja-r|箴言|^しんげん|[[Proverbs]]}}\n* {{ja-r|諛言|ゆげん|[[flatter]]ing [[word]]s}}\n* {{ja-r|悪口雑言|あっこうぞうごん}}\n* {{ja-r|言語|げんご}}\n* {{ja-r|言上|ごんじょう}}\n* {{ja-r|方言|ほうげん}}\n* {{ja-r|暴言|ぼうげん}}\n* {{ja-r|無言|むごん}}, {{ja-r|無言|むげん}}\n* {{ja-r|遺言|ゆいごん}}, {{ja-r|遺言|いごん}}\n* {{ja-r|明言|めいげん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|げん|yomi=o}}\nFrom {{etyl|ltc|ja|sort=けん'}} {{m|zh|言|tr=ngjon||speech}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|げん|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|げん}}\n\n# [[word]]\n# {{lb|sort=けん'|ja|linguistics}} [[parole]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|parole}} {{ja-r|パロール}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|こと|yomi=k}}\nCognate with {{m|ja|事|tr=koto||thing}}.<ref name=\"DJS\">{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|こと|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こと}}\n\n# [[word]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

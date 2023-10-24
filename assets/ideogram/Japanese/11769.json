@@ -1,0 +1,44 @@
+{
+  "title": "勇",
+  "ns": 0,
+  "id": 11769,
+  "timestamp": 1553325190000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA76}}\n{{character info|0x2F825}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=力07}}\n\n# [[courage]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ゆ, ゆう\n|kanon=よう\n|kun=いさ-まし.い, いさ-む\n|nanori=いさむ, お, はや\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* [[勇敢]]\n* [[勇気]]\n* [[勇姿]]\n* [[勇者]]\n* [[勇壮]]\n* [[勇退]]\n* [[勇猛]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|いさむ|proper}}\n\n# {{given name|male|lang=ja|sort=いさむ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

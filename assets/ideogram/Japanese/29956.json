@@ -1,0 +1,39 @@
+{
+  "title": "鑓",
+  "ns": 0,
+  "id": 29956,
+  "timestamp": 1511423131000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|金|c1=s|t1=metal|遣|c2=p|ls=psc|no_och2=y}}.\n\nJapanese variant of {{m|ja|鎗}}, {{m|ja|槍}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金14}}\n\n# {{defn|lang=ja|sort=金14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=やり-\n}}\n\n[[Category:Japanese-only CJKV Characters|金+14]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

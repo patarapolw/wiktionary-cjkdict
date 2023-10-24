@@ -1,0 +1,34 @@
+{
+  "title": "褪",
+  "ns": 0,
+  "id": 26657,
+  "timestamp": 1553569800000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=衣10}}\n\n# {{defn|lang=ja|sort=衣10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=とん\n|kanon=とん\n|kanyoon=たい\n|kun=ぬ-ぐ, あ-せる\n|nanori=\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

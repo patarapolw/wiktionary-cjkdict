@@ -1,0 +1,44 @@
+{
+  "title": "涛",
+  "ns": 0,
+  "id": 19023,
+  "timestamp": 1542218701000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|濤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水07|kyu=濤}}\n\n# [[wave]], [[billow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どう<だう\n|kanon=とう<たう\n|kun=なみ-, おおなみ-<おほなみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[涛声]]\n* [[松涛]]\n* [[怒涛]]\n* [[波涛]]\n* [[風涛]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なみ}}\n\n# {{alternative form of|lang=ja|波||[[wave]]}}\n\n{{ja-noun|おおなみ|hhira=おほなみ}}\n# {{alternative spelling of|lang=ja|大波||[[billow]], [[surge]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

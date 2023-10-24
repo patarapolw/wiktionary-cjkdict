@@ -1,0 +1,39 @@
+{
+  "title": "篆",
+  "ns": 0,
+  "id": 22869,
+  "timestamp": 1553053648000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F962}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹09}}\n\n# {{defn|lang=ja|sort=竹09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=でん\n|kanon=てん\n|kun=こしきしば\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|篆刻|てんこく}}\n* {{ja-r|篆書|てんしょ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

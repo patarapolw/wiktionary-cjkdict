@@ -1,0 +1,119 @@
+{
+  "title": "筆",
+  "ns": 0,
+  "id": 22737,
+  "timestamp": 1552876094000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|笔}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=竹06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひち\n|kanon=ひつ\n|kun=ふで-, ふんで-, ふみて-\n|nanori=くし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|筆跡|ひっせき}}\n* {{ja-r|筆記|ひっき}}\n* {{ja-r|筆脈|ひつみゃく}}\n* {{ja-r|執筆|しっぴつ}}\n* {{ja-r|筆順|ひつじゅん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|ふで}}\nShift in pronunciation from ''funde'' below.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Now the most common pronunciation in modern {{etyl|ja|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ふで|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふで}}\n\n# a writing [[brush]], a painting brush, a [[pen]]\n# [[writing]]:\n## the [[act]] of [[writing]]\n## something [[written]]\n## [[handwriting]], how someone [[write]]s",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The {{m|en|pen}} sense is more commonly expressed using the {{etyl|en|-}}-derived term {{ja-r|ペン}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|ふんで}}\nShift in pronunciation from ''fumite'' below. Listed with this reading in the {{lang|ja|観智院}} (''Kanchi-in'') edition of the 11th- or 12th-century {{lang|ja|類聚名義抄}} (''[[w:Ruiju myōgishō|Ruiju Myōgishō]]'') dictionary.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\n[[supersede|Superseded]] by the ''fude'' reading above in modern {{etyl|ja|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ふんで}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふんで}}\n\n# {{lb|ja|sort=ふんで|obsolete}} same as for ''fude'' above: [[brush]]; [[pen]]; [[writing]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|ふみて}}\nCompound of {{compound|ja|sort=ふみて|文|tr1=fumi|t1=writing|手|tr2=te|t2=hand}}. Appears with this reading in the ''[[w:Man'yōshū|Man'yōshū]]'', circa 759.\n\n[[supersede|Superseded]] by the ''fude'' reading above in modern {{etyl|ja|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ふみて}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふみて}}\n\n# {{lb|ja|sort=ふみて|obsolete}} same as for ''fude'' above: [[brush]]; [[pen]]; [[writing]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=o|ひつ}}\n{{IPAchar|/pitu/}} → {{IPAchar|/fitu/}} → {{IPAchar|/hitu/}}\n\nFrom {{etyl|ltc|ja|sort=ひつ}} {{m|zh|筆|tr= pit ||writing brush}}. Compare modern {{etyl|hak|-}} and {{etyl|nan|-}} ''pit'', {{etyl|cmn|-}} ''bǐ''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ひつ|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひつ}}\n\n# a [[brush]], a [[pen]], a [[writing]] or [[drawing]] [[implement]]\n# the [[mark]] made by a [[brush]] or [[pen]]\n# [[writing]] or [[drawing]] with a [[brush]] or [[pen]]\n# an [[allotment]] of [[land]], such as for [[agriculture]] or [[housing]] {{qualifier|from the way that a description of the land and the owner would be written down in the [[survey]] [[register]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|ふで]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

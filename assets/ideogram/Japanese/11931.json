@@ -1,0 +1,51 @@
+{
+  "title": "占",
+  "ns": 0,
+  "id": 11931,
+  "timestamp": 1553250021000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|佔}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=卜03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん<せん<せむ\n|kanon=せん<せん<せむ\n|kun=し-める, うらな-う<うらな-ふ, うら-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|占卜|せんぼく}}: [[augury]], [[divination]], [[fortune-telling]]\n* {{ja-r|卜占|ぼくせん}}: [[augury]], [[divination]], [[fortune-telling]]\n* {{ja-r|複占|ふくせん}}: [[duopoly]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|うら|yomi=k}}\n\n{{ja-noun|うら}}\n\n# {{lb|ja|archaic|sort=うら}} [[fortune-telling]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|卜}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

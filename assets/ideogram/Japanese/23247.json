@@ -1,0 +1,39 @@
+{
+  "title": "索",
+  "ns": 0,
+  "id": 23247,
+  "timestamp": 1550189412000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=糸04}}\n\n# string, thread",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=さく\n|kun=なわ-, もと-める\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|検索|けんさく}}: {{l|en|search}}, {{l|en|look up}}, {{l|en|retrieve}}\n* {{ja-r|索引|さくいん}}: {{l|en|index}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

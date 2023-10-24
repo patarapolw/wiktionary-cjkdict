@@ -1,0 +1,39 @@
+{
+  "title": "彬",
+  "ns": 0,
+  "id": 15236,
+  "timestamp": 1547263476000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|斌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=彡08}}\n\n# [[refined]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひん\n|kanon=ひん\n|kun=あきらか\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|あきら|proper}}\n\n# {{given name|male|lang=ja|sort=あきら}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

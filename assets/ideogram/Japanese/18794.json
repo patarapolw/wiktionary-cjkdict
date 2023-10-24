@@ -1,0 +1,49 @@
+{
+  "title": "泡",
+  "ns": 0,
+  "id": 18794,
+  "timestamp": 1527998072000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水05}}\n\n# [[bubble]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ほう\n|kun=あわ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|泡盛|あわもり}}\n* {{ja-r|発泡酒|はっぽうしゅ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|あわ|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あわ}}\n\n# [[bubble]]\n# [[foam]], [[head]] on carbonated beverages such as beer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

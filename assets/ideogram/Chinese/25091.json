@@ -1,0 +1,44 @@
+{
+  "title": "菂",
+  "ns": 0,
+  "id": 25091,
+  "timestamp": 1521255886000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=的}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|艸|alt1=艹|的|ls=psc|c1=s|c2=p|t1=grass; plant}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=菂\n|c=dik1\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[lotus seed]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|蓮子}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

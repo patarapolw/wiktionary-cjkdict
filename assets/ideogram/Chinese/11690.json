@@ -1,0 +1,124 @@
+{
+  "title": "劄",
+  "ns": 0,
+  "id": 11690,
+  "timestamp": 1550897540000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|札|剳|箚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph 1",
+              "text": "{{Han-glyphref|⿰答刂|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han etym}}\n{{Han compound|答|刂|c1=p|c2=s|t2=knife; blade|ls=psc}}.\n\nNote that historical dictionaries such as {{w|Yupian}} 《{{w2|zh|玉篇}}》 (543 AD) and {{w|Jiyun}} 《{{w2|zh|集韻}}》 (1039 AD) that predated the {{w|Kangxi dictionary}} (published 1716 AD) used this form."
+                },
+                {
+                  "level": 4,
+                  "title": "Etymology 1",
+                  "text": "",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-see|札|v}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This glyph form is considered a {{w|Variant Chinese character|variant form}} of {{l|zh|札}} in mainland China but not in Taiwan. <!-- Refer character 3532, https://zh.wikisource.org/wiki/通用規范漢字表 -->"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Etymology 2",
+                  "text": "",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-see|箚|v|refer [[劄#Glyph 2|glyph 2]] below}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This glyph form is considered a {{w|Variant Chinese character|variant form}} of {{l|zh|⿱[[𥫗]][[㓣]]}} in Taiwan but not in mainland China."
+                    },
+                    {
+                      "level": 5,
+                      "title": "References",
+                      "text": "* {{R:twedu|B03225-003}} <!-- Note: This reference belongs to Glyph 1, Etymology 2 -->"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Etymology 3",
+                  "text": "",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Pronunciation",
+                      "text": "{{zh-pron\n|m=zhá\n|cat=n\n}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{lb|zh|mainland China|traditional Chinese medicine}} {{zh-used in|目劄|type of [[eye]] related [[illness]]}}. <!-- Refer character 7692, https://zh.wikisource.org/wiki/通用規范漢字表 -->"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Glyph 2",
+              "text": "{{Han-glyphref|⿱𥫗㓣|}}\n{{zh-forms|alt=[[剳#Etymology 1|剳]],[[劄#Etymology 2|劄]]:⿰答刂}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QjAzMjI1 -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "Found in the authoritative {{w|Kangxi dictionary}} published during the {{w|Qing dynasty}} in 1716 AD."
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zhá\n|c=zaap3,zaat3\n|c_note=zaap3 - colloquial; zaat3 - variant\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-lb|札}} [[letter]]\n# {{zh-alt-lb|札}} [[official]] [[communiqué]]\n#: {{zh-syn|公文}}\n# [[brief]] [[note]]\n#: {{zh-syn|筆記}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|劄付|劄子|劄記|告劄|撩東劄西|紙劄|駐劄|駐劄國|點劄}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|B03225}} <!-- Note: This reference belongs to Glyph 2 -->\n* {{R:yue:Hanzi}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

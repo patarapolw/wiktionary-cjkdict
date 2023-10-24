@@ -1,0 +1,71 @@
+{
+  "title": "槓",
+  "ns": 0,
+  "id": 17977,
+  "timestamp": 1543100867000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|杠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木10}}\n\n# [[lever]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう\n|kanon=こう<かう\n|kun=てこ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|槓桿|こうかん|[[lever]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|かん|yomi=irr}}\nBorrowing from {{bor|ja|cmn|sort=かん|-}} {{zh-l|槓|tr=gàng}}.<ref name=\"DJS\">{{R:Daijisen}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=irr|カン}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|カン}}\n\n# {{lb|ja|mahjong|sort=かん}} {{short for|lang=ja|槓子|tr=kantsu|nodot=1|sort=かん}}: [[kong]] {{gloss|[[meld]] of [[four]] [[identical]] [[tile]]s}}\n## a {{m|ja|大明槓|tr=dai-minkan}}: [[open]] ''kan''\n## a {{m|ja|小明槓|tr=shō-minkan}} or {{m|ja|加槓|tr=kakan}}: [[add]]ed ''kan''\n## a {{m|ja|暗槓|tr=ankan}}: [[close]]d ''kan''\n# {{lb|ja|mahjong|sort=かん}} a [[call]] for such a meld",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|槓%子|カン%ツ}}\n* {{ja-r|槓ドラ|カンドラ}}\n* {{ja-r|暗槓|アンカン}}\n* {{ja-r|加%槓|カ%カン}}\n* {{ja-r|搶%槓|チャン%カン}}\n* {{ja-r|明槓|ミンカン}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|吃|チー|[[chow]]}}\n* {{ja-r|碰|ポン|[[pung]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

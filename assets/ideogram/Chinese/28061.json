@@ -1,0 +1,39 @@
+{
+  "title": "蹅",
+  "ns": 0,
+  "id": 28061,
+  "timestamp": 1526897915000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chǎ,qiān\n|m-s=ca1\n|c=ja1\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Sichuanese}} to [[step on]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{qualifier|Standard Mandarin}} {{zh-l|踩}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

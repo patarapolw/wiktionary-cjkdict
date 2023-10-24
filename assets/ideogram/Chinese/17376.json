@@ -1,0 +1,39 @@
+{
+  "title": "枛",
+  "ns": 0,
+  "id": 17376,
+  "timestamp": 1553552729000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhào\n|c=zaau3\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[wood]] [[splinter]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 126]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

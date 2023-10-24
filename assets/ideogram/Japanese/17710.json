@@ -1,0 +1,58 @@
+{
+  "title": "棚",
+  "ns": 0,
+  "id": 17710,
+  "timestamp": 1540013731000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|柵|栅}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Kanji",
+                  "text": "{{ja-kanji|grade=c|rs=木08}}\n\n# [[shelf]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Readings",
+                      "text": "{{ja-readings\n|on=ほう\n|kun=たな-\n}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|たな|yomi=kun}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|たな|y=kun}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たな}}\n\n# [[shelf]], [[ledge]], [[rack]], [[trellis]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "title": "音",
+  "ns": 0,
+  "id": 31089,
+  "timestamp": 1552635389000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=音00}}\n\n# [[sound]]\n# [[timbre]]\n# {{short for|lang=ja|音楽|tr=ongaku|nodot=1|sort=おん}}: [[music]]\n# [[speech]] {{gl|[[phonetics]]}}\n# {{short for|lang=ja|字音|tr=jion|nodot=1}}: [[Chinese]]-derived [[reading]] of a ''[[kanji]]''\n# [[news]], [[tiding]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん<おん<おむ\n|kanon=いん<いん<いむ\n|kun=おと-, と-, ね-\n|nanori=お, とん, なり, ねね, のん, ひびき, りり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|音韻|おんいん}}\n* {{ja-r|音価|おんか}}\n* {{ja-r|音階|おんかい}}\n* {{ja-r|音楽|おんがく|[[music]]}}\n* {{ja-r|音感|おんかん}}\n* {{ja-r|音義|おんぎ}}\n* {{ja-r|音響|おんきょう|[[sound]]}}\n* {{ja-r|音曲|おんきょく}}\n* {{ja-r|音訓|おんくん}}\n* {{ja-r|音耗|おんもう}}\n* {{ja-r|音叉|おんさ}}\n* {{ja-r|音子|おんし|[[phonon]]}}\n* {{ja-r|音字|おんじ}}\n* {{ja-r|音質|おんしつ}}\n* {{ja-r|音色|おんしょく}}\n* {{ja-r|音信|おんしん}}\n* {{ja-r|音塵|おんじん}}\n* {{ja-r|音声|おんせい}}\n* {{ja-r|音制|おんせい}}\n* {{ja-r|音節|おんせつ}}\n* {{ja-r|音素|おんそ}}\n* {{ja-r|音息|おんそく}}\n* {{ja-r|音速|おんそく}}\n* {{ja-r|音痴|おんち}}\n* {{ja-r|音注|おんちゅう}}\n* {{ja-r|音調|おんちょう}}\n* {{ja-r|音程|おんてい}}\n* {{ja-r|音通|おんつう}}\n* {{ja-r|音読|おんどく}}\n* {{ja-r|音波|おんぱ}}\n* {{ja-r|音標文字|おんぴょうもじ}}\n* {{ja-r|音便|おんびん}}\n* {{ja-r|音符|おんぷ}}\n* {{ja-r|音譜|おんぷ}}\n* {{ja-r|音問|おんもん}}\n* {{ja-r|音訳|おんやく}}\n* {{ja-r|音律|おんりつ}}\n* {{ja-r|音量|おんりょう}}\n* {{ja-r|観音|かんのん}}\n* {{ja-r|子音|し.いん}}, {{ja-r|子音|しおん|[[consonant]]}}\n* {{ja-r|震音|しんおん|[[tremolo]]}}\n* {{ja-r|琵音|びおん}}: [[arpeggio]]\n* {{ja-r|母音|ぼいん}}, {{ja-r|母音|ぼ.おん|[[vowel]]}}\n* {{ja-r|漣音|れんおん|[[mordent]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|おん|yomi=o}}\n{{IPAfont|*/ʔiəm/}} → {{IPAchar|/əmʉ/}} → {{IPAchar|/omʉ/}} → {{IPAchar|/oɴ/}}\n\nFrom {{der|ja|ltc|sort=おん|-}} {{ltc-l|音}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|おん|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おん}}\n\n# [[sound]]\n# {{lb|ja|linguistics|sort=おん}} [[speech]] [[sound]]\n# {{short for|lang=ja|音読み|tr=on'yomi|nodot=1|sort=おん}}: the [[Chinese]]-derived [[reading]] of a ''[[kanji]]''\n# {{lb|ja|by extension}} reading of a [[Chinese character]] outside the Japanese language; [[rime]]\n# {{short for|lang=ja|音楽|tr=ongaku|nodot=1|sort=おん}}: [[music]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|五十%音|ごじゅう%おん}}\n* {{ja-r|唇音|しんおん}}\n* {{ja-r|舌音|ぜつおん}}\n* {{ja-r|破%擦%音|は%さつ%-おん}}\n* {{ja-r|発音|はつおん}}\n* {{ja-r|破%裂%音|は%れつ%-おん}}\n* {{ja-r|鼻音|びおん}}\n* {{ja-r|摩%擦%音|ま%さつ%-おん}}\n* {{ja-r|録音|ろくおん}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おと|yomi=k}}\n{{IPAfont|⟨oto<sub>2</sub>⟩}} → *{{IPAchar|/otə/}} → {{IPAchar|/oto/}}\n\nFrom {{inh|ja|ojp|sort=おと|-}}.\n\nUltimately from {{inh|ja|jpx-pro|*ətə}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|おと|acc=2|acc_ref=DJR,NHK,SMK2}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おと}}\n\n# a [[sound]]\n#: {{ja-usex|'''音'''を[[漏らす]]|'''おと''' を もらす|to let out a '''sound'''}}\n# when used with a \"hear\" verb, a [[rumor]] or [[fame]] {{rfv-sense|ja}}\n# [[news]], [[tiding]]s\n# a [[reply]], [[response]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "''Oto'' is used for loud sounds and voices, as opposed to ''ne'' (see below)."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|足音|あしおと}}\n* {{ja-r|音に聞く|おと に きく}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|と|yomi=k}}\n{{IPAfont|⟨to<sub>2</sub>⟩}} → *{{IPAchar|/tə/}} → {{IPAchar|/to/}}\n\nShift from ''oto'' above, with the initial ''o'' being dropped.\n\nThe drop is likely due to [[haplology]] with the possessive particle {{ja-r|の}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|と}}\n\n# [[sound]]; [[echo]]; [[voice]]\n#* {{RQ:Manyoshu|14|3453}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3453 here]\n#*: {{ja-usex|m=可是能'''等'''能 登抱吉和伎母賀 吉西斯伎奴 多母登乃久太利 麻欲比伎尓家利|m_kana=かぜの'''と'''の とほきわぎもが きせしきぬ たもとのくだり まよひきにけり|風の'''音'''の遠き我妹が着せし衣%[[袂|手%本]]のくだりまよひ来にけり|かぜ の '''と''' の とほき わぎも が きせし-きぬ% た%もとのくだり まよひきにけり|rom=kaze no '''to''' no tōki wagimo ga kiseshi-kinu tamoto no kudari, mayoi-ki ni keri|My dear wife, far away (as the '''sound''' of the wind), some threads of the sleeves of the kimono you made me wear have come to be worn and chafed!<ref>{{cite-book|1964|Jan Lodewijk Pierson, Jr.|The Makura-Kotoba of the Manyôśû|location=Leiden|publisher=Brill Archive|page=54}}</ref>|sort=と}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|風の音の|かぜ の と の|pos=pillow word}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|ね|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=ね|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|哭}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ね|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ね}}\n\n# a [[sound]], [[voice]]\n# the [[cry]] of an [[animal]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "''Ne'' is used for relatively soft sounds and voices that appeals to human emotions, as opposed to ''oto'' (see above)."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|音%色|ね%いろ|[[timbre]]}}\n* {{ja-r|泣く|なく|rom=-}}, {{ja-r|哭く|なく|[[cry]]}}\n* {{ja-r|空%音|そら%ね|[[imitative]] cry}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|いん|yomi=kanon}}\nFrom {{der|ja|ltc|sort=いん|-}} {{ltc-l|音}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いん|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いん}}\n\n# {{lb|ja|uncommon}} {{alternative form of|音|lang=ja|tr=on}}\n## [[sound]]\n##* {{ja-usex-inline|子'''音'''、母'''音'''|し'''いん'''、ぼ'''いん'''|(also ''shion, boon'') consonant; vowel}}\n## [[news]]; [[tidings]]; [[word]]\n##* {{ja-usex-inline|'''音'''信|'''いん'''しん|(also ''onshin'') message, news}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

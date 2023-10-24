@@ -1,0 +1,49 @@
+{
+  "title": "蝙",
+  "ns": 0,
+  "id": 26118,
+  "timestamp": 1523161562000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=biān\n|c=bin1,bin2,pin1\n|mn=qz,tw,xm:pian/pián\n|mn_note=pian - literary; pián - literary (Zhangzhou); pián - vernacular (俗, Quanzhou, Taiwan, Xiamen)\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only|蝙蝠|[[bat]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|蝙蝠人|蝙蝠俠|蝙蝠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

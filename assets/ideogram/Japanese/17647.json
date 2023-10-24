@@ -1,0 +1,39 @@
+{
+  "title": "梛",
+  "ns": 0,
+  "id": 17647,
+  "timestamp": 1553552895000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木07}}\n\n# {{defn|lang=ja|sort=木07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=な\n|kanon=だ\n|kun=なぎ-\n|nanori=おぎ, やし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|梛%筏|なぎ%いがた}}\n* {{ja-r|梛%木擬|なぎ%もどき}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

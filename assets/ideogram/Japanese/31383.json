@@ -1,0 +1,92 @@
+{
+  "title": "餌",
+  "ns": 0,
+  "id": 31383,
+  "timestamp": 1522475069000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|饵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=食06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=に\n|kanon=じ\n|kun=えさ-, え-, もち\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|好餌|こうじ}}\n* {{ja-r|給餌|きゅうじ}}\n* {{ja-r|擬餌|ぎじ}}\n* {{ja-r|索餌|さくじ}}\n* {{ja-r|食餌|しょくじ}}\n* {{ja-r|薬餌|やくじ}}\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えさ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|えさ|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えさ|hhira=ゑさ}}\n\n# [[animal food]], [[feed]]\n#: {{ja-usex|犬 に 毎日 '''餌''' を 上げて 下さい。|いぬ に まいにち '''えさ''' を あげて ください。|Please '''feed''' the dog every day.}}\n# [[bait]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|餌場|えさば|gloss=feeding grounds}}\n* {{ja-r|餌箱|えさばこ|gloss=the feed tray of an animal, a feed trough, a feed box; a bait box}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|え|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|え|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|え|hhira=ゑ}}\n\n# [[animal food]], [[feed]]\n# [[bait]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|餌食|えじき}}\n* {{ja-r|餌壷|えつぼ}}\n* {{ja-r|餌付く|えづく}}\n* {{ja-r|餌袋|えぶくろ}}\n* {{ja-r|擂り餌|すりえ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Fishing|えさ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

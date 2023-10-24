@@ -1,0 +1,39 @@
+{
+  "title": "造",
+  "ns": 0,
+  "id": 8732,
+  "timestamp": 1552787802000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=辵07}}\n\n# [[create]], [[make]], [[physique]], [[structure]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞう<ざう, そう<さう\n|kanon=そう<さう\n|kun=いた-る, つく, つく-る, つく-り, な-る, みやつこ-\n|nanori=いたる, なり, なる, はじめ, みやつこ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|創造|そうぞう}}\n* {{ja-r|構造|こうぞう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

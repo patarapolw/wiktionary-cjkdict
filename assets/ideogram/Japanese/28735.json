@@ -1,0 +1,66 @@
+{
+  "title": "遁",
+  "ns": 0,
+  "id": 28735,
+  "timestamp": 1503217577000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=辵09}}\n\n# [[escape]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅん, どん\n|kanon=しゅん, とん\n|kun=のがれ-, のが-れる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|のがれ}}\nThe {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|遁れる|tr=nogareru||to run away, to escape}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|のがれ|acc=3|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|遁れ}}, {{ja-l|逃れ}}, {{ja-l|逃}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|のがれ}}\n\n# an [[escape]], a [[dodge]], [[avoidance]], [[evasion]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The {{ja-l|逃れ}} spelling is more common."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

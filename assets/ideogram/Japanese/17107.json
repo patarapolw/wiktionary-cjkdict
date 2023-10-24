@@ -1,0 +1,44 @@
+{
+  "title": "晶",
+  "ns": 0,
+  "id": 17107,
+  "timestamp": 1543519750000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|品}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=日08}}\n\n# [[clear]]\n# [[crystal]]\n# [[diamond]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=せい\n|kun=あき-らか\n|nanori=あき, あきら, てる, まさ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|結晶|けっしょう}}: [[crystal]]\n* {{ja-r|晶子|しょうし}}: [[crystallite]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|あきら|proper}}\n\n# {{given name|unisex|lang=ja|sort=あきら}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

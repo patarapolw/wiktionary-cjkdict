@@ -1,0 +1,39 @@
+{
+  "title": "匿",
+  "ns": 0,
+  "id": 11888,
+  "timestamp": 1508559772000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=匸09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にょく\n|kanon=じょく<ぢよく\n|kanyoon=とく\n|kun=かく-れる, かく-す, かくま-う\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とく}}\n\n# [[shelter]]\n# hide"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

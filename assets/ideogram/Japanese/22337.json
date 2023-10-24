@@ -1,0 +1,44 @@
+{
+  "title": "禽",
+  "ns": 0,
+  "id": 22337,
+  "timestamp": 1511574175000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=8|rs=禸08}}\n\n# [[bird]]\n# {{qualifier|more specifically}} [[chicken]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=きん\n|kun=とり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|家%禽|か%きん}}: [[domestic]] [[fowl]], [[poultry]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Rarely used in modern Japanese. The character {{m|ja|鳥}} is used instead to spell the ''tori'' reading."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "曆",
+  "ns": 0,
+  "id": 17163,
+  "timestamp": 1517153783000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|暦|历}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|暦|曆}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日12}}\n\n# [[calendar]]\n# [[era]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=れき\n|kun=こよみ-\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

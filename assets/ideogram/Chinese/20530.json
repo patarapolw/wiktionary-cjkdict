@@ -1,0 +1,37 @@
+{
+  "title": "猝",
+  "ns": 0,
+  "id": 20530,
+  "timestamp": 1553562076000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=卒}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cù\n|c=cyut3\n|mc=y\n|oc=y\n|ma=\n|cat=adv\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[abruptly]]; [[suddenly]]\n#: {{zh-x|猝死|sudden death}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|匆猝|倉猝|猝然|猝嗟|猝發|猝死|猝地|猝不及防}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

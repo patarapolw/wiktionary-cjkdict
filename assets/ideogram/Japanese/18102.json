@@ -1,0 +1,66 @@
+{
+  "title": "橋",
+  "ns": 0,
+  "id": 18102,
+  "timestamp": 1553720182000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|桥}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=木12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<げう\n|kanon=きょう<けう\n|kun=はし-\n|nanori=ばせ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鉄橋|てっきょう}}\n* {{ja-r|高橋|たかはし}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はし|yomi=k}}\n{{IPAchar|/pasi/}} → {{IPAchar|/ɸasi/}} → {{IPAchar|/hasi/}}\n\nFrom {{etyl|ojp|ja|sort=はし}}, originally indicating either the area between two things, or a connection between two things.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nCognate with {{m|ja|階|tr=hashi||stairs from a garden up to the house}}, both cognate with root ''hasa'' indicating the narrow area between two things, as in {{m|ja|狭間|pos=classical ''hasama'', modern ''hazama''||narrow gap between two things}} or {{m|ja|挟む|tr=hasamu||to put between two things that are close together, to squeeze between two things}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Cognate also with root ''hoso'' indicating the narrowness of a thing itself, as in {{m|ja|細い|tr=hosoi||narrow, slender}}, {{m|ja|細める|tr=hosomeru||to narrow something, to make something narrow}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|はし|acc=o|acc_ref=NHK,DJR,SMK5}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はし}}\n\n# that which is constructed to connect two points for the purpose of transportation: a [[bridge]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|16}}:<ref name=\"SKOS\">{{Shin'yaku Kegonkyō Ongi Shiki}}</ref>\n#*: 旋澓 [...] 梁力將反橋也二字'''波之'''\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|43}}:<ref name=\"SKOS\"/>\n#*: 橋梁 上'''波之'''下宇都波利\n# a [[bridge]]-like [[walkway]] or [[corridor]] between two [[building]]s in a [[manor]], [[palace]], [[castle]], or similar structure\n# a person who acts as a [[bridge]] between different people: a [[mediator]], a [[go-between]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|bridge for traffic}} {{ja-r|橋梁|きょうりょう}}\n* {{sense|corridor}} {{ja-r|渡り廊下|わたりろうか}}, {{ja-r|渡殿|わたどの}}, {{ja-r|長橋|ながはし}}\n* {{sense|mediator}} {{ja-r|仲%立ち|なか%だち}}, {{ja-r|仲介|ちゅうかい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Bridges|はし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "蜉",
+  "ns": 0,
+  "id": 25992,
+  "timestamp": 1516011687000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫07}}\n\n# [[mayfly]]\n# large ant",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶ\n|kanon=ふう\n|kanyoon=ふ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|蜉蝣|かげろう}}, {{ja-r|蜉蝣|ふゆう}}: [[mayfly]]\n* {{ja-r|蚍蜉|ひふ}}: large ant\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "躯",
+  "ns": 0,
+  "id": 28281,
+  "timestamp": 1536712190000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|軀}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=身04|kyu=軀}}\n\n# a [[body]]\n# a [[corpse]]\n# a [[snag]], a [[dead]] [[tree]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=く\n|kun=むくろ-, からだ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This kanji is an extended shinjitai form of {{ja-l|軀}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|むくろ|yomi=kun}}\n{{ja-see|骸}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|からだ|yomi=kun}}\n{{ja-see|体}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* See [[Thesaurus:屍]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

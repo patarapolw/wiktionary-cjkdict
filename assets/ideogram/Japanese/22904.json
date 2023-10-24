@@ -1,0 +1,61 @@
+{
+  "title": "篝",
+  "ns": 0,
+  "id": 22904,
+  "timestamp": 1535829964000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹10}}\n\n# {{defn|lang=ja|sort=竹10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=こう\n|kun=かがり-, ふせご-\n}}\n\n{{ja-kanjitab|かがり|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|かがり|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かがり}}\n\n# [[watchfire]], [[fishing]] [[fire]], [[bonfire]]\n# [[brazier]], [[iron]] [[basket]] for a [[fire]]\n# [[guardhouse]] during the Kamakura period",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|watchfire, fishing fire, bonfire}} {{ja-r|篝火|かがりび}}\n* {{sense|iron basket for a fire}} {{ja-r|篝籠|かがりかご}}\n* {{sense|guardhouse during the Kamakura period}} {{ja-r|篝屋|かがりや}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|篝筏|かがり.いかだ}}\n* {{ja-r|篝灯籠|かがりどうろう}}\n* {{ja-r|篝船|かがりぶね}}\n* {{ja-r|捨て篝|すてかがり}}\n* {{ja-r|花篝|はなかがり}}\n* {{ja-r|虫篝|むしかがり}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Fire|かがり]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "哨",
+  "ns": 0,
+  "id": 12352,
+  "timestamp": 1543805141000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口07}}\n\n# to stand guard, to look out (for a suspect or enemy)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<せう\n|kanon=しょう<せう, そう<さう\n|kun=みはり-}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

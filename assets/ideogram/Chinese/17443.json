@@ -1,0 +1,100 @@
+{
+  "title": "柚",
+  "ns": 0,
+  "id": 17443,
+  "timestamp": 1510502186000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|木|由|ls=psc|c1=s|c2=p|t1=tree; wood}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yòu\n|c=jau6-2,jau6\n|h=pfs=yu;gd=yu4\n|md=iû\n|mn=iū\n|mn-t=iu7\n|w=3hhieu\n|mc=1\n|oc=1\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[pomelo]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|柚子}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|柚子|柚仔|西柚|葡萄柚|碌柚|沙田柚}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yóu,yòu,1nb=Mainland,2nb=Taiwan\n|c=jau4\n|md=iû\n|mn-t=iu5\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[teak]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|柚木|柚梧}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zhóu,zhú,1nb=colloquial,2nb=literary\n|c=zuk6\n|mc=2\n|oc=2\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|weaving}} [[reed]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|杼柚}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

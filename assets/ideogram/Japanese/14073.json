@@ -1,0 +1,109 @@
+{
+  "title": "字",
+  "ns": 0,
+  "id": 14073,
+  "timestamp": 1551263808000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=子03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=あざ-, あざな-, うむ, ます\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|じ|yomi=on}}\nBorrowed from Middle Chinese 字 with the southern [[pronunciation]] ([[kango]], [[Go-on]]).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|じ|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|じ}}\n\n# a [[letter]], [[character]]\n#: {{ja-usex|この字は何と読みますか？|この じ は なん と よみます か？|How do you pronounce this character?}}\n# [[handwriting]]\n#: {{ja-usex|彼女は字が上手い。|かのじょ は じ が うまい。|She has good handwriting.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|永%字|えい%じ|the character {{m|ja|永|tr=ei||eternity}}}}\n* {{ja-r|十%字|じゅう%じ|[[cross]]}}\n* {{ja-r|字%解|じ%かい}}\n* {{ja-r|字%義|じ%ぎ|the meaning of a word}}\n* {{ja-r|字%源|じ%げん|the construction of a character}}\n* {{ja-r|字%体|じ%たい|font or lettering}}\n* {{ja-r|字%典|じ%てん|character dictionary}}\n* {{ja-r|字%母|じ%ぼ|letter (of the alphabet)}}\n* {{ja-r|漢%字|かん%じ|Chinese characters}}\n*: {{ja-r|漢%字%返し|かん%じ%がえし|kanji repeater}}\n* {{ja-r|文%字|も%じ|letter, character, or ideograph}}\n* {{ja-r|字%引|じ%びき|dictionary}}\n* {{ja-r|数%字|すう%じ|numeral or number}}\n* {{ja-r|字%訳|じ%やく}}\n* {{ja-r|二%字|に%じ|two [[character]]s}}\n* {{ja-r|大%字|だい%じ|a large character}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|じ|counter}}\n\n# [[letters]], [[characters]]\n#: {{ja-usex|４０%字%以%内で書いてください。|よんじゅう-%じ %い%ない で かいて ください。|Please write it down in 40 letters or fewer.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|あざ|yomi=k}}\nShortened form of [[あざな]] ''azana'' \"a section of a village\" of ancient [[Japanese]] origin ([[wago]]).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あざ|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あざ}}\n\n# a [[section]] of a [[village]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|大字|おおあざ}}\n* {{ja-r|小字|こあざ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|あざな|yomi=k}}\nOf ancient [[Japanese]] origin ([[wago]]).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あざな|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あざな}}\n\n# [[courtesy name]]\n# [[nickname]]\n# a [[section]] of a [[village]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|autological terms|sort=し'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

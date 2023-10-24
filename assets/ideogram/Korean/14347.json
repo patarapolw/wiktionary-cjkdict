@@ -1,0 +1,34 @@
+{
+  "title": "屋",
+  "ns": 0,
+  "id": 14347,
+  "timestamp": 1553446255000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja/new|집|옥}}\n\n# {{hanja form of|옥|[[house]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ko\n|{{ko-l|옥상|屋上}}\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

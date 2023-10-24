@@ -1,0 +1,66 @@
+{
+  "title": "店",
+  "ns": 0,
+  "id": 15003,
+  "timestamp": 1550923085000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|坫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=广05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=てん<てん<てむ\n|kanon=てん<てん<てむ\n|kun=みせ-, たな-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|代%理%店|だい%り%てん}}\n* {{ja-r|本%店|ほん%てん}}\n* {{ja-r|百%貨%店|ひゃっ%か%てん}}\n* {{ja-r|店%先|みせ%さき}}\n* {{ja-r|支%店|し%てん}}\n* {{ja-r|書%店|しょ%てん}}\n* {{ja-r|店%子|たな%こ}}\n* {{ja-r|店%員|てん%いん}}\n* {{ja-r|店%舗|てん%ぽ}}\n* {{ja-r|店%頭|てん%とう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|みせ}}\n\n# a [[commercial]] building; a [[store]]; a [[shop]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|みせ|acc=2|acc_ref=ZAJ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|ショップ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|てん}}\n\n# [[store]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|みせ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

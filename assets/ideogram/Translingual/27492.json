@@ -1,0 +1,44 @@
+{
+  "title": "豕",
+  "ns": 0,
+  "id": 27492,
+  "timestamp": 1553191646000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|豖}}\n{{character info/new}}\n{{character info|0x2F9D2}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "There are typographical differences in this character in different fonts – in Japanese printing, the last two strokes may connect to the top stroke, as in right of [[衣]], while in handwriting and many other fonts, those strokes connect to the central curving stroke.\n\nDepending on the font, the character {{lang|ja|家}} (Japanese)/{{lang|und|sc=Hant|家}} (Traditional Chinese) may also have either of these variations."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=152|rad=豕|as=00|sn=7|four=10232|canj=MSHO|ids=⿱一𧰨(GHT),⿸𬺻⿸丿乀(G),⿸𬺻⿱丿乀(HT),⿸𬺻⿺乀丿(JKV)}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/豕]]\n* [[㒸]], [[家]], [[逐]], [[圂]], [[冡]], [[彖]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1194.040|dkj=36337|dj=1657.010|hdz=63610.010|uh=8C55|ud=35925|bh=A8A8|bd=43176}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

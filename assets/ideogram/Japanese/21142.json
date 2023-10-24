@@ -1,0 +1,44 @@
+{
+  "title": "畔",
+  "ns": 0,
+  "id": 21142,
+  "timestamp": 1547796218000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=田05}}\n\n# {{defn|lang=ja|sort=田05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ばん\n|kanon=はん\n|kun=あぜ-, くろ-, そむ-く\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あぜ|yomi=k}}\n{{ja-see|あぜ}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|あ|yomi=k}}\n{{ja-see|あ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

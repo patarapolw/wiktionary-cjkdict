@@ -1,0 +1,49 @@
+{
+  "title": "残",
+  "ns": 0,
+  "id": 18428,
+  "timestamp": 1528873683000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|殘|浅}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|殘|残|残}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han simp|殘|f=戔|t=㦮}} for Japanese shinjitai and {{Han simp|殘|f=戔|t=戋|nocap=y}} for simplified Chinese."
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note that Japanese shinjitai uses {{l|mul|㦮}} (extra line above {{l|mul|戋}}) while simplified Chinese uses {{l|mul|戋}}. Due to {{w|Han unification}}, both {{w|simplified Chinese}} and Japanese {{w|shinjitai}} forms are encoded under the same [[code point]]. Different forms can be observed when using the appropriate font."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=78|rad=歹|as=05|asj=06|sn=9|snj=10|four=13250|canj=MNIJ|ids=⿰歹戋(G),⿰歹㦮(TJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𣸶]]}} ''(Based on China glyph form containing {{l|mul|戋}})'' <!-- The official Unicode chart contains 戋 for this derived character -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0580.291|dkj=16459|hdz=21383.080|uh=6B8B}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "title": "靖",
+  "ns": 0,
+  "id": 30918,
+  "timestamp": 1543567183000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa1c}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=靑05}}\n\n# [[peaceful]], [[calm]], [[easygoing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう\n|kanon=せい\n|kun=やす-い, やす-んずる, やす-んじる, やす-\n|nanori=はかる, きよし, のぶ, おさむ, せい, せいじ, しず, しずか, しずむ, やす, やすみ, やすし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From verb {{m|ja|図る|tr=hakaru||to intend, to plan, to set a goal or direction}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|はかる}}\n\n# {{given name|male|lang=ja|sort=はかる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "[[nominalize|Nominalization]] of ''kiyoshi'', the pre-modern terminal form ({{l|ja|終止形|tr=shūshikei}}) of adjective {{m|ja|清い|tr=kiyoi||[[clean]], [[pure]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|きよし}}\n\n# {{given name|male|lang=ja|sort=きよし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "[[nominalize|Nominalization]] of verb {{m|ja|のぶ|tr=nobu||{{l|ja|延ぶ}}, {{l|ja|伸ぶ}}: to grow, to extend}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|のぶ}}\n\n# {{given name|male|lang=ja|sort=のぶ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "[[nominalize|Nominalization]] of verb {{m|ja|治む|tr=osamu||to make something calm, to stabilize}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|おさむ}}\n\n# {{given name|male|lang=ja|sort=おさむ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "[[nominalize|Nominalization]] of adjective {{m|ja|静か|tr=shizuka||calm, quiet}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しずか}}\n\n# {{given name|female|lang=ja|sort=しずか}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "From {{etyl|zhx|ja|sort=せい}} {{m|zh|靖}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|せい}}\n\n# {{surname|lang=ja|sort=せい}}\n# {{given name|female|lang=ja|sort=せい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 7",
+              "text": "Probably from {{m|ja|政治|tr=seiji||politics}}, from the underlying idea of \"calming or stabilizing a country\", similar to the name ''Osamu''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|せいじ}}\n\n# {{given name|male|lang=ja|sort=せいじ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 8",
+              "text": "[[nominalize|Nominalization]] of verb {{m|ja|静む|tr=shizumu||to become quiet, to become settled}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しずむ}}\n\n# {{given name|male|lang=ja|sort=しずむ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 9",
+              "text": "Stem form of adjective {{m|ja|安い|tr=yasui||[[peaceful]], [[calm]], [[easygoing]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|やす}}\n\n# {{given name|male|lang=ja|sort=やしし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 10",
+              "text": "From {{m|ja|休み|tr=yasumi||a rest, a break, a vacation}}, the stem noun form of verb {{m|ja|休む|tr=yasumu||to rest, to take a break, to take a vacation}}, from adjective {{m|ja|安い|tr=yasui||[[peaceful]], [[calm]], [[easygoing]]}} + auxiliary verb {{m|ja|む|tr=mu||to become [adjective], to make something [adjective]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|やすみ}}\n\n# {{given name|female|lang=ja|sort=やしみ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 11",
+              "text": "[[nominalize|Nominalization]] of ''yasushi'', the pre-modern terminal form ({{l|ja|終止形|tr=shūshikei}}) of adjective {{m|ja|安い|tr=yasui||[[peaceful]], [[calm]], [[easygoing]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|やすし}}\n\n# {{given name|male|lang=ja|sort=やしし}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

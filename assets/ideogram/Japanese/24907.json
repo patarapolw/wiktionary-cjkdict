@@ -1,0 +1,85 @@
+{
+  "title": "茜",
+  "ns": 0,
+  "id": 24907,
+  "timestamp": 1544642923000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=艸06}}\n\n# [[madder]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kanyoon=せい\n|kun=あかね-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|アカネ}}\n{{wp|Rubia}}\n</div>\n{{ja-kanjitab|あかね|yomi=k}}\nFrom {{inh|ja|ojp|sort=あかね|-}}.\n\nOriginally a compound of {{compound|ja|sort=あかね|赤|tr1=aka|t1=[[red]]|根|tr2=ne|t2=[[root]]}}.<ref>{{R:Daijisen}}</ref><ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|あかね|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あかね|アカネ}}\n\n# a [[madder]] [[plant]] of the [[genus]] ''[[Rubia]]'', ''especially'' the {{vern|Japanese madder}}, {{taxlink|Rubia argyi|species}}\n# a [[dye]] made from the [[root]]s of a madder plant\n# {{short for|lang=ja|茜色|tr=akane-iro|nodot=1}}: madder [[red]]\n# a red [[dragonfly]]\n#: {{syn|ja|赤とんぼ|tr=aka tonbo}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|茜%色|あかね%-いろ}}\n* {{ja-r|茜 葛|アカネ カズラ}}\n* {{ja-r|茜%雲|あかね%-ぐも}}\n* {{ja-r|茜さす|あかね さす|pos=pillow word}}\n* {{ja-r|茜 菫|アカネ スミレ}}\n* {{ja-r|茜%染|あかね%ぞめ|rom=-}}, {{ja-r|茜%染め|あかね%ぞめ}}\n* {{ja-r|茜 蜻蛉|あかね とんぼ}}\n* {{ja-r|茜 掘る|あかね ほる}}\n* {{ja-r|西洋 茜|セイヨウ アカネ|''[[Rubia tinctorum]]''}}\n* {{ja-r|秋 茜|アキ アカネ}}\n* {{ja-r|夏 茜|ナツ アカネ}}\n* {{ja-r|初 茜|はつ あかね}}\n* {{ja-r|春 茜|はる あかね}}\n* {{ja-r|眉立 茜|マユタテ アカネ}}\n* {{ja-r|深%山 茜|ミ%ヤマ アカネ}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|ガランス|garansu}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{wp|Akane}}\n{{ja-pos|あかね|proper}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=あかね}}\n# {{surname|lang=ja|A=a|nodot=1|sort=あかね}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|せん|yomi=o}}\nFrom {{bor|ja|ltc|sort=せん|-}} {{ltc-l|茜}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|せん}}\n\n# {{given name|female|lang=ja|A=a|nodot=1}}\n# {{surname|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "降",
+  "ns": 0,
+  "id": 30640,
+  "timestamp": 1550520015000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=阜06}}\n\n# [[descend]]\n# [[precipitate]]\n# [[fall]]\n# [[surrender]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<こう, ごう<ごう\n|kanon=こう<かう\n|kun=お-りる, お-ろす, くだ-る, くだ-る, ふ-り, ふ-る\n|nanori=ふり, ふる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|降りる|おりる}}\n* {{ja-r|降る|ふる}}\n* {{ja-r|降ろす|おろす}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

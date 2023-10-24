@@ -1,0 +1,61 @@
+{
+  "title": "儞",
+  "ns": 0,
+  "id": 11327,
+  "timestamp": 1536380105000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|你|妳|您|祢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人14}}\n\n# [[you]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=に\n|kanon=じ<ぢ\n|kun=おれ-, なんじ-<なんぢ-, しか-り, そ-の, のみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|おれ}}\n\nFrom {{inh|ja|ojp|sort=おれ|-}}. Found in use mostly from ancient times until roughly the {{w|Heian period}},<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> used to refer in the [[second person]] to social [[inferior]]s or to [[insult]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>\n\nThe [[second person]] sense of {{m|en|you}} appears to be obsolete in modern Japanese.\n\nNot to be confused with the modern term {{m|ja|俺|tr=ore}} with the [[first person]] sense of {{m|en|I}}, {{m|en|me}}. See {{m|ja|俺}} for that sense.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|おれ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|爾}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|おれ}}\n\n# {{lb|ja|archaic|vulgar|sort=おれ}} {{alternative form of|lang=ja|爾}}: [[you]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

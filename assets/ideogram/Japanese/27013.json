@@ -1,0 +1,44 @@
+{
+  "title": "認",
+  "ns": 0,
+  "id": 27013,
+  "timestamp": 1537020189000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|认}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=言07}}\n\n* meaning: recognize, appreciate",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にょう, にん\n|kanon=じょう, じん\n|kun=みと-める, したた-める\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|認可|にんか}}\n* {{ja-r|認識|にんしき}}\n{{mid3}}\n* {{ja-r|認証|にんしょう}}\n* {{ja-r|認知|にんち}}\n{{mid3}}\n* {{ja-r|認定|にんてい}}\n* {{ja-r|確認|かくにん}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|みとむ}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|みとむ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "孤",
+  "ns": 0,
+  "id": 14091,
+  "timestamp": 1547081550000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=子05}}\n\n# [[solitude]], [[alone]]\n# [[orphan]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=こ\n|kun=みなしご-, ひと-り\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|遺%孤|い%こ}}: [[orphan]]\n* {{ja-r|孤%雲|こ%うん}}\n* {{ja-r|孤%影|こ%えい}}\n* {{ja-r|孤%猿|こ%えん}}\n* {{ja-r|孤%介|こ%かい}}\n* {{ja-r|孤%客|こ%かく}}\n* {{ja-r|孤%雁|こ%がん}}\n* {{ja-r|孤%笈|こ%きゅう}}\n* {{ja-r|孤%衾|こ%きん}}\n* {{ja-r|孤%軍|こ%ぐん}}\n* {{ja-r|孤%閨|こ%けい}}\n* {{ja-r|孤%月|こ%げつ}}\n* {{ja-r|孤%剣|こ%けん}}\n* {{ja-r|孤%高|こ%こう}}\n* {{ja-r|孤%坐|こ%ざ}}\n* {{ja-r|孤%在|こ%ざい}}\n* {{ja-r|孤%山|こ%ざん}}\n* {{ja-r|孤%児|こ%じ}}\n* {{ja-r|孤%弱|こ%じゃく}}\n* {{ja-r|孤%樹|こ%じゅ}}\n* {{ja-r|孤%舟|こ%しゅう}}\n* {{ja-r|孤%愁|こ%しゅう}}\n* {{ja-r|孤%称|こ%しょう}}\n* {{ja-r|孤%聳|こ%しょう}}\n* {{ja-r|孤%城|こ%じょう}}\n* {{ja-r|孤%食|こ%しょく}}\n* {{ja-r|孤%身|こ%しん}}\n* {{ja-r|孤%棲|こ%せい}}: [[living]] [[alone]]\n* {{ja-r|孤%絶|こ%ぜつ}}\n* {{ja-r|孤%村|こ%そん}}\n* {{ja-r|孤%尊|こ%そん}}\n* {{ja-r|孤%忠|こ%ちゅう}}\n* {{ja-r|孤%注|こ%ちゅう}}\n* {{ja-r|孤%灯|こ%とう}}\n* {{ja-r|孤%島|こ%とう}}\n* {{ja-r|孤%独|こ%どく}}\n* {{ja-r|孤%帆|こ%はん}}\n* {{ja-r|孤%平|こ%ひょう}}\n* {{ja-r|孤%峰|こ%ほう}}\n* {{ja-r|孤%篷%庵|こ%ほう%あん}}\n* {{ja-r|孤%本|こ%ほん}}\n* {{ja-r|孤%立|こ%りつ}}: [[isolation]]\n* {{ja-r|孤%塁|こ%るい}}\n* {{ja-r|孤%例|こ%れい}}\n* {{ja-r|孤%老|こ%ろう}}\n* {{ja-r|孤%陋|こ%ろう}}\n* {{ja-r|単%孤|たん%こ}}\n* {{ja-r|徳 は 孤 ならず 必ず 隣 あり|とく は こ ならず かならず となり あり}}\n* {{ja-r|孤児|みなしご}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|こ|yomi=o}}\nFrom {{etyl|ltc|ja|sort=こ}} {{m|zh|孤|tr=ku}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|こ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こ}}\n\n# an [[orphan]]\n# [[solitude]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|みなしご|yomi=kun}}\n[[熟字訓#Japanese|Jukujikun]] kanji use for the term {{l|ja|みなしご}}, itself a compound of {{m|ja|身|tr=mi||identity, family}} + {{m|ja|無|tr=nashi||none, without}} + {{m|ja|子|tr=ko||child}}. The final syllable's ''ko'' reading changes to ''go'' due to {{rendaku|みなしご}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|みなしご|yomi=k}}\n* {{IPA|lang=ja|/mi.na.si.ɡo/|[minäɕiɡo̞]|[minäɕiŋo̞]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|孤児}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みなしご}}\n\n# [[orphan]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

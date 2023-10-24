@@ -1,0 +1,148 @@
+{
+  "title": "身",
+  "ns": 0,
+  "id": 28277,
+  "timestamp": 1552876231000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=身00}}\n\n# [[body]]\n# [[identity]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん\n|kanon=しん\n|kun=み-, む-, むくろ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|身%体|しん%たい}}: body\n* {{ja-r|身%長|しん%ちょう}}: stature, one's [[height]]\n* {{ja-r|身%辺|しん%ぺん}}: one's person\n* {{ja-r|身%代|しん%だい}}: one's fortune, one's property\n* {{ja-r|身%代わり|み%がわり}}: a [[stand-in]], a [[substitute]]\n* {{ja-r|身%軽|み%がる}}: [[agile]], [[nimble]], [[light on one's feet]]\n* {{ja-r|身%形|み%なり}}: one's appearance\n* {{ja-r|身%近|み%ぢか}}: [[close]] by, [[near]]; [[familiar]]\n* {{ja-r|身%元|み%もと}}: identity\n* {{ja-r|身%柄|み%がら}}: social standing\n* {{ja-r|身%分|み%ぶん}}: social position\n* {{ja-r|身%寄り|み%より}}: relative\n* {{ja-r|身%投げ|み%なげ}}: suicide\n* {{ja-r|身%障%者|しん%しょう%しゃ}}: disabled person\n* {{ja-r|身 の 上|み の うえ}}: one's circumstances, one's place in life, one's lot or fortune\n* {{ja-r|身%勝%手|み%がっ%て}}: [[selfishness]]\n* {{ja-r|身 の 程|み の ほど}}: one's social position\n* {{ja-r|身 の 回り|み の まわり}}: one's accoutrements, the things about a person, one's personal belongings\n* {{ja-r|全%身|ぜん%しん}}: whole body\n{{der-mid}}\n* {{ja-r|心%身|しん%しん}}: mind and body\n* {{ja-r|焼%身|しょう%しん}}: self-immolation\n* {{ja-r|変%身|へん%しん}}: transformation\n* {{ja-r|自%身|じ%しん}}: oneself\n* {{ja-r|独%身|どく%しん}}: living alone; a [[bachelor]], a [[single]] [[person]]\n* {{ja-r|単%身|たん%しん}}: alone, one person\n* {{ja-r|前%身|ぜん%しん}}: past life\n* {{ja-r|保%身|ほ%しん}}: self-protection\n* {{ja-r|献%身|けん%しん}}: devotion\n* {{ja-r|立%身|りっ%しん}}: success in life\n* {{ja-r|小%身|しょう%しん}}: humble position\n* {{ja-r|細%身|ほそ%み}}: a narrow body {{qualifier|as of a person or the body of a thing}}\n* {{ja-r|中%身|なか%み}}: [[contents]], the [[insides]] of something\n* {{ja-r|黄%身|き%み}}: [[yolk]]\n* {{ja-r|刺%身|さし%み}}: [[sashimi]]\n* {{ja-r|出%身%地|しゅっ%しん%ち}}: one's native place, where someone is from\n* {{ja-r|身 に 着ける|み に つける}}: to [[wear]], to [[put on]] the body\n* {{ja-r|一%身|いっ%しん}}: the own person, oneself\n* {{ja-r|一%身|ひと%み}}: the entire body\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|み}}\nFrom {{etyl|ojp|ja|sort=み}}. Cognate with {{m|ja|実|tr=mi||seed, fruit, offspring}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nStandalone form of ''mu'' below. May derive as ''mu'' + {{m|ja|い|tr=i|pos=emphatic nominative particle}}. See also the etymology of {{m|ja|神|tr=kami, kamu}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|み|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|み}}\n\n# a [[body]]; {{lb|ja|by extension}}:\n## the [[main]] part of something\n## the [[blade]] of a [[sword]]\n## [[oneself]]\n## one's [[position]], one's [[social]] [[standing]] or [[circumstances]]\n## [[meat]], [[flesh]]\n## [[wood]] {{qualifier|emphasis on the inside, as opposed to the bark}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|身%分|み%ぶん}}: one's [[identity]], one's [[social]] [[standing]]\n* {{ja-r|中%身|なか%み}}: [[contents]], the [[insides]] of something\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|む}}\nFrom {{etyl|ojp|ja|sort=む}}. Bound form of ''mi'' above, only found in compounds.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|む}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|む}}\n\n# {{lb|ja|only in compounds}} a [[body]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|身%代|む%かわり}}, {{ja-r|質|むかわり}}: a [[hostage]]\n* {{ja-r|躯|むくろ}}, {{ja-r|骸|むくろ}}, {{ja-r|身|むくろ}}: a (living) [[body]]; a (dead) body, a [[corpse]]; a [[rotten]] [[tree trunk]]\n* {{ja-r|正身|むざね}}, {{ja-r|実|むざね}}: the true [[nature]] of a [[person]] or [[thing]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|むくろ}}\nFrom {{etyl|ojp|ja|sort=むくろ}}. Compound of {{compound|ja|sort=むくろ|身|tr1=mu|t1=body|pos1=bound form of standalone ''mi''|くろ|tr2=kuro}}. The derivation of the ''kuro'' element is uncertain, but it might be an alteration or ancient form of {{m|ja|幹|tr=kara||trunk, main part}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|むくろ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|躯}}, {{ja-l|骸}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|むくろ}}\n\n# a [[living]] [[body]]\n#* '''720''', {{m|ja|日本書紀}} ([[w:Nihon Shoki|''Nihon Shoki'']], “Chronicles of Japan”), Volume 7, in the section on {{lang|ja|景行天皇}} (''Keikō-tennō'', [[w:Emperor Keikō|Emperor Keikō]]):\n#*: {{lang|ja|身'''體'''長大}}\n#*: {{ja-usex|人となり、'''むくろ'''長く大きにして|ひととなり、 '''むくろ''' たかく おおき に して|His personality and '''body''' were lofty and great}}\n# a [[dead]] [[body]], a [[corpse]]\n#* '''14th century''', {{lang|ja|太平記}} ([[w:Taiheiki|''Taiheiki'']]):\n#*: {{ja-usex|御首は敷皮の上に落ちて'''質'''は尚%坐せるが如し|おんくび は しきかは の うえ に おちて '''むくろ''' は なほ%ざせる が ごとし|rom=onkubi wa shikikawa no ue ni ochite mukuro wa naozaseru ga gotoshi|The head fell onto the hide rug, and the '''corpse''' looked as if it were sitting straight...}}\n# a [[rotten]] [[tree trunk]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|身%籠|むくろ%ごめ}}, {{ja-r|躯%籠|むくろ%ごめ}}: one's [[entire]] [[body]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=o|しん}}\nFrom {{etyl|ltc|ja|sort=しん}} {{m|zh|身|tr=syin||body, self}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|しん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しん}}\n\n# a [[body]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Seldom used on its own. In isolation, the reading ''mi'' is much more common."
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|身%体|しん%たい}}: a [[body]], one's body"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

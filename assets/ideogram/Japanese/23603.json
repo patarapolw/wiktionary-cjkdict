@@ -1,0 +1,39 @@
+{
+  "title": "繝",
+  "ns": 0,
+  "id": 23603,
+  "timestamp": 1509871700000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=糸12}}\n\n# {{defn|lang=ja|sort=糸12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=けん\n|kanon=かん\n|kun=[[あや]] (aya), [[にしきもよう]] (nishikimoyou)|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-l|繧繝}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

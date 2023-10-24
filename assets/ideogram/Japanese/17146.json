@@ -1,0 +1,39 @@
+{
+  "title": "暜",
+  "ns": 0,
+  "id": 17146,
+  "timestamp": 1553310027000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|替|普|晋|𤾕}}\n{{character info/new}}\n{{character info|0x2F8D5}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日10}}\n\n# {{alt-form|lang=ja|[[普]]}} {{gloss|[[general#Adjective|general]], [[universal]], [[widespread]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ふ]] (fu)|kun=[[あまねし]] (amaneshi)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character was added to {{w|JIS X 0208}} in 1990 but is scarcely used except in historical texts."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "拍",
+  "ns": 0,
+  "id": 16105,
+  "timestamp": 1537217396000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひゃく\n|kanon=はく\n|kanyoon=ひょう\n|kun=う-つ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はく|yomi=o}}\nFrom {{etyl|ltc|ja|sort=はく}} {{m|zh|拍|tr=phæk}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|はく|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はく}}\n\n# {{lb|ja|music|sort=はく}} [[beat]]\n# {{lb|ja|phonology|sort=はく}} [[mora]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

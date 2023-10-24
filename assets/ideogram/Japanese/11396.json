@@ -1,0 +1,54 @@
+{
+  "title": "党",
+  "ns": 0,
+  "id": 11396,
+  "timestamp": 1546673248000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|黨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|党|黨}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=儿08|kyu=黨}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "'''As shinjitai or abbreviated form of {{lang|ja|黨}}:'''\n{{ja-readings\n|goon=とう<たう\n|kanon=とう<たう\n|kun=なかま-<なかま-, むら-<むら-\n}}\n\n'''As original character:'''\n{{ja-readings\n|goon=とう<たう\n|kanon=とう<たう\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Rare as an original character, and even more rarely used with its original reading; used mostly in the word {{ja-r|党%項|タン%グート|Tangut}}.\n{{ja-kanjitab|とう|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とう|kyu=黨}}\n\n# political [[party]]\n\n{{ja-noun|たむら|kyu=黨}}\n\n# {{alternative form of|屯|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|とう|kyu=黨}}\n\n# political party"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:DKJ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

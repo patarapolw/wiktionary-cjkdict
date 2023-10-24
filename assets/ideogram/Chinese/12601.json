@@ -1,0 +1,100 @@
+{
+  "title": "嗎",
+  "ns": 0,
+  "id": 12601,
+  "timestamp": 1549692894000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|吗}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=吗}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|口|馬|ls=psc|c1=s|c2=p|t1=mouth; colloquial|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{och-l|無|not}} ({{zh-ref|Schuessler, 2007}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=ma\n|c=maa1,maa3\n|mn=ml:ma/ml:--ma\n|ma=y\n|cat=part\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|Final interrogative particle, forming yes/no questions.}}\n#: {{zh-x|你 喜歡 嗎？|Do you like it?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The particle {{lang|zh|嗎}} allows turning an affirmative sentence into an interrogative sentence without modifying the sentence order.\n: {{zh-x|他 喜歡。|He likes it.}}\n: {{zh-x|他 喜歡 嗎？|Does he like it?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{qualifier|Wu}} {{zh-l|*𠲎}}\n* Question particle: {{zh-l|呢}} (reciprocal questions)."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=mǎ\n|c=maa5,maa1\n|h=pfs=mâ/mà/mò\n|mn=mô͘\n|ma=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{non-gloss definition|Used as a phonetic character.}}\n#: {{zh-x|嗎{mǎ}啡|morphine}}\n#: {{zh-x|嗎{mǎ}哪|manna}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|嗎啉|嗎啡中毒|嗎啡|嗎啡針|嗎呼|嗎兒|嗎呢|百嗎兒}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=má\n|cat=pron\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[what]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-see|罵|hv}}\n{{zh-cat|Beginning}}\n\n{{cln|zh|interrogative particles}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

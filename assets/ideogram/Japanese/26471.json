@@ -1,0 +1,71 @@
+{
+  "title": "袂",
+  "ns": 0,
+  "id": 26471,
+  "timestamp": 1552282030000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=衣04}}\n\n# [[sleeve]]\n# [[foot]] (of a [[hill]] or [[mountain]])\n# [[edge]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けち, まい\n|kanon=けつ, べい\n|kanyoon=へい\n|kun=たもと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|袂別|べいべつ}}\n* {{ja-r|袂裏|べいり}}\n* {{ja-r|分袂|ぶんべい}}\n* {{ja-r|聯袂|れんべい|rom=-}}, {{ja-r|連袂|れんべい}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|たもと|yomi=k}}\nFrom {{inh|ja|ojp|sort=たもと|-}}, first attested in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}).\n\nOriginally a compound of {{m|ja|手|tr=ta|pos=ancient combining form of ''te'', \"[[arm]], [[hand]]\"}} + {{m|ja|本|tr=moto||[[origin]]}}.<ref name=\"DJR\"/><ref name=\"DJS\">{{R:Daijisen}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|たもと|acc=3|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たもと}}\n\n# the [[sleeve]] [[pouch]] of a [[kimono]] or other Japanese clothing\n#* {{w2|ja|梶井基次郎}}{{w2|ja|pref=『|檸檬 (小説)|檸檬|suf=』}}\n#*: {{ja-usex|「あ、[[そう]]だ[[そう]]だ」その[[時]]%[[私]]は'''袂'''の[[中]]の[[檸檬]]を[[憶い出す|憶い出し]]た。|「あ、そう だ そう だ」その とき% わたし は '''たもと''' の なか の れもん を おもいだした。|\"Ah, yes, that's right;\" I remembered that in that moment, I had the lemon tucked away in my '''sleeve'''.}}\n# a [[sleeve]]\n#: {{synonyms|ja|袖|tr=sode}}\n# {{lb|ja|archaic|sort=たもと}} the [[upper arm]]\n# the [[side]] or [[edge]] of something (for example, a [[bridge]])\n#: {{synonyms|ja|際|tr=kiwa|側|tr2=soba}}\n# the [[foot]] or [[base]] of something (for example, a [[mountain]])\n#: {{synonyms|ja|裾|tr=suso|麓|tr2=fumoto}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|袂 石|たもと いし}}\n* {{ja-r|袂%落し|たもと%-おとし|rom=-}}, {{ja-r|袂%落とし|たもと%-おとし}}\n* {{ja-r|袂 糞|たもと くそ}}\n* {{ja-r|袂%時計|たもと%-どけい}}\n* {{ja-r|袂 の 露|たもと の つゆ}}\n* {{ja-r|苔 の 袂|こけ の たもと}}\n* {{ja-r|墨 の 袂|すみ の たもと}}\n* {{ja-r|玉%藻 前%曦 袂|^たま%もの ^まえ%-あさひの ^たもと|rom=Tamamo no Mae-asahi no Tamoto}}\n* {{ja-r|花 の 袂|はな の たもと}}\n* {{ja-r|藤 の 袂|ふじ の たもと}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "{{der-top|Idioms}}\n* {{ja-r|袂 に 縋る|たもと に すがる}}\n* {{ja-r|袂 を 絞る|たもと を しぼる}}\n* {{ja-r|袂 を 連ねる|たもと を つらねる}}\n* {{ja-r|袂 を 分かつ|たもと を わかつ}}\n* {{ja-r|名残 の 袂|なごり の たもと}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

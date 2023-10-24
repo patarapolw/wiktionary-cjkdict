@@ -1,0 +1,59 @@
+{
+  "title": "龕",
+  "ns": 0,
+  "id": 33249,
+  "timestamp": 1544823651000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|龛}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=龍06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=かん\n|kanyoon=がん\n|kun=[[ずし]] (zushi), [[れい]] (rei)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|移龕|いがん}}\n* {{ja-r|開龕|かいがん}}\n* {{ja-r|龕像|がんぞう}}\n* {{ja-r|龕灯|がんどう}}\n* {{ja-r|起龕|きがん}}\n* {{ja-r|啓龕|けいがん}}\n* {{ja-r|鎖龕|さがん}}\n* {{ja-r|神龕|しんがん}}\n* {{ja-r|石龕|せきがん}}\n* {{ja-r|入龕|にゅうがん}}\n* {{ja-r|仏龕|ぶつがん}}\n* {{ja-r|壁龕|へきがん}}: [[niche]]\n* {{ja-r|竜龕手鑑|りゅうがんしゅかん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|がん|yomi=kanyoon}}\nFrom {{etyl|ltc|ja|sort=かん'}} {{m|zh|龕}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|がん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|がん}}\n\n# [[alcove]] for an image"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

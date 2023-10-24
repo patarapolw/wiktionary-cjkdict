@@ -1,0 +1,39 @@
+{
+  "title": "沸",
+  "ns": 0,
+  "id": 18733,
+  "timestamp": 1542888125000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水05}}\n\n# {{defn|lang=ja|sort=水05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひ\n|kanon=ひ\n|kanyoon=ふつ\n|kun=わ-く, わ-かす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|沸かす|わかす}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

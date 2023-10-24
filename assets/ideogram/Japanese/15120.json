@@ -1,0 +1,73 @@
+{
+  "title": "弁",
+  "ns": 0,
+  "id": 15120,
+  "timestamp": 1522554027000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|弁|辨}}\n{{ja-kanji forms|弁|瓣}}\n{{ja-kanji forms|弁|辯}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=廾02|kyu=辨,瓣,辯}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=べん\n|kanon=はん, へん\n|kun=かんむり-, わきま-える, わ-ける\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{m|ja|関西弁||Kansai dialect|tr=kansaiben|sc=Jpan}}.\n* {{m|ja|花弁||petal|tr=kaben|sc=Jpan}}.\n<!-- WTF? Why do 花びら and　花弁 mean the same, look so similar and yet are spoken completely different?　-->"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "In Japan, this character is [[shinjitai]] of 3 characters, [[辨]], [[瓣]], [[辯]]. Furthermore, in modern usage, this character is used to replace [[辮]] and [[辦]]."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|べん|kyu=辯}}\n\n# [[dialect]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* [[:Category:Regional Japanese]]\n* {{ja-r|方言|ほうげん|gloss=dialect}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Etymology 1",
+                  "text": "{{ja-noun|べん|rom=ben|kyu=辨}}\n\n# [[discrimination]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Etymology 2",
+                  "text": "{{ja-noun|べん|rom=ben|kyu=瓣}}\n\n# [[petal]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

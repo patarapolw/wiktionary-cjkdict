@@ -1,0 +1,46 @@
+{
+  "title": "姖",
+  "ns": 0,
+  "id": 13679,
+  "timestamp": 1544864851000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=jù\n|c=geoi6\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=\n|c=keoi5,heoi5\n|cat=pronoun\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese|uncommon}} [[she]], [[her]]; {{zh-alt-form|佢|[[he]], [[him]]; [[she]], [[her]]; [[it]]|tr=-|nocap=1}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

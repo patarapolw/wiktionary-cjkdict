@@ -1,0 +1,59 @@
+{
+  "title": "秒",
+  "ns": 0,
+  "id": 22357,
+  "timestamp": 1551340254000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=禾04}}\n\n# [[second]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=みょう\n|kanon=びょう\n|kun=のぎ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|秒%速|びょう%そく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{wp|lang=ja|秒 (角度)}}\n{{ja-kanjitab|yomi=o|びょう}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|びょう|y=ko|acc=1|acc_ref=NHK,DJR,SMK5}}\n* {{hmp|lang=ja|眇|sort=ひょう'|廟|鋲|渺}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|びょう|hhira=べう}}\n\n# [[second]] {{gl|one-sixtieth of a minute; SI unit of time}}\n# [[second]] {{gl|unit of angular measure}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|sort=ひょう'}}\n{{topics|ja|SI units|Time|sort=ひょう'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

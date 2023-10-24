@@ -1,0 +1,66 @@
+{
+  "title": "農",
+  "ns": 0,
+  "id": 28589,
+  "timestamp": 1549291088000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|农}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=辰06}}\n\n# [[agriculture]], [[farming]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=のう, の\n|kanon=どう\n|nanori=な, の, み\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n</div>\n{{ja-kanjitab|yomi=o|のう}}\nFrom {{der|ja|ltc|農|tr=nowng||agriculture, farming|sort=のう}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|のう|acc=1|acc_ref=DJR,SMK5}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|のう}}\n\n# [[agriculture]], [[farming]]\n# a [[farmer]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "For the {{m|en|farmer}} sense, the terms {{m|ja|農家|tr=nōka}} or {{m|ja|農夫|tr=nōfu||male farmer}} or {{m|ja|農婦|tr=nōfu||female farmer}} may be used more often."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|農園|のうえん}}: a [[plantation]] {{qualifier|emphasis on the growing of garden products}}\n* {{ja-r|農家|のうか}}: a [[farmer]]; a [[farming]] [[family]]\n* {{ja-r|農業|のうぎょう}}: [[farming]] {{qualifier|as an [[occupation]]}}\n* {{ja-r|農作|のうさく}}: [[farming]] {{qualifier|with an emphasis on the work itself}}\n* {{ja-r|農商|のうしょう}}: [[agriculture]] and [[commerce]]\n* {{ja-r|農場|のうじょう}}: a [[farm]] {{qualifier|including the buildings}}\n* {{ja-r|農地|のうち}}: [[agricultural]] [[land]], a [[farm]] {{qualifier|emphasis on the land}}\n* {{ja-r|農民|のうみん}}: a [[peasant]], an [[agrarian]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

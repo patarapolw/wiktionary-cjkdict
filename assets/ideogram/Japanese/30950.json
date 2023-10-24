@@ -1,0 +1,71 @@
+{
+  "title": "靴",
+  "ns": 0,
+  "id": 30950,
+  "timestamp": 1551454243000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{attention|ja|Compounds needed, etyms needed, か sense needed (靴の沓).}}\n{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=革04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=か<くわ\n|kun=くつ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{IPAfont|⟨kutu⟩}}: *{{IPAchar|/kutu/}} → {{IPAchar|/kut͡su/}}\n\nFrom {{inh|ja|ojp|sort=くつ|-}}. Found in the ''{{w|Man'yōshū}}'' poetry compilation, completed circa 759.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nUltimate derivation unclear. Some Japanese sources suggest a borrowing from Korean {{ko-l|구두||shoes}}, but then some Korean sources suggest that the Korean term was borrowed from Japanese {{lang|ja|靴}} (''kutsu'', “shoes”)."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|くつ|acc=2|acc_ref=NHK,DJR,SMK5|dev=1}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ja|沓}}, {{l|ja|履}}, {{l|ja|鞋}}, {{l|ja|鞾}} {{qualifier|all less common}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くつ}}\n\n# [[footwear]], [[footgear]]: a [[shoe]], (a [[pair]] of) [[shoes]]\n#* {{RQ:Manyoshu|14|3399}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3399 here]:\n#*: {{lang|ja|信濃道者 伊麻能波里美知 可里婆祢尓 安思布麻之<奈牟> 久都波氣和我世}}\n#*: {{ja-usex|信%濃%道 は 　今の墾り道 　刈りばね に 　足 踏ましなむ 　'''沓'''はけ我が背|しな%ぬ%ぢ は 　いま の はりみち 　かりばね に 　あし ふましなむ 　'''くつ''' はけ わがせ|the Shinano road has just been opened; wear '''shoes''', my brother / my dear, so you do not step on the brush stubble [in your bare feet]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|シューズ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|靴%下|くつ%した}}: [[sock]]\n* {{ja-r|靴%擦れ|くつ%ずれ}}: literally “[[shoe]] [[rubbing]]”: a [[blister]] on one's [[foot]] due to [[ill-fitting]] [[shoe]]s\n{{der-mid}}\n* {{ja-r|長%靴|なが%ぐつ}}: [[boot]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|くつ]]\n[[Category:ja:Footwear|くつ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

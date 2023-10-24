@@ -1,0 +1,44 @@
+{
+  "title": "啷",
+  "ns": 0,
+  "id": 12511,
+  "timestamp": 1495651301000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lāng\n|m-s=nang3\n|c=long1,long4\n|mn=long\n|mc=\n|oc=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{label|zh|Gan|interrogative}} how, why",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|噹啷落地|噹啷|啷噹|丁鈴噹啷|啷鐺|當啷}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "刹",
+  "ns": 0,
+  "id": 11614,
+  "timestamp": 1529507102000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|剎}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|刹|刹|[[剎]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China, the bottom left component is {{l|mul|朩}}.\n* In Taiwan, the bottom left component is {{l|mul|𣎳}}, but is only used as a {{w|Variant Chinese character|variant form}} of <big>{{l|mul|剎}}</big>.\n* In Japanese {{w|kanji}} and Korean {{w|hanja}}, the bottom left component is {{l|mul|木}}, which is the historical form found in the {{w|Kangxi dictionary}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=18|rad=刀|as=06|sn=8|four=42900|canj=KDLN,XKDLN|ids=⿰⿱㐅朩刂(G),⿰⿱㐅𣎳刂(T),⿰⿱㐅木刂(JK)}} <!-- Not using ⿰杀刂 as it contains only two different forms for G and T. Using three different ids instead -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[䓭]], [[𠝨]], [[𤟆]]}} ''(Only for mainland China {{w|zh:規範漢字|character forms}}. Taiwan {{w|zh:國字標準字體|character forms}} contain {{l|mul|剎}} instead)''\n* {{l|mul|[[𥓑]], [[𭈗]], [[𮢎]], [[𥤔]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* <big>{{l|mul|[[剎]]}}</big> (<code>U+524E</code>) ''(Preferred form for {{w|traditional Chinese}} used in Taiwan and Hong Kong, contains {{l|mul|朮}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0139.120|dkj=01967|dj=0316.030|hdz=10336.070|uh=5239}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

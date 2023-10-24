@@ -1,0 +1,66 @@
+{
+  "title": "煤",
+  "ns": 0,
+  "id": 20081,
+  "timestamp": 1540613660000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火09}}\n\n# [[soot]]\n# [[coal]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=まい, め\n|kanon=ばい\n|kun=すす-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|煤煙|ばいえん}}\n* {{ja-r|煤%気|ばい%き}}\n* {{ja-r|煤塵|ばいじん}}\n* {{ja-r|煤炭|ばいたん}}\n* {{ja-r|煙煤|えんばい}}\n* {{ja-r|漢冶萍 煤鉄 公%司|^かん-^や-^ひょう ^ばいてつ ^コン%ス}}\n* {{ja-r|麝煤|じゃばい}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|すす|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|すす|acc=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|すす|スス}}\n\n# [[soot]]\n# soot and [[dust]] [[accumulate]]d in [[ceiling]]s, etc.\n# {{short for|lang=ja|煤色|tr=susuiro|nodot=1|sort=すす}}: the [[color]] of soot",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|煤す|すす}}\n* {{ja-r|煤く|すすく}}\n** {{ja-r|煤ける|すすける}}\n* {{ja-r|煤ぶ|すすぶ}}\n** {{ja-r|煤ばむ|すすばむ}}\n** {{ja-r|煤びる|すすびる}}\n** {{ja-r|煤ぶる|すすぶる}}\n** {{ja-r|煤ぼる|すすぼる}}\n** {{ja-r|煤ぼける|すすぼける}}\n* {{ja-r|煤市|^すすいち}}\n* {{ja-r|煤%色|すす%いろ}}\n* {{ja-r|煤%男|すす%おとこ}}\n* {{ja-r|煤%賀|^すす%が}}\n* {{ja-r|煤ヶ谷|^すすヶや}}\n* {{ja-r|煤川|^すすがわ}}\n* {{ja-r|煤%籠もり|すす%ごもり}}\n* {{ja-r|煤%田|^すす%た}}\n* {{ja-r|煤%田|^すす%だ}}\n* {{ja-r|煤竹|すすだけ}}\n* {{ja-r|煤%取り|すす%とり}}\n* {{ja-r|煤%掃き|すす%はき}}\n* {{ja-r|煤%払い|すす%はらい}}\n* {{ja-r|煤%病|すす%びょう}}\n* {{ja-r|煤%埃|すす%ぼこり}}\n* {{ja-r|煤孫|^すすまご}}\n* {{ja-r|煤本|^すすもと}}\n* {{ja-r|煤%谷|^すす%や}}\n* {{ja-r|煤%湯|すす%ゆ}}\n* {{ja-r|煮%煤|に%すす}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "屑",
+  "ns": 0,
+  "id": 14353,
+  "timestamp": 1537169301000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=尸07}}\n\n# {{defn|lang=ja|sort=尸07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せち\n|kanon=せつ\n|kun=くず-, いさぎよ-い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|くず|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|くず|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くず|hhira=くづ}}\n\n# [[scrap]], [[waste]], [[bit]]\n# [[human]] [[trash]]\n#: {{ja-usex|社会のクズ|しゃかい の クズ|'''dregs''' of society}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|紙屑|かみくず}}: [[wastepaper]]\n* {{ja-r|屑紙|くずかみ}}: [[wastepaper]]\n* {{ja-r|屑鉄|くずてつ}}: [[scrap]] [[iron]]\n* {{ja-r|鉄屑|てつくず}}: [[scrap]] [[iron]]\n* {{ja-r|星屑|ほしくず}}: [[stardust]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

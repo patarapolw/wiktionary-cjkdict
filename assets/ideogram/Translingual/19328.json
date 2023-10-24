@@ -1,0 +1,39 @@
+{
+  "title": "滋",
+  "ns": 0,
+  "id": 19328,
+  "timestamp": 1553057311000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA99}}\n{{character info|0x2F90B}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "*<code>U+6ECB</code> {{Han char|rn=85|rad=水|as=09|sn=12|four=38132|canj=ETVI|ids=⿰氵兹}}\n*<code>U+FA99</code> {{Han char|rn=85|rad=水|as=10|sn=13|four=|canj=EYII|ids=⿰氵玆}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* <big>{{l|mul|[[𬵱]]}}</big> ''(Contains'' {{l|mul|⿰[[氵]][[玆]]}} (<code>U+FA99</code>)) <!-- Please zoom into the unicode charts at 500% and observe the serif type hook on the top right of 玄 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0642.150|dkj=17919|dj=1049.190|hdz=31686.060|uh=6ECB}}\n{{Han ref|uh=FA99}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

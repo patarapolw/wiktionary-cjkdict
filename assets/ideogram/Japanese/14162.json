@@ -1,0 +1,69 @@
+{
+  "title": "宣",
+  "ns": 0,
+  "id": 14162,
+  "timestamp": 1545910229000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|宜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=宀06}}\n\n# [[proclaim]], [[announce]]\n# [[say]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kun=のたま-う<のたま-ふ, のたま-わく<のたま-はく, の-べる, の-る\n|nanori=のぶ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|宣言|せんげん}}\n* {{ja-r|宣告|せんこく}}\n* {{ja-r|宣誓|せんせい}}\n* {{ja-r|宣託|せんたく}}\n* {{ja-r|宣伝|せんでん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|せん|yomi=o}}\nFrom {{der|ja|ltc|sort=せん|-}} {{ltc-l|宣}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=o|せん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|せん}}\n\n# [[proclamation]] {{rfv-sense|ja}}\n#: {{synonyms|ja|宣旨|tr=senji}}"
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{ja-verb-suru|せん}}\n\n# [[declare]] {{rfv-sense|ja}}\n#: {{synonyms|ja|[[宣言]]する|tr=sengen suru}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|せん}}\n\n# {{given name|female|lang=ja|A=a|sort=せん}}\n# {{surname|lang=ja|A=a|sort=せん}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

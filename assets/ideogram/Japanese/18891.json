@@ -1,0 +1,44 @@
+{
+  "title": "津",
+  "ns": 0,
+  "id": 18891,
+  "timestamp": 1552902911000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水06}}\n\n# haven, port, harbor, ferry",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん\n|kanon=しん\n|kun=つ-\n|nanori=す, ず, つ, づ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|津%液|しん%えき}}\n* {{ja-r|津々%浦々|つつ%うらうら|rom=-}}, {{ja-r|津津%浦浦|つつ%うらうら}}\n* {{ja-r|津%波|つ%なみ}}\n* {{ja-r|津%軽|つ%がる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|つ|proper}}\n{{ja-kanjitab|つ|yomi=k}}\n\n# a place name, such as [[Tsu]] city in [[Mie]] prefecture\n\n[[Category:ja:Cities|つ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

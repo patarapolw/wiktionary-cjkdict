@@ -1,0 +1,49 @@
+{
+  "title": "刀",
+  "ns": 0,
+  "id": 8840,
+  "timestamp": 1552875813000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ㄉ|力}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=2}}\n{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|mul|刂}} {{qualifier|when used as a right radical component}}"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=18|rad=刀|as=00|sn=2|four=17220|canj=SH|ids=⿹𠃌丿}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/刀]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|mul|[[ㄉ]]}} ''({{w|Bopomofo|Zhuyin alphabet}})''\n* {{l|mul|[[ㆵ]]}} ''({{w|Bopomofo Extended|Bopomofo extended}} character)'' <!-- Refer https://zh.wikipedia.org/wiki/ㄉ -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0135.240|dkj=01845|dj=0304.040|hdz=10319.120|uh=5200}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

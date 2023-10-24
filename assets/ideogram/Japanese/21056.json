@@ -1,0 +1,39 @@
+{
+  "title": "甘",
+  "ns": 0,
+  "id": 21056,
+  "timestamp": 1546491176000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=甘00}}\n\n# [[sweet]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かん<かん<かむ\n|kanon=かん<かん<かむ\n|kun=あま-い, うま-い, あま-んじる, あま-やかす, あま-える\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|甘井|かんせい}}: [[sweet]] [[well]]\n* {{ja-r|甘精|かんせい}}: [[saccharin]]\n* {{ja-r|甘草|かんぞう}}: [[licorice]]\n* {{ja-r|甘藍|かんらん}}: [[cabbage]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

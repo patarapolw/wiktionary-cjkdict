@@ -1,0 +1,44 @@
+{
+  "title": "浪",
+  "ns": 0,
+  "id": 18961,
+  "timestamp": 1554018578000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水07}}\n\n# [[wave]]\n# [[wandering]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろう\n|kanon=ろう\n|kanyoon=らん\n|kun=なみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[浪士]]\n* [[浪跡]]\n* [[浪人]]\n* [[浪費]]\n* [[浪漫]]\n* {{ja-r|津%浪|つ%なみ|[[tsunami]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なみ}}\n\n# {{alternative spelling of|lang=ja|波}}: [[wave]]s"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

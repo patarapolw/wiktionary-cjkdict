@@ -1,0 +1,56 @@
+{
+  "title": "屯",
+  "ns": 0,
+  "id": 14395,
+  "timestamp": 1553548570000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|屰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=屮01}}\n\n# {{defn|lang=ja|sort=屮01}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちゅん, どん\n|kanon=ちゅん, とん\n|kun=たむろ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|屯邅|ちゅんてん}}: [[faltering]] in [[worry]]\n* {{ja-r|屯蒙|ちゅんもう}}: the [[infancy]] and [[beginning]] of something\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|en|ja}} {{m|en|ton}}, {{m|en|tonne}}. The kanji is an example of [[当て字|ateji]]."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|トン|とん}}\n\n# [[tonne]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Most usually spelled in katakana, as {{lang|ja|トン}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

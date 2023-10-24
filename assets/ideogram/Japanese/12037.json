@@ -1,0 +1,39 @@
+{
+  "title": "又",
+  "ns": 0,
+  "id": 12037,
+  "timestamp": 1548858962000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ヌ|ﾇ|ㄡ|攵|文|𠬠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=7|rs=又00}}\n\n# again, as well\n# and\n# also",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=ゆう<いう\n|kun=また-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{ja-kanjitab|また|yomi=k}}\n{{ja-see|また}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "藝",
+  "ns": 0,
+  "id": 25683,
+  "timestamp": 1550911086000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|艺|芸|兿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{vi-readings|hanviet=nghệ, vân|nom=nghế, vân, nghề, nghệ|rs=艸15}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{vi-noun|sc=Hani|{{vi-l|nghệ}}, {{vi-l|nghề}}|sort=艸15}}\n\n# [[art]]\n#: {{vi-ruby|善藝|thiện nghệ}}\n#:: artist\n# [[craft]], [[trade]]\n#: {{vi-ruby|藝業|nghề nghiệp}}\n#:: trade\n#: {{vi-ruby|文藝|văn nghề}}\n#:: literature\n# [[talent]], [[ability]]\n#: {{vi-ruby|武藝|vũ nghề}}\n#:: martial arts"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Taberd 1838|p=A338}}\n* {{R:WinVNKey:Lê Sơn Thanh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

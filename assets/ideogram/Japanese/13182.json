@@ -1,0 +1,54 @@
+{
+  "title": "基",
+  "ns": 0,
+  "id": 13182,
+  "timestamp": 1547172429000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=土08}}\n\n# [[base]]\n# be based on",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こ\n|kanon=き\n|kun=もと-, もとい-, もとづく\n|nanori=のり, はじむ, はじめ, もと, もとい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top4}}\n* [[基因]]\n* [[基幹]]\n* [[基金]]\n* [[基準基数]]\n{{mid4}}\n* [[基線]]\n* [[基礎]]\n* [[基地]]\n* [[基調]]\n{{mid4}}\n* [[基底]]\n* [[基点]]\n* [[基盤]]\n* [[基本]]\n{{mid4}}\n* [[基本給]]\n* [[基本単位]]\n* [[基本的人権]]\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{S-JIS|8AEE}}\n* {{JIS|3470}}\n* {{EUC-JP|BBF9}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|もとい}}\n\n# {{given name|male|lang=ja}}\n# {{surname|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|もと|yomi=kun}}\n{{ja-noun|もと}}\n\n# {{alternative form of|元|lang=ja}}\n\n[[Category:Japanese male given names|もとい]]\n[[Category:Japanese surnames|もとい]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

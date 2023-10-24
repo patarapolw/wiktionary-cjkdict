@@ -1,0 +1,129 @@
+{
+  "title": "家",
+  "ns": 0,
+  "id": 14181,
+  "timestamp": 1553950926000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|傢|冢|冡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=宀07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け, く\n|kanon=か, こ\n|kun=いえ-<いへ-, や-<や-, うち-<うち-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|家%屋|か%おく}}\n* {{ja-r|家%具|か%ぐ}}\n* {{ja-r|家%族|か%ぞく}}\n* {{ja-r|家%庭|か%てい}}\n{{der-mid}}\n* {{ja-r|家%禽|か%きん}}: [[domestic]] [[fowl]], [[poultry]]\n* {{ja-r|家%守|や%もり}}: [[gecko]]\n* {{ja-r|家%守|や%もり}}: [[guarding]] a [[house]], or a person who does such; real estate agent in the Edo period\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いえ|yomi=k}}\n\n/ihe<small>1</small>/: [ie] ← [iwe] ← [iɸe] ← [ipe].\n\nPossibly related to {{m|ja|廬|tr=io||temporary hut}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いえ|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いえ|hhira=いへ}}\n\n# a [[house]]\n# one's own [[home]]\n# a [[home]]; a [[household]]\n#* {{quote-book||\n|{{ruby|{{w2|ja|魔法使いの嫁|[魔法使いの嫁](The Ancient Magus Bride)|sc=Jpan}}}}\n||17\n|last=Yamazaki\n|first=Kore\n|chapter={{lang|ja|第1篇　April showers bring May flowers.|sc=Jpan}}\n|trans-chapter=Composition 1: [[April showers bring May flowers]].\n|trans-title={{w|The Ancient Magus' Bride|The Ancient Magus’ Bride}}\n|genre=fiction\n|lang=ja\n|location=Tokyo\n|publisher={{w|Mag Garden}}\n|nodate=y\n|volume=1}}\n#*: {{ja-usex|ここが僕の'''家'''　そして今日から君が暮らす'''家'''でもある|^ここ が ぼく の '''いえ'''　^そして きょう から きみ が くらす '''いえ''' で も ある|This is my home. From now on, you will live here, too.}}\n# a [[family]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|か|suffix}}\n\n# (as suffix) an [[expert]], [[professional]], [[performer]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|うち|yomi=k}}\nCognate with {{m|ja|内|tr=uchi}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|うち|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うち}}\n\n# a house\n# one's house",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Descendants",
+                      "text": "* English: {{l|en|hooch}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|け|suffix}}\n\n# a suffix representing relationship to a family\n#: {{ja-usex|平'''家'''|たいら-'''け'''|the Taira family}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "A contraction of [[家|uchi]] → chi. Often following the genitive case marker [[の|no]] which contracts to ''n''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ち}}\n\n# house\n#: {{ja-usex|俺ん'''家'''に来ない？|おれ ん '''ち''' に こない？|Wanna come to my place?}}\n\n{{ja-kanjitab|や|yomi=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|や|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|や}}\n\n# house"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|や|suffix}}\n\n# house of something, place where some business is conducted\n# person who does that thing",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|者|-しゃ}}\n* {{ja-r|手|-しゅ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|いえ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

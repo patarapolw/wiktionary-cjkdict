@@ -1,0 +1,44 @@
+{
+  "title": "汁",
+  "ns": 0,
+  "id": 18608,
+  "timestamp": 1547138490000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水02}}\n\n# {{defn|lang=ja|sort=水02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅう\n|kanon=しゅう\n|kanyoon=じゅう\n|kun=しる-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|蕎麦 汁|そば つゆ}}: soba dipping sauce\n* {{ja-r|豚%汁|とん%じる}}, {{ja-r|豚%汁|ぶた%じる}}: [[pork]] [[miso]] [[soup]]\n* {{ja-r|肉%汁|にく%じゅう}}: [[meat]] [[broth]]; [[meat]] [[juice]]; [[gravy]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しる}}\n\n# [[juice]]\n# [[soup]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

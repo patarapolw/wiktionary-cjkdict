@@ -1,0 +1,88 @@
+{
+  "title": "週",
+  "ns": 0,
+  "id": 28715,
+  "timestamp": 1538051460000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|周}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=辵08}}\n\n# [[week]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ<しゆ, す\n|kanon=しゅう<しう\n|kun=めぐ-る\n}}\n\n{{attention|ja|kun(?) なぬか?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|週央|しゅうおう}}\n* {{ja-r|週刊|しゅうかん}}\n* {{ja-r|週間|しゅうかん}}\n* {{ja-r|週休|しゅうきゅう}}\n* {{ja-r|週給|しゅうきゅう}}\n* {{ja-r|週次|しゅうじ}}\n* {{ja-r|週日|しゅうじつ|[[weekday]]}}\n* {{ja-r|週初|しゅうしょ}}\n* {{ja-r|週内|しゅうない}}\n* {{ja-r|週番|しゅうばん}}\n* {{ja-r|週評|しゅうひょう}}\n* {{ja-r|週報|しゅうほう}}\n* {{ja-r|週末|しゅうまつ|[[weekend]]}}\n* {{ja-r|週齢|しゅうれい}}\n* {{ja-r|聖週|^せいしゅう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|しゅう|yomi=o}}\n{{IPAchar|/t͡ɕɨu/}} → {{IPAchar|/ɕjɨu/}} → {{IPAchar|/ɕuː/}}\n\nFrom {{bor|ja|ltc|sort=しゆう|-}} {{ltc-l|周}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=ko|しゅう|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しゅう|hhira=しう}}\n\n# a [[week]] {{gl|[[unit]] of [[time]]}}\n#: {{syn|ja|一週間|tr=isshūkan}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|週明け|しゅうあけ}}\n* {{ja-r|週%足|しゅう%あし}}\n* {{ja-r|週%五%日%制|しゅう%-いつ%か%-せい}}\n* {{ja-r|受難%週|じゅなん%-しゅう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|しゅう|hhira=しう|counter}}\n\n# [[week]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|一週|いっしゅう}}\n* {{ja-r|隔週|かくしゅう}}\n* {{ja-r|今週|こんしゅう}}\n* {{ja-r|昨週|さくしゅう}}\n* {{ja-r|次週|じしゅう}}\n* {{ja-r|先週|せんしゅう}}\n* {{ja-r|前週|ぜんしゅう|[[last]] week}}\n* {{ja-r|別週|べつしゅう|[[another]] week}}\n* {{ja-r|毎週|まいしゅう}}\n* {{ja-r|翌週|よくしゅう}}\n* {{ja-r|来週|らいしゅう}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "{{der-top|Counters for time}}\n* {{ja-r|秒|-びょう|[[second]]s}}\n* {{ja-r|分|-ふん|[[minute]]s}}\n* {{ja-r|時|-じ|[[hour]]s}}\n* {{ja-r|日|-にち|[[day]]s}}\n* {{ja-r|月|-げつ|[[month]]s}}\n* {{ja-r|年|-ねん|[[year]]s}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|しゅう|hhira=しう}}\n\n# {{given name|male|or=female|lang=ja|A=a|nodot=1|sort=しゆう}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|しゅう]]\n[[Category:ja:Time|しゅう]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

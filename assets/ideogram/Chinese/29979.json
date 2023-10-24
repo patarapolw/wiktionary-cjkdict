@@ -1,0 +1,54 @@
+{
+  "title": "鑥",
+  "ns": 0,
+  "id": 29979,
+  "timestamp": 1518550052000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|镥}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=镥}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|金|魯|c1=s|c2=p|t1=metal|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{bor|zh|NL.|lutetium|'''lu'''tetium}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lǔ\n|c=lou5\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Mainland|chemical element}} [[lutetium]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{q|Taiwan}} {{zh-l|鎦}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|N00047}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

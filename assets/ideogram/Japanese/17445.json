@@ -1,0 +1,39 @@
+{
+  "title": "柜",
+  "ns": 0,
+  "id": 17445,
+  "timestamp": 1553552760000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|櫃}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木05}}\n\n# {{defn|lang=ja|sort=木05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=こ\n|kanon=きょ\n}}\nAs variant form of {{ja-l|櫃}}:\n{{ja-readings\n|goon=ぎ<ぎ<ぐゐ\n|kanon=き<き<くゐ\n|kun=ひつ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|柜%霜|キョ%ソウ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

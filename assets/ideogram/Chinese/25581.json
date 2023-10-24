@@ -1,0 +1,66 @@
+{
+  "title": "蕹",
+  "ns": 0,
+  "id": 25581,
+  "timestamp": 1498351854000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|艸|alt1=艹|雍|ls=psc|c1=s|c2=p|t1=grass}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{och-l|壅|to heap soil around the roots of a plant}} according to the ''{{w|Compendium of Materia Medica}}'':\n{{zh-x|時-珍 曰：^蕹 與 壅 同。此 菜 惟 以 壅 成，故 謂 之 壅。|Shizhen said, {{lang|zh|蕹}} is the same as {{lang|zh|壅}}. This vegetable can only grow by heaping soil around the roots, so it is called {{lang|zh|壅}}.|CL}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=蕹\n|m-s=ong4\n|c=ung3\n|c-t=uung1\n|g=ng4\n|h=pfs=vung/s:fung;gd=vung4\n|md=óng\n|mn=ml,tw,pn:èng\n|mn-t=êng3\n|w=1on\n|x=ngong4\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[water spinach]] {{gloss|''[[Ipomoea aquatica]]''}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|蕹菜}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yōng\n|c=jung1\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|of grass}} [[thick]]; [[lush]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

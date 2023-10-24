@@ -1,0 +1,92 @@
+{
+  "title": "秦",
+  "ns": 0,
+  "id": 22380,
+  "timestamp": 1549004849000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|奉|奏|泰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾05}}\n\n# [[Qin]] [[dynasty]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings \n|goon=じん\n|kanon=しん\n|soon=ちん\n|kun=はた-, はたしん-\n|nanori=かな, たい, はだ, ひろ, まさ, やす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|秦篆|^しんてん}}\n* {{ja-r|秦皮|しんぴ}}\n* {{ja-r|後秦|^こうしん}}\n* {{ja-r|西秦|^せいしん}}\n* {{ja-r|先秦|^せんしん}}\n* {{ja-r|前秦|^ぜんしん}}\n* {{ja-r|太秦|^うずまさ}}\n* {{ja-r|秦皮|トネリコ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しん|yomi=kanon}}\n\nFrom {{bor|ja|ojp|sort=しん|-}} {{ltc-l|秦}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|しん|proper}}\n\n# {{lb|ja|historical|sort=しん}} the [[Qin]] [[dynasty]] (221-207 {{BCE}}), first dynasty of China\n# {{lb|ja|historical}} name of various states during the Sixteen Kingdoms period:\n## {{m|ja|前秦|tr=Zenshin||{{w|Former Qin}}|pos=351-394 {{CE}}}}\n## {{m|ja|後秦|tr=Kōshin||{{w|Later Qin}}|pos=384-417 {{CE}}}}\n## {{m|ja|西秦|tr=Seishin||{{w|Western Qin}}|pos=385-431 {{CE}}}}\n# {{surname|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|はた|yomi=k}}\n\n{{rfe|ja|sort=はた}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|はた|proper}}\n\n# ''a [[place name]]''\n# {{surname|lang=ja|A=a|nodot=1|sort=はた}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|秦%公%寺|^はたの%きみ%-でら}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|はたしん|yomi=k}}\n\nCompound of {{m|ja|秦|tr=Hata|pos=see above}} + {{m|ja|秦|tr=Shin||[[Qin]] ([[dynasty]])}}.\n\nThe {{m|ja|秦}} kanji itself has a {{ll|ja|訓読み|''kun''-reading}} of {{m|ja|はた|tr=hata}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|はたしん|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This reading is used to distinguish from the {{m|ja|漢音|tr=kan'on}} reading of {{m|ja|晋|tr=Shin||{{w|Jin dynasty}}}}, itself called {{m|ja|晋|tr=Susumu-shin}}. The senses are the same for Etymology 2 above."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

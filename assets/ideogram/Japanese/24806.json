@@ -1,0 +1,89 @@
+{
+  "title": "芸",
+  "ns": 0,
+  "id": 24806,
+  "timestamp": 1531111436000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|艺|蕓|藝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin 1",
+              "text": "{{ja-kanji forms|芸|藝}}\n\nDerived from {{l|ja|藝}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Kanji",
+                  "text": "{{ja-kanji|rs=艸04|grade=4|kyu=藝}}\n\n# [[technique]], [[art]], [[craft]], [[performance]]\n# {{short for|安芸国|lang=ja|tr=Aki no kuni||{{w|Aki Province}}}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Readings",
+                      "text": "{{ja-readings\n|goon=げい\n|kanon=げい\n}}\n\n{{attention|ja|see HTML comment}}<!-- Do the following readings all belong to 藝?\n|nanori=き, ぎ, きぎ, げ, なり\n-->"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Etymology",
+                  "text": "{{ja-kanjitab|げい|yomi=o}}\nFrom {{etyl|ltc|ja|sort=けい'}} {{m|zh|藝|tr=ngjiej<sup>H</sup>||art, skill}}.",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Pronunciation",
+                      "text": "{{ja-pron|yomi=kanon|げい|acc=1|acc_ref=DJR,NHK,SMK5}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Noun",
+                      "text": "{{ja-noun|kyu=藝|げい}}\n\n# [[art]], [[craft]], [[technique]], [[performance]]\n# [[trick]] {{q|of animals}}\n#: {{ja-usex|犬に'''芸'''を教える|いぬ に '''げい''' を おしえる|to teach a dog '''tricks'''}}",
+                      "subSections": [
+                        {
+                          "level": 6,
+                          "title": "Compounds",
+                          "text": "{{der-top}}\n* {{ja-r|芸者|げいしゃ}}\n* {{ja-r|芸子|げいこ}}\n* {{ja-r|芸術|げいじゅつ}}\n* {{ja-r|腹芸|はらげい}}\n{{der-bottom}}"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Glyph origin 2",
+              "text": "Originally derived from {{l|ja|蕓}} into a separate character; not a shinjitai form.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Kanji",
+                  "text": "{{ja-kanji|rs=艸04|grade=4}}\n\n# [[rue]] {{gl|the [[herb]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Readings",
+                      "text": "{{ja-readings\n|kanon=うん\n|goon=うん\n}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

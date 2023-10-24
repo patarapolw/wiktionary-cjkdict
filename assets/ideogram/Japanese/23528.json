@@ -1,0 +1,46 @@
+{
+  "title": "縞",
+  "ns": 0,
+  "id": 23528,
+  "timestamp": 1511428171000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|缟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=糸10}}\n\n# stripe",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう\n|kanon=こう\n|kun=しろぎぬ-, しま-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しま}}\n\n# [[stripe]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|縞%馬|しま%うま|zebra}}\n* {{ja-r|縞%栗%鼠|しま%り%す|chipmunk}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

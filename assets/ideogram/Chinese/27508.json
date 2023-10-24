@@ -1,0 +1,42 @@
+{
+  "title": "豦",
+  "ns": 0,
+  "id": 27508,
+  "timestamp": 1495667436000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|虍|豕|t1=tiger|t2=boar|ls=ic}}.\n\nTiger and boar are fighting unmediated."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qú\n|c=keoi4\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B04786}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

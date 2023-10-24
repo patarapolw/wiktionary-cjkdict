@@ -1,0 +1,61 @@
+{
+  "title": "狩",
+  "ns": 0,
+  "id": 20475,
+  "timestamp": 1553562072000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=犬06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ\n|kanon=しゅう\n|kun=か-る, か-り, かり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|狩%猟|しゅ%りょう}}: [[hunting]]\n* {{ja-r|狩%猟%期|しゅ%りょう%き}}: [[hunting season]]\n* {{ja-r|狩%猟%場|しゅ%りょう%ば}}: a [[hunting preserve]]\n* {{ja-r|狩%人|かり%うど}}, {{ja-r|狩人|かりゅうど}}: a [[hunter]]\n* {{ja-r|狩%漁|しゅ%ぎょ}}: [[hunting]] and [[fishing]]\n{{der-mid}}\n* {{ja-r|狩%犬|かり%いぬ}}: a [[hunting]] dog; a [[hound]]\n* {{ja-r|狩%猟%犬|しゅ%りょう%けん}}: a hunting dog; a hound\n* {{ja-r|狩り小%屋|かりこ%や}}: a [[hunting lodge]]\n* {{ja-r|狩%猟 小%屋|しゅ%りょう こ%や}}: a [[hunting lodge]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|かり|yomi=k}}\n\nThe {{ja-etym-renyokei|狩る|かる}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-r|狩り|かり}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かり}}\n\n# [[hunting]] (game, deer, ducks, etc.), [[hunt]]\n# [[gathering]] (mushrooms, etc.), [[picking]] (strawberries, peaches, etc.)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|猟|りょう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

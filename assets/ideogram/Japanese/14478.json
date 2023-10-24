@@ -1,0 +1,59 @@
+{
+  "title": "岳",
+  "ns": 0,
+  "id": 14478,
+  "timestamp": 1553290759000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|嶽}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|岳|嶽}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=山05|kyu=嶽}}\n\n# [[mountain]] [[peak]]\n# [[tall]] [[mountain]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=がく\n|kun=たけ-\n|nanori=たける\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ja|嶽}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|たけ|yomi=k}}\n{{ja-kanjitab|がく|yomi=o}}\nDirectly cognate with {{m|ja|丈|tr=take||height}}. Indirectly cognate with {{m|ja|高|tr=taka||height}}, {{m|ja|高い|tr=takai||high}}, and {{m|ja|長ける|tr=takeru||to be high}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たけ}}\n\n# a tall mountain\n# a mountain peak\n#* {{RQ:Nippo Jisho|612}}\n#*: '''Taqe'''. (タケ) (嶽・岳) 山脈や山の高い所, あるいは, 頂. これの本来の語はDaqe (だけ)である."
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|たけし|proper}}\n\n# {{given name|male|lang=ja|sort=たけし}}\n\n{{ja-pos|たける|proper}}\n\n# {{given name|male|lang=ja|sort=たける}}\n\n{{ja-pos|がく|proper}}\n\n# {{given name|male|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Nippo Jisho}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "皴",
+  "ns": 0,
+  "id": 21510,
+  "timestamp": 1506210577000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=皮07}}\n\n# {{defn|lang=ja|sort=皮07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅん\n|kanon=しゅん\n|kun=ひび-, しわ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|荷葉皴|かようしゅん}}\n* {{ja-r|皴法|しゅんぽう}}\n* {{ja-r|披麻皴|ひましゅん}}\n* {{ja-r|斧劈皴|ふへきしゅん}}\n{{der-bottom}}\n\n{{ja-kanjitab|しわ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Probably from stem ''shiwa'' of verb ''shiwaru'' ({{l|ja|撓る}}: “to sag, as something elastic that has lost its bounce”). Probably cognate with {{m|ja|皺|tr=shibo}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|しわ|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|皺}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しわ}}\n\n# [[wrinkle]]s in [[skin]], [[paper]], [[cloth]], or some other surface\n# [[ripple]]s on the [[surface]] of [[water]]\n# a [[pattern]] of [[crack]]s and [[wrinkle]]s on the [[surface]] of an {{m|ja|烏帽子|tr=eboshi||traditional Japanese formal black hat}} formed as the black [[lacquer]] dries"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

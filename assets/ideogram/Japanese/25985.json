@@ -1,0 +1,66 @@
+{
+  "title": "蜂",
+  "ns": 0,
+  "id": 25985,
+  "timestamp": 1552222566000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫07}}\n\n# [[bee]], [[wasp]], [[hornet]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ, ふう\n|kanon=ほう\n|kun=はち-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|蜂起|ほうき}}: [[rebellion]], [[uprising]], [[revolt]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja|ハチ}}\n{{ja-kanjitab|はち|yomi=k}}\n{{IPAchar|/pati/}} → {{IPAchar|/fati/}} → {{IPAchar|/fat͡ɕi/}} → {{IPAchar|/hat͡ɕi/}}\n\nFrom {{etyl|ojp|ja|sort=はち}}. Possibly cognate with {{cog|ko|벌||bee, wasp, hornet}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kun|はち|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はち|ハチ}}\n\n# a [[bee]], a [[wasp]], a [[hornet]] or the like\n# {{lb|ja|zoology|sort=はち}} a [[wasp]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|花%蜂|ハナ%バチ|[[bee]]}}\n* {{ja-r|蜜%蜂|ミツ%バチ|[[honeybee]]}}\n* {{ja-r|雀%蜂|スズメ%バチ}}, {{ja-r|胡%蜂|スズメ%バチ|[[yellow jacket]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|はち]]\n[[Category:ja:Insects|はち]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

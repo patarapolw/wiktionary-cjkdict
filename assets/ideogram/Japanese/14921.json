@@ -1,0 +1,88 @@
+{
+  "title": "幅",
+  "ns": 0,
+  "id": 14921,
+  "timestamp": 1538524956000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=巾09}}\n\n# [[width]] (of [[textiles]])\n# width; [[size]] of a [[plane]], a [[surface]]\n# counter for [[painting]]s and [[calligraphic]] works or hanging scrolls\n# [[apron]]\n# [[edge]] (of things)\n# [[shin]] [[guard]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふく\n|kanon=ふく\n|kun=はば-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|幅%員|ふく%いん}}\n* {{ja-r|歩%幅|ほ%はば}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=4193\n|shift=959D\n|jis=497D\n|euc=C9FD\n|skip=1-3-9\n|freq=641\n|nelson=1484\n|newnelson=1574\n|halpern=569\n|kld=417\n|heisig=407\n|tuttle=3f9.2\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|はば|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|はば|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はば}}\n\n# [[width]], [[breadth]]\n# free room\n# [[difference]] (between two substances)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ふく|yomi=o}}\nFrom {{etyl|ltc|ja|sort=ふく}} {{m|zh|幅|tr=pjuwk}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|ふく|acc=2|dev=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|ふく}}\n\n# counter for [[scroll]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふく}}\n\n# [[scroll]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

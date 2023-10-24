@@ -1,0 +1,63 @@
+{
+  "title": "丑",
+  "ns": 0,
+  "id": 10395,
+  "timestamp": 1546504310000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|醜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=一03}}\n\n# 1:00 AM to 3:00 AM.\n# The [[ox]], the second sign of Chinese [[zodiac]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちゅ<ちゆ\n|kanon=ちゅう<ちう\n|on=しゅ<しゆ, しゅう<しう\n|kun=うし-\n|nanori=ひろ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|うし|yomi=k}}\n{{wp|lang=ja}}\nFrom {{m|ja|牛|tr=ushi||[[bull]]; [[cow]]; [[ox]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=0|y=k|うし}}\n* {{hmp|lang=ja|sort=うし|牛}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|うし}}\n\n# the {{w|Ox (zodiac)|Ox}}, the second of the twelve {{w|Earthly Branches}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ちゅう|yomi=o}}\nFrom {{der|ja|ltc|丑|tr=trhjuw<sup>X</sup>|sort=ちゅう}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ちゅう|hhira=ちう}}\n\n# the {{w|Ox (zodiac)|Ox}}, the second of the twelve {{w|Earthly Branches}}\n\n{{cln|ja|words with multiple readings}}\n{{topics|ja|Earthly Branches|sort=うし}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

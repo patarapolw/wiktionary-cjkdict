@@ -1,0 +1,75 @@
+{
+  "title": "鉛",
+  "ns": 0,
+  "id": 29354,
+  "timestamp": 1553381982000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|铅}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=7|rs=金05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん\n|kanon=えん\n|kun=なまり-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-kanjitab|なまり|yomi=k}}\n{{elements|Pb|{{ja-r|タリウム}}|Tl|{{ja-r|ビスマス}}|Bi|lang=ja|sort=なまり}}\n{{wikipedia|lang=ja}}\n{{ja-pron|acc=h|y=k|なまり}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|なまり|count=-}}\n\n# [[lead]] {{gloss|chemical element}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|えん|yomi=on}}\nFrom {{der|ja|ltc|sort=えん|-}} {{ltc-l|鉛}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えん|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えん}}\n\n# [[lead]] {{gloss|chemical element}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鉛筆|えんぴつ}}: [[pencil]]\n{{der-bottom}}\n\n[[Category:Japanese basic words|なまり]]\n[[Category:ja:Metals|なまり]]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

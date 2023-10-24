@@ -1,0 +1,49 @@
+{
+  "title": "磊",
+  "ns": 0,
+  "id": 22072,
+  "timestamp": 1552876088000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石10}}\n\n# [[lots]] of [[stone]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=らい\n|kanon=らい\n|kun=\n|nanori=こいし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=irr|こいし}}\n\nCompound of {{compound|ja|sort=こいし|小|tr1=ko|t1=small|石|tr2=ishi|t2=stones}}.  The spelling is an example of {{ja-jukujikun|sort=こいし}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=irr|こいし}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|こいし}}\n\n# {{lb|ja|sort=こいし|rare}} {{alternative spelling of|lang=ja|nocap=1|小石}}: {{surname|lang=ja|sort=おいし|A=a|nodot=1}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

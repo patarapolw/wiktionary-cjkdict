@@ -1,0 +1,44 @@
+{
+  "title": "始",
+  "ns": 0,
+  "id": 13668,
+  "timestamp": 1550335794000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=女05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=はじ-める, はじ-め, はじ-まる\n|nanori=とも, はじめ, はる, もと\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|始め|はじめ}}\n* {{ja-r|始める|はじめる}}\n* {{ja-r|始まる|はじまる}}\n* {{ja-r|始まり|はじまり}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|ja|初}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

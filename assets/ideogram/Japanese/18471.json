@@ -1,0 +1,63 @@
+{
+  "title": "段",
+  "ns": 0,
+  "id": 18471,
+  "timestamp": 1553922375000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|假}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=殳05}}\n\n# [[step]]\n# [[rank]]; [[grade]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だん\n|kanon=たん\n|kun=きたえる, わかち\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der5|lang=ja|\n{{ja-r|階段|かいだん}}: stairs\n|{{ja-r|初段|しょだん}}\n|{{ja-r|段位|だんい}}\n|{{ja-r|値段|ねだん}}: price\n|{{ja-r|段ボール|だんボール}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|だん|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|だん}}\n\n# [[step]]s (up and down); [[stairs]]\n# [[rating]]; [[ranking]]\n# [[row]]; [[line]] (of text)"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|だん}}\n\n# (after a number) -th rank; -th degree black belt (in karate, judo, etc)\n# [[section]] {{gloss|in a table of the kana}}\n#: {{ja-usex|は行う'''段'''|.は-ぎょう う-'''だん'''|row ''ha'', '''section''' ''u''}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Coordinate terms",
+                      "text": "* {{ja-r|行|ぎょう}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

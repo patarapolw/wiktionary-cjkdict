@@ -1,0 +1,42 @@
+{
+  "title": "豝",
+  "ns": 0,
+  "id": 27500,
+  "timestamp": 1551652979000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|豕|巴|ls=psc|c1=s|c2=p|t1=pig; boar}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Possibly from {{inh|zh|sit-pro|*pʷak||pig}}; cognate with {{cog|my|ဝက်}}, {{cog|bo|ཕག}} ({{zh-ref|Benedict, 1972}}; STEDT). \n\nHowever, {{zh-ref|Schuessler (2007)}} points out phonological mismatches:\n* A medial ''*-r-'' in {{cog|och|-}} should correspond to a pre-initial in {{cog|tbq|-}}, but this is not present.\n* A final ''*-k'' is present in {{cog|tbq|-}} yet absent in {{cog|och|-}} (uncommon correspondence).\nHe instead considers {{w|Waic language|Waic}} *'''bras''' as a better match, both phonologically and semantically."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bā\n|c=baa1\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} [[sow]] {{gl|female [[pig]]}}\n# {{†}} [[one]]- or [[two]]-[[year-old]] [[pig]] (or [[creature]])\n# {{†}} {{zh-alt-form|羓|[[dried]] [[meat]]}}\n\n{{zh-cat|Pigs}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

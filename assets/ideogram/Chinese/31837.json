@@ -1,0 +1,56 @@
+{
+  "title": "骰",
+  "ns": 0,
+  "id": 31837,
+  "timestamp": 1553571291000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}\nFrom {{ltc-l|投|to throw}}. Often read semantically as {{ltc-l|色}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tóu,shǎi,1nb=standard in Mainland and Taiwan,2nb=common variant\n|m_note=shǎi - semantic reading for {{zh-l|*色}}\n|c=tau4,sik1\n|c_note=sik1 - semantic reading for {{zh-l|*色}}\n|g=\n|h=pfs=n:tàu/s:thèu;gd=têu2\n|j=\n|mb=dě\n|md=dàu\n|mn=tâu/xm,zz:tô͘/qz:tiô\n|mn_note=tâu - vernacular; tô/tiô - literary\n|mn-t=dao5\n|w=3deu\n|x=\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[die]] {{gloss|polyhedron used in games of chance}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|骰子}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|十八骰仔|骰仔|撚骰仔|骰九|擲骰子|藥骰|骰子}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|股|v}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

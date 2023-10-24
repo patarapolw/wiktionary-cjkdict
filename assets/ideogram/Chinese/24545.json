@@ -1,0 +1,39 @@
+{
+  "title": "膼",
+  "ns": 0,
+  "id": 24545,
+  "timestamp": 1520765450000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=侧边}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bèi,bei,zhuā\n|m-s=zua2\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n# [[leg]]\n# [[swell]] {{rfgloss|lang=zh}}\n# {{lb|zh|Sichuan}} to [[kick]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{qualifier|Standard Mandarin}} {{zh-l|踢}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

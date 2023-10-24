@@ -1,0 +1,92 @@
+{
+  "title": "札",
+  "ns": 0,
+  "id": 17262,
+  "timestamp": 1544254959000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|箚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=木01}}\n# [[bill]]\n# [[card]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せち\n|kanon=さつ\n|kun=ふだ-, ふみた-, ふんだ-, さね-\n}}\n{{attn|ja|kun also わかじに?}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|さつ|yomi=on}}\n\n{{IPAchar|/satu/}} → {{IPAchar|/sat͡su/}}\n\nFrom {{der|ja|ltc|sort=さつ|-}} {{ltc-l|札}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|さつ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さつ}}\n# [[paper money]], a [[bill]], a (bank) [[note]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|紙%幣|し%へい}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ふだ|yomi=kun}}\n\n{{IPAchar|/pumi ita/}} → {{IPAchar|/ɸumita/}} → {{IPAchar|/ɸunda/}} → {{IPAchar|/ɸuda/}}\n\nOriginally a compound of {{ja-compound|文|ふみ|板|いた|t1=[[writing]]|t2=[[board]], [[plank]]}}.<ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ふだ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|簡}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふだ}}<br/>{{ja-altread|hira=ふみた}}<br/>{{ja-altread|hira=ふんだ}}\n# a [[card]], a [[plate]], a [[tag]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|花%札|はな%ふだ|[[hanafuda]]}}\n* {{ja-r|御%札|お%ふだ}}\n* {{ja-r|切り札|きりふだ}}\n* {{ja-r|引き札|ひきふだ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|さつ]]\n[[Category:Japanese basic words|ふだ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

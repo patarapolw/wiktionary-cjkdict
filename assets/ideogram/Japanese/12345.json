@@ -1,0 +1,78 @@
+{
+  "title": "員",
+  "ns": 0,
+  "id": 12345,
+  "timestamp": 1548472453000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|员}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=口07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=うん, えん<ゑん\n|kanon=いん<ゐん, えん<ゑん\n|kun=かず-, いな\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いん|yomi=on}}\nFrom {{der|ja|ltc|sort=いん|-}} {{ltc-l|員}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|いん|acc=1|acc_ref=DJR|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いん|hhira=ゐん}}\n\n# {{lb|ja|literary}} [[member]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|員に備わるのみ|いん に そなわる のみ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|いん|hhira=ゐん}}\n\n# [[member]]\n#: {{ja-usex-inline|公%務'''員'''|こう%む'''いん'''|public sector workers, civil servants}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|いん|hhira=ゐん}}\n\n# [[member]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|員外|いんがい}}\n* {{ja-r|員%数|いん%ず}}, {{ja-r|員数|いんずう}}, {{ja-r|員数|いんじゅ}}\n* {{ja-r|委%員|い%いん}}\n* {{ja-r|委%員%会|い%いん%かい}}\n* {{ja-r|委%員%長|い%いん%ちょう}}\n* {{ja-r|学芸員|がくげい.いん}}\n* {{ja-r|議%員|ぎ%いん}}\n* {{ja-r|人員|じんいん}}\n* {{ja-r|党員|とういん}}\n* {{ja-r|定員|てい.いん}}\n* {{ja-r|役員|やくいん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

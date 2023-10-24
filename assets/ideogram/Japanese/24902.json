@@ -1,0 +1,71 @@
+{
+  "title": "茗",
+  "ns": 0,
+  "id": 24902,
+  "timestamp": 1548576463000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸06}}\n\n# [[tea]], the tea [[plant]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=みょう<みやう\n|kanon=めい\n|kun=ちゃ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ja\n|{{ja-r|茗荷|みょうが}}: [[myoga]] or [[Japanese ginger]] (''[[Zingiber mioga]]''); a [[dimwit]], an [[idiot]], a [[stupid]] person; a kind of {{m|ja|家紋|tr=kamon||family crest}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|めい|yomi=o}}\n\n{{IPAchar|/mjau/}} → {{IPAchar|/mjɔː/}} → {{IPAchar|/mjoː/}}\n\nFrom {{der|ja|ltc|sort=めい|-}} {{ltc-l|茗}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|めい|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|めい}}\n\n# [[tea]], especially tea [[picked]] later in the [[season]]<ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|茶|ちゃ}} {{qualifier|especially tea picked earlier in the season}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der3|lang=ja|title=Terms derived from {{ja-r|茗|めい}}:\n|{{ja-r|苦茗|くめい}}: [[bitter]] [[tea]]\n|{{ja-r|新茗|しんめい}}: newly-sprouted leaves of tea, tea made from newly-sprouted leaves of tea\n|{{ja-r|茗園|めいえん}}: [[tea]] [[plantation]]\n|{{ja-r|茗醼|めいえん}}, {{ja-r|茗宴|めいえん}}: [[tea party]]\n|{{ja-r|茗器|めいき}}: [[teaware]]\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Kokugo Dai Jiten}}\n\n[[Category:ja:Tea|めい]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

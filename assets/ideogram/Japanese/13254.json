@@ -1,0 +1,49 @@
+{
+  "title": "報",
+  "ns": 0,
+  "id": 13254,
+  "timestamp": 1553315070000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|报}}\n{{character info/new}}\n{{character info|0x2F857}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=土09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほ, ほう\n|kanon=ほう\n|kun=むく-いる, しら-せる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|報告|ほうこく}}\n* {{ja-r|情報|じょうほう}}\n* {{ja-r|報酬|ほうしゅう}}\n* {{ja-r|報償|ほうしょう}}\n* {{ja-r|官報|かんぽう}}\n* {{ja-r|応報|おうほう}}\n{{mid3}}\n* {{ja-r|悪報|あくほう}}\n* {{ja-r|吉報|きっぽう}}\n* {{ja-r|続報|ぞくほう}}\n* {{ja-r|速報|そくほう}}\n* {{ja-r|凶報|きょうほう}}\n* {{ja-r|確報|かくほう}}\n{{mid3}}\n* {{ja-r|飛報|ひほう}}\n* {{ja-r|報奨|ほうしょう}}\n* {{ja-r|悲報|ひほう}}\n* {{ja-r|因果応報|いんが おうほう}}\n* {{ja-r|報知|ほうち}}\n* {{ja-r|報道|ほうどう}}\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|お報せ|おしらせ}}, {{ja-r|御%報せ|お%しらせ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ほう}}\n\n# [[news]], [[information]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

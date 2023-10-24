@@ -1,0 +1,61 @@
+{
+  "title": "瘩",
+  "ns": 0,
+  "id": 21366,
+  "timestamp": 1547467338000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𤺥}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Considered a {{zh-l|後起字}}. {{Han compound|疒|荅|ls=psc|c1=s|c2=p|t1=illness|tr2=dá}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=da\n|c=daap3,daat6\n|mn=ml:tap/qz,xm,zz:tah\n|mn_note=tap - literary; tah - vernacular\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|疙瘩|dot=,}} {{n-g|etc.}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|仇疙瘩|疙疙瘩瘩|疙瘩湯|疙瘩事|疙瘩|疙瘩腔|老疙瘩|解開疙瘩|雞皮疙瘩|鬼飯疙瘩|麵疙瘩}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=dá\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|瘩背}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

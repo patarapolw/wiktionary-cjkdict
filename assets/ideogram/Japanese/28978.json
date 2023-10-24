@@ -1,0 +1,49 @@
+{
+  "title": "郭",
+  "ns": 0,
+  "id": 28978,
+  "timestamp": 1553290116000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=邑08}}\n\n# Quarter (of a city)\n#Enclosure",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かく<くわく\n|kanon=かく<くわく\n|kun=くるわ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[外郭]]\n* [[郭大]]\n* [[輪郭]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|くるわ|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くるわ}}\n\n# {{alternative spelling of|lang=ja|曲輪}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

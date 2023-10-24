@@ -1,0 +1,73 @@
+{
+  "title": "辛",
+  "ns": 0,
+  "id": 28566,
+  "timestamp": 1550920547000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|幸|羍}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=辛00}}\n\n# [[spicy]]\n# [[bitter]]\n# [[hot]]\n# [[acrid]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん\n|kanon=しん\n|kun=から-い, つら-い, かのと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[辛党]]\n* [[辛味]]\n* [[辛気]]\n* [[辛気臭い]]\n* [[辛苦]]\n* [[辛酸]]\n* [[辛勝]]\n* [[辛抱]]\n* [[辛辣]]\n* [[辛労]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しん|yomi=o}}\n{{wp|lang=ja}}\nFrom {{der|ja|ltc|辛|tr=sin|sort=しん}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=1|y=o|しん}}\n* {{hmp|lang=ja|sort=しん|心|臣|参|芯|信|神|真|紳|軫|寝|新|箴|震|親|讖}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しん}}\n\n# the eighth of the ten {{w|Celestial stem|Heavenly Stems}}\n\n{{topics|ja|Heavenly Stems|sort=しん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かのと|yomi=k}}\n{{com|ja|金|の|弟|tr1=Ka|t1={{w|Metal (Wu Xing)|Metal}}|pos1=one of the {{w|Wu Xing|Five Elements}}|tr2=no|pos2=attributive marker|tr3=oto|t3=[[younger brother]]|sort=かのと}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=2|acc2=0|y=k|かのと}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|かのと}}\n\n# the eighth of the ten {{w|Celestial stem|Heavenly Stems}}\n\n{{cln|ja|words with multiple readings}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

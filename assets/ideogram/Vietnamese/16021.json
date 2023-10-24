@@ -1,0 +1,39 @@
+{
+  "title": "批",
+  "ns": 0,
+  "id": 16021,
+  "timestamp": 1550911030000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{vi-readings|hanviet=phi|nom=phê, phe, phây|rs=手04}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:WinVNKey:Lê Sơn Thanh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "犴",
+  "ns": 0,
+  "id": 20423,
+  "timestamp": 1508097322000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|犬|干|ls=psc|c1=s|c2=p|t1=dog}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=豻,𤞿,𤟉,𤝪}}\n{{rfe|zh|are \"dog\" and \"prison\" related? Jiyun suggests that the \"prison\" sense derives from \"dog\" (which guard the prison). Schuessler derives this word from 圄/圉.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=àn,hàn,2nb=variant\n|c=ngon6,hon6\n|mn=ml:gān\n|mn-t=ngang6\n|mc=y\n|oc=y\n|cat=n,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} a kind of [[wild]] [[dog]] from [[northern]] [[China]]\n# {{†}} [[jail]]; [[prison]]\n# {{surname|lang=zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|犴圄|狴犴|獄犴|犴戶|犴庭|犴狴|犴訟|犴獄}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=𤞶}}\nFrom {{der|zh|mnc|ᡴᠠᠨᡩᠠᡥᠠᠨ}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=hān,àn,1nb=Mainland,2nb=Taiwan\n|c=hon4\n|mn-t=gang1/hang5\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Northeastern Mandarin}} [[moose]]; [[elk]]\n#: {{zh-syn|駝鹿}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

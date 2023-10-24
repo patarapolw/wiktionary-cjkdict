@@ -1,0 +1,128 @@
+{
+  "title": "艶",
+  "ns": 0,
+  "id": 24740,
+  "timestamp": 1552546832000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|艷}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|艶|艷}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=色13|kyu=艷}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん<えん<えむ\n|kanon=えん<えん<えむ\n|kun=つや-, あで-やか, つや-めく, なまめ-かし.い, なま-めく\n|nanori=おお<おほ, もろ, よし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|つや|yomi=k}}\n\nFrom {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|sort=つや|*tuya}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つや|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=艷|つや}}\n\n# [[gloss]], [[lustre]] (UK)/[[luster]] (US)\n# {{rfdef|ja}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|艶歌|つやうた}}\n* {{ja-r|艶種|つやだね|[[love affair]] ([[rumour]] of)}}\n* {{ja-r|色艶|いろつや}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|あで|yomi=k}}\n\nShift from {{m|ja|貴|tr=ate}}.<ref>{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Adjectival noun",
+                  "text": "{{ja-adj|infl=na|kyu=艷|あで}}\n\n# [[beautiful]], [[charming]], [[elegant]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あで|kyu=艷}}\n\n# [[beauty]], [[charm]], [[elegance]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|艶やか|あでやか}}\n* {{ja-r|艶%姿|あで%すがた}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|えん|yomi=o}}\n{{IPAchar|/jiem/}} → {{IPAchar|/jemʉ/}} → {{IPAchar|/emʉ/}} → {{IPAchar|/eɴ/}}\n\nFrom {{bor|ja|ltc|sort=えん|-}} {{ltc-l|豔}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|えん|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjectival noun",
+                  "text": "{{ja-adj|kyu=艷|infl=na|えん}}\n\n# [[charming]]\n# {{rfdef|ja|sort=えん}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|えん}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=艷|えん}}\n\n# [[charm]]\n# {{rfdef|ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えん|kyu=艷}}\n\n# [[charming]], [[voluptuous]]\n# [[love affair]], [[romance]]\n# [[gloss]], [[luster]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top|Compounds}}\n* {{ja-r|艶歌|えんか}}\n* {{ja-r|艶姿|えんし|[[allure|alluring]] [[figure]]}}\n* {{ja-r|艶書|えんしょ|[[love letter]]}}\n* {{ja-r|艶色|えんしょく|[[bewitching]] [[look]]s; [[beautiful]] [[colour]]}}\n* {{ja-r|艶美|えんび|[[beauty]], [[charm]]}}\n* {{ja-r|艶福|えんぷく|[[success]] in [[love]]}}\n* {{ja-r|艶聞|えんぶん|[[love affair]]}}\n* {{ja-r|艶名|えんめい}}\n* {{ja-r|艶冶|えんや}}\n* {{ja-r|艶容|えんよう|[[charming]] look}}\n* {{ja-r|艶麗|えんれい|[[dazzle|dazzling]] (beauty)}}\n* {{ja-r|濃艶|のうえん}}\n* {{ja-r|豊艶|ほうえん}}\n* {{ja-r|妖艶|ようえん}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

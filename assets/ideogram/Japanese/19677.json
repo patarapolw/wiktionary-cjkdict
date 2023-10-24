@@ -1,0 +1,39 @@
+{
+  "title": "濱",
+  "ns": 0,
+  "id": 19677,
+  "timestamp": 1545199356000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|浜|滨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水14|shin=浜}}\n\n# {{defn|lang=ja|sort=水14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひん\n|kanon=ひん\n|kun=はま-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はま|shin=浜}}\n\n# [[beach]], [[seashore]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

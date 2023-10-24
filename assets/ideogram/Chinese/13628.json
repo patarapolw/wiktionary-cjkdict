@@ -1,0 +1,44 @@
+{
+  "title": "妣",
+  "ns": 0,
+  "id": 13628,
+  "timestamp": 1510599663000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bǐ\n|c=bei2\n|mn=pí\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|先妣|先祖妣|如喪考妣|皇妣|祖妣|皇祖妣|考妣|顯祖妣|顯妣|若喪考妣}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

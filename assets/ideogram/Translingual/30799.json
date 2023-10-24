@@ -1,0 +1,49 @@
+{
+  "title": "難",
+  "ns": 0,
+  "id": 30799,
+  "timestamp": 1553875718000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|难}}\n{{character info/new}}\n{{character info/new|0xfa68}}\n{{character info/new|0xfac7}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|難|难|難|難}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In {{w|traditional Chinese}}, Japanese {{w|kyūjitai}}, Korean {{w|hanja}} and Vietnamese [[Nôm]], the component [[File:U26c29-ue0102.svg|25px|text-bottom|𦰩󠄂|link=𦰩]] for this character is written with {{l|mul|廿}} on top. Note that the bottom portion is written {{l|mul|口}} overlapped by {{l|mul|夫}} and not {{l|mul|中}} on top of {{l|mul|天}}.\n* In Japanese {{w|shinjitai}}, the component [[File:U26c29.svg|25px|text-bottom|𦰩|link=𦰩]] is written with <font size=5, lang=ja>[[艹#Translingual|艹]]</font> on top and has one stroke less. Due to {{w|Han unification}}, both traditional Chinese and Japanese forms are encoded under the same [[code point]]. The appearance of this character will differ according to the font used.\n* In {{w|simplified Chinese}}, the component [[File:U26c29-ue0102.svg|25px|text-bottom|𦰩󠄂|link=𦰩]] is simplified to {{l|mul|又}} instead, giving the character <big>{{l|mul|难}}</big> (<code>U+96BE</code>).\n* Two {{w|CJK Compatibility Ideographs|compatibility ideographs}} exist for this character. <code>U+FA68</code> corresponds to the {{w|kyūjitai}} form of this character while <code>U+FAC7</code> corresponds to the alternative Korean form which is similar to Japanese shinjitai."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=172|rad=隹|as=11|asj+=10|sn=19|snj+=18|four=40514|canj=TOOG,TIOG|ids=⿰⿱廿⿻口夫隹(GHTKV,<code>U+FA68</code>),⿰𦰩隹(J,<code>U+FAC7</code>)}} <!-- Note: id composition for 𦰩 in Unicode charts is only ⿱艹⿻口夫 (grass radical) -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[儺]]([[傩]]), [[𡅧]]([[𭉼]]), [[𡔃]], [[𢥪]], [[攤]]([[摊]]), [[灘]]([[滩]]), [[𣌖]], [[𦣎]]([[𦟗]]), [[㰙]]([[𣗙]]), [[𤓌]]([[𪹠]]), [[𮁙]], [[𡚟]], [[㬮]], [[䕼]]([[𬝴]]), [[癱]]([[瘫]]), [[𦍀]], [[𥸁]], [[𡿊]], [[戁]]([[𫺷]]), [[𢺋]], [[𤓉]], [[㸐]]([[𬊾]]), [[𦣊]], [[𧕴]], [[臡]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[难]]}} ''({{w|Simplified Chinese}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1370.050|dkj=42128|dj=1876.020|hdz=64108.050|uh=96E3}}\n{{Han ref|uh=FA68}}\n{{Han ref|uh=FAC7}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

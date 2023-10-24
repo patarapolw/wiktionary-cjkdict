@@ -1,0 +1,61 @@
+{
+  "title": "達",
+  "ns": 0,
+  "id": 28755,
+  "timestamp": 1552532167000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|达}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=辵09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だち\n|kanon=たつ\n|kun=たち-\n|nanori=いたる, かつ, さと, さとし, さとる, しげ, すすむ, とお, のぶ, ひろ, みち, ただ, たて, て, てつ, とおる, よし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|たち|yomi=k}}\n{{ja-kanjitab|たち|yomi=o}}\nFrom {{inh|ja|ojp|sort=たち|-}}. Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|19|4240}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man19Yo.html#4240 here]</ref>\n\nThe ultimate derivation is {{unk|ja|nocap=1|sort=たち}}, but this might be a nativized borrowing from {{bor|ja|ltc|sort=たち|達|tr={{IPAchar|/dɑt̚/|}}|pos=perhaps from the “general, common; everywhere, all over” senses?}}, possibly cognate with {{cog|ko|들|pos=plural marker}}.\n\nThe ''tachi'' reading is analyzed by some references<ref>Jim Breen's WWWJDIC, {{m|ja|達}} character entry [http://nihongo.monash.edu/cgi-bin/wwwjdic?1MMC%E9%81%94 here]</ref> as [[訓読み#Japanese|kun'yomi]] or a native-Japanese reading. Alternatively, this might be a shift from the [[呉音#Japanese|goon]] reading of ''dachi''."
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|たち|suffix}}\n\n# {{n-g|[[plural]] marker}}\n#: {{ja-usex|子%供、子%供%'''達'''、俺、俺%'''達'''|こ%ども、こ%ども%'''たち'''、おれ、おれ%'''たち'''|child, children, I, we}}\n#* {{quote-book\n|lang=ja\n|location=Tokyo\n|publisher={{w|Hakusensha}}\n|genre=fiction\n|first=Marimo\n|last=Ragawa\n|||authorlink=Marimo Ragawa\n|{{wj|赤ちゃんと僕}}\n|chapter={{lj|[赤](あか)ちゃんと[僕](ぼく)　[第](だい)33[話](わ)}}\n|trans-chapter=Baby & Me: Chapter 33\n|trans-title={{w|Baby & Me}}\n|date=Mar 25 1994\n|isbn=4-592-12247-X\n|volume=7\n||27\n}}\n#*: {{ja-usex|この 鳥'''達''' だって 邪%魔 じゃ ない か|^この とり'''-たち''' だって じゃ%ま じゃ ない か|But aren’t these bird'''s''' a bit of a hindrance?}}\n# {{n-g|attached to the name of the representative of a group to refer to that whole group}}\n#:{{ja-usex|杏%子ちゃん'''たち'''|^きょう%こ-ちゃん'''-たち'''|Kyōko-chan '''and her friend(s)'''}}\n#* {{quote-book\n|lang=ja\n|location=Tokyo\n|publisher=Shueisha\n|authorlink=Nobuhiro Watsuki\n|first=Nobuhiro\n|last=Watsuki\n|||{{wj|武装錬金|[武](ブ)[装](ソウ)[錬](レン)[金](キン)}}\n|trans-title={{w|Buso Renkin|Armed Alchemy}}\n|date=Apr 7 2004\n|isbn=4-08-873587-0\n|volume=2\n||23\n|chapter={{lj|[第](だい)８[話](わ)　ロックオン}}\n|trans-chapter=Chapter 8: Lock On\n}}\n#*: {{ja-usex|六%舛'''達''' 集めて 先 に 玄%関 で 待って てくれ|^ろく%ます'''-たち''' あやめて さき に げん%かん で まって てくれ|Go get Rokumasu '''and the others''' and wait for me at the entrance, will you?}}\n# {{lb|ja|sort=たち|archaic|possibly|_|obsolete}} {{n-g|[[honorific]] suffix}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Note that ''tachi'' only clarifies that the number of people in question is more than one. It could be omitted when the plurality is already clear by context or considered negligible. The plurality marked with ''tachi'' is not [[syntactic]]. ''Tachi'' is normally used only for people."
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|等|-ら}}\n* {{ja-r|供|-ども}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Koseki Moji|441670}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

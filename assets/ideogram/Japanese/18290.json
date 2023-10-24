@@ -1,0 +1,39 @@
+{
+  "title": "欅",
+  "ns": 0,
+  "id": 18290,
+  "timestamp": 1535347925000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|榉|櫸|﨔}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木17|shin=﨔}}\n\n# {{defn|lang=ja|sort=木17}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こ\n|kanon=きょ\n|kun=けやき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|けやき|ケヤキ}}\n\n# [[zelkova]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

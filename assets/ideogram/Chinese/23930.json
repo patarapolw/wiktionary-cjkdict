@@ -1,0 +1,39 @@
+{
+  "title": "罹",
+  "ns": 0,
+  "id": 23930,
+  "timestamp": 1528553576000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lí\n|c=lei4\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[occur]]\n# to have a disease",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|百罹|沒遭罹|罹病|罹患|罹難}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

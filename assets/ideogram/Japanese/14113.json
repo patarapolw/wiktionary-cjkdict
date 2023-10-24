@@ -1,0 +1,39 @@
+{
+  "title": "學",
+  "ns": 0,
+  "id": 14113,
+  "timestamp": 1553895272000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|学}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|学|學}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=子13|shin=学}}\n\n# Learning, student, study\n# School, education\n# Subject, field of study, science\n# Understanding, knowledge",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がく\n|kanon=がく\n|kun=まな-ぶ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|蘭學|らんがく}}\n* {{ja-r|學校|がっこう}}\n* {{ja-r|學生|がくせい}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

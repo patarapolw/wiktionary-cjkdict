@@ -1,0 +1,112 @@
+{
+  "title": "錁",
+  "ns": 0,
+  "id": 29595,
+  "timestamp": 1531846121000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|锞}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=锞}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph 1",
+              "text": "''This section refers to the standard glyph form.''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{rfe|zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=kè\n|c=fo3 <!-- Note: Pronunciation \"gwo2\" belongs to Glyph 2, Etymology 1 -->\n|mc=\n|oc=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[gold]] or [[silver]] [[ingot]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|錁子}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|B05381}}\n* {{R:yue:Hanzi}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Glyph 2",
+              "text": "''This section refers to the historical glyph form where the vertical {{l|mul|丨}} stroke at the middle of {{l|mul|果}} is written with a vertical {{l|mul|亅}} hook instead. Note that the two glyph forms are considered identical in modern usage.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Etymology 1",
+                  "text": "",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Glyph origin",
+                      "text": "Found in the {{w|Jiyun}} 《{{w2|zh|集韻}}》 {{w|rime dictionary}} published during the {{w|Song dynasty}} (1037 AD) and {{w|Longkan Shoujian}} 《{{w2|zh|龍龕手鑑}}》 dictionary compiled in 997 AD.\n\n{{Han compound|金|果|c1=s|c2=p|t1=gold; metal|ls=psc|no_och2=1}}."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Pronunciation",
+                      "text": "{{zh-pron\n|m=guǒ\n|c=gwo2 <!-- Note: Pronunciation \"fo3\" belongs to Glyph 1 -->\n|mc=\n|oc=\n|cat=n\n}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|輠|[[grease]] [[pot]] hung under [[axle]] of [[cart]]}}\n# {{zh-hg}} [[sickle]] <!-- Note: Found in Longkan Shoujian -->\n#: {{zh-syn|鐮}}\n# {{lb|zh|dated|chemistry}} {{n-g|[[transcription]] of [[gallium]]}}\n#: {{zh-syn|鎵}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "References",
+                      "text": "* {{R:twedu|B05381}} <!-- Note: Not mentioned explicitly. Refer to the 形體資料表 on the right -->\n* {{R:yue:Hanzi}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Etymology 2",
+                  "text": "",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Glyph origin",
+                      "text": "Found in the historical {{w|Jiyun}} 《{{w2|zh|集韻}}》 {{w|rime dictionary}} published during the {{w|Song dynasty}} and <big>《重訂直音篇》</big> published during the {{w|Ming dynasty}}."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-see|銙|v}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "References",
+                      "text": "* {{R:twedu|C14913-002#26}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "維",
+  "ns": 0,
+  "id": 23401,
+  "timestamp": 1548416714000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|维}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=糸08}}\n\n# [[supportive]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ゆい<ゆゐ\n|kanon=い<ゐ\n|kun=たもつ-, つな-, つな-ぐ, こ-れ\n|nanori=ゆき\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Notes",
+                  "text": "*As in historical readings \"すゐ\", \"つゐ\", \"るゐ\", most dictionaries do not have \"ゆゐ\" as a historical reading for 維. According to historical data, the on-reading of 維 is \"ゆい\". However, the Dai Kanwa Jiten, has the \"ゆゐ\" and related -wi historical on-readings.\n\n{{attention|ja|please confirm this, this is translated from the Japanese Wikipedia}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=kanon}}\n{{IPAchar|/wi/}} → {{IPAchar|/i/}}\n\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|維}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|い|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い|hhira=ゐ}}\n\n# [[hold]] together; [[keep]]; [[maintain]]\n# what holds together; [[net]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

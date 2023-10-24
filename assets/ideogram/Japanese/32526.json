@@ -1,0 +1,64 @@
+{
+  "title": "鴉",
+  "ns": 0,
+  "id": 32526,
+  "timestamp": 1552876338000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鵶|鸦}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[file:Kolkrabe.jpg|thumb|right|200px|鴉(karasu)]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=鳥04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え\n|kanon=あ\n|kun=からす-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鴉片|あへん|[[opium]]}}\n* {{ja-r|鴉鷺|あろ|[[crow]] and [[heron]]; [[black]] and [[white]]}}\n* {{ja-r|寒鴉|かんあ|[[winter]] [[crow]]}}\n* {{ja-r|暁鴉|ぎょうあ|[[crow]] [[caw]]ing in the [[morning]]}}\n* {{ja-r|宿鴉|しゅくあ|[[roost]]ing [[crow]]}}\n* {{ja-r|乱鴉|らんあ|[[wild]]ly [[fly]]ing [[crow]]s}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|からす|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Compound of {{compound|ja|sort=からす|から|tr1=kara|t1=caw|pos1=onomatopoeia|す|tr2=su|t2=bird?|pos2=ancient suffix appearing in certain bird names}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Compare the {{m|ja|す|tr=su}} in {{m|ja|鶯|tr=uguisu}}, {{m|ja|杜鵑|tr=hototogisu}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|からす|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ja|烏}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|からす|カラス}}\n\n# [[crow]], [[raven]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Corvids|からす]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

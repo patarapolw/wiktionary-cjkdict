@@ -1,0 +1,39 @@
+{
+  "title": "魦",
+  "ns": 0,
+  "id": 32063,
+  "timestamp": 1503682181000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚04}}\n\n# {{defn|lang=ja|sort=魚04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃ\n|kanon=さ\n|kun=さめ, ちちぶ, いさざ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|鱊}}\n* {{ja-l|𩶗}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

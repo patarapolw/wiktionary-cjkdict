@@ -1,0 +1,51 @@
+{
+  "title": "忑",
+  "ns": 0,
+  "id": 15336,
+  "timestamp": 1553549951000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=tè\n|c=tik1\n|mn=qz:thiak/tw,xm,zz:thek\n|mc=\n|oc=y\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|忐忑}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|忑忑忐忐|忐忑不定|忐忑不安|忐忑|忐忐忑忑|忐上忑下}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=dǎo\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-obsolete}} {{zh-only|忐忑|tr=kěngdǎo}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "痛",
+  "ns": 0,
+  "id": 21280,
+  "timestamp": 1550222009000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=疒07}}\n\n# [[pain]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=つう\n|kanon=とう\n|kun=いた-い, いた-み, いた-める, いた-む\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|痛み|いたみ}}\n* {{ja-r|痛い|いたい}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

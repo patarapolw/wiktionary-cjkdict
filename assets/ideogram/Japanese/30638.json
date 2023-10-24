@@ -1,0 +1,39 @@
+{
+  "title": "陋",
+  "ns": 0,
+  "id": 30638,
+  "timestamp": 1551005636000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=阜06}}\n\n# {{defn|lang=ja|sort=阜06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ろう]] (rō)|kun=[[せまい]] (semai), [[いやしい]] (iyashii)|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[陋屋]] (ろうおく)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

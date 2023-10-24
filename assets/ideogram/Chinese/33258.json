@@ -1,0 +1,37 @@
+{
+  "title": "龠",
+  "ns": 0,
+  "id": 33258,
+  "timestamp": 1532266564000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𠎤}}\n{{zh-wp|zh:龠部|en:Radical 214}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{liushu|p}} – a woodwind instrument. In the bronze inscriptions, {{zh-l|*亼}} (a flipped {{zh-l|*口}}) was added to show a mouth playing the instrument.\n\n''{{w|Shuowen}}'' interprets it as an {{Han compound|品|侖|ls=ic|nocap=y}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yuè\n|c=joek6\n|h=pfs=yok\n|mn=qz,xm:io̍k/zz:ia̍k\n|w=\n|mc=y\n|oc=y\n|ma=|ma2=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[musical instrument]] which contains the bamboo tube and has three or other numbers of holes\n# an ancient unit of volume"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

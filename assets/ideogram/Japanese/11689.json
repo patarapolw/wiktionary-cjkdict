@@ -1,0 +1,44 @@
+{
+  "title": "劃",
+  "ns": 0,
+  "id": 11689,
+  "timestamp": 1534167497000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|划}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=刀12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[かく]] (kaku)|kun=[[わかつ]] (wakatsu)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|劃然|かくぜん}}\n* {{ja-r|劃期|かっき}}\n* {{ja-r|企劃|きかく}}\n* {{ja-r|区劃|くかく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かく}}\n\n# {{alternative form of|画|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "title": "場",
+  "ns": 0,
+  "id": 13257,
+  "timestamp": 1553763473000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|场}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=土09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<ぢやう\n|kanon=ちょう<ちやう\n|kun=ば-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|市%場|いち%ば}}: market\n* {{ja-r|市%場|し%じょう}}: market"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Alteration from {{etyl|ojp|ja|sort=は'}} {{m|ja|庭|tr={{upright|{{IPAchar|/*nipa/}}}}||garden, yard}}.\n\n{{IPAchar|/*nipa/}} > {{IPAchar|/*niba/}} > {{IPAchar|/ba/}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{l|ja|sc=Latn|訓読み|Kun'yomi}}\n* {{IPA|lang=ja|[ba̠]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ば}}\n\n# a [[place]]\n# {{lb|ja|sort=は'|physics}} a [[field]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|ば|counter}}\n\n# sections of a [[play]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "From {{etyl|ltc|ja|sort=しょう'}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{l|ja|sc=Latn|音読み|On'yomi}}\n* {{IPA|lang=ja|[d͡ʑʲo̞ː]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|じょう|hhira=ぢやう}}\n\n# a flattened area used for [[festival]]s or [[ceremony|ceremonies]]\n# a [[place]] where events are held"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|じょう|suffix|hhira=ぢやう}}\n\n# [[place]], [[arena]], [[course]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|工場|こうじょう|[[factory]]}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

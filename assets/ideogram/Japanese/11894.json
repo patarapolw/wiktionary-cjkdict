@@ -1,0 +1,39 @@
+{
+  "title": "升",
+  "ns": 0,
+  "id": 11894,
+  "timestamp": 1550519860000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|昇|陞}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=十02}}\n{{ja-kanjitab|ます|yomi=kun}}\n\n# rise, ascend\n# measuring box",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しよう\n|kanon=しょう<しよう\n|kun=ます-, のぼ-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ます|count=升}}\n# a unit of liquid measure equal to 1.8&nbsp;liters or 1800&nbsp;ml.\n# a box used for measuring or serving [[酒|sake]] in units of 1800&nbsp;ml."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

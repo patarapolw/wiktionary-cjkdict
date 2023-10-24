@@ -1,0 +1,71 @@
+{
+  "title": "熊",
+  "ns": 0,
+  "id": 20119,
+  "timestamp": 1549724259000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|態}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=火10}}\n\n# [[bear]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=ゆう\n|kun=くま-\n|nanori=かげ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|牡%熊|おす%くま}}: a [[male]] bear\n* {{ja-r|雌%熊|めす%くま}}: a [[female]] bear; a [[she-bear]]\n* {{ja-r|子%熊|こ%くま}}: a bear [[cub]]\n* {{ja-r|小%熊|こ%くま}}: a species of small bear\n* {{ja-r|白%熊|しろ%くま}}: a [[white]] bear ([[polar bear]])\n* {{ja-r|北%極%熊|ほっ%きょく%ぐま}}: a [[polar bear]]\n* {{ja-r|黒%熊|くろ%くま}}: the [[Asian black bear]]\n{{der-mid}}\n* {{ja-r|熊%笹|くま%ざさ}}: {{vern|bamboo grass}} ({{taxlink|Sasa veitchii|species|ver=190110}})\n* {{ja-r|熊%葛|くま%つづら}}: {{vern|common vervain}} (''{{l|mul|Verbena officinalis}}'')\n* {{ja-r|熊%手|くま%で}}: [[bamboo]] [[rake]]\n* {{ja-r|熊%襲|^くま%そ}}: the [[w:Kumaso|Kumaso]] people\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n[[File:Medved_mzoo.jpg|thumb|250px|{{lang|ja|熊}} (''kuma''): a brown '''[[bear]]'''.]]\n</div>{{ja-kanjitab|くま|yomi=k}}\nFrom {{etyl|ojp|ja|sort=くま}}. Probably cognate with {{m|ja|隈|tr=kuma||inside corner; inner bend; hollow or hole in something}}, perhaps from the way that bears often live in [[den]]s. Probably also cognate with {{cog|ko|곰||bear; hole}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|くま|acc=2|acc_ref=NHK,DJR|acc2=1|acc2_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くま|クマ}}\n\n# a [[bear]] {{gl|large mammal of family Ursidae}}\n# {{lb|ja|slang|sort=くま}} a [[bear]], an [[otter]] {{gl|a [[hairy]] [[man]], especially one who is [[gay]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|クマ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|熊%鼠|くま%ねずみ}}: ''{{l|mul|Rattus rattus}}'', the [[black rat]]\n* {{ja-r|穴%熊|あな%ぐま}}: ''{{l|mul|Meles meles}}'', the [[Eurasian badger]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|くま]]\n[[Category:ja:Ursids|くま]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "彝",
+  "ns": 0,
+  "id": 15221,
+  "timestamp": 1553549310000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|彛|彞}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=彐15}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い\n|kanon=い\n|kun=つね-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=on}}\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|彝}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|い|acc=1|acc_ref=DJR|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|い}}\n\n# in ancient China, a [[tripod]] [[kettle]] or other [[vessel]] used to make [[offering]]s to one's [[ancestor]]s\n# {{lb|ja|by extension}} [[cardinal]] [[principle]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|い}}\n\n# [[Yi]] {{gloss|ethnic group}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

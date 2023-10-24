@@ -1,0 +1,44 @@
+{
+  "title": "煸",
+  "ns": 0,
+  "id": 20101,
+  "timestamp": 1519977926000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp|zh:煸}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=biān\n|c=bin1,pin1\n|h=pfs=\n|md=\n|mn=\n|w=\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[stir-fry]] before [[broil]]ing or [[stew]]ing",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{zh-l|炒}}\n* {{zh-l|煎}}\n* {{zh-l|炸|tr=zhà}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|乾煸}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

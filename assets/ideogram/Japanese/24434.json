@@ -1,0 +1,85 @@
+{
+  "title": "腎",
+  "ns": 0,
+  "id": 24434,
+  "timestamp": 1533055872000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|肾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "/murato<sub>1</sub>/ → /murato/.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{IPA|[murato]|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|むらと}}\n\n# [[kidney]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}\n#*: 心腎肝脯 心人情也 腎音神 訓'''牟良斗''' 肝音干 訓岐毛"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "From earlier /murato/. Voicing suggests that it was originally a compound of ''mura'' and ''to''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{IPA|[murado]|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|むらど}}\n\n# [[kidney]]\n#* {{RQ:Wamyō Ruijushō|2|35-36}}\n#*: 腎 白虎通云 時忍反 上聲之重 '''无良度''' [...] 水之精也 色黑 [...] 水藏也 [...]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Kanji",
+                  "text": "{{ja-kanji|grade=|rs=肉08}}\n\n# {{defn|lang=ja|sort=肉08}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Readings",
+                      "text": "{{ja-readings\n|goon=じん\n|kanon=しん\n|kun=かなめ\n}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|腎臓|じんぞう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Nara Ibun 3}}\n* {{R:Wamyō Ruijushō}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

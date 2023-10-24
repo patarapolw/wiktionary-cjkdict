@@ -1,0 +1,78 @@
+{
+  "title": "被",
+  "ns": 0,
+  "id": 26512,
+  "timestamp": 1553720609000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=衣05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=び\n|kanon=ひ\n|kun=おお-う, かず-く, かず-かる, かず-ける, かがふ-る, かぶ-る, かぶ-す, かぶ-さる, かぶ-せる, かむ-る, こうぶ-る, こうむ-る, き-せる, ふすま-\n|nanori=ぎぬ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|被害|ひがい}}: [[incurred]] [[harm]]\n* {{ja-r|被害者|ひがいしゃ}}: someone who has incurred harm: a [[victim]], an [[injured]] person\n* {{ja-r|被服|ひふく}}\n\n* {{ja-r|鱗被|りんぴ}}: a [[lodicule]]: a small [[scale]] at the base of the [[ovary]] of a [[flower]] of a [[grass]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ひ|yomi=o}}\nFrom {{etyl|ltc|ja|sort=ひ}} {{m|zh|被|tr=bje<sup>H</sup>||to cover}}, from the term's use in Chinese as a [[passive]] marker.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ひ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|ひ}}\n\n# [[-ed]], [[-ee]] ({{n-g|marks the passive recipient of an action}})\n#: {{ja-usex|'''被'''傭者|'''ひ'''ようしゃ|employ'''ee'''}}\n#: {{ja-usex|'''被'''験者|'''ひ'''けんしゃ|examin'''ee'''}}\n#: {{ja-usex|'''被'''減数|'''ひ'''げんすう|minuend (number which '''is''' reduc'''ed''')}}\n#: {{ja-usex|'''被'''保護国|'''ひ'''ほごこく|protectorate (protect'''ed''' nation)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|おおい}}\nThe {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|被う|tr=ōu||to cover}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|おおい|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おおい|hhira=おほい}}\n\n# a [[covering]]\n# the [[act]] of [[covering]] something\n# {{lb|ja|sort=おおい|by extension}} a [[protector]] or [[patron]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

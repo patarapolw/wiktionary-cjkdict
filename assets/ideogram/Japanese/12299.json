@@ -1,0 +1,39 @@
+{
+  "title": "咳",
+  "ns": 0,
+  "id": 12299,
+  "timestamp": 1544335749000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=口06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がい, け, げ\n|kanon=かい\n|kanyoon=がい\n|kun=せ-く, せき-, しわぶ-く, しわぶき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|せき}}\n\n# a [[cough]]\n#: {{ja-usex|咳が出る|せき が でる|I have a cough.}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

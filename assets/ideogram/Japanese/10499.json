@@ -1,0 +1,39 @@
+{
+  "title": "乿",
+  "ns": 0,
+  "id": 10499,
+  "timestamp": 1525186687000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=乙10}}\n\n# {{alternative form of|治|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ<ぢ\n|kanon=ち\n|kun=おさ-める<をさ-める\n|nanori=おさむ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:DKJ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

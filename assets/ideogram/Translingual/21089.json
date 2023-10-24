@@ -1,0 +1,39 @@
+{
+  "title": "生",
+  "ns": 0,
+  "id": 21089,
+  "timestamp": 1551520882000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|主|玍}}\n{{character info/new|生|name=CJK UNIFIED IDEOGRAPH-751F|image=|block=CJK Unified Ideographs|sc=Hani|combining=false|aliases=\n|previous_codepoint=0x751E|previous_codepoint_sc=Hani|previous_codepoint_combining=false|previous_codepoint_name=CJK UNIFIED IDEOGRAPH-751E|previous_codepoint_printable=true|previous_codepoint_title=self\n|next_codepoint=0x7520|next_codepoint_sc=Hani|next_codepoint_combining=false|next_codepoint_name=CJK UNIFIED IDEOGRAPH-7520|next_codepoint_printable=false|next_codepoint_title=self\n}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|stroke=5}}\n{{stroke order|type=animate}}\n{{stroke order|type=janimate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=100|rad=生|as=0|sn=5|four=25100|canj=HQM|ids=⿻𠂉土,⿰丿龶}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/生]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0754.260|dkj=21670|dj=1162.040|hdz=42575.010|uh=751F|ud=29983|bh=A5CD|bd=42445}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

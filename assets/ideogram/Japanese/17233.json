@@ -1,0 +1,39 @@
+{
+  "title": "朏",
+  "ns": 0,
+  "id": 17233,
+  "timestamp": 1553551575000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|胐}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=月05}}\n\n# [[crescent moon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひ, へ\n|kanon=ひ, はい\n|kun=みかづき-\n}}\n\n{{attn|ja|on also おつ, ほつ?}}\n{{attn|ja|kun also くら-い, おろ-か?}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|yomi=k|みかづき|r=y}}\n{{ja-noun|みかづき}}\n\n# {{rarespell|lang=ja|三日月|tr=mikazuki|nodot=1|sort=みかつき}}: a [[crescent moon]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

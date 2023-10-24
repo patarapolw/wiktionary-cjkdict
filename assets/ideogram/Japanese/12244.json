@@ -1,0 +1,148 @@
+{
+  "title": "命",
+  "ns": 0,
+  "id": 12244,
+  "timestamp": 1552444576000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|令}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=口05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=みょう<みやう\n|kanon=めい\n|kun=いのち-, みこと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|革命|かくめい}}: revolution\n* {{ja-r|運命|うんめい}}: fate, destiny\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|いのち}}\nFrom {{etyl|ojp|ja|sort=いのち}}. Probably a compound of {{etyl|ojp|-}} elements {{compound|ja|sort=いのち|息|tr1=i|t1=breath|pos1=''i'' in compounds, ''iki'' on its own|の|tr2=no|pos2=possessive particle|霊|tr3=chi|t3=spirit, force, soul}}.\n\nSome analyses describe this as a compound using {{m|ja|生|tr=i||life, breath|pos=''i'' in compounds, ''iki'' on its own}} as the initial semantic element. This is equally valid, as {{m|ja|息|tr=iki}} and {{m|ja|生き|tr=iki}} are cognates.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いのち|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いのち}}\n\n# [[life]]\n#: {{ja-usex|'''命'''の[[恩人]]|'''いのち''' の おんじん|person to whom one owes their '''life'''}}\n# [[lifespan]]\n# [[lifetime]]\n# [[fate]], [[destiny]]\n# {{lb|ja|sort=いのち|figuratively}} the most [[important]] part or [[aspect]] of a thing",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|life}} {{ja-r|生命|せいめい}}\n* {{sense|lifespan}} {{ja-r|寿命|じゅみょう}}\n* {{sense|lifetime}} {{ja-r|生涯|しょうがい}}, {{ja-r|一生|いっしょう}}\n* {{sense|fate}} {{ja-r|運命|うんめい}}\n* {{sense|destiny}} {{ja-r|天命|てんめい}}\n* {{sense|core aspect}} {{ja-r|真髄|しんずい}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|みこと}}\nFrom {{etyl|ojp|ja|sort=みこと}}. Compound of {{prefix|ja|sort=みこと|御|tr1=mi|pos1=honorific prefix|言|tr2=koto|t2=word}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> The ''mi'' prefix is generally limited to extremely high-[[status]] contexts such as [[god]]s or [[emperor]]s.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|みこと|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|御言}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みこと}}\n\n# the [[word]]s or [[pronouncement]]s of a [[god]] or an [[emperor]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|みこと}}\nFrom {{etyl|ojp|ja|sort=みこと}}. Originally a compound of {{prefix|ja|sort=みこと|御|tr1=mi|pos1=honorific prefix|事|tr2=koto|t2=abstract thing|pos2=as opposed to {{l|ja|物}}, ''mono'', “concrete thing”}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|みこと|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|尊}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みこと}}\n\n# the [[honorable]], the [[exalted]]\n#: Used as a title after the referenced noun when referring to gods, emperors, or other high-status persons.\n#* {{RQ:Kojiki|Kami tsu maki}}\n#*: {{lang|ja|夜知富許能 迦微能'''美許登'''波}}\n#*: {{lang|ja|八千矛の神の'''命'''は}}\n#*:: やちほこのかみの'''みこと'''は\n#*:: ''Yachihoko no kami no '''mikoto''' wa''\n#*::: '''the honorable''' god Yachihoko\n#* {{RQ:Manyoshu|Book 20, No. 4408}}\n#*: {{lang|ja|波々蘇婆能 波々能美許等波}}\n#*: {{lang|ja|柞葉の母の'''命'''は}}\n#*:: ははそばのははの'''みこと'''は\n#*:: ''hahasoba no haha no '''mikoto''' wa''\n#*::: '''the exalted''' mother of the oak leaf\n# the [[beloved]], [[dearly]] beloved\n#: Similarly used as a title after the referenced noun.\n#* {{RQ:Kojiki|Kami tsu maki}}\n#*: {{lang|ja|和加久佐能　都麻能'''美許登'''}}\n#*: {{lang|ja|若草の妻の'''命'''}}\n#*:: わかくさのつまの'''みこと'''\n#*:: ''Wakakusa no tsuma no '''mikoto'''''\n#*::: '''dearly beloved''' young wife"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|みこと}}\n\n# [[you]]\n# [[that]] [[person]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Used ironically from the late {{w|Heian period}}, expressing a sense of mild [[derision]] or [[ridicule]]."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=o|めい}}\nFrom {{etyl|ltc|ja|sort=めい}} {{m|zh|命|tr=mjæng<sup>H</sup>||command}}. Compare modern {{etyl|cmn|-}} {{m|zh|命|tr=mìng||life, destiny, instruction}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|めい|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|めい}}\n\n# [[fate]], [[destiny]]\n# [[life]], [[lifespan]]\n# [[order]], [[command]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|fate}} {{ja-r|運命|うんめい}}\n* {{sense|destiny}} {{ja-r|天命|てんめい}}\n* {{sense|life}} {{ja-r|生命|せいめい}}\n* {{sense|lifespan}} {{ja-r|寿命|じゅみょう}}\n* {{sense|order}} {{l|ja|仰}}, {{ja-r|仰せ|おおせ}}; {{ja-r|命令|めいれい}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

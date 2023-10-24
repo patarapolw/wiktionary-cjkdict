@@ -1,0 +1,76 @@
+{
+  "title": "翁",
+  "ns": 0,
+  "id": 24020,
+  "timestamp": 1552636065000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=羽04}}\n\n# King\n# old man\n# venerable gentleman",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=おう<をう\n|kun=おきな-, おな-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|おう|yomi=kanon}}\nFrom {{der|ja|ltc|sort=おう|-}} {{ltc-l|翁}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|おう|acc=1|acc_ref=DJR|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|おう|hhira=をう}}\n\n# [[old]] [[man]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おう|hhira=をう}}\n\n# [[old]] [[man]]; [[venerable]] [[gentleman]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|おう|hhira=をう}}\n\n# {{lb|ja|honorific}} [[venerable]]; [[old]]; [[father]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|おう|hhira=をう}}\n\n# {{lb|ja|humble|used by elderly men}} [[I]]; [[me]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おきな|yomi=k}}\n{{ja-see|おきな}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "食",
+  "ns": 0,
+  "id": 31336,
+  "timestamp": 1554018780000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|飠|饣|良}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=食00}}\n\n# to [[eat]]\n# a [[meal]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い, じ, じき\n|kanon=い, し, しょく\n|kun=く-う, く-らう, た-べる, は-む, す-く, お-し, お-す, た-ぐ, た-ぶ, うか-, うけ-, け-, し-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* [[食塩]]\n* [[食事]]\n* [[食餌]]\n* [[食卓]]\n* [[食中毒]]\n* [[食道]]\n* [[食堂]]\n* [[食費]]\n* [[食品]]\n* {{ja-r|食%物|しょく%もつ}}\n* [[食べ物]]\n* [[軽食]]\n* [[日食]]\n* [[月食]]\n* {{ja-r|気 に 食わない|き に くわない}}\n* [[皆既食]]\n* [[食尽]]\n* [[食欲]]\n* [[侵食]]\n* [[浸食]]\n* [[腐食]]\n* [[朝食]]\n* [[昼食]]\n* [[夜食]]\n* [[夕食]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Unbound apophonic form uke.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うか}}\n\n# food\n# grain"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "uka + i → uke<sub>2</sub> → uke. Bound apophonic form {{m|ja|食|tr=uka}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うけ}}\n\n# food"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "Cognate with {{m|ja|笥|tr=ke}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|け}}\n\n# [[food]]\n#: {{ja-usex|御'''食'''つ国|み '''け''' つ くに|the land of '''foods'''}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|し}}\n\n# food"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しょく}}\n\n# a [[meal]]\n# [[foodstuff]]\n# an [[eclipse]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

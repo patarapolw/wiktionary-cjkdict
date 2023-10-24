@@ -1,0 +1,39 @@
+{
+  "title": "罡",
+  "ns": 0,
+  "id": 23906,
+  "timestamp": 1553563903000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=gāng\n|c=gong1\n|mc=\n|oc=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|天罡星|天罡|步斗踏罡|步罡|步罡踏斗|罡神泥鬼|罡風}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

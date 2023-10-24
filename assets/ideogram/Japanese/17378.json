@@ -1,0 +1,56 @@
+{
+  "title": "枝",
+  "ns": 0,
+  "id": 17378,
+  "timestamp": 1553400807000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|支}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Acacia constricta branch.jpg|thumb|枝]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=木04}}\n\n# [[branch]], [[limbs]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し, ぎ\n|kanon=し, き\n|kun=えだ-\n|nanori=え, えだ, き, しげ, しな\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [[Wikipedia:Shift_JIS|Shift_JIS]]: 8E7D\n* [[Wikipedia:JIS encoding|JIS]]: 3B5E"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From earlier ''yeda'', from {{inh|ja|jpx-pro|*yənta}}, {{m|jpx-pro|*yenta}}. Cognate with {{cog|xug|枝|tr=ゆだー, yudaa}}, {{cog|mvi|枝|tr=ゆだ, yuda}}, {{cog|ryu|枝|tr=いぃだ, yida}}, {{m|ryu|枝|tr=ゆだ, yuda}}, {{cog|rys|枝|tr=ゆだ, yuda}}, {{cog|yoi|枝|tr=どぅだ, duda}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えだ}}\n\n# [[branch]], [[limbs]]\n# {{lb|ja|graph theory|sort=えだ}} [[edge]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|葉|gloss=leaf|は}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

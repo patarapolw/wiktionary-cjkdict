@@ -1,0 +1,44 @@
+{
+  "title": "銙",
+  "ns": 0,
+  "id": 29480,
+  "timestamp": 1552182194000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=kuǎ\n|c=kwaa1,kwaa3\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|historical}} an [[ornament]] attached to the belt during the {{w|Tang Dynasty}}, made of [[jade]], [[gold]], [[silver]], [[iron]], rhinoceros horn, etc.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|銙茶|帶銙}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "岾",
+  "ns": 0,
+  "id": 14489,
+  "timestamp": 1505693783000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=山05}}\n\n{{attention|ja|reference #2 provides a decent amount of material to work with}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=やま-, はけ-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はけ}}\n\n# [[cliff]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|090890}}\n* {{R:Wasei Kanji 2014|528}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "朕",
+  "ns": 0,
+  "id": 17239,
+  "timestamp": 1528467037000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=月06}}\n\n# [[I]] (used by royalty)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じん<じん<ぢむ\n|kanon=ちん<ちん<ちむ\n|kun=われ-, わ-れ, きざ-し\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ちん|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|ちん}}\n\n# {{qualifier|used by royalty}} [[I]], [[me]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

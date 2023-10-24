@@ -1,0 +1,64 @@
+{
+  "title": "題",
+  "ns": 0,
+  "id": 31181,
+  "timestamp": 1544158469000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|题}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=頁09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だい\n|kanon=てい\n|kun=ひたい-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|品題|ひんだい}}: [[evaluation]]; [[title]]\n* {{ja-r|問題|もんだい}}: problem, issue\n{{der-bottom}}\n\n{{ja-kanjitab|だい|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|だい|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|だい}}\n\n# [[title]]\n# [[theme]]\n# [[problem]]"
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|だい|counter}}\n\n# [[question]]s on a test"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|だい|suffix}}\n\n# question on a test"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

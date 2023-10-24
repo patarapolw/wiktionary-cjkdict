@@ -1,0 +1,44 @@
+{
+  "title": "海",
+  "ns": 0,
+  "id": 18974,
+  "timestamp": 1553895484000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA45}}\n{{character info|0x2F901}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|海|海|海}}\n{{stroke order|strokes=10}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "In Chinese, the bottom right component is {{l|mul|母}} with 2 dots, yielding <font lang=\"zh\" size=\"4.5\">海</font>. In Japanese {{w|shinjitai}}, this component is simplified to {{l|ja|毋}} (1 cross stroke), yielding <font lang=\"ja\" size=\"4.5\">海</font> ({{l|mul|[[氵]]+[[毎]]}}). Both forms are encoded under the same Unicode codepoint – see {{w|Han unification}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=07|asj=06|sn=10|snj=9|four=38157|canj=EOWY|ids=⿰氵每(GHTKV,U+FA45),⿰氵毎(J,U+2F901)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[嗨]], [[𢲨]], [[𤍃]], [[𫗀]], [[𥉪]], [[𤀇]], [[𦷫]], [[𬕧]], [[𩘫]], [[塰]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0625.140|dkj=17450|dj=1023.110|hdz=31627.010|uh=6D77}}\n{{Han ref|uh=FA45}}\n{{Han ref|uh=2F901}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

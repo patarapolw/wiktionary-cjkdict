@@ -1,0 +1,136 @@
+{
+  "title": "頬",
+  "ns": 0,
+  "id": 31149,
+  "timestamp": 1545962055000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|頰|颊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|頬|頰}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=頁06|kyu=頰}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう<けふ\n|kanon=きょう<けふ\n|kun=ほお-, ほほ-, つら-\n|nanori=かわ, すえみつ, すえもと, つら, のりみち, ほほ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|頬髭|ほおひげ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|ほほ}}\n\n{{IPAchar|/popo/}} → {{IPAchar|/fofo/}} → {{IPAchar|/hoho/}}\n\nFrom {{inh|ja|ojp|sort=ほほ|-}}.  Appears in the mid-{{w|Heian period}} dictionary ''{{w|Wamyō Ruijushō}}'' (938 {{CE}}).<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ほほ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほほ}}\n\n# {{lb|ja|anatomy|sort=ほほ}} [[cheek]], {{qualifier|the [[side]] of the [[face]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|ほお}}\n{{IPAchar|[ho̞ho̞]}} → {{IPAchar|[ho̞ː]}}\n\nDerived from ''hoho'' above.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ほお|acc=1|acc_ref=DJR|a=Ja-hoo-cheek.ogg}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほお|hhira=ほほ}}\n\n# {{lb|ja|anatomy|sort=ほお}} [[cheek]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The reading ''hō'' is more common when used as a standalone noun."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|つら}}\nOf same origin as {{m|ja|列||tr=''tsura''|a string or lineup of things}}. Extending from the meaning of \"lineup\", the meaning changed to indicate the side of the items lined up. In reference to people, this came to mean the cheeks as the side of the face, and then by extension the face as a whole.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つら|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つら}}\n\n# the [[cheek]]s\n# the [[face]] (usually written {{l|ja|面}})\n# one's [[facial expression]]\n# the [[side]] of something\n# the [[surface]] or [[front]] of something\n# one's [[honor]]: \"[[face]]\" as in [[save face]] or [[lose face]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Alternative forms",
+                      "text": "* {{l|ja|面}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|face of a person}} {{ja-r|顔|かお}}\n* {{sense|facial expression}} {{ja-r|顔つき|かおつき}}, {{ja-r|表情|ひょうじょう}}\n* {{sense|face, front}} {{ja-r|面|おもて}}\n* {{sense|side}} {{ja-r|側|がわ}}, {{ja-r|傍ら|かたわら}}\n* {{sense|surface, front}} {{ja-r|表|おもて}}\n* {{sense|honor}} {{ja-r|体面|たいめん}}, {{ja-r|面目|めんぼく}}, {{ja-r|面子|めんつ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "Used as [[ateji]] in various names.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|すえみつ}}\n\n# {{given name|male|lang=ja|sort=すえみつ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|すえもと}}\n\n# {{given name|male|lang=ja|sort=すえもと}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|のりみち}}\n\n# {{given name|male|lang=ja|sort=のりみち}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Face|ほほ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

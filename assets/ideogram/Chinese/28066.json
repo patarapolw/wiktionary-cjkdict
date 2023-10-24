@@ -1,0 +1,66 @@
+{
+  "title": "蹊",
+  "ns": 0,
+  "id": 28066,
+  "timestamp": 1532403228000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=xī\n|c=hai4\n|mc=y\n|oc=y\n|cat=n,v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[footpath]]\n# {{†}} to [[trample]] on; to [[cross]]; to [[traverse]]\n# {{†}} [[footprint]]\n# {{†}} [[path]]; [[way]]\n# {{†}} {{zh-alt-form|徯|to [[wait]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|另闢蹊徑|別開蹊徑|別闢蹊徑|各闢蹊徑|成蹊|獨闢蹊徑|李下無蹊|鼠蹊|蹊要|蹊徑|蹊田奪牛}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=qī\n|c=kai1\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used in|蹊蹺|tr=-}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|*蹊蹺/蹊跷}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "菊",
+  "ns": 0,
+  "id": 25099,
+  "timestamp": 1553048671000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F9A1}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=艸08}}\n# [[chrysanthemum]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きく\n|kanon=きく\n|kun=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja|キク}}\n{{ja-kanjitab|きく|yomi=o}}\nFrom {{etyl|ltc|ja|sort=きく}} {{m|ltc|菊|tr=kɨuk̚||chrysanthemum}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|きく|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きく|キク}}\n# [[chrysanthemum]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|延%命%菊|えん%めい%ぎく|gloss=[[daisy]]}}\n* {{ja-r|菊%科|きく%か|gloss=[[Asteraceae]]}}\n* {{ja-r|菊%花|きく%か|gloss=[[chrysanthemum]] [[flower]]}}\n* {{ja-r|春%菊|しゅん%ぎく|gloss=[[garland chrysanthemum]]}}\n* {{ja-r|雛%菊|ひな%ぎく|gloss=[[daisy]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|河原%艾|かわら%よもぎ}}\n* {{ja-r|河原%薺蒿|かわら%おはぎ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|きく}}\n\n# {{given name|female|lang=ja|sort=きく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|きく]]\n[[Category:ja:Flowers|きく]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

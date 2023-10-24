@@ -1,0 +1,44 @@
+{
+  "title": "笢",
+  "ns": 0,
+  "id": 22700,
+  "timestamp": 1539568914000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=mǐn\n|c=man5\n|mn=bín\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[bamboo]] [[slat]]\n#: {{zh-syn|竹篾}}\n# {{†}} [[hairbrush]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|笢子|笢笏}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

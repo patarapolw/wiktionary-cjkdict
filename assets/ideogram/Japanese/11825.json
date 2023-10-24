@@ -1,0 +1,44 @@
+{
+  "title": "勿",
+  "ns": 0,
+  "id": 11825,
+  "timestamp": 1553840066000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぶつ}}\n\n{{ja-noun|もち}}\n\n# must not, do not, be not"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=勹02}}\n\n# [[negation]]\n# [[prohibition]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もち\n|kanon=ぶつ\n|on=ぼつ\n|kun=なか-れ, なし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|勿体無い|もったいない}}: too good, wasteful\n* {{ja-r|勿論|もちろん}}: of course, certainly\n* {{ja-r|勿怪の幸い|もっけ の さいわい}}: unexpected gain, bonanza, windfall"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

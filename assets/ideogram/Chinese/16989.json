@@ -1,0 +1,49 @@
+{
+  "title": "昴",
+  "ns": 0,
+  "id": 16989,
+  "timestamp": 1536272510000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=mǎo\n|c=maau5\n|h=pfs=\n|md=\n|mn=báu\n|mn-t=bhao2\n|w=\n|mc=y\n|oc=y\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# the [[Pleiades]] {{gloss|[[star cluster]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|昴降}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "{{CJKV||^ぼう}}\n\n{{zh-cat|Astronomy}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

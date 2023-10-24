@@ -1,0 +1,44 @@
+{
+  "title": "碸",
+  "ns": 0,
+  "id": 22054,
+  "timestamp": 1528093636000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|砜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=砜}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Borrowed from {{bor|zh|en|sulfone}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fēng\n|c=fung1\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic chemistry}} [[sulfone]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|亞碸}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

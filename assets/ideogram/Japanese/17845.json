@@ -1,0 +1,51 @@
+{
+  "title": "楠",
+  "ns": 0,
+  "id": 17845,
+  "timestamp": 1552579121000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|枏}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木09}}\n\n# {{vern|camphor tree}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=なん<なん<なむ\n|kanon=だん<だん<だむ\n|kun=くす-, くすのき-\n|nanori=くず, な\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くすのき|クスノキ}}\n\n# {{vern|camphor tree}} ({{taxlink|Cinnamomum camphora|species|noshow=1|ver=161203}})",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|樟}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|くす|proper}}\n\n# {{surname|lang=ja|sort=くす}}\n\n{{ja-pos|くすのき|proper}}\n\n# {{surname|lang=ja|sort=くすのき}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

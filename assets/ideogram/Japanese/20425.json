@@ -1,0 +1,39 @@
+{
+  "title": "状",
+  "ns": 0,
+  "id": 20425,
+  "timestamp": 1507155932000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|狀}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=犬03}}\n\n# [[condition]]\n# [[form]]\n# [[appearance]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<じやう\n|kanon=そう<さう\n|kun=かたち-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[腺状]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

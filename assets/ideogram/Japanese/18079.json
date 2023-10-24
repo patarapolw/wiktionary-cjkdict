@@ -1,0 +1,39 @@
+{
+  "title": "樵",
+  "ns": 0,
+  "id": 18079,
+  "timestamp": 1553553642000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木12}}\n\n# {{defn|lang=ja|sort=木12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しょう\n|kun=きこる, きこり\n}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|きこり}}\n\n# [[lumberjack]]\n\n[[Category:ja:Occupations]]\n[[Category:ja:Timber industry]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "荣",
+  "ns": 0,
+  "id": 24995,
+  "timestamp": 1553050582000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|榮|栄}}\n{{character info/new}}\n{{character info|0x2F99A}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木05}}\n\n# {{alternative form of|栄|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう\n|kanon=えい\n|kun=さか-える<さか-ゆ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character is an {{w|extended shinjitai}} that was added to {{w|JIS X 0213}} in 2000."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "倪",
+  "ns": 0,
+  "id": 11045,
+  "timestamp": 1520430500000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=人08}}\n\n# {{l|en|small}} {{l|en|child}}\n# {{l|en|edge}}, {{l|en|limit}}, {{l|en|boundary}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ\n|kanon=げい\n|kun=きわ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|天倪|あまがつ}}\n* {{ja-r|端倪|たんげい}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

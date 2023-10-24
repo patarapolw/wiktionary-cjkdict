@@ -1,0 +1,61 @@
+{
+  "title": "熱",
+  "ns": 0,
+  "id": 20159,
+  "timestamp": 1549862215000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|热|熟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=火11}}\n\n# [[heat]]\n# [[temperature]]\n# [[fever]]\n# [[mania]]\n# [[passion]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ねつ, ねち\n|kanon=ぜつ\n|kun=あつ-い, いき-る, ほて-る, ほとぼり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* [[熱愛]]\n* [[熱意]]\n* [[熱気]]\n* [[熱い]]\n* [[熱狂]]\n* [[熱血]]\n* [[熱戦]]\n* [[熱帯]]\n* [[熱中]]\n* [[熱風]]\n* [[熱量]]\n* [[熱烈]]\n* [[灼熱]]\n* [[熱する]]\n* {{ja-r|熱燗|あつかん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|ねつ|yomi=o}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|熱}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|ねつ|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ねつ}}\n\n# [[fever]]\n#: {{ja-usex|物凄い'''熱'''を出す|ものすごい '''ねつ''' を だす|to come down with a terrible '''fever'''}}\n# {{lb|ja|physics}} [[heat]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

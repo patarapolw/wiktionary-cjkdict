@@ -1,0 +1,49 @@
+{
+  "title": "公",
+  "ns": 0,
+  "id": 11412,
+  "timestamp": 1553603440000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=八02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=こう<こう\n|kun=おおやけ-<おほやけ-, きみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|公安|こうあん}}\n* {{ja-r|公演|こうえん}}\n* {{ja-r|公園|こうえん}}\n* {{ja-r|公開|こうかい}}\n* {{ja-r|公%共|こう%きょう}}\n{{mid3}}\n* {{ja-r|公%私|こう%し}}\n* {{ja-r|公%爵|こう%しゃく}}\n* {{ja-r|公%衆|こう%しゅう}}\n* {{ja-r|公認|こうにん}}\n{{mid3}}\n* {{ja-r|公判|こうはん}}\n* {{ja-r|公%募|こう%ぼ}}\n* {{ja-r|公報|こうほう}}\n* {{ja-r|公式|こうしき}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おおやけ|hhira=おほやけ}}\n\n# [[official]], [[governmental]]\n\n{{ja-noun|こう}}\n\n# [[prince]], [[duke]]"
+            },
+            {
+              "level": 3,
+              "title": "Pronoun",
+              "text": "{{ja-pos|pronoun|きみ}}\n\n# {{alternative form of|君|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "核",
+  "ns": 0,
+  "id": 17546,
+  "timestamp": 1551410388000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|覈}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=木06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎゃく\n|kanon=かく\n|kun=さね-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|原%子%核|げん%し%かく|gloss=[[atomic nucleus]]}}\n* {{ja-r|細%胞%核|さい%ぼう%かく|gloss=[[cell nucleus]]}}\n* {{ja-r|核%実%験|かく%じっ%けん|gloss=[[nuclear]] [[test]]}}\n* {{ja-r|核%兵%器|かく%へい%き|gloss=[[nuclear]] [[weapons]]}}\n* {{ja-r|尾%状%核|び%じょう%かく|gloss=[[caudate nucleus]]}}\n* {{ja-r|扁%桃%核|へん%とう%かく|gloss=[[amygdala]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|かく|yomi=o}}\n{{ja-pron|yomi=kanon|かく|acc=1|acc_ref=DJR|acc2=2|acc2_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かく}}\n\n# [[atomic nucleus]]\n# {{lb|ja|algebra|sort=かく}} [[kernel]]\n# {{lb|ja|astronomy|sort=かく}} core, nucleus\n# [[cell nucleus]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|atomic nucleus}} {{ja-r|原%子%核|げん%し%かく}}\n* {{sense|cell nucleus}} {{ja-r|細%胞%核|さい%ぼう%かく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

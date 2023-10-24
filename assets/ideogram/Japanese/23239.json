@@ -1,0 +1,56 @@
+{
+  "title": "級",
+  "ns": 0,
+  "id": 23239,
+  "timestamp": 1549660341000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|级}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=糸03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう\n|kanon=きゅう\n|kun=しな-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=on|きゅう}}\nkipu → kiɸu → *kiwu → kiu → kyuː."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{IPA|[kjuː]|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|きゅう|hhira=きふ}}\n\n# [[rank]]\n# (school) a [[class]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der3|lang=ja\n|{{ja-r|階級|かいきゅう}}\n|{{ja-r|下級|かきゅう}}\n|{{ja-r|級数|きゅうすう}}\n|{{ja-r|高級|こうきゅう}}\n|{{ja-r|最上級|さいじょうきゅう}}\n|{{ja-r|収束級数|しゅうそくきゅうすう}}\n|{{ja-r|上級|じょうきゅう}}\n|{{ja-r|進級|しんきゅう}}\n|{{ja-r|調和級数|ちょうわきゅうすう}}\n|{{ja-r|等級|とうきゅう}}\n|{{ja-r|同級生|どうきゅうせい}}\n|{{ja-r|等差級数|とうさきゅうすう}}\n|{{ja-r|等比級数|とうひきゅうすう}}\n|{{ja-r|比較級|ひかくきゅう}}\n|{{ja-r|無限級数|むげんきゅうすう}}\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

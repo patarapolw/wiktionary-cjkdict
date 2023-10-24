@@ -1,0 +1,44 @@
+{
+  "title": "詞",
+  "ns": 0,
+  "id": 26966,
+  "timestamp": 1552422325000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|词}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=言05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=ことば-\n|nanori=ふみ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n{{top3}}\n* {{ja-r|歌%詞|か%し}}\n* {{ja-r|品%詞|ひん%し}}\n* {{ja-r|祝詞|のりと}}\n* {{ja-r|合い詞|あいことば}}\n* {{ja-r|名%詞|めい%し}}\n* {{ja-r|副%詞|ふく%し}}\n* {{ja-r|哀%詞|あい%し}}\n{{mid3}}\n* {{ja-r|動%詞|どう%し}}\n* {{ja-r|忌%詞|いみ%ことば}}\n* {{ja-r|格%助%詞|かく%じょ%し}}\n* {{ja-r|指%定%詞|し%てい%し}}\n* {{ja-r|助%動%詞|じょ%どう%し}}\n* {{ja-r|類%別%詞|るい%べつ%し}}\n* {{ja-r|懸%詞|かい%ことば}}\n{{mid3}}\n* {{ja-r|間%投%詞|かん%とう%し}}\n* {{ja-r|形%容%詞|けい%よう%し}}\n* {{ja-r|形%容%動%詞|けい%よう%どう%し}}\n* {{ja-r|接%続%詞|せつ%ぞく%し}}\n* {{ja-r|定%冠%詞|てい%かん%し}}\n* {{ja-r|不%定%冠%詞|ふ%てい%かん%し}}\n{{bottom}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ことば}}\n\n# {{alternative spelling of|言葉|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

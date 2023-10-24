@@ -1,0 +1,66 @@
+{
+  "title": "縦",
+  "ns": 0,
+  "id": 23537,
+  "timestamp": 1527957961000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|縱}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|縦|縱}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=糸10|kyu=縱}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ\n|kanon=しょう\n|kanyoon=じゅう\n|kun=たて, たと-え, よ-しんば, はな-つ, ゆる-す, ほし.いまま-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|横縦|よこたて}}: [[breadth]] and [[length]]; [[woof]] and [[warp]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjectival noun",
+              "text": "{{ja-adj|decl=な|ほし.いまま}}\n\n# [[selfish]], [[at will]]\n# [[arbitrary]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|ほし.いまま}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|恣}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|縦横無尽|じゅうおうむじん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たて}}\n\n# [[length]]\n# [[height]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

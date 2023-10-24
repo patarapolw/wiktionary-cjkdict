@@ -1,0 +1,66 @@
+{
+  "title": "氐",
+  "ns": 0,
+  "id": 18562,
+  "timestamp": 1537014967000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=氏01}}\n\n# {{w|Di (Five Barbarians)|Di}} {{gl|[[ancient]] [[ethnic group]] in [[west]]ern China}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n\nFrom {{bor|ja|ltc|sort=てい|-}} {{ltc-l|氐|id=1|Di; {{w|Root (Chinese constellation)|Root}} [[mansion]]}}:\n{{ja-readings\n|goon=だい\n|kanon=たい, てい\n}}\n\nFrom {{bor|ja|ltc|-}} {{ltc-l|氐|tr=*ʈiɪ|[[basis]], [[fundamental]]}}:\n{{ja-readings\n|goon=じ<ぢ\n|kanon=ち\n|kun=ふもと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|氐宿|^ともぼし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|テイ宿}}\n{{wp|Root (Chinese constellation)}}\n{{wp|lang=ja|テイ (民族)}}\n{{wp|Di (Five Barbarians)}}\n</div>\n{{ja-kanjitab|てい|yomi=o}}\n\nFrom {{bor|ja|ltc|sort=てい|-}} {{ltc-l|氐|id=1}}, compare modern {{cog|cmn|氐|tr=dī}}.\n\nUsed in {{w|Old Japanese}} as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨te⟩}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=ko|てい|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|てい}}\n\n# {{lb|ja|Chinese astronomy}} Root, one of the {{w|Twenty-Eight Mansions}}\n#: {{syn|ja|氐宿|tr=Teishū, Tei-shuku|とも星|tr2=Tomoboshi}}\n# {{lb|ja|historical}} Di: an [[ancient]] [[ethnic group]] in [[west]]ern China\n#: {{hyper|ja|五胡|tr=Goko}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|てんびん座|^てんびん-ざ|[[Libra]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

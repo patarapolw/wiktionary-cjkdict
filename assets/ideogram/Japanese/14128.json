@@ -1,0 +1,39 @@
+{
+  "title": "宅",
+  "ns": 0,
+  "id": 14128,
+  "timestamp": 1550600772000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=宀03}}\n\n# home",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃく\n|kanon=たく\n|kun=いえ-, すまう, やけ-\n}}\n\n{{ja-kanjitab|たく|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たく}}\n\n# [[home]]\n# [[husband]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

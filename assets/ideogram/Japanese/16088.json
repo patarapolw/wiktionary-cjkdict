@@ -1,0 +1,44 @@
+{
+  "title": "押",
+  "ns": 0,
+  "id": 16088,
+  "timestamp": 1547088066000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手05}}\n\n# [[push]]\n{{attention|ja|more glosses and/or senses may be needed. I added [[push]] as the single character is often used as signs on doors with this meaning.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう<けふ, よう<えふ\n|kanon=おう<あふ, こう<かふ\n|kun=お-す, お-さえる, おし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|押忍|おっす|rom=-}}, {{ja-r|押っ忍|おっす}}\n* {{ja-r|押収|おうしゅう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "* {{l|ja|引||pull}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

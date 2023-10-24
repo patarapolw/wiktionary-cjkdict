@@ -1,0 +1,53 @@
+{
+  "title": "旁",
+  "ns": 0,
+  "id": 16874,
+  "timestamp": 1550142705000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=方06}}\n\n# {{defn|lang=ja|sort=方06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほう<はう, ぼう<ばう\n|kanon=ほう<はう\n|kun=かたわ-ら<かたは-ら, つくり-, かたがた-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|つくり|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つくり}}\n\n# the [[right-hand]] [[component]] of a [[kanji]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Coordinate terms",
+                      "text": "* {{ja-r|偏|へん}}: the [[left-hand]] component\n\n{{C|ja|Chinese character components}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "丘",
+  "ns": 0,
+  "id": 10402,
+  "timestamp": 1553871302000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|丠|坵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=一04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=きゅう<きう\n|kun=おか-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|丘上|きゅうじょう}}\n* {{ja-r|丘疹|きゅうしん}}\n* {{ja-r|丘%辺|おか%べ}}\n* {{ja-r|丘陵|きゅうりょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おか|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{q|less common}} {{l/ja|岡}}\n* {{q|less common}} {{l/ja|壟}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おか}}\n\n# [[hill]]\n#: {{ja-usex|丘を下る|おか を くだる|to go down a hill}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

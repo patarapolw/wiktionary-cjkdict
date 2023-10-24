@@ -1,0 +1,56 @@
+{
+  "title": "舞",
+  "ns": 0,
+  "id": 24652,
+  "timestamp": 1553764856000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=舛08}}\n\n# [[dance]]\n# [[flit]]\n# [[circle]]\n# [[wheel]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=む\n|kanon=ぶ\n|kun=ま-う, まい-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der5|lang=ja|{{ja-l|舞衣}}\n|{{ja-l|舞楽}}\n|{{ja-l|舞姫}}\n|{{ja-l|舞台}}\n|{{ja-r|舞踏|ぶとう}}: [[butoh]]\n|{{ja-l|舞踊}}\n|{{ja-l|舞妓}}\n|{{ja-l|舞い戻る}}\n|{{ja-r|歌舞伎|かぶき}}: [[kabuki]]\n|{{ja-r|小舞壁|こまいかべ}}: traditional wattle and daub wall made of coarse mud plaster and straw\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まい}}\n\n# a type of traditional Japanese dance consisting of simple and quiet movements",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|ja|踊り}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|まい|proper}}\n\n# {{given name|female|lang=ja|sort=まい}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "郁",
+  "ns": 0,
+  "id": 28910,
+  "timestamp": 1553570333000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鬱}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=邑06}}\n\n# [[culture]], [[cultural]] [[progress]]\n# [[fragrance]], [[perfume]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いく<ゐく\n|kanon=いく<ゐく\n|kun=あき-らか, かぐわ-しい, さかん\n|nanori=あや, い, か, かぐわ, くに, かおる, たかし, ふみ, ゆう\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いく|yomi=on}}\nFrom {{der|ja|ltc|sort=いく|-}} {{ltc-l|郁}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いく|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いく}}\n\n# [[fragrant]]; [[sweet]]-[[smelling]]\n# [[cultured]]; [[refined]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|かおる|proper}}\n\n# {{given name|unisex|lang=ja|sort=かおる}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

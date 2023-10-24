@@ -1,0 +1,39 @@
+{
+  "title": "生",
+  "ns": 0,
+  "id": 21089,
+  "timestamp": 1551520882000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|主|玍}}\n{{character info/new|生|name=CJK UNIFIED IDEOGRAPH-751F|image=|block=CJK Unified Ideographs|sc=Hani|combining=false|aliases=\n|previous_codepoint=0x751E|previous_codepoint_sc=Hani|previous_codepoint_combining=false|previous_codepoint_name=CJK UNIFIED IDEOGRAPH-751E|previous_codepoint_printable=true|previous_codepoint_title=self\n|next_codepoint=0x7520|next_codepoint_sc=Hani|next_codepoint_combining=false|next_codepoint_name=CJK UNIFIED IDEOGRAPH-7520|next_codepoint_printable=false|next_codepoint_title=self\n}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=生00\n|hanviet=sinh-tdcndg;tdcntd;gdhn;bonet, sanh-gdhn;bonet\n|phienthiet=\n|nom=sinh-tdcndg;tdcntd;gdhn;bonet;genibrel;taberd, sanh-tdcndg;tdcntd;btcn;bonet;genibrel;taberd, siêng-tdcndg;gdhn;btcn;bonet;genibrel;taberd, xinh-tdcndg;tdcntd;gdhn;btcn, xênh-tdcndg;gdhn;btcn, sống-tdcndg, xanh-tdcndg\n}}\n\n# {{han tu form of|sinh|to [[produce#Verb|produce]]; to [[yield#Verb|yield]]; to [[give birth]] to}}\n# {{han tu form of|sanh|to be [[born]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=vi\n|{{vi-l|生動|sinh động}}\n|{{vi-l|生活|sinh hoạt}}\n|{{vi-l|生理|sinh lí}}\n|{{vi-l|生日|sinh nhật}}\n|{{vi-l|生素|sinh tố}}\n|{{vi-l|生存|sinh tồn}}\n|{{vi-l|生物|sinh vật}}\n|{{vi-l|生員|sinh viên}}\n|{{vi-l|稟生|bẩm sinh}}\n|{{vi-l|學生|học sinh}}\n|{{vi-l|人生|nhân sinh}}\n|{{vi-l|先生|tiên sinh}}\n|{{vi-l|私生|tư sinh}}\n|{{vi-l|衛生|vệ sinh}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:CJKV radicals]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

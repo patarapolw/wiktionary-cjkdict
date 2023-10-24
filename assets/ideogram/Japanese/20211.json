@@ -1,0 +1,39 @@
+{
+  "title": "燥",
+  "ns": 0,
+  "id": 20211,
+  "timestamp": 1546782965000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=火13}}\n\n# {{defn|lang=ja|sort=火13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう\n|kanon=そう\n|kun=かわ-く, はしゃ-ぐ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|乾燥|かんそう}}: [[dry]]; [[arid]]; [[insipid]]; [[dehydrated]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

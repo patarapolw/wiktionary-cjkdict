@@ -1,0 +1,39 @@
+{
+  "title": "姜",
+  "ns": 0,
+  "id": 13685,
+  "timestamp": 1533304119000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|薑}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=女06}}\n\n# {{defn|lang=ja|sort=女06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう\n|kanon=きょう\n|kun=[[つよい]] (tsuyoi)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|姜黄|きょうおう}}: [[wild turmeric]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

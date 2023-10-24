@@ -1,0 +1,39 @@
+{
+  "title": "鉱",
+  "ns": 0,
+  "id": 29376,
+  "timestamp": 1546061916000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鑛|礦}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|鉱|鑛}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=金05|kyu=鑛}}\n\n# mineral",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<くわう\n|kanon=こう<くわう\n|kun=あらがね-\n|nanori=かね\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-l|鉱業}}\n* {{ja-l|鉱石}}\n* {{ja-l|炭鉱}}\n* {{ja-l|鎔鉱炉}}, {{ja-l|溶鉱炉}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

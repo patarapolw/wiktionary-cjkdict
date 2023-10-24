@@ -1,0 +1,39 @@
+{
+  "title": "瀉",
+  "ns": 0,
+  "id": 19701,
+  "timestamp": 1553557780000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|泻}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水15}} <!-- Note: This character is not simplified to 泻 in Japanese -->\n\n# [[evacuation]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しゃ\n|kun=そそ-ぐ, は-く\n|nanori=だか\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|瀉下薬|しゃげやく}}: [[laxative]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

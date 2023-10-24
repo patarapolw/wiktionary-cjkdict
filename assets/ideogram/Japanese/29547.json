@@ -1,0 +1,34 @@
+{
+  "title": "鋘",
+  "ns": 0,
+  "id": 29547,
+  "timestamp": 1552985944000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F9E9}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金07}}\n\n# {{defn|lang=ja|sort=金07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[か]] (ka), [[げ]] (ge), [[こ]] (ko), [[ご]] (go)|kun=[[すき]] (suki)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

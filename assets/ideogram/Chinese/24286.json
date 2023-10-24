@@ -1,0 +1,66 @@
+{
+  "title": "肺",
+  "ns": 0,
+  "id": 24286,
+  "timestamp": 1552821502000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|肉|巿|alt1=⺼|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{inh|zh|sit-pro|*p-wap||lung}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=fèi\n|ma=y\n|m-s=\n|c=fai3\n|c-t=\n|g=\n|h=pfs=fi/hi\n|j=\n|mb=hi̿\n|md=hié\n|mn=hùi/tw,xm,zz:hì\n|mn_note=hùi - literary; hì - vernacular\n|mn-t=hui3\n|w=2fi\n|x=\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|anatomy}} [[lung]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|fold=1|感人肺腑|感人肺肝|別具肺腸|塵肺症|動人肺腑|別有肺腸|硅肺|沒心沒肺|痰熱阻肺|戳肺管子|沁入肺腑|矽肺症|沁人肺腑|祛痰潤肺|狼心狗肺|狗肺狼心|潛水肺|沁人心肺|水肺|肺腑|驢肝肺|肺活量|肺癆|肺病|肺動脈|肺囊腫|肺塵矽症|肺肝|肺循環|肺膜|肺蛭|肺炎|肺功能|肺臟|肺腸|自有肺腸|肺呼吸|肺氣腫|肺吸蟲|肺泡|肺腑之言|驢心狗肺|鐵肺|都市之肺|肺癌|肺葉|肺石風清|肺靜脈|肺結核|肺石|肺火|肺草}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=pèi\n|ma=y\n|c=pui3\n|h=pfs=\n|md=\n|mn=\n|w=\n|dial=n\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|肺肺}}\n\n{{zh-cat|Elementary}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

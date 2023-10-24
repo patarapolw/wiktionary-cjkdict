@@ -1,0 +1,107 @@
+{
+  "title": "園",
+  "ns": 0,
+  "id": 12941,
+  "timestamp": 1551868602000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|园}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=囗10}}\n\n# [[field]], [[plantation]]\n# [[garden]], [[park]]\n# [[preschool]] {{gl|[[nursery]], [[kindergarten]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん<をん\n|kanon=えん<ゑん\n|kun=その-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えん|yomi=o}}\n{{IPAchar|/wen/}} → {{IPAchar|/eɴ/}}\n\nFrom {{der|ja|ltc|sort=えん|-}} {{ltc-l|園}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=ko|えん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えん|hhira=ゑん}}\n\n# [[preschool]]\n## {{short for|lang=ja|幼稚園|tr=yōchien|nodot=1|sort=えん}} [[kindergarten]]\n## {{short for|lang=ja|保育園|tr=hoikuen|nodot=1|sort=えん}} [[nursery school]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えん|hhira=ゑん}}\n\n# [[garden]], [[park]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|公園|こうえん}}\n* {{ja-r|茶園|ちゃえん}}\n* {{ja-r|名園|めいえん}}\n* {{ja-r|茗園|めいえん}}\n* {{ja-r|祇園|^ぎおん}}\n* {{ja-r|偕楽%園|^かいらく%えん}}\n* {{ja-r|動物%園|どうぶつ%えん}}\n* {{ja-r|薔薇%園|ばら%えん}}\n* {{ja-r|葡萄%園|ぶどう%えん}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|えん|hhira=ゑん}}\n\n# {{given name|female|lang=ja|A=a|nodot=1}}\n# {{surname|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|その|yomi=k}}\n\n{{IPAfont|⟨so<sub>2</sub>no<sub>2</sub>⟩}} → *{{IPAchar|/sənə/}} → {{IPAchar|/sono/}}\n\nFrom {{inh|ja|ojp|-}}.\n\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|苑}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|その|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|その}}\n\n# an [[orchard]], [[plantation]]\n# a [[garden]], [[park]] {{gl|especially one with [[tree]]s}}\n#: {{syn|ja|園生|tr=sonou|庭園|tr2=teien|庭|tr3=niwa}}\n# a [[place]], [[location]]\n#: {{syn|ja|場所|tr=basho}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|園%生|その%う}}\n* {{ja-r|花園|はなぞの}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|その}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=その}}\n# {{surname|lang=ja|A=a|nodot=1|sort=その}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "鱸",
+  "ns": 0,
+  "id": 32350,
+  "timestamp": 1540033216000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲈}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚16}}\n\n# {{defn|lang=ja|sort=魚16}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=ろ\n|kun=すずき-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|すずき}}\n\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|すずき|acc=0|acc_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|すずき|スズキ}}\n\n# [[sea bass]], {{vern|Japanese sea bass}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|鮬|せいご|gloss=[[juvenile]] [[Japanese sea bass]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Fish|すずき]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

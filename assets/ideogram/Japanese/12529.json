@@ -1,0 +1,165 @@
+{
+  "title": "喉",
+  "ns": 0,
+  "id": 12529,
+  "timestamp": 1516097848000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=口09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=こう\n|kun=のど-\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|咽喉|いんこう|[[throat]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|のど|yomi=k}}\nnomito > nomto > nomdo > nondo > nodo.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|のど|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|咽}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のど}}\n\n# [[throat]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|咽喉|いんこう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|こう|yomi=o}}\nFrom {{der|sort=こう|ja|ltc|喉|tr=huw}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|こう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|こう|counter}}\n\n# counter for [[fish]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|尾|び}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|sort=のんど|yomi=irr}}\nnomito > nomto > nomdo > nondo.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|のんど}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|咽}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のんど}}\n\n# [[throat]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|sort=のみど|yomi=irr}}\nFrom {{m|ja|喉|tr=nomito}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|のみど}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|咽}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のみど}}\n\n# [[throat]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|57}}\n#*: 喉吻 下无粉反 口邊也 唇兩邊也 上音呉 訓'''乃美土'''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|sort=のみと|yomi=irr}}\nCompound of {{affix|sort=のみと|ja|飲み|tr1=nomi|t1=drink|門|tr2=to|t2=passage}}. ''nomi'' is the nominalized form of the verb {{m|ja|飲む|tr=nomu||to drink}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|のみと}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|咽}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のみと}}\n\n# [[throat]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|81}}\n#*: 咽咀 上於見反 咽倭云'''能美等''' 咀嚼也 咀才與反 倭言久不"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{Shin'yaku Kegonkyō Ongi Shiki}}\n:* {{R:Nara Ibun 3}}\n\n[[Category:ja:Anatomy|のど]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

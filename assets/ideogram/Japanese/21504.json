@@ -1,0 +1,61 @@
+{
+  "title": "皮",
+  "ns": 0,
+  "id": 21504,
+  "timestamp": 1550114129000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=皮00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=び\n|kanon=ひ\n|kun=かわ-<かは-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|皮膚|ひふ}}: skin\n* {{ja-r|皮膚科|ひふか}}: dermatologist"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "kapa → kaɸa → kawa."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かわ|hhira=かは}}\n\n# [[skin]]\n#* {{RQ:Wamyō Ruijushō|2|33}}\n#*: 皮 釋名云、皮. 音疲、'''加波'''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ja-r|革|かわ}}: [[leather]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Wamyō Ruijushō}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

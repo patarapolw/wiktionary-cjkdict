@@ -1,0 +1,80 @@
+{
+  "title": "鈘",
+  "ns": 0,
+  "id": 29285,
+  "timestamp": 1550911131000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鈙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{vi-readings|nom=chìa, chịa, chì, chùy|rs=金04}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{vi-l|鈘銙|chìa khóa}}\n* {{vi-l|鈘𥔦|chìa vôi}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{vi-noun|sc=Hani|chùy|rs=金04}}\n\n# [[iron]] {{l|en|club}}\n#* '''1892:''' ''[http://namkyluctinh.org/a-tgtpham/nvsam/vannom/nvsam-mathanh%5Bn%5D.pdf Mã Thành tân truyện tạo lục diễn ca thi]'', line 271\n#*: {{vi-ruby|鉄鈘卞打無共才|thiết chùy bèn đánh vô cùng tài hay}}\n#*:: So skilled at hitting with a club."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{vi-noun|sc=Hani|chìa|rs=金04}}\n\n# {{l|en|key}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{vi-l|鈘銙|chìa khóa}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{vi-verb|sc=Hani|chìa|rs=金04}}\n\n# to [[stretch]]\n#: {{vi-ruby|鈘囉|chìa ra}}\n#:: to [[stretch out]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Taberd 1838|chìa|p=64}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

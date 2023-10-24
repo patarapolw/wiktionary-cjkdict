@@ -1,0 +1,49 @@
+{
+  "title": "嘲",
+  "ns": 0,
+  "id": 12705,
+  "timestamp": 1548829192000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口12}}\n\n# [[ridicule]], [[insult]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう<てう\n|kanon=とう<たう\n|kun=あざけ-る, あざけ-り\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|嘲花|^ちょうか}}\n* {{ja-r|嘲戯|ちょうぎ}}\n* {{ja-r|嘲謔|ちょうぎゃく}}\n* {{ja-r|嘲%斎坊|ちょう%さいぼう}}\n* {{ja-r|嘲殺|ちょうさつ}}\n* {{ja-r|嘲笑|ちょうしょう}}\n* {{ja-r|嘲罵|ちょうば}}\n* {{ja-r|嘲風|^ちょうふう}}\n* {{ja-r|嘲弄|ちょうろう}}\n* {{ja-r|嘲風|^とうふう}}\n* {{ja-r|解嘲|かいとう}}, {{ja-r|解嘲|かいちょう}}\n* {{ja-r|自%嘲|じ%ちょう}}\n* {{ja-r|侮%嘲|ぶ%ちょう}}\n* {{ja-r|冷嘲|れいちょう}}\n* {{ja-r|嘲%笑う|あざ%わらう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ちょう|yomi=goon}}\n{{IPAfont|*/teu/}} → {{IPAchar|/t͡səu/}} → {{IPAchar|/t͡ɕɔː/}} → {{IPAchar|/t͡ɕoː/}}\n\nAppears in {{m|ja|洒落本|tr={{w|sharebon}}}} texts in the mid-late {{w|Edo period}}.\n\nFrom {{bor|ja|ltc|sort=ちよう|-}} {{ltc-l|嘲}}."
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{ja-verb|head=嘲[[す]]|type=3|ちょうす|hhira=てうす}}\n\n# {{lb|ja|archaic|obsolete|sort=ちよう}} to [[ridicule]], [[scorn]]\n#: {{syn|ja|嘲る|tr=azakeru|[[嘲弄]]する|tr2=chōrō suru|馬鹿にする|tr3=baka ni suru}}\n\n{{ja-verb|head=嘲[[す]]|type=yo|ちょうす|hhira=てうす}}\n\n# {{lb|ja|archaic|obsolete|sort=ちよう}} ''Same as above''"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

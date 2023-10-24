@@ -1,0 +1,44 @@
+{
+  "title": "縺",
+  "ns": 0,
+  "id": 23564,
+  "timestamp": 1550911068000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{vi-readings|hanviet=liên|phienthiet=落賢 lạc hiền|nom=len, liên|rs=糸11}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{vi-l|連|liên}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:WinVNKey:Lê Sơn Thanh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "線",
+  "ns": 0,
+  "id": 23447,
+  "timestamp": 1549570579000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|缐|綫|线}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=糸09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kun=いと-, すじ-<すぢ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|光線|こうせん}}: a [[ray]] of [[light]]\n* {{ja-r|新幹線|しんかんせん}}: A Japanese super express, [[bullet train]], a line of extremely fast trains which runs in Japan; [[w:shinkansen|shinkansen]]\n* {{ja-r|宇宙線|うちゅうせん}}: [[cosmic ray]]s\n* {{ja-r|紫外線|しがいせん}}: [[ultraviolet]] [[ray]]s\n* {{ja-r|赤外線|せきがいせん}}: [[infrared]] [[rays]]\n* {{ja-r|X%線|エックス%せん}}: [[X-ray]]s\n* {{ja-r|線圈|せんけん}}: a [[coil]], a [[solenoid]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|せん}}\n\n# [[line]]\n#: {{ja-usex|'''線'''を引く|'''せん''' を ひく|to draw a '''line'''}}\n# [[level]]\n# [[beam]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|せん}}\n\n# {{lb|ja|science}} [[ray]]\n#: {{ja-usex|ガンマ'''線'''|ガンマ-'''せん'''|gamma '''ray'''}}\n# {{lb|ja|rail transport}} [[line]]\n#: {{ja-usex|千歳'''線'''|^ちとせ-'''せん'''|Chitose '''Line'''}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{sense|science: ray}} {{ja-r|放射線|ほうしゃせん}}\n* {{sense|rail transport: line}} {{ja-r|路線|ろせん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

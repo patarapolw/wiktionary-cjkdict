@@ -1,0 +1,66 @@
+{
+  "title": "鶎",
+  "ns": 0,
+  "id": 32664,
+  "timestamp": 1529451276000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}. {{Han compound|宗|鳥|ls=psc|c1=p|c2=s}}.\n\n{{rfe|ja|How is 宗 phonetic? Neither the on'yomi nor the kun'yomi seem to be relevant.}}"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥08}}\n\n# [[goldcrest]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=きくいただき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja|キクイタダキ}}\n[[file:Regulus regulus0.jpg|thumb|right|200px|鶎(kikuitadaki)]]\n{{ja-kanjitab|きくいただき|yomi=kun}}\n\nFrom {{ja-compound|菊|きく|戴き|いただき|t1=[[chrysanthemum]]|pos2=[[連用形#Japanese|stem form]] of {{ja-r|戴く|いただく}}, \"to [[receive]]\"|nocat=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|菊戴}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|きくいただき|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きくいただき|キクイタダキ}}\n\n# [[goldcrest]] (''[[Regulus regulus]]'')"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ja-r|松%毟鳥|まつ%むしり}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

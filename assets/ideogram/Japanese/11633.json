@@ -1,0 +1,39 @@
+{
+  "title": "剌",
+  "ns": 0,
+  "id": 11633,
+  "timestamp": 1553547321000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|刺}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=刀07}}\n\n# [[opposed]]\n# [[biased]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らち\n|kanon=らつ\n|kun=もとる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|溌剌|はつらつ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

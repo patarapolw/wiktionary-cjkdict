@@ -1,0 +1,44 @@
+{
+  "title": "墨",
+  "ns": 0,
+  "id": 13374,
+  "timestamp": 1550949562000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=土11}}\n\n# [[ink]]\n# [[Mexico]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もく\n|kanon=ぼく\n|kun=すみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{ja-kanjitab|すみ|yomi=k}}\n* {{ja-l|墨客}}\n* {{ja-r|墨汁|ぼくじゅう}}\n* {{ja-l|墨絵}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|すみ}}\n\n# [[ink]]\n\n[[Category:ja:Writing|すみ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

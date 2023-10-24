@@ -1,0 +1,51 @@
+{
+  "title": "斉",
+  "ns": 0,
+  "id": 16812,
+  "timestamp": 1548547550000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|齊|齐}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|斉|齊}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=文04|kyu=齊}}\n\n# [[equal]], [[match]]\n# {{w|Qi (state)|Qi}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ざい, し\n|kanon=せい, し\n|kanyoon=さい\n|kun=そろ-う<そろ-ふ, そろ-える<そろ-へる, ととの-う<ととの-ふ, ととの-える<ととの-へる, ひと-し.い\n|nanori=きよ, ただ, ただし, とき, とし, なお<なほ, なり, ひさし, まさ, むね, よし \n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|斉%一|せい%いつ}}\n* {{ja-r|斉%家|せい%か}}\n** {{ja-r|修身 斉%家|しゅうしん せい%か}}\n* {{ja-r|斉%唱|せい%しょう}}\n* {{ja-r|斉%整|せい%せい}}\n* {{ja-r|斉%東野人|せい%とうやじん}}\n* {{ja-r|一%斉|いっ%せい}}\n* {{ja-r|姜%斉|^きょう%せい}}\n* {{ja-r|均%斉|きん%せい}}\n* {{ja-r|整%斉|せい%せい}} \n* {{ja-r|田%斉|^でん%せい}}\n* {{ja-r|南%斉|^なん%せい}}\n* {{ja-r|北%斉|^ほく%せい}}\n* {{ja-r|烏魯木斉|^ウルムチ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=kanon|せい}}\n\nFrom {{bor|ja|ltc|sort=|-}} {{ltc-l|齊|id=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|kyu=齊|せい}}\n\n# {{lb|ja|sort=せい|historical}} a [[state]] in [[ancient]] China during the {{w|Zhou dynasty}}\n\n[[Category:CJKV radicals]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

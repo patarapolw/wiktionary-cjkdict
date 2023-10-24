@@ -1,0 +1,49 @@
+{
+  "title": "錘",
+  "ns": 0,
+  "id": 29622,
+  "timestamp": 1551233853000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|锤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=金08}}\n\n# [[weight]], [[sinker]]\n# [[spindle]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ずい<づゐ\n|kanon=つい<つゐ\n|kanyoon=すい<すゐ\n|kun=つむ-, おもり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Removed from the daily use [[w:Jōyō kanji|Jōyō kanji]] by the Japanese government in 2010.<ref>'''October 21, 2009''', The Japan Times, ''[http://www.kanjiclinic.com/kc99final.htm Get set for next year's overhaul of joyo kanji].'' Accessed February 23, 2010.</ref>\n* As in historical on-readings ending in -ゐ, such as \"ゆゐ\" and \"るゐ\", most dictionaries do not have \"すゐ\", \"つゐ\", and \"づゐ\" as historical readings for 錘. According to historical data, the on-readings of 錘 are the modern \"すい\" and \"つい\", as well as \"づい\". However, the Dai Kanwa Jiten, has the -ゐ historical on-readings.\n{{attention|ja|please confirm the second note, translated from the Japanese Wikipedia}}\n\n{{ja-kanjitab|おもり|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おもり}}\n\n# {{alternative form of|重り|tr=omori|t=[[weight]]; [[sinker]]|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

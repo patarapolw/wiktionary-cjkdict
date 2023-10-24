@@ -1,0 +1,78 @@
+{
+  "title": "奈",
+  "ns": 0,
+  "id": 13537,
+  "timestamp": 1551845807000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|柰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=凵03}}\n\n# {{abbreviation of|lang=ja|sort=な|奈良|nodot=1}}: the city of [[Nara]]\n# [[what]]\n# {{lb|ja|sort=からなし|obsolete}} [[apple tree]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=な, ない\n|kanon=だ, だい\n|kun=いかん-, いかんせん-, いかんぞ-, からなし-\n|nanori=なに, なん\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|柰}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|からなし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|からなし|カラナシ}}\n# {{obsolete form of|lang=ja|唐梨||red apple}}\n# {{lb|ja|by extension}} {{obsolete spelling of|lang=ja|林檎||apple}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|如何}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いかん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|いかん}}\n# {{alternative form of|lang=ja|奈何||what}} {{attention|ja|abbreviation?}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

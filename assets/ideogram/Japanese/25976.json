@@ -1,0 +1,66 @@
+{
+  "title": "蛹",
+  "ns": 0,
+  "id": 25976,
+  "timestamp": 1543483363000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫07}}\n\n# [[chrysalis]], [[pupa]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ゆ, ゆう\n|kanon=よう<よう\n|kun=さなぎ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|蛹化|ようか}}\n* {{ja-r|蛹虫|ようちゅう}}\n* {{ja-r|蛹便|ようべん}}\n* {{ja-r|蚕蛹|さんよう}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|さなぎ|yomi=k}}\n\n{{rfe|ja|sort=さなき}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|さなぎ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さなぎ}}\n\n# {{lb|ja|entomology|sort=さなき}} a [[pupa]], [[chrysalis]]\n#: {{syn|ja|蛹虫|tr=yōchū}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|蛹 油|さなぎ あぶら}}\n* {{ja-r|蛹 茸|サナギ タケ}}\n* {{ja-r|蛹 肌|さなぎ はだ|rom=-}}, {{ja-r|蛹 襯|さなぎ はだ}}\n* {{ja-r|蛹 寄生 小蜂|サナギ ヤドリ コバチ}}\n* {{ja-r|蛹%油|さなぎ%ゆ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

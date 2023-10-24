@@ -1,0 +1,56 @@
+{
+  "title": "鯊",
+  "ns": 0,
+  "id": 32176,
+  "timestamp": 1547247065000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚07}}\n\n# {{defn|lang=ja|sort=魚07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃ\n|kanon=さ\n|kun=はぜ, さめ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja|ハゼ}}\n{{wp|Gobiiformes}}\n</div>\n{{ja-kanjitab|はぜ}}\nFrom {{inh|ja|ojp|-}}."
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|沙魚}}\n* {{ja-l|蝦虎魚}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はぜ|ハゼ}}\n\n# [[goby]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|真%鯊|ま%はぜ|yellowfin goby}}\n* {{ja-r|極楽%鯊|ごくらく%はぜ|barcheek goby}}\n* {{ja-r|蚯蚓%鯊|みみず%はぜ|flat-headed goby}}\n* {{ja-r|跳%鯊|とび%はぜ|[[mudskipper]]}}\n\n{{c|ja|Gobies}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

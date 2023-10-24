@@ -1,0 +1,39 @@
+{
+  "title": "鯒",
+  "ns": 0,
+  "id": 32184,
+  "timestamp": 1541910440000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚07}}\n\n# {{defn|lang=ja|sort=魚07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=こち-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こち|コチ}}\n\n# [[flathead]], a type of [[fish]]\n\n[[Category:ja:Fish|こち]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

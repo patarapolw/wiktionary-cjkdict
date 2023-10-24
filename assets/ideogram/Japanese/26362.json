@@ -1,0 +1,39 @@
+{
+  "title": "蠛",
+  "ns": 0,
+  "id": 26362,
+  "timestamp": 1495667246000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫14}}\n\n# {{defn|lang=ja|sort=虫14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[めち]] (mechi)|kanon=[[べつ]] (betsu)|kun=[[かつおむし]] (katsuomushi)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|蠛蠓|まくなぎ}}: a kind of [[biting midge]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

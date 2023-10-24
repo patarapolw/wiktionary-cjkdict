@@ -1,0 +1,51 @@
+{
+  "title": "章",
+  "ns": 0,
+  "id": 8635,
+  "timestamp": 1541418943000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=立06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=しょう<しやう\n|nanori=あき, あきら, あや, ふみ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しょう}}\n\n# [[chapter]]; [[section]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|あきら|proper}}\n\n# {{given name|male|lang=ja|sort=あきら}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* [[章魚]]\n* [[章識]]\n* [[章章]]\n* [[章奏]]\n* [[章程]]\n* [[章表]]\n* [[章服]]\n* [[章法]]\n* [[文章]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

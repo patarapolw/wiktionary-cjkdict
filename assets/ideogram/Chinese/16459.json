@@ -1,0 +1,54 @@
+{
+  "title": "搦",
+  "ns": 0,
+  "id": 16459,
+  "timestamp": 1551611666000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{cog|yue|搦|tr=nik1}} has a [[wikipedia:Cantonese_nasal-stop_alternation|nasal-stop alternant]] in {{zh-l|拎|ning1}} ({{zh-ref|Kwok et al. (2008)}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=nuò\n|c=nik1\n|md=niăh\n|mn=la̍k/xm,qz:lio̍k/zz:jio̍k\n|mn_note=la̍k - \"to grasp\", \"to rub in water\"; lio̍k/jio̍k - \"to tread on\", \"to rub and knead\"\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|classical}} to [[repress]]; to [[restrain]]\n# to [[grasp]], to [[seize]]; to [[take]] in [[hand]]\n# {{lb|zh|Cantonese}} to [[hold]] in the [[hand]]\n#: {{zh-x|搦起 塊 石|'''pick up''' a rock|C}}\n# to [[challenge]]\n# to [[capture]]\n# {{lb|zh|Min Nan}} to [[grasp]] in [[hand]]\n# {{lb|zh|Min Nan}} to [[rub]] in [[water]]\n#: {{zh-x|搦{la̍k} 衫褲|'''rub''' clothes in water for washing|MN}}\n# {{lb|zh|Min Nan}} to [[rub]] and [[knead]]\n# {{lb|zh|Min Nan}} to [[tread]] on\n#: {{zh-x|搦{lio̍k} 塗糜|'''tread''' on mud|MN}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|Cantonese: to hold in the hand}} {{q|Mandarin}} {{zh-l|提}}, {{zh-l|拿}}\n{{zh-dial|拿}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|搐搐搦搦|搐搦|搦管|搦管操觚|摶搦|搦戰|捉搦歌|搦翰}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

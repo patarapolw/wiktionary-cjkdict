@@ -1,0 +1,44 @@
+{
+  "title": "憧",
+  "ns": 0,
+  "id": 15803,
+  "timestamp": 1553550454000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=心12}}\n\n# [[long#Etymology 2|long]]ing, [[yearn]]ing",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "From {{w|Middle Chinese}} {{ltc-l|憧|id=1}}:\n{{ja-readings\n|goon=しゅ<しゆ\n|kanon=しょう<しよう\n}}\nFrom {{w|Middle Chinese}} {{ltc-l|憧|id=2}}:\n{{ja-readings\n|goon=どう\n|kanon=とう<たう\n|kanyoon=どう\n}}\nReadings shared by both ''kanji'':\n{{ja-readings\n|kun=あこが-れる, あこが-らす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|憧憬|しょうけい}}, {{ja-r|憧憬|どうけい|[[long#Etymology 2|long]]ing, [[yearn]]ing}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Some dictionaries apparently classify the ''dō'' reading as ''{{ll|ja|慣用音|kan'yō-on}}'' only, despite the second borrowing from Middle Chinese {{ltc-l|憧|id=2}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "title": "的",
+  "ns": 0,
+  "id": 21458,
+  "timestamp": 1553920894000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=白03|grade=4}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちゃく\n|kanon=てき\n|kun=まと-, いくは-, ゆくは-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|てき}}\nRepurposed from the {{m|en|target}} meaning, probably from [[w:Ming Dynasty|Ming]]- and [[w:Qing Dynasty|Qing]]-era {{der|ja|cmn|sort=てき|-}} use of this character as a possessive or adjectivizing particle,<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> or even earlier in the [[w:Song Dynasty|Song]] and [[w:Yuen Dyanasty|Yuan]] eras.<ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"SMK5\">{{R:Shinmeikai5}}</ref> Probably also influenced in the {{w|Meiji period}} by the {{der|ja|en|sort=てき|-}} adjective ending {{m|en|-tic}} (as in {{m|en|spastic}}, {{m|en|plastic}}, or {{m|en|characteristic}}), ultimately deriving from {{der|ja|grc|sort=てき|-τικός}}, used to form adjectives from verbs.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref><ref name=\"SMK5\">{{R:Shinmeikai5}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|てき}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|てき}}\n\n# [[-ive]], [[-like]], [[-ish]], [[-ic]], [[-ical]], [[-y]], [[kind of]], [[sort of]]\n#: Used to form {{m|ja|形容動詞|tr=keiyō dōshi||''na'' adjectives}} from nouns. The resulting term has a {{m|ja|平板型|tr=heiban-gata||flat type}} or type 0 [[w:Japanese pitch accent|pitch accent]] pattern.\n#:: {{ja-usex|中国の雰囲気、中国'''的'''な雰囲気|^ちゅうごく の ふんいき、 ^ちゅうごく-'''てき''' な ふんいき|China's atmosphere, a Chinese '''kind of''' atmosphere}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|てき}}\nFrom {{der|ja|ltc|sort=てき|的|tr=tek|pos=literally “mark in a target”, also meaning “bright”}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|てき|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|てき}}\n\n# [[target]]\n# [[bright]], [[clear]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|的%確|てき%かく}}: [[accurate]], [[apt]], [[exact]]\n* {{ja-r|的%言|てき%げん}}: [[bon mot]], the [[right]] [[word]] or [[turn of phrase]] for the [[occasion]]\n* {{ja-r|的%殺|てき%さつ}}: in {{m|ja|九星|tr=kyūsei|lit=nine stars|pos=an astrology system from ancient China}}, the [[opposite]] [[direction]] from the favored direction for one's [[age]]\n* {{ja-r|的%実|てき%じつ}}: [[certain]], [[definite]], [[actual]], [[real]]\n* {{ja-r|的%証|てき%しょう}}: [[accurate]] [[evidence]]\n* {{ja-r|的%切|てき%せつ}}: [[fitting]], [[appropriate]]\n* {{ja-r|的%然|てき%ぜん}}: [[clear]], [[distinct]]\n* {{ja-r|的%中|てき%ちゅう}}: a [[hit]]; to be [[on target]]\n* {{ja-r|的%屋|てき%や}}, {{ja-r|的%野|てき%や}}: a [[hawker]], a [[peddler]] of [[cheap]] and [[gaudy]] [[wares]]\n* {{ja-r|的%例|てき%れい}}: an [[appropriate]] or [[fitting]] [[example]]\n* {{ja-r|的%皪|てき%れき}}: [[vividly]] and [[brightly]] [[shining]]\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|てき}}\n\n# {{alternative spelling of|lang=ja|sort=てき|敵}}: {{lb|ja|sort=てき|rare}} [[enemy]], [[opponent]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Alternative forms",
+                      "text": "* {{ja-l|敵}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|てき}}\n\n# {{lb|ja|sort=てき|archaic|mainly|_|Kansai|somewhat|_|derogatory}} [[he]], [[she]], [[it]], [[that one]]\n# {{lb|ja|sort=てき|archaic|mainly|_|Kansai|somewhat|_|derogatory}} [[you]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Alternative forms",
+                      "text": "* {{ja-l|敵}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|derogatory for “he, she, it”}} {{ja-r|あいつ}}\n* {{sense|derogatory for “you”}} {{ja-r|おまえ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|まと}}\nFrom {{inh|ja|ojp|sort=まと|-}}. Possibly originally a compound of {{compound|ja|sort=まと|目|tr1=ma|t1=eye|所|tr2=to|t2=place}}. Appears to be [[cognate]] with [[homophone]] {{m|ja|円|tr=mato||round|pos=adjective, obsolete in modern Japanese}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|まと|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まと}}\n\n# a [[target]], a [[mark]], a [[bullseye]]\n# an [[objective]], an [[object]] {{qualifier|of doing something}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|objective}} {{ja-r|目的|もくてき}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|いくは}}\nFrom {{inh|ja|ojp|sort=いくは|-}}.\n* May be derived from rare archaic verb {{m|ja|いくう|tr=ikuu||to shoot [an arrow] at something|pos=archaic spelling {{ja-l|いくふ}}}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n: The ''ha'' element would presumably derive from the verb ending {{m|ja|ふ|tr=fu}}, which has a {{m|ja|未然形|tr=mizenkei||incomplete form}} of ''ha''. However, this is unlikely, as verb forms ending in ''-fu'' underwent the regular ''f-'' and ''h-'' > ''w-'' shift, which would result in a reading of *''ikuwa'' rather than the correct ''ikuha''.\n* The above phonetic discrepancy suggests that ''ikuha'' may instead be a compound of ''iku'' + ''ha''. The ''iku'' element probably derives from root component {{m|ja|いく|tr=iku}} meaning “shooting [arrows]”, as found in {{m|ja|いくう|tr=ikuu}} and also in {{m|ja|戦|tr=ikusa||a battle|pos=original meaning “the shooting of arrows”}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> The ''iku'' element might be related to verb {{m|ja|射る|tr=iru||to shoot an arrow}}, or obsolete verb {{m|ja|生く|tr=iku||to live; to make something live, to make something go}}, likely [[cognate]] with {{m|ja|行く|tr=iku||to go}}.\n: The ''ha'' element is uncertain. It might be {{m|ja|端|tr=ha||the edge or end of something}}, from the sense “the end [of the arrow's flight]”.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いくは}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いくは}}\n\n# {{lb|ja|sort=いくは|archery|rare}} an [[archery]] [[target]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|的%所|いくは%どころ}}: the [[location]] where an [[archery]] [[target]] is [[placed]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=k|ゆくは}}\nFrom {{inh|ja|ojp|sort=ゆくは|-}}. Alteration of ''ikuha'' above. Compare the ''iku'' <> ''yuku'' alteration in the verb {{m|ja|行く|tr=iku, yuku||to go}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ゆくは}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ゆくは}}\n\n# {{lb|ja|sort=ゆくは|archery|rare}} an [[archery]] [[target]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

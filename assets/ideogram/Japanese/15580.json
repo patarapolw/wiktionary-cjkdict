@@ -1,0 +1,39 @@
+{
+  "title": "惇",
+  "ns": 0,
+  "id": 15580,
+  "timestamp": 1553550227000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8A5}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=心08}}\n\n# {{defn|lang=ja|sort=心08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅん, とん\n|kanon=しゅん, とん\n|kanyoon=じゅん\n|kun=あつ-い, まこと-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|つとむ}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|つとむ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

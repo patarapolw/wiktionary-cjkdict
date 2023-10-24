@@ -1,0 +1,66 @@
+{
+  "title": "箱",
+  "ns": 0,
+  "id": 22848,
+  "timestamp": 1539644024000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=竹09}}\n\n# [[box]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう<さう\n|kanon=しょう<しやう\n|kun=はこ-\n}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|はこ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|はこ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|函}}, {{ja-l|筥}}, {{ja-l|匣}}, {{ja-l|筐}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はこ}}\n\n# [[box]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{desc|bor=1|ami|hako}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|豚箱|ぶたばこ}}: [[police]] [[cell]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

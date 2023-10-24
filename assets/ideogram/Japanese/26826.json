@@ -1,0 +1,71 @@
+{
+  "title": "角",
+  "ns": 0,
+  "id": 26826,
+  "timestamp": 1553744583000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|甬|甪|𧢲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=角00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かく\n|kanon=かく\n|kun=かど-, つの-, すみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n{{top4}}\n* [[角度]]\n* [[角館]]\n* [[一角獣]]\n* [[鋭角]]\n{{mid4}}\n* [[外角]]\n* [[互角]]\n* [[一角]]\n* [[三角]]\n{{mid4}}\n* [[四角]]\n* [[五角形]]\n* [[六角]]\n{{mid4}}\n* [[死角]]\n* [[視角]]\n* [[鈍角]]\n{{bottom}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{rfp|ja|needs pitch accent}}\n* {{a|[[w:Tokyo dialect|Tokyo]]}} {{IPA|[ka̠do̞]|lang=ja}}\n* {{a|[[w:Tōhoku dialect|Tohuku]]}} {{IPA|[ka̠ⁿdo̞]|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かど}}\n\n# A [[corner]] (e.g., of a desk; compare [[隅]]).\n# An [[edge]].\n#: {{ja-usex|[[机]][[の]]'''角'''|つくえ の '''かど'''|'''edge''' of the desk}}\n# A street corner.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|隅|すみ}}\n* {{ja-r|コーナー}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かく}}\n\n# {{lb|ja|mathematics}} [[angle]]\n#: {{ja-usex|[[入%射]]%'''角''']]|にゅう%しゃ%'''かく'''|'''angle''' of incidence}}\n# {{lb|ja|geography}} [[cape]], [[headland]], [[point]]\n# A [[bishop]] (shogi). Abbreviation of [[角行]]."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|つの}}\n\n# [[horn]], [[antler]]\n#: {{ja-usex|[[鹿]][[の]]'''角'''|しか の '''つの'''|deer '''antlers'''}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|すみ|かく|かど|つの}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=すみ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

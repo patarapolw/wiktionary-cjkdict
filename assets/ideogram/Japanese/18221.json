@@ -1,0 +1,63 @@
+{
+  "title": "櫂",
+  "ns": 0,
+  "id": 18221,
+  "timestamp": 1554083910000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|棹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木14}}\n\n# {{defn|lang=ja|sort=木14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<でう, たく\n|kanon=たく, とう<たう\n|kun=かい-<かひ-, かじ-<かぢ-\n}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かい|hhira=かひ}}\n\n# [[oar]], [[paddle]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|櫓%櫂|ろ%かい|[[scull]]s and paddles}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かじ|hhira=かぢ}}\n\n# {{alternative form of|lang=ja|舵||rudder}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

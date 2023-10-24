@@ -1,0 +1,39 @@
+{
+  "title": "阻",
+  "ns": 0,
+  "id": 30622,
+  "timestamp": 1548836813000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=阜05}}\n\n# {{defn|lang=ja|sort=阜05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょ\n|kanon=そ\n|kun=はば-む, けわ-し.い, へだ-てる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|険阻|けんそ}}\n* {{ja-r|阻止|そし}}\n* {{ja-r|阻喪|そそう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

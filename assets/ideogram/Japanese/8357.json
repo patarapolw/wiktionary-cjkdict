@@ -1,0 +1,64 @@
+{
+  "title": "村",
+  "ns": 0,
+  "id": 8357,
+  "timestamp": 1553745345000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|材|邨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=木03}}\n\n# [[village]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そん\n|kanon=そん\n|kun=むら-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|村%落|そん%らく|[[village]], [[hamlet]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|むら|yomi=k}}\n{{swp|lang=ja}}\nCognate with {{m|ja|群|tr=mura||gathering}}.<ref name=\"DJR\"></ref>\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|むら|acc=2|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|むら}}\n\n# a [[village]] {{gl|a rural habitation of size between a hamlet and a town}}\n#* {{quote-book|||EXTRA PACK 2015|chapter={{ruby|{{lang|ja|[竜](りゅう)[角](かく)の[狩](しゅ)[猟](りょう)[者](しゃ)}}}}\n|||publisher={{w|Konami}}\n|trans-chapter=Dragon Horn Hunter\n|lang=ja\n|date=Sep 19 2015}}\n#*: {{ja-usex|疫%病に苦しむ故%郷の'''村'''を救うため、霊%薬の原%料となるドラゴンの角を乱%獲する女%戦%士。その'''村'''はすでに、棲み処を追われたドラゴンたちによって踏み荒らされ、焼き尽くされてしまった事を、彼%女はまだ知らない・・・。|えき%びょう に くるしむ こ%きょう の '''むら''' を すくう ため、れい%やく の げん%りょう と なる ドラゴン の つの を らん%かくする おんな%せん%し。その '''むら''' は すで に、すみか を おわれた ドラゴン-たち に よって ふみあらされ、やきつくされて しまった こと を、かの%じょ は まだ しらない・・・。|A female warrior who was on the hunt for dragon horns, to make a medicine for her home village, which was suffering from a plague. Unbeknownst to her, those displaced dragons went on to lay waste and burn down her village….}}"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|里|さと}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|sort=むら}}\n{{C|ja|Villages|sort=むら}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "title": "種",
+  "ns": 0,
+  "id": 22453,
+  "timestamp": 1552984304000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|种}}\n{{character info/subpage}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=禾09}}\n\n# [[seed]]\n# [[plant]], [[sow]]\n# [[class]], [[kind]], [[variety]]\n# [[species]] {{gl|[[category]] in [[taxonomy]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ<しゆ\n|kanon=しょう<しよう\n|kun=たね-, くさ-, くさわい-<くさはひ-\n|nanori=おさ, おい, かず, ぐさ, しげ, た, ふさ, ほ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|種牛|しゅぎゅう}}\n* {{ja-r|種子|しゅし}}\n* {{ja-r|種馬|しゅば}}\n* {{ja-r|種肥|しゅひ}}\n* {{ja-r|種卵|しゅらん}}\n* {{ja-r|種類|しゅるい}}\n* {{ja-r|人種|じんしゅ}}\n* {{ja-r|特種|とくしゅ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|たね|yomi=k}}\nFrom {{inh|ja|ojp|sort=たね|-}}.\n\nPossibly related to {{der|ja|poz-pro|sort=たね|*tanəm}}; compare {{cog|id|tanam}}, {{cog|ms|tanam||to [[plant]], [[bury]]}}; {{cog|ch|tanom||to plant}}, {{cog|sm|tanu||to bury}}; {{cog|ceb|tanum||[[plant]]}}. Another proposal connects this word with {{der|ja|ine-pro|sort=たね|*dʰoHnéh₂||grain}}; compare {{cog|sa|धाना|tr=dhānā́||grain}}, {{cog|lt|dúona||bread}}, {{cog|txb|tāno||grain}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{sense|bloodline, lineage}} {{ja-l|胤}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|たね|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たね|タネ}}\n\n# a [[seed]]\n#: {{syn|ja|種子|tr=shushi}}\n# a [[pit]] or [[stone]] in a [[fruit]]\n#: {{syn|ja|実|tr=sane}}\n# a [[gamete]] {{gl|[[reproductive]] [[cell]] such as a [[spermatozoan]] or [[egg]]}}\n# a [[lineage]], [[bloodline]]\n#: {{syn|ja|血統|tr=kettō|血筋|tr2=chisuji}}\n# an [[origin]], [[cause]]\n#: {{syn|ja|根源|tr=kongen|原因|tr2=gen'in}}\n# the [[material]]s or [[ingredient]]s from which something is made\n#: {{syn|ja|原料|tr=genryō|材料|tr2=zairyō}}\n# [[capital]], [[funds]], [[seed money]]\n#: {{syn|ja|元金|tr=gankin, motokin|元手|tr2=motode}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n{{ja-r/multi|data=\n* {{ja-r/args|種%明かし|たね%あかし}}\n* {{ja-r/args|種%井|たね%い}}, {{ja-r/args|種%井|たな%い}}\n* {{ja-r/args|種板|たねいた}}\n* {{ja-r/args|種芋|たねいも}}\n* {{ja-r/args|種牛|たねうし}}\n* {{ja-r/args|種馬|たねうま}}\n* {{ja-r/args|種 選び|たね えらび}}\n* {{ja-r/args|種%下ろし|たね%-おろし}}\n* {{ja-r/args|種 案山子|たね かかし}}\n* {{ja-r/args|種%貸し|たね%かし}}\n* {{ja-r/args|種子%島|^たねが%しま}}\n* {{ja-r/args|種紙|たねがみ}}\n* {{ja-r/args|種川|^たねかわ}}\n* {{ja-r/args|種変り|たね-がわり|rom=-}}, {{ja-r/args|種%変わり|たね%-がわり}}\n* {{ja-r/args|種%切れ|たね%ぎれ}}\n* {{ja-r/args|種菌|たねきん}}\n* {{ja-r/args|種 麹|たね こうじ}}\n* {{ja-r/args|種肥|たねごえ}}\n* {{ja-r/args|種差|^たねさし}}\n* {{ja-r/args|種%字|たね%じ}}\n* {{ja-r/args|種%酢|たね%ず}}\n* {{ja-r/args|種銭|たねせん}}\n* {{ja-r/args|種%田|たね%だ}}\n* {{ja-r/args|種 卵|たね たまご}}\n* {{ja-r/args|種%俵|たね%-だわら}}\n* {{ja-r/args|種違い|たねちがい}}\n* {{ja-r/args|種%付け|たね%つけ}}\n* {{ja-r/args|種付け|たねつけ}}\n* {{ja-r/args|種漬|たねつけ|rom=-}}, {{ja-r/args|種%漬け|たね%つけ}}\n* {{ja-r/args|種土|たねつち}}\n* {{ja-r/args|種壺|たねつぼ}}\n* {{ja-r/args|種%取り|たね%とり}}\n* {{ja-r/args|種%無し|たね%なし}}\n* {{ja-r/args|種蠅|タネバエ}}\n* {{ja-r/args|種子%鋏|たね%‐ばさみ}}\n* {{ja-r/args|種腹|たねはら}}\n* {{ja-r/args|種版|たねばん|rom=-}}, {{ja-r/args|種板|たねばん}}\n* {{ja-r/args|種%火|たね%び}}\n* {{ja-r/args|種 浸し|たね ひたし}}\n* {{ja-r/args|種 瓢|たね ふくべ}}\n* {{ja-r/args|種豚|たねぶた}}\n* {{ja-r/args|種本|たねほん}}\n* {{ja-r/args|種%蒔き|たね%まき|rom=-}}, {{ja-r/args|種%播き|たね%まき}}\n* {{ja-r/args|種繭|たねまゆ}}\n* {{ja-r/args|種雌牛|たね めす.うし}}\n* {{ja-r/args|種物|たねもの}}\n* {{ja-r/args|種籾|たねもみ}}\n* {{ja-r/args|種%屋|たね%や}}\n* {{ja-r/args|種山|^たねやま}}\n* {{ja-r/args|種綿|たねわた}}\n* {{ja-r/args|煎り種|いりだね|rom=-}}, {{ja-r/args|炒り種|いりだね}}\n* {{ja-r/args|噂の種|うわさ の たね}}\n* {{ja-r/args|粔籹%種|おこし%-だね}}\n* {{ja-r/args|御%種 人参|オ%タネ ニンジン}}\n* {{ja-r/args|柿の種|かき の たね}}\n* {{ja-r/args|菓子%種|かし%だね}}\n* {{ja-r/args|ガラス種|ガラス-だね}}\n* {{ja-r/args|変り種|かわり-だね|rom=-}}, {{ja-r/args|変わり種|かわり-だね}}\n* {{ja-r/args|客種|きゃく-だね}}\n* {{ja-r/args|黒種|くろだね}}\n* {{ja-r/args|黒%種子%草|クロ%タネ%ソウ}}\n* {{ja-r/args|子%種|こ%だね}}\n* {{ja-r/args|零れ種|こぼれだね}}\n* {{ja-r/args|質種|しちだね}}\n* {{ja-r/args|癪の種|しゃく の たね}}\n* {{ja-r/args|新聞%種|しんぶん%-だね}}\n* {{ja-r/args|鮨種|すしだね}}\n* {{ja-r/args|頭痛の種|ずつう の たね}}\n* {{ja-r/args|西洋%種|せいよう%‐だね}}\n* {{ja-r/args|艶種|つやだね}}\n* {{ja-r/args|特種|とくだね}}\n* {{ja-r/args|菜%種|ナ%タネ}}\n* {{ja-r/args|生種|なまだね}}\n* {{ja-r/args|話の種|はなし の たね}}\n* {{ja-r/args|花種|はなだね}}\n* {{ja-r/args|パン種|パン-だね}}\n* {{ja-r/args|火%種|ひ%だね}}\n* {{ja-r/args|人種|ひとだね}}\n* {{ja-r/args|一粒%種|ひとつぶ%-だね}}\n* {{ja-r/args|服種|ぶくだね}}\n* {{ja-r/args|フシギダネ|^フシギダネ}}\n* {{ja-r/args|混じり種|まじりだね|rom=-}}, {{ja-r/args|雑じり種|まじりだね}}\n* {{ja-r/args|飯の種|めし の たね}}\n* {{ja-r/args|元種|もとだね}}\n* {{ja-r/args|物種|ものだね}}\n* {{ja-r/args|籾種|もみだね}}\n* {{ja-r/args|矢%種|や%だね}}\n* {{ja-r/args|斎%種|ゆ%だね}}\n* {{ja-r/args|綿種|わただね}}\n* {{ja-r/args|椀種|わんだね}}\n}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|種が割れる|たね が われる|crack seeds → realize truth}}\n* {{ja-r|種を蒔く|たね を まく|sow seeds → make a cause}}\n* {{ja-r|種を宿す|たね を やどす|plant a seed → conceive}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Proverbs",
+                      "text": "{{der-top|Proverbs}}\n* {{ja-r|種も仕掛けもない|たね も しかけ も ない}}\n* {{ja-r|商いは草の種|あきない は くさ の たね|trade is a grass seed}}\n* {{ja-r|苦は楽の種|く は らく の たね|pain is the seed of suffering → hardship leads to happiness}}\n* {{ja-r|権%兵衛が種まきゃ烏がほじくる|^ごん%べえ が たね まきゃ からす が ほじくる}}\n* {{ja-r|品玉も種から|しなだま も たね から|seeds from above → nothing is done without preparation}}\n* {{ja-r|生業は草の種|すぎわい は くさ の たね|livelihood is a seed of grass}}\n* {{ja-r|貧 は 菩提 の 種 富 は 輪廻 の 絆|ひん は ぼだい の たね とみ は りんね の きずな|poverty leads to awakening, wealth bonds to rebirth}}\n* {{ja-r|蒔かぬ種は生えぬ|まかぬ たね は はえぬ|unplanted seed does not grow → no merit without effort}}\n* {{ja-r|楽は苦の種%苦は楽の種|らく は く の たね% く は らく の たね|pleasure is the seed of pain, pain is the seed of pleasure → something must come from something}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|精子|せいし|[[sperm]]}}\n* {{ja-r|卵子|らんし|[[egg]]}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|たね|proper}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=たね}}\n# {{surname|lang=ja|A=a|nodot=1|sort=たね}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|くさ|yomi=k}}\nFrom {{inh|ja|ojp|-}}.\n\nPossibly derived from or cognate with {{m|ja|草|tr=kusa||[[grass]]}}, from the way grass is [[grow]]n from [[seed]]s, hence their ''[[origin]]''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{sense|cause of something}} {{ja-l|草}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|くさ|acc=2|acc_ref=DJR}}\n* Pitch accent for counter unknown."
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くさ}}\n\n# an [[origin]], [[cause]]\n# a [[type]], [[class]]\n#: {{syn|ja|種類|tr=shurui|類い|tr2=tagui}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n{{ja-r/multi|data=\n* {{ja-r/args|種種|くさぐさ|rom=-}}, {{ja-r/args|種々|くさぐさ}}\n* {{ja-r/args|遊び種|あそび-ぐさ}}\n* {{ja-r/args|扱い種|あつかいぐさ}}\n* {{ja-r/args|言い種|い.いぐさ}}\n* {{ja-r/args|思い種|おもいぐさ}}\n* {{ja-r/args|託ち種|かこちぐさ}}\n* {{ja-r/args|語り種|かたりぐさ}}, {{ja-r/args|語らい種|かたらいぐさ}}\n* {{ja-r/args|言種|ことぐさ}}\n* {{ja-r/args|言の葉種|ことのは-ぐさ}}\n* {{ja-r/args|仕%種|し%ぐさ|rom=-}}, {{ja-r/args|為%種|し%ぐさ}}\n* {{ja-r/args|質種|しちぐさ}}\n* {{ja-r/args|偲ぶ種|しのぶ-ぐさ}}\n* {{ja-r/args|謗り種|そしりぐさ}}\n* {{ja-r/args|染め種|そめくさ}}\n* {{ja-r/args|力%種|ちから%ぐさ}}\n* {{ja-r/args|千%種|ち%くさ}}, {{ja-r/args|千%種|ち%ぐさ}}\n* {{ja-r/args|茶飲み種|ちゃのみ-ぐさ}}\n* {{ja-r/args|手%種|て%ぐさ}}\n* {{ja-r/args|慰み種|なぐさみ-ぐさ}}\n* {{ja-r/args|慰め種|なぐさめ‐ぐさ}}\n* {{ja-r/args|七種|ななくさ}}\n* {{ja-r/args|祓%種|はらえ%-ぐさ}}\n* {{ja-r/args|燃え種|もえくさ}}\n* {{ja-r/args|弄び種|もてあそび-ぐさ|rom=-}}, {{ja-r/args|玩び種|もてあそび-ぐさ}}\n* {{ja-r/args|もて悩み種|もてなやみ-ぐさ}}\n* {{ja-r/args|物種|ものぐさ}}\n* {{ja-r/args|催し種|もよ.おし-ぐさ}}\n* {{ja-r/args|焼き種|やきくさ}}\n* {{ja-r/args|忘れ種|わすれ-ぐさ}}\n* {{ja-r/args|笑い種|わらいぐさ}}\n* {{ja-r/args|笑われ種|わらわれ-ぐさ}}\n}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|くさ}}\n\n# {{non-gloss|counter for number of [[kind]]s or [[type]]s}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n* {{ja-r|五種|いつくさ}}\n* {{ja-r|十%種|と%くさ}}\n* {{ja-r|一種|ひとくさ}}\n* {{ja-r|三%種|み%くさ}}\n* {{ja-r|百種|ももくさ}}\n* {{ja-r|八千%種|やち%くさ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|くさわい|yomi=k}}\n{{IPAfont|⟨kusa papi<sub>1</sub>⟩}} → * {{IPAchar|/kusapapʲi/}} → {{IPAchar|/kusafafi/}} → {{IPAchar|/kusawawʲi/}} → {{IPAchar|/kusawai/}}\n\nCompound of {{m|ja|種|tr=kusa||[[origin]]; [[type]]}} + {{m|ja||這い|tr=hai|[[widely]] [[spread out]]}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} {{m|ja|這う|tr=hau||to spread out widely}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|種わい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くさわい|hhira=くさはひ}}\n\n# an [[origin]], [[cause]]\n#: {{syn|ja|原因|tr=gen'in}}\n# a [[type]], [[class]]\n#: {{syn|ja|種類|tr=shurui|類い|tr2=tagui}}\n# an [[interest]], [[appeal]]\n#: {{syn|ja|趣|tr=omomuki|面白み|tr2=omoshiromi}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{wp|lang=ja|種 (分類学)}}\n{{ja-kanjitab|しゅ|yomi=o}}\n{{IPAchar|/t͡ɕɨu/}} → {{IPAchar|/ɕʲu/}} → {{IPAchar|/ɕu/}}\n\nFrom {{der|ja|ltc|sort=しゆ|-}} {{ltc-l|種|id=1}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=go|しゅ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しゅ}}\n\n# a [[seed]]\n#: {{syn|ja|種子|tr=shushi}}\n# a [[kind]], [[type]], [[sort]], [[class]], or [[category]]\n#: {{syn|ja|種類|tr=shurui|類い|tr2=tagui}}\n# {{lb|ja|sort=しゅ|taxonomy}} a [[species]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n* {{ja-r|種種|しゅしゅ}}, {{ja-r|種種|しゅじゅ}}\n* {{ja-r|種%概念|しゅ%がいねん}}\n* {{ja-r|種%雄牛|しゅ%ゆうぎゅう}}\n* {{ja-r|一種|いっしゅ}}\n* {{ja-r|五種|ごしゅ}}\n* {{ja-r|三種|さんしゅ}}, {{ja-r|三種|さんじゅ}}\n* {{ja-r|十種|じっしゅ}}\n* {{ja-r|六種|ろくしゅ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{top|ja|Plants|sort=たね}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

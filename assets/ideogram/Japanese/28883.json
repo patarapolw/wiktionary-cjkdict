@@ -1,0 +1,39 @@
+{
+  "title": "邳",
+  "ns": 0,
+  "id": 28883,
+  "timestamp": 1550215966000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=邑05}}\n\n# {{defn|lang=ja|sort=邑05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=び\n|kanon=ひ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|邳彤|^ひとう}}\n* {{ja-r|下邳|^かひ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

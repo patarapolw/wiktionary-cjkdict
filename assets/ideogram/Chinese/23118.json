@@ -1,0 +1,37 @@
+{
+  "title": "粦",
+  "ns": 0,
+  "id": 23118,
+  "timestamp": 1535297122000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=㷠,燐}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\nOracle bone script: {{liushu|p}} – a person ({{zh-l|*大}}) with dots above and below the arms, depicting [[will o' the wisp]] around a corpse.\n\nIn the bronze script, feet ({{zh-l|*舛}}) were added to the bottom. In the small seal script, {{zh-l|*舛}} is detached from the corpse, which corrupts into the unrelated {{zh-l|*炎}}; ''{{w|Shuowen}}'' erroneously interprets it as an {{Han compound|炎|舛|ls=ic|t1=fire; flame|t2=feet|nocap=1}}. In the regular script, the top further corrupts into the unrelated {{zh-l|*米}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lín\n|mc=y\n|oc=y\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-original|燐|tr=-|[[will o' the wisp]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "楢",
+  "ns": 0,
+  "id": 17847,
+  "timestamp": 1553553334000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木09}}\n\n# {{defn|lang=ja|sort=木09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ゆ\n|kanon=ゆう<いう\n|on=しゅう<しう\n|kun=なら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なら|ナラ}}\n\n# [[oak]]\n\n[[Category:ja:Oaks|なら]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

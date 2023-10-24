@@ -1,0 +1,47 @@
+{
+  "title": "氕",
+  "ns": 0,
+  "id": 18567,
+  "timestamp": 1508571208000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|气|t1=gas|丿|t2=one|ls=ic}}. Also a {{liushu|psc|nocap=y}}, where {{zh-l|丿}} acts as the phonetic component. Compare {{zh-l|*氘|deuterium}} and {{zh-l|*氚|tritium}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|丿|left falling stroke}} from the glyph, possibly influenced by {{cog|NL.|protium}}. In Mandarin, it is pronounced in the first tone by analogy with {{zh-l|氘|deuterium}} and {{zh-l|氚|tritium}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=piē\n|c=pit3\n|h=pfs=\n|md=\n|mn=\n|w=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[protium]]"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{zh-l|氘|deuterium}}\n* {{zh-l|氚|tritium}}\n* {{zh-l|氫|hydrogen}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

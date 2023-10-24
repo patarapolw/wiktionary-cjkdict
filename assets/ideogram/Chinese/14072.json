@@ -1,0 +1,76 @@
+{
+  "title": "孖",
+  "ns": 0,
+  "id": 14072,
+  "timestamp": 1550571586000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{zh-etym-double|子|}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zī\n|c=zi1\n|mc=y\n|oc=y\n|cat=n,v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[twin]]\n# {{zh-alt-form|滋|to propagate}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|孖蟲}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Probably a {{der|yue|qfa-tak}} substrate word, most likely from a Northern Tai language ({{zh-ref|Li, 1990}}). Compare {{cog|pcc|legwal|leg'''wal'''|twins}}, {{cog|th|ฝาแฝด|'''ฝา'''แฝด|twins}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=mā\n|c=maa1\n|c-t=ma1,ma1*\n|cat=a,adv,cls\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}} {{tlb|zh|Cantonese}}\n\n# [[twin]]\n#: {{zh-x|孖女{neoi5-2}|'''twin''' girls|C}}\n# [[conjoined]]\n# {{zh-classifier|a pair of linked objects|cat=y}}\n#: {{zh-x|一 孖 臘腸{coeng4-2}|a '''pair''' of Chinese sausages|C}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|孖女|孖仔|孖生|孖鋪|孖寶|孖孖頭|孖指|孖頭|孖公仔|孖頭公仔|孖煙通|孖辮|孖展|孖膶腸|黐孖筋}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C02433}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

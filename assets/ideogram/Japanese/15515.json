@@ -1,0 +1,39 @@
+{
+  "title": "悅",
+  "ns": 0,
+  "id": 15515,
+  "timestamp": 1553550188000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|悦|恱}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=心07}} <!-- Not a kyūjitai form of 悦 (lacks JIS support) -->\n\n# {{defn|lang=ja|sort=心07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=えつ\n|kun=よろこぶ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character lacks JIS support and is not used in Japan. [[悦]] (U+60A6) is used instead."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

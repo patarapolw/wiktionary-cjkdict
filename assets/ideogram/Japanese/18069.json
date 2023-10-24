@@ -1,0 +1,56 @@
+{
+  "title": "樫",
+  "ns": 0,
+  "id": 18069,
+  "timestamp": 1511386712000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木11}}\n\n# {{defn|lang=ja|sort=木11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=かし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|かし|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かし|カシ}}\n\n# [[live oak]], [[evergreen oak]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l/ja|橿}}\n* {{l/ja|櫧}}\n\n[[Category:ja:Oaks|かし]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

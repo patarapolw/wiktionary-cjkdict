@@ -1,0 +1,39 @@
+{
+  "title": "蛆",
+  "ns": 0,
+  "id": 25924,
+  "timestamp": 1516061428000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=そ\n|kanon=しょ\n|kun=うじ-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うじ|ウジ}}\n\n# [[maggot]], [[larva]]\n\n[[Category:ja:Insects|うじ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

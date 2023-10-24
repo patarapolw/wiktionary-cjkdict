@@ -1,0 +1,54 @@
+{
+  "title": "鐮",
+  "ns": 0,
+  "id": 29913,
+  "timestamp": 1545973781000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鎌|䥥|镰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=镰|alt=[[劆#Etymology 2|劆]],[[鎌#Etymology 2|鎌]],[[䥥#Etymology 2|䥥]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|金|廉|c1=s|c2=p|t1=gold; metal|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{inh|zh|sit-pro|*s-rjam||sharp}} ({{zh-ref|Schuessler, 2007}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lián\n|c=lim4\n|mn=ml:liân/nî\n|mn_note=liân - literary; nî - vernacular\n|mn-t=niam5/liêm5\n|mn-t_note=niam5 - Shantou; liêm5 - Chaozhou\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[sickle]]\n#: {{zh-x|鐮刀|sickle}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|掛鐮|打火鐮|火鐮|鐮倉幕府|鉤鐮槍|鐮刀|鐮倉}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A04352}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

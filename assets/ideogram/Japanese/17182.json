@@ -1,0 +1,61 @@
+{
+  "title": "曙",
+  "ns": 0,
+  "id": 17182,
+  "timestamp": 1553551469000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日14}}\n\n# {{defn|lang=ja|sort=日14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しょ\n|kun=あけぼの-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|あけぼの|yomi=k}}\nCompound of {{compound|ja|明け|tr1=ake|t1=brighten|仄|tr2=hono|t2=faint}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|あけぼの|y=k|acc=0|acc_ref=DJR}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あけぼの}}\n\n# [[dawn]] {{gloss|the time when night fades and the morning faintly brightens}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* See [[Thesaurus:明け方]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

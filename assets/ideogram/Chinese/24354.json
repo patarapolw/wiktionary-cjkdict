@@ -1,0 +1,37 @@
+{
+  "title": "胾",
+  "ns": 0,
+  "id": 24354,
+  "timestamp": 1543755467000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|肉|𢦏|c1=s|c2=p|ls=psc}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zì\n|c=ji3,zi3,zi1\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} [[meat]] [[cut]] into [[piece]]s\n\n{{zh-cat|Meats}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

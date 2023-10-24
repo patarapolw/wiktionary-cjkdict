@@ -1,0 +1,66 @@
+{
+  "title": "扇",
+  "ns": 0,
+  "id": 15969,
+  "timestamp": 1547087668000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|煽|搧}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=7|rs=戶06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kun=おうぎ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|扇子|せんす}}\n* {{ja-r|団扇|うちわ}}\n* {{ja-r|鉄扇|てっせん}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|おうぎ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|おうぎ|acc=3|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おうぎ|hhira=あふぎ}}\n\n# [[fan]] (folding fan)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|蝙蝠%扇|かわほり%おうぎ}}: [[bat]] [[fan]], a folded paper fan"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ja-r|扇ぐ|あおぐ|gloss=to [[fan]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Fans|おうぎ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

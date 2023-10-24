@@ -1,0 +1,39 @@
+{
+  "title": "說",
+  "ns": 0,
+  "id": 27043,
+  "timestamp": 1540912727000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|説|说}}\n{{character info/new}}\n{{character info/new|0xf96f}}\n{{character info/new|0xf9a1}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言07}} <!-- Not a kyūjitai character -->\n\n# [[opinion]]\n# [[theory]]\n# [[explanation]]\n# [[rumor]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[せつ]] (setsu), [[ぜい]] (zei), [[えつ]] (etsu)|kun=[[とく]] (toku)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character lacks essential JIS support and is not used in Japanese. The character {{m|ja|説}} (U+8AAC) is used instead."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

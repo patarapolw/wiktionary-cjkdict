@@ -1,0 +1,39 @@
+{
+  "title": "喙",
+  "ns": 0,
+  "id": 12546,
+  "timestamp": 1553322298000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA7A}}\n{{character info|0x2F847}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口09}}\n\n# [[beak]]; [[bill]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け<くゑ\n|kanon=かい<くわい\n|kun=くちばし-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|yomi=k|くちばし|r=y}}\n{{ja-noun|くちばし}}\n\n# {{altspell|嘴|lang=ja||[[beak]]; [[bill]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "駭",
+  "ns": 0,
+  "id": 31641,
+  "timestamp": 1537084535000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|骇}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=骇}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=hài\n|c=haai5,haai6,hoi5,hoi4\n|h=pfs=\n|md=\n|mn=qz:hǎi/xm,zz:hāi\n|w=\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[terrify]], [[frighten]]\n# {{lb|zh|computing}} to [[hack]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|駭人|駭人聽聞|駭客|駭然|驚濤駭浪|驚世駭俗|駭浪|震駭|威駭|駭怕|防駭}}\n\n{{zh-cat|Computer security}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

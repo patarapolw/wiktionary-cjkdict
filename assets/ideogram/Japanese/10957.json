@@ -1,0 +1,39 @@
+{
+  "title": "俥",
+  "ns": 0,
+  "id": 10957,
+  "timestamp": 1554016292000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|伡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[file:JapaneseRickshaw.jpg|thumb|right|200px|俥(kuruma)]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=しゃ\n|kun=くるま-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くるま}}\n\n# [[rickshaw]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

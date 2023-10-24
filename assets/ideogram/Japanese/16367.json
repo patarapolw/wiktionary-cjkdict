@@ -1,0 +1,39 @@
+{
+  "title": "揉",
+  "ns": 0,
+  "id": 16367,
+  "timestamp": 1546656817000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手09}}\n\n# {{defn|lang=ja|sort=手09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にゅう<にう\n|kanon=じゅう<じう\n|kun=も-む, も-める\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|揉み上げ|もみあげ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

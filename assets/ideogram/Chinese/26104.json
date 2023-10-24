@@ -1,0 +1,44 @@
+{
+  "title": "蝍",
+  "ns": 0,
+  "id": 26104,
+  "timestamp": 1534928860000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jí\n|c=zik1\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only|蝍蛆}}\n# {{zh-hg}} [[winged]] [[insect]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|蝍蛆|蝍蛆鉗帶}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "哩",
+  "ns": 0,
+  "id": 12353,
+  "timestamp": 1548760265000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=口07}}\n\n# [[mile]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[り]] (ri)|kun=[[わい]] (wai), [[マイル]] (mairu)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|まいる|yomi=kun}}\nFrom {{etyl|en|ja|sort=まいる}} {{m|en|mile}}. This kanji is an [[当て字|ateji]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|マイル}}\n\n# [[mile]] (mi)\n\n[[Category:Japanese terms spelled with ateji|まいる]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

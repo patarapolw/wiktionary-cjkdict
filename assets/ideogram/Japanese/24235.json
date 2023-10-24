@@ -1,0 +1,92 @@
+{
+  "title": "肉",
+  "ns": 0,
+  "id": 24235,
+  "timestamp": 1552499602000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=肉00}}\n\n# [[flesh]], [[meat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にく\n|kanon=じく\n|kun=しし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しし|yomi=kun}}\nFrom {{etyl|ojp|ja|sort=しし}}. Not used in isolation in modern {{etyl|ja|-}}. Persists in compounds.\n\nCognate with {{m|ja|獣|tr=shishi||beast, especially one used for meat}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|しし|acc=1}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しし}}\n\n# {{lb|ja|sort=しし|obsolete}} [[meat]]\n# {{lb|ja|sort=しし|obsolete}} [[flesh]], as of one's [[body]]\n#* {{RQ:Manyoshu|16|3885}}; [http://etext.lib.virginia.edu/japanese/manyoshu/Man16Yo.html#3885 text here]:\n#*: {{lang|ja|吾'''完'''者 御奈麻須波夜志}}\n#*: {{lang|ja|我が'''肉'''は み膾はやし}}\n#*:: わ が '''しし''' は みなます はやし\n#*:: ''wa ga '''shishi''' wa mi-namasu hayashi''\n#*::: use my '''flesh''' for your side-dish",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|肉%合い|しし%あい}}: how someone or something is [[flesh out|fleshed out]], one's [[build]]\n* {{ja-r|肉%置き|しし%おき}}: how someone or something is [[flesh out|fleshed out]], one's [[build]]\n* {{ja-r|肉%付き|しし%つき}}: how someone or something is [[flesh out|fleshed out]], one's [[build]]\n* {{ja-r|肉%付く|しし%づく}}: to become [[fatter]], to become [[meatier]]; to make someone or something fatter or meatier\n* {{ja-r|肉%醤|しし%びしお}}: [[salted]] meat, salted fish; the [[salted]] and [[mummified]] [[body]] of an [[executed]] person, a practice of [[punishment]] carried out in ancient China\n* {{ja-r|肉%骨|しし%ぼね}}: [[bone]]s from which the [[meat]] has been removed; a [[skeleton]]\n* {{ja-r|肉%叢|しし%むら}}: a [[cut]] or [[hunk]] of [[meat]]; the [[physical]] or [[corporeal]] [[body]], the [[flesh]]\n* {{ja-r|肉%病|しし%やみ}}: {{qualifier|rare}} [[obesity]], a [[disease]] whereby the body becomes [[fat]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|にく|yomi=on}}\nFrom {{etyl|ltc|ja|sort=にく}} {{m|ltc|肉|tr=*njiuk}}. Compare modern {{cog|nan|肉|tr=jiok<sup>8</sup>}} or {{cog|hak|肉|tr=ngiuk<sup>7</sup>}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|にく|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|にく}}\n\n# [[meat]], the [[muscle]] and [[fat]] tissue of an [[animal]] used as [[food]]\n# the [[flesh]] of an [[animal]]\n# the [[flesh]] of a [[fruit]] or [[vegetable]]\n# one's [[body]], as opposed to [[spirit]]\n# the [[thickness]] of a thing\n#: {{ja-usex|板の'''肉'''|いた の '''にく'''|the '''thickness''' of a board}}\n# {{lb|ja|sort=にく|metaphor}} the [[flesh]] or [[meat]] of something, such as an idea, structure, or argument\n#: {{ja-usex|議論に'''肉'''をつける|ぎろん に '''にく''' を つける|to put some '''meat''' on an argument, to '''flesh''' out an argument}}\n# an [[ink pad]], a [[stamp pad]]\n# {{lb|ja|sort=にく|theater|kabuki}} short for {{m|ja|肉襦袢|tr=niku juban}}: flesh-toned undergarments worn by actors and shown when the character has to display their skin",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|fruit or vegetable flesh}} {{ja-r|実|み}}\n* {{sense|body}} {{ja-r|肉体|にくたい}}\n* {{sense|thickness}} {{ja-r|厚さ|あつさ}}, {{ja-r|太さ|ふとさ}}\n* {{sense|ink pad}} {{ja-r|印肉|いんにく}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|牛%肉|ぎゅう%にく}}: [[beef]]\n* {{ja-r|狗%肉|く%にく}}: [[dog meat]]\n* {{ja-r|鶏%肉|けい%にく}}, {{ja-r|鶏%肉|とり%にく}}: [[chicken]] {{gloss|meat}}\n* {{ja-r|鯨%肉|げい%にく}}: [[whale]] [[meat]]\n* {{ja-r|鳥%肉|とり%にく}}: [[meat]] of a [[bird]], in particular [[meat]] of a [[chicken]]\n* {{ja-r|肉%交|にく%こう}}: [[sexual intercourse]]\n* {{ja-r|肉%羹|にく%こう}}: [[meat]] [[broth]]\n* {{ja-r|肉%汁|にく%じゅう}}: [[meat]] [[broth]]; [[meat]] [[juice]]; [[gravy]]\n{{der-mid}}\n* {{ja-r|肉%漿|にく%しょう}}: [[meat]] [[juice]]\n* {{ja-r|肉%饅|にく%まん}}: [[nikuman]]\n* {{ja-r|肉%饅%頭|にく%まん%じゅう}}: [[nikuman]]\n* {{ja-r|肉%類|にく%るい}}: a [[kind]] of [[meat]], the [[sort]] of meat\n* {{ja-r|馬%肉|ば%にく}}: [[horsemeat]]\n* {{ja-r|豚%肉|ぶた%にく}}, {{ja-r|豚%肉|とん%にく}}: [[pork]]\n* {{ja-r|挽%肉|ひき%にく}}: [[mince]]d [[meat]], [[ground]] meat\n* {{ja-r|羊%肉|よう%にく}}: [[mutton]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|にく]]\n[[Category:ja:Foods|にく]]\n[[Category:ja:Meats|にく]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

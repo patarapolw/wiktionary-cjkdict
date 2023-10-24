@@ -1,0 +1,41 @@
+{
+  "title": "莉",
+  "ns": 0,
+  "id": 25033,
+  "timestamp": 1521897309000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=7|rs=艸07}}\n\n# [[white]] [[jasmine]]\n# [[Asian pear]] ([[Pyrus pyrifolia]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らい\n|kanon=れい\n|kanyoon=り\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|pear}} {{ja-r|梨|り}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "啥",
+  "ns": 0,
+  "id": 12492,
+  "timestamp": 1531490584000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shá,shà\n|m-s=sa4\n|dg=са3\n|c=saa2,saa1\n|mn=xm,qz,tw:siáⁿ/zz,twv:sáⁿ/ml:siá/tw,sx,mg:siahⁿ/tc:sahⁿ\n|mn_note=siahⁿ - at the end of a phrase\n|w=2sa\n|cat=pron\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal Mandarin|Min Nan|Wu}} [[what]]\n#: {{zh-x|這 是 啥 物件？|'''What''' is this (thing)?|MN}}\n#: {{zh-x|儂 辣 做 啥？|'''What''' are you doing?|SH|tr=3non&5laq&2tsu+2sa}}\n#: {{zh-x|你 說 啥{shà} 來著[着]{zhe}？|'''What''' did you just say? [dialectal Mandarin]}}\n#: {{zh-syn|什麼}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "{{zh-dial|什麼}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|啥個|那啥|啥地方|啥物|啥子|啥貨|啥潲|啥款|啥人|啥所在}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

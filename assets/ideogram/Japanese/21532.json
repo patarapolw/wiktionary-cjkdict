@@ -1,0 +1,85 @@
+{
+  "title": "益",
+  "ns": 0,
+  "id": 21532,
+  "timestamp": 1554182084000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa17}}\n{{character info/new|0xfaa6}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=皿05}}\n\n# [[benefit]]\n# [[gain]]\n# [[profit]]\n# [[advantage]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=やく\n|kanon=えき\n|kun=ま-す, ますます-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えき|yomi=o}}\nFrom {{etyl|ltc|ja|sort=えき}} {{m|zh|益|tr=ʔjiek||increase}}. The [[漢音#Japanese|''kan'on'']] reading, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|えき|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えき}}\n\n# [[benefit]]\n# [[profit]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|益獣|えきじゅう|[[beneficial]] [[animal]]}}\n* {{ja-r|益虫|えきちゅう|[[beneficial]] [[insect]]}}\n* {{ja-r|益鳥|えきちょう|[[beneficial]] [[bird]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|やく|yomi=o}}\nFrom {{etyl|ltc|ja|sort=やく}} {{m|zh|益|tr=ʔjiek||increase}}. The [[呉音#Japanese|''goon'']] reading, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|やく|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|やく}}\n\n# [[benefit]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|ますます|yomi=k}}\n{{ja-see|ますます}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

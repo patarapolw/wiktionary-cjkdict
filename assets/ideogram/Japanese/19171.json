@@ -1,0 +1,66 @@
+{
+  "title": "港",
+  "ns": 0,
+  "id": 19171,
+  "timestamp": 1553896160000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|巻}}\n{{character info/new}}\n{{character info|0x2F908}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=水09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<こう\n|kanon=こう<かう\n|kun=みなと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* [[港澳]]\n* [[港湾]]\n* [[漁港]]\n* [[空港]]\n* [[軍港]]\n* [[出港]]\n* [[要港]]\n* [[香港]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|みなと|yomi=k}}\nFrom {{inh|ja|ojp|-}}: {{ja-compound|水|み|な|な|門|と|t1=water|pos2=possessive particle|t3=gate}}. Attested in the ''{{w|Kojiki}}'' and ''{{w|Nihon Shoki}}'' as {{ja-l|水門}}. {{attention|ja|Confirm the etymology is from Old Japanese}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|湊}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{audio|Ja-Minato.oga|Audio|lang=ja}}\n* {{ja-pron|みなと|yomi=k|acc=h|acc_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みなと}}\n\n# [[port]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

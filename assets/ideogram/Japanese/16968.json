@@ -1,0 +1,61 @@
+{
+  "title": "映",
+  "ns": 0,
+  "id": 16968,
+  "timestamp": 1553596057000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|暎}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=日05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう\n|kanon=えい\n|kun=うつ-す, うつ-る, は-える\n|nanori=あきら, え, てる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|映る|うつる}}: to be [[reflect|reflected]]; to [[appear]] as an [[image]]; to [[match]] or go well with something {{qualifier|in terms of color coordination}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|映|id=2}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えい|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えい}}\n\n# a [[reflection]]; to [[reflect]]\n# a [[projection]]; to [[project]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|映画|えいが}}: a [[movie]]\n* {{ja-r|映写|えいしゃ}}: a [[projection]]; to [[project]] something {{qualifier|an image}}\n* {{ja-r|映像|えいぞう}}: an [[image]] {{qualifier|especially one on a screen or in one's mind}}, a [[reflection]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

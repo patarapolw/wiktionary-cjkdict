@@ -1,0 +1,39 @@
+{
+  "title": "薔",
+  "ns": 0,
+  "id": 25608,
+  "timestamp": 1551659677000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|蔷}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸13}}\n\n# {{defn|lang=ja|sort=艸13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう, ぞう, しき\n|kanon=しょう, そく\n|kanyoon=しょく\n|kun=みずたで-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|薔薇|ばら}}: rose"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

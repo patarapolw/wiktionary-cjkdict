@@ -1,0 +1,39 @@
+{
+  "title": "釣",
+  "ns": 0,
+  "id": 29231,
+  "timestamp": 1537870067000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|钓}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=金03}}\n\n# [[fishing]], [[angling]], [[catching]]\n# [[change]], small cash",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう<てう\n|kanon=ちょう<てう\n|kun=つ-り, つり-, つ-る, つ-るし, つる-し, つ-るす, つる-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|魚釣り|さかなつり}}: [[fishing]], [[angling]], catching [[fish]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

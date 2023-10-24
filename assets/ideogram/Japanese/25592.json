@@ -1,0 +1,69 @@
+{
+  "title": "薄",
+  "ns": 0,
+  "id": 25592,
+  "timestamp": 1552365124000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=艸13}}\n\n# [[thin]], [[weak]], [[sparse]]\n# [[dilute]]\n# weak (tea)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ばく\n|kanon=はく\n|kun=うす-い, うす-れる, うす-らぐ, うす-める, うす-まる, せま-る\n|nanori=いたる, すすき\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|薄氷|gloss=[[thin]] [[ice]]|はくひょう}}\n* {{ja-r|薄謝|gloss=[[token]] of [[gratitude]]|はくしゃ}}\n* {{ja-r|花薄荷|gloss=[[oregano]]|はなはっか}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=3986\n|shift=9496\n|jis=4776\n|euc=C7F6\n|skip=2-3-13\n|freq=1009\n|nelson=4075\n|newnelson=5225\n|halpern=2370\n|kld=1534\n|heisig=227\n|tuttle=3k13.11\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|すすき|dev=2|acc=0|acc_ref=NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ススキ}}\n\n# [[w:Miscanthus sinensis|Miscanthus sinensis]] [[a.k.a.]] Zebra Grass"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|すすき}}\n\n# {{given name|female|lang=ja|sort=すすき}}."
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|うす|prefix}}\n\n# [[light]] (pink etc.)"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

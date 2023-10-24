@@ -1,0 +1,44 @@
+{
+  "title": "羿",
+  "ns": 0,
+  "id": 24018,
+  "timestamp": 1502421102000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|羽|幵|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yì\n|c=ngai6\n|mc=y\n|oc=y\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|historical}} the name of a legendary [[archer]] (also called {{zh-l|*后羿}})\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|后羿射日|后羿}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

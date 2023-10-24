@@ -1,0 +1,117 @@
+{
+  "title": "下",
+  "ns": 0,
+  "id": 10389,
+  "timestamp": 1551923365000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|丅|卞}}\n{{character info/new}}\n<!-- may be replaced by zh-forms -->",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=一02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ\n|kanon=か\n|kun=した-, しも-, もと-, さ-がる, さ-げる, くだ-る, くだ-す, くだ-さる, お-りる, お-ろす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|閾%下|いき%か|subliminal}}\n* {{ja-r|下%限|か%げん}}\n* {{ja-r|下%弦|か%げん}}\n* {{ja-r|下%降|か%こう}}\n* {{ja-r|下%剋%上|げ%こく%じょう}}\n* {{ja-r|下%車|げ%しゃ}}\n* {{ja-r|下%種|げ%す|rom=-}}, {{ja-r|下%衆|げ%す|rom=-}}, {{ja-r|下%司|げ%す}}\n* {{ja-r|下%駄|げ%た}}\n* {{ja-r|下%痢|げ%り}}\n* {{ja-r|下%着|した%ぎ}}\n* {{ja-r|上%下%巻|じょう%げ%かん}}\n* {{ja-r|上%中%下%巻|じょう%ちゅう%げ%かん}}\n* {{ja-r|下%関|^しもの%せき}}\n* {{ja-r|靴%下|くつ%した|[[sock]]s}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|した|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|した|acc=0|dev=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|した}}\n\n# the [[below]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しも|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|しも|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しも}}\n\n# lower portion, end"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|もと|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|もと|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|もと}}\n\n# lower portion; base\n# under the influence of"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|げ|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|げ|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|か}}\n\n# under a situation"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|げ}}\n\n# the [[last]] [[volume]] in a two- or three-volume set"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|した]]\n[[Category:ja:Taxonomy|か]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "閲",
+  "ns": 0,
+  "id": 30452,
+  "timestamp": 1549030461000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|閱|阅}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=門07}} <!-- 閱 (U+95B1) is not the kyūjitai of 閲 (no JIS support) -->\n\n# to review [[manuscripts]]; to [[read]] attentively\n# to [[inspect]]; to [[censor]]; to [[review]] troops",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えち\n|kanon=えつ\n|kun=けみ-する, へ-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えつ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えつ|-}} {{ltc-l|閱}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えつ|acc=1|acc_ref=DJR|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えつ|kyu=閱}}\n\n# [[read]]; [[view]]; [[examine]]; [[inspect]]\n# [[pass]] (of time); [[elapse]]"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えつ|kyu=閱}}\n\n# {{lb|ja|literary}} [[viewing]]; [[reading]]; [[inspection]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

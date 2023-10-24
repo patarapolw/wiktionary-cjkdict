@@ -1,0 +1,64 @@
+{
+  "title": "跡",
+  "ns": 0,
+  "id": 27961,
+  "timestamp": 1552876218000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|迹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=足06}}\n\n# [[track]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃく\n|kanon=せき\n|kun=あと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|足跡|あしあと}}\n* {{ja-r|遺跡|いせき}}, {{ja-r|遺跡|ゆいせき}}\n* {{ja-r|奇跡|きせき}}: [[miracle]]\n* {{ja-r|形跡|けいせき}}\n* {{ja-r|史跡|しせき}}\n* {{ja-r|足跡|そくせき}}\n* {{ja-r|焼け跡|やけあと}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|あと|yomi=k}}\nCompound of {{compound|ja|sort=あと|足|tr1=a|t1=foot|所|tr2=to|t2=place}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|あと|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|迹}}, {{ja-l|址}}, {{ja-l|𫐤}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あと}}\n\n# a [[track]] or [[trace]]; evidence of something moving, such as [[footprint]]s from a living thing\n# [[remain]]s; [[ruin]]s"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

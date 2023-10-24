@@ -1,0 +1,34 @@
+{
+  "title": "讀",
+  "ns": 0,
+  "id": 27278,
+  "timestamp": 1553729634000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|读|読}}\n{{character info/new}}\n{{character info/new|0xf95a}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|読|讀}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=言15|shin=読}}\n\n# to [[read]]\n# (とう) phrase, [[clause]], part of a sentence, e.g. 読点 (lit. \"clause mark\", i.e. comma)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ず<づ, どく\n|kanon=とう, とく\n|kun=よ-む\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

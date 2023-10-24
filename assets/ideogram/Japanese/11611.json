@@ -1,0 +1,39 @@
+{
+  "title": "制",
+  "ns": 0,
+  "id": 11611,
+  "timestamp": 1533179152000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|製}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=刀06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せ\n|kanon=せい\n|kun=おさ-える\n|nanori=いさむ, おさむ, さだ, すけ, ただ, のり\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|せい|suffix}}\n\n# [[system]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

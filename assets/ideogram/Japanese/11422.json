@@ -1,0 +1,68 @@
+{
+  "title": "具",
+  "ns": 0,
+  "id": 11422,
+  "timestamp": 1553325620000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|真|俱|倶}}\n{{character info/new}}\n{{character info|0x2F811}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=八06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=く\n|kun=そな-える, そな-え, つぶさ-に\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|ぐ|counter}}\n\n# sets (armor, furniture)"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぐ}}\n\n# [[tool]]\n# [[means]]\n# {{lb|ja|cooking|sort=く}} [[secondary]] [[ingredient]], such as spices, seasonings, and sauces\n# [[base]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{l|ja|留め具}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|ぐ|suffix}}\n\n# tool, ingredient",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der5|lang=ja|{{ja-l|雨具}}\n|{{ja-l|淫具}}\n|{{ja-l|運動具}}\n|{{ja-l|絵具}}\n|{{ja-l|玩具}}\n|{{ja-l|家具}}\n|{{ja-l|不具}}\n|{{ja-l|金具}}\n|{{ja-l|革具}}\n|{{ja-l|機具}}\n|{{ja-l|器具}}\n|{{ja-l|弓具}}\n|{{ja-l|救命具}}\n|{{ja-l|兇具}}, {{ja-l|凶具}}\n|{{ja-l|教具}}\n|{{ja-l|漁具}}\n|{{ja-l|敬具}}\n|{{ja-l|刑具}}\n|{{ja-l|耕具}}\n|{{ja-l|香具}}\n|{{ja-l|校具}}\n|{{ja-l|工具}}\n|{{ja-l|拷問具}}\n|{{ja-l|祭具}}\n|{{ja-l|索具}}\n|{{ja-l|蚕具}}\n|{{ja-l|寝具}}\n|{{ja-l|治具}}\n|{{ja-l|船具}}\n|{{ja-l|装具}}\n|{{ja-l|喪具}}\n|{{ja-l|葬具}}\n|{{ja-l|装身具}}\n|{{ja-l|建具}}\n|{{ja-l|綱具}}\n|{{ja-l|道具}}\n|{{ja-l|忍具}}\n|{{ja-l|農具}}\n|{{ja-l|拝具}}\n|{{ja-l|馬具}}\n|{{ja-l|筆記具}}\n|{{ja-l|表具}}\n|{{ja-l|武具}}\n|{{ja-l|武装具}}\n|{{ja-l|仏具}}\n|{{ja-l|文具}}\n|{{ja-l|文房具}}\n|{{ja-l|法具}}\n|{{ja-l|防寒具}}\n|{{ja-l|防具}}\n|{{ja-l|民具}}\n|{{ja-l|夜具}}\n|{{ja-l|要具}}\n|{{ja-l|用具}}\n|{{ja-l|猟具}}\n|{{ja-l|具案}}\n|{{ja-l|具眼}}\n|{{ja-l|具現}}\n|{{ja-l|具合}}\n|{{ja-l|彫刻具座}}\n|{{ja-l|具象}}\n|{{ja-l|具申}}\n|{{ja-l|具足}}\n|{{ja-l|具体}}\n|{{ja-l|具陳}}\n|{{ja-l|具備}}\n|{{ja-l|具有}}\n|{{ja-l|具志堅}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Related terms",
+              "text": "* {{l|ja|具する}}\n* {{l|ja|具わる}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

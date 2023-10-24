@@ -1,0 +1,102 @@
+{
+  "title": "儂",
+  "ns": 0,
+  "id": 11300,
+  "timestamp": 1552572289000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|侬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanjitab|わし|yomi=kun}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=[[の]] (no), [[のう]] (nō)\n|kanon=[[どう]] (dō)\n|kanyoon=[[のん]] (non)\n|kun=[[わし]] (washi), [[かれ]] (kare)\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is seldom used in modern Japanese."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|わし}}\nContraction of {{m|ja|私|tr=watashi||I, me}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|わし|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|私}} {{qualifier|more common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|わし|pronoun}}\n\n# [[I]], [[me]] (used by the elderly)",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The term is generally only used by the elderly, and its use is often considered stereotypical of them. As such, it is frequently used in TV shows and comics to emphasize the age of characters.\n\nMore commonly spelled {{m|ja|私}}, or in [[kana#English|kana]] to make the reading explicit."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|かれ}}\nFrom {{etyl|ojp|ja|sort=かれ}}. Compound of {{suffix|ja|sort=かれ|彼|tr1=ka|t1=that, yon|れ|tr2=re|pos2=nominalizing suffix for demonstratives}}. Found in the [[w:Man'yōshū|''Man'yōshū'']] compiled around 759.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かれ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|彼}} {{qualifier|more common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronoun",
+                  "text": "{{ja-pos|pronoun|かれ}}\n\n# {{lb|ja|sort=かれ|rare}} third person pronoun: [[he]], [[she]]\n## particularly, male personal third person pronoun: [[he]]\n## by extension from ''he'': [[boyfriend]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Very rare spelling. See the more common spelling {{m|ja|彼}} for more details about the term."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "苓",
+  "ns": 0,
+  "id": 24833,
+  "timestamp": 1535672536000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸05}}\n\n# [[herb]], [[plant]]\n# [[mushroom]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りょう<りやう\n|kanon=れい<!--\n|toon=りん-->\n|kun=みみなぐさ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|猪%苓|チョ%レイ}}\n* {{ja-r|土%茯%苓|ど%ぶく%りょう}}\n* {{ja-r|茯%苓|ブク%リョウ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

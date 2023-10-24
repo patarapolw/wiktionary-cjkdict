@@ -1,0 +1,39 @@
+{
+  "title": "圸",
+  "ns": 0,
+  "id": 12986,
+  "timestamp": 1503621887000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=やま-, まま-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まま}}\n\n# [[cliff]]\n\n[[Category:Japanese-only CJKV Characters|土+03]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "球",
+  "ns": 0,
+  "id": 20772,
+  "timestamp": 1545110432000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|毬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=玉07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=きゅう<きう\n|kun=たま-\n|nanori=く\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|きゅう|yomi=o}}\nFrom {{etyl|ltc|ja|sort=きゅう}} {{m|zh|毬|tr=gjuw||ball, sphere, orb}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|きゅう|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きゅう|hhira=きう}}\n\n# [[sphere]]; [[globe]]; [[orb]]\n# {{lb|ja|baseball|sort=きゅう}} [[pitch]]\n# {{lb|ja|slang|electronics}} [[vacuum tube]], [[valve]]\n#: {{ja-usex|五%球スーパーラジオ|ご%きゅう スーパー ラジオ|five-tube [[superheterodyne receiver]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|たま|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|たま|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たま|kyu=毬}}\n\n# [[ball]]\n# [[bulb]] {{qualifier|as in a light bulb}}\n# {{lb|ja|sort=たま|slang|electronics}} [[vacuum tube]], [[valve]]\n#: {{ja-usex|球のアンプ|たま の アンプ|tube amplifier}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Geometry|きゅう]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

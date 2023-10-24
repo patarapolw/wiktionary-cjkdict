@@ -1,0 +1,37 @@
+{
+  "title": "乴",
+  "ns": 0,
+  "id": 10488,
+  "timestamp": 1511358914000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xué\n|c=zyut6\n|mc=\n|oc=\n|ma=\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|𢯳}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 62]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

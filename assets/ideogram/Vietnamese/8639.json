@@ -1,0 +1,39 @@
+{
+  "title": "神",
+  "ns": 0,
+  "id": 8639,
+  "timestamp": 1554132271000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa19}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=示05\n|hanviet=thần-tdcndg;tdcntd;gdhn\n|phienthiet=\n|nom=thần-tdcndg;tdcntd, thằn-tdcndg, thườn-gdhn\n}}\n\n# {{han tu form of|thần|[[deity]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=vi\n|{{vi-l|聖神|Thánh Thần|[[Holy Spirit]]}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

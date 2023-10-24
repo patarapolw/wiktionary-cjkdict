@@ -1,0 +1,39 @@
+{
+  "title": "祝",
+  "ns": 0,
+  "id": 22242,
+  "timestamp": 1553154208000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa51}}\n{{character info/new|㊗}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|祝|pic2=祝 kyuujitai.PNG}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=示05}}\n\n# [[celebrate]], [[congratulate]]\n# [[blessing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ, しゅく\n|kanon=しゅう, しゅく\n|kun=いわ-う\n|nanori=のりと, のり, ほぎ, ゆわい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|祝福|しゅくふく}}: a [[blessing]]\n* {{ja-r|祝印|しゅういん}}: a blessed seal or stamp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

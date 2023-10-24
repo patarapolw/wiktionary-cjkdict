@@ -1,0 +1,39 @@
+{
+  "title": "你",
+  "ns": 0,
+  "id": 10821,
+  "timestamp": 1553551513000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|妳|您|祢|儞}}\n{{character info/new}}\n{{character info|0x2F804}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人05}}\n\n# {{l|en|you}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=に\n|kanon=じ<ぢ\n|kun=なんじ-<なんぢ-, しか-り, そ-の, のみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is not used in modern Japanese.  It may appear as a {{m|ja|略字|tr=ryakuji||abbreviated character}} for {{m|ja|爾}}, itself only used in historical texts and not used in modern Japanese."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

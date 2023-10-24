@@ -1,0 +1,117 @@
+{
+  "title": "甲",
+  "ns": 0,
+  "id": 21108,
+  "timestamp": 1550285320000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|田|由|申|曱}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=田00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう<けふ\n|kanon=こう<かふ\n|kanyoon=かん\n|kun=よろい-<よろひ-, つめ, きのえ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|甲虫|こうちゅう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|こう|yomi=o}}\nFrom {{der|ja|ltc|tr=kæp|甲|sort=こう}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=1|y=ko|こう}}\n* {{hmp|lang=ja|鸛|公|爻|功|巧|交|行|劫|孝|更|抗|効|幸|庚|侯|紅|香|候|校|貢|項|項|綱|稿|蝗|蝗|薨|講|恋う|請う|乞う|恍|皎|斯う|sort=こう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こう|hhira=かふ}}\n\n# [[carapace]], [[shell]]\n# something [[A]]\n## [[first]] in [[rank]]\n## [[instep]] or the back of the hand\n## the first [[party]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{wp|lang=ja}}\n{{ja-pos|proper|こう}}\n\n# the first of the ten {{w|Celestial stem|Heavenly Stems}}\n\n{{topics|ja|Heavenly Stems|sort=こう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|よろい|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鎧}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=0|よろい|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|よろい|hhira=よろひ}}\n\n# armor"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|かん|yomi=kan}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=0|かん|y=ky}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かん}}\n\n# treble range"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|きのえ|yomi=k}}\n{{com|ja|木|の|兄|tr1=Ki|t1={{w|Wood (Wu Xing)|Wood}}|pos1=one of the {{w|Wu Xing|Five Elements}}|tr2=no|pos2=attributive marker|tr3=e|t3=[[elder brother]]|sort=きのえ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=0|y=k|きのえ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|きのえ}}\n\n# the first of the ten {{w|Celestial stem|Heavenly Stems}}\n\n{{cln|ja|words with multiple readings}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

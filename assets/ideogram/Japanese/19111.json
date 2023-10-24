@@ -1,0 +1,39 @@
+{
+  "title": "淳",
+  "ns": 0,
+  "id": 19111,
+  "timestamp": 1553555763000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水08}}\n\n# [[pure]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゅん\n|kanon=しゅん\n|kun=あつ-い, すなお-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-kanjitab|あつし}}\n{{ja-pos|proper|あつし}}\n\n# {{given name|male|lang=ja|sort=あつし}}\n\n{{ja-kanjitab|じゅん|yomi=o}}\n{{ja-pos|proper|じゅん}}\n\n# {{given name|male|lang=ja|sort=しゅん'}}\n\n{{ja-kanjitab|きよし}}\n{{ja-pos|proper|きよし}}\n\n# {{given name|male|lang=ja|sort=きよし}}\n\n[[Category:Japanese words with multiple readings]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

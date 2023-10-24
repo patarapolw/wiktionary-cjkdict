@@ -1,0 +1,49 @@
+{
+  "title": "氫",
+  "ns": 0,
+  "id": 18589,
+  "timestamp": 1534342508000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|氢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=氢}}\n{{elements|H|||氦|He|lang=zh}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|气|輕|ls=psc|ls2=ic|c1=s|c2=p|t1=air; gas|t2=light; of low density|abb2=y|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|輕|light; of low density}} in {{zh-l|輕氣}} {{defdate|19th c.}}. So named as hydrogen gas is lighter than air."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qīng\n|c=hing1\n|h=pfs=khîn\n|mn=kheng/khin\n|mn_note=kheng - literary; khin - vernacular\n|md=kĭng\n|w=1qin\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemistry}} [[hydrogen]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|氫彈|氫化物|氫氣|氫化|氫氧化物|氫氧焰|氫氰酸|氫爆|氯化氫|碳酸氫鹽|重氫|金屬氫|氰化氫}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

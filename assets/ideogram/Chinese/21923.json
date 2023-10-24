@@ -1,0 +1,56 @@
+{
+  "title": "砵",
+  "ns": 0,
+  "id": 21923,
+  "timestamp": 1528066038000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Meaning \"port\" of pronunciation 1 is borrowed from {{bor|zh|en|port}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=bō\n|c=but3\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|缽}}\n# Used in place names.\n# {{zh-div|酒}} {{lb|zh|Cantonese}} [[port]] {{gloss|wine}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|砵酒|砵蘭街|砵仔糕|砵甸乍|砵典乍街|派士砵|波砵|西砵|士砵恤|砵砵車|墨爾砵|士砵亭}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=è\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{uncertain|zh|nohypothesis=1}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

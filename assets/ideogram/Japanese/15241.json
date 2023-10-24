@@ -1,0 +1,128 @@
+{
+  "title": "影",
+  "ns": 0,
+  "id": 15241,
+  "timestamp": 1552572312000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=彡12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう\n|kanon=えい\n|kun=かげ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Unbound apophonic form of {{m|ja|影|tr=kaga}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かが}}\n\n# [[light]]\n# a shape or form reflected in light\n# a [[shadow]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|鏡|かがみ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かげ|yomi=k}}\n{{suffix|ja|影|tr1=kaga|い|tr2=i}} > kage. Bound apophonic form of {{m|ja|影|tr=kaga}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かげ|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かげ}}\n\n# [[shadow]]\n#: {{ja-usex|馬の'''影'''|うま の '''かげ'''|a '''shadow''' of a horse}}\n# a [[shape]] or form [[reflected]] in [[light]]\n# [[presence]]\n#: {{ja-usex|この町は'''影'''が薄い。|この まち は '''かげ''' が うすい。|This town's '''presence''' is little.}}\n# [[negative]] [[aspect]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|影%法師|かげ%ぼうし}}: [[silhouette]], [[shadow]]\n* {{ja-r|月影|つきかげ}}\n* {{ja-r|空影|そらかげ}}\n* {{ja-r|山影|やまかげ}}\n* {{ja-r|闇影|やみかげ}}\n* {{ja-r|日%影|ひ%かげ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|えい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|影}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えい|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えい}}\n\n# [[shadow]]\n# [[light]]\n# a [[shape]] or [[form]] [[reflect]]ed in [[light]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|暗影|あんえい}}: [[shadow]], [[gloom]]\n* {{ja-r|黒影|こくえい}}: [[silhouette]], [[dark]] shadow\n* {{ja-r|人影|じんえい}}: [[figure]]/[[shadow]] of a [[person]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|よう|yomi=goon}}\nFrom {{der|ja|ltc|sort=よう|-}} {{ltc-l|影}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|よう|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|よう}}\n\n# {{lb|ja|rare}} {{alternative form of|影|lang=ja|tr=ei}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|陰|かげ}}\n* {{ja-r|日%陰|ひ%かげ}}\n* {{ja-r|陰%影|いん%えい}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

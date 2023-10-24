@@ -1,0 +1,59 @@
+{
+  "title": "伊",
+  "ns": 0,
+  "id": 10651,
+  "timestamp": 1552402437000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い\n|kanon=い\n|kun=これ-, かれ-, ただ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=o}}\nFrom {{der|ja|ltc|-|sort=い}} {{ltc-l|伊}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|い|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|い}}\n\n# {{short for|伊太利||[[Italy]]|lang=ja|tr=Italia}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い}}\n\n# {{short for|伊太利||[[Italy]]|lang=ja|tr=Italia}}\n# {{short for|伊賀||[[Iga]]|lang=ja|tr=Iga}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

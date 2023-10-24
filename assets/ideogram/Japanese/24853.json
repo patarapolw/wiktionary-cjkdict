@@ -1,0 +1,211 @@
+{
+  "title": "苧",
+  "ns": 0,
+  "id": 24853,
+  "timestamp": 1552876161000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|苎|薴}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=艸05|kyu=薴}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょ<ぢよ\n|kanon=ちょ<ちよ\n|kanyoon=ま\n|kun=お-<を-, むし, からむし-, からんし-, こるむし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|お}}\n\n{{IPAchar|/wo/}} → {{IPAchar|/o/}}\n\nFrom {{inh|ja|ojp|sort=お|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|14|3484}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3484 here]</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|お}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|麻}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|お|hhira=を}}\n\n# [[hemp]] or [[ramie]]\n# [[thread]] made from the outer [[husk]] of the [[stem]]s of [[hemp]] or [[ramie]]\n# a [[textile]] made from this thread",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|苧の実%油|おのみ%あぶら}}: oil from the [[hemp]] or [[ramie]] seed\n* {{ja-r|苧%引き|お%ひき|rom=-}}, {{ja-r|苧%引|お%ひき}}: the [[process]] of [[pull]]ing the [[hemp]] or [[ramie]] [[fiber]]s from the [[husk]]\n* {{ja-r|苧%屋|お%や}}: a [[shop]] or [[store]] selling [[ramie]]\n* {{ja-r|桶|おけ}}: a [[tub]] or [[basin]]\n* {{ja-r|苧%桶|お%おけ}}: a [[tub]] or [[basin]] in which the collected [[hemp]] or [[ramie]] [[fiber]]s are placed\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|hemp}} {{ja-r|麻|あさ}}\n* {{sense|ramie}} {{ja-r|苧|からむし}}\n* {{sense|thread, in general}} {{ja-r|糸|いと}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|むし}}\n\nFrom {{inh|ja|ojp|sort=むし|-}}. Possibly the original name for the plant, or for the fiber from this plant. Possibly also cognate with {{cog|ain|モセ|tr=mose}}, {{m|ain|ムセ|tr=muse||[[nettle]] plant; [[bast]] [[fiber]] in general}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|むし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|枲}} {{qualifier|rare}}, {{ja-l|帔}} {{qualifier|rare}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|むし}}\n\n# {{lb|ja|sort=むし|obsolete}} old name for ''karamushi'': the [[ramie]] plant, {{taxlink|Boehmeria nivea var. nipononivea|variety|noshow=1}}\n# short for {{ja-r|帔|むしのたれぎぬ|rom=-}}, {{ja-r|枲の垂れ衣|むし の たれぎぬ}}, a kind of [[veil]] made of [[ramie]] and worn from the [[brim]] of a hat by women from the {{w|Heian period}} through the {{w|Kamakura period}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|からむし}}\n\nAppears to be a compound of {{compound|ja|sort=からむし|殻|tr1=kara|t1=husk|苧|tr2=mushi|t2=ramie fiber}}.\n\nSome sources suggest that the ''mushi'' component derives from {{m|ja|蒸し|tr=mushi||steaming}}, from verb {{m|ja|蒸す|tr=musu||to steam something; to be steamy or muggy}}. However, ramie is not processed using steam, so these are more likely to be [[folk etymology|folk etymologies]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|からむし|acc=2|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|苧麻}}, {{ja-l|紵}} {{qualifier|rare}}, {{ja-l|枲}} {{qualifier|rare}}, {{ja-l|葈}} {{qualifier|rare}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|からむし}}\n\n# the [[ramie]] plant, {{taxlink|Boehmeria nivea|species|noshow=1}} or {{taxlink|Boehmeria nipononivea|species|noshow=1}}\n# a [[thread]] made from the [[fiber]]s of this plant\n# a [[textile]] made from this thread\n#*: circa '''800''', ''Shibunritsu Ongi'' (page 47)<ref name=\"shibunritsu\">\n{{cite-book\n|last=Tsukishima\n|first=Hiroshi\n|title=Kojisho Ongi Shūsei 2: Shibunritsu Ongi\n|publisher=Kyūko Shoin\n|year_published=1979\n|page=47\n|year=circa 800\n|location=Tōkyō\n|lang=ja\n|isbn=4-7629-3089-X\n}}</ref>\n#*: 蒭麻衣 '''加良牟斯'''衣",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|苧%頭%巾|からむし% ず%きん}}: a {{m|ja|頭巾|tr=zukin||headcloth, bandana}} made from [[ramie]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|からんし}}\n\n{{IPAchar|/karamuɕi/}} → {{IPAchar|/karanɕi/}}\n\nAlteration from ''karamushi''. Rare and obsolete reading.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|からんし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|からんし}}\n\n# {{lb|ja|sort=からんし|rare|obsolete}} the [[ramie]] plant\n# {{lb|ja|sort=からんし|rare|obsolete}} a [[thread]] made from the [[fiber]]s of this plant\n# {{lb|ja|sort=からんし|rare|obsolete}} a [[textile]] made from this thread"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=k|こるむし}}\n\n{{IPAchar|/karamuɕi/}} → {{IPAchar|/korumuɕi/}}\n\nAlteration from ''karamushi''. Rare and obsolete reading.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|こるむし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こるむし}}\n\n# {{lb|ja|sort=こるむし|rare|obsolete}} the [[ramie]] plant\n# {{lb|ja|sort=こるむし|rare|obsolete}} a [[thread]] made from the [[fiber]]s of this plant\n# {{lb|ja|sort=こるむし|rare|obsolete}} a [[textile]] made from this thread\n#* circa '''800''', ''Shibunritsu Ongi'' (page 47)<ref name=\"shibunritsu\"/>\n#*: 纎麻衣 '''古流牟斯'''衣"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|yomi=kanyo|ま}}\n\nFrom {{der|ja|ltc|sort=ま|-}} {{ltc-l|薴}}, but read with the [[音読み#Japanese|''on'yomi'']] from {{m|ja|麻|tr=ma||hemp}}. Compare modern {{cog|cmn|苧|tr=zhù}}, {{m|cmn|麻|tr=má}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyo|ま}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|麻}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|ま}}\n\n# the [[ramie]] or [[hemp]] plant or fiber",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|苧%物|ま%もの}}: a [[rope]] or [[line]] made of [[hemp]] or [[ramie]] [[fiber]]\n* {{ja-r|苧%麻|ま%お}}: [[ramie]]; a kind of [[thread]] made from [[ramie]]; {{qualifier|slang}} [[adultery]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 7",
+              "text": "{{ja-kanjitab|yomi=o|ちょ}}\n\nFrom {{der|ja|ltc|sort=ちょ|-}} {{ltc-l|薴}}. Compare modern {{cog|cmn|苧|tr=zhù}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ちょ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|ちょ}}\n\n# the [[ramie]] or [[hemp]] plant or fiber",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|苧%麻|ちょ%ま}}: [[hemp]] or [[ramie]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

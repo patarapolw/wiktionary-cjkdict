@@ -1,0 +1,39 @@
+{
+  "title": "忄",
+  "ns": 0,
+  "id": 15323,
+  "timestamp": 1549978308000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|心|㣺}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xīn\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{n-g|radical form of {{l|zh|心}}.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Only used as a component in a character. Referred to as {{zh-l|豎心旁}} 'standing heart radical'."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

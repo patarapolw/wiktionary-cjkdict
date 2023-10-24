@@ -1,0 +1,44 @@
+{
+  "title": "鵄",
+  "ns": 0,
+  "id": 32588,
+  "timestamp": 1541915903000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥06}}\n\n# {{defn|lang=ja|sort=鳥06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=とび-, ふくろう-<ふくろふ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|とび}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とび|トビ}}\n\n# {{altspell|lang=ja|鳶}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

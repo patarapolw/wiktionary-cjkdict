@@ -1,0 +1,32 @@
+{
+  "title": "族",
+  "ns": 0,
+  "id": 16888,
+  "timestamp": 1546174563000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{head|vi|Han tu|sc=Hant}}{{attention|vi|may need inflection template}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{vi-hantu|tộc|rs=方07|pos=noun}}\n\n# [[family]], [[clan]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

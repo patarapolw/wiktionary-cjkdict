@@ -1,0 +1,39 @@
+{
+  "title": "焚",
+  "ns": 0,
+  "id": 20003,
+  "timestamp": 1541930744000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火08}}\n\n# {{defn|lang=ja|sort=火08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ふん\n|kun=た-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* {{ja-r|焚き付ける|たきつける}}\n* {{ja-r|焚く|たく}}\n* {{ja-r|焚火|たきび}}\n* {{ja-r|焚書|ふんしょ}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

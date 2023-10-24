@@ -1,0 +1,80 @@
+{
+  "title": "高",
+  "ns": 0,
+  "id": 31878,
+  "timestamp": 1552579086000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|髙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|髙}}"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=高00}}\n\n# [[tall]]\n# [[high]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<かう\n|kanon=こう<かう\n|kun=たか-, たか-い, たか-まる, たか-める, たか-さ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|たか|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|たか|acc=2|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たか}}\n\n# [[maximum]], the [[limit]]\n#* [[高が知れている]]\n#* [[高を括る]]\n#* [[高々]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|丈|たけ}}\n* {{ja-r|岳|たけ}}, {{ja-r|嶽|たけ}}\n* {{ja-r|長ける|たける}}\n* {{ja-r|高い|たかい}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|こう|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|こう|prefix}}<ref>{{cite-book|year=2005|title=Luminous Japanese-English Dictionary|edition=second|editors=Yoshiro Kojima, Shigeru Takebayashi, Keisuke Nakao, and Hideo Masuda|publisher=Kenkyusha}}</ref>\n\n# [[high]], higher\n#: {{ja-usex|高学歴|こう-がくれき|high academic achievement; higher education}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "簿",
+  "ns": 0,
+  "id": 23005,
+  "timestamp": 1510216220000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=竹13}}\n\n# register, record book",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶ, ばく\n|kanon=ほ, はく\n|kanyoon=ぼ\n|kun=ちょうめん, しゃく\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鹵簿|ろぼ|[[imperial]] [[procession]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

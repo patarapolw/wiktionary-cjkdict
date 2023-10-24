@@ -1,0 +1,56 @@
+{
+  "title": "綱",
+  "ns": 0,
+  "id": 23405,
+  "timestamp": 1552931527000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|纲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=糸08}}\n\n# {{defn|lang=ja|sort=糸08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう\n|kanon=こう\n|kun=つな-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|つな|yomi=k}}\n\nFrom {{inh|ja|jpx-pro|*tuna}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つな|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つな}}\n\n# [[rope]]\n# [[tsuna]]; ceremonial [[sumo]] belt"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{attention|ja|has Taxonomy category but is missing actual taxonomical definition 06:22, 23 August 2017 (UTC)}}\n\n[[Category:ja:Taxonomy|こう]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

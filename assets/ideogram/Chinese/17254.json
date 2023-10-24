@@ -1,0 +1,42 @@
+{
+  "title": "朥",
+  "ns": 0,
+  "id": 17254,
+  "timestamp": 1536789391000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𦛨}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=láo\n|c=lou4\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[consumption]]; [[tuberculosis]]\n# {{lb|zh|dialectal}} [[fat]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|朥餅|朥糕}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://www.cns11643.gov.tw/AIDB/query_general_view.do?page=3&code=6633 Chinese National Standards (Master Ideographs Seeker for CNS 11643)]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

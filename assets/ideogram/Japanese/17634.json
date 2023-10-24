@@ -1,0 +1,58 @@
+{
+  "title": "梏",
+  "ns": 0,
+  "id": 17634,
+  "timestamp": 1553552880000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=木07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=こく, かく\n|kun=てかせ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|梏桎|こくしつ}}: [[manacles]] and [[shackles]]\n* {{ja-r|桎梏|しっこく}}: [[shackles]] and [[manacles]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Alteration from older form てかし, itself a compound of {{m|ja|手||hand|tr=te}} + {{m|ja|架す||to bridge, to join two sides|tr=kasu}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "# [[manacles]], [[handcuffs]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This kanji is seldom used to spell the word てかせ. More common spellings include:\n* {{l|ja|手枷}}\n* {{l|ja|手械}}\n* {{l|ja|手桎}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

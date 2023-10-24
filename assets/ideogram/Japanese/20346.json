@@ -1,0 +1,39 @@
+{
+  "title": "牧",
+  "ns": 0,
+  "id": 20346,
+  "timestamp": 1507155907000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|攼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=牛04}}\n\n# to [[herd]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もく\n|kanon=ぼく\n|kun=まき-, か-う, やしな-う\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|まき}}\n\n# {{surname|lang=ja|sort=まき}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

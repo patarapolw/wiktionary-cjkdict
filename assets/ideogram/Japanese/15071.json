@@ -1,0 +1,49 @@
+{
+  "title": "廓",
+  "ns": 0,
+  "id": 15071,
+  "timestamp": 1544101673000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xFA0B}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=广11}}\n\n# {{defn|lang=ja|sort=广11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かく\n|kanon=かく\n|kun=とりで, くるわ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[外廓]]\n* [[廓大]]\n* [[輪廓]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|くるわ|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くるわ}}\n\n# {{alternative spelling of|lang=ja|曲輪}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

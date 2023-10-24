@@ -1,0 +1,39 @@
+{
+  "title": "稍",
+  "ns": 0,
+  "id": 22419,
+  "timestamp": 1553563241000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾07}}\n\n# {{defn|lang=ja|sort=禾07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<せう\n|kanon=そう<さう\n|kun=やや-, ようや-く\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adverb",
+              "text": "{{ja-pos|adverb|やや}}\n\n# [[slightly]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "櫑",
+  "ns": 0,
+  "id": 18236,
+  "timestamp": 1520762412000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=木15}}\n\n# {{defn|lang=ja|sort=木15}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らい\n|kanon=らい\n|kun=さか-だる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|櫑子|らいし}}\n* {{ja-r|櫑茶|るいざ|a [[container]] for [[tea]] with a [[dotted]] [[neck]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

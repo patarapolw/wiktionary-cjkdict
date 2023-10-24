@@ -1,0 +1,39 @@
+{
+  "title": "瘤",
+  "ns": 0,
+  "id": 21361,
+  "timestamp": 1531129577000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=疒10}}\n\n# [[bump]]\n# [[swelling]] or [[tumor]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=る\n|kanon=りゅう<りう\n|kun=こぶ-\n|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こぶ}}\n\n# [[lump]] or [[bump]] on the skin\n# [[knot]] in a tree\n# someone [[in the way]]\n# a [[child]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

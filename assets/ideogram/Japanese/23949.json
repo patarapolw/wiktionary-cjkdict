@@ -1,0 +1,56 @@
+{
+  "title": "羊",
+  "ns": 0,
+  "id": 23949,
+  "timestamp": 1553130614000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanjitab|ひつじ|yomi=k}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=羊00}}\n\n# [[sheep]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう, じょう\n|kanon=よう, しょう\n|kun=ひつじ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|yomi=k|ひつじ}}\n{{swp|lang=ja|ヒツジ}}\n{{ja-pron|ひつじ|acc=0|dev=1|acc_ref=NHK,DJR,SMK5|y=k}}\n** {{hmp|sort=ひつじ|未|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひつじ|ヒツジ}}\n\n# a [[sheep]] {{gl|animal}}\n#* {{quote-book|||{{lj|[Starter Box](スターターボックス)}}\n|||date=Mar 6 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|スリーピィ}}\n|trans-chapter=Sleepie}}\n#*: {{ja-usex|しっぽの長い'''ひつじ'''。しっぽを使い催%眠%術をかけ、睡%魔を誘う。|しっぽ の ながい '''ひつじ'''。しっぽ を つかい さい%みん%じゅつ を かけ、すい%ま を さそう。|A sheep that will mesmerize you to sleep with its long tail.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|未|ひつじ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|sort=ひつじ}}\n{{C|ja|Sheep|sort=ひつじ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

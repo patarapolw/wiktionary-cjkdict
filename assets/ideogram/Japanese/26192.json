@@ -1,0 +1,39 @@
+{
+  "title": "螢",
+  "ns": 0,
+  "id": 26192,
+  "timestamp": 1536379594000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|萤|蛍}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|蛍|螢}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫10|shin=蛍}}\n\n# [[firefly]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<ぎやう\n|kanon=けい<けい<くゑい\n|kun=ほたる-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|ほたる|yomi=k}}\n{{ja-noun|ほたる|ホタル}}\n\n# {{alternative form of|蛍|lang=ja}}: a [[firefly]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

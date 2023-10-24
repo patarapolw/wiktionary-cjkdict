@@ -1,0 +1,56 @@
+{
+  "title": "手",
+  "ns": 0,
+  "id": 15973,
+  "timestamp": 1554090060000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|🈐|爪|寸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{attention|ja|missing the sense as a suffix meaning [[-er]] as in [[運転手]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=手00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ<しゆ, す\n|kanon=しゅう<しう\n|kanyoon=ず\n|kun=て-, た-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* [[手紙]]\n* [[手袋]]\n* [[相手]]\n{{der-mid}}\n* [[切手]]\n* [[お手許]], [[お手元]], [[御手許]], [[御手元]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|て}}\n\n# [[hand]]\n# [[handle]]\n# [[paw]], [[foreleg]]\n# [[way]] of doing something, [[means]]\n#: {{ja-usex|その'''手'''が[[ある|あっ]]たか。|その '''て''' が あった か。|You could do it that '''way''' too?}}\n#: {{ja-usex|[[買う]]のも[[一つ]]の'''手'''である。|かう の も ひとつ の '''て''' で ある。|Another thing you could do is buy it.}}\n# {{lb|ja|sort=て|board games}} a [[move]]; a [[play]]\n#* {{quote-book|||{{w2|ja|ヒカルの碁}}\n||54\n|last=Hotta\n|first=Yumi\n|authorlink=Yumi Hotta\n|coauthors={{w|Takeshi Obata|Obata, Takeshi}}\n|chapter={{ruby|{{lang|ja|[第](だい)131[局](きょく)　[試](ため)される[伊](い)[角](すみ)}}}}\n|trans-chapter=Game 131: Isumi’s Endeavor\n|trans-title={{w|Hikaru no Go|Hikaru’s Go}}\n|genre=fiction\n|lang=ja\n|location=Tokyo\n|publisher=Shueisha\n|date=Mar 9 2002\n|volume=16\n|isbn=4-08-873232-4}}\n#*: {{ja-usex|まだそんな'''手'''が残ってた——投%了は早すぎた|^まだ そんな '''て''' が のこってた—— ^とう%りょう は はやすぎた|There’s still that move—— I gave up too soon}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|て}}\n\n# one who does something; [[-ist]]; [[-er]]\n#: {{ja-usex|[[語り手|語り'''手''']]|かたり'''て'''|speak'''er'''}}\n#: {{ja-usex|[[使い手|使い'''手''']]|つかい'''て'''|us'''er'''}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|手|しゅ}}, {{ja-r|者|もの}}, {{ja-r|者|しゃ}}, {{ja-r|屋|や}}\n\n[[Category:Japanese basic words|て]]\n[[Category:ja:Anatomy|て]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

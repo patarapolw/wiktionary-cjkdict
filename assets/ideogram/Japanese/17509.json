@@ -1,0 +1,51 @@
+{
+  "title": "栓",
+  "ns": 0,
+  "id": 17509,
+  "timestamp": 1505887025000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=木06}}\n\n# {{defn|lang=ja|sort=木06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kun=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|コルク栓|コルク せん}}: [[cork]] (bottle stopper)\n* {{ja-r|消火栓|しょうかせん}}: (firefighting) [[fire hydrant]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|せん|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せん}}\n\n# [[stopper]]; [[cork]]; [[bung]]; [[plug]]\n#: {{ja-usex|'''栓'''抜き|'''せん'''ぬき|corkscrew; bottle opener}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

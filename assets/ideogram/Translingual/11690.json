@@ -1,0 +1,44 @@
+{
+  "title": "劄",
+  "ns": 0,
+  "id": 11690,
+  "timestamp": 1550897540000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|札|剳|箚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China (based on {{w|GB 18030}} encoding standard), Japanese {{w|kanji}} and Vietnamese [[Nôm]], the left component is {{l|mul|答}}.\n* In Taiwan, Hong Kong and Macau (based on {{w|Big5}} encoding standard), the bottom component is {{l|mul|㓣}}, which is the orthodox form found in the {{w|Kangxi dictionary}}. Note that this form is identical with that of {{l|mul|箚}} (<code>U+7B9A</code>).\n* Due to {{w|Han unification}}, this character will appear differently depending on the font used."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "* {{Han char|rn=18|rad=刀|as=12|sn=14|four=82600|canj=HRLN,XHRLN|ids=⿰答刂(GJV)}}\n* {{Han char|rn=118|rad=竹|as=08|sn=14|four=88623,88602|canj=HORN|ids=⿱𥫗㓣(HT)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[札]]}} ''(Orthodox form of ''{{l|mul|剳}}, <font size=4, lang=zh-Hans>劄</font>'' in mainland China)''\n* {{l|mul|[[剳]]}} ''({{w|Variant Chinese character|Variant form}} of {{l|mul|札}} in mainland China. Variant form of ''<font size=4, lang=zh-Hant>劄</font>'' in Taiwan)'' <!-- Refer https://www.moedict.tw/剳 -->\n* {{l|mul|[[箚]]}} ''(Orthodox form based on {{w|Kangxi dictionary}}. Also a duplicate of the form used in Taiwan, Hong Kong and Macau for this character)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0144.261|dj=0325.080|hdz=10356.030|uh=5284}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

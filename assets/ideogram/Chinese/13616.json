@@ -1,0 +1,90 @@
+{
+  "title": "妗",
+  "ns": 0,
+  "id": 13616,
+  "timestamp": 1552128292000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|女|今|ls=psc|c1=s|c2=p|t1=woman}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}\nFusion of {{ltc-l|舅母}} ({{zh-ref|Schuessler, 2007}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jìn\n|c=kam5\n|c-t=kim4\n|j=jing3\n|md=gêng\n|mn=xm,zz,tp,kh,tn,tc,hc,sx,yl,km,mg,pn:kīm/qz,lk:kǐm\n|mn-t=gim6\n|w=3jjin\n|oc=4\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|regional}} [[wife]] of [[mother]]'s [[brother]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|舅母}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|妗母|阿妗:a-kīm|妗婆|母妗|妗仔|大妗|妗子|大妗子}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xiān\n|mc=2+1\n|oc=3+2\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used in|𡝫妗}}\n# {{zh-hist-ghost}} [[beautiful]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xiān\n|mc=3\n|oc=1\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hist-ghost}} [[joyous]]\n# {{zh-hist-ghost}} {{lb|zh|of a woman}} [[frivolous]]\n\n{{zh-cat|Family}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

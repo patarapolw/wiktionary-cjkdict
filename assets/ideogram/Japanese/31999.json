@@ -1,0 +1,39 @@
+{
+  "title": "鬯",
+  "ns": 0,
+  "id": 31999,
+  "timestamp": 1550920552000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鬯00}}\n\n# [[herb]]s\n# [[sacrificial]] wine",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう\n|kanon=ちょう\n|kun=の-びる, においざけ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[鬯酒]]\n* [[鬯浹]]\n* [[鬯人]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

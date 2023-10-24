@@ -1,0 +1,64 @@
+{
+  "title": "句",
+  "ns": 0,
+  "id": 12066,
+  "timestamp": 1547813473000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|可|旬|勾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=口02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=く, こう\n|nanori=すく\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|一%句|いっ%く}}\n* {{ja-r|句%読%点|く%とう%てん}}\n* {{ja-r|語%句|ご%く}}\n* {{ja-r|聖%句|せい%く}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|く}}\nFrom {{etyl|ltc|ja|sort=く}} {{m|zh|句|tr=kju<sup>H</sup>||phrase}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|く|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|く}}\n\n# a [[short]] [[section]] from a longer [[text]]:\n## a [[phrase]] or [[clause]]\n## a [[sentence]] or [[line]]\n## a [[passage]] or [[paragraph]]\n## a [[verse]] from a [[song]]\n## a [[stanza]] from a [[poem]]"
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|counter|く}}\n\n# {{non-gloss definition|[[counter]] for [[stanza]]s from a [[poem]] or for [[haiku]]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

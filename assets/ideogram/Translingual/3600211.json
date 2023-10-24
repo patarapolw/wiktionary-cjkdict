@@ -1,0 +1,39 @@
+{
+  "title": "㶷",
+  "ns": 0,
+  "id": 3600211,
+  "timestamp": 1520808072000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0x2420e}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=06|sn=10|canj=FPA|ids=⿰火旬}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Unicode encoded a duplicate of this character, {{lang|mul|𤈎}} (<code>U+2420E</code>), by mistake."
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0671.081|uh=3DB7}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

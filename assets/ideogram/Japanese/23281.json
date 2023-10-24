@@ -1,0 +1,61 @@
+{
+  "title": "組",
+  "ns": 0,
+  "id": 23281,
+  "timestamp": 1553563454000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|组}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=糸05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す\n|kanon=そ\n|on=しょ\n|kun=く-み, くみ-, くみひも, く-む\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|くみ}}\n{{ja-kanjitab|yomi=k|く|o1=み}}\nContinuative form of  {{m|ja|組む|tr=kumu||to [[assemble]]}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=2|y=k|くみ}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くみ}}\n\n# [[class]], [[group]], [[team]], [[set]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{s|class}} {{ja-r|クラス}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|ぐみ|suffix}}\n\n# [[class]], [[group]], [[team]], [[set]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

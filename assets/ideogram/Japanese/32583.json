@@ -1,0 +1,39 @@
+{
+  "title": "鴿",
+  "ns": 0,
+  "id": 32583,
+  "timestamp": 1543059810000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鸽}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥06}}\n\n# [[dove]]\n# temple pigeon",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<こふ \n|kanon=こう<かふ\n|kun=はと-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|はと|yomi=k}}\n{{ja-noun|はと|ハト}}\n\n# {{alternative spelling of|鳩|lang=ja||[[pigeon]]; [[dove]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

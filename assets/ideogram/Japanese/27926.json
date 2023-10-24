@@ -1,0 +1,51 @@
+{
+  "title": "趾",
+  "ns": 0,
+  "id": 27926,
+  "timestamp": 1513240985000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=足04}}\n\n# [[toe]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=し\n|kun=あしゆび-, あと-, もと\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|あしゆび}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あしゆび|yomi=k}}\n\n# {{lb|ja|anatomy|sort=あしゆび}} [[toe]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|足指}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "title": "株",
+  "ns": 0,
+  "id": 17532,
+  "timestamp": 1529580654000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=木06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちゅう\n|kanon=ちゅう\n|kanyoon=しゅ\n|kun=かぶ-\n}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|かぶ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かぶ|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かぶ}}\n\n# [[stump]] of a tree\n# [[stock]] (in a company)\n# [[share]](s) of stock"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|かぶ}}\n\n# Abbreviation for {{ja-r|株式会社|かぶしき がいしゃ|stock company}}; [[inc.]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Coordinate terms",
+                      "text": "* {{ja-r|社|しゃ}}: [[co.]]\n* {{ja-r|有|ゆう}}: [[Ltd.]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しゅ|yomi=kanyoon}}\nFrom {{etyl|ltc|ja|sort=しゅ}} {{m|zh|株|tr=trju}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyoon|しゅ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しゅ}}\n\n# [[stump]] of a tree",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|岩株|がんしゅ}}\n* {{ja-r|雌雄異株|しゆういしゅ}}\n* {{ja-r|雌雄同株|しゆうどうしゅ}}\n* {{ja-r|雌雄別株|しゆうべっしゅ}}\n* {{ja-r|守株|しゅしゅ}}\n* {{ja-r|株を削り根を掘る|しゅ を けずり ね を ほる}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "骨",
+  "ns": 0,
+  "id": 31828,
+  "timestamp": 1546866960000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|骨|骨|骨|骨}}\n{{stroke order|type=ganimate}}\n{{stroke order|type=tanimate}}\n{{stroke order|type=janimate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In {{w|traditional Chinese}} (Hong Kong, Taiwan and Macau), Japanese {{w|kanji}} and Korean {{w|hanja}}, the inner component on the top of the character is positioned to the right (<font size=4>◲</font>) (<font size=5, lang=Hani>[[⾻#Translingual|⾻]]</font>), which is the orthodox form found in the historical {{w|Kangxi dictionary}}.\n* In mainland China (based on {{w|Xin Zixing}} standardized form {{w2|zh|新字形}}) and Vietnamese [[Nôm]], the inner component on the top of the character is positioned to the left (<font size=4>◱</font>) (<font size=5, lang=zh-hans>[[⻣#Translingual|⻣]]</font>).\n* In mainland China, Japanese {{w|kanji}}, Korean {{w|hanja}} and Vietnamese [[Nôm]], the bottom component is written in the form of <font size=5>[[⺝#Translingual|⺝]]</font> (similar to {{l|mul|月}} but the leftmost stroke is vertical {{l|mul|丨}} and not curved {{l|mul|丿}}), which is the orthodox form found in the {{w|Kangxi dictionary}}.\n* In {{w|traditional Chinese}} used in Taiwan, Hong Kong and Macau (based on {{w|Big5}} standard), the bottom component is written in the form of <font size=5>[[⺝#Translingual|⺼]]</font> (meat radical, similar to {{l|mul|月}} where the leftmost stroke is curved {{l|mul|丿}} but the two horizontal strokes enclosed within are written are written {{l|mul|冫}} instead).\n* Due to {{w|Han unification}}, this character will appear to be different depending on the fonts available:\n** Hong Kong, Taiwan and Macau: <font size=5, lang=zh-hant>骨</font>; Mainland China: <font size=5, lang=zh-hans>骨</font>; Japan and Korea: <font size=5, lang=ja>骨</font>."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=188|rad=骨|as=00|sn=10|snm++=9|four=77227|canj=BBB|ids=⿳◱冖⺝(GV),⿳◲冖⺼(HT),⿳◲冖⺝(JK)}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|Index:Chinese radical/骨}}\n* {{l|mul|[[傦]], [[嗗]], [[尳]], [[愲]], [[搰]], [[滑]], [[猾]], [[磆]], [[縎]]([[𦈔]]), [[螖]], [[餶]]([[馉]]), [[䱻]]([[𮬡]]), [[𪄥]], [[䯉]], [[顝]], [[鶻]]([[鹘]]), [[蓇]]}} <!-- Characters not found under Radical Index for 骨 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{wikidata|Q54911582}}\n{{Han ref|kx=1447.250|dkj=45098|dj=1973.070|hdz=74406.010|uh=9AA8}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

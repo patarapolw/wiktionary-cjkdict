@@ -1,0 +1,44 @@
+{
+  "title": "孒",
+  "ns": 0,
+  "id": 14068,
+  "timestamp": 1553548221000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=子00}}\n\n# {{defn|lang=ja|sort=子00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かち\n|kanon=けつ\n|kanyoon=きょう<きよう\n|on=く, くつ\n|kun=ぼうふら-, みじか-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|孑孒|ぼうふら|[[mosquito]] [[larva]]}}\n* {{ja-r|孑孑|ぼうふら}}, {{ja-r|孑%孑|けつ%けつ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* The Kanji Jiten entry has an odd kun-reading: {{ja-r|ひだりのうでがない|ひだり の うで が ない|missing one's left arm}}, referencing the kanji character's appearance. Compare from Chinese, above."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "杙",
+  "ns": 0,
+  "id": 17311,
+  "timestamp": 1507417230000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[よく]] (yoku)|kun=[[くい]] (kui)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くい}}\n\n# [[stake]], [[post]], [[picket]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|杭}}\n* {{l|ja|株}}\n\n{{ja-noun|くいぜ|hhira=くいせ}}\n\n* {{l|ja|stump}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|杭}}\n* {{l|ja|株}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

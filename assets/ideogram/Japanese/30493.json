@@ -1,0 +1,39 @@
+{
+  "title": "關",
+  "ns": 0,
+  "id": 30493,
+  "timestamp": 1553570461000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|関|关}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|関|關}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=門11|shin=関}}\n\n# a [[pass]], such as in a [[mountain range]]\n# [[relation]], [[relationship]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けん<くゑん\n|on=かん<くわん\n|kun=かか-わる, かかわ-る, せき-\n|nanori=からくり, かんぬき\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Not used in modern Japanese. [[superseded|Superseded]] by the [[新字体#Japanese|shinjitai]] character {{m|ja|関}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

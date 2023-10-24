@@ -1,0 +1,44 @@
+{
+  "title": "独",
+  "ns": 0,
+  "id": 20478,
+  "timestamp": 1546557548000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|獨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|独|獨}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=犬06|kyu=獨}}\n\n# [[solo]], [[monad]]\n# [[single]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どく\n|kanon=とく\n|kun=ひと-り\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|独%語|どく%ご}}\n* {{ja-r|数独|すうどく}}\n* {{ja-r|独楽|こま}}\n* {{ja-r|独学|どくがく}}\n* {{ja-r|独%自|どく%じ}}\n* {{ja-r|独唱|どくしょう}}\n{{mid3}}\n* {{ja-r|独身|どくしん}}\n* {{ja-r|独善|どくぜん}}\n* {{ja-r|独走|どくそう}}\n* {{ja-r|独創|どくそう}}\n* {{ja-r|独奏|どくそう}}\n* {{ja-r|独断|どくだん}}\n{{mid3}}\n* {{ja-r|独特|どくとく}}\n* {{ja-r|独立|どくりつ}}\n* {{ja-r|独立%独歩|どくりつ%どっぽ}}\n* {{ja-r|孤%独|こ%どく}}\n* {{ja-r|単独|たんどく}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|どく}}\n\n# {{abbreviation of|独逸|lang=ja|nodot=1}} (\"[[Germany]]\")"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

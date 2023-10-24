@@ -1,0 +1,119 @@
+{
+  "title": "有",
+  "ns": 0,
+  "id": 17227,
+  "timestamp": 1552867588000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|肴|右|🈶}}\n{{character info/new}}\n{{character info/new|🈶}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{stroke order|type=janimate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=月02}}\n\n# [[exist]]\n# get to exist; [[appear]]\n# [[keep]]; [[maintain]]\n# [[existence]]; [[belonging]]\n# someone did certain thing\n# [[possess]]\n# [[have]]\n# [[happen]]\n# [[occur]]\n# [[approximately]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=ゆう<いう\n|kun=あ-る, も-つ, たも-つ\n|nanori=あり, すみ, たもつ, とお, とも, なお, なり, みち, もち, り\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|有%明|あり%あけ}}\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|有る|ある}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ゆう|yomi=kanon}}\nFrom {{der|ja|ltc|sort=ゆう|-}} {{ltc-l|有}}. The sense “and, with a remainder of” is from {{der|ja|ltc|sort=ゆう|-}} {{zh-l|*有}} / {{ltc-l|又}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|ゆう|acc=1|acc_ref=DJR|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|ゆう|hhira=いう}}\n\n# [[exist]]\n# [[have]]; [[possess]]; [[own]]\n# {{lb|ja|between numbers}} [[and]]; with a [[remainder]] of",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|有%余|ゆう%よ}}\n* {{ja-r|有%意|ゆう%い}}\n* {{ja-r|有%為|ゆう%い}}\n* {{ja-r|有%職|ゆう%しょく}}\n* {{ja-r|有%識|ゆう%しき}}\n* {{ja-r|有%益|ゆう%えき}}\n* {{ja-r|有%縁|ゆう%えん}}\n* {{ja-r|有%休|ゆう%きゅう}}\n* {{ja-r|有%窮|ゆう%きゅう}}\n* {{ja-r|有%功|ゆう%こう}}\n* {{ja-r|有%徳|ゆう%とく}}\n* {{ja-r|有%名%無%実|ゆう%めい%む%じつ}}\n* {{ja-r|有%事|ゆう%じ}}\n* {{ja-r|有%能|ゆう%のう}}\n* {{ja-r|有%機|ゆう%き}}\n* {{ja-r|有%識%者|ゆう%しき%しゃ}}\n* {{ja-r|有%終|ゆう%しゅう}}\n* {{ja-r|有%情|ゆう%じょう}}\n* {{ja-r|有%色|ゆう%しょく}}\n* {{ja-r|有%身|ゆう%しん}}\n* {{ja-r|有%限|ゆう%げん}}\n* {{ja-r|有%恒|ゆう%こう}}\n* {{ja-r|有%効|ゆう%こう}}\n* {{ja-r|有%司|ゆう%し}}\n* {{ja-r|有%数|ゆう%すう}}\n* {{ja-r|有%職%故%実|ゆう%そく%こ%じつ}}\n* {{ja-r|有%望|ゆう%ぼう}}\n* {{ja-r|有%名|ゆう%めい}}\n* {{ja-r|有%徳%人|ゆう%とく%じん}}\n* {{ja-r|有%用|ゆう%よう}}\n* {{ja-r|有%利|ゆう%り}}\n* {{ja-r|有%理|ゆう%り}}\n* {{ja-r|有%理%数|ゆう%り%すう}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ゆう|hhira=いう}}\n\n# [[existence]]\n# [[possession]]\n# {{lb|ja|Buddhism}} {{synonym of|有|lang=ja|tr=u}}\n# {{short for|有限会社||[[limited company]]|lang=ja|tr=yūgengaisha}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|う|yomi=goon}}\nFrom {{der|ja|ltc|sort=う|-}} {{ltc-l|有}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|う|acc=1|acc_ref=DJR|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|う}}\n\n# [[exist]]\n# {{lb|ja|Buddhism}} {{rfdef|ja}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|有%卦|う%け}}\n* {{ja-r|有%象%無%象|う%ぞう%む%ぞう}}\n* {{ja-r|有%頂%天|う%ちょう%てん}}\n* {{ja-r|有%無|う%む}}\n* {{ja-r|有%耶%無%耶|う%や%む%や}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|う}}\n\n# {{lb|ja|Buddhism}} {{rfdef|ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|なお}}\n\n# {{given name|female|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese female given names|なお]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

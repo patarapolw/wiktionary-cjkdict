@@ -1,0 +1,39 @@
+{
+  "title": "貨",
+  "ns": 0,
+  "id": 27612,
+  "timestamp": 1551866574000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|货|賃|貸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=貝04}}\n\n# [[currency]]\n# [[goods]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か<くわ\n|kanon=か<くわ\n|kun=たから-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|硬貨|こうか}}: [[coins]]\n* {{ja-r|貨幣|かへい}}: [[currency]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "鈨",
+  "ns": 0,
+  "id": 29301,
+  "timestamp": 1536380095000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金04}}\n\n# {{defn|lang=ja|sort=金04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=はばき-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "[[File:Tanka-p1010065.jpg|thumb|250px|{{lang|ja|鈨}} (''habaki'')]]\n{{ja-kanjitab|はばき|yomi=k}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はばき}}\n\n# {{alternative form of|lang=ja|鎺}}: [[habaki]]: a [[metal]] [[collar]] mounted in between a [[sword]]'s [[blade]] and the [[guard]] to keep the guard firmly fixed in place"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

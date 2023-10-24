@@ -1,0 +1,76 @@
+{
+  "title": "噍",
+  "ns": 0,
+  "id": 12732,
+  "timestamp": 1530361598000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jiào,jiáo,2nb=variant\n|c=ziu1,ziu3,ziu6,zau1\n|mc=2\n|oc=1,2\n|cat=v,n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|嚼}}\n# [[living]] [[animals]], including [[humans]]\n# {{zh-alt-form|譙}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|噍類無遺|噍類|噍殺|無噍類}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jiāo\n|mc=1\n|oc=n,1\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[anxious]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-see|啾|v}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:jyut.net}}\n* {{R:yue:Jyutping Database}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

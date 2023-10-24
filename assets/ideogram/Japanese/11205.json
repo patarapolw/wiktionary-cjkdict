@@ -1,0 +1,39 @@
+{
+  "title": "傲",
+  "ns": 0,
+  "id": 11205,
+  "timestamp": 1542021910000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人11}}\n\n# be proud",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ごう\n|kun=おご-る, あなど-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-l|傲骨}}\n* {{ja-l|傲世}}\n* {{ja-l|傲然}}\n* {{ja-l|傲霜}}\n* {{ja-l|傲慢}}\n* {{ja-l|傲遊}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

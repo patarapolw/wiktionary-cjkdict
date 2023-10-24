@@ -1,0 +1,56 @@
+{
+  "title": "簇",
+  "ns": 0,
+  "id": 22949,
+  "timestamp": 1529733523000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す, そく\n|kanon=そう, そく\n|kanyoon=ぞく\n|kun=むら-がる, やじり\n|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぞく}}\n\n# [[cocoon]] holders",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|蔟}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|むら}}\n\n# {{alternative form of|群|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|むら}}\n\n# {{alternative form of|群|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

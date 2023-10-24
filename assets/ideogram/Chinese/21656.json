@@ -1,0 +1,42 @@
+{
+  "title": "着",
+  "ns": 0,
+  "id": 21656,
+  "timestamp": 1546269806000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|著|差|羞|看}}\n{{character info/new}}\n{{character info/new|0xfaaa}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Corrupted variant of {{l|zh|著}} ({{l|zh|艹}} → {{l|zh|䒑}}; {{l|zh|日}} → {{l|zh|目}}). Recorded as an unorthodox form ({{zh-l|俗字*}}) in the {{w|Tang dynasty}} orthographic dictionary ''{{w|Ganlu Zishu}}'' {{w2|zh|pref=《|干祿字書|suf=》}}. <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A03506-015#18 -->\n\nLater dictionaries such as the {{w|Ming dynasty}} {{lang|zh|《字學三正》}} and {{w|Qing dynasty}} ''{{w|Zhengzitong}}'' {{w2|zh|pref=《|正字通|suf=》}} recorded the glyph as {{lang|zh|⿱𦍌⿰丿目}}."
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|著}}"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "{{lang|zh|sc=Hant|着}} is both the standard and variant traditional character of some senses of {{zh-l|*著}} (Pronunciations 1 and 2). Its usage varies with region:\n\n{{Chinese-region variant characters|著|着}}\n\nIn mainland China's {{w|Table of General Standard Chinese Characters}} ({{w2|zh|通用规范汉字表}}), {{l|zh|著|tr=zhù}} is not listed as a traditional form of {{lang|zh|sc=Hans|着}} and is considered a separate character. <!-- Refer character 2198 (著) and 2398 (着) of https://zh.wikisource.org/wiki/通用規范漢字表 -->"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A03506-003#37}}\n* {{R:zh:CNS|3|3757}}\n* {{R:twedu|A03506-015#18}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

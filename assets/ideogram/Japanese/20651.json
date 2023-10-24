@@ -1,0 +1,73 @@
+{
+  "title": "王",
+  "ns": 0,
+  "id": 20651,
+  "timestamp": 1553205918000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𤣩|𡈼|壬|玉|主}}\n{{character info/new}}\n{{character info|0x2F929}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=玉00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おう<わう\n|kanon=おう<わう\n|kun=おおきみ-<おほきみ-, きみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|おう|yomi=o}}\nFrom {{etyl|ltc|ja|sort=おう}} {{m|zh|王|tr=hjwang||king}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|おう|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おう|hhira=わう}}\n\n# a [[king]]\n#* {{quote-book|||{{lj|[Starter Box](スターターボックス)}}\n|||date=Mar 6 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|[緑](りょく)[樹](じゅ)の[霊](れい)[王](おう)}}\n|trans-chapter=Spirit King of Greenery}}\n#*: {{ja-usex|青%々と生い茂る木に囲まれて暮らす、森を治める若き'''王'''。|あお%あお と おいしげる き に かこまれて くらす、もり を おさめる わかき '''おう'''。|The youthful king of the forest, living within thriving evergreen trees.}}\n#* {{quote-book|lang=ja||date=Aug 26 1999||BOOSTER 4|||chapter={{lj|[紅](こう)[葉](よう)の[女](じょ)[王](おう)}}|trans-chapter=Queen of Autumn Leaves|publisher={{w|Konami}}}}\n#*: {{ja-usex|鮮やかな紅%葉に囲まれて暮らす、緑%樹の霊'''王'''のお妃。|^あざやか な こう%よう に かこまれて くらす、^りょく%じゅ の ^れい'''おう''' の おひ。|The consort of the Spirit King of Greenery, living within vibrant autumn leaves.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|皇帝|こうてい|emperor}}\n* {{ja-r|天皇|てんのう|emperor of Japan}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|おう|hhira=わう}}\n\n# [[king]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|女王|じょ.おう}}, {{ja-r|女王|じょう.おう}}, {{ja-r|女王|にょ.おう|queen}}\n* {{ja-r|王女|おうじょ}}, {{ja-r|王女|おうにょ|princess}}\n* {{ja-r|帝王|ていおう|emperor}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

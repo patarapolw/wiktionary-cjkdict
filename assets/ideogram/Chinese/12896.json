@@ -1,0 +1,42 @@
+{
+  "title": "囥",
+  "ns": 0,
+  "id": 12896,
+  "timestamp": 1510883235000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=kàng\n|c=kong3\n|h=pfs=khong\n|md=kóng\n|mn=khǹg\n|mn-t=keng3\n|w=2khaan\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal}} to [[hide]]; to [[conceal]]\n# {{lb|zh|Taiwanese Min Nan}} to [[put]]; to [[place]]\n# {{lb|zh|Taiwanese Min Nan}} to [[keep]]; to put [[aside]]\n# {{lb|zh|Taiwanese Min Nan}} to [[deposit]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|囥歲|囥步}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C01568}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

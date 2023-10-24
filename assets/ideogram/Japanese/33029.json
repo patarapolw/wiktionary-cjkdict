@@ -1,0 +1,124 @@
+{
+  "title": "麻",
+  "ns": 0,
+  "id": 33029,
+  "timestamp": 1553291309000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|菻|厤|痳}}\n{{character info/new}}\n{{character info/new|0x2fa15}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=麻00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=め\n|kanon=ば\n|kanyoon=ま\n|kun=あさ-, お-<を-, そ-\n|nanori=あ, あざ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|麻縄|あさなわ}}: [[hempen]] [[rope]]\n* {{ja-r|麻布|^あざぶ}}: [[w:Azabu, Tokyo|Azabu]], an area in [[w:Minato, Tokyo|Minato ward, Tokyo]]\n* {{ja-r|麻雀|まあじゃん}}: [[mahjong]]\n* {{ja-r|麻疹|ましん}}, {{ja-r|麻疹|はしか}}: [[measles]]\n* {{ja-r|麻酔|ますい}}: [[anesthesia]]\n{{der-mid}}\n* {{ja-r|麻痺|まひ}}: [[paralysis]]\n* {{ja-r|麻薬|まやく}}: [[drug]]\n* {{ja-r|大麻|たいま}}: [[marijuana]]\n* {{ja-r|胡麻|ごま}}: [[sesame]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あさ|yomi=k}}\nFrom {{etyl|ojp|ja|sort=あさ}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あさ|acc=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あさ}}\n\n# [[hemp]]\n#* c. '''800''': ''Shibunritsu Ongi'' (page 47)\n#*: 麻衣 '''阿佐'''衣\n# [[flax]]\n# [[linen]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|あさ}}\n\n# {{surname|lang=ja|sort=あさ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|お|yomi=k}}\n{{IPAchar|/wo/}} → {{IPAchar|/o/}}\n\nFrom {{etyl|ojp|ja|sort=お}} {{lang|ja|麻}} (''wo'').<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|お|acc=1|acc_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|お|hhira=を}}\n\n# The [[hemp]] or [[ramie]] plant.\n# [[thread|Thread]] or [[yarn]] made from [[fiber]]s derived from the [[bark]] of hemp or ramie [[stem]]s."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|そ|yomi=k}}\nPossibly from an altered pronunciation of ''asa''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|そ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そ}}\n\n# [[hemp]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Most often found in compounds."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|ま|yomi=kanyoon}}\nFrom {{etyl|ltc|ja|sort=ま}} {{m|zh|麻|tr=mæ||hemp}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyoon|ま}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ま}}\n\n# The hemp plant.\n# The [[bark]] of the hemp plant.\n# [[thread|Thread]], [[yarn]], or [[cloth]] made from the hemp fiber. Used in the past for mourning clothes in China."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{cite-book\n|last=Tsukishima\n|first=Hiroshi\n|title=Kojisho Ongi Shūsei 2: Shibunritsu Ongi\n|publisher=Kyūko Shoin\n|year_published=1979\n|year=c. 800\n|location=Tōkyō\n|lang=ja\n|isbn=4-7629-3089-X\n}}\n\n[[Category:ja:Drugs|あさ]]\n[[Category:ja:Plants|あさ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

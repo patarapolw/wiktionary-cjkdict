@@ -1,0 +1,44 @@
+{
+  "title": "派",
+  "ns": 0,
+  "id": 18917,
+  "timestamp": 1553057637000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F900}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=水06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へ\n|kanon=はい\n|kanyoon=は\n|kun=わ-かれる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|宗派|しゅうは}}: religious [[sect]]\n* {{ja-r|流派|りゅうは}}: school of thought"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|は}}\n\n# [[group]], [[faction]], (political) [[wing]], [[school]]\n#: {{ja-usex|猫'''派'''|ねこ-'''は'''|a cat '''person'''}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

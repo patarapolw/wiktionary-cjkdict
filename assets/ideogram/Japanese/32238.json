@@ -1,0 +1,81 @@
+{
+  "title": "鰈",
+  "ns": 0,
+  "id": 32238,
+  "timestamp": 1551357867000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲽}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚09}}\n\n# [[sole]]\n# [[flatfish]]\n# [[flounder]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<でふ, とう<たふ\n|kanon=ちょう<てふ, とう<たふ\n|kun=かれい-<かれひ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鰈崎|^かれいざき}}, {{ja-r|鰈崎|^かれざき}}\n* {{ja-r|鰈川|^かれがわ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|カレイ}}\n[[file:Psetta maxima.JPG|thumb|'''鰈''' (''karei'')]]\n</div>\n{{ja-kanjitab|かれい|yomi=k}}\n{{IPAfont|/kara epi<sub>1</sub>/}} → {{IPAchar|/karepi/}} → {{IPAchar|/karefi/}} → *{{IPAchar|/karewi/}} → *{{IPAchar|/kareii/}} → {{IPAchar|/karei/}}\n\nLikely from {{inh|ja|ojp|sort=かれい|-}}. Attested in the ''Honzō Wamyō''. The ''{{w|Wamyō Ruijushō}}'' has {{l|ja||王餘魚}}, with the phonetic spellings {{m|ja||加良衣比|tr=karaepi<sub>1</sub>}} and variant {{m|ja||加禮比|tr=karepi<sub>1</sub>}}.\n\nOriginally a compound of {{ja-compound|韓|^から|鱝|エイ|t1=[[Korea]]|pos1=euphemism|t2=a kind of [[ray]]|nocat=1}}. It is said that the flounder was imported from Korea to Japan in the {{w|Samhan|Samhan period}}, and was regarded to the Koreans at that time as \"beautiful\". The ''ei'' part is likely due to its appearance, mistaken for a \"ray\". {{rfv-etymology|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|かれい|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かれい|カレイ|hhira=かれひ|hkata=カレヒ}}\n\n# [[righteye flounder]] ([[flounder]] of the family [[Pleuronectidae]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* {{U:ja:biology|カレイ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|カレイ科|カレイ-か|[[Pleuronectidae]]}}\n* {{ja-r|カレイ目|カレイ-もく|[[Pleuronectiformes]]}}\n* {{ja-r|赤%鰈|アカ%-ガレイ|{{w|flathead flounder}}}}\n* {{ja-r|油%鰈|アブラ%-ガレイ|{{w|Kamchatka flounder}}}}\n* {{ja-r|石%鰈|イシ%-ガレイ|{{w|stone flounder}}}}\n* {{ja-r|角%鰈|ツノ%-ガレイ|{{w|Alaska plaice}}}}\n* {{ja-r|滑%多%鰈|ナメ%タ%-ガレイ}}, {{ja-r|婆婆%鰈|ババ%-ガレイ|{{w|slime flounder}}}}\n* {{ja-r|沼%鰈|ヌマ%-ガレイ|{{w|starry flounder}}}}\n* {{ja-r|真%鰈|マ%-ガレイ|{{w|yellow striped flounder}}}}\n* {{ja-r|真子%鰈|マコ%-ガレイ|{{w|marbled flounder}}}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "* {{ja-r|左鮃右鰈|ひだり ひらめ みぎ かれい|}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|牛舌魚|ウシノシタ|rom=-}}, {{ja-r|牛の舌|うし-の-した|[[sole]]}}\n* {{ja-r|平%目|ヒラ%メ|rom=-}}, {{ja-r|鮃|ヒラメ|{{w|olive flounder}}, Japanese [[halibut]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Fish|かれい]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

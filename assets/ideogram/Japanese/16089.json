@@ -1,0 +1,39 @@
+{
+  "title": "抽",
+  "ns": 0,
+  "id": 16089,
+  "timestamp": 1541810675000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手05}}\n\n# {{defn|lang=ja|sort=手05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちゅう\n|kanon=ちゅう\n|kun=ぬ-く, ひ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|抽象|ちゅうしょう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

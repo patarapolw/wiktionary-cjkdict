@@ -1,0 +1,56 @@
+{
+  "title": "簳",
+  "ns": 0,
+  "id": 22993,
+  "timestamp": 1546577656000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹13}}\n\n# [[shaft]] of an [[arrow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かん\n|kanon=かん\n|kun=しの, やがら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|やがら|yomi=k}}\n{{ja-pron|y=k|やがら|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|やがら|ヤガラ}}\n\n# {{altspell|lang=ja|矢柄|tr=yagara|nodot=1|sort=やから}}: the [[shaft]] of an [[arrow]]; a [[cornetfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|赤%簳魚|アカ%ヤガラ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

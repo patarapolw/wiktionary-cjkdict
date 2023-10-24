@@ -1,0 +1,54 @@
+{
+  "title": "芽",
+  "ns": 0,
+  "id": 24811,
+  "timestamp": 1553050746000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F995}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=艸04}}\n\n# [[bud]], [[sprout]], [[shoot]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ\n|kanon=が\n|kun=め-, めぐ-む\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|嫩%芽|どん%が}}: [[young]] [[shoot]]\n* {{ja-r|麦%芽|ばく%が}}: [[malt]]\n* {{ja-r|木の芽|きのめ}}: leaves of [[Japanese pepper]] ({{taxlink|Zanthoxylum piperitum|species|noshow=1}}) used as condiment\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|め|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|め|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|め}}\n\n# [[bud]], [[sprout]], [[shoot]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

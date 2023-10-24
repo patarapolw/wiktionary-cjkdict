@@ -1,0 +1,54 @@
+{
+  "title": "半",
+  "ns": 0,
+  "id": 11897,
+  "timestamp": 1550347910000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=十03}}\n\n# [[half]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=はん\n|kanon=はん\n|kun=なか-ば\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n{{top2}}\n* {{ja-r|半妖|はんよう}}\n* {{ja-r|半神|はんしん}}: a [[demigod]]\n* {{ja-r|折半|せっぱん}}\n* {{ja-r|半時間|はんじかん}}\n* {{ja-r|半数|はんすう}}\n{{mid2}}\n* {{ja-r|半月|はんげつ}}, {{ja-r|半月|はんつき}}\n* {{ja-r|半年|はんとし}}\n* {{ja-r|半田|はんだ}}\n* {{ja-r|半分|はんぶん}}\n* {{ja-r|半島|はんとう}}: a [[peninsula]]\n* {{ja-r|四半|しはん}}: a [[quarter]]\n{{bottom}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はん}}\n\n# [[odd]] (especially of [[dice]])\n#* Antonyms : {{ja-r|丁|ちょう|gloss=[[even]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|はん|prefix}}\n\n# [[half]], [[semi-]]\n#: {{ja-usex|'''半'''年|'''はん'''とし|'''semi'''annual}}\n#: {{ja-usex|'''半'''世紀|'''はん'''せいき|'''semi'''centennial}}\n\n;Antonyms\n* {{ja-r|複|ふく|gloss=[[double]]}}\n* {{ja-r|全|ぜん|gloss=[[entire]]}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|はん|suffix}}\n\n# [[half]]\n#: {{ja-usex|四 倍 '''半'''|よん ばい '''はん'''|four times and a '''half'''}}\n#: {{ja-usex|二十二 年 '''半'''|にじゅうに ねん '''はん'''|twenty-two years and a '''half'''}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

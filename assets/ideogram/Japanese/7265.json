@@ -1,0 +1,155 @@
+{
+  "title": "百",
+  "ns": 0,
+  "id": 7265,
+  "timestamp": 1552147357000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|佰|白|𦣻}}\n{{character info/new}}\n\n{{commonscat}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=白01}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひゃく\n|kanon=はく\n|kun=もも-, ほ-, お\n|nanori=ど, どう, なり, ひゅく, も, もんど, ゆ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ひゃく|yomi=o}}\nBorrowed from {{bor|ja|ltc|sort=ひゃく|百|tr=pˠæk||hundred}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ひゃく|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひゃく}}\n\n# [[hundred]]\n# a very [[many]], [[lots]], [[a lot]]\n# one [[hundred]] years old, advanced [[age]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This is the most common term for {{m|en|hundred}} in modern Japanese."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|百に一つ|ひゃく に ひとつ}}: “one in a hundred” → something [[rare]] or [[unusual]]\n* {{ja-r|百も承%知|ひゃく も しょう%ち}}: “awareness of the hundred” → the state of being [[fully]] [[aware]] of something\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|百%科 全書|ひゃっ%か ぜんしょ}}: an [[encyclopedia]]\n* {{ja-r|百%千|ひゃく%せん}}: a large number, all sorts, hundreds and thousands\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|もも|yomi=k}}\n/mo{{sub|1}}mo{{sub|1}}/ → /momo/\n\nFrom {{inh|ja|ojp|-|sort=もも}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kun|もも|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|もも}}\n\n# {{lb|ja|sort=もも|archaic}} [[hundred]]\n# {{lb|ja|sort=もも|archaic}} a very [[many]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "While ''ho'' or ''o'' is only used in compounds, ''momo'' can be used on its own.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nArchaic. Generally only found in set phrases or compounds."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|百%日|もも%か}}: [[hundredth]] [[day]]\n* {{ja-r|百%声%鳥|もも%こえ%どり}}: ''[[Cuculus poliocephalus]]'', {{vern|lesser cuckoo}}\n* {{ja-r|百舌|もず}}: [[shrike]]\n* {{ja-r|百%千|もも%ち}}: a large number, all sorts, hundreds and thousands\n* {{ja-r|百%千%鳥|もも%ち%どり}}: [[all sorts]] of [[bird]]s, hundreds and thousands of birds; a [[plover]]; a [[Japanese bush warbler]]\n* {{ja-r|百%年|もも%とせ}}: hundred [[year]]s, [[century]], a long time\n* {{ja-r|百%夜|もも%よ}}: a hundred [[night]]s\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|ほ|yomi=k}}\n{{IPAchar|/po/}} → {{IPAchar|/ɸo/}} → {{IPAchar|/ho/}}\n\nFrom {{inh|ja|ojp|-|sort=ほ}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kun|ほ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほ}}\n\n# {{lb|ja|sort=ほ|obsolete}} [[hundred]]\n# {{lb|ja|sort=ほ|obsolete}} a very [[many]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "While ''momo'' can be used on its own, ''ho'' is only used in compounds, where it has lost the initial consonant and appears instead as ''o'' (see below). Generally only used in reference to multiple hundreds of things, as in terms {{m|ja|五百|tr=io||five hundred; a very many}} or {{m|ja|八百|tr=yao||eight hundred; a very many}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nObsolete. [[supersede|Superseded]] by ''o'' (see below)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|お|yomi=k}}\n{{IPAchar|/po/}} → {{IPAchar|/ɸo/}} → {{IPAchar|/ho/}} → {{IPAchar|/o/}}\n\nFrom {{inh|ja|ojp|-|sort=お}}. Change in pronunciation from ''ho'' (see above).<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kun|お}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|お|hhira=ほ}}\n\n# {{lb|ja|sort=お|archaic}} [[hundred]]\n# {{lb|ja|sort=お|archaic}} a very [[many]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "While ''momo'' can be used on its own, ''o'' is only used in compounds. This ''o'' was originally pronounced ''ho'' (see above). Generally only used in reference to multiple hundreds of things, as in terms {{m|ja|五百|tr=io||five hundred; a very many}} or {{m|ja|八百|tr=yao||eight hundred; a very many}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nArchaic. Generally only found in set phrases and compounds."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|二%百|ふた%お}}: two hundred\n* {{ja-r|三百|みお}}: three hundred\n* {{ja-r|四%百|よ%お}}: four hundred\n* {{ja-r|五百|いお}}: five hundred; a very many\n* {{ja-r|六百|むお}}: six hundred\n{{der-mid}}\n* {{ja-r|七%百|なな%お}}: seven hundred\n* {{ja-r|八百|やお}}: eight hundred; a very many\n* {{ja-r|九%百|ここの%お}}: nine hundred\n* {{ja-r|八百%万|やお%よろず}}: eight million; a great [[multitude]], a [[countless]] large number or amount\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|ひゃく]]\n[[Category:Japanese numeral symbols|100]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

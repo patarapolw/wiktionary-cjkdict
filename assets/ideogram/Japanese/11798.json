@@ -1,0 +1,44 @@
+{
+  "title": "勤",
+  "ns": 0,
+  "id": 11798,
+  "timestamp": 1553325137000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|懃}}\n{{character info/new}}\n{{character info|0xFA34}}\n{{character info|0x2F827}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|勤|pic2=勤 kyuujitai.PNG}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=力11}}\n\n# {{defn|lang=ja|sort=力11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=きん\n|kun=つと-める, つと-まる, つと-め\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|勤学|勤苦|勤倹|勤倹尚武|勤倹力行|勤仕|勤続|勤惰|勤怠|{{ja-l|勤王}}/{{ja-l|勤皇}}|勤王攘夷|勤番|勤勉|勤務|勤役|勤労|勤行|勤求|勤修|lang=ja|title=Compounds}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|つとむ}}\n\n# {{given name|male|lang=ja|sort=つとむ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

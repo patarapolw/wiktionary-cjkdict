@@ -1,0 +1,39 @@
+{
+  "title": "班",
+  "ns": 0,
+  "id": 20750,
+  "timestamp": 1548423590000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=玉06}}\n\n# group, party, section",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へん\n|kanon=はん\n|kun=わ-ける\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|はん}}\n\n# [[group]], party\n# {{lb|ja|military|sort=はん}} [[section]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

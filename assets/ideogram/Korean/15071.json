@@ -1,0 +1,39 @@
+{
+  "title": "廓",
+  "ns": 0,
+  "id": 15071,
+  "timestamp": 1544101673000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xFA0B}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[곽]], [[확]]|rv=gwak, hwak|mr=kwak, hwak}}\n\n# ([[곽]]): [[girdle]], [[circumference]], [[outside]], [[enclosure]], [[wall]]\n# ([[확]]): [[wide]], [[broad]], [[large]]\n# ([[확]]): to [[widen]], [[broaden]], [[enlarge]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|girdle}} {{l|ko|郭|tr=[[곽]], ''gwak''}}\n* {{sense|wide}} {{l|ko|廣|tr=[[광]], ''gwang''}}\n* {{sense|widen}} {{l|ko|擴|tr=[[확]], ''hwak''}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{l|ko|遊廓|tr=[[유곽]], ''yu-gwak''}}: [[brothel]], [[whorehouse]]\n* {{l|ko|輪廓|tr=[[윤곽]], ''yun-gwak''}}: [[outline]], [[overview]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

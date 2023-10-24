@@ -1,0 +1,81 @@
+{
+  "title": "鬱",
+  "ns": 0,
+  "id": 32001,
+  "timestamp": 1548738942000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鬰|欝|郁}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=鬯19|grade=c}}\n\n# [[depression]], [[gloom]], [[melancholy]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=うち\n|kanon=うつ\n|kun=しげ-る, ふさ-ぐ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|鬱金|うこん}}\n* {{ja-r|鬱金色|うこんいろ}}\n* {{ja-r|鬱金香|うこんこう}}\n* {{ja-r|鬱気|うっき}}\n* {{ja-r|鬱屈|うっくつ}}\n* {{ja-r|鬱血|うっけつ}}\n* {{ja-r|鬱積|うっせき}}\n* {{ja-r|鬱蒼|うっそう}}\n* {{ja-r|鬱滞|うったい}}\n* {{ja-r|鬱陶しい|うっとうしい}}\n{{der-mid3}}\n* {{ja-r|鬱憤|うっぷん}}\n* {{ja-r|鬱々|うつ.うつ}}\n* {{ja-r|鬱然|うつぜん}}\n* {{ja-r|鬱病|うつびょう}}\n* {{ja-r|鬱勃|うつぼつ}}\n* {{ja-r|気鬱|きうつ}}\n* {{ja-r|暗鬱|あんうつ}}\n* {{ja-r|陰鬱|いんうつ}}\n* {{ja-r|気鬱症|きうつしょう}}\n{{der-mid3}}\n* {{ja-r|躁鬱|そううつ}}\n* {{ja-r|躁鬱質|そううつしつ}}\n* {{ja-r|躁鬱病|そううつびょう}}\n* {{ja-r|沈鬱|ちんうつ}}\n* {{ja-r|幽鬱|ゆううつ}}\n* {{ja-r|憂鬱|ゆううつ}}\n* {{ja-r|憂鬱質|ゆううつしつ}}\n* {{ja-r|憂鬱症|ゆううつしょう}}\n* {{ja-r|抑鬱|よく.うつ}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Trivia",
+                  "text": "鬱 has, at 29 strokes, the most strokes of any kanji in the jōyō kanji list or {{w|kanji kentei}} level pre-1.<ref>[http://nihonshock.com/2009/10/crazy-kanji-highest-stroke-count/ Crazy kanji: what’s the highest stroke count?], Nihonshock, 2009 Oct 22</ref> The next highest kanji in the jōyō list is [[鑑]], at 23 strokes."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|うつ|yomi=o}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|鬱}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|うつ|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{ja-adj|infl=na|うつ}}\n\n# [[depressing]]\n#: {{ja-usex|'''鬱'''な[[曲]]|'''うつ''' な きょく|'''depressing''' song}}\n# [[depressed]]\n#: {{ja-usex|'''鬱'''な[[気分]]|'''うつ''' な きぶん|'''gloomy''' mood}}\n#: {{ja-usex|'''鬱'''に[[なる|なり]]そう|'''うつ''' に なりそう|to be almost '''depressed''' about something}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うつ}}\n\n# {{lb|ja|psychiatry}} [[depression]]\n#: {{ja-usex|'''鬱'''を[[克服]]する|'''うつ''' を こくふく する|overcome '''depression'''}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|鬱病|うつびょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|うつ}}\n\n# [[dense]] (growth); [[lush]]; [[luxuriant]]\n# [[accumulate]]; [[stagnate]]\n# [[depression]]; [[gloom]]; [[melancholy]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

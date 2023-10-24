@@ -1,0 +1,39 @@
+{
+  "title": "恓",
+  "ns": 0,
+  "id": 15465,
+  "timestamp": 1553550136000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xī\n|c=sai1\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|孤孤恓恓|恓慘|恓惶|恓恓插插|恓恓惶惶|孤恓}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

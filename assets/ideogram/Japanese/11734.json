@@ -1,0 +1,44 @@
+{
+  "title": "助",
+  "ns": 0,
+  "id": 11734,
+  "timestamp": 1544009441000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=力05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょ\n|kanon=そ\n|kun=たす-ける, たす-かる, すけ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|すけ}}\n\n# [[assistance]]"
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|じょ}}\n\n# [[help]]\n# assistant"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

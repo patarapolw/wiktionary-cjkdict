@@ -1,0 +1,150 @@
+{
+  "title": "佗",
+  "ns": 0,
+  "id": 10812,
+  "timestamp": 1552531755000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etyl}}\n{{Han compound|人|它|ls=psc|c1=s|c2=p|t1=human}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tuó\n|c=to4\n|mn=tô\n|mc=1\n|oc=n,2\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|馱|to [[carry]] on one's [[back]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|佗佗|磨佗子|華佗再世}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tuō,tā\n|c=to1,taa1\n|mc=2\n|oc=1\n|ma=\n|cat=pron,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|他}}\n# {{surname|lang=zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms|alt=倒,叨,叼,搭,哪,底}}\nProbably from {{zh-l|*底}} ({{zh-ref|Yang, 2002}}):\n* {{IPAfont|tai}} → {{IPAfont|ta}} (→ {{IPAfont|taʔ}});\n* {{IPAfont|tue}} → {{IPAfont|to}} (→ {{IPAfont|toʔ}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{zh-pron\n|mn=xm,qz,tw:tó/zz:tah/twv:tá\n|cat=det\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{lb|zh|Hokkien}} [[which]]\n#* {{zh-x|來 問 家己\\自{ka}己{tī}，猶\\還{iáu} 欠 佗{tó} 一 項|I ask myself, '''which''' am I still missing?|TW|ref='''2016''', {{w2|zh|黃妃}} ({{w|Huang Fei}}) (lyricist {{lang|zh|謝誌豪}}), [https://www.youtube.com/watch?v=gbBLznjfvGk {{lang|zh|囍}}]}}",
+                      "subSections": [
+                        {
+                          "level": 6,
+                          "title": "Synonyms",
+                          "text": "{{zh-dial|哪}}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{zh-pron\n|mn=xm,qz:tó/zz,twv:tah/tw:toh/km:tio̍h\n|cat=pn\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{lb|zh|Hokkien}} [[where]]\n#* {{zh-x|參 着{tio̍h} 咖啡 過{kòe} 喉 燒，毋\\不{m̄} 知 你 到{tàu}底 佇\\置{tī} 佗{toh}||TW|ref='''2011''', {{w2|zh|蕭煌奇}} ({{w|Ricky Hsiao}}), [https://www.youtube.com/watch?v=C5DN8bBsI5M {{lang|zh|你置佗}}]}}\n#* {{zh-x|夢 對 '''佗{toh}''' 飛，未來 佗{tó}位 找{chhōe}||TW|ref='''2016''', {{w2|zh|黃妃}} ({{w|Huang Fei}}) (lyricist {{w2|zh|方文良}} [Neil Fang]), [https://www.youtube.com/watch?v=bBEPx4BTXcA {{lang|zh|雙生花}}]}}",
+                      "subSections": [
+                        {
+                          "level": 6,
+                          "title": "Synonyms",
+                          "text": "{{zh-dial|哪裡}}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|佗位|佗落}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tuò\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} to [[add]]; to [[impute]]\n#* {{zh-x|舍{Shě} 彼 有 罪，予{yú} 之 佗{tuò} 矣。|He lets alone the guilty,<br>And '''imputes''' guilt to me.|ref=Shijing}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{zh-forms|alt=迤}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yí\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|委佗|dot=,}} {{zh-alt-form|委蛇|nocap=1}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

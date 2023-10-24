@@ -1,0 +1,76 @@
+{
+  "title": "髢",
+  "ns": 0,
+  "id": 31893,
+  "timestamp": 1505886466000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=髟03}}\n\n# {{defn|lang=ja|sort=髟03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=だい|kanon=てい|kun=かもじ-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|かもじ|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|かもじ|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|髪文字}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かもじ}}\n\n# [[hairpiece]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|入れ髪|いれがみ}}, {{ja-r|入れ毛|いれげ}}, {{ja-r|付け髪|つけがみ}}, {{ja-r|付け毛|つけげ}}, {{ja-r|添え髪|そえがみ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|髢草|かもじぐさ}}\n* {{ja-r|髢屋|かもじや}}\n* {{ja-r|長髢|ながかもじ}}\n* {{ja-r|丸髢|まるかもじ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|鬘|かつら}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Hair|かもじ]]\n[[Category:ja:Headwear|かもじ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "求",
+  "ns": 0,
+  "id": 18609,
+  "timestamp": 1546466476000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=水02}}\n\n# [[request]], [[wish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=きゅう<きう\n|kun=もと-める, もと-む, ま-ぐ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|求人|きゅうじん}}\n* {{ja-r|請求|せいきゅう}}\n* {{ja-r|要求|ようきゅう}}\n* {{ja-r|求愛|きゅうあい}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|もとむ}}\n\n# {{given name|male|lang=ja|sort=もとむ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "鮫",
+  "ns": 0,
+  "id": 32146,
+  "timestamp": 1549587399000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲛}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚06}}\n\n# [[shark]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう<けう\n|kanon=こう<かう\n|kun=さめ-, みずち-<みづち-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{wikipedia|lang=ja|サメ}}\n{{ja-kanjitab|さめ|yomi=k}}\n{{ja-pron|acc=0|さめ|y=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さめ|サメ}}\n\n# a [[shark]] {{gl|fish}}\n#* {{quote-book|||BOOSTER 3\n|||date=Jul 5 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|グレート・ホワイト}}\n|trans-chapter=Great White}}\n#*: {{ja-usex|巨%大な白い'''サメ'''。大きな口で噛みつかれたら逃れられない。|きょ%だい な しろい '''サメ'''。おおき な くち で かみつかれたら のがれられない。|A giant white shark. It is utterly impossible to get out of its gigantic biting jaw.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* {{U:ja:biology|サメ}}\n\n{{C|ja|Sharks|sort=さめ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

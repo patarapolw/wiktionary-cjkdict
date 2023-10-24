@@ -1,0 +1,107 @@
+{
+  "title": "夷",
+  "ns": 0,
+  "id": 13520,
+  "timestamp": 1552578053000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=大03}}\n\n# [[ancient]] [[tribe]]s in [[eastern]] [[China]]\n# [[level]] {{gl|[[flat]] and [[low]]}}\n# [[level]]led [[destruction]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い\n|kanon=い\n|kun=えびす-, ころ-す, たい-らげる<たひ-らげる\n|nanori=ひな, ひら\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|以夷%攻夷|い.い%こうい}}\n* {{ja-r|夷%狄|い%てき}}\n* {{ja-r|華夷|^かい}}\n* {{ja-r|九夷|^きゅうい}}\n* {{ja-r|険夷|けんい|rom=-}}, {{ja-r|嶮夷|けんい}}\n* {{ja-r|攘夷|じょうい}}\n* {{ja-r|焼夷|しょうい}}\n* {{ja-r|東夷|^とうい}}\n* {{ja-r|平%夷|へい%い}}\n* {{ja-r|蛮夷|ばんい|rom=-}}, {{ja-r|蕃夷|ばんい}}\n* {{ja-r|蝦夷|^えぞ}}\n* {{ja-r|蝦夷|^えみし}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えびす|yomi=k}}\n\n{{IPAfont|⟨emi<sub>1</sub>si⟩}} → *{{IPAchar|/emʲisɨ/}} → {{IPAchar|/emisə/}} → {{IPAchar|/ebisu/}}\n\nShift from {{inh|ja|ojp|sort=えひす|蝦夷|tr={{w|Emishi}}}}, modern ''Ezo''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|戎}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|えびす|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えびす}}\n\n# {{lb|ja|sort=えひす|historical}} {{synonym of|lang=ja|蝦夷|tr=Ezo|nodot=1|sort=えひす}}: an [[ancient]] [[ethnic group]] attested in the ''{{w|Nihon Shoki}}'' that once lived on what is now the {{w|Kantō region|Kantō}}, {{w|Hokuriku region|Hokuriku}} and {{w|Tōhoku region|Tōhoku regions}}, likely as far as {{w|Hokkaido}}, possibly related to the {{w|Ainu people}}; dubbed as \"[[barbarian]]s\" or \"[[savage]]s\" by the [[Yamato]]\n# a [[person]] [[live|living]] [[far away]] from the {{m|ja|都|tr=miyako||[[capital]]}}, loosely translated to \"[[bumpkin]]\" or \"[[hick]]\"\n#: {{syn|ja|田舎者|tr=inakamono}}\n# {{lb|ja|sort=えひす|regional|derogatory}} a [[barbarian]], [[savage]], ''especially'' referring to the {{m|ja|東夷|tr=azuma-ebisu||[[warrior]] from the [[east]]ern parts of Japan}}\n#* '''1204''', ''{{w|lang=ja|秋篠月清集|Akishino Gesseishū}}'' (book 1, poem 223)\n#*: {{ja-usex|sort=えひす|わがおもふ人だにすまばみちのくの'''えびす'''の里もうときものかは|わが おもふ ひと だに すまば ^みちのく の '''えびす''' の さと も うとき もの か は|rom=waga omou hito dani sumaba Michinoku no '''ebisu''' no sato utoki mono ka wa}}\n# {{lb|ja|sort=えひす|by extension|derogatory}} a [[foreigner]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|東%夷|あずま%-えびす}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|えびす}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=えひす}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|い|yomi=o}}\n{{IPAchar|/ji/}} → {{IPAchar|/i/}}\n\nFrom {{bor|ja|ltc|sort=い|-}} {{ltc-l|夷}}, originally referred to one of the [[ancient]] [[tribe]]s [[east]] of [[China]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=o|い|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|い}}\n\n# those [[people]] with [[differ]]ing [[language]]s and/or [[culture]]s\n#: {{syn|ja|異民族|tr=iminzoku}}\n# a [[barbarian]], [[savage]]; [[uncivilized]] [[people]] {{qualifier|living to the east of ancient Imperial China; included Japan}}\n#: {{syn|ja|野蛮人|tr=yabanjin}}\n# a [[neutral]] {{gl|[[position]]}}\n#: {{syn|ja|無色|tr=mushoku}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|征%夷|せい%い}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|夷を以て夷を制す|い を もって い を せいす}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

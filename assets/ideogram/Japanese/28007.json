@@ -1,0 +1,39 @@
+{
+  "title": "踏",
+  "ns": 0,
+  "id": 28007,
+  "timestamp": 1527998228000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=足08}}\n\n# {{defn|lang=ja|sort=足08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=とう\n|kanon=とう\n|kun=ふ-む, ふ-まえる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|踏鞴|たたら|[[foot]] [[bellows]]}}\n* {{ja-r|舞踏|ぶとう|[[butoh]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

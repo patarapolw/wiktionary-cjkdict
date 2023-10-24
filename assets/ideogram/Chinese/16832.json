@@ -1,0 +1,39 @@
+{
+  "title": "斝",
+  "ns": 0,
+  "id": 16832,
+  "timestamp": 1553551272000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiǎ\n|c=gaa2\n|mn=qz,xm:ká/zz:kée\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|斝彝|斝耳|走斝傳觴|走斝飛觥|走斝飛觴|飛觥獻斝|飛觥走斝|飛觥限斝|飛觴走斝}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

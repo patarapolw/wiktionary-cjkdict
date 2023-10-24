@@ -1,0 +1,46 @@
+{
+  "title": "佰",
+  "ns": 0,
+  "id": 10837,
+  "timestamp": 1527564763000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|百}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=人06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=びゃく\n|kanon=はく\n|kanyoon=ひゃく\n|kun=おさ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はく}}\n\n# {{lb|ja|legal|sort=はく}} [[one hundred]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This kanji is used in legal documents in place of the more common {{ja-l|百}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

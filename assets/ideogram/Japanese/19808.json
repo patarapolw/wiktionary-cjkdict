@@ -1,0 +1,39 @@
+{
+  "title": "灰",
+  "ns": 0,
+  "id": 19808,
+  "timestamp": 1553324773000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F835}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=火02}}\n\n# [[ashes]]\n# puckery juice\n# [[cremate]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け<け<くゑ\n|kanon=かい<くわい\n|kanyoon=くい\n|kun=はい-<はひ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はい|hhira=はひ}}\n\n# [[ash]]\n#: {{ja-usex|塵は塵に、'''灰'''は'''灰'''に|ちり は ちり に、'''はい''' は '''はい''' に|dust to dust, '''ashes''' to '''ashes'''}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

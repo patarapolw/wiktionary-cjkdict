@@ -1,0 +1,44 @@
+{
+  "title": "㐂",
+  "ns": 0,
+  "id": 10076,
+  "timestamp": 1550007254000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𛀣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=一05}}\n\n# {{alternative form of|喜|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こ, し\n|kanon=き\n|kun=よろこ-ぶ, よろこ-び\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This kanji is commonly seen on store signs."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{l|ja|喜寿}}<!-- name for 77th birthday, b/c 㐂 – which looks like 七十七 – is a variant of 喜 -->"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

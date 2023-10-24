@@ -1,0 +1,46 @@
+{
+  "title": "臭",
+  "ns": 0,
+  "id": 24597,
+  "timestamp": 1533608306000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𦤀}}\n{{character info/new}}\n{{character info/new|0xfa5c}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|k=s}} <!-- Kyūjitai form is U+FA5C -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=自04}}\n\n# [[stinking]], [[ill]]-[[smelling]], [[stink]]\n# [[odor]], [[savor]], [[fragrance]], be [[fragrant]]\n# [[suspicious]] [[looking]]\n# [[glow]], be [[bright]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ, く\n|kanon=しゅう, きゅう\n|kun=くさ-い, にお-う, にお-い, か-ぐ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|しゅう|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|しゅう}}\n\n# {{lb|ja|slang|metaphorical}} [[stench]] of; [[whiff]] of; [[scent]] of\n#: {{ja-usex|昭和'''臭'''を漂わせてる物|^しょうわ-'''しゅう''' を ただよわせてる もの|something that reeks of the the Shōwa era}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

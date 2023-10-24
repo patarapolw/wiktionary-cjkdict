@@ -1,0 +1,59 @@
+{
+  "title": "鈔",
+  "ns": 0,
+  "id": 29281,
+  "timestamp": 1539348490000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|钞}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=金04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<せう\n|kanon=そう<さう\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|しょう}}\n\nFrom {{der|ja|ltc|sort=しょう|-}} {{ltc-l|鈔}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|しょう|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|抄}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しょう|hhira=せう}}\n\n# an [[excerpt]], an [[extract]] {{qualifier|writing}}\n# an [[annotation]]\n# a unit of [[volume]], equal to one tenth of a {{m|ja|勺|tr=shaku}} and one hundredth of a {{m|ja|合|tr=gō}}, or approximately 1.8 [[millilitre]]s"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "坅",
+  "ns": 0,
+  "id": 13000,
+  "timestamp": 1542296055000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土04}}\n\n# {{defn|lang=ja|sort=土04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=こん<こん<こむ, ざん<ざん<ざむ\n|kanon=きん<きん<きむ, さん<さん<さむ\n|kun=あな-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|坅門|あなもん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

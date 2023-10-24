@@ -1,0 +1,68 @@
+{
+  "title": "妃",
+  "ns": 0,
+  "id": 13596,
+  "timestamp": 1511510706000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 4,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=女03}}\n\n# [[queen]]\n# [[princess]]",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanon=ひ,はい\n|goon=ひ,へ\n|kun=きさき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|后}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きさき|きさい}}\n\n# A [[ruler]]'s wife; [[queen]]; [[empress]].\n#* '''1632''': [[w:Diego Collado|Diego Collado]], ''Dictionarium sive thesauri linguae Iaponicae compendium'', p. 112\n#*: ''Regina, æ . reina .'' '''qisàqi''' ."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "[[御-]] ''mi-'' (honorific prefix) + [[女]] ''me'' \"woman\"",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|御妻}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みめ}}\n\n# A [[noble]]'s wife."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

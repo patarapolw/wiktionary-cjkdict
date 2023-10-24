@@ -1,0 +1,100 @@
+{
+  "title": "池",
+  "ns": 0,
+  "id": 18640,
+  "timestamp": 1549514275000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=水03}}\n\n# [[lake]], [[moat]]\n# [[object]] used for [[storage]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ<ぢ, だ\n|kanon=ち, た\n|kun=いけ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|池%魚|ち%ぎょ}}\n* {{ja-r|池%水|ち%すい}}\n* {{ja-r|池%沼|ち%しょう}}\n* {{ja-r|池%泉|ち%せん}}\n* {{ja-r|池%亭|ち%てい}}\n* {{ja-r|池%汀|ち%てい}}\n* {{ja-r|池%頭|ち%とう}}\n* {{ja-r|池%畔|ち%なん}}\n* {{ja-r|印%池|いん%ち}}\n* {{ja-r|園%池|えん%ち|rom=-}}, {{ja-r|苑%池|えん%ち}}\n* {{ja-r|金%城%湯%池|きん%じょう%とう%ち}}\n* {{ja-r|酒%池%肉%林|しゅ%ち%にく%りん}}\n* {{ja-r|城%池|じょう%ち}}\n* {{ja-r|滇%池|^てん%ち}}\n* {{ja-r|電%池|でん%ち}}\n* {{ja-r|肉%池|にく%ち}}\n* {{ja-r|墨%池|ぼく%ち}}\n* {{ja-r|瑶%池|よう%ち}}\n* {{ja-r|貯%水%池|ちょう%すい%ち}}\n* {{ja-r|養%魚%池|よう%ぎょ%ち}}\n* {{ja-r|養%殖%池|よう%しょく%ち}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|いけ}}\n\nFirst attested in the ''{{w|Wamyō Ruijushō}}'' (938 {{CE}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いけ|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いけ}}\n\n# a [[pond]] {{gl|[[small]] [[lake]] or [[pool]]}}\n#: {{ja-usex|'''池'''を乾す|'''いけ''' を ほす|drain a '''pond'''}}\n# a [[pool]] {{gl|small [[amount]] of [[liquid]] in a [[surface]]}}\n# {{lb|ja|calligraphy|sort=いけ}} [[part]] of an [[inkstone]] where [[water]] is [[store]]d\n#: {{syn|ja|海|tr=umi}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|池%袋|^いけ%ぶくろ}}\n* {{ja-r|内池|うち.いけ}}\n* {{ja-r|涸れ池|かれいけ}}\n* {{ja-r|枯れ池|かれいけ}}\n* {{ja-r|心の池|こころ の いけ}}\n* {{ja-r|猿%沢%池|^さる%さわ-の%-いけ}}\n* {{ja-r|人工 池|じんこう いけ}}\n* {{ja-r|溜め池|ためいけ}}\n* {{ja-r|溜池|てめいけ}}\n* {{ja-r|古池|ふるいけ}}\n* {{ja-r|用水 池|ようすい いけ}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Proverbs",
+                      "text": "* {{ja-r|池に落ちた犬はたたけ|いけ に おちた いぬ は たたけ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|硯|すずり|[[inkstone]]}}\n* {{ja-r|堀|ほり|[[moat]]}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|いけ}}\n\n# {{surname|lang=ja|sort=いけ|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=kanon|ち}}\n\n{{IPAchar|/tʲie/}} → {{IPAchar|/ti/}} → {{IPAchar|/t͡ɕi/}}\n\nFrom {{bor|ja|ltc|sort=ち|-}} {{ltc-l|池|id=1}}.\n\nUsed in {{w|Old Japanese}} as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨ti⟩}} in the ''{{w|Nihon Shoki}}'' (720 {{CE}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ち}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ち}}\n\n# {{surname|lang=ja|sort=ち|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

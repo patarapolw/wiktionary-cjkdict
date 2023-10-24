@@ -1,0 +1,46 @@
+{
+  "title": "儘",
+  "ns": 0,
+  "id": 11321,
+  "timestamp": 1553547007000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|尽}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|侭|儘}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人14|shin=侭}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じん\n|kanon=しん\n|kun=ことごと-く, まま-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Particle",
+              "text": "{{ja-pos|particle|まま}}\n\n# {{ja-def|まま}} as it is",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{ja-uk|まま}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

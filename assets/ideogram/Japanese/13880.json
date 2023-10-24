@@ -1,0 +1,70 @@
+{
+  "title": "媛",
+  "ns": 0,
+  "id": 13880,
+  "timestamp": 1549362803000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=女09}}\n\n# princess",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん<をん\n|kanon=えん<ゑん\n|kun=ひめ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えん|yomi=on}}\nFrom {{der|ja|ltc|sort=えん|-}} {{ltc-l|媛|id=2}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えん|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えん|hhira=ゑん}}\n\n# [[beautiful]] [[woman]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|名媛|めいえん}}: [[famous]] [[woman]]\n* {{ja-r|才媛|さいえん}}: [[talented]] [[woman]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ひめ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひめ}}\n\n# {{altform|lang=ja|姫}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

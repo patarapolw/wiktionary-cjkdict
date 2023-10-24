@@ -1,0 +1,63 @@
+{
+  "title": "來",
+  "ns": 0,
+  "id": 10859,
+  "timestamp": 1552500035000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|来|徠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|来|來}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=木04|shin=来}}\n\n# {{kyujitai spelling of|来|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らい\n|kanon=らい\n|kun=く-る, きた-る, きた-す, き-たる, き-たす\n|nanori=き\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|らい|prefix|shin=来}}\n\n# {{kyujitai spelling of|来|lang=ja}} [[next]], [[coming]] (week, year, etc.)"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|らい|suffix|shin=来}}\n\n# {{kyujitai spelling of|来|lang=ja}} [[since]], [[in]] (a span of time)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{ja-verb|く|type=3|shin=来}}\n\n# {{lb|ja|sort=く|obsolete}} to approach ones position from a remote location: to [[come]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

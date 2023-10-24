@@ -1,0 +1,70 @@
+{
+  "title": "寡",
+  "ns": 0,
+  "id": 14224,
+  "timestamp": 1539435857000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=宀11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=か\n|kun=やもめ-, すく-ない\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{sense|widow, alone}} [[寡夫]], [[寡婦]], [[鰥寡孤独]]\n* {{sense|few, minority}} [[寡占]], [[寡頭政治]], [[寡聞]], [[寡兵]], [[寡黙]], [[衆寡]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-kanjitab|か|yomi=o}}\n{{ja-noun|か}}\n\n# [[minority]]\n#: {{ja-usex|'''寡'''を以って衆を制する|'''か''' を もって しゅう を せいする|Majority can be conquered by '''minority'''.}}\n\n; Antonyms\n* {{ja-r|衆|しゅう|gloss=[[majority]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-kanjitab|やもめ|yomi=kun}}\n{{ja-noun|やもめ}}\n\n# [[widow]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|男寡|おとこやもめ|gloss=[[widower]]}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

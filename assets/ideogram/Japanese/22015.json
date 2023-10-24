@@ -1,0 +1,39 @@
+{
+  "title": "碑",
+  "ns": 0,
+  "id": 22015,
+  "timestamp": 1527853794000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa4b}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=石08|kyu=碑}}\n\n# [[gravestone]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひ\n|kanon=ひ\n|kun=いしぶみ-, たていし\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|慰霊碑|いれいひ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

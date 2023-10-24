@@ -1,0 +1,54 @@
+{
+  "title": "笠",
+  "ns": 0,
+  "id": 22698,
+  "timestamp": 1551107097000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Japanese buddhist monk hat by Arashiyama cut.jpg|thumb|笠]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹05}}\n\n# bamboo hat",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=りゅう\n|kun=かさ-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|かさ|yomi=k}}\n{{wikipedia|lang=ja}}\n\n{{rfe|lang=ja|Related to [[傘]]}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|かさ|acc=1|acc_ref=ZAJ|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かさ}}\n\n# [[bamboo]] [[hat]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

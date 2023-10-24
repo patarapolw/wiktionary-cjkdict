@@ -1,0 +1,49 @@
+{
+  "title": "直",
+  "ns": 0,
+  "id": 21573,
+  "timestamp": 1553602013000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFAA8}}\n{{character info|0x2F940}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}\n<!--{{stroke order|type=tanimate}}-->\n{{stroke order|strokes=8|type=jbw}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note the different forms, which differ in two respects: both Simplified and Traditional do not have a left vertical stroke, while the orthodox form has a left vertical stroke; and in simplified form, the top component is connected with the bottom, while in the orthodox they are separated – this last difference is shared with unrelated characters [[真]] and [[具]]. The older form and stroke order are used in Japan."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{ja-forms|直|直|直}}\n{{Han char|rn=109|rad=目|as=03|sn=8|four=40716|canj=JBMM|ids=⿱十⿴𠀃三<small>(GH)</small>,⿱𠂇⿴𠀃三<small>(TV)</small>,⿱𠂇⿺𠃊目<small>(JK)</small>}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|ja|置}}, {{l|ja|值}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|ja|具}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0800.050|dkj=23136|dj=1215.010|hdz=10061.070|uh=76F4|ud=30452|bh=AABD|bd=43709}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

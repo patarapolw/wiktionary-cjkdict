@@ -1,0 +1,92 @@
+{
+  "title": "葉",
+  "ns": 0,
+  "id": 25227,
+  "timestamp": 1549066184000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|叶|頁|页}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=艸09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<せふ, よう<えふ\n|kanon=しょう<せふ, よう<えふ\n|kun=は-\n|nanori=よ, わ\n}}\n{{attention|ja|goon also じょう<でふ?}}\n{{attention|ja|kanon also ちょう<てふ?}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{der-top|Compounds}}\n* {{ja-r|千%葉|^ち%ば}}\n* {{ja-r|嫩%葉|どん%よう}}: [[young]] [[leaves]]\n* {{ja-r|葉%月|は%づき}}\n* {{ja-r|葉%山|^は%やま}}\n* {{ja-r|葉%鞘|よう%しょう}}: [[leaf sheath]]\n* {{ja-r|葉%肉|よう%にく}}: [[mesophyll]]\n{{der-mid}}\n* {{ja-r|葉%柄|よう%へい}}: [[petiole]], leaf stalk\n* {{ja-r|葉%片|よう%へん}}: [[lamina]] {{gloss|flat part of a leaf}}\n* {{ja-r|葉%脈|よう%みゃく}}: leaf [[veins]]\n* {{ja-r|葉%緑%素|よう%りょく%そ}}: [[chlorophyll]]\n* {{ja-r|葉%緑%体|よう%りょく%たい}}: [[chloroplast]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Leaf}}\n[[File:Leavessnipedale.jpg|thumb|250px|{{lang|ja|葉}} (''ha'', ''yō''): sunlight through '''[[leaf|leaves]]'''.]]\n</div>\n{{ja-kanjitab|yomi=k|は}}\n{{IPAchar|/pa/}} → {{IPAchar|/fa/}} → {{IPAchar|/ha/}}\n\nFrom {{inh|ja|ojp|sort=は|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>, from {{inh|ja|jpx-pro|*pa}}. Probably distinct from the {{etyl|ojp|-}} verb {{m|ja|生ゆ|tr=hayu||to sprout, to grow}} → modern {{m|ja|生える|tr=haeru}} and {{m|ja|花|tr=hana||flower}} and instead related to {{m|ja|羽|tr=ha||feather; wing}}. Probably also cognate with {{m|ja|歯|tr=ha||tooth}} from the way that both sprout and then later fall, and with {{m|ja|刃|tr=ha||blade}} from similarities in shape. Compare {{cog|en|blade}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|は|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|count=枚|は}}\n\n# [[leaf]], [[needle]], [[blade]] {{qualifier|of a plant}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|葉っぱ|はっぱ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|よう}}\n{{IPAchar|/epu/}} → {{IPAchar|/efu/}} → {{IPAchar|/eu/}} → {{IPAchar|/yoː/}}\n\nFrom {{etyl|ltc|ja|sort=よう}} {{m|zh|葉|tr=yep||leaf}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|よう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|よう|hhira=えふ}}\n\n# [[leaf]], [[needle]], [[blade]] {{qualifier|of a plant}}\n# a [[season]], an [[age]]: a shorter period of time within a longer one\n# an [[administration]]: the period of time during which a certain [[person]] holds a certain [[office]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|よう|hhira=えふ}}\n\n# {{lb|ja|sort=よう|rare}} counter for [[flat]], [[thin]] things such as [[leaves]] or [[paper]]\n# {{lb|ja|by extension}} counter for small [[boat]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|は]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

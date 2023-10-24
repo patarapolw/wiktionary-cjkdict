@@ -1,0 +1,73 @@
+{
+  "title": "蘗",
+  "ns": 0,
+  "id": 25743,
+  "timestamp": 1535923605000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|檘|檗}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{Han etym}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{Han-glyphref|⿱薜𣎳|}}\n{{zh-forms|alt=⿱[[⻀]][[檗]]}} <!-- Note: 檗 and 蘗 are considered as separate characters by the Dictionary of Variant Characters in Taiwan. -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=bò\n|c=baak3,paak3\n|c_note=baak3 - colloquial; paak3 - variant\n|mc=\n|oc=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|chiefly Taiwan}} {{zh-used in|黃蘗|dot=}} ''and related compounds''\n#: {{zh-alt-inline|[[檗#Pronunciation 1|檗]]}} <small>{{qualifier|mainland China}}</small>",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|蘗米|黃蘗|根蘗繁殖|齧蘗吞針|飲冰茹蘗|飲冰食蘗}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|A03599}}\n* {{R:yue:Hanzi}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{Han-glyphref|⿱薜木|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "Found in the historical {{w|Jiyun}} 《{{w2|zh|集韻}}》 dictionary published during the {{w|Song dynasty}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|薜|hv}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|A03573-002-1#26}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

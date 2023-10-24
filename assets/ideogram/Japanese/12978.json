@@ -1,0 +1,105 @@
+{
+  "title": "地",
+  "ns": 0,
+  "id": 12978,
+  "timestamp": 1549545622000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=土03}}\n\n# [[earth]]; [[ground]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ<ぢ\n|kanon=ち\n|kun=つち-\n|nanori=どま\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ja|{{ja-r|土%地|と%ち}}: [[ground]], [[land]]\n|{{ja-r|意%地%悪|い%じ%わる}}\n|{{ja-r|地%球|ち%きゅう}}\n|{{ja-r|地%底|ち%てい}}\n|{{ja-r|地%理|ち%り}}\n|{{ja-r|地%盤|ち%ばん}}\n|{{ja-r|地%位|ち%い}}\n|{{ja-r|地%域|ち%いき}}\n|{{ja-r|地%下|ち%か}}\n|{{ja-r|地%学|ち%がく}}\n|{{ja-r|地%球|ち%きゅう}}\n|{{ja-r|地%区|ち%く}}\n|{{ja-r|地%形|ち%けい}}\n|{{ja-r|地%上|ち%じょう}}\n|{{ja-r|地%租|ち%そ}}\n|{{ja-r|地%点|ち%てん}}\n|{{ja-r|地%主|じ%ぬし}}\n|{{ja-r|地%表|ち%ひょう}}\n|{{ja-r|地%方|ち%ほう}}\n|{{ja-r|地%震|じ%しん}}\n|{{ja-r|天%地|てん%ち}}: heaven and earth\n|{{ja-r|天%変 地%異|てん%ぺん ち%い}}: [[turmoil]] throughout heaven and earth\n|{{ja-r|現%在%地|げん%ざい%ち}}: current location, you are here\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|じ|yomi=o}}\nFrom {{etyl|ltc|ja|sort=じ}} {{m|zh|地|tr=dij<sup>H</sup>}}. The [[呉音#Japanese|goon]] reading, so likely the initial borrowing. Compare modern {{etyl|cmn|-}} ''dì''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=go|じ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|じ|hhira=ぢ}}\n\n# [[earth]], [[dirt]]\n# [[fabric]], [[cloth]]\n#* {{RQ:Botchan}}:\n#*: {{ja-usex|いくらか薄い'''地'''には相違なくっても暑いには極ってる。|いくら か うすい '''じ''' に は そうい なくって も あつい に は きまってる。|However thin the '''cloth''', flannel is flannel and must have been pretty warm at that time of the year.}}\n# {{lb|ja|game of go|sort=し'}} [[territory]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ち|yomi=o}}\nFrom {{etyl|ltc|ja|sort=ち}} {{m|zh|地|tr=dij<sup>H</sup>}}. The [[漢音#Japanese|kan'on]] reading, so likely a later borrowing. The devoicing of the initial consonant might indicate a dialectal source. Compare modern {{etyl|hak|-}} ''thi'', {{etyl|nan|-}} ''tī''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=ko|ち|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ち}}\n\n# [[earth]], [[land]], [[ground]]\n# a [[place]], a [[region]], a piece of land\n# [[territory]], [[dominion]]\n# {{qualifier|of a crate, etc.}} the [[bottom]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|ち|suffix}}\n\n# [[place]], [[area]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|つち}}\nFrom {{etyl|ojp|ja|sort=つち}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つち|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|土}} {{qualifier|more common for this reading}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つち}}\n\n# [[earth]], [[dirt]], [[mud]], [[soil]]\n# the [[ground]]\n# the [[earth]] {{qualifier|as opposed to the heavens}}\n# the [[ground]] or [[bottom]] of something {{qualifier|as of a price range}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

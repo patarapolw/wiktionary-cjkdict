@@ -1,0 +1,39 @@
+{
+  "title": "滚",
+  "ns": 0,
+  "id": 19345,
+  "timestamp": 1507155364000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|滾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水11}}\n\n# {{alt-form|lang=ja|滾}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[こん]] (kon)|kun=[[たぎる]] (tagiru)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character lacks {{w|JIS X 0213|JIS support}} and is not used in Japan. {{l|ja|滾}} (U+6EFE) is used instead."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

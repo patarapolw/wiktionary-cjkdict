@@ -1,0 +1,39 @@
+{
+  "title": "甫",
+  "ns": 0,
+  "id": 21101,
+  "timestamp": 1544868810000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|叀}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=用02}}\n\n# {{defn|lang=ja|sort=用02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ\n|kanon=ふ\n|kanyoon=ほ\n|kun=はじ-め, すけ\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|はじめ}}\n\n# {{given name|male|lang=ja|sort=はじめ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

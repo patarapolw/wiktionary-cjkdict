@@ -1,0 +1,39 @@
+{
+  "title": "叉",
+  "ns": 0,
+  "id": 12038,
+  "timestamp": 1553569691000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=又01}}\n\n# [[fork]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃ\n|kanon=さ\n|kun=また-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|叉焼|チャーシュー}}: [[char siu]], a style of [[barbecue]] pork wherein the meat is [[truss]]ed, [[marinate]]d, [[skewer]]ed, and then [[roast]]ed\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

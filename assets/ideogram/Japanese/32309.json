@@ -1,0 +1,78 @@
+{
+  "title": "鱏",
+  "ns": 0,
+  "id": 32309,
+  "timestamp": 1554084408000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚12}}\n\n# [[ray]]\n# [[skate]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じん<じん<じむ, いん<いん<いむ\n|kanon=しん<しん<しむ, いん<いん<いむ\n|kun=えい-<えひ-, かじき-<かぢき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えい|yomi=kun}}\nFrom {{der|ja|ain|sort=えい|アイ|tr=ay||arrow|pos=by extension, \"point\"}}, by its stingers {{rfv-etymology|ja}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鱝}}\n* {{ja-l|海鷂魚}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|え.い|y=k|acc=1}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えい|エイ|hhira=えひ|hkata=エヒ}}\n\n# [[ray]] {{gloss|a kind of cartilaginous fish}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* ''Ei'' refers to rays in general. Stingrays commonly found in Japan are called {{ja-r|赤%鱏|アカ%エイ|[[w:Red stingray|red stingray]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かじき|yomi=kun}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|かじき|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かじき|カジキ|hhira=かぢき|hkata=カヂキ}}\n\n# {{alternative spelling of|lang=ja|梶木||[[marlin]]}}\n\n[[Category:ja:Rays and skates|えい]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "㜢",
+  "ns": 0,
+  "id": 3960154,
+  "timestamp": 1497798086000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𡞱}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lǚ\n|c=leoi5\n|mc=y\n|oc=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Jyutping Database}}\n* [http://www.cns11643.gov.tw/AIDB/query_general_view.do?page=4&code=4269 Chinese National Standards (Master Ideographs Seeker for CNS 11643)]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

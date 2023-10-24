@@ -1,0 +1,42 @@
+{
+  "title": "囟",
+  "ns": 0,
+  "id": 12890,
+  "timestamp": 1516917741000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{liushu|p}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xìn\n|c=seon3,seon3-2\n|md=séng\n|mn=sìn\n|w=2xin\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|anatomy}} [[fontanelle]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|囟門|頭囟|頫囟|囟腦門}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

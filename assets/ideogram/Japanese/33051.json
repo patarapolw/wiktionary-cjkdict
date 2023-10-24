@@ -1,0 +1,66 @@
+{
+  "title": "黐",
+  "ns": 0,
+  "id": 33051,
+  "timestamp": 1541924944000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=黍10}}\n\n# [[bird-lime]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ち, り\n|kanon=ち, り\n|kun=もち-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|黐擌|はが}}, {{ja-r|黐擌|はご}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|もち|yomi=k}}\n\nFrom {{m|ja|糯|tr=mochi||[[glutinous rice|glutinous]] [[rice]]}}.<ref>{{R:Daijisen}}</ref><ref name=\"DJR\"/>\n\n{{rfe|ja|Why?}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|もち|y=k|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|もち|モチ}}\n\n# [[birdlime]] {{gl|[[adhesive]] [[substance]] used for [[trap]]ing [[bird]]s}}\n#: {{syn|ja|鳥黐|tr=torimochi}}\n# {{short for|lang=ja|黐の木|tr=mochi no ki|nodot=1|sort=もち}}: {{taxlink|Ilex integra|species|ver=181111}}, a [[species]] of [[holly]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|黐竿|もちざお}}\n* {{ja-r|黐%躑躅|モチ%ツツジ}}\n* {{ja-r|黐鳥|もちどり}}\n* {{ja-r|黐縄|もちなわ}}\n* {{ja-r|黐の木|もち の き}}\n* {{ja-r|赤%芽%黐|アカ%メ%モチ}}\n* {{ja-r|犬黐|イヌモチ}}\n* {{ja-r|要%黐|カナメ%モチ}}\n* {{ja-r|黒鉄%黐|クロガネ%モチ}}\n* {{ja-r|黄楊%黐|ツゲ%モチ}}\n* {{ja-r|土山 黐|^ツチヤマ モチ|}}\n* {{ja-r|鳥黐|とりもち}}\n* {{ja-r|流し黐|ながしもち}}\n* {{ja-r|鼠%黐|ネズミ%モチ}}\n* {{ja-r|柊%黐|ヒ.イラギ%モチ}}\n* {{ja-r|姫黐|ヒメモチ}}\n* {{ja-r|袋%黐|フクロ%モチ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

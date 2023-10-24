@@ -1,0 +1,44 @@
+{
+  "title": "孝",
+  "ns": 0,
+  "id": 14080,
+  "timestamp": 1552271696000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=子04}}\n\n# [[filial piety]]\n# [[mourning]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう\n|kanon=こう\n|kun=\n|nanori=たか, たかし, のり, よし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|孝敬|こうけい}}\n* {{ja-r|孝行|こうこう}}\n* {{ja-r|孝心|こうしん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|たかし}}\n\n# {{given name|male|lang=ja|sort=たかし}}\n\n[[Category:Japanese male given names|たかし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

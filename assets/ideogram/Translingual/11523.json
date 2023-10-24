@@ -1,0 +1,39 @@
+{
+  "title": "凞",
+  "ns": 0,
+  "id": 11523,
+  "timestamp": 1533130042000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|熙|煕|熈|𠘑|𠘕}}\n{{character info/new}}\n{{character info/new|0xfa15}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China and Japan, the character is composed of {{l|mul|冫}} and {{l|mul|熈}} as the right and left components.\n* In Taiwan and Hong Kong, only the upper left component consists of {{l|mul|冫}} while the bottom consists entirely of {{l|mul|灬}}.\n* In Korea, the middle component {{l|mul|丿}} is missing and {{l|mul|巳}} is replaced by {{l|mul|㔾}}. <!-- Refer Unicode charts, version 10.0 (2017) -->\n* A CJK compatibility ideograph exists at <code>U+FA15</code> for the alternative Japanese form which is similar to the Korean form except {{l|mul|㔾}} is replaced by {{l|mul|巳}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "<code>U+51DE</code>: {{Han char|rn=15|rad=冫|as=14|ask+=12|sn=16|snk+=14|four=37131,37331|canj=IMLUF,IMLSF|ids=⿰冫熈(GJ),⿱⿰冫⿲丿臣巳灬(HT),⿱⿲冫臣㔾灬(K)}}</br>\n<code>U+FA15</code>: {{Han char|rn=15|rad=冫|as=14|sn=16|four=|canj=IUF|ids=⿱⿲冫臣巳灬}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0133.460|dkj=01721|dj=0298.280|hdz=10301.160|uh=51DE}}\n{{Han ref|uh=FA15}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

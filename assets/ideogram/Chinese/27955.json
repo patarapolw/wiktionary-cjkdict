@@ -1,0 +1,76 @@
+{
+  "title": "跛",
+  "ns": 0,
+  "id": 27955,
+  "timestamp": 1522700072000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=㝿,𤿑,𨈵}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|足|皮|ls=psc|c1=s|c2=p|t1=foot}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{inh|zh|sit-pro|*(p/b)aːj||lame; limp; askew}}. Colloquial readings in some southern varieties preserve the Old Chinese rime; the colloquial word is written as {{zh-l|*𨃅}} in Southwestern Mandarin and Xiang.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=bǒ\n|m-s=bo3\n|c=bai1,bo2\n|c_note=bai1 - vernacular; bo2 - literary\n|h=pfs=pâi;gd=bai1\n|mn=pái/xm,twv:páiⁿ/ml:pó\n|mn_note=pái/páiⁿ - vernacular; pó - literary\n|mn-t=po2\n|mc=1\n|oc=1,2\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[lame]]; [[crippled]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|跛子|跛立箕坐|跛羅蓋子|跛腳|跛足|跛蹇|跛蹶|跛躓|跛鱉千里|跛腳鴨|偏跛|傴巫跛擊|盲僮跛豎|眇跛|跛匡|跛夫|跛奚|跛覡|跛曳|跛牂|跛癱|跛眇|跛行|跛足從事|跛跨|跛踦|跛蹩|跛躄|跛驢|跛鱉|踦跛|蹇跛|躄跛|顛跛|跛跤|手瘸腳跛|瘸手跛腳|跛佬}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=bì\n|c=bei3\n|mc=2\n|oc=n,1\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|跛倚|跛立|跛立箕坐}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}\n* {{R:nan:thcwdq}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

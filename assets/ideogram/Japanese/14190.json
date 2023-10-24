@@ -1,0 +1,44 @@
+{
+  "title": "宿",
+  "ns": 0,
+  "id": 14190,
+  "timestamp": 1550142077000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|やど}}\n\n# [[lodging]], [[inn]]\n# [[house]], [[home]]"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=宀08}}\n\n# [[lodging]], [[inn]]\n# [[home]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ, すく\n|kanon=しゅう, しゅく\n|kanyoon=しゅく\n|kun=やど-る, やど-, やど-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|民%宿|みん%しゅく}}: traditional Japanese budget inn\n* {{ja-r|新%宿|^しん%じゅく}}: [[Shinjuku]]\n* {{ja-r|宿%題|しゅく%だい}}: [[homework]]\n* {{ja-r|宿%命|しゅく%めい}}: [[destiny]]; [[fate]]\n* {{ja-r|宿%泊|しゅく%はく}}: [[lodging]]\n* {{ja-r|野%宿|の%じゅく}}: sleeping rough; wild camping\n* {{ja-r|安%宿|やす%やど}}: cheap [[hotel]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

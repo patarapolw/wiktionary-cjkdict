@@ -1,0 +1,49 @@
+{
+  "title": "援",
+  "ns": 0,
+  "id": 16410,
+  "timestamp": 1551587510000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん, おん\n|kanon=えん\n|kun=たす-ける, ひ-く, たすけ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えん|yomi=on}}\nFrom {{der|ja|ltc|sort=えん|-}} {{ltc-l|援}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えん|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えん}}\n\n# [[pull]]; [[draw]]\n# [[aid]]; [[assist]]; [[help]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

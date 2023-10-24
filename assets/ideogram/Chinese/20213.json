@@ -1,0 +1,44 @@
+{
+  "title": "燧",
+  "ns": 0,
+  "id": 20213,
+  "timestamp": 1511578812000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|火|遂|c1=s|c2=p|t1=fire|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=suì\n|c=seoi6\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[flintstone]]\n# [[beacon]] [[fire]]; [[signal]] fire\n# [[torch]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|燧木|燧象|燧人氏|燧石|烽燧|燧火鏡|鑽燧|陽燧|邊燧|陰燧}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

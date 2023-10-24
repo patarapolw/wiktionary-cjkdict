@@ -1,0 +1,44 @@
+{
+  "title": "柱",
+  "ns": 0,
+  "id": 17472,
+  "timestamp": 1545044500000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=木05}}\n\n# {{defn|lang=ja|sort=木05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゅう<ぢゆう\n|kanon=ちゅう\n|kun=はしら-, ことじ, ささえる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|はしら|yomi=k}}\n{{ja-noun|はしら}}\n\n# [[pillar]]"
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|はしら|counter}}\n\n# gods, spirits, [[worship]]ped entity.\n# [[spirit tablet]]s, cremation remains."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

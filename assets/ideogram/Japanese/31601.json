@@ -1,0 +1,71 @@
+{
+  "title": "駅",
+  "ns": 0,
+  "id": 31601,
+  "timestamp": 1537153391000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|驛|驿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|駅|驛}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han simp|驛|f=睪|t=尺}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=馬04|kyu=驛}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=やく\n|kanon=えき\n|kun=うまや-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えき|yomi=o}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えき|acc=a|y=on|acc_ref=NHK}}\n\nNote: When used as a suffix, the accent falls on the last syllable of the place name.<ref>{{Template:R:NHK Hatsuon}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えき|kyu=驛}}\n\n# [[station]] (train, underground/subway)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|駅%員|えき%いん|gloss=station agent}}\n* {{ja-r|駅%長|えき%ちょう|gloss=stationmaster}}\n{{mid2}}\n* {{ja-r|駅%伝|えき%でん|gloss=long-distance relay race}}\n* {{ja-r|駅%前|えき%まえ|gloss=in front of the station}}\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|道の駅|みち の えき}}\n* {{ja-r|海の駅|うみ の えき}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />\n\n{{C|ja|Rail transportation}}\n\n{{C|ja|Rail transportation}}\n\n[[Category:Japanese basic words|えき]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

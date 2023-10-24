@@ -1,0 +1,53 @@
+{
+  "title": "奍",
+  "ns": 0,
+  "id": 13542,
+  "timestamp": 1527676029000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=quān\n|ma=Zh-quan.ogg\n|c=\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=\n|oc=\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[meal]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=juàn\n|ma=\n|c=\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=\n|oc=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[roll]] [[rice]] [[balls]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "References",
+                      "text": "* [http://www.cns11643.gov.tw/AIDB/query_general_view.do?page=3&code=6467 Chinese National Standards (Master Ideographs Seeker for CNS 11643)]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

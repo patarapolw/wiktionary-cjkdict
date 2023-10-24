@@ -1,0 +1,44 @@
+{
+  "title": "瑙",
+  "ns": 0,
+  "id": 20859,
+  "timestamp": 1546999876000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=nǎo\n|c=nou5\n|mn=ló\n|mn-t=nao2\n|oc=y\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-used in|瑪瑙}}\n# {{zh-used in|多瑙}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|多瑙河|瑪瑙|瑪瑙紋}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

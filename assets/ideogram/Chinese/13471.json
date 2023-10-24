@@ -1,0 +1,83 @@
+{
+  "title": "夆",
+  "ns": 0,
+  "id": 13471,
+  "timestamp": 1553314961000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F85C}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{cleanup|zh|This character belongs to phonetic series 丰. The character that belongs to series 丯 is 𡕗. Historic pronunciation /ɦɑiH/ in section ''Pronunciation'' may need to be moved too}}\n{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|夂|t1=foot, walk|丰|t2=bush, brush|ls=psc|c1=s|c2=p}} – also idiomatic, a foot walking through brush, which resists being moved through."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{zh-pron\n|m=féng\n|c=fung1,fung4\n|mc=1\n|oc=2\n|ma=\n|cat=v\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# to [[meet]]"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{zh-pron\n|m=páng\n|cat=pn\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{surname|lang=zh}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|豐|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-see|鋒|ssv}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-see|蜂|ss}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{zh-see|峰|ss}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{zh-see|烽|ss}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

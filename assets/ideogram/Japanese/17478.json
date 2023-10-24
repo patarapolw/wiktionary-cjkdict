@@ -1,0 +1,160 @@
+{
+  "title": "柵",
+  "ns": 0,
+  "id": 17478,
+  "timestamp": 1553552788000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|栅|棚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木05}}\n\n# [[fence]], [[stockade]]\n# [[fort]]\n# [[weir]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃく, せん\n|kanon=さく, さん\n|kun=しがらみ-, しがら-む, とりで-, やらい-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|柵%戸|さく%こ}}\n* {{ja-r|柵%址|さく%し}}\n* {{ja-r|柵塁|さくるい}}\n* {{ja-r|砦柵|さいさく}}\n* {{ja-r|城柵|じょうさく}}\n* {{ja-r|竹柵|ちくさく}}\n* {{ja-r|鉄柵|てっさく}}\n* {{ja-r|馬柵|うませ}}, {{ja-r|馬柵|ませ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|さく|yomi=kanon}}\n\nFrom {{der|ja|ltc|sort=さく|-}} {{ltc-l|柵|id=2}}.\n\nCompare modern {{cog|yue|柵|tr=caak<sup>3</sup>}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=ko|さく|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さく}}\n\n# a [[fence]]\n#: {{syn|ja|垣|tr=kaki}}\n# {{lb|ja|by extension}} a [[wooden]] [[fort]]\n#: {{syn|ja|[[塞]], [[砦]]|tr=toride}}\n# a [[weir]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|柵%際|さく%ぎわ}}\n* {{ja-r|柵杭|さくくい}}\n* {{ja-r|柵の木|さく の き}}\n* {{ja-r|柵%門|さく%もん}}\n* {{ja-r|柵%矢来|さく%やらい}}\n* {{ja-r|厨%川の柵|^くりや%がわ の ^さく}}\n* {{ja-r|電気%柵|でんき%さく}}, {{ja-r|電%柵|でん%さく}}\n* {{ja-r|渟%足%柵|^ぬ%たり の% ^さく}}\n* {{ja-r|牧%柵|ぼく%さく}}\n* {{ja-r|槍%柵|やり%さく}}\n* {{ja-r|欄柵|らんさく}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|さく}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=さく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しがらみ|yomi=k}}\n{{IPAfont|⟨siɡarami<sub>1</sub>⟩}} → {{IPAchar|/siɡaramʲi/}} → {{IPAchar|/ɕiɡarami/}}\n\nThe {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|柵む|tr=shigaramu||to [[entangle]]}}.<ref>{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|笧}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|しがらみ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しがらみ}}\n\n# a [[weir]]\n#* {{RQ:Manyoshu|2|197}}\n#*: {{ja-usex|sort=しからみ|m=明日香%川 '''四我良美'''渡%之 塞益%者 進%留%水%母 能杼尓賀%有%萬思|m_kana=あすか%がは '''しがらみ'''わた%し せかませ%ば ながる%る%みづ%も のどにか%あら%まし|明日香%川'''しがらみ'''渡し塞かませば流るる水ものどにかあらまし|^あすか%-がは '''しがらみ''' わたし せかませば ながるる みづ も のど に か あらまし|rom=Asuka-gawa '''shigarami''' watashi sekamaseba nagaruru mizu mo nodo ni ka aramashi|Asuka River―if one were to '''fence''' the stream, blocking it with '''weirs''', surely the rushing water would lie calm within its banks.<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|publisher=Stanford University Press|isbn=0-8047-3157-8|page=217}}</ref>}}\n#* '''905''', ''{{w|Kokin Wakashū}}'', (book 5, poem 303; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 32)\n#*: {{ja-usex|山川に風のかけたる'''しがらみ'''は流れもあへぬ[[紅葉]]なりけり|やまがは に かぜ の かけたる '''しがらみ''' は ながれ も あへぬ もみぢ なりけり|rom=yamagawa ni kaze no kaketaru '''shigarami''' wa nagare mo aenu momiji narikeri|the autumn leaves are unable to resist the current flowing past the '''weir''' built by the wind in the deep mountain river.<ref>{{cite-book|1996|Laurel Rasplica Rodd|author2=Mary Catherine Henkenius|Kokinshū: A Collection of Poems Ancient and Modern|edition=reprint|publisher=Cheng & Tsui|isbn=0-8872-7249-5|page=134}}</ref>}}\n# {{lb|ja|by extension}} an [[obstacle]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|柵%伏す|しがらみ%ふす}}\n* {{ja-r|風の柵|かぜ の しがらみ}}\n* {{ja-r|義理の柵|ぎり の しがらみ}}\n* {{ja-r|鹿の柵|しか の しがらみ}}\n* {{ja-r|袖の柵|そで の しがらみ}}\n* {{ja-r|流し柵|ながし-しがらみ}}\n* {{ja-r|冬の柵|ふゆ の しがらみ}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しがらみ}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=しからみ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|き|yomi=k}}\n{{IPAfont|⟨ki<sub>2</sub>⟩}} → *{{IPAchar|/kʷɨ/}} → {{IPAchar|/ki/}}\n\nFrom {{inh|ja|ojp|sort=き|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|城}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|き}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|き}}\n\n# a [[fortress]]\n#: {{syn|ja|城|tr=shiro|砦|tr2=toride}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|柵戸|きのへ}}, {{ja-r|柵戸|きへ}}\n* {{ja-r|雄%勝の柵|^お%かち の ^き}}\n* {{ja-r|金沢の柵|^かねざわ の ^き}}\n* {{ja-r|渟%足%柵|^ぬ%たり の% ^き}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|くえ|yomi=k}}\n{{IPAfont|⟨kupe<sub>1</sub>⟩}} → *{{IPAchar|/kupʲe/}} → {{IPAchar|/kufe/}} → {{IPAchar|/kuwe/}} → {{IPAchar|/kue/}}\n\nFrom {{inh|ja|ojp|sort=くえ|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|くえ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くえ|hhira=くへ}}\n\n# {{lb|ja|obsolete|sort=くえ}} a [[fence]]\n#* {{RQ:Manyoshu|14|3537}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3537 here]\n#*: {{ja-usex|m='''久敝'''胡之尓 武藝波武古宇馬能 波都々々尓 安比見之兒良之 安夜尓可奈思母|m_kana='''くへ'''こしに むぎはむこうまの はつはつに あひみしこらし あやにかなしも|'''くへ'''越しに麦%食む[[小%馬]]のはつはつに相%見し子らしあやに愛しも|'''くへ'''こし に むぎ% はむ こ%うま の はつはつ に あひ%みし こらし あや に かなし も|rom='''kue'''koshi ni mugi hamu kouma no hatsuhatsu ni aimishi korashi aya ni kanashi mo|Like a horse going over a '''fence''' and eating wheat, I barely see her; how lovely she is.}}\n#: {{syn|ja|崩垣|tr=kuegaki}}\n# the [[exit]] and [[entrance]] of a [[port]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|柵%越し|くえ%こし}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

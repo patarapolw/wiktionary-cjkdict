@@ -1,0 +1,61 @@
+{
+  "title": "鮆",
+  "ns": 0,
+  "id": 32108,
+  "timestamp": 1527673713000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𫚖}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=cǐ\n|c=ci2\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# a kind of [[fish]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:yue:Hanzi}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jì\n|c=cai5\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[mullet]] (fish)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

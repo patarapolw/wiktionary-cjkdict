@@ -1,0 +1,109 @@
+{
+  "title": "銀",
+  "ns": 0,
+  "id": 29454,
+  "timestamp": 1553777705000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|银|鋃}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=金06}}\n\n# [[silver]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=ぎん\n|kun=しろがね-, かね-\n|nanori=うん, かな, かね\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|銀貨|ぎんか}}\n* {{ja-r|銀行|ぎんこう}}: a bank (a financial institution)\n* {{ja-r|白銀|はくぎん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|かね}}\nFrom {{etyl|ojp|ja|sort=かね}}. May be ultimately derived from [[onomatopoeia]] {{m|ja|カンカン|tr=kankan||clang clang}}, the sound of hitting metal. Compare Cantonese {{m|yue|金|tr=gam<sup>1</sup>||metal, gold}}, Sanskrit {{m|sa|कनक||gold, golden}}, possibly suggesting a common onomatopoeic derivation.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|金}}, {{l|ja|鉄}}, {{l|ja|銅}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|かね}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かね}}\n\n# [[metal]]\n# [[money]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "* In former times, silver was the basis for the Japanese economy.\n* In modern Japanese, ''kane'' is more commonly spelled using the character for {{m|en|gold}}: {{l|ja|金}}.\n* The {{m|en|money}} sense is more commonly prefixed with {{m|ja|お|tr=o-}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|しろがね|r=y}}\nCompound of {{compound|ja|sort=しろがね|白|tr1=shiro|t1=white|金|tr2=kane|t2=metal}}. Starting from the [[w:Muromachi period|Muromachi Period]], the ''kane'' changes to ''gane'' due to {{rendaku|しろがね}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=h|y=k|しろがね}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しろがね}}\n\n# [[silver]]\n# silver [[dust]] mixed into [[glue]] or some other [[base]]: silver [[paint]] or [[lacquer]]\n# silver [[thread]]\n# silver [[coin]]\n# the [[color]] silver",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{der-top|Compounds}}\n* {{ja-r|銀%色|しろがね%-いろ}}: a [[bright]] [[shining]] color, like [[silver]]\n* {{ja-r|白%銀%蜘蛛|しろ%がね%-ぐも|rom=-}}, {{ja-r|銀%蜘蛛|しろがね%-ぐも}}: a type of [[spider]]\n* {{ja-r|銀%細%工|しろがね-%ざ%いく}}: [[finework]] using silver\n* {{ja-r|銀%師|しろがね%し}}: a [[silverworker]], a [[silversmith]]\n* {{ja-r|銀%草|しろがね%そう}}: alternate term for {{taxlink|Dichocarpum stoloniferum|species|ver=171201}}, a type of low-growing flowering plant in family [[Ranunculaceae]]\n* {{ja-r|銀%作|しろがね%-づくり}}: something [[decorated]] in silver, or made from silver\n* {{ja-r|銀%屋|しろがね%や}}: a [[silverworker]] or [[silversmith]]'s place of business; a [[silverworker]] or [[silversmith]]; {{qualifier|archaic}} a [[moneychanger]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=o|ぎん}}\n{{elements|Ag|{{ja-r|パラジウム}}|Pd|{{ja-r|カドミウム}}|Cd|lang=ja|sort=きん'}}\n{{wikipedia|lang=ja}}\nFrom {{etyl|zhx|ja|sort=きん'}} {{m|zh|銀}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=a|y=ko|ぎん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぎん}}\n\n# [[silver]] (Ag)\n# {{lb|ja|sort=ぎん|shogi}} short for {{m|ja|銀将|tr=ginsho||the silver general|pos=a [[w:shogi|shogi]] piece}}\n\n[[Category:Japanese basic words|きん']]\n[[Category:ja:Metals|きん']]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

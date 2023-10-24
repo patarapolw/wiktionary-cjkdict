@@ -1,0 +1,73 @@
+{
+  "title": "韻",
+  "ns": 0,
+  "id": 31097,
+  "timestamp": 1548602090000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|韵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=音10}}\n# rhyme\n# vowel sound",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=うん\n|kanon=うん\n|kanyoon=いん<ゐん\n|kun=ひびき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いん|yomi=kanyoon}}\n''[[慣用音#Japanese|Kan'yoon]]'' pronunciation."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|いん|acc=0|acc_ref=DJR|y=kanyoon}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いん|hhira=ゐん}}\n\n# [[rhyme]]\n# {{lb|ja|phonetics}} [[final]]\n#: {{syn|ja|韻母|tr1=inbo}}\n# {{lb|ja|phonetics}} a [[rhyme]] [[group]] in Chinese {{w|Rime dictionary|rhyme dictionaries}}, consisting of [[kanji]] sharing the same or similar [[final]]s\n#: {{ant|ja|音|tr1=on}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|韻を踏む|いん を ふむ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|いん|hhira=ゐん}}\n\n# [[rhyme]]; [[final]]\n# [[echo]]; [[reverberation]]; [[lingering]] [[charm]]\n# [[elegance]]; [[taste]]\n# [[poetry]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|韻書|いんしょ}}\n* {{ja-r|韻致|いんち}}\n* {{ja-l|韻紐}}\n* {{ja-r|韻尾|いんび}}\n* {{ja-l|韻腹}}\n* {{ja-r|韻律|いんりつ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

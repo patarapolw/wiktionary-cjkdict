@@ -1,0 +1,54 @@
+{
+  "title": "兼",
+  "ns": 0,
+  "id": 49483,
+  "timestamp": 1549576516000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=八10|grade=7}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けん<けむ\n|kanon=けん<けむ\n|kun=か-ねる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ja|兼営|兼官|兼業|兼勤|兼言|兼行|兼修|兼職|兼摂|兼帯|兼題|兼任|兼備|兼併|兼補|兼務|兼有|兼用}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{l|ja|兼す}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Conjunction",
+              "text": "{{ja-pos|conjunction|hira=-けん-}}\n\n# -[[cum]]-, [[concurrently]], and; in addition\n#: {{ja-usex|[[書斎]]'''兼'''[[応%接%間]]|しょさい-'''けん'''-おう%せつ%ま|study-'''cum'''-drawing room}}\n#: {{ja-usex|[[首相]]'''兼'''[[外相]]|しゅしょう-'''けん'''-がいしょう|someone who holds the offices of both Prime Minister and Foreign Minister}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|けん}}\n\n# {{given name|male|lang=ja|sort=けん}}\n\n[[Category:Japanese conjunctions|けん]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

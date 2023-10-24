@@ -1,0 +1,39 @@
+{
+  "title": "轢",
+  "ns": 0,
+  "id": 28510,
+  "timestamp": 1538967122000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|轹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=車15}}\n\n# {{defn|lang=ja|sort=車15}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りゃく\n|kanon=れき\n|kun=きし-る, ひ-く\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|軋轢|あつれき}}: [[conflict]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

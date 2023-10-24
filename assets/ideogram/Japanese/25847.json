@@ -1,0 +1,61 @@
+{
+  "title": "虻",
+  "ns": 0,
+  "id": 25847,
+  "timestamp": 1540714151000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫03}}\n\n# [[horsefly]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=みょう<みやう|kanon=もう<まう|kanyoon=ぼう<ばう|kun=あぶ-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|あぶ|yomi=k}}\n{{swp|lang=ja|アブ}}\n{{swp|lang=ja|アブ科}}\n* {{ja-l|蝱}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|あぶ|acc=1}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あぶ|アブ}}\n\n# a [[horsefly]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "{{der-top|Idioms}}\n* {{ja-r|虻蜂取らず|あぶ はち とらず}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Kodansha}}\n\n{{C|ja|Dipterans|sort=あぶ|Parasites}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

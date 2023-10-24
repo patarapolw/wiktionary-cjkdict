@@ -1,0 +1,56 @@
+{
+  "title": "鯈",
+  "ns": 0,
+  "id": 32175,
+  "timestamp": 1549239396000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tiáo,chóu,yóu,1nb=standard in Mainland,2nb=standard in Taiwan,3nb=variant\n|c=jau4,tiu4\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=chóu\n|mc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[pale]] [[chub]] {{gloss|{{taxlink|Zacco platypus|species|noshow=1}}}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

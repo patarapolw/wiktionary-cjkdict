@@ -1,0 +1,37 @@
+{
+  "title": "㜺",
+  "ns": 0,
+  "id": 3963510,
+  "timestamp": 1497798130000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𫲗}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zàn\n|c=zaan2\n|mc=y\n|oc=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C02425}}\n* {{R:yue:jyut.net}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "艦",
+  "ns": 0,
+  "id": 24724,
+  "timestamp": 1551107837000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|舰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=舟14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん\n|kanon=かん\n|kun=いくさぶね-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|かん|yomi=o}}\n{{ja-pron|yomi=kanon|かん|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かん}}\n\n# [[warship]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|軍艦|ぐんかん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|母艦|ぼかん}}: [[mothership]]\n* {{ja-r|航空母艦|こうくう ぼかん}}: [[aircraft carrier]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Military|かん]]\n[[Category:ja:Watercraft|かん]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

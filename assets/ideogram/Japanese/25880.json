@@ -1,0 +1,39 @@
+{
+  "title": "蚜",
+  "ns": 0,
+  "id": 25880,
+  "timestamp": 1525180713000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫04}}\n\n# {{defn|lang=ja|sort=虫04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[か]] (ka), [[け]] (ke)|kun=[[あぶらむし]] (aburamushi)|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* In Japanese character code set:[[Shift-JIS]], this character is not entried."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

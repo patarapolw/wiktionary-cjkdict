@@ -1,0 +1,88 @@
+{
+  "title": "啡",
+  "ns": 0,
+  "id": 12482,
+  "timestamp": 1539369292000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|口|非|ls=psc|c1=s|c2=p|t1=mouth}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=fēi\n|m-s=\n|c=fe1,fei1\n|c-t=fie2\n|g=fi1\n|h=pfs=pî/fî\n|h_note=pî - used in {{zh-l|*咖啡}}; fî - used in {{zh-l|*嗎啡}}\n|j=\n|mb=\n|md=bĭ\n|mn=pi/hui\n|mn_note=pi - colloquial (used in {{zh-l|*咖啡}}); hui - literary\n|mn-t=hui1\n|w=1fi\n|x=\n|cat=c:n,c:a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used2|t}}\n#: {{zh-x|咖啡|coffee}}\n#: {{zh-x|嗎{mǎ}啡|morphine}}\n# {{lb|zh|chiefly|Cantonese}} {{zh-short|咖啡|coffee}}\n#: {{zh-x|齋啡|black '''coffee'''|C}}\n# {{zh-div|色}} {{lb|zh|chiefly|Cantonese}} [[brown]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|嗎啡中毒|咖啡座|咖啡色|嗎啡|咖啡|咖啡店|嗎啡針|啡咖|咖啡因|咖啡鹼|網路咖啡|啡色|齋啡|凍啡|啡走|茄哩啡}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=pèi\n|mc=y\n|oc=y\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=pái\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

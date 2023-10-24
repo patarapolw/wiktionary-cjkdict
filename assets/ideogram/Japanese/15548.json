@@ -1,0 +1,66 @@
+{
+  "title": "悦",
+  "ns": 0,
+  "id": 15548,
+  "timestamp": 1549026970000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|悅}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心07}} <!-- 悅 (U+6085) is not a kyūjitai form (lacks JIS support) -->\n\n# ecstasy",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えち\n|kanon=えつ\n|kun=よろこ-ぶ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えつ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えつ|-}} {{ltc-l|悅}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えつ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えつ|kyu=悅}}\n\n# [[joy]]; [[pleasure]]; [[delight]]"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えつ|kyu=悅}}\n\n# {{lb|ja|literary}} [[rejoicing]]; [[happiness]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|悦に入る|えつ に いる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

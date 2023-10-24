@@ -1,0 +1,66 @@
+{
+  "title": "炔",
+  "ns": 0,
+  "id": 19844,
+  "timestamp": 1553080014000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|耿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|火|夬|ls=psc|c1=s|c2=p|t1=fire}} ― smoky.\n\nFor the sense “alkyne”, the {{zh-l|*夬}} component is derived from {{zh-l|缺|to lack}}, of which it is also the phonetic element. The character was coined in light of fact that [[alkyne]]s are ''flammable'' ({{zh-l|火}}―“fire”), and ''lack'' two of the hydrogens compared to [[alkene]]s of the [[homologous series]].\n\nCompare {{zh-l|烷}} and {{zh-l|烯}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{zh-l|缺}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=quē,jué\n|c=kyut3\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-div|烴}} {{lb|zh|organic compound}} [[alkyne]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|乙炔|丙炔|丁炔|炔烴|炔鍵|丁二炔|苯乙炔}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=guì\n|c=gai3\n|mc=y\n|oc=y\n|cat=a,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[smoky]]\n# {{surname|lang=zh}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "企",
+  "ns": 0,
+  "id": 10642,
+  "timestamp": 1524441362000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人04}}\n\n# plan",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=き\n|kanon=き\n|kun=くわだ-てる<くはだ-てる, くわだて<くはだて\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|企%画|き%かく}}\n* {{ja-r|企%業|き%ぎょう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "兹",
+  "ns": 0,
+  "id": 11424,
+  "timestamp": 1537645280000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|茲|玆}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "Unorthodox variant {{Han simp|茲|nocap=y}} with {{l|zh|䒑}} as the top component instead of {{l|zh|艹}} found in the Ming dynasty orthographic dictionary <big>《俗書刊誤》</big>.\n\nThe earliest known form of this character can be traced back to the {{w|Han dynasty}} 《{{w2|zh|孔宙碑}}》 tablet written in {{w|clerical script}}. <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A03473-002#11 -->\n\nThis character became the orthodox form in mainland China based on the 1965 Table of General Used Chinese Characters for Publishing 《{{w2|zh|印刷通用漢字字形表}}》 where {{w|Xin Zixing}} ({{w2|zh|新字形#新舊字形對照表|新字形}}) is promulgated for the first time."
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|茲}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* This character, <big>兹</big> which contains {{l|zh|䒑}} (3 strokes) is the orthodox form used in mainland China. <!-- See also Character 1653 - https://zh.wikisource.org/wiki/通用規范漢字表 -->\n* The character <font size=4, lang=zh-hant>[[茲#Chinese|茲]]</font> (<code>U+8332</code>) which contains <font size=4, lang=zh-hant>[[艹#Chinese|艹]]</font> (grass radical, 4 strokes in {{w|traditional Chinese}}) is the orthodox form used in modern Taiwan. <!-- Refer https://www.moedict.tw/茲 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|A03473#34}} <!-- Pictorial reference for 《俗書刊誤》 -->\n* {{R:twedu|A03473-002#11}} <!-- Pictorial reference for 《孔宙碑》 -->"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{w|Variant Chinese character|Variant form}} of <big>{{l|zh|玆}}</big> with <big>{{l|zh|䒑}}</big> instead of doubled {{l|zh|亠}} as the top component. Found in the Tang dynasty orthographic dictionary {{w|Ganlu Zishu}} 《{{w2|zh|干祿字書}}》, which lists both <big>兹</big> and {{l|zh|茲}} as unorthodox forms of <big>{{l|zh|玆}}</big>. <!-- Note: The printed reference in the Dictionary of Chinese Character Variants has been broken into two portions. The complete statement reads 「茲、兹、玆， 並上俗中通下正。」 , where 玆 the final character is given as the orthodox form (正), while the first two are its variant forms (俗) -->"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|玆|v}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|B02590-006#18}} <!-- Pictorial reference for 《干祿字書》 -->"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

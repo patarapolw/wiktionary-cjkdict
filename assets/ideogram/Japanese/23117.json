@@ -1,0 +1,44 @@
+{
+  "title": "粥",
+  "ns": 0,
+  "id": 23117,
+  "timestamp": 1553563374000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鬻}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=米06}}\n\n# [[congee]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅく, いく\n|kanon=しゅく, いく\n|kun=かゆ-, ひさ-ぐ, う-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|しゅく|yomi=o}}\n{{ja-kanjitab|かい|yomi=k}}\n{{ja-kanjitab|かゆ|yomi=k}}\n{{ja-pron|acc=0|かゆ|y=k}}\n{{ja-pron|acc=0|かい|y=k}}\n{{ja-pron|acc=2|しゅく|y=o}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かゆ|かい|しゅく}}\n\n# [[congee]] {{gl|a type of rice porridge}}\n\n{{topics|ja|Foods|sort=かゆ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

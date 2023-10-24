@@ -1,0 +1,39 @@
+{
+  "title": "晉",
+  "ns": 0,
+  "id": 17010,
+  "timestamp": 1553310219000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|晋}}\n{{character info/new}}\n{{character info|0x2F8CD}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=日06}} <!-- Not a kyūjitai character. Both 晉 and 晋 are present in the Kangxi dictionary -->\n\n# to [[proceed]]\n# [[Jin]] [[dynasty]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん\n|kanon=しん\n|kun=すす-む, すすむしん-\n|nanori=あき, くに, ゆき\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Alternative form of {{ja-l|晋}} ({{w|Jinmeiyō kanji}} used for names)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

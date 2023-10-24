@@ -1,0 +1,39 @@
+{
+  "title": "峙",
+  "ns": 0,
+  "id": 14517,
+  "timestamp": 1553548601000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=山06}}\n\n# {{defn|lang=ja|sort=山06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ<ぢ\n|kanon=ち\n|kun=そばだ-つ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|峙立|じりつ}}\n* {{ja-r|対峙|たいじ}}\n* {{ja-r|鼎峙|ていじ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

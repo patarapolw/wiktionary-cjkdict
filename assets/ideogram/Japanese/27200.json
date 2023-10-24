@@ -1,0 +1,39 @@
+{
+  "title": "謹",
+  "ns": 0,
+  "id": 27200,
+  "timestamp": 1508408939000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|谨}}\n{{character info/new}}\n{{character info/new|0xfa63}}\n{{character info/new|0xfabf}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=言11|kyu=謹}} <!-- Note: Kyūjitai form 謹 (U+FA63) (CJK compatibility ideograph) -->\n\n# {{defn|lang=ja|sort=言11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=きん\n|kun=つつし-む\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|謹慎|きんしん}}: {{l|en|house}} {{l|en|arrest}}, {{l|en|self}} {{l|en|restraint}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

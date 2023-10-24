@@ -1,0 +1,44 @@
+{
+  "title": "膏",
+  "ns": 0,
+  "id": 24500,
+  "timestamp": 1554011938000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=こう\n|kun=あぶら\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|亜鉛華軟膏|あえんかなんこう}}\n* {{ja-r|按摩膏|あんまこう}}\n* {{ja-r|内股膏薬|うちまたこうやく}}, {{ja-r|内股膏薬|うちまたごうやく}}\n* {{ja-r|眼軟膏|がんなんこう}}\n* {{ja-r|膏血|こうけつ}}\n* {{ja-r|膏肓|こうこう}}\n* {{ja-r|膏薬|こうやく}}\n* {{ja-r|石膏|せっこう}}\n* {{ja-r|石膏像|せっこうぞう}}\n* {{ja-r|軟膏|なんこう}}\n* {{ja-r|絆創膏|ばんそうこう}}\n* {{ja-r|二股膏薬|ふたまたこうやく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|あぶら|yomi=k}}\n{{ja-see|あぶら}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

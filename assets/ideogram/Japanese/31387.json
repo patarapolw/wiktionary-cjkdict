@@ -1,0 +1,49 @@
+{
+  "title": "餐",
+  "ns": 0,
+  "id": 31387,
+  "timestamp": 1538182123000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=食07}}\n\n# {{defn|lang=ja|sort=食07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さん\n|kanon=さん\n|kun=たべもの-, く-う\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|加餐|かさん}}\n* {{ja-r|午餐|ごさん}}\n* {{ja-r|正餐|せいさん}}: [[dinner]]\n* {{ja-r|晩餐|ばんさん}}\n{{der-bottom}}\n\n{{ja-kanjitab|さん|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|さん}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さん}}\n\n# [[eating]] and [[drinking]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

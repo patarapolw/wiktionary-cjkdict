@@ -1,0 +1,39 @@
+{
+  "title": "返",
+  "ns": 0,
+  "id": 28622,
+  "timestamp": 1546152865000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=辵04}}\n\n# to come back, to [[return]], to go back to",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほん\n|kanon=はん\n|kanyoon=へん\n|kun=かえ-す<かへ-す, かえ-る<かへ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|返る|かえる}}\n* {{ja-r|返す|かえす}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

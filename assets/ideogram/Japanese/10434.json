@@ -1,0 +1,90 @@
+{
+  "title": "主",
+  "ns": 0,
+  "id": 10434,
+  "timestamp": 1552465969000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|王|玉|生|丰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=丶04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す\n|kanon=しゅ\n|kun=あるじ-, おも-, ぬし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|主格|しゅかく}}\n* {{ja-r|主観|しゅかん}}\n* {{ja-r|主義|しゅぎ}}\n* {{ja-r|主権|しゅけん}}\n* {{ja-r|主権在民|しゅけんざいみん}}\n* {{ja-r|主語|しゅご}}\n* {{ja-r|主宰|しゅさい}}\n* {{ja-r|主従|しゅじゅう}}, {{ja-r|主従|しゅうじゅう}}\n* {{ja-r|主食|しゅしょく}}\n* {{ja-r|主体|しゅたい}}\n* {{ja-r|主犯|しゅはん}}\n* {{ja-r|主要|しゅよう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|あるじ|acc=1|acc_ref=SMK2}}\n{{ja-pron|y=k|おも|acc=1|acc_ref=SMK2}}\n{{ja-pron|y=k|ぬし|acc=1|acc_ref=SMK2}}"
+            },
+            {
+              "level": 3,
+              "title": "Adjectival noun",
+              "text": "{{ja-adj|infl=な|おも}}\n\n# [[chief]], [[main]], [[principal]], [[foremost]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|おも}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しゅ}}\n\n# [[head]] of the [[family]]\n# [[master]], [[mistress]]\n# one's [[husband]]\n# [[proprietor]], [[landlord]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|主人|しゅじん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|しゅ}}\n\n# the [[Lord]]\n#:{{ja-usex|'''主'''の兄%弟ヤコブ|'''^しゅ''' の きょう%だい ^ヤコブ|James, brother of the Lord}}\n\n{{C|ja|God|sort=しゅ}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぬし}}\n\n# [[master]]\n# [[owner]], [[proprietor]]\n# [[guardian]] [[spirit]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|御%主|お%ぬし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

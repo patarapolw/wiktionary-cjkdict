@@ -1,0 +1,65 @@
+{
+  "title": "笪",
+  "ns": 0,
+  "id": 22708,
+  "timestamp": 1528887198000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=担}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=dá\n|c=daat3\n|h=pfs=ta̍p\n|mn=ta̍t\n|mc=3\n|oc=3\n|cat=c:cls,n,pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} {{zh-classifier|areas}}\n#: {{zh-x|兩 笪 地方|two places|C}}\n#: {{zh-x|兩 笪 地|two pieces of land|C}}\n#: {{zh-x|一 笪 漬|a stain|C}}\n# [[coarse]] [[mat]] made [[of]] [[bamboo]]\n# {{surname|lang=zh}} <!-- 《集韻·曷韻》 笪，姓。 -->",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|笪屋|笪日|竹笪}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=dàn\n|mc=1+2\n|oc=1+2\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} to [[hit]]; to [[beat]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|笪笞}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

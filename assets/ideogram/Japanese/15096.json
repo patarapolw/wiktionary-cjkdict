@@ -1,0 +1,68 @@
+{
+  "title": "廬",
+  "ns": 0,
+  "id": 15096,
+  "timestamp": 1553304978000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|庐}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=广16}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろ\n|kanon=りょ\n|kun=いおり-<いほり, いえ-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "/iho/: *[ipo] → [iɸo] → [iwo] → [io]. Possibly related to {{m|ja|家|tr=ie||house}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|庵}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いお|hhira=いほ}}\n\n# a temporary [[hut]]\n# a temporary [[lodging]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "/ihori/: *[ipori] → [iɸori] → [iwori] → [iori]. The nominalization of verb {{m|ja|庵る|tr=ioru}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|庵}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いおり|hhira=いほり}}\n\n# a temporary [[hut]]\n# a temporary [[lodging]]\n# a small hut for hermits and priests; a [[hermitage]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

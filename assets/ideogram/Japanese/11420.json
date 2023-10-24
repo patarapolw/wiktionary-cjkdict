@@ -1,0 +1,46 @@
+{
+  "title": "兵",
+  "ns": 0,
+  "id": 11420,
+  "timestamp": 1549574763000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=八05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう\n|kanon=へい\n|kun=つわもの-, いくさ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|へい}}\n\n# a [[soldier]]\n# a war machine; a [[weapon]]\n# a [[war]]\n# a [[soldier]], but not [[officer]]; [[private]]; [[corporal]]; [[lance corporal]]\n\n{{ja-noun|つわもの}}\n\n# a war machine; a [[weapon]]\n# military [[ration]]\n# a brave and strong [[warrior]]\n# a [[stubborn]] person\n\n{{ja-noun|ひょう}}\n\n# another name for {{ja-r|歩|ふ}} in [[shogi]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|ja|仗}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

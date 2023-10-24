@@ -1,0 +1,58 @@
+{
+  "title": "期",
+  "ns": 0,
+  "id": 17248,
+  "timestamp": 1553250117000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|朞}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=月08}}\n\n# [[period]]\n# [[time]]\n# [[date]]\n# [[term]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こ, ご\n|kanon=き\n|kun=ちぎ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|期%間|き%かん}}\n* {{ja-r|期%待|き%たい}}\n* {{ja-r|男%根%期|だん%こん%き}}: [[w:Phallic stage|phallic stage]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|き|yomi=o}}\n\nFrom {{etyl|zhx|ja}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|き}}\n\n# [[period]] (of time)\n#: {{ja-usex|反抗'''期'''|はんこう'''き'''|rebellious '''phase'''}}\n# (television show) [[season]]\n#: {{ja-usex|「進撃 の 巨人」 の 二'''期'''|「^しんげき の ^きょじん」 の に'''き'''|the second '''season''' of ''Attack on Titan''}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|紀|き}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

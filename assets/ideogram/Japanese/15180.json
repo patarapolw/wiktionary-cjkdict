@@ -1,0 +1,44 @@
+{
+  "title": "張",
+  "ns": 0,
+  "id": 15180,
+  "timestamp": 1550409493000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|张}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=弓08}}\n\n# {{defn|lang=ja|sort=弓08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう\n|kanon=ちょう\n|kun=は-る, は-り\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|出張|しゅっちょう}}: [[business trip]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|頑張る|がんばる}}\n* {{ja-r|頑張って|がんばって}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

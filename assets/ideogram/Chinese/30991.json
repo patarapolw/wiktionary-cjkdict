@@ -1,0 +1,87 @@
+{
+  "title": "鞞",
+  "ns": 0,
+  "id": 30991,
+  "timestamp": 1532094119000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=bǐng\n|c=bing2,bei2\n|mc=3+4\n|oc=3+4\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[sheath]]; [[scabbard]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=bì\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|韠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=pí\n|mc=2\n|oc=1\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|鼙}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 4",
+              "text": "{{zh-pron\n|m=Pí\n|cat=pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|郫}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 5",
+              "text": "{{zh-pron\n|m=bēi\n|mc=1\n|oc=2\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|牛鞞}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|漁陽鞞鼓|鞞舞|鞞琫}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "瓩",
+  "ns": 0,
+  "id": 21008,
+  "timestamp": 1549693727000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Borrowed from Japanese."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qiānwǎ\n|c=cin1 ngaa5\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dated}} {{n-g|Symbol for {{zh-l|千瓦|kilowatt}}.}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

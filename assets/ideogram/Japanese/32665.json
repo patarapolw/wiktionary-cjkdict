@@ -1,0 +1,143 @@
+{
+  "title": "鶏",
+  "ns": 0,
+  "id": 32665,
+  "timestamp": 1552876345000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鷄|雞}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|鶏|鷄}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=鳥08|kyu=鷄}}\n\n# [[chicken]]\n# [[bird]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=けい\n|kun=にわとり-<にはとり-, とり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鶏冠|けいかん|[[cockscomb]]}}\n* {{ja-r|鶏肉|けいにく|[[chicken]] [[meat]]}}\n* {{ja-r|烏%骨鶏|う%こっけい}}: [[silky]], [[silkie]] {{gloss|breed of chicken}}\n* {{ja-r|軍鶏|ぐんけい}}\n* {{ja-r|水鶏|すいけい|[[rail]]; [[water rail]]}}\n* {{ja-r|養鶏|ようけい|[[poultry]] [[farming]], [[chicken]] [[raising]]}}\n* {{ja-r|黄鶏|かしわ}}: a Japanese native species of chicken with dark reddish-brown feathers; the meat thereof; [[chicken]] (meat)\n* {{ja-r|水鶏|くいな|rom=-}}, {{ja-r|秧鶏|くいな|[[rail]], [[water rail]]}}\n* {{ja-r|軍鶏|シャモ|[[gamecock]]}}\n* {{ja-r|矮鶏|チャボ|[[bantam]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|ニワトリ}}\n{{wp|Chicken}}\n</div>\n{{ja-kanjitab|yomi=k|にわとり}}\n{{IPAfont|⟨nipa tu to<sub>2</sub>ri⟩}} → *{{IPAchar|/nipatːəri/}} → {{IPAchar|/nifatori/}} → {{IPAchar|/niwatori/}}\n\nOriginally derived from the {{m|ja|枕詞|tr=makura kotoba||pillow word|pos=an [[epithet]] as a poetic device}} compound phrase {{m|ja|庭つ鳥|tr=niwa tsu tori}}, {{compound|ja|sort=にわとり|庭|tr1=niwa|t1=[[garden]]|つ|tr2=tsu|pos2={{inh|ja|ojp|-}} possessive particle|鳥|tr3=tori|t3=[[bird]]}}, used in {{etyl|ojp|ja|sort=にわとり}} poetry as an allusive introduction to ''kake'', the older word for “chicken” (see below). The medial ''tsu'' disappeared over time, yielding modern Japanese ''niwatori''.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|にわとり|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|雞}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=鷄|にわとり|ニワトリ|hhira=にはとり|hkata=ニハトリ}}\n\n# a [[domesticate]]d [[chicken]] (''[[Gallus gallus]] [[domesticus]]'')\n#: {{syn|ja|臼辺鳥|tr=usubedori|鳥|tr2=tori}}\n#: {{hyper|ja|雉|tr=kiji}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Proverbs",
+                      "text": "* {{ja-r|鶏を割くに焉んぞ牛刀を用いん|にわとり を さく に いずくん ぞ ぎゅうとう を もち.いん|why [[chop]] a chicken with a [[beef]] [[cleaver]]? → don't [[exaggerate]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|かけ}}\n{{IPAfont|⟨kake<sub>1</sub>⟩}} → *{{IPAchar|/kakʲe/}} → {{IPAchar|/kake/}}\n\nFrom {{etyl|ojp|ja|sort=かけ}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).\n\n[[onomatopoeia|Onomatopoeic]] of the [[sound]] made by a [[chicken]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> Compare English {{m|en|cluck}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|かけ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|雞}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=鷄|かけ}}\n\n# a [[chicken]] {{gl|[[domesticate]]d [[fowl]]}}\n#* {{RQ:Kojiki|poem 2}}\n#*: {{ja-usex\n|m=[...]　爾波都登理　'''迦祁'''波那久　[...]\n|m_kana=[...]　にはつとり　'''かけ'''はなく　[...]\n|[...]　[[庭つ鳥]]　'''鶏'''は鳴く　[...]\n|[...]　にはつとり　'''かけ'''はなく　[...]|rom=...niwa tsu tori, '''kake''' wa naku...|the garden bird, the '''chicken''' clucks|sort=かけ}}\n#: {{syn|ja|臼辺鳥|tr=usubedori}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|くたかけ}}\nFrom {{inh|ja|ojp|-}}.\n\nCompound of {{compound|ja|sort=くたかけ|くた|tr1=kuta|pos1=root for numerous verbs, implying \"[[low-grade]], [[rotten]], [[stinky]]\"|かけ|tr2=kake|t2=[[chicken]]|pos2=see above}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nFormerly a [[derogatory]] term for a chicken. Over time, the derogatory sense was lost, and the term instead took on an [[old-fashioned]] or [[archaic]] sense.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くたかけ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=鷄|くたかけ}}\n\n# {{lb|ja|sort=くたかけ|archaic}} a [[chicken]] {{gl|[[domesticate]]d [[fowl]]}}\n#: {{syn|ja|臼辺鳥|tr=usubedori}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Occasionally seen with the reading {{lang|ja|くだかけ}} (''kudakake'').<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|とり}}\n\nFrom {{m|ja|鳥|tr=tori||[[bird]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|とり|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=鷄|とり}}\n\n# {{altspell|lang=ja|鳥|tr=tori|nodot=1|sort=とり}}: a [[chicken]] {{gl|[[domesticate]]d [[fowl]]}}; chicken [[meat]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|鶏の空%音|とり の そら%ね|[[cock]]'s [[false]] [[cry]]}}\n* {{ja-r|鶏冠|とさか|[[cockscomb]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{top|ja|Chickens|sort=にわとり}}\n\n[[Category:Japanese basic words|にわとり]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

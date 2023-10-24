@@ -1,0 +1,39 @@
+{
+  "title": "銳",
+  "ns": 0,
+  "id": 29506,
+  "timestamp": 1548821523000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|锐|鋭}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金07}} <!-- Not a kyūjitai form of 鋭 (lacks JIS support) -->\n\n# [[pointed]]\n# [[sharpness]]\n# [[edge]]\n# [[weapon]]\n# [[sharp]]\n# [[violent]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えい, だい\n|kanon=えい, たい\n|kun=するど-い, はや-い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character lacks JIS support and is not used in Japan. [[鋭]] (U+92ED) is used instead."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

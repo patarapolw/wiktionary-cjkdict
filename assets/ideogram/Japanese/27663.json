@@ -1,0 +1,39 @@
+{
+  "title": "貿",
+  "ns": 0,
+  "id": 27663,
+  "timestamp": 1553570081000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|贸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=貝05}}\n\n# {{defn|lang=ja|sort=貝05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=む, も\n|kanon=ぼう\n|kun=あきな-う<あきな-ふ, か-える\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|貿%易 摩%擦|ぼう%えき ま%さつ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

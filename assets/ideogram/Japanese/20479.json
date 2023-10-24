@@ -1,0 +1,46 @@
+{
+  "title": "狭",
+  "ns": 0,
+  "id": 20479,
+  "timestamp": 1536754599000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|狹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|狭|狹}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=犬06|kyu=狹}}\n\n# [[cramped]]\n# [[narrow]]\n# [[contract]]\n# [[tight]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<げふ\n|kanon=こう<かふ\n|kanyoon=きょう<けふ\n|kun=せま-い, せば-まる, せば-める, さ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "* {{ja-r|狭い|せまい}}: {{l|en|narrow}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|狭心症|きょうしんしょう}}: {{l|en|heart attack}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

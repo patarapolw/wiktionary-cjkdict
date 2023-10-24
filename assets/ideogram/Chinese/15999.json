@@ -1,0 +1,76 @@
+{
+  "title": "扤",
+  "ns": 0,
+  "id": 15999,
+  "timestamp": 1546152666000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=wù\n|c=ngaat6,ngat6\n|c_note=ngat6 - colloquial\n|mc=y\n|oc=y\n|cat=v\n}}\n{{attention|yue|Please check}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|揺扤|扤扤搖|扤扤板|扤板|扤凳}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=ngat1\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} to [[forcefully]] [[shove]] something into a [[small]] [[space]]\n#: {{zh-syn|塞}}\n# {{lb|zh|Cantonese}} to [[forcefully]] [[try]] to [[persuade]] someone to do something; to [[push]] someone to do something\n#: {{zh-syn|強迫}}\n#: {{zh-x|成日 要 難扤 佢 食飯|regularly need to '''force''' them to eat their meal|C}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|扤失|扤實|扤死貓}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

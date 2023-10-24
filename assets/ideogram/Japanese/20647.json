@@ -1,0 +1,46 @@
+{
+  "title": "率",
+  "ns": 0,
+  "id": 20647,
+  "timestamp": 1536072215000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=玄06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅち, すい, そち, りち\n|kanon=すい, そつ, りつ\n|kun=ひき-いる, おおむ-ね, わりあい-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|りつ|yomi=on}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|りつ}}\n\n# [[rate]], [[ratio]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "title": "侍",
+  "ns": 0,
+  "id": 10866,
+  "timestamp": 1554098003000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人06}}\n\n# [[samurai]]\n# [[wait upon]], [[serve]]",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=さぶらい-<さぶらひ, さぶら-う<さぶら-ふ, さむらい-<さむらひ, さむら-う<さむら-ふ, はべ-る\n|nanori=つこ, ひと\n}}"
+                },
+                {
+                  "level": 5,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|侍%医|じ%い}}\n* {{ja-r|侍%衛|じ%えい}}\n* {{ja-r|侍%御|じ%ぎょ}}\n* {{ja-r|侍%講|じ%こう}}\n* {{ja-r|侍%祭|じ%さい}}\n* {{ja-r|侍%史|じ%し}}\n* {{ja-r|侍%者|じ%しゃ}}\n* {{ja-r|侍%臣|じ%しん}}\n* {{ja-r|侍%従|じ%じゅう}}\n* {{ja-r|侍%女|じ%じょ}}\n* {{ja-r|侍%僧|じ%そう}}\n* {{ja-r|侍%読|じ%どく}}\n* {{ja-r|侍%婢|じ%ひ}}\n* {{ja-r|侍%立|じ%りつ}}\n* {{ja-r|近%侍|きん%じ}}\n* {{ja-r|典%侍|てん%じ}}\n* {{ja-r|内%侍|ない%じ}}\n* {{ja-r|陪%侍|ばい%じ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=float:right;>\n{{wp|lang=ja}}\n{{wp|Samurai}}\n</div>\n{{ja-kanjitab|さむらい|yomi=k}}\n{{IPAfont|⟨sa morapi<sub>1</sub>⟩}} → {{IPAchar|/saburapi/}} → {{IPAchar|/saburafi/}} → {{IPAchar|/samurawi/}} → {{IPAchar|/samurai/}}\n\nSound shift from ''saburai'' (see below), itself the {{m|ja|連用形|tr=ren'yōkei|pos=stem or continuative form}} of classical verb {{m|ja|侍ふ|tr=saburafu||to [[serve]]|pos=modern ''saburau''}}, ultimately derived from {{m|ja|さ|tr=sa-||pos=prefix meaning \"[[early]]\"}} + {{m|ja|守らふ|tr=morafu||to [[keep watch]]|pos=modern ''morau''}}.\n\nThe shift from ''saburaf-'' → ''samuraf-'' is due to the development of the {{m|ja|女性語|tr=josei-go||{{w|Gender differences in spoken Japanese|women's language}}}} in {{w|Middle Japanese}}, expected from {{m|ja|候|tr=sōrō||[[service]]|pos=classical ''saurafu''}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|士}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|さむらい|acc=h|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さむらい|hhira=さむらひ}}\n\n# {{lb|ja|historical|sort=さむらい}} a [[warrior]] [[class]] in [[medieval]] and pre-[[modern]] Japan; [[samurai]]\n#: {{synonyms|ja|武士|tr=bushi}}\n# one who [[serve]]s [[nearby]]:\n## a [[servant]]\n## a [[retainer]]\n# {{short for|lang=ja|侍所|tr=samurai-dokoro|nodot=1}}: the Board of Retainers in the {{w|Kamakura period|Kamakura}} and {{w|Muromachi period|Muromachi}} periods.\n# an [[above]]-[[average]] [[person]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|侍 気質|さむらい かたぎ}}\n* {{ja-r|田舎%侍|いなか%-ざむらい}}\n* {{ja-r|犬%侍|いぬ%ざむらい}}\n* {{ja-r|忰%侍|かせ%-ざむらい}}\n* {{ja-r|国%侍|くに%-ざむらい}}\n* {{ja-r|若%侍|わか%-ざむらい}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|黄%金 と 侍 は 朽ちて も 朽ちぬ|こ%がね と さむらい は くちて も くちぬ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|武士%道|ぶし%どう|samurai [[code of conduct]]}}\n* {{ja-r|浪人|ろうにん|[[masterless]] [[samurai]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|さぶらい|yomi=k}}\n{{IPAfont|⟨sa morapi<sub>1</sub>⟩}} → {{IPAchar|/saburapi/}} → {{IPAchar|/saburafi/}} → {{IPAchar|/saburawi/}} → {{IPAchar|/saburai/}}\n\nThe {{m|ja|連用形|tr=ren'yōkei|pos=stem or continuative form}} of classical verb {{m|ja|侍ふ|tr=saburafu||to [[serve]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|さぶらい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さぶらい|hhira=さぶらひ}}\n\n# {{lb|ja|archaic|sort=さむらい}} one who [[serve]]s [[nearby]]:\n## a [[servant]]\n## a [[retainer]]\n## a [[warrior]]; particularly, a [[samurai]]\n##* {{RQ:Nippo Jisho|545}}<ref>{{R:Nippo Jisho}}</ref>\n##*: '''Saburai'''. サブライ('''侍''') 貴族, または,尊敬すべき人〔武士〕.\n# {{syn of|lang=ja|下侍|tr=shimosaburai|nodot=1}}: {{rfdef|ja}}\n# {{short for|lang=ja|侍所|tr=saburai-dokoro|nodot=1}}: a [[samurai]] [[guardhouse]] in the {{w|Heian period}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

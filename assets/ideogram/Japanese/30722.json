@@ -1,0 +1,39 @@
+{
+  "title": "隙",
+  "ns": 0,
+  "id": 30722,
+  "timestamp": 1549255695000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=阜10}}\n\n# {{defn|lang=ja|sort=阜10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きゃく\n|kanon=けき\n|kanyoon=げき\n|kun=すき-, ひま-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der2|lang=ja\n|{{ja-r|隙%間|すき%ま}}: [[crevice]]\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

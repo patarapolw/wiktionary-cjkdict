@@ -1,0 +1,56 @@
+{
+  "title": "叫",
+  "ns": 0,
+  "id": 12072,
+  "timestamp": 1553324696000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F839}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口03}}\n\n# to [[shout]]; to [[scream]]\n# to [[clamor]] for or against something, to make an [[appeal]] for or against something",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう<けう\n|kanon=きょう<けう\n|kun=さけ-ぶ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ja\n|{{ja-r|叫び|さけび}}\n|{{ja-r|叫び声|さけびごえ}}\n|{{ja-r|叫び出す|さけびだす}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|きょう|yomi=o}}\nFrom {{der|ja|ltc|sort=きょう|-}} {{ltc-l|叫}}, compare modern {{cog|nan|-}} {{m|nan|kiò}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|きょう|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Derived terms",
+                  "text": "{{der3|lang=ja|title=Terms derived from {{ja-r|叫|きょう}}:\n|{{ja-r|哀叫|あいきょう}}\n|{{ja-r|阿鼻叫喚|あびきょうかん}}\n|{{ja-r|叫喚|きょうかん}}\n|{{ja-r|絶叫|ぜっきょう}}\n|{{ja-r|熱叫|ねっきょう}}\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "啩",
+  "ns": 0,
+  "id": 12496,
+  "timestamp": 1536673711000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|c=gwaa3\n|cat=part\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} {{n-g|Sentence final particle indicating uncertainty in a statement; implies that the speaker is not sure whether what he/she says is true.}}\n#: {{zh-x|我 返 屋企 食 麵 啩。|'''Well''', I'm '''probably''' going to go home and eat noodles.|C}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{q|Mandarin}} {{zh-l|吧}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

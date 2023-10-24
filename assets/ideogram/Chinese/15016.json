@@ -1,0 +1,37 @@
+{
+  "title": "庤",
+  "ns": 0,
+  "id": 15016,
+  "timestamp": 1500764723000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|广|寺|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhì\n|c=zi6\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[store up]]; to [[save]]\n# to [[prepare]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

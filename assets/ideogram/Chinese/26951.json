@@ -1,0 +1,39 @@
+{
+  "title": "詏",
+  "ns": 0,
+  "id": 26951,
+  "timestamp": 1520829629000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𬣦}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=ào\n|c=aau3,aau2\n|mn-t=a3\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese|Teochew}} to [[argue]]; to [[contend]]; to [[dispute]]; to [[debate]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{zh-l|嗌}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

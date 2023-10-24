@@ -1,0 +1,92 @@
+{
+  "title": "吃",
+  "ns": 0,
+  "id": 12096,
+  "timestamp": 1547279919000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|喫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口03}}\n\n# [[stammer]]ing, [[stutter]]ing\n# [[accept]], [[comply]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こち\n|kanon=きつ\n|kun=きっ-する<きつ-する, ども-り, ども-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* {{ja-r|吃驚|きっきょう}}\n* {{ja-r|吃緊|きっきん}}\n* {{ja-r|吃水|きっすい}}\n* {{ja-r|吃相|きっそう}}\n* {{ja-r|吃音|きつおん}}\n* {{ja-r|吃%語|きつ%ご}}\n* {{ja-r|吃吃|きつきつ|rom=-}}, {{ja-r|吃々|きつきつ}}\n* {{ja-r|吃又|^どもまた}}\n* {{ja-r|吃逆|しゃっくり}}\n* {{ja-r|小%吃|シァオ%チー}}\n* {{ja-r|吃驚|びっくり}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ままなき|yomi=irr}}\n\nAttested in the ''{{w|Ruiju Myōgishō}}'' (''c.'' 12th century).<ref name=\"DJR\"/>\n\nLikely a compound of {{m|ja|儘|tr=mama||[[remain]]ing at a certain [[state]]}} + {{m|ja|泣き|tr=naki}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|泣く|tr=naku||to [[cry]]}}. {{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ままなき}}\n\n# [[stammer]]ing, [[stutter]]ing\n# a [[stutterer]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|吃り|どもり}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ちー|yomi=irr}}\nBorrowed from {{bor|ja|cmn|吃|tr=chī|lit=to [[eat]]|sort=ちー}}<ref name=\"DJR\"/><ref name=\"DJS\">{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=i|チー|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|チー}}\n\n# {{lb|ja|mahjong|sort=ちー}} [[chow]] ([[meld]] of [[three]] [[tiles]] that form a [[sequence]])",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "* Usually written in kana alone."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Coordinate terms",
+                      "text": "* {{ja-r|碰|ポン|[[pung]]}}\n* {{ja-r|槓|カン|[[kong]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

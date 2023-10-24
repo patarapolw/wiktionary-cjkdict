@@ -1,0 +1,44 @@
+{
+  "title": "落",
+  "ns": 0,
+  "id": 25214,
+  "timestamp": 1551150612000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=艸09}}\n\n# [[to]] [[fall]]\n# [[to]] [[leave behind]]\n# [[to]] [[drop]]\n# [[to]] [[come down]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らく\n|kanon=らく\n|kun=お-ちる, お-とす, さと\n|nanori=おち\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ja\n| {{ja-r|洒落|しゃれ|[[joke]]}}\n| {{ja-r|村落|そんらく|[[village]], [[hamlet]]}}\n| {{ja-r|部%落|ぶ%らく}}\n| {{ja-r|落%語|らく%ご|Japanese comic storytelling}}\n| {{ja-r|落%伍|らく%ご|[[outcast]], [[derelict]]}}\n| {{ja-r|落城|らくじょう|castle falldown by attacking}}\n| {{ja-r|落雪|らくせつ|snow falling (to the ground from a roof or a cliff)}}\n| {{ja-r|落葉|らくよう|leaves falling (mostly in Autumn)}}\n| {{ja-r|落下|らっか|falling}}\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|落ちる|おちる}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

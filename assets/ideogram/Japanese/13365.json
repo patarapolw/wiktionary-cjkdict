@@ -1,0 +1,44 @@
+{
+  "title": "墟",
+  "ns": 0,
+  "id": 13365,
+  "timestamp": 1541984113000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土12}}\n\n# ruins",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こ\n|kanon=きょ\n|kun=あと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|廃墟|はいきょ}}: ruins, abandoned building"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Rarely replaced by [[虚]] in modern usage."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

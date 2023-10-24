@@ -1,0 +1,63 @@
+{
+  "title": "宛",
+  "ns": 0,
+  "id": 14154,
+  "timestamp": 1552547282000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=宀05}}\n\n# [[address]]\n# just like",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん<をん\n|kanon=えん<ゑん\n|kun=あ-てる, あたか-も, あて-, ずつ-<づつ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えん|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えん|-}} {{ltc-l|宛|id=2}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えん|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えん|hhira=ゑん}}\n\n# [[as if]]; [[just]] [[like]]\n# [[crooked]]; [[winding]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|宛然|えんぜん}}\n* {{ja-r|宛転|えんてん}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|あて|yomi=k}}\n{{ja-see|あて}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

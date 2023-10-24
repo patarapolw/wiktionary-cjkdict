@@ -1,0 +1,66 @@
+{
+  "title": "虺",
+  "ns": 0,
+  "id": 25846,
+  "timestamp": 1549395234000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|蝰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=虫-ancient}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|兀|虫|ls=psc|c1=p|c2=s}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "; “venomous snake”\n: From {{inh|zh|sit-pro|*s-b/m-ruːl||[[snake]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=huǐ\n|c=wai2\n|h=pfs=\n|md=\n|mn=hoe/húi/khúi\n|w=\n|mc=3\n|oc=2+3,3\n|cat=n,a\n}}{{attention|nan|needs to be checked}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|mythological}} [[venomous]] [[snake]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|夢虺|王虺|虺虺|虺蜴|養虺成蛇|虺蜮|虺蛇入夢|蟠虺紋}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=huī\n|c=fui1\n|mc=1+2\n|oc=1,1+2\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|虺隤|[[sick]]; [[ambitionless]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B04215}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

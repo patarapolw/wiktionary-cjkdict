@@ -1,0 +1,88 @@
+{
+  "title": "瀧",
+  "ns": 0,
+  "id": 19731,
+  "timestamp": 1548740153000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|泷|滝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=泷}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|氵|龍|alt1=水|c1=s|c2=p|t1=water|ls=psc}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-wp|zh:瀧江}} <!-- Different from 瀧水 in Etymology 3 -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=lóng\n|c=long4,lung4\n|h=pfs=\n|md=\n|mn=liông/lông\n|w=\n|mc=1\n|oc=3\n|cat=v,a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[appearance]] of [[raining]]\n# [[wet]]; [[soaked]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|瀧夫|瀧漉|瀧瀧|瀧船}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=lóng\n|mc=2\n|oc=1\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|of flow of water}} [[rapid]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-wp|zh:瀧州}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=shuāng\n|c=soeng1\n|w=\n|mc=3\n|oc=2\n|cat=pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-div|水}} a [[river]] in [[Guangdong]] [[province]]\n#: {{zh-syn|羅定江}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|瀧水|瀧州|瀧岡}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "慢",
+  "ns": 0,
+  "id": 15734,
+  "timestamp": 1551860197000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心11}}\n\n# ([[おそい]]) [[slow]]\n# ([[おこたる]]) [[negligent]]\n# ([[あなどる]]、[[おごる]]) [[arrogant]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=めん\n|kanon=ばん\n|kanyoon=まん\n|kun=おそ-い, おこた-る, あなど-る, おご-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{sense|slow}} [[慢性]], [[緩慢]], [[遅慢]]\n* {{sense|negligent}} [[怠慢]]\n* {{sense|arrogant}} [[高慢]], [[傲慢]], [[自慢]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

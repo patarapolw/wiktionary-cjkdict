@@ -1,0 +1,49 @@
+{
+  "title": "渉",
+  "ns": 0,
+  "id": 19133,
+  "timestamp": 1536380055000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|涉}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|渉|涉}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|kyu=涉|rs=水08}}\n\n# to [[ford]] a body of water\n# to [[cross]] a body of water",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<ぜふ, ちょう<てふ\n|kanon=しょう<せふ, ちょう<てふ\n|kun=わた-る\n|nanori=えん\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|干渉|かんしょう}}\n* {{ja-r|交渉|こうしょう}}\n* {{ja-r|渉外|しょうがい}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Nominalization of the verb {{m|ja|渉る|tr=wataru||to ford or otherwise cross a body of water}}."
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|わたる}}\n\n# {{given name|male|lang=ja|sort=わたる}}\n\n[[Category:Japanese male given names|わたる]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

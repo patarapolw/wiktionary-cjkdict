@@ -1,0 +1,39 @@
+{
+  "title": "鸕",
+  "ns": 0,
+  "id": 32799,
+  "timestamp": 1530405465000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鸬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥16}}\n\n# {{rarespell|lang=ja|鵜|tr=u|nodot=1|sort=う}}: [[cormorant]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=ろ\n|kun=う-<!--, あたま-, かしら- -->\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鸕鷀%草葺%不合%尊|^うが%やふき%あえず の% ^みこと}}\n* {{ja-r|鸕鷀|ろじ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

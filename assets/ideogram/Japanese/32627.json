@@ -1,0 +1,44 @@
+{
+  "title": "鵩",
+  "ns": 0,
+  "id": 32627,
+  "timestamp": 1536627150000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥08}}\n\n# {{defn|lang=ja|sort=鳥08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=ぶく|kanon=ふく|kun=みみずく-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|みみずく|yomi=k}}\n{{ja-pron|acc=2|y=k|みみずく}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|みみずく|ミミズク}}\n\n# {{altspell|木菟|lang=ja||[[eagle owl]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

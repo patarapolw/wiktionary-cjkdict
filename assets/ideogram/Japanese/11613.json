@@ -1,0 +1,59 @@
+{
+  "title": "券",
+  "ns": 0,
+  "id": 11613,
+  "timestamp": 1513450429000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|劵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=刀06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=けん<くゑん\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|けん}}\n{{IPAchar|/kwen/}} → {{IPAchar|/ken/}}\n\nFrom {{etyl|ltc|ja|sort=けん}} {{m|zh|券|tr=khwen<sup>H</sup>?|ticket}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|けん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|けん|hhira=くゑん}}\n\n# [[ticket]], [[certificate]]\n# [[bond]], [[coupon]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|けん|hhira=くゑん}}\n\n# [[ticket]], [[certificate]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

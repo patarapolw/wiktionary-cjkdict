@@ -1,0 +1,44 @@
+{
+  "title": "疥",
+  "ns": 0,
+  "id": 21223,
+  "timestamp": 1515772985000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiè\n|m-s=jiai4\n|c=gaai3\n|mn=kè/kòe\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|乾疥|疥厲|疥壁|疥瘡|疥癩|疥癬|疥癬蟲|癬疥}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

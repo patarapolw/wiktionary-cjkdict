@@ -1,0 +1,59 @@
+{
+  "title": "鬼",
+  "ns": 0,
+  "id": 32012,
+  "timestamp": 1552532191000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wikipedia|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=鬼00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=き\n|kanon=き\n|kun=おに-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|隠れ鬼|かくれおに}}: [[hide and seek]]\n* {{ja-r|鬼哭|きこく}}: the [[wailing]] of a [[ghost]], or the sound thereof\n* {{ja-r|鬼神|きじん}}\n* {{ja-r|鬼遊び|おにあそび}}: [[tag]] {{gloss|game}}\n* {{ja-r|鬼神|おにがみ}}\n* {{ja-r|鬼ごっこ|おにごっこ}}: [[tag]] {{gloss|game}}\n* {{ja-r|鬼事|おにごと}}: [[tag]] {{gloss|game}}\n* {{ja-r|鬼天竺鼠|おにてんじくねずみ}}: [[capybara]]\n{{der-mid}}\n* {{ja-r|鬼女|きじょ}}\n* {{ja-r|鬼籍|きせき}}\n* {{ja-r|鬼畜|きちく}}\n* {{ja-r|鬼面|きめん}}\n* {{ja-r|鬼門|きもん}}\n* {{ja-r|吸血鬼|きゅうけつき}}: a [[vampire]]\n* {{ja-r|鬼火|おにび}}\n* {{ja-r|牛鬼|うしおに}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n[[File:Oni2WP.jpg|thumb|250px|{{lang|ja|鬼}} (''oni''): two '''[[demon]]-[[ogre]]s'''.]]\n</div>\n{{ja-kanjitab|おに|yomi=k}}\nThought to be derived from {{m|ja|隠|tr=on||to hide; hidden from sight}}.<ref name=\"DJR\">{{R:Daijirin}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|おに|acc=2|acc_ref=NHK,DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おに}}\n\n# [[ghost]]\n# [[evil]] [[spirit]], [[demon]], [[ogre]]\n#* {{RQ:Wamyō Ruijushō|1|32}}<ref>{{R:Wamyō Ruijushō}}</ref>\n#*: 人神 周易云、人神曰鬼、居偉反、和名'''於邇'''、或説云、'''於邇'''者、隠音之訛也、鬼物隠而不欲顯形、故以稱也。\n# {{lb|ja|sort=おに|metaphor}} someone of remarkable or diabolical [[energy]] or [[ability]], a [[demon]]\n#: {{ja-usex|彼女は仕事の'''鬼'''だ。|かのじょ は しごと の '''おに''' だ。|She is a '''demon''' for work.}}\n# \"[[it]]\" in a game of [[tag]]/[[hide and seek]] ({{m|ja|鬼ごっこ}} ''onigokko'', \"pretend spirits\")"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "臣",
+  "ns": 0,
+  "id": 24587,
+  "timestamp": 1553177572000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=臣00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じん\n|kanon=しん\n|kun=おみ-, けらい-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おみ|yomi=k}}\n/omi<sub>1</sub>/ *[omi] → /omi/ [omi]"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{IPA|[omi]|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おみ}}\n\n# one who serves a lord; a [[vassal]], [[subject]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

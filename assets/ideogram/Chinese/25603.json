@@ -1,0 +1,44 @@
+{
+  "title": "薏",
+  "ns": 0,
+  "id": 25603,
+  "timestamp": 1525696918000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|艸|alt1=艹|意|c1=s|c2=p|t1=grass|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yì\n|c=ji3\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# the heart of a lotus seed",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|苦薏|薏仁|薏米|薏苡|薏苡之謗|薏苡仁|薏苡明珠}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

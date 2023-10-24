@@ -1,0 +1,64 @@
+{
+  "title": "病",
+  "ns": 0,
+  "id": 21257,
+  "timestamp": 1553666808000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=疒05}}\n\n# have a [[disease]]; [[disease]]\n# being [[stiff]] and not able to move\n# [[difficult]]\n# [[suffer]]\n# make one suffer",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=びょう<びやう\n|kanon=へい\n|kun=や-む, やまい-<やまひ-, うれい-<うれひ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der5|lang=ja|{{ja-r|介病|かいびょう}}: [[nursing]] a [[patient]]\n|{{ja-r|病院|びょういん}}: hospital\n|{{ja-l|病臥}}\n|{{ja-r|病気|びょうき}}: illness\n|{{ja-l|病原}}, {{ja-l|病源}}\n|{{ja-r|病人|びょうにん}}: sick person; patient; invalid\n|{{ja-l|病床}}\n|{{ja-l|病状}}\n|{{ja-l|病没}}\n|{{ja-l|病魔}}\n|{{ja-r|疾病|しっぺい}}\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=4134\n|shift=9561\n|jis=4942\n|euc=C9C2\n|skip=3-5-5\n|freq=384\n|nelson=3042\n|newnelson=3798\n|halpern=3277\n|kld=2059\n|heisig=1682\n|tuttle=5i5.3\n}}\n\n{{ja-kanjitab|やまい|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|やまい|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|やまい|hhira=やまひ}}\n\n# [[disease]], [[illness]]\n#: {{ja-usex|彼は'''病'''を患った。|^かれ は '''やまい''' を わずらった。|He is affected with disease.}}\n# a bad [[habit]]\n#: {{ja-usex|彼は人の物をとる'''病'''がある。|^かれ は ひと の もの を とる '''やまい''' が ある。|He is [[light-fingered]].}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|びょう}}\n\n# [[disease]], [[illness]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "鶇",
+  "ns": 0,
+  "id": 32657,
+  "timestamp": 1543869831000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鸫|鶫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥08}}\n\n# a [[thrush]] {{qualifier|bird}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=つう\n|kanon=とう\n|kun=つぐみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Dusky thrush}}\n[[File:Tsugumi1.JPG|thumb|250px|{{lang|ja|鶇}} (''tsugumi''): a '''[[dusky thrush]]'''.]]\n</div>\n{{ja-kanjitab|yomi=k|つぐみ}}\nFrom the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|噤む|tr=tsugumu||to shut up, to become quiet}}, from the way the birds cease singing after summer has ended."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|つぐみ|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|鶫}} {{qualifier|kokuji: Japanese-only}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|つぐみ|ツグミ}}\n\n# a [[thrush]]: a [[bird]] of [[genus]] ''[[Turdus]]''\n# {{qualifier|more specifically}} a [[dusky thrush]]: {{taxlink|Turdus eunomus|species|noshow=1}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|ツグミ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Thrushes|つぐみ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

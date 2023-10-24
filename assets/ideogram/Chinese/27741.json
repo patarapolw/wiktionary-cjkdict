@@ -1,0 +1,56 @@
+{
+  "title": "贌",
+  "ns": 0,
+  "id": 27741,
+  "timestamp": 1528093774000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=pú\n|c=duk6\n|h=pfs=\n|md=\n|mn=pa̍k\n|w=\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{rfe|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Borrowed from {{bor|zh|nl|pachten||to lease}}.<ref name=Andrade>{{cite-book|last=Andrade|first=Tonio|title=How Taiwan Became Chinese: Dutch, Spanish and Han Colonization in the Seventeenth Century|publisher=Columbia University Press|chapter=The Only Bees on Formosa That Give Honey|year=2005|url=http://www.gutenberg-e.org/andrade/|chapterurl=http://www.gutenberg-e.org/andrade/andrade08.html|isbn=9780231503686|lccn=2008032462}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{zh-verb}}\n\n# {{lb|zh|Min Nan}} to package\n# {{lb|zh|Min Nan}} to rent\n# {{lb|zh|Min Nan}} to lease (land)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

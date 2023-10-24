@@ -1,0 +1,39 @@
+{
+  "title": "彫",
+  "ns": 0,
+  "id": 15235,
+  "timestamp": 1553313598000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|雕}}\n{{character info/new}}\n{{character info|0x2F89A}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=彡08}}\n\n# [[carve]]\n# [[engrave]]\n# [[chisel]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう\n|kanon=ちょう\n|kun=ほ-る, ぼ-り\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|彫%刻|ちょう%こく}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

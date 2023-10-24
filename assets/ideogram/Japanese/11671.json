@@ -1,0 +1,44 @@
+{
+  "title": "割",
+  "ns": 0,
+  "id": 11671,
+  "timestamp": 1553325268000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F822}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=刀10}}\n\n# [[divide]], [[cut]]\n# [[proportion]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かち\n|kanon=かつ\n|kun=さ-く, わ-る, わ-れる, わり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|割愛|かつあい}}\n* {{ja-r|割拠|かっきょ}}\n* {{ja-r|割譲|かつじょう}}\n* {{ja-r|割腹|かっぷく}}\n* {{ja-r|割烹|かっぽう}}\n* {{ja-r|割合|わりあい}}\n* {{ja-r|割引|わりびき}}\n* {{ja-r|割り算|わりざん}}\n* {{ja-r|割り箸|わりばし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|わり}}\n\n# [[proportion]]\n#:{{ja-usex|'''割'''に合わない|'''わり''' に あわ ない|unfit for the '''proportion'''}}\n# [[tenth]]\n#:{{ja-usex|二'''割'''|に '''わり'''|two-'''tenths'''}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

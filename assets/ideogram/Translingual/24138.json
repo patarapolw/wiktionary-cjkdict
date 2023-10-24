@@ -1,0 +1,44 @@
+{
+  "title": "耳",
+  "ns": 0,
+  "id": 24138,
+  "timestamp": 1545829870000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|目}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=6}}\n{{stroke order|type=jbw|strokes=6}}\n{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "When part of a compound character, particularly as the left radical, the bottom horizontal stroke may not cross at bottom right. This is a script variant, found for example in Japanese {{lang|ja|[[聴]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=128|rad=耳|as=00|sn=6|four=10400|canj=SJ}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/耳]]\n* [[取]] [[茸]] [[恥]] [[餌]] ([[饵]])"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0965.050|dkj=28999|dj=1413.120|hdz=42783.010|uh=8033|ud=32819|bh=A6D5|bd=42709}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

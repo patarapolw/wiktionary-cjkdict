@@ -1,0 +1,78 @@
+{
+  "title": "話",
+  "ns": 0,
+  "id": 26985,
+  "timestamp": 1553253460000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|话}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=言06}}\n\n# {{defn|lang=ja|sort=言06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え\n|kanon=か, かい\n|kanyoon=わ\n|kun=はな-す, はなし-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|話す|はなす}}: to speak\n* {{ja-r|電話|でんわ}}: a [[telephone]]\n* {{ja-r|電話を切る|でんわ を きる}}: to [[hang up]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|はなし|yomi=kun}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{qual|especially in rakugo}} {{l/ja|噺}}, {{l/ja|咄}}\n* {{l/ja|話し}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|はなし|y=k|acc=3|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はなし}}\n\n# [[talk]]ing; [[speak]]ing; [[speech]]; [[conversation]]\n#: {{ja-usex|何の'''話'''をしてるの？|なん の '''はなし''' を してる の？|What are you guys '''talk'''ing about?}}\n# [[story]]; [[tale]]; [[narrative]]\n#: {{ja-usex|「ざしき童子の'''はなし'''」|「^ざしき-ぼっこ の ^'''はなし'''」|''The '''Story''' of the Zashiki-bokko''}}\n# a [[topic]]; a [[subject]]; that which is spoken about\n# [[rumor]]s; [[rumour]]s\n# [[negotiation]]; [[consultation]]; [[discussion]]\n# [[lecture]]; [[speech]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|わ}}\n\n# {{n-g|Counter for stories.}}\n# {{n-g|Counter for episodes of TV shows.}}\n#: {{ja-usex-inline|第%１%'''話'''|だい%いち%'''わ'''|episode 1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

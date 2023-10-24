@@ -1,0 +1,46 @@
+{
+  "title": "寸",
+  "ns": 0,
+  "id": 14247,
+  "timestamp": 1544718135000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|手|吋}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=寸00}}\n\n# measurement",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=すん\n|kanon=そん\n|kun=はか-る, とき, き\n|nanori=す, みき\n}}\n{{attention|ja|Okurigana はか-る needs verification.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|すん}}\n\n# ''sun'' (a Japanese length measurement equivalent to 10 ''bu'' ([[分]]) or approximately 3.03 [[cm]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* Previous: [[分]]\n* Next: [[尺]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

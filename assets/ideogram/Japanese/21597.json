@@ -1,0 +1,39 @@
+{
+  "title": "看",
+  "ns": 0,
+  "id": 21597,
+  "timestamp": 1553729804000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=目04}}\n\n# watch over\n# see",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かん\n|kanon=かん\n|kun=み-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|看護|か​んご}}\n* {{ja-r|看護師|かんごし}}\n* {{ja-r|看守|かんしゅ}}\n* {{ja-r|看板|かんばん}}\n* {{ja-r|看病|かんびょう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

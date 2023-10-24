@@ -1,0 +1,37 @@
+{
+  "title": "毽",
+  "ns": 0,
+  "id": 18543,
+  "timestamp": 1553554113000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𨪅}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiàn,er=y\n|c=gin3,jin2\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[jianzi]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|毽球|毽子|花毽|踢毽子|毽兒}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

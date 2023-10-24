@@ -1,0 +1,75 @@
+{
+  "title": "壮",
+  "ns": 0,
+  "id": 13443,
+  "timestamp": 1553315192000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|壯}}\n{{character info/new}}\n{{character info|0x2F851}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph 1",
+              "text": "{{Han-glyphref|⿰丬士|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han simp|壯|f=爿|t=丬}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|壯|sv}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|A00833-003#37}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Glyph 2",
+              "text": "{{Han-glyphref|⿰丬土|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Etymology 1",
+                  "text": "{{zh-see|壯|v}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "References",
+                      "text": "* {{R:twedu|A00833-001#18}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Etymology 2",
+                  "text": "{{zh-see|牡|v}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "References",
+                      "text": "* {{R:twedu|A02490-004#17}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

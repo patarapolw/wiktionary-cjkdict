@@ -1,0 +1,49 @@
+{
+  "title": "秣",
+  "ns": 0,
+  "id": 22377,
+  "timestamp": 1533975681000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=mò\n|c=mut3,mut6\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|勵兵秣馬|仰秣|厲兵秣馬|六馬仰秣|礪戈秣馬|秣馬|秣馬厲兵|秣陵|秣馬利兵|礪兵秣馬|訓兵秣馬|飼秣|飛糧輓秣|糧秣|選兵秣馬|芻秣}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

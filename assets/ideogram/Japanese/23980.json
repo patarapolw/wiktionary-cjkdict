@@ -1,0 +1,83 @@
+{
+  "title": "群",
+  "ns": 0,
+  "id": 23980,
+  "timestamp": 1552005491000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|羣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=羊07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐん\n|kanon=くん\n|kun=む-れる, むら-, む-れ, むらがる\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|群島|ぐんとう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぐん}}\n\n# a [[group]] of people, animals, etc.\n# {{lb|ja|group theory}} a group"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|ぐん}}\n\n# group of people, animals, etc."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|叢}}\n* {{l|ja|簇}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|むら}}\n\n# a [[gathering]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|むら}}\n\n# gathering"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "*[[Appendix:Gikun_Usage_in_Meiji_Version_of_Japanese_Bible/群]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

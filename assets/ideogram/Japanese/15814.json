@@ -1,0 +1,39 @@
+{
+  "title": "憲",
+  "ns": 0,
+  "id": 15814,
+  "timestamp": 1553313196000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|宪}}\n{{character info/new}}\n{{character info|0x2F8AC}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=心12}}\n\n# [[constitution]]; [[basic]] [[law]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=けん\n|kun=のり-, おきて\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[違憲]]\n* [[改憲]]\n* [[家憲]]\n* [[官憲]]\n* [[憲法]]\n* [[憲兵]]\n* [[国憲]]\n* [[合憲]]\n* [[護憲]]\n* [[朝憲]]\n* [[立憲]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

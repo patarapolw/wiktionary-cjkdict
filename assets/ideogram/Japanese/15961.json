@@ -1,0 +1,39 @@
+{
+  "title": "房",
+  "ns": 0,
+  "id": 15961,
+  "timestamp": 1553253866000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=7|rs=戶04}}\n\n# chamber; room\n# home of a monk; monk\n# Chinese \"room\" constellation (one of the 28 mansions)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぼう\n|kanon=ほう\n|kun=ふさ-, へや-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ふさ}}\n\n# [[tassel]]\n# [[bunch]] (of flowers or fruit, e.g. [[grape]]s)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

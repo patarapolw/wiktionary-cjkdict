@@ -1,0 +1,39 @@
+{
+  "title": "逑",
+  "ns": 0,
+  "id": 28684,
+  "timestamp": 1537502721000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=辵07}}\n\n# [[pair]]\n# [[gather]], [[meet]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=きゅう<きう\n|kun=あ-う<あ-ふ, あつ-まる, あつ-める,<!-- たぐい-<たぐひ-,--> つれあ-い<つれあ-ひ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|好逑|こうきゅう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

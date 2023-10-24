@@ -1,0 +1,39 @@
+{
+  "title": "采",
+  "ns": 0,
+  "id": 29203,
+  "timestamp": 1539476232000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|埰|採|釆}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=釆01}}\n\n# a [[die]], [[dice]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さい\n|kanon=さい\n|kun=と-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さい}}\n\n# a [[die]], [[dice]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

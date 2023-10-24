@@ -1,0 +1,39 @@
+{
+  "title": "嗚",
+  "ns": 0,
+  "id": 12613,
+  "timestamp": 1531789928000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鳴|呜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=口10}}\n\n# {{lb|ja|expression}} [[oh]], [[ah]], [[alas]]\n# to [[weep]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=お<を\n|kun=あ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|嗚咽|おえつ}}\n* {{ja-r|嗚呼|ああ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

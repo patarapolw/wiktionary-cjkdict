@@ -1,0 +1,39 @@
+{
+  "title": "怒",
+  "ns": 0,
+  "id": 15400,
+  "timestamp": 1550240281000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心05}}\n\n# [[anger]], [[fury]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぬ\n|kanon=ど\n|kun=いか-る, おこ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|怒る|おこる}}\n* {{ja-r|怒号|どごう}}\n* {{ja-r|怒張|どちょう}}\n* {{ja-r|怒涛|どとう}}\n* {{ja-r|怒気|どき}}\n* {{ja-r|怒%髪|ど%はつ}}\n* {{ja-r|暴怒|ぼうど}}: [[rage]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

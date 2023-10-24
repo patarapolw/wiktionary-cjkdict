@@ -1,0 +1,39 @@
+{
+  "title": "但",
+  "ns": 0,
+  "id": 10737,
+  "timestamp": 1548348255000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だん\n|kanon=たん\n|kun=ただ-し, ただ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{ja-kanjitab|ただ|yomi=k}}\n{{ja-see|ただ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

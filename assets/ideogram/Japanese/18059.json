@@ -1,0 +1,92 @@
+{
+  "title": "模",
+  "ns": 0,
+  "id": 18059,
+  "timestamp": 1551929684000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=木11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=も\n|kanon=ぼ\n|kun=かたぎ-\n|nanori=のり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|相模|^さがみ}}\n* {{ja-r|酸模|スカンボ}}\n* {{ja-r|酸模|スジ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|も|yomi=goon}}\nFrom {{der|ja|ltc|sort=も|-}} {{ltc-l|模}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|も|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|も}}\n\n# [[model]]; [[pattern]]\n# [[appearance]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top4}}\n* {{ja-r|模擬|もぎ}}\n* {{ja-r|模%型|も%けい}}\n* {{ja-r|模%刻|も%こく}}\n* {{ja-r|模写|もしゃ}}\n* {{ja-r|模像|もぞう}}\n* {{ja-r|模造|もぞう}}\n* {{ja-r|模範|もはん}}\n* {{ja-r|模倣|もほう}}\n* {{ja-r|模様|もよう}}\n* {{ja-r|佳模|かも|rom=-}}, {{ja-r|嘉模|かも}}\n* {{ja-r|範模|はんも}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ぼ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=ほ'|-}} {{ltc-l|模}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|ぼ|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|ぼ}}\n\n# {{lb|ja|uncommon}} ''Same as {{m|ja||も|tr=mo}} above''",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|模倣|ぼほう}}\n* {{ja-r|楷%模|かい%ぼ}}\n* {{ja-r|規模|きぼ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|かたぎ|yomi=k}}\n{{ja-see|かたぎ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

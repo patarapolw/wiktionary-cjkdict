@@ -1,0 +1,46 @@
+{
+  "title": "剔",
+  "ns": 0,
+  "id": 11641,
+  "timestamp": 1551878604000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=刀08}}\n\n# {{defn|lang=ja|sort=刀08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[てき]] (teki), [[てい]] (tei)|kun=[[えぐる]] (eguru), [[そる]] (soru)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|てき}}\n\n# [[cutting]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|剔出|てきしゅつ}}\n* {{ja-r|剔除|てきじょ}}\n* {{ja-r|剔抉|てっけつ}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

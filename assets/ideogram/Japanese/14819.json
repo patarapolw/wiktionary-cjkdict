@@ -1,0 +1,83 @@
+{
+  "title": "巴",
+  "ns": 0,
+  "id": 14819,
+  "timestamp": 1554084397000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|色|笆|邑}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=己01}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へ\n|kanon=は\n|kun=ともえ-<ともゑ-, うずまき-<うづまき-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|巴%鴨|ともえ%がも|[[Baikal teal]]}}\n* {{ja-r|巴%戦|ともえ%せん|[[dogfight]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|ともえ|yomi=k}}\n[[File:Tomoe 2 left.png|120px|thumb|{{lang|ja|巴}} (''[[tomoe]]''): a circular design of swirling water, commonly used in Japanese family crests and corporate logos]]\nCompound of {{ja-r|鞆%絵|とも%え}}: {{ja-compound|鞆|とも|絵|え|t1=[[archer]]'s [[left]]-[[wrist]] [[protector]]|t2=[[picture]], [[drawing]]|nocat=1}}. {{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ともえ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ともえ|ともゑ}}\n\n# [[tomoe]] (comma design)"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|ともえ|proper}}\n\n# {{surname|lang=ja|sort=ともえ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|巴%瓦|ともえ%がわら|comma-[[pattern]] [[tile]]}}\n* {{ja-r|巴%投げ|ともえ%なげ|[[overhead]] [[throw]]}}\n* {{ja-r|卍%巴|まんじ%ともえ|[[fall]]ing in [[swirl]]s​}}\n* {{ja-r|三つ巴|みつどもえ|[[three]]-[[way]] [[struggle]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|うずまき|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うずまき|hhira=うづまき}}\n\n# {{alternative spelling of|lang=ja|渦巻き||[[whirlpool]] (pattern)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

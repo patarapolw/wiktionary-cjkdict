@@ -1,0 +1,39 @@
+{
+  "title": "艇",
+  "ns": 0,
+  "id": 24693,
+  "timestamp": 1553564086000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=舟07}}\n\n# [[dinghy]]\n# [[small]] [[boat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=てい\n|kun=ふね\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|てい}}\n\n# [[boat]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

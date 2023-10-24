@@ -1,0 +1,39 @@
+{
+  "title": "都",
+  "ns": 0,
+  "id": 28996,
+  "timestamp": 1552900985000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa26}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note that there are two Unicode z-variants, with code points U+90FD and U+FA26 (the latter is a compatibility variant and contains an extra dot below [[耂]] in [[者]])."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=163|rad=邑|as=08|sn=11|four=47627|canj=JANL|ids=⿰者⻏}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1274.090|dkj=39497|dj=1773.010|hdz=63776.070|uh=90FD|ud=37117|bh=B3A3|bd=45987}}\n* {{Han ref|uh=FA26}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

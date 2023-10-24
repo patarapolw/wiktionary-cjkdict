@@ -1,0 +1,39 @@
+{
+  "title": "削",
+  "ns": 0,
+  "id": 11631,
+  "timestamp": 1547071159000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=刀07}}\n\n# [[plane]], [[whittle]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さく, しょう\n|kanon=しょう\n|kun=けず-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|荒削り|あらけずり}}\n* {{ja-r|掘削|くっさく}}\n* {{ja-r|削り節|けずりぶし}}\n* {{ja-r|削岩%機|さくがん%き}}\n* {{ja-r|削減|さくげん}}\n{{mid2}}\n* {{ja-r|削除|さくじょ}}\n* {{ja-r|削孔|さっこう}}\n* {{ja-r|切削|せっさく}}\n* {{ja-r|添削|てんさく}}\n{{bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

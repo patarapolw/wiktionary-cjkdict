@@ -1,0 +1,39 @@
+{
+  "title": "詬",
+  "ns": 0,
+  "id": 26980,
+  "timestamp": 1507159676000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|诟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言06}}\n\n# {{defn|lang=ja|sort=言06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[こう]] (kō), [[く]] (ku)|kun=[[はずかしめ]] (hazukashime), [[はじ]] (haji)|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|詬誶}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "輌",
+  "ns": 0,
+  "id": 28402,
+  "timestamp": 1553044219000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|輛}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|輌|輛}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=車06|kyu=輛}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろう<らう\n|kanon=りょう<りやう\n|kun=くるま-, ならぶ\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|りょう|kyu=輛}}\n\n# {{nonstandard spelling of|ja|[[輛]]/[[両]]||cars of a train}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "[[w:Extended shinjitai|Extended shinjitai]] form of {{m|ja|輛}}, which is usually substituted by {{m|ja|両}} in modern usage."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

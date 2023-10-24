@@ -1,0 +1,73 @@
+{
+  "title": "拳",
+  "ns": 0,
+  "id": 16143,
+  "timestamp": 1553289179000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|挙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手06}}\n\n# ken, a game played with the hands; a game of hands; in Italian, mor(r)a, a game in which two (or more) players each suddenly display a hand showing zero to five fingers and call out what they think will be the sum of all fingers shown.\n# fist, usually as a suffix in the names of martial art moves",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん\n|kanon=けん\n|kun=こぶし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|拳骨|げんこつ}}\n* {{ja-r|拳闘|けんとう|[[boxing]]}}\n* {{ja-r|拳法|けんぽう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|こぶし|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|こぶし|acc=0|acc_ref=DJR|yomi=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こぶし|hhira=こぶし}}\n\n# [[fist]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|けん|yomi=o}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|拳}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|けん}}\n\n# ''used in the names of martial art moves or styles''\n#:{{ja-usex|蟷%螂'''拳'''|^とう%ろう'''けん'''|Mantis Style}}\n#:{{ja-usex|太%極'''拳'''|^たい%きょく'''けん'''|tai chi}}\n#:{{ja-usex|波%動'''拳'''|^は%どう'''けん'''|Surge Fist}}\n#* {{quote-book|||{{wj|聖闘士星矢|[Saint](セイント)[星](セイ)[矢](ヤ)}}\n||60\n|last=Kurumada\n|first=Masami\n|authorlink=Masami Kurumada\n|chapter={{lj|[女神](アテナ)の[聖闘士](セイント)の[巻](まき)}}\n|trans-chapter=Athena’s Saints\n|trans-title={{w|Saint Seiya}}\n|genre=fiction\n|lang=ja\n|location=Tokyo\n|publisher=Shueisha\n|date=Jan 23 2001\n|volume=1\n|isbn=4-08-617650-5}}\n#*: {{ja-usex|ペガサス流%星'''拳'''‼|^ペガサス ^りゅう%せい'''けん'''‼|Pegasus Meteor Fists‼}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

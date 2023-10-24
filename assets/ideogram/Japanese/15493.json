@@ -1,0 +1,66 @@
+{
+  "title": "息",
+  "ns": 0,
+  "id": 15493,
+  "timestamp": 1546207603000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=心06}}\n\n# [[breath]]\n# [[live]]\n# [[give birth]]\n# [[nurture]]\n# [[spread]], [[multiply]]\n# [[rest]]\n# [[come to an end]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そく\n|kanon=しょく\n|kun=いき-, やす-む, やめる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|子%息|し%そく}}: {{q|honorific}} [[son]]\n* {{ja-r|息%女|そく%じょ}}: {{q|honorific}} [[daughter]]\n* {{ja-r|息%男|そく%なん}}: {{q|honorific}} [[son]]\n* {{ja-r|息%子|むす%こ}}: [[son]]; {{q|slang|vulgar}} [[penis]]\n* {{ja-r|利%息|り%そく}}: [[interest]]\n* {{ja-r|令%息|れい%そく}}: {{q|honorific}} [[son]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いき|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|いき|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いき}}\n\n# [[breath]]\n#: {{ja-usex|'''息''' を する|'''いき''' を する|'''breath'''e}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|吐く|はく}}\n* {{ja-r|呼吸|こきゅう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "title": "仗",
+  "ns": 0,
+  "id": 10600,
+  "timestamp": 1553226969000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<ぢやう\n|kanon=しょう<しやう\n|kun=つえ-<つゑ-, つわもの-, よ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is not used much in modern Japanese."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Alternative spelling of {{ja-l|杖||tsue}}. See that entry for details.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つえ|hhira=つゑ}}\n\n# {{alternative spelling of|ja|sort=つえ|杖||a [[cane]], a [[crook]], a [[walking stick]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Alternative spelling of {{ja-l|兵||tsuwamono}}. See that entry for details.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つわもの|hhira=つはもの}}\n\n# {{alternative spelling of|ja|sort=つわもの|兵||[[weaponry]]; a [[soldier]], a [[warrior]]; a [[courageous]] person, a [[brave]]; someone who is very [[confident]], even [[obstinate]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "Alternative spelling of {{ja-l|回り}}, {{ja-l|周り}}, {{ja-l|廻り||mawari}}. See those entries for details.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まわり|hhira=まはり}}\n\n# {{alternative spelling of|ja|sort=まわり|回り}}, etc.: [[surroundings]]; [[around]]; [[turning]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "From {{etyl|ltc|ja|sort=しょう'}} {{m|ltc|仗}}. Compare modern {{cog|cmn|仗|tr=zhàng}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|じょう|hhira=ぢやう}}\n\n# [[military]] [[strength]]\n# [[reliable]], [[dependable]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-l|仗旗|じょうき|jōki}}: in [[medieval]] times, a special [[imperial]] [[flag]] marking occasions of special [[dignity]], such as the first day of a new emperor's [[reign]]\n* {{ja-l|仗議}}, {{ja-l|仗儀|じょうぎ|jōgi}}: in the [[w:Nara period|Nara period]], a kind of [[codify|codified]] [[conference]] before the [[imperial]] [[court]], whereby [[公家#Japanese|noble]]s below the rank of [[minister]] would discuss the business of [[government]]\n* {{ja-l|仗座|じょうざ|jōza}}: the [[seat]]s of the [[imperial|Imperial]] [[guard|Guard]]; where [[公家#Japanese|noble]]s would sit to offer [[counsel]] to the [[court]]\n* {{ja-l|仗身|じょうしん|jōshin}}: in the [[w:Nara period|Nara period]], the [[court]]-appointed [[bodyguard]] of officials of fifth or higher rank\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

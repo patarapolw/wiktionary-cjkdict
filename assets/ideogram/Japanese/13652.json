@@ -1,0 +1,109 @@
+{
+  "title": "妻",
+  "ns": 0,
+  "id": 13652,
+  "timestamp": 1546553376000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=女05}}\n\n# [[spouse]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さい\n|kanon=せい\n|kun=つま-, めあわ-せる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|つま}}\nFrom {{m|ja|端|tr=tsuma||side, edge}}, indicating the person who is ''at the side'' of someone: a [[spouse]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Compare the {{etyl|en|-}} expression {{m|en|better half}}.\n\nThis term originally referred to either a male ({{m|en|husband}}) or female ({{m|en|wife}}) spouse. In modern usage, this term refers only to a female spouse.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つま|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|夫}} {{qualifier|archaic}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つま}}\n\n# {{lb|ja|sort=つま|archaic}} a [[spouse]]\n# {{lb|ja|sort=つま|humble|only refers to one's own}} a [[wife]] {{gl|married woman}}\n#* {{quote-book\n|genre=fiction\n|||lang=ja\n|location=Tokyo\n|publisher=Kodansha\n|first=Osamu\n|last=Tezuka\n|authorlink=Osamu Tezuka\n|{{w2|ja|ブラック・ジャック}}\n|trans-title={{w|Black Jack (manga)|Black Jack}}\n|date=Feb 15 1999\n|origdate=Jun 20 1983\n|isbn=4-06-108768-1\n|volume=18\n||176\n|edition=8th\n|chapter={{lang|ja|第８話　未知への挑戦}}\n|trans-chapter=Chapter 8: Challenge of the Third Kind\n|{{ruby|{{lang|ja|先生………………私の'''妻'''は美しいでしょう？<br>ああ！すばらしい美人ですよ！<br>でしょう？なにしろ昨年のミス・イウレガだったのですから}}}}\n|transliteration=''Sensei……………… Watashi no '''tsuma''' wa utsukushii deshō?<br>Ā! Subarashii bijin desu yo!<br>Deshō? Nani shiro sakunen no Misu Iurega datta no desu kara''\n|translation=Doctor……………… Do you think my wife is beautiful?<br>Sure! She’s a gorgeous lady!<br>I know, right? She was last year’s Miss Iurega after all}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{s|one’s own wife}} {{ja-r|家%内|か%ない}}\n* {{s|someone else's wife}} {{ja-r|奥さん|おくさん}}, {{ja-r|奥様|おくさま}}\n* {{s|Kansai}} {{ja-r|嫁|よめ}}\n* {{s|spouse in general}} {{ja-r|配偶者|はいぐうしゃ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|つま}}\nBy extension from the ''at the'' {{m|en|side}} sense.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つま|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つま}}\n\n# a [[side dish]]\n# a [[tangent]], a [[digression]], something to the [[side]] of the main thing"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=o|さい}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|妻|gloss=wife}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|さい|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さい}}\n\n# [[my]] [[wife]]\n#* {{w2|ja|sc=Latn|石川啄木|Isikawa Takuboku}}, ''{{l|ja|sc=Latn||Romazi Nikki}}''\n#*: {{quote|ja|sc=Latn|Yo wa '''Sai''' wo aisiteru; aisiteru kara koso kono Nikki wo yomase taku nai no da.|I love my '''Wife'''; it is precisely because I love her that I do not want her to read this Diary.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "* Used chiefly in written texts such as letters."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|sort=つま}}\n{{topics|ja|Family|sort=つま|Female}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

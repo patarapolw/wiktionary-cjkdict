@@ -1,0 +1,44 @@
+{
+  "title": "器",
+  "ns": 0,
+  "id": 12771,
+  "timestamp": 1552134677000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|噐|𠾖}}\n{{character info/new}}\n{{character info/new|0xfa38}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=16}}\n{{ja-forms|器|器|器}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In all regions except Japan, the middle component is written {{l|mul|犬}}, which is the orthodox form found in the {{w|Kangxi dictionary}}.\n* In Japanese {{w|shinjitai}}, the middle component is written {{l|mul|大}} instead of {{l|mul|犬}} (the upper right dot is missing). Due to {{w|Han unification}}, both forms are encoded using the same [[code point]]. This character may appear to be different depending on the font used.\n* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+FA38</code> for the {{w|kyūjitai}} form of {{lang|ja|器}} which has {{l|mul|犬}} as the middle component.\n* Another character, {{l|mul|𠾖}} (<code>U+20F96</code>) exists for the historical form found in the {{w|Ming dynasty}} {{lang|zh|《直音篇》}} Chinese dictionary<!-- Refer http://dict.variants.moe.edu.tw/bookpiece/062/43430.png --> which is similar to Japanese {{w|shinjitai}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=13|asj+=12|sn=16|snj+=15|four=66663|canj=RRIKR|ids=⿱哭吅(GHTKV),⿳吅大吅(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* <big>{{l|mul|[[𮣦]], [[𢻪]], [[𣀬]], [[𥀴]], [[𤼅]], [[𥷇]], [[𩆮]], [[𬑀]]}}</big>"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0210.020|dkj=04349|dj=0432.260|hdz=10690.070|uh=5668}}\n{{Han ref|uh=FA38}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

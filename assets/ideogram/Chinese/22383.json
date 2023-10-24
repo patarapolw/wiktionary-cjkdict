@@ -1,0 +1,44 @@
+{
+  "title": "秩",
+  "ns": 0,
+  "id": 22383,
+  "timestamp": 1553563225000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhì\n|m-s=\n|c=dit6\n|c-t=\n|g=\n|h=gd=zed5\n|j=\n|mb=dĭ\n|md=\n|mn=qz,tw,xm,zz:tia̍t/twv:ti̍t\n|mn-t=diag4\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[order]]\n#: {{zh-x|秩序|order; law and order}}\n# {{lb|zh|literary|historical}} [[official]]'s [[salary]]\n# {{lb|zh|literary|historical}} [[official]] [[rank]]\n# {{lb|zh|literary}} [[ten]] [[year]]s; [[decade]]\n#: {{zh-x|七-秩 大慶|celebration of the 70th birthday}}\n# {{lb|zh|mathematics}} [[rank]]\n#: {{zh-x|矩陣 的 秩|'''rank''' of a matrix}}\n#: {{zh-x|列秩、行{háng}秩|column '''rank''', row '''rank'''}}\n#: {{zh-x|滿秩|full '''rank'''}}\n# {{†}} [[accumulate]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|平秩|峻秩|寵秩|官秩|天秩|品秩|厚秩|秩秩|產銷秩序|秩祿|秩然|秩滿|秩序井然|秩序|社會秩序|服秩|秩敘|散秩|顯秩}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

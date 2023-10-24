@@ -1,0 +1,46 @@
+{
+  "title": "圀",
+  "ns": 0,
+  "id": 12922,
+  "timestamp": 1536380022000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|國|国}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=囗06}}\n\n# [[country]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こく\n|kanon=こく\n|kun=くに-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|くに|yomi=kun}}\n{{ja-noun|くに}}\n\n# {{alternative form of|lang=ja|国}}: [[country]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This is considered to be an ancient form and not used in modern Japanese, and therefore, is is used in personal names."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

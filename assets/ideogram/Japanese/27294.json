@@ -1,0 +1,71 @@
+{
+  "title": "讐",
+  "ns": 0,
+  "id": 27294,
+  "timestamp": 1553569916000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|讎|仇}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言16}}\n\n# [[enemy]]\n# [[revenge]], [[vengeance]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゅ, ず\n|on=しゅう<しう\n|kun=あだ-, むく-いる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|あだ}}\n{{IPAchar|/ata/}} → {{IPAchar|/ada/}}\n\nA sound shift in the {{w|Edo period}} from earlier form ''ata'', itself from classical verb {{m|ja|当つ|tr=atsu}}, which became modern {{m|ja|当たる|tr=ataru||to be against}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|あだ|acc=2|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|仇}}, {{qualifier|rare}} {{ja-l|寇}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あだ}}\n\n# an [[opponent]], an [[enemy]], a [[foe]]\n# [[harm]], [[injury]]\n# [[terrible]] [[treatment]] (of someone or something)\n# [[hate]] towards someone, a [[grudge]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The spelling {{m|ja|仇}} is much more common."
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|enemy}} {{m|ja|敵|tr=kataki}}, {{m|ja|敵|tr=teki}}\n* {{sense|harm}} {{m|ja|危害|tr=kigai}}\n* {{sense|hate}} {{m|ja|怨み|tr=urami}}\n* {{sense|grudge}} {{m|ja|怨恨|tr=enkon}}, {{m|ja|遺恨|tr=ikon}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

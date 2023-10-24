@@ -1,0 +1,46 @@
+{
+  "title": "稿",
+  "ns": 0,
+  "id": 22473,
+  "timestamp": 1543038782000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|稾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=禾10}}\n\n# manuscript, version, draft",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=こう\n|kun=わら-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{ja-verb-suru|こう}}\n\n# to [[write]] (a [[manuscript]]/[[rough]] [[copy]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Conjugation",
+                  "text": "{{ja-suru|こう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

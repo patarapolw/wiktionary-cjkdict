@@ -1,0 +1,39 @@
+{
+  "title": "缺",
+  "ns": 0,
+  "id": 23867,
+  "timestamp": 1549832445000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|欠|缺}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=缶04|shin=欠}}\n\n# [[lack]]\n# [[gap]]\n# [[fail]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けち\n|kanon=けつ\n|kun=か-く, か-ける\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|欠缺|けんけつ|[[lack]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

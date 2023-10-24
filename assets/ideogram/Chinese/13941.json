@@ -1,0 +1,44 @@
+{
+  "title": "嫘",
+  "ns": 0,
+  "id": 13941,
+  "timestamp": 1552153808000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=léi\n|c=leoi4\n|mc=\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|嫘縈|嫘祖|封嫘:a wife of Huangdi}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

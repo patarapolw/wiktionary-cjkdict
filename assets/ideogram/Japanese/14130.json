@@ -1,0 +1,75 @@
+{
+  "title": "宇",
+  "ns": 0,
+  "id": 14130,
+  "timestamp": 1548691624000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=宀03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=う\n|kun=のき-, いえ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|う|yomi=on}}\nFrom {{der|ja|ltc|sort=う|-}} {{ltc-l|宇}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|う|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|う}}\n\n# {{n-g|Counter for [[building]]s, [[roof]]s, etc.}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|う}}\n\n# [[eaves]]; [[roof]]; [[house]]; [[building]]\n# the [[whole]] [[world]]; [[universe]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|宇%宙|う%ちゅう}}: [[universe]]; [[cosmos]]\n* {{ja-r|屋%宇|おく%う}}: [[house]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|さかい}}\n\n# {{given name|female|lang=ja|sort=さかい}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

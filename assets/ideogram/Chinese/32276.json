@@ -1,0 +1,49 @@
+{
+  "title": "鰮",
+  "ns": 0,
+  "id": 32276,
+  "timestamp": 1541823112000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鳁|鰛}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=鳁|t2=鰛}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wēn\n|c=wan1\n|h=pfs=\n|md=\n|mn=un\n|mn-t=ung1\n|w=1un\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[sardine]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|沙丁魚|sardine}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|裸鰮}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C17375}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

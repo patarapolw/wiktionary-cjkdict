@@ -1,0 +1,44 @@
+{
+  "title": "仝",
+  "ns": 0,
+  "id": 10606,
+  "timestamp": 1527671117000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|同|㒰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-see-also|同}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=人03}}\n\n# [[same]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ずう<づう\n|kanon=とう\n|kanyoon=どう\n|kun=おな-じ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This [[kanji]] is a zokuji ([[俗字]]), a [[variant]] that is widespread but not orthodox. It is non-standard for [[同]]."
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* [[々]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

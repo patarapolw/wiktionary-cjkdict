@@ -1,0 +1,34 @@
+{
+  "title": "侮",
+  "ns": 0,
+  "id": 10902,
+  "timestamp": 1553325889000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA30}}\n{{character info|0x2F805}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人07|kyu=侮}} <!-- 侮 (U+FA30) is the kyūjitai form (CJK Compatibility ideograph) -->\n\n# [[contempt]], [[disdain]], [[scorn]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=む\n|kanon=ぶ\n|kun=あなど-る, あなど-り, あなず-る, あなず-り\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

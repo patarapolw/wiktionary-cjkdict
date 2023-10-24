@@ -1,0 +1,46 @@
+{
+  "title": "吋",
+  "ns": 0,
+  "id": 12104,
+  "timestamp": 1528042769000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|寸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ず<づ\n|kanon=とう\n|kun=[[インチ]] (inchi)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|インチ}}\n\n# {{ja-def|インチ}} [[inch]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{ja-uk|katakana}}\n\n[[Category:ja:Units of measure|いんち]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

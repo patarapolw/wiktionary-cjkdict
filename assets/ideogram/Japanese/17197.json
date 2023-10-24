@@ -1,0 +1,39 @@
+{
+  "title": "曩",
+  "ns": 0,
+  "id": 17197,
+  "timestamp": 1553551549000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日17}}\n\n# [[before]], [[former]], [[previous]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=のう<なう\n|kanon=どう<だう\n|kun=さき-, さき-に\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|曩時|のうじ}}\n* {{ja-r|曩日|のうじつ}}\n* {{ja-r|曩昔|のうせき}}\n* {{ja-r|曩祖|のうそ}}\n* {{ja-r|曩莫|のうまく}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

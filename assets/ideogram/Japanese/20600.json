@@ -1,0 +1,138 @@
+{
+  "title": "獣",
+  "ns": 0,
+  "id": 20600,
+  "timestamp": 1552876040000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|獸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|獣|獸}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=犬12|kyu=獸}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ\n|kanon=しゅう<しう\n|kanyoon=じゅう<じう\n|kun=けもの-, けだもの-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|けだもの|yomi=k}}\nLiterally \"thing of hair\". Compound of {{compound|ja|sort=けだもの|毛|tr1=ke|t1=hair|だ|tr2=da|pos2=genitive marker|物|tr3=mono|t3=thing}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> Medial ''-da-'' is a very rare genitive marker found in compounds, also seen in {{m|ja|果物||tr=kudamono|fruit}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|けだもの|acc=0|acc_ref=NHK,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=獸|けだもの}}\n\n# an animal covered in fur, a beast\n#* {{RQ:Konkōmyō Saishōōkyō Ongi|6 (back)}}\n#*: 獸 '''ケタモノ'''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|けもの|yomi=k}}\nLiterally \"hair thing\". Compound of {{compound|ja|sort=けもの|毛|tr1=ke|t1=hair|物|tr2=mono|t2=thing}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|けもの|acc=0|acc_ref=NHK,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=獸|けもの}}\n\n# an animal covered in fur, a beast\n#* {{quote-book|||Vol.1\n|||date=Feb 4 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|ダーク・グレイ}}\n|trans-chapter=Dark Gray}}\n#*: {{ja-usex|からだが灰%色の'''けもの'''。あまり見かけない貴%重ないきもの。|からだ が はい%いろ の '''けもの'''。あまり みかけない き%ちょう な いきもの。|A '''beast''' with a gray body. It is a rarely seen treasure of nature.}}\n#* {{quote-book|||BOOSTER 3\n|||date=Jul 5 1999\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|モン・ラーバス}}\n|trans-chapter=Mon Larvas}}\n#*: {{ja-usex|ラーバスがより進%化した'''けもの'''。力がパワーアップしている。|ラーバス が より しん%か した '''けもの'''。ちから が パワー-アップ している。|A '''beast''' who evolved from Larvas and is now even more powerful.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|獣耳|けものみみ}}: [[kemonomimi]]\n* {{ja-r|獣道|けものみち}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|しし|yomi=irr}}\nFrom {{m|ja|肉|tr=shishi||meat, flesh}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|しし|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鹿}}, {{ja-l|猪}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しし}}\n\n# {{lb|ja|archaic|sort=しし}} a [[beast]] {{qualifier|used for its meat, such as a [[boar]] or a [[deer]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|獣食った報い|ししくったむくい}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|じゅう|yomi=kanyoon}}\n{{IPAchar|/siu/}} → {{IPAchar|/ɕiu/}} → {{IPAchar|/d͡ʑiu/}} → {{IPAchar|/d͡ʑuː/}}\n\nFrom {{etyl|ltc|ja|sort=じゅう}} {{m|zh|獸|tr=syuw<sup>H</sup>||(wild) animal}}. Compare modern {{etyl|cmn|-}} reading ''shòu'', {{etyl|nan|-}} ''siù''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyoon|じゅう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=獸|じゅう|hhira=じう}}\n\n# [[beast]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|一角獣|いっかくじゅう}}: a [[unicorn]]\n* {{ja-r|益獣|えきじゅう}}: [[beneficial]] [[animal]]\n* {{ja-r|怪獣|かいじゅう}}: a [[monster]] {{qualifier|generally a big animal monster, like [[Godzilla]] or [[Mothra]]}}\n* {{ja-r|害獣|がいじゅう}}: [[harmful]] [[animal]]\n* {{ja-r|麝香獣|じゃこうじゅう}}: [[moschiferous]] [[animal]] ([[musk deer]], [[civet]], etc)\n* {{ja-r|獣医|じゅうい}}: a [[veterinarian]]\n* {{ja-r|獣姦|じゅうかん}}: [[bestiality]] {{gloss|sexual activity}}\n* {{ja-r|尾獣|びじゅう}}: [[tailed]] [[beast]]\n* {{ja-r|雷獣|らいじゅう}}: a [[thunder]] [[beast]]\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|獣を逐う者は目に太山を見ず|じゅう を お.う もの は め に たいざん を みず}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Konkōmyō Saishōōkyō Ongi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

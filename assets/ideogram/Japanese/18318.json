@@ -1,0 +1,175 @@
+{
+  "title": "次",
+  "ns": 0,
+  "id": 18318,
+  "timestamp": 1553309411000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㳄}}\n{{character info/new}}\n{{character info|0x2F8EF}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=欠02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kanyoon=じ\n|kun=す-く, す-き, つ-いで, つ-ぐ, つぎ-\n|nanori=き, すき, よし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|目%次|もく%じ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|し}}\nFrom {{etyl|ltc|ja|sort=し}} {{m|zh|次|tr=tshij<sup>H</sup>||in order; second}}.\n\nLess common reading in modern Japanese. [[supersede|Superseded]] in most cases by ''ji''; see below.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=on|し}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|し}}\n\n# [[next]], [[secondary]]\n# [[following]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Only found in compounds."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|次%第|し%だい}}: [[order]], order of [[event]]s, [[circumstances]]; [[dependent]] upon, coming after, taking orders from\n* {{ja-r|次%忠|し%ちゅう}}: [[secondary]] [[loyalty]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|じ}}\n{{IPAchar|/si/}} → {{IPAchar|/ʑi/}} → {{IPAchar|/d͡ʑi/}}\n\nSound shift from ''shi'' above.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanyo|じ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|じ}}\n\n# number of times: an [[ordinal]] marker\n#: {{ja-usex|第四'''次'''計画|だいよん'''じ''' けいかく|the four'''th''' plan}}\n# number in a sequence, number of [[aspect]]s or [[dimension]]s\n#: {{ja-usex|二'''次'''方程式、三'''次'''式|に'''じ''' ほうていしき、 さん'''じ''' しき|a quadrat'''ic''' equation, a thi'''rd order''' expression}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|じ}}\n\n# {{lb|ja|sort=じ|rare}} [[order]], [[sequence]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Seldom found in isolation."
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|じ}}\n\n# {{qualifier|attached to nouns}} the [[next]], [[secondary]], [[vice-]]\n#: {{ja-usex|'''次'''位、'''次'''長|'''じ'''い、 '''じ'''ちょう|'''second''' rank, '''vice-'''director}}\n# {{lb|ja|sort=じ|chemistry}} [[hypo-]] {{qualifier|used to distinguish the oxidation levels of various acids}}\n#: {{ja-usex|亜塩素酸、'''次'''亜塩素酸、亜臭素酸、'''次'''亜臭素酸|あえんそ さん、 '''じ'''あえんそ さん、 あしゅうそ さん、 '''じ'''あしゅうそ さん|chlorous acid, '''hypo'''chlorous acid, bromous acid, '''hypo'''bromous acid}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|つぎ}}\nNominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of {{etyl|ojp|ja|sort=つぎ}}-derived verb {{m|ja|次ぐ|tr=tsugu||to be in a sequence; to follow, to continue from something, to be next; to connect, to join}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つぎ|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つぎ}}\n\n# [[next]], [[order]], [[sequence]], [[below]]\n#: {{ja-usex|子%供たちは'''次'''のように述べています。|こ%どもたち は '''つぎ''' の よう に のべています。|The children said as '''follows'''.}}\n#* From the [http://www.catch.jp/wiki/index.php?tutorial_1 Emacs tutorial] ([http://cmgm.stanford.edu/classes/unix/emacs.html English])\n#*: {{ja-usex|では&&&#32;<tt>C-v</tt>&#32;&&（'''次'''の画面を見る）をタイプして'''次'''の画面に進んで下さい。（さあ、やってみましょう。コントロールキーを押しながら&&&#32;<tt>v</tt>&#32;&&です）|^で は&&&#32;<tt>C-v</tt>&#32;&&（'''つぎ''' の がめん を みる）を タイプ して '''つぎ''' の がめん に すすんで ください。（^さあ、やってみましょう。^コントロールキー を おしながら&&&#32;<tt>v</tt>&#32;&&です）|Now type <tt>C-v</tt> (View '''next''' screen) to move to the '''next''' screen. (go ahead, do it by depressing the control key and <tt>v</tt> together)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|すき}}\nNominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of {{etyl|ojp|ja|sort=すく}}-derived verb {{m|ja|次く|tr=suku||to follow, to continue from something, to be next;}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nThe verb form was obsolete even in olden times. Existence of the verb, possibly related to [[次ぐ|''tsugu'']] mentioned above, is inferred from placenames found in the [[w:Man'yōshū|''Man'yōshū'']] and other ancient poetry.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|すき}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|主基}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|すき}}\n\n# {{lb|ja|sort=すき|Shinto}} at the {{m|ja|大嘗祭|tr=Daijōsai}} and other major Shintō ceremonies, refers to the group of regional representatives making [[offering]]s of [[sake]] and [[grain]], who do so after the initial offering"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=k|ついで}}\n{{IPAchar|/tuɡite/}} → {{IPAchar|/tuide/}}\n\nSound shift from {{m|ja|次第|tr=tsugite||order, sequence}}, itself originally the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of now-obsolete {{etyl|ojp|ja|sort=ついで}}-derived verb {{m|ja|継ぎつ|tr=tsugitsu||to do things in sequence, to establish an order}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ついで|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|序}}, {{ja-l|序で}}, {{ja-l|第}}, {{ja-l|次いで}}, {{ja-l|尋いで}}, {{ja-l|次第}}, {{ja-l|嗣}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ついで}}\n\n# [[order]], [[sequence]]\n# [[follower]], [[successor]]; the [[next]] thing in a sequence\n# a [[good]] [[opportunity]] to do something; doing something [[incidental]] to something else",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The ''good opportunity'' sense is more often encountered as {{ja-r|序でに|ついで に}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

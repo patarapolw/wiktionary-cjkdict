@@ -1,0 +1,39 @@
+{
+  "title": "咤",
+  "ns": 0,
+  "id": 12284,
+  "timestamp": 1510723504000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|吒}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=口06}}\n\n# {{defn|lang=ja|sort=口06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=ちゃ\n|kanon=た\n|on=と\n|kun=しか-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|叱咤|しった}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

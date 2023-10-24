@@ -1,0 +1,39 @@
+{
+  "title": "魏",
+  "ns": 0,
+  "id": 32035,
+  "timestamp": 1542022023000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鬼08}}\n\n# [[high]]\n# [[large]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げ<げ<ぐゑ\n|kanon=ぎ<ぎ<ぐゐ\n|on=がい<ぐわい\n|kun=たか-い\n}}\n\n{{attention|ja|what kind of on-reading is \"gai\"?}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ぎ}}\n\n# [[Wei]] kingdom in China"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

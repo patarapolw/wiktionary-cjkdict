@@ -1,0 +1,160 @@
+{
+  "title": "円",
+  "ns": 0,
+  "id": 9310,
+  "timestamp": 1554122143000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|圓|圆}}\n{{character info/new}}\n<!-- may be replaced by zh-forms -->",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|円|圓}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=冂02|kyu=圓}}\n\n# [[circle]]\n# [[yen]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん<ゑん\n|kanon=えん<ゑん, おん<をん\n|kun=まる-, まる-い, つぶ-ら, まど-か, まろ-やか\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|円%居|まど%い}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えん|yomi=o}}\n{{swp|lang=ja}}\n{{swp|lang=ja|円 (数学)}}\n{{swp|lang=ja|円 (通貨)}}\n{{IPAchar|/wen/}} → {{IPAchar|/eɴ/}}\n\nFrom {{der|ja|ltc|sort=えん|-}} {{ltc-l|圓}}, with the original sense of \"[[circle]], [[round]]ness\".\n\nThe ''[[yen]]'' sense came much later in the {{w|Meiji period}}, a borrowing {{bor|ja|cmn|sort=えん|圓|tr=yuán}}, itself from {{m|zh|銀圓|tr=yínyuán||round [[silver#Adjective|silver]] object(s), ''especially'' a [[piece of eight]]}}. Compare {{cog|zh|元|tr=yuán||[[yuan]]}} and {{cog|ko|원||Korean [[won]]}}.\n\nThe ''yen'' became the official currency of Japan in 1871, succeeding the {{m|ja|両|tr=ryō}} and the {{m|ja|文|tr=mon}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=o|えん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=圓|えん|hhira=ゑん}}\n\n# a [[round]] or [[circular]] [[object]]; a [[circle]]; [[roundness]]\n# {{lb|ja|math}} [[circle]] {{gloss|set of all points in plane at a given distance and at a given point}}\n#: {{synonyms|ja|円周|tr=enshū}}\n# [[yen]]\n#: one yen is equal to 100 {{m|ja|銭|tr=sen}}\n#: {{syn|ja|円貨|tr=enka}}\n#*{{quote-book\n||{{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}\n|{{wj|征地球論}}\n||322\n|{{lj|一億'''円'''⁉いらん帰れ<br>一千万'''円'''でいい　百万'''円'''！十万'''円'''！一万'''円'''！}}\n|100 million yen⁉ No way!<br>Okay, 10 million yen then. 1 million! 100,000! 10,000!\n|chapter={{lj|ミニチュア製造カメラ}}\n|trans-chapter=Miniature-Generating Camera\n|trans-title=A Debate over Conquering Earth\n|series={{wj|藤子・F・不二雄のSF短編|藤子・Ｆ・不二雄 ＳＦ全短編}}\n|seriesvolume=3\n|genre=fiction\n|edition=2nd\n|location=Tokyo\n|publisher={{w|Chuokoron-Shinsha|Chuokoronsha}}\n|date=Nov 10 1989\n|origdate=May 25 1988\n|volume=3\n|section={{lj|第二章}}\n|isbn=4-12-001677-3\n|lang=ja\n|tr=Ichioku'''en'''⁉ Iran kaere<br>Issen’'''en''' de ii Hyakuman’'''en'''! Jūman’'''en'''! Ichiman’'''en'''!}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{sense|circle}}\n** {{ja-r|円 軌道|えん きどう}}\n** {{ja-r|円グラフ|えん-グラフ|[[pie chart]]}}\n** {{ja-r|外接円|がいせつえん}}\n** {{ja-r|四分%円|しぶん%-えん}}\n** {{ja-r|内接円|ないせつえん}}\n** {{ja-r|大円|だいえん}}\n** {{ja-r|同心円|どうしんえん}}\n** {{ja-r|半円|はんえん}}\n{{der-mid}}\n* {{sense|yen}}\n** {{ja-r|円高|えんだか|[[strong]] yen}}\n** {{ja-r|円安|えんやす|[[weak]] yen}}\n** {{ja-r|円%為替|えん%-かわせ|yen [[exchange]]}}\n** {{ja-r|円価|えんか|yen [[value]]}}\n** {{ja-r|円貨|えんか}}\n** {{ja-r|円 記号|えん きごう|pos=the yen [[symbol]], [[¥]]}}\n** {{ja-r|円 借款|えん しゃっかん}}\n** {{ja-r|円 相場|えん そうば|yen [[exchange rate]]}}\n** {{ja-r|円%建て|えん%-だて}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Descendants",
+                      "text": "* {{desc|bor=y|zh|圓}}\n* {{desc|bor=y|en|yen}}\n** {{desc|bor=y|vi|yên}}\n* {{desc|bor=y|fr|yen}}\n* {{desc|bor=y|de|Yen}}\n* {{desc|bor=y|ko|엔}}\n* {{desc|bor=y|pt|iene}}\n* {{desc|bor=y|ru|иена}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{l|ja|¥}}\n\n{{top|ja|Currencies|Japan|sort=えん}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix||kyu=圓|えん|hhira=ゑん}}\n\n# [[circular]]; [[round]]\n# [[smooth]]; [[harmonious]]\n# ''[[yen]]'': the official [[currency]] of [[Japan]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|円 運動|えん うんどう|circular motion}}\n* {{ja-r|円蓋|えんがい|[[dome]]}}\n* {{ja-r|円滑|えんかつ}}\n* {{ja-r|円罐|えんかま}}\n* {{ja-r|円環|えんかん}}\n* {{ja-r|円規|えんき|[[compass]]|pos=drawing tool}}\n* {{ja-r|円丘|えんきゅう}}\n* {{ja-r|円鏡|えんきょう}}\n* {{ja-r|円形|えんけい}}\n* {{ja-r|円弧|えんこ}}\n* {{ja-r|円光|えんこう}}\n* {{ja-r|円寂|えんじゃく}}\n* {{ja-r|円周|えんしゅう|[[circle]]}}\n* {{ja-r|円熟|えんじゅく}}\n* {{ja-r|円心|えんしん}}\n* {{ja-r|円陣|えんじん}}\n* {{ja-r|円錐|えんすい}}\n* {{ja-r|円窓|えんそう}}\n* {{ja-r|円卓|えんたく}}\n* {{ja-r|円柱|えんちゅう}}\n* {{ja-r|円虫%類|えんちゅう%るい}}\n* {{ja-r|円頂|えんちょう}}\n* {{ja-r|円転|えんてん}}\n* {{ja-r|円筒|えんとう}}\n* {{ja-r|円盤|えんばん}}\n* {{ja-r|円舞|えんぶ}}\n* {{ja-r|円墳|えんぷん}}\n* {{ja-r|円 偏光|えん へんこう}}\n* {{ja-r|円本|^えんぽん}}\n* {{ja-r|円満|えんまん}}\n* {{ja-r|円顱|えんろ}}\n* {{ja-r|一円|いちえん}}\n* {{ja-r|団円|だんえん}}\n* {{ja-r|楕円|だえん|rom=-}}, {{ja-r|橢円|だえん}}, {{ja-r|長円|ちょうえん|[[oval]], [[ellipse]]}}\n* {{ja-r|方円|ほうえん}}\n* {{ja-r|遊動円木|ゆうどうえんぼく}}\n* {{ja-r|卵円孔|らんえんこう}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|kyu=圓|えん|hhira=ゑん}}\n\n# {{surname|lang=ja|sort=えん}}\n# {{given name|lang=ja|female|A=a|sort=えん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|まろ|yomi=kun}}\n{{IPAfont|⟨maro<sub>2</sub>⟩}} → {{IPAchar|/maro/}}\n\nFrom {{inh|ja|ojp|sort=まろ|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=圓|まろ}}\n\n# {{lb|ja|archaic|sort=まろ}} {{altspelling|lang=ja|丸||[[roundness]], [[plumpness]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|円し|まろし}}, {{ja-r|円い|まろい|[[round]]}}\n* {{ja-r|円み|まろみ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|まる|yomi=kun}}\n{{IPAchar|/maro/}} → {{IPAchar|/maru/}}\n\nSound shift from ''maro'' above.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|まる|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=圓|まる}}\n\n# {{altspelling|lang=ja|丸||[[circle]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|円し|まるし}}, {{ja-r|円い|まるい|[[round]]}}\n* {{ja-r|円み|まるみ}}\n* {{ja-r|円顔|まるがお}}\n* {{ja-r|円%鏡|まる%かがみ}}\n* {{ja-r|円形|まるがた|rom=-}}, {{ja-r|円型|まるがた}}\n* {{ja-r|円%鉋|まる%がんな}}\n* {{ja-r|円錐|まるぎり}}\n* {{ja-r|円 天井|まる てんじょう}}\n* {{ja-r|円%刃|まる%ば}}\n* {{ja-r|円花蜂|マル-ハナバチ|[[bumblebee]]}}\n* {{ja-r|円盆|まるぼん}}\n* {{ja-r|円窓|まるまど}}\n* {{ja-r|円%屋根|まる%やね|[[cupola]]}}\n* {{ja-r|黒円|くろまる}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|kyu=圓|まる}}\n\n# {{altspelling|lang=ja|丸}}: ''prefix to [[number]]s remaining constant''\n# {{altspelling|lang=ja|丸}}: ''prefix to noun to mean an object is completely in that noun''"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|kyu=圓|まる}}\n\n# {{surname|lang=ja|sort=まる}}\n# {{given name|lang=ja|unisex|A=a|sort=まる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "Various nanori readings.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|のどか|つぶら|まどか|まろか|みつ|めぐる}}\n\n# {{given name|lang=ja|female|A=a}}\n\n{{ja-pos|proper|つぶら|まどか}}\n\n# {{surname|lang=ja|sort=つぶら}}\n\n{{ja-pos|proper|まろし}}\n\n# {{given name|lang=ja|unisex|A=a|sort=まろし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

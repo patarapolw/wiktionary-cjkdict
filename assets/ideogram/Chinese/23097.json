@@ -1,0 +1,39 @@
+{
+  "title": "粑",
+  "ns": 0,
+  "id": 23097,
+  "timestamp": 1553563368000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=巴-second round simplified}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bā\n|m-s=ba1\n|c=baa1\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|粑粑|粽粑葉|糌粑|餈粑}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

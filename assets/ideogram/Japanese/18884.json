@@ -1,0 +1,39 @@
+{
+  "title": "洞",
+  "ns": 0,
+  "id": 18884,
+  "timestamp": 1553764661000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水06}}\n\n# Cave, den, grotto",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ずう\n|kanon=とう\n|kanyoon=どう\n|kun=ふかい, ほがらか, ほら-, みぬく\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|洞窟|どうくつ}}\n* {{ja-r|洞察|どうさつ}}\n* {{ja-r|洞簫|どうしょう}}: [[xiao]] {{gloss|Chinese flute}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

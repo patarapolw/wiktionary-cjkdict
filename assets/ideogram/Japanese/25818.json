@@ -1,0 +1,39 @@
+{
+  "title": "虞",
+  "ns": 0,
+  "id": 25818,
+  "timestamp": 1535759704000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=虍07}}\n\n# {{defn|lang=ja|sort=虍07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ぐ\n|kun=おそれ-, うれ-える, おもんぱか-る\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おそれ}}\n\n# {{alternative form of|恐れ|lang=ja}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

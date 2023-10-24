@@ -1,0 +1,80 @@
+{
+  "title": "彼",
+  "ns": 0,
+  "id": 15252,
+  "timestamp": 1552572317000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|彳|皮|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}\nRelated to {{och-l|夫|that}} ({{zh-ref|Schuessler, 2007}}).\n\n{{etystub|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=bǐ\n|c=bei2\n|h=pfs=pí\n|md=bī\n|mn=pí\n|w=2pi,2pe\n|w_note=2pi - vernacular; 2pe - literary\n|mc=y\n|oc=y\n|cat=pron\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[that]]; [[those]]\n# [[other]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|彼此|顧此失彼|彼竭我盈|彼眾我寡|厚此薄彼|彼得大帝|厚彼薄此|彼長我消|彼蒼|彼唱此和|不分彼此|何彼襛矣|彼岸|彼倡此和|瞻彼洛矣|挹彼注茲|挹彼注此|此唱彼和|知彼知己|知己知彼|此起彼伏|此發彼應|此問彼難|此起彼落|此仆彼起|聖彼得堡|誓彼襟靈|彼得}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Related to {{zh-l|許|hí, hír|that}}; see there for more.\n\nPronunciation 2 is a fusion word of {{zh-l|許|hí, hír|that}} + {{zh-l|一|it|one}}; compare {{cog|cmn|-}} {{zh-l|那|nèi}}, from {{zh-l|那|that}} + {{zh-l|一|one}} ({{zh-ref|Mei and Yang, 1995}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{zh-forms|alt=許,赫}}\n{{zh-pron\n|mn=zz:hé/tw:he\n|cat=pron\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{lb|zh|Zhangzhou|Taiwan Min Nan}} [[that]] {{gloss|demonstrative pronoun}}\n#: {{zh-x|這 是 阮 老母，彼{he} 是 阮 老爸。|This is my mother, and '''that''' is my father.|TW}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{zh-forms|alt=許,迄}}\n{{zh-pron\n|mn=hit\n|cat=det\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{lb|zh|Min Nan}} [[that]] {{gloss|demonstrative determiner}}\n#: {{zh-x|彼 本 冊|'''that''' book|TW}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

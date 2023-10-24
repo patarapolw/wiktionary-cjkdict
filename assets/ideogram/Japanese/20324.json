@@ -1,0 +1,39 @@
+{
+  "title": "牕",
+  "ns": 0,
+  "id": 20324,
+  "timestamp": 1548153584000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=片11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう\n|kanon=そう\n|kun=まど-}}\n\n{{ja-kanjitab|まど|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まど}}\n\n# {{alternative spelling of|lang=ja|窓}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

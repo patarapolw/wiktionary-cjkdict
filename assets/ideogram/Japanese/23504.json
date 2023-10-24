@@ -1,0 +1,61 @@
+{
+  "title": "縊",
+  "ns": 0,
+  "id": 23504,
+  "timestamp": 1548418537000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|缢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=糸10}}\n\n# [[strangle]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[い]] (i), [[あい]] (ai)|kanon=[[い]] (i), [[えい]] (ei)|kun=[[くびる]] (kubiru), [[くびれる]] (kubireru)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|縊る|くくる}}\n* {{ja-r|縊る|くびる}}\n* {{ja-r|縊る|くびれる}}\n* {{ja-r|縊く|わなく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=on}}\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|縊}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|い|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い}}\n\n# [[hang]]; [[strangle]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|縊刑|いけい}}\n* {{ja-r|縊痕|いこん}}\n* {{ja-r|縊殺|いさつ}}: [[strangling]] to [[death]]\n* {{ja-r|縊死|いし}}\n* {{ja-r|縊首|いしゅ}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

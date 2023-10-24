@@ -1,0 +1,39 @@
+{
+  "title": "閩",
+  "ns": 0,
+  "id": 30443,
+  "timestamp": 1528272430000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|闽}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=門06}}\n\n# {{defn|lang=ja|sort=門06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=まん, みん, もん\n|kanon=ばん, びん, ぶん\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|閩越|^びんえつ}}: {{w|Minyue}}\n* {{ja-r|閩江|^びんこう}}\n* {{ja-r|閩南語|^びんなんご}}: [[Min Nan]]\n* {{ja-r|洛閩の学|らくびん の がく}}\n* {{ja-r|濂洛関閩の学|れんらくかんびん の がく}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

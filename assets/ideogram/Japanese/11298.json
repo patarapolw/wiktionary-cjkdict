@@ -1,0 +1,78 @@
+{
+  "title": "儀",
+  "ns": 0,
+  "id": 11298,
+  "timestamp": 1547070057000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|仪}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=人13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎ\n|kanon=ぎ\n|kun=よ-い, のり-, のっとる\n|nanori=きたる, ただし, のり, よし\n}}\n\n{{ja-kanjitab|ぎ|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{der|ja|ltc|儀|sort=き'}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|ぎ|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|ぎ}}\n\n# [[ceremony]]\n# [[model]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|儀%式|ぎ%しき|[[ceremony]]}}\n* {{ja-r|地%球%儀|ち%きゅう%ぎ|[[globe]]}}\n* {{ja-r|天%象%儀|てん%しょう%ぎ|[[planetarium]]}}\n* {{ja-r|八%分儀|はち%ぶんぎ}}\n* {{ja-r|秘儀|ひぎ}}\n* {{ja-r|難儀|なんぎ}}\n* {{ja-r|礼儀|れいぎ}}\n* {{ja-r|六%分儀|ろく%ぶんぎ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぎ}}\n\n# [[ceremony]]\n# [[thing]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|ぎ}}\n\n# [[thing]], in relation to",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Used after a name or personal pronoun in letters and notices."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

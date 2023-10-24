@@ -1,0 +1,58 @@
+{
+  "title": "舅",
+  "ns": 0,
+  "id": 24625,
+  "timestamp": 1526282645000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=臼07}}\n\n# {{defn|lang=ja|sort=臼07}}",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=きゅう\n|kun=しゅうと-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "/sihi<small>1</small>to<small>2</small>/: [shipitwo] → [shiɸitwo] → [shiɸito]. See next entry.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しひと}}\n\n# a father-in-law"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "From [[舅|shihito]]: [shipitwo] → [shiɸitwo] → [shiɸito] → [shiɸuto] → [shiwuto] → [shiuto] → [shuːto].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しゅうと|hhira=しうと}}\n\n# a father-in-law"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

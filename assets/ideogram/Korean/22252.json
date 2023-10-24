@@ -1,0 +1,34 @@
+{
+  "title": "票",
+  "ns": 0,
+  "id": 22252,
+  "timestamp": 1546468137000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=표|eumhun=|rv=pyo|mr=p'yo|y=phyo}}\n\n# {{defn|lang=ko|sort=示06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ko-l|수표|[[check]], [[cheque]]|手票}}\n* {{ko-l|우표|[[postage stamp]]|郵票}}\n* {{ko-l|인식표|[[dog tag]]|認識票}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

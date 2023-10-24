@@ -1,0 +1,44 @@
+{
+  "title": "輛",
+  "ns": 0,
+  "id": 28422,
+  "timestamp": 1542649526000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|輌|辆}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|輌|輛}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=車08|shin=輌}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろう<らう\n|kanon=りょう<りやう\n|kun=くるま-, ならぶ\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|りょう|counter|hhira=りやう}}\n\n# cars of a train"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "Usually substituted by {{m|ja|両}} in modern usage."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

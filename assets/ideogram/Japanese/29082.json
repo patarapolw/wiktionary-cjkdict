@@ -1,0 +1,44 @@
+{
+  "title": "酔",
+  "ns": 0,
+  "id": 29082,
+  "timestamp": 1512764121000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|醉}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|酔|醉}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=酉04|kyu=醉}}\n\n# {{defn|lang=ja|sort=酉04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=すい<すゐ\n|kanon=すい<すゐ\n|kun=よ-い<よ-ひ<ゑ-ひ, よ-う<よ-ふ<ゑ-ふ\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Notes",
+                  "text": "* As in historical readings \"ずゐ\", \"つゐ\", \"ゆゐ\", and \"るゐ\", most dictionaries do not have \"すゐ\" as a historical reading for 酔. According to historical data, its on-reading is the modern \"すい\". However, the Dai Kanwa Jiten, has the \"すゐ\" and related -wi historical on-readings.\n{{attention|ja|please confirm this, this is translated from the Japanese Wikipedia}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|二日%酔い|ふつか%よい}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

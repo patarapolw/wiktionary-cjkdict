@@ -1,0 +1,39 @@
+{
+  "title": "設",
+  "ns": 0,
+  "id": 26917,
+  "timestamp": 1553765627000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|设}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=言04}}\n\n# Establish.\n# Set up.\n# Prepare.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せち\n|kanon=せつ\n|kun=もう-ける, しつら-える, もし\n|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|設定|せってい}}: setup, creation, settings\n* {{ja-r|増設|ぞうせつ}}: expansion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

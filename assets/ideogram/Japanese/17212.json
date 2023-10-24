@@ -1,0 +1,83 @@
+{
+  "title": "書",
+  "ns": 0,
+  "id": 17212,
+  "timestamp": 1553310251000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|书|畫|晝}}\n{{character info/new}}\n{{character info|0x2F8CC}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=曰06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょ\n|kanon=しょ\n|kun=か-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|書%順|かき%じゅん}}\n* {{ja-r|書物|しょもつ}}\n* {{ja-r|書%初|かき%ぞめ}}\n* {{ja-r|書院|しょいん}}\n* {{ja-r|書家|しょか}}\n* {{ja-r|書架|しょか}}\n* {{ja-r|書画|しょが}}\n* {{ja-r|書簡|しょかん}}\n* {{ja-r|書記|しょき}}\n* {{ja-r|書式|しょしき}}\n* {{ja-r|書写|しょしゃ}}\n* {{ja-r|書籍|しょせき}}\n* {{ja-r|書体|しょたい}}\n* {{ja-r|書道|しょどう}}\n{{mid3}}\n* {{ja-r|書法|しょほう}}\n* {{ja-r|書面|しょめん}}\n* {{ja-r|書物|しょもつ}}\n* {{ja-r|書類|しょるい}}\n* {{ja-r|書棚|しょだな}}\n* {{ja-r|楷書|かいしょ}}\n* {{ja-r|教科書|きょうかしょ}}\n* {{ja-r|行書|ぎょうしょ}}\n* {{ja-r|原書|げんしょ}}\n* {{ja-r|辞書|じしょ}}\n* {{ja-r|新書|しんしょ}}\n* {{ja-r|聖書|せいしょ}}\n* {{ja-r|清書|せいしょ}}\n* {{ja-r|誓書|せいしょ}}\n{{mid3}}\n* {{ja-r|正%書法|せい%しょほう}}\n* {{ja-r|草書|そうしょ}}\n* {{ja-r|叢書|そうしょ}}\n* {{ja-r|縦書|たてがき}}\n* {{ja-r|伝道の書|^でんどう の ^しょ|[[Ecclesiastes]]}}\n* {{ja-r|読書|どくしょ}}\n* {{ja-r|図書|としょ}}\n* {{ja-r|図書館|としょかん}}\n* {{ja-r|葉%書|は%がき}}\n* {{ja-r|秘書|ひしょ}}\n* {{ja-r|文書|ぶんしょ}}\n* {{ja-r|洋書|ようしょ}}\n* {{ja-r|横%書|よこ%がき}}\n* {{ja-r|落%書|らく%がき}}\n* {{ja-r|和書|わしょ}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しょ|yomi=o}}\nFrom {{etyl|ltc|ja|sort=しょ}} {{m|zh|書|tr=syo||writing}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|しょ|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しょ}}\n\n# [[document]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ふみ|yomi=irr}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|ふみ|acc=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|文}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふみ}}\n\n# [[letter]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

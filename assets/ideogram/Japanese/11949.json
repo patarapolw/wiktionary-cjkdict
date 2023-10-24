@@ -1,0 +1,90 @@
+{
+  "title": "印",
+  "ns": 0,
+  "id": 11949,
+  "timestamp": 1552366415000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ер|EP|ep|èp}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=卩04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いん\n|kanon=いん\n|kun=しるし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いん|yomi=on}}\nFrom {{der|ja|ltc|sort=いん|-}} {{ltc-l|印}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いん|acc=1|acc_ref=DJR|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いん}}\n\n# [[stamp]]; [[seal]]\n# [[trace]]; [[mark]]; [[sign]]\n# [[printing]]\n# {{short for|印度||[[India]]|lang=ja|tr=Indo}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|封印|ふういん}}: seal\n* {{ja-r|印パ|いんパ}}\n* {{ja-r|中印|ちゅういん}}\n* {{ja-r|日印|にち.いん}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いん}}\n\n# [[stamp]]; [[seal]]\n# {{lb|ja|Buddhism}} {{rfdef|ja}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|印する|いんする}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しるし|yomi=k}}\n{{ja-see|しるし}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|じるし|yomi=k}}\n{{ja-see|じるし}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|かね|yomi=k}}\n{{ja-see|かね}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

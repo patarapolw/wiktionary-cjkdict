@@ -1,0 +1,71 @@
+{
+  "title": "楣",
+  "ns": 0,
+  "id": 17848,
+  "timestamp": 1553553338000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木09}}\n\n# [[crossbeam]] [[above]] or [[under]] a [[gate]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=み\n|kanon=び\n|kun=ひさ-し, まぐさ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|楣間|びかん}}\n* {{ja-r|楣%式 構造|び%しき こうぞう}}\n* {{ja-r|門楣|もんび}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|まぐさ|yomi=k}}\n* {{ja-l|目草}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Compound of {{compound|ja|sort=まくさ|目|tr1=ma|pos1=combining form of ''me'', \"[[eye]]\"|草|tr2=kusa|t2=[[grass]]}}.\n\n{{rendaku2|kusa|gusa|sort=まくさ}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|まぐさ|acc=0|acc2=3|acc_ref=DJR|acc2_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まぐさ}}\n\n# {{lb|ja|architecture|sort=まくさ}} a [[lintel]] lacking [[groove]]s needed for a [[sliding door]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|楣 石|まぐさ いし}}\n* {{ja-r|楣%式 構造|まぐさ%-しき こうぞう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

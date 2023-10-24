@@ -1,0 +1,34 @@
+{
+  "title": "劣",
+  "ns": 0,
+  "id": 11728,
+  "timestamp": 1547071356000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xf99d}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=力04|[[liệt]], [[lẹt]]}}\n\n# {{defn|lang=vi|sort=力04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=52A3 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

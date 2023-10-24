@@ -1,0 +1,39 @@
+{
+  "title": "閱",
+  "ns": 0,
+  "id": 30451,
+  "timestamp": 1538109316000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|閲|阅}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=門07}} <!-- Not a kyūjitai character of 閲 (lacks JIS support) -->\n\n# [[review]]\n# [[inspection]]\n# [[revision]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[えつ]] (etsu)|kun=[[けみする]] (kemisuru)|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character lacks JIS support and is not used in Japan. [[閲]] (U+95B2) is used instead."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

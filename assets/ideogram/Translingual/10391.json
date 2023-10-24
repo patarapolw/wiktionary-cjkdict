@@ -1,0 +1,54 @@
+{
+  "title": "不",
+  "ns": 0,
+  "id": 10391,
+  "timestamp": 1552576148000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𣎴|𤓯}}\n{{character info/new}}\n{{character info/new|codepoint=0xF967}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=4}}\n{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+F967</code> with no change in glyph appearance."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=1|rad=一|as=03|sn=4|four=10900|canj=MF|ids=⿸丆卜(GHTJK),⿻丆卜(V)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is not to be confused with visually similar but unrelated <font size=4>{{l|mul|𣎴}}</font> (<code>U+233B4</code>) or <font size=4>{{l|mul|𤓯}}</font> (<code>U+244EF</code>)."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[伓]], [[吥]], [[坏]], [[妚]], [[怀]], [[抔]], [[㳅]], [[还]], [[阫]], [[肧]], [[杯]], [[炋]], [[环]], [[𭾟]], [[𥐴]], [[紑]], [[𦤹]], [[𧉈]], [[衃]], [[䞜]], [[鈈]]([[钚]]), [[䬪]], [[鴀]]([[𫛜]]), [[㞸]], [[芣]], [[罘]], [[𮅁]], [[䯱]], [[丕]], [[㔻]], [[否]], [[奀]], [[㫘]], [[㶪]], [[𠀱]], [[㶨]], [[𠀰]], [[甭]], [[盃]], [[歪]], [[𧖯]], [[𧗩]], [[𠀾]]<!-- Hong Kong HKSCS character, not simplified from 𠁞 -->, [[孬]], [[覔]], [[䬩]], [[嫑]], [[𠁞]], [[囨]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|ja|ふ}} ''({{w|Hiragana}} character derived from {{w|Man'yōgana}})''\n* {{l|ja|フ}} ''({{w|Katakana}} character derived from {{w|Man'yōgana}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0076.150|dkj=00019|dj=0149.040|hdz=10011.060|uh=4E0D}}\n{{Han ref|uh=F967}}\n\n[[Category:Han characters from which hiragana were derived|ふ]]\n[[Category:Han characters from which katakana were derived|フ]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

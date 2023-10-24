@@ -1,0 +1,44 @@
+{
+  "title": "椅",
+  "ns": 0,
+  "id": 17752,
+  "timestamp": 1553553274000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=木08}}\n\n# chair",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い\n|kanon=い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=on}}\nFrom {{der|ja|ltc|sort=|-}} {{ltc-l|椅|id=2}}."
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い}}\n\n# {{only used in|椅子|lang=ja||[[chair]]|tr=isu, ishi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

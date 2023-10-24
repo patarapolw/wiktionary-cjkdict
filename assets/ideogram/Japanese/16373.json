@@ -1,0 +1,39 @@
+{
+  "title": "描",
+  "ns": 0,
+  "id": 16373,
+  "timestamp": 1547088519000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手08}}\n\n# {{defn|lang=ja|sort=手08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=みょう\n|kanon=びょう\n|kun=えが-く, か-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|描く|えがく}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "虜",
+  "ns": 0,
+  "id": 25816,
+  "timestamp": 1553047546000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|虏}}\n{{character info/new}}\n{{character info|0xF936}}\n{{character info|0x2F9B4}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=虍06}}\n\n# {{defn|lang=ja|sort=虍06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=ろ\n|kanyoon=りょ\n|kun=とりこ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とりこ}}\n\n# [[prisoner]], [[captive]], [[slave]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|擒}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

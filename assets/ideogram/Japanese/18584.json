@@ -1,0 +1,39 @@
+{
+  "title": "氦",
+  "ns": 0,
+  "id": 18584,
+  "timestamp": 1552110023000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=气06}}\n\n# [[helium]], [[He]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=がい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This kanji is only very rarely encountered. Use {{l|ja|ヘリウム}} for the word {{m|en|helium}} instead.\n\n[[Category:ja:Chemical elements|かい']]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

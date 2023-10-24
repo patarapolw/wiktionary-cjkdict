@@ -1,0 +1,44 @@
+{
+  "title": "攧",
+  "ns": 0,
+  "id": 16715,
+  "timestamp": 1520802843000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=diān\n|c=din1\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|一步一攧|攧錢|攧撲|攧腳|攧攧看|攧攧仆仆|攧窨|攧番|攧脣簸嘴}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C04526}}\n* {{R:yue:jyut.net}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

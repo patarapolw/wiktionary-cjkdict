@@ -1,0 +1,44 @@
+{
+  "title": "附",
+  "ns": 0,
+  "id": 30631,
+  "timestamp": 1544016197000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=阜05}} <!-- Not a kyūjitai character. Both 付 and 附 are listed as separate characters in jōyō kanji 2010 -->\n\n# {{l|en|attach}}, {{l|en|enclose}}, {{l|en|append}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶ\n|kanon=ふ\n|kun=つ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|附属|ふぞく}}: {{l|en|affiliation}}\n* {{ja-r|附則|ふそく}}: {{l|en|supplementary}} {{l|en|provision}}, {{l|en|additional}} {{l|en|clause}}\n* {{ja-r|寄附|きふ}}: {{l|en|contribution}}, {{l|en|donation}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "附 is an alternative form of [[付]] which carries the meaning of {{l|en|enclosed}}/{{l|en|attached}}. Note that [[付]] is more commonly used compared to 附."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

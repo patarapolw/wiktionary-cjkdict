@@ -1,0 +1,39 @@
+{
+  "title": "蜒",
+  "ns": 0,
+  "id": 26001,
+  "timestamp": 1526249042000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫07}}\n\n# [[serpentine]], [[winding]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん\n|kanon=えん\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|蜿蜒|えんえん}}: [[meandering]], [[winding]]\n* {{ja-r|蜻蜒|やんま}}: a kind of large [[dragonfly]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

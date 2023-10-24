@@ -1,0 +1,59 @@
+{
+  "title": "弧",
+  "ns": 0,
+  "id": 15166,
+  "timestamp": 1542590445000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=弓05}}\n\n# [[arc]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ご\n|kanon=こ\n|kun=きゆみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|円弧|えんこ}}\n* {{ja-r|括弧|かっこ}}\n* {{ja-r|共役弧|きょうやくこ}}\n* {{ja-r|弧光|ここう}}: [[arc]] [[light]]\n* {{ja-r|弧状|こじょう}}\n* {{ja-r|弧線|こせん}}\n* {{ja-r|弧度|こど}}: [[radian]]\n* {{ja-r|桑弧|そうこ}}\n* {{ja-r|直弧文|ちょっこもん}}\n* {{ja-r|島弧|とうこ}}\n* {{ja-r|電弧|でんこ}}: [[arc]] {{gloss|electric discharge}}\n* {{ja-r|優弧|ゆうこ}}\n* {{ja-r|琉球弧|りゅうきゅうこ}}\n* {{ja-r|劣弧|れっこ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|こ|yomi=o}}\nFrom {{etyl|ltc|ja|sort=こ}} {{m|zh|孤|tr=hu||arc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|こ|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こ}}\n\n# [[arc]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

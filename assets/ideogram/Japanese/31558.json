@@ -1,0 +1,95 @@
+{
+  "title": "香",
+  "ns": 0,
+  "id": 31558,
+  "timestamp": 1554087336000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=香00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<かう\n|kanon=きょう<きやう\n|kun=か-, かお-り<かを-り, かお-る<かを-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|香%気|こう%き}}\n* {{ja-r|香具師|やし}}, {{ja-r|香%具%師|こう%ぐ%し}}\n* {{ja-r|香%車|きょう%しゃ}}\n* {{ja-r|香%水|こう%すい}}\n* {{ja-r|香%道|こう%どう}}\n* {{ja-r|香%草|こう%そう}}\n* {{ja-r|香%箱|こう%ばこ}}\n* {{ja-r|香%木|こう%ぼく}}\n* {{ja-r|香%料|こう%りょう}}\n* {{ja-r|香%炉|こう%ろ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|か}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=0|acc2=1|y=k|か}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|か}}\n\n# a [[pleasant]] [[smell]]; a [[scent]], a [[fragrance]], an [[aroma]]"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|香り|かおり}}\n\n{{C|ja|Smell|sort=か}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|きょう}}\nFrom {{der|ja|ltc|香|tr=xjang|sort=こう}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=0|acc2=1|きょう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きょう|hhira=きやう}}\n\n# {{clip of|lang=ja|香車|sort=きょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=o|こう}}\nFrom {{der|ja|ltc|香|tr=xjang|sort=こう}}. Compare {{cog|vi|hương||[[fragrance]]; [[incense]]}}.\n{{swp|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=1|こう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こう|hhira=かう}}\n\n# [[incense]]\n#:{{syn|ja|御香|tr=okō}}\n\n{{cln|ja|words with multiple readings|heteronyms}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

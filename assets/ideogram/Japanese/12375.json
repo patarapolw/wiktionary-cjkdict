@@ -1,0 +1,44 @@
+{
+  "title": "哿",
+  "ns": 0,
+  "id": 12375,
+  "timestamp": 1533204400000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口07}}\n\n# [[good]], [[excellent]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か\n|kanon=か\n|kun=よ-い}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Used in the ''{{w|Nihon Shoki}}'' as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨ka⟩}}:\n* '''720''', ''Nihon Shoki'' (poem 84/87)\n*: {{ja-usex|m=野麻登陛爾 瀰我保指母能婆 於尸農瀰能 莒能陀'''哿'''紀儺屡 都奴娑之能瀰野|m_kana=やまとへに みがほしものは おしぬみの このた'''か'''きなる つのさしのみや|大和%辺に見が欲しものは忍海の此の高%城なる角刺%の宮|^やまと%-へ に み が ほし もの は ^おしぬみ の この たか%き なる ^つのさし% の みや|Up Yamato way[,] what a person wants to see is this high stronghold at Oshinumi―the palace of Tsunosashi.<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|series=Volume 1 of A Waka Anthology|edition=illustrated, reprint|publisher=Stanford University Press|isbn=0804731578|page=100}}</ref>}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "服",
+  "ns": 0,
+  "id": 17231,
+  "timestamp": 1546208706000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=月04}}\n\n# [[clothing]]\n# an [[amount]] equal to one [[swallow]] {{qualifier|act of swallowing}}\n# [[obey]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶ, ぶく\n|kanon=ふう, ふく\n|kun=まつら-う, まつろ-う\n|nanori=はつ, はら\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|counter|ふく}}\n\n# an [[amount]] equal to one [[swallow]]:\n## [[dose]]s of medicine\n## [[gulp]]s of tea\n## [[puff]]s of tobacco"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ふく}}\n\n# [[clothes]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|衣%服|い%ふく}}: [[clothes]], [[apparel]], [[garments]]\n* {{ja-r|服%装|ふく%そう}}: [[clothing]], how one is [[dressed]], one's [[costume]]\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|clothing}} {{ja-r|衣%類|い%るい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|ふく}}\n\n# [[clothes]]\n\n[[Category:Japanese basic words|ふく]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

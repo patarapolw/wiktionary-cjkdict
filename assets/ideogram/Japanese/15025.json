@@ -1,0 +1,76 @@
+{
+  "title": "庭",
+  "ns": 0,
+  "id": 15025,
+  "timestamp": 1549545918000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=广07}}\n\n# [[courtyard]]\n# [[garden]]\n# [[yard]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<ぢやう\n|kanon=てい\n|kun=にわ-<には-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|庭園|ていえん|[[garden]]}}\n* {{ja-r|庭球|ていきゅう|[[tennis]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|にわ|yomi=k}}\n{{IPAchar|/nipa/}} → {{IPAchar|/nifa/}} → {{IPAchar|/niwa/}}\n\nFrom {{inh|ja|ojp|sort=にわ|-}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|にわ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|にわ|hhira=には}}\n\n# [[garden]]\n#* '''1235''', ''{{w|Shinchokusen Wakashū}}'' (book 16, poem 1052; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 96)\n#*: {{ja-usex|花[[誘う|さそふ]][[嵐]]の'''庭'''の[[雪]]ならでふりゆくものは[[我が身|わが身]][[なりけり]]|はな さそふ あらし の '''には''' の ゆき なら で ふり ゆく もの は わが み なり けり|rom=hana sasou arashi no '''niwa''' no yuki nara de furi yuku mono wa waga mi nari keri|It entices the flowers―the storm―but though the '''garden's''' white, it is not snow, and what it is that's scattering are, in fact, the years of my life!<ref>{{cite-book|1996|Joshua S. Mostow|Pictures of the Heart: The Hyakunin Isshu in Word and Image|edition=illustrated|publisher=University of Hawaii Press|isbn=0-8248-1705-2||||page=424}}</ref>|sort=にわ}}\n#: {{ja-usex|'''庭'''で美味しい魚を食べた。|'''にわ''' で おいし.い さかな を たべた。|I ate a delicious fish in the '''garden'''.}}\n# {{lb|ja|historical|sort=にわ}} [[place]] where [[something]] is done {{rfv-sense|ja}}\n# {{lb|ja|regional|sort=にわ}} at the entrance of a house, a [[dirt]] [[floor]] {{rfv-sense|ja}}\n# {{synonym of|lang=ja|家庭|tr=katei||[[home]]; [[family]]}}\n# [[wide]] [[sea]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|庭%木|にわ%き|[[garden]] [[tree]]}}\n* {{ja-r|庭%師|にわ%し|[[gardener]]}}\n* {{ja-r|庭弄り|にわ-いじり}}, {{ja-r|庭%仕%事|にわ%-し%ごと|[[gardening]]}}\n* {{ja-r|庭つ鳥|にわ つ とり|pos=old name for ''niwatori''; [[epithet]] for \"[[chicken]]\"}}\n* {{ja-r|接骨木|ニワトコ|Japanese [[elderberry]]}}\n* {{ja-r|鶏|にわとり|[[chicken]]}}\n* {{ja-r|場|ば|[[place]]; [[occasion]]; [[field]]}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|公園|こうえん}}: [[park]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|にわ|hhira=には}}\n\n# {{given name|lang=ja|female|sort=にわ}}\n# {{surname|lang=ja|sort=にわ}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

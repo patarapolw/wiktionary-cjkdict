@@ -1,0 +1,39 @@
+{
+  "title": "帑",
+  "ns": 0,
+  "id": 14867,
+  "timestamp": 1508353226000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=巾05}}\n\n# {{defn|lang=ja|sort=巾05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ど]] (do), [[とう]] (tō)|kun=[[かねぐら]] (kanegura)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|内帑|ないど}}\n* {{ja-r|内帑金|ないどきん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

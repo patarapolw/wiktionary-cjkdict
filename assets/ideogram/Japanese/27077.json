@@ -1,0 +1,49 @@
+{
+  "title": "請",
+  "ns": 0,
+  "id": 27077,
+  "timestamp": 1548999686000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|请}}\n{{character info/new}}\n{{character info/new|0xfabb}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{stroke order|strokes=15|type=jbw}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=言08}}\n\n# [[beg]]; [[ask]]\n# ask; [[request]]\n# [[entertain]] sincerely\n# (普請) [[donate]] to constructing a [[temple]] or a [[shrine]]\n# [[receive]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう, じょう<じやう\n|kanon=せい\n|kanyoon=しん\n|kun=こ-う<こ-ふ, う-ける\n|nanori=うけ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top4}}\n* [[請負]]\n* [[請仮]]\n* [[請期]]\n* [[請謁]]\n{{mid4}}\n* [[請寄]]\n* {{ja-l|請願}}\n* {{ja-l|請求}}\n* [[請訓]]\n{{mid4}}\n* [[請罪]]\n* [[請室]]\n* [[請属]]\n* [[請託]]\n{{mid4}}\n* [[請祷]]\n* [[請命]]\n* {{ja-l|請問}}\n* [[請老]]\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=3233\n|shift=90BF\n|jis=4041\n|euc=C0C1\n|skip=1-7-7\n|freq=524\n|nelson=4390\n|newnelson=5645\n|halpern=1576\n|kld=1060\n|heisig=1536\n|tuttle=7a8.8\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The stroke order in Japanese differs slightly from Chinese, as shown."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

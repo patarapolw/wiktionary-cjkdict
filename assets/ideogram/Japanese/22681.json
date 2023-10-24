@@ -1,0 +1,44 @@
+{
+  "title": "笏",
+  "ns": 0,
+  "id": 22681,
+  "timestamp": 1541814104000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹04}}\n\n# thin tablet\n# [[mace]]\n# [[scepter]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=こち\n|kanon=こつ\n|kun=しゃく-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{m|ja|尺||shaku|tr=shaku|pos=length unit}}, so named because of its length. The original name {{m|ja|こつ|tr=kotsu}} is avoided for being homophonous with {{m|ja|骨||bone|tr=kotsu}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しゃく}}\n\n# shaku; a [[decorative]] [[tablet]] held in hand when dressed in [[w:Sokutai|sokutai]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

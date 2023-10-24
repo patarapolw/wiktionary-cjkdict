@@ -1,0 +1,44 @@
+{
+  "title": "疔",
+  "ns": 0,
+  "id": 21206,
+  "timestamp": 1534211681000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dīng\n|c=deng1, ding1\n|mn=teng\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|疔瘡|眼中疔|羊毛疔|面疔}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

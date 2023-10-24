@@ -1,0 +1,51 @@
+{
+  "title": "鱪",
+  "ns": 0,
+  "id": 32336,
+  "timestamp": 1520769173000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚13}}\n\n# {{defn|lang=ja|sort=魚13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=しいら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|しいら|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しいら|シイラ}}\n\n# [[mahi-mahi]], [[dolphinfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* {{U:ja:biology|シイラ}}\n\n[[Category:Japanese-only CJKV Characters|魚+13]]\n\n[[Category:ja:Fish|しいら]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "title": "串",
+  "ns": 0,
+  "id": 10426,
+  "timestamp": 1537021465000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xf905}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=7|rs=丨06}}\n\n# [[spit]], [[skewer]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けん<けん<くゑん, せん\n|kanon=かん<くわん, せん\n|kun=くし-, つらぬ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|串刺|くしざし|[[impalement]]}}\n* {{ja-r|玉串|たまぐし}}\n* {{ja-r|祓%串|はらえ%ぐし}}\n* {{ja-r|目%串|め%ぐし|[[suspicion]]s, [[guess]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|くし|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=くし|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>  Appears in the ''{{w|Nihon Shoki}}'', finished CE 720."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|くし|acc=2|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くし}}\n\n# a [[skewer]], a [[spit]]\n# a [[candle]]'s [[wick]]\n# a ''{{w|tamagushi}}'': a [[branch]] of a [[sakaki]] tree used as a [[Shintō]] [[offering]]\n#: '''12th century''', ''{{w|Konjaku Monogatarishū}}'' (book 24, story 51)\n#:: {{ja-usex|其の御幣の'''串'''に書付て...|その ごへい の '''くし''' に かきつけて...|sort=くし}}\n# {{lb|ja|slang|computing}} a [[proxy server]]\n#: {{ja-usex|中国'''串'''|^ちゅうごく '''くし'''|Chinese '''proxy'''}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|skewer}} {{ja-r|串刺|くしざし}}, {{ja-r|焼串|やきぎし|rom=-}}, {{ja-r|焼き串|やきぐし}}\n* {{sense|candle's wick}} {{ja-r|芯|しん}}\n* {{sense|proxy}} {{ja-r|プロクシ}}, {{ja-r|プロクシ サーバー}}, {{ja-r|串鯖|くしさば}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|串%揚げ|くし%あげ}}\n* {{ja-r|串柿|くしがき|skewered [[dry|dried]] [[persimmon|persimmons]]}}\n* {{ja-r|串カツ|くしカツ}}\n* {{ja-r|串焼|くしやき|rom=-}}, {{ja-r|串%焼き|くし%やき}}\n* {{ja-r|金串|かなぐし|[[metal]] spit or skewer}}\n* {{ja-r|牛%串|ぎゅう%くし|skewered [[beef]]}}\n* {{ja-r|竹串|たけぐし|[[bamboo]] skewer}}\n* {{ja-r|澪標|みおつくし|[[dolphin]], channel-mark}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|くし}}\n\n# {{surname|lang=ja|sort=くし}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|2channel slang}}\n\n[[Category:ja:Cooking|くし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

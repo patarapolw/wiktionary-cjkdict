@@ -1,0 +1,49 @@
+{
+  "title": "磔",
+  "ns": 0,
+  "id": 22082,
+  "timestamp": 1548273637000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=厇}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhé\n|c=zaak6,zaak3\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|outdated|Chinese calligraphy}} {{synonym of|lang=zh|捺}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|一磔手|波磔|波磔點畫|格磔|磔磔|磔刑|鉤輈格磔|轘磔}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B03003}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

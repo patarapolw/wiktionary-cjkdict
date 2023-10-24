@@ -1,0 +1,49 @@
+{
+  "title": "肩",
+  "ns": 0,
+  "id": 24269,
+  "timestamp": 1549587280000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=肉04}}\n\n# [[shoulder]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けん\n|kanon=けん\n|kun=かた-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|かた|yomi=k}}\n{{swp|lang=ja}}\n{{ja-pron|かた|y=k|acc=1|acc_ref=SMK2,SMK5,DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かた}}\n\n# a [[shoulder]]\n#* {{quote-book||{{w|One (manga artist)|ONE}}\n|{{ruby|{{w2|ja|ワンパンマン|[ONEPUNCH-MAN](【ワンパンマン】)|sc=Jpan}}}}\n||53\n|chapter={{ruby|{{lang|ja|３[撃](げき)[目](め)　[災](さい)[害](がい)[存](そん)[在](ざい)}}}}\n|trans-chapter=3rd Hit: Existential Crisis\n|coauthors={{w|Yusuke Murata|Murata, Yusuke}}\n|trans-title={{w|One-Punch Man|ONE-PUNCH MAN}}\n|genre=fiction\n|lang=ja\n|edition=6th\n|location=Tokyo\n|publisher=Shueisha\n|date=Apr 7 2013\n|origdate=Dec 9 2012\n|volume=1\n|isbn=978-4-08-870701-3}}\n#*: {{ja-usex|'''肩'''！'''肩'''に　'''肩'''に乗ってる奴を殺せ‼|'''^かた'''！'''^かた''' に　'''^かた''' に のってる やつ を ころせ‼|Shoulder! Your shoulder! Kill the bastard on your shoulder‼}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|basic words|sort=かた}}\n{{C|ja|Anatomy|sort=かた}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

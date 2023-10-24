@@ -1,0 +1,44 @@
+{
+  "title": "餅",
+  "ns": 0,
+  "id": 31376,
+  "timestamp": 1551326038000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|饼|餠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{rfc-header|Nom character|lang=vi}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{vi-readings|hanviet=bính|nom=bính, bánh|rs=食08}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{vi-noun|sc=Hani|bánh|rs=食08}}\n\n# [[pastry]], [[cake]], [[bread]], [[dumpling]], [[noodle]], [[wafer]], or [[pudding]]\n#* '''13th century:''' [[w:Trần Nhân Tông|Trần Nhân Tông]], \"[[s:vi:Cư trần lạc đạo phú/Đệ cửu hội|Đệ cửu hội]]\", ''[[s:vi:Cư trần lạc đạo phú|Cư trần lạc đạo phú]]''\n#*: {{vi-ruby|茶趙老餅韶陽/排禪子矣群肁渴|trà Triệu lão, bánh Thiều Dương / bầy thiền tử hãy còn đói khát}}\n#*:: Old man Trieu’s tea, Thieu Duong cakes, / the novices still hungry and thirsty."
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Taberd 1838|p=A4}}\n* {{R:WinVNKey:Lê Sơn Thanh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

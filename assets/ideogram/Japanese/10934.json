@@ -1,0 +1,90 @@
+{
+  "title": "俎",
+  "ns": 0,
+  "id": 10934,
+  "timestamp": 1552875848000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|爼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょ\n|kanon=そ\n|kun=まないた-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|そ}}\n\n[[Appendix:Glossary#loanword|Borrowing]] from {{bor|ja|ltc|sort=そ|-}} {{ltc-l|俎|a wooden stand used in offering rites}}. Compare modern {{cog|yue|-}} reading ''zo<sup>2</sup>''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|そ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そ}}\n\n# a [[sacrificial]] [[altar]]\n# a [[cutting board]], a [[chopping board]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This reading appears to be less common. For the {{m|en|cutting board}} sense in particular, the ''manaita'' reading below is more common."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|俎%上|そ%じょう}}: on the [[altar]], on the [[cutting board]]\n* {{ja-r|俎%豆|そ%とう}}: a ceremonial object in ancient China; [[etiqutte]], [[manners]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Cutting board}}\n[[File:Seriola_on_cutting_board.jpg|thumb|250px|{{m|ja|俎|tr=manaita}}: an amberjack on a '''[[cutting board]]'''.]]\n</div>\n{{ja-kanjitab|まないた|yomi=k}}\n\nCompound of {{compound|ja|真魚|tr1=mana|t1=edible fish|板|tr2=ita|t2=board}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref><ref name=\"SMK5\">{{R:Shinmeikai5}}</ref>\n\nThe {{m|ja|俎}} kanji spelling comes from {{der|ja|zh|俎}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|まないた|acc=0|acc_ref=DJR,NHK,SMK5|acc2=3|acc2_ref=DJR,NHK,SMK5|acc3=4|acc3_ref=NHK,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|まな板}}\n* {{ja-l|俎板}}\n* {{ja-l|真魚板}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|まないた}}\n\n# {{altspell|lang=ja|まな板||[[chopping board]], [[cutting board]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

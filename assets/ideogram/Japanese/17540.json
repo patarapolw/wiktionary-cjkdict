@@ -1,0 +1,87 @@
+{
+  "title": "栲",
+  "ns": 0,
+  "id": 17540,
+  "timestamp": 1553552824000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木06}}\n\n# [[sumac]] {{rfv-sense|ja}}\n# [[cloth]] [[weave|woven]] from [[tree]] [[fibre]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=こう<かう\n|kanon=こう<かう\n|kun=たえ-<たへ-, たく-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|たえ|yomi=k}}\n{{IPAfont|/tape<sub>2</sub>/}} → {{IPAchar|/tape/}} → {{IPAchar|/tafe/}} → {{IPAchar|/tawe/}} → {{IPAchar|/tae/}}\n\nFrom {{inh|ja|ojp|sort=たえ|-}}.\n\n{{rfe|ja|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|たえ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たえ|hhira=たへ}}\n# {{lb|ja|archaic|sort=たえ}} [[cloth]], especially, from the [[fiber]]s of the {{m|ja|梶の木|tr=kajinoki||[[paper mulberry]]}} tree\n# {{lb|ja|by extension}} [[generic name]] for \"cloth\"",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|白%栲|しろ%たえ|[[white]] [[cloth]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|たく|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|たく}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たく}}\n# {{lb|ja|archaic|possibly|_|obsolete|sort=たく}} old name for {{m|ja|楮|tr=kōzo||[[hybrid]] [[mulberry]]|pos=used to make Japanese paper}}\n# {{lb|ja|archaic|possibly|_|obsolete|sort=たく}} old name for {{m|ja|梶の木|tr=kajinoki||[[paper mulberry]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|栲%衾|たく%ぶすま|[[clothing]] [[weave|woven]] from paper mulberry}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

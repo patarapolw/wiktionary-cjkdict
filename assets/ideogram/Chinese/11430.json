@@ -1,0 +1,73 @@
+{
+  "title": "冇",
+  "ns": 0,
+  "id": 11430,
+  "timestamp": 1535920024000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "From the removal of the two inner strokes from {{zh-l|*有|to have}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=無,冒-Xiang}}\nFrom {{ltc-l|無|to not have}}, fused with {{ltc-l|有|to have}} ({{zh-ref|Schuessler, 2007}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=mǎo,mǒu\n|c=mou5\n|c-t=mau1\n|h=pfs=mò;gd=mo2\n|w=3mau\n|x=mau5/mau6\n|x_note=mau5 - “have not; did not”; mau6 - “to not have” (contraction of {{zh-l|*冇得}})\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal Mandarin|Cantonese|dialectal Gan|Hakka|dialectal Wu|Xiang}} to [[not]] [[have]]; to not [[exist]]\n#: {{zh-x|你 冇 女朋友？梗係 唔 信 啦！……或者 有。你 唔知 啫。|You '''don't have''' a girlfriend? Of course I don't believe you! ... Maybe you do have one, but you just don't know it.|C|ref={{w2|zh|陳慧嫻}}, {{w2|zh|紅茶館_(歌曲)|紅茶館}}}}\n#: {{zh-x|冇 理由 㗎。|Impossible.|C}}\n# {{lb|zh|dialectal Mandarin|Cantonese|Xiang}} have not; did not (do something) {{gloss|indicating non-completion of a verb}}\n#: {{zh-x|我 冇 同 佢 講。|I '''did not''' tell him.|C}}\n#: {{zh-x|佢 幾 個 月 都 冇 嚟。|He '''hasn't''' come for a few months.|C}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "* Originally from Cantonese, the meaning of this character is now passively understood by many Mandarin speakers."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|沒有}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}\nCompare {{cog|skb|||hollow; hole (in a tree, bamboo)|tr=phoong<sup>C2</sup>}}, {{cog|mkh-ban-pro|*pɔːŋ||hollow; flattened}} ({{zh-ref|Schuessler, 2007}}).\n\n{{etystub|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|h=pfs=phang;gd=pang4\n|md=páng\n|mn=phàⁿ\n|mn-t=pan3\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Min|Hakka}} [[empty]]; [[hollow]]; [[spongy]]; [[not]] [[sturdy]]\n#: {{zh-x|冇柴|'''porous''' wood|MN}}\n# {{lb|zh|Min|Hakka}} [[unreliable]]; [[undependable]]; [[casual]]\n# {{lb|zh|Min Nan}} [[extravagant]]; [[generous]]\n#: {{zh-x|冇手|'''generous'''|MN}}\n# {{lb|zh|Hakka}} [[insufficient]]; [[lacking]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

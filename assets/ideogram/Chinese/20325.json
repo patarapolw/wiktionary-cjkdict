@@ -1,0 +1,39 @@
+{
+  "title": "牖",
+  "ns": 0,
+  "id": 20325,
+  "timestamp": 1497594455000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yǒu\n|c=jau5\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|牖民|牖里|戶牖|桑樞甕牖|牖中窺日|甕牖繩樞|甕牖桑樞|甕牖|窗牖|茅椽蓬牖|蓬戶甕牖|窺牖小兒|老死牖下}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

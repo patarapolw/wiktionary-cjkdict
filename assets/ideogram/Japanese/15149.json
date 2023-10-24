@@ -1,0 +1,102 @@
+{
+  "title": "弗",
+  "ns": 0,
+  "id": 15149,
+  "timestamp": 1553846418000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𢎵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=弓02}}\n\n# [[fluorine]]\n# the [[dollar]] sign ([[$]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほち\n|kanon=ふつ\n|kun=ドル-, ず-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja|フッ素|フッ素 (Fluorine)}}\n{{wikipedia|Fluorine}}\n[[File:Liquid_fluorine_tighter_crop.jpg|thumb|250px|{{lang|ja|弗}} (''futsu''): a sample of chilled liquid '''[[fluorine]]'''.]]\n</div>\n{{ja-kanjitab|ふつ|yomi=on}}\nOriginally borrowed from {{etyl|ltc|ja|sort=ふつ}} {{m|ltc|弗|tr=*pjut}}, meaning either “not” or “a [[gust]] of [[wind]]”. Apparently later repurposed during the later [[w:Edo period|Edo period]] for its phonetic value in translating the {{etyl|nl|ja|sort=ふつ}} {{m|nl|fluor||fluorine}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ふつ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|ふつ|フツ}}\n\n# {{lb|ja|sort=ふつ|chemistry|chemical elements}} [[fluorine]], [[fluoride]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-l|弗化|ふっか|fukka}}: [[fluoridation]]; [[fluoro-]], [[fluor-]]; [[fluorinated]]\n* {{ja-l|弗化カルシウム|ふっかカルシウム|fukka karushiumu}}: [[calcium fluoride]], [[CaF2]]\n* {{ja-l|六弗化リン酸リチウム|ろくふっかりんさんりちうむ|roku fukka rinsan richiumu}}: [[lithium hexafluorophosphate]]\n* {{ja-l|弗化水素|ふっかすいそ|fukka suiso}}: [[hydrogen fluoride]], [[HF]]\n* {{ja-l|弗化水素酸|ふっかすいそさん|fukka suiso san}}: [[hydrofluoric acid]]\n* {{ja-l|弗化物|ふっかぶつ|fukkabutsu}}: [[fluoride]]\n* {{ja-l|六弗化硫黄|ろくふっかいおう|ろくふっかいおう|roku fukka iou}}: [[sulfur hexafluoride]]\n* {{ja-l|弗酸|ふっさん|fussan}}: short for {{ja-l|弗化水素酸||fukka suiso san}}: [[hydrofluoric acid]]\n* {{ja-l|弗素|ふっそ|fusso}}: [[fluorine]], [[F]]\n{{der-mid}}\n'''Purely phonetic uses:'''\n* {{ja-l|阿弗利加}}, {{ja-l|亜弗利加|アフリカ|Afurika}}: [[Africa]]\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Seldom used. In chemistry contexts, almost always spelled in [[katakana]] as {{ja-l|フツ}}, appearing in most compounds as {{lang|ja|フッ}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja|ドル}}\n{{wikipedia|Dollar}}\n[[File:Dollar_Symbol_Evolution.svg|thumb|250px|{{lang|ja|弗}} (''doru''): evolution of the '''[[dollar]]''' symbol for both the [[w:United States dollar|United States]] and (now obsolete) [[w:Spanish dollar|Spanish]] dollar.]]\n</div>\n{{ja-kanjitab|どる|yomi=kun}}\nRepurposed for its visual similarity to the [[dollar]] symbol '''[[$]]'''. This reading is ultimately borrowed from {{bor|ja|nl|sort=とる'|dollar}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kun|acc=1|acc_ref=DJR|ドル}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|ドル}}, {{ja-l|㌦}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Symbol",
+                  "text": "{{ja-pos|symbol|ドル}}\n\n# a [[dollar]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Occasionally seen, but more often encountered in the katakana spelling of {{ja-l|ドル}}."
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|仙|セント}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Chemical elements|ふっそ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

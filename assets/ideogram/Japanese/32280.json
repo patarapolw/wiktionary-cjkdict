@@ -1,0 +1,39 @@
+{
+  "title": "鰲",
+  "ns": 0,
+  "id": 32280,
+  "timestamp": 1553571612000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鳌|鼇}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚11}}\n\n# [[huge]] [[mythological]] [[sea turtle]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごう<がう\n|kanon=ごう<がう\n|kun=おおがめ-<おほがめ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鼇頭|ごうとう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

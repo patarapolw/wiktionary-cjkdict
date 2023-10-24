@@ -1,0 +1,49 @@
+{
+  "title": "餗",
+  "ns": 0,
+  "id": 31394,
+  "timestamp": 1552462277000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=食07}}\n\n# [[food]] in [[tripod]]\n# [[rice]] [[porridge]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そく\n|kanon=そく\n|kun=かゆ-, こなかき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|yomi=k|こなかき}}\n{{ja-kanjitab|yomi=i}}\n* {{ja-l|糝}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|ja|sort=こなかき}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こなかき|こなかけ}}\n\n# {{rfdef|ja|sort=こなかき}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

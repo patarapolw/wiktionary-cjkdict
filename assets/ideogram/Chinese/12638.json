@@ -1,0 +1,63 @@
+{
+  "title": "嗯",
+  "ns": 0,
+  "id": 12638,
+  "timestamp": 1524284807000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|口|恩|ls=psc|c1=s|c2=p|t1=mouth|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=ńg,ń,én,éng\n|c=ng2\n|cat=intj\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|Used as an interjection to express doubt or curiosity.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=ňg,ň,ěn,ěng,en\n|cat=intj\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|Used as an interjection to express surprise.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=ǹg,ǹ,èn,èng,en\n|c=ng6\n|cat=intj\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|Used as an interjection to express agreement or pledge.}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

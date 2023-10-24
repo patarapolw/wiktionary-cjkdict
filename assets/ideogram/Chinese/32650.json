@@ -1,0 +1,44 @@
+{
+  "title": "鶀",
+  "ns": 0,
+  "id": 32650,
+  "timestamp": 1548639785000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qí\n|c=kei4\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[owl]]\n# [[small]] [[goose]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|鵋鶀}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 3), p. 250]\n\n{{zh-cat|Owls|Geese}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

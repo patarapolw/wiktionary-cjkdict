@@ -1,0 +1,64 @@
+{
+  "title": "知",
+  "ns": 0,
+  "id": 21842,
+  "timestamp": 1549289020000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=矢03}}\n\n# to [[know]]\n# [[wisdom]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ち\n|kanon=ち\n|kun=し-る, しら-せる\n|nanori=とも\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|英知|えいち}}\n* {{ja-r|御知らせ|おしらせ}}\n* {{ja-r|感知|かんち}}: [[perception]]\n* {{ja-r|機知|きち}}\n* {{ja-r|知恵|ちえ}}\n* {{ja-r|知性|ちせい}}: the [[mind]]\n* {{ja-r|知能|ちのう}}\n* {{ja-r|知謀|ちぼう}}\n* {{ja-r|八%俣%遠%呂%知|^や%また-の%-^お%ろ%ち}}\n* {{ja-r|無知|むち}}\n* {{ja-r|理知|りち}}\n{{der-bottom}}\n\n{{ja-kanjitab|ち|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=ち}} {{m|zh|智|tr=trje<sup>H</sup>||wisdom}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|ち|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|智}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ち}}\n\n# [[wisdom]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

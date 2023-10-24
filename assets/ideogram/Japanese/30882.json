@@ -1,0 +1,102 @@
+{
+  "title": "露",
+  "ns": 0,
+  "id": 30882,
+  "timestamp": 1532887508000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=雨12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=ろ\n|kanyoon=ろう\n|kun=つゆ-, あらわ-れる, あらわ-, さらす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|悪露|おろ|[[lochia]]}}\n* {{ja-r|露里|ろり|[[verst]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あらわ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|あらわ|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjectival noun",
+                  "text": "{{ja-adj|infl=な|あらわ}}\n\n# [[naked]], [[bare]]\n#: {{ja-usex|[[不満]]を'''露'''に[[する]]|ふまん を '''あらわ''' に する|to expose/lay bare one's discontent}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|あらわ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|つゆ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つゆ|acc=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つゆ}}\n\n# [[dew]]\n#* {{RQ:Wamyō Ruijushō|1|30}}\n#*: 露 [...] 和名'''都由'''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|ろ|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ろ|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ろ}}\n\n# short form for [[Russia]] or [[Russian]] in Japanese, [[Russo-]] (prefix), short form of {{l|ja|露西亜|tr=ろしあ, Roshia}}, modern spelling: {{l|ja|ロシア|tr=Roshia}}, also written in [[katakana]]: {{l|ja|ロ|tr=Ro}}.\n#: {{ja-usex|和露辞典|^わ-^ろ じてん|Russian-Japanese dictionary}}\n#: {{ja-usex|日露戦争|^にち-^ろ せんそう|Japanese-Russian war (normally: \"Russo-Japanese war\")}}\n#: {{ja-usex|米露関係|^べい-^ろ かんけい|US-Russia relations}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Wamyō Ruijushō}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

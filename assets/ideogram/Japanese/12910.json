@@ -1,0 +1,59 @@
+{
+  "title": "図",
+  "ns": 0,
+  "id": 12910,
+  "timestamp": 1545876441000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|圖|图}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|図|圖}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=囗04|kyu=圖}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ず<づ\n|kanon=と<と\n|kun=はか-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|図%書|と%しょ}}\n* {{ja-r|地%図|ち%ず}}\n* {{ja-r|図%会|ず%え}}\n* {{ja-r|図%画|ず%が}}\n* {{ja-r|図%形|ず%けい}}\n* {{ja-r|図%表|ず%ひょう}}\n* {{ja-r|合%図|あい%ず}}\n* {{ja-r|図%鑑|ず%かん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ず|yomi=o}}\nFrom {{etyl|ltc|ja|sort=す'}} {{m|zh|圖|tr=du}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|ず|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|kyu=圖|ず|hhira=づ}}\n\n# [[diagram]], [[figure]], [[illustration]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

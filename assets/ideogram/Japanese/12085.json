@@ -1,0 +1,44 @@
+{
+  "title": "司",
+  "ns": 0,
+  "id": 12085,
+  "timestamp": 1547984362000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=口02}}\n\n# [[boss]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|on=じ\n|toon=す\n|kun=つかさ-, つかさど-る, みこともち-\n}}\n{{attn|ja|on reading じ?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der5|lang=ja\n|{{ja-r|司%会|し%かい}}\n|{{ja-r|司%書|し%しょ}}\n|{{ja-r|司%法|し%ほう}}\n|{{ja-r|司%令|し%れい}}\n|{{ja-r|行%司|ぎょう%じ}}\n|{{ja-r|寿司|すし}}: sushi\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-kanjitab|つかさ|yomi=k}}\n{{ja-pos|proper|つかさ}}\n\n# {{given name|male|lang=ja|sort=つかさ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

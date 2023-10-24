@@ -1,0 +1,63 @@
+{
+  "title": "鱝",
+  "ns": 0,
+  "id": 32323,
+  "timestamp": 1540822966000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚13}}\n\n# [[ray]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶん\n|kanon=ふん\n|kun=えい-<えひ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えい|yomi=kun}}\nFrom {{der|ja|ain|sort=えい|アイ|tr=ay||arrow|pos=by extension, \"point\"}}, by its stingers {{rfv-etymology|ja}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鱏}}\n* {{ja-l|海鷂魚}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|え.い|y=k|acc=1}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えい|エイ|hhira=えひ|hkata=エヒ}}\n\n# [[ray]], a kind of cartilaginous fish"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* ''Ei'' refers to rays in general. Stingrays commonly found in Japan are called {{ja-r|赤%鱝|アカ%エイ|[[w:Red stingray|red stingray]]}}\n\n[[Category:ja:Rays and skates|えい]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

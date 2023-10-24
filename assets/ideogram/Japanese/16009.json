@@ -1,0 +1,61 @@
+{
+  "title": "扮",
+  "ns": 0,
+  "id": 16009,
+  "timestamp": 1553550642000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手04}}\n\n# [[dress up|dress-up]], [[disguise]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へん\n|kanon=はん\n|on=ふん\n|kun=よそお-う\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|扮飾|ふんしょく}}: [[makeup]], [[put on|putting on]] [[cosmetics]]\n* {{ja-r|扮装|ふんそう}}: [[makeup]], [[disguise]], [[costume]]\n* {{ja-r|扮楡|ふんゆ}}: the [[elm]] tree; a [[shrine]]; an [[imperial]] [[palace]]; one's [[hometown]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=ふん}}, with the addition of {{etyl|ojp|ja|sort=ふん}} {{m|ja|す|tr=su}} for verb [[conjugation]]. {{m|ja|す|tr=su}} eventually evolved into modern {{cog|ja|する|tr=suru}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* [[音読み|On'yomi]]\n* {{IPA|lang=ja|[ɸɯ̃ᵝɴ]}}"
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{ja-verb-suru|ふん|trans=intransitive}}\n\n# to [[dress up]] in a [[disguise]], to [[disguise]] oneself\n#: {{ja-usex|老人に'''扮'''して警察を逃げた。|ろうじん に '''ふん'''して けいさつ を にげた。|He '''dressed up''' as / '''disguised himself''' as an old man and escaped from the police.}}\n# to put on a [[costume]], to [[play]] a [[role]]\n#: {{ja-usex|去年ハムレットに'''扮'''しました。|きょねん ハムレット に '''ふん'''しました。|Last year I '''played''' / '''took the role of''' Hamlet.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Conjugation",
+                  "text": "{{ja-suru|ふん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

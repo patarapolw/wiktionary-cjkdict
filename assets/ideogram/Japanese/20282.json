@@ -1,0 +1,39 @@
+{
+  "title": "爬",
+  "ns": 0,
+  "id": 20282,
+  "timestamp": 1519273761000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=爪04}}\n\n# {{defn|lang=ja|sort=爪04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=べ\n|kanon=は\n|kun=か-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* [[掻爬]] ([[そうは]], sōha)\n* [[爬虫]] ([[はちゅう]], hachū)\n* [[爬虫類]] ([[はちゅうるい]], hachūrui)\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

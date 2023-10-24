@@ -1,0 +1,44 @@
+{
+  "title": "櫻",
+  "ns": 0,
+  "id": 18279,
+  "timestamp": 1526646815000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|樱}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|桜|櫻}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=木17|shin=桜}}\n\n# [[cherry]] [[tree]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう\n|kanon=おう<あう\n|kun=さくら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|さくら|yomi=k}}\nSee {{m|ja|桜}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さくら|shin=桜}}\n\n# {{kyūjitai spelling of|lang=ja|桜}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

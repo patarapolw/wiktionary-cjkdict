@@ -1,0 +1,46 @@
+{
+  "title": "鷸",
+  "ns": 0,
+  "id": 32770,
+  "timestamp": 1544941301000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鹬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥12}}\n\n# [[sandpiper]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|goon=[[いち]] (ichi)|kanon=[[いつ]] (itsu)|kun=[[しぎ]] (shigi)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|しぎ|yomi=k}}\n{{ja-noun|しぎ|シギ}}\n\n# {{altspell|lang=ja|鴫||[[sandpiper]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|磯%鷸|いそ%しぎ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

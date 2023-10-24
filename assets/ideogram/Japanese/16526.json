@@ -1,0 +1,39 @@
+{
+  "title": "摩",
+  "ns": 0,
+  "id": 16526,
+  "timestamp": 1553310451000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8C3}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:RYAKUJI ma.png|thumb|right|100px|{{w|Ryakuji}} for 摩, a {{w|phono-semantic}} simplification as 广 (radical/semantic) + マ (phonetic “ma” for ''on'' reading), also used for {{ja-l|魔}}; compare {{ja-l|機}} and {{ja-l|議}}.]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手11}}\n\n# rub; chafe",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ま\n|kanon=ば\n|kun=さす-る, す-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[研摩]]\n* [[摩滅]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

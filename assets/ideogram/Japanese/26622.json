@@ -1,0 +1,59 @@
+{
+  "title": "複",
+  "ns": 0,
+  "id": 26622,
+  "timestamp": 1538269659000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|复|復}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=衣09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふく\n|kanon=ふく\n|kun=かさ-ねる, ふたたび-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|複占|ふくせん}}: [[duopoly]]\n{{der-bottom}}\n\n{{ja-kanjitab|ふく|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|ふく|acc=2|dev=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ふく}}\n\n# {{short for|複試合|lang=ja}}\n# {{short for|複勝式|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|ふく}}\n\n# [[diplo-]], double"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

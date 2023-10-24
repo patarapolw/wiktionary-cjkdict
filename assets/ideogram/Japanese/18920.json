@@ -1,0 +1,39 @@
+{
+  "title": "流",
+  "ns": 0,
+  "id": 18920,
+  "timestamp": 1553057564000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xF9CA}}\n{{character info|0xFA97}}\n{{character info|0x2F902}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=水07}}\n\n# [[current#Noun|current]]; [[flow#flow|flow]]; [[stream]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=りゅう<りう\n|kun=なが-す, なが-れ, なが-れる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der2|lang=ja\n|{{ja-r|流石|さすが|as one would [[expect]]; [[even so]]; [[nevertheless]]}}\n|{{ja-r|流域|りゅういき|[[river basin]]}}\n|{{ja-r|流通|りゅうつう|[[circulation]]; [[distribution]]}}\n|{{ja-r|流%派|りゅう%は|[[school of thought]]}}\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

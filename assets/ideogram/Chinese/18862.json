@@ -1,0 +1,37 @@
+{
+  "title": "洈",
+  "ns": 0,
+  "id": 18862,
+  "timestamp": 1520058513000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|alt1=氵|危|c1=s|c2=p|t1=river|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wéi\n|c=ngai4\n|mc=y\n|oc=y\n|ma=\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-div|水}} {{place|zh|t=Wei|river|p/Hubei|c/China}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "朗",
+  "ns": 0,
+  "id": 17241,
+  "timestamp": 1553309957000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xF929}}\n{{character info|0xFA92}}\n{{character info|0x2F8D8}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=月07}}\n\n# {{qualifier|visually}} {{l|en|bright}}, {{l|en|clear}}\n# {{qualifier|auditorily}} {{l|en|sonorant}}, {{l|en|clear}}\n# {{qualifier|psychologically}} {{l|en|merry}}, {{l|en|cheerful}}\n# {{n-g|Used in personal names}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろう<らう\n|kanon=ろう<らう\n|kun=ほが-ら, ほが-らか, あき-らか\n|nanori=あきら, お, さえ, ろ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3|Compounds}}\n* {{ja-r|晴%朗|せい%ろう}}\n{{bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

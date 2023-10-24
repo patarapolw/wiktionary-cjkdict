@@ -1,0 +1,69 @@
+{
+  "title": "着",
+  "ns": 0,
+  "id": 21656,
+  "timestamp": 1546269806000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|著|差|羞|看}}\n{{character info/new}}\n{{character info/new|0xfaaa}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=目06}}\n\n# to [[arrive]]\n# to [[wear]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃく\n|kanon=ちゃく\n|kun=つ-く, つ-ける, き-る, き-せる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|着実|ちゃくじつ}}\n* {{ja-r|着信音|ちゃくしんおん}}\n* {{ja-r|着物|きもの}}\n* {{ja-r|下着|したぎ}}\n* {{ja-r|水着|みずぎ}}\n* {{ja-r|上着|うわぎ}}\n* {{ja-r|柔道着|じゅうどうぎ}}\n* {{ja-r|仕事着|しごとぎ}}\n* {{ja-r|新着|しんちゃく}}: [[new]] [[arrival]]\n* {{ja-r|必着|ひっちゃく}}\n* {{ja-r|先着順|せんちゃくじゅん}}\n* {{ja-r|膠着語|こうちゃくご}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|着る|きる}}\n* {{ja-r|着く|つく}}: to [[arrive]]\n* {{ja-r|着%物|き%もの}}\n\n{{ja-kanjitab|ちゃく|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|ちゃく|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|ちゃく|counter}}\n\n# [[suit]]s of [[clothing]]"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ちゃく}}\n\n# [[arrival]] at"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|ぎ|suffix}}\n\n# [[clothes]], [[outfit]], [[uniform]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

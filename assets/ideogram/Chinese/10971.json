@@ -1,0 +1,56 @@
+{
+  "title": "俳",
+  "ns": 0,
+  "id": 10971,
+  "timestamp": 1520329772000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|人|alt1=亻|t1=person|非|ls=psc|c1=s|c2=p}} – a type of person."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=pái\n|c=paai4\n|mc=y\n|oc=y\n|ma=\n|cat=n,a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[actor]]\n# [[vaudeville]] [[show]]\n# {{lb|zh|literary}} [[humorous]]; [[funny]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|俳笑|俳體|俳優體|俳倡|俳句|俳賦|俳諧|俳優|俳謔|詼俳}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=pái\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|俳佪}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

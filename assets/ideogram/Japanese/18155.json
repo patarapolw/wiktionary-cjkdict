@@ -1,0 +1,64 @@
+{
+  "title": "檀",
+  "ns": 0,
+  "id": 18155,
+  "timestamp": 1538878054000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木13}}\n\n# {{defn|lang=ja|sort=木13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だん\n|kanon=たん\n|kun=まゆみ-}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|白檀|びゃくだん}}: [[Indian sandalwood]] (''[[Santalum album]]'')\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|まゆみ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|まゆみ|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|真弓}}, {{ja-l|檀弓}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まゆみ|マユミ}}\n\n# {{taxlink|Euonymus hamiltonianus|species|noshow=1}}\n# a [[bow]] made from the [[wood]] of {{taxlink|Euonymus hamiltonianus|species|noshow=1}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|だん}}\n\n# {{surname|lang=ja|sort=たん'}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Trees|まゆみ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "葺",
+  "ns": 0,
+  "id": 25279,
+  "timestamp": 1532238985000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しゅう\n|kun=ふ-く\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|ぶき}}\n\n# roofed with"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

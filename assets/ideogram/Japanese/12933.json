@@ -1,0 +1,39 @@
+{
+  "title": "國",
+  "ns": 0,
+  "id": 12933,
+  "timestamp": 1553643012000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|国}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|国|國}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=囗08|shin=国}}\n\n# [[country]], [[nation]], [[nation-state]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=こく\n|kun=くに-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くに|shin=国}}\n\n# a [[land]], a [[country]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

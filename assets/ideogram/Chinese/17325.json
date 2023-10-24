@@ -1,0 +1,39 @@
+{
+  "title": "杧",
+  "ns": 0,
+  "id": 17325,
+  "timestamp": 1553551756000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=máng\n|c=mong4\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{n-g|Used in compounds below.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|杧果}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

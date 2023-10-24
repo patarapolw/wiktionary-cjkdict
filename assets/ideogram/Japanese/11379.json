@@ -1,0 +1,110 @@
+{
+  "title": "光",
+  "ns": 0,
+  "id": 11379,
+  "timestamp": 1553764086000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|灮}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=儿04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<くわう\n|kanon=こう<くわう\n|kun=ひか-る, ひかり, ひか-り\n|nanori=あき, あきら, こう, てる, ひこ, み, みつ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|月光|げっこう}}: [[moonlight]]\n* {{ja-r|日光|にっこう}}: [[sunlight]]\n* {{ja-r|光 カード|ひかり カード}}: an [[optical]] [[card]]\n* {{ja-r|光 コンピュータ|ひかり コンピュータ}}: an [[optical]] [[computer]]\n* {{ja-r|光 ディスク|ひかり ディスク}}: an [[optical]] [[disc]]\n* {{ja-r|光%物|ひかり%もの}}, {{ja-r|光り物|ひかりもの}}: something that [[shine]]s: a [[star]], an [[apparition]], the [[moon]], a [[metal]], a [[mackerel]], etc.\n* {{ja-r|光 通信|ひかり つうしん}}: [[optical]] [[communication]]\n* {{ja-r|光 通信 ケーブル|ひかり つうしん ケーブル}}: [[optical]] [[communication]] [[cable]], [[fiberoptic]] [[cable]]\n* {{ja-r|光 ファイバー|ひかり ファイバー}}: [[optical]] [[fiber]]\n* {{ja-r|光 伝道度|ひかり でんどうど}}: [[photoconductivity]]\n* {{ja-r|光 分解|ひかり ぶんかい}}: [[optical]] [[degradation]], [[photodegradation]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|ひかり}}\n\n{{IPAfont|⟨pi<sub>1</sub>kari⟩}} → {{IPAchar|/pikari/}} → {{IPAchar|/fikari/}} → {{IPAchar|/hikari/}}\n\nFrom {{inh|ja|ojp|sort=ひかり|-}}.\n\nThe {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|光る|tr=hikaru||to shine, to glitter, to gleam}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|ひかり|acc=3|acc_ref=NHK,DJR|dev=1}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|光り}} {{qualifier|less common}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひかり}}\n\n# a [[physically]] [[perceived]] [[light]]: a [[light]], a [[gleam]], [[shining]], [[glittering]]\n#: {{ja-usex|ダイヤモンドの'''光'''|ダイヤモンド の '''ひかり'''|a diamond's '''glitter''' / '''shine''' / '''twinkling'''|sort=ひかり}}\n# a [[metaphorical]] light: [[glory]], a [[glimmer]], a [[gleam]]\n#* {{quote-book\n||{{w|lang=ja|井沢ひろし|Hiroshi, Izawa}}\n|{{w2|ja|ファイアーエムブレム 覇者の剣}}\n||353\n|coauthors={{w|lang=ja|山田孝太郎|Kotaro, Yamada}}\n|chapter={{ruby|{{lang|ja|[最](さい)[終](しゅう)[話](わ)　それぞれの[道](みち)へ}}}}\n|trans-chapter=Final Chapter: Epilog\n|trans-title=Fire Emblem: Sword of Champions\n|genre=fiction\n|edition=Jump Remix\n|volume=5\n|lang=ja\n|location=Tokyo\n|publisher=Shueisha\n|date=Oct 20 2007\n|isbn=978-4-08-109486-8}}\n#*: {{ja-usex|タニアの'''光'''ティーナ|^タニア の '''^ひかり''' ^ティーナ|Tina, Light of Tania}}\n#: {{ja-usex|前途に'''光'''を失う|ぜんと に '''ひかり''' を うしなう|to lose '''light''' regarding the future → future prospects grow dim|sort=ひかり}}\n#: {{ja-usex|解決への道に'''光'''を投げかける|かいけつ へ の みち に '''ひかり''' を なげかける|to shed '''light''' on the way to a solution|sort=ひかり}}\n# {{qualifier|in compounds}} [[optics]]\n#: {{ja-usex|'''光'''ファイバー|'''ひかり''' ファイバー|'''optical''' fiber|sort=ひかり}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ひかり}}\n\n# ''a place name'', such as that of Hikari City in [[Yamaguchi]] Prefecture\n# one of the [[bullet train]] services running on the Tōkaido/Sanyō [[shinkansen]]\n# {{surname|lang=ja|A=a|sort=ひかり}}\n# {{given name|female|lang=ja|A=a|sort=ひかり}}\n{{topics|ja|Cities|Japan|sort=ひかり}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ja-r|ぴかぴか}}: [[glitteringly]], [[sparklingly]]\n* {{ja-r|ぴかり}}: [[glitteringly]], [[sparklingly]]\n* {{ja-r|^ピカチュウ}}: [[Pikachu]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=irr|ひかる}}\n[[nominalization|Nominalization]] of the verb {{m|ja|光る|tr=hikaru||to shine, to glitter, to gleam}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|ひかる}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ひかる}}\n\n# {{given name|male|lang=ja|sort=ひかる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|こう|yomi=o}}\n{{IPAchar|/kwau/}} → {{IPAchar|/kwɔː/}} → {{IPAchar|/kɔː/}} → {{IPAchar|/koː/}}\n\nFrom {{bor|ja|ltc|-|sort=こう}} {{m|zh|光|tr=kwang||light, brightness}}. Compare modern {{cog|cmn|-}} ''guāng'' and {{cog|hak|-}} ''kông'', {{cog|nan|-}} ''kong''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|こう|acc=1}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|こう|hhira=くわう}}\n\n# {{given name|male|lang=ja|sort=こう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

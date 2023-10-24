@@ -1,0 +1,44 @@
+{
+  "title": "蓂",
+  "ns": 0,
+  "id": 25364,
+  "timestamp": 1545585214000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|艸|冥|c1=s|c2=p|t1=grass|ls=psc}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=míng,mì,huò\n|c=<!--y=ming4-->\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{defn|lang=cmn|sort=艸10}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|蓂莢|菥蓂}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

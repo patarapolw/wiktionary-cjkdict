@@ -1,0 +1,80 @@
+{
+  "title": "阿",
+  "ns": 0,
+  "id": 30626,
+  "timestamp": 1552576441000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=阜05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=あ|kanon=あ|kun=くま-, おもね-る|nanori=お, くま}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あ|yomi=o}}\nFrom {{der|ja|ltc|sort=あ|-}} {{ltc-l|阿}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|あ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あ}}\n\n# The first letter of Sanskrit, [[अ]] (''a'').",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|阿%字|あ%じ}}\n* {{ja-r|阿%吽|あ%うん}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|吽|うん}}\n* {{ja-r|梵%字|ぼん%じ}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|あ}}\n\n# to [[flatter]]; to [[pander]] to\n# [[ridge]] (of [[roof]]); [[eaves]]\n# {{n-g|A prefix expressing familiarity.}}\n# {{n-g|Used as a phonetic element, especially in words from Sanskrit.}}\n# {{short for|阿弗利加||[[Africa]]|lang=ja|tr=Afurika}}\n# {{short for|阿波国||[[Awa]] Province|lang=ja|tr=Awa no kuni}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top|to flatter; to pander to}}\n* {{ja-r|阿諛|あゆ|[[flattery]]}}\n{{der-bottom}}\n\n{{der-top|phonetic element}}\n* {{ja-r|阿修羅|あしゅら|[[Asura]]}}\n* {{ja-r|阿僧祇|あそうぎ|{{w|Asaṃkhyeya}}}}\n* {{ja-r|阿毘達磨|あびだつま|[[Abhidharma]]}}\n* {{ja-r|阿弗利加|アフリカ|[[Africa]]}}\n* {{ja-r|阿片|あへん|[[opium]]}}\n* {{ja-r|阿弥陀|あみだ|[[Amitābha]]}}\n* {{ja-r|阿蘭陀|オランダ|[[Holland]]; The [[Netherlands]]}}\n{{der-bottom}}\n\n{{der-top|others}}\n* {{ja-r|阿%呆|あ%ほう}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-see|くま}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

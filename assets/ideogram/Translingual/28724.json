@@ -1,0 +1,39 @@
+{
+  "title": "逸",
+  "ns": 0,
+  "id": 28724,
+  "timestamp": 1553570243000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa25}}\n{{character info/new|0xfa67}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|逸|逸|逸}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "In Japanese [[wikipedia:shinjitai|shinjitai]], the upper right component of <span lang=\"ja\" style=\"font-size:140%;\">逸</span> is written <span lang=\"ja\" style=\"font-size:140%;\">[[免]]</span> (without dot, simplified from <span lang=\"ja\" style=\"font-size:140%;\">[[兔]]</span>). In Chinese scripts, the upper right component of <span lang=\"zh-hant\" style=\"font-size:140%;\">逸</span> is written <span lang=\"zh-hant\" style=\"font-size:140%;\">[[兔]]</span> (extra dot above [[儿]]). However, both Japanese and Chinese forms have the same number of [[wikipedia:Stroke (CJKV character)|strokes]]. Note that in Japanese, the <span lang=\"ja\" style=\"font-size:140%;\">[[免]]</span> component is written [[⺈]]+[[𫩏]]+[[儿]]. In Chinese, the middle part of <span lang=\"zh-hant\" style=\"font-size:140%;\">[[兔]]</span> is written [[口]] overlapped by [[㇓]] (one stroke instead of two). Due to [[wikipedia:Han unification|Han unification]], both characters are encoded under the same codepoint. A compatibility ideograph <span lang=\"zh-hant\" style=\"font-size:140%;\">逸</span>(U+FA67) exists to reflect the original form ([[wikipedia:kyūjitai|kyūjitai]]) of <span lang=\"ja\" style=\"font-size:140%;\">逸</span>."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=162|rad=辵|as=08|sn=12|snmj+=11|four=37301|canj=YNUI|ids=⿺辶兔(GHTKV),⿺辶免(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1260.080|dkj=38951|dj=1750.040|hdz=63853.010|uh=9038}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

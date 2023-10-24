@@ -1,0 +1,44 @@
+{
+  "title": "彊",
+  "ns": 0,
+  "id": 15201,
+  "timestamp": 1544184832000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|强|強|疆}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=弓13}}\n\n# {{alt-form|lang=ja|強}} {{gloss|[[strong]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごう<がう\n|kanon=きょう<きやう\n|kun=つよ-い, つよ-し, し.い-る\n|nanori=つとむ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|つとむ|proper}}\n\n# {{given name|male|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "*{{l|ja|彁}}, a ghost kanji\n\n[[Category:Japanese male given names|つとむ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

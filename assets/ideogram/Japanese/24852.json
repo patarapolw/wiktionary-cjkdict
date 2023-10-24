@@ -1,0 +1,59 @@
+{
+  "title": "苦",
+  "ns": 0,
+  "id": 24852,
+  "timestamp": 1553050700000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F996}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=艸05}}\n\n# pain, anguish, suffering, discomfort, hardship, worry\n# {{lb|ja|sort=く|Buddhism}} [[dukkha]], [[suffering]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=こ\n|kun=くる-し.い, くる-しむ, くる-しめる, くる-しみ, くる-しむめる, にが-い, にが-む, にが-み, にが-める, にが-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|苦土|くど}}: [[magnesia]], [[magnesium oxide]]\n* {{ja-r|苦%無|く%ない}}: a {{w|kunai}}\n* {{ja-r|苦%茗|く%めい}}: [[bitter]] [[tea]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Dukkha}}\n</div>\n{{ja-kanjitab|く|yomi=o}}\nFrom {{etyl|ltc|ja|sort=く}} {{m|zh|苦|tr=khu<sup>X</sup>||suffering}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|く|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|く}}\n\n# [[suffering]]\n# {{lb|ja|Buddhism|sort=く}} [[dukkha]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

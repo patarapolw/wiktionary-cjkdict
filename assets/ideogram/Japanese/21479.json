@@ -1,0 +1,39 @@
+{
+  "title": "皙",
+  "ns": 0,
+  "id": 21479,
+  "timestamp": 1534921821000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=白08}}\n\n# white",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃく\n|kanon=せき\n|kun=しろ-い\n|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[白皙]] ([[はくせき]], ''hakuseki'')"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

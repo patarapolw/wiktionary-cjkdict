@@ -1,0 +1,44 @@
+{
+  "title": "艘",
+  "ns": 0,
+  "id": 24710,
+  "timestamp": 1553564089000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=舟09}}\n\n# {{defn|lang=ja|sort=舟09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=そう\n|kun=ふね-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|そう|yomi=o}}\nFrom {{der|ja|ltc|sort=そう|-}} {{ltc-l|艘}}."
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|そう|counter}}\n\n# [[small]] [[boat]]s"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

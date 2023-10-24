@@ -1,0 +1,85 @@
+{
+  "title": "偉",
+  "ns": 0,
+  "id": 11097,
+  "timestamp": 1548403262000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|伟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人09}}\n\n# admirable",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ\n|kanon=い<ゐ\n|kun=えら-い, ひいでる, すぐ-れる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|い|yomi=on}}\n{{IPAchar|/wi/}} → {{IPAchar|/i/}}\n\nFrom {{der|ja|ltc|sort=|-}} {{ltc-l|偉}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|い|acc=1|acc_ref=DJR|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|い|hhira=ゐ}}\n\n# {{lb|ja|literary}} [[greatness]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|い|hhira=ゐ|infl=na}}\n\n# {{lb|ja|literary}} [[great]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|い}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|い|hhira=ゐ}}\n\n# [[great]], [[excellent]], [[magnificent]], [[extraordinary]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|偉%業|い%ぎょう}}\n* {{ja-r|偉%才|い%さい}}\n* {{ja-r|偉%人|い%じん}}\n* {{ja-r|偉%大|い%だい}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|えら|yomi=k}}\n{{ja-see|えら}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

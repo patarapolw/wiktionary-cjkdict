@@ -1,0 +1,39 @@
+{
+  "title": "更",
+  "ns": 0,
+  "id": 17208,
+  "timestamp": 1547690188000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|史|吏}}\n{{character info/new}}\n{{character info/new|codepoint=0xF901}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=一06}}\n\n# {{defn|lang=ja|sort=曰03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きょう\n|kanon=こう\n|kun=さら-, ふ-かす, ふ-ける, あらた-める\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|変更|へんこう}}\n* {{ja-r|更新|こうしん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

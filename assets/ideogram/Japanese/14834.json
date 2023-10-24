@@ -1,0 +1,49 @@
+{
+  "title": "巽",
+  "ns": 0,
+  "id": 14834,
+  "timestamp": 1553314089000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|巺|☴}}\n{{character info/new}}\n{{character info|0x2F884}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=己09}}\n\n# [[southeast]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=そん\n|kun=たつみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{compound|ja|辰|tr1=tatsu|巳|tr2=mi}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たつみ}}\n\n# {{lb|ja|obsolete|sort=たつみ}} southeast"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|たつみ|proper}}\n\n# {{surname|lang=ja|sort=たつみ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

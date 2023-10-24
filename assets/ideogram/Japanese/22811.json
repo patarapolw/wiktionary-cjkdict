@@ -1,0 +1,85 @@
+{
+  "title": "箍",
+  "ns": 0,
+  "id": 22811,
+  "timestamp": 1536379631000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹08}}\n\n# [[barrel]] [[hoop]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=こ\n|kun=たが, いずみ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|たが|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|たが|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|𥶡}} {{qualifier|rare}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たが}}\n\n# a [[barrel]] [[hoop]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|箍が緩む|たが が ゆるむ}}\n* {{ja-r|箍を締める|たが を しめる}}\n* {{ja-r|箍を外す|たが を はずす}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|いずみ}}\n\nShift from {{m|ja|飯詰め|tr=izume||a traditional straw basket for storing unhulled rice over the winter; a similar kind of straw basket used as a baby cradle}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>  The {{m|ja|箍}} kanji spelling appears to be in reference to the round hoop-like shape of the opening of this basket.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|いずみ|acc=0}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いずみ|hhira=いづみ}}\n\n# {{lb|ja|sort=いずみ|rare}} a kind of traditional [[straw]] [[basket]] used as a [[baby]] [[cradle]]\n#: {{synonyms|ja|つぐら|tr1=tsugura|揺籃|tr2=yōran}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

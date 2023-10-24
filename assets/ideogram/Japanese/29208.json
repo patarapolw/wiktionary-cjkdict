@@ -1,0 +1,127 @@
+{
+  "title": "里",
+  "ns": 0,
+  "id": 29208,
+  "timestamp": 1551289363000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|裏|裡|黒|浬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=里00}}\n\n# [[village]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=り\n|kanon=り\n|kun=さと-, みちのり-\n|nanori=か, さ, さとし, と, のり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|旧里|きゅうり|[[hometown]]}}\n* {{ja-r|露里|ろり|[[verst]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|さと|yomi=k}}\n{{IPAfont|/sato<sub>1</sub>/}} → {{IPAchar|/sato/}}\n\nFrom {{etyl|ojp|ja|sort=さと}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Ultimately derivation unknown.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|さと|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|郷}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjective",
+                  "text": "{{ja-adj|infl=na|さと}}\n\n# {{lb|ja|sort=さと|slang|red-light district}} [[boorish]], [[hickish]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|さと}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さと}}\n\n# [[village]]\n# [[country house]]\n# one's [[hometown]]\n# the [[country]], the [[countryside]]\n# the [[original]] [[home]] of a household member {{qualifier|such as a [[wife]], [[adoptee]], or other person who has joined the household from outside}}\n# a separate [[home]] or [[boarding]] [[situation]] to which one's own children are sent for [[upbringing]] or [[education]]\n# a [[red-light district]]\n# one's [[birth]], [[parentage]], [[origins]]\n# {{lb|ja|sort=さと|slang|red-light district}} [[boorishness]], [[hickishness]]\n# the [[lay]] world {{qualifier|as opposed to life within a temple}}\n# {{lb|ja|sort=さと|obsolete}} in ancient times, a unit of area for regional administration\n#: The ''ri'' reading below was more common for this.\n# {{lb|ja|sort=さと|obsolete}} in ancient times, a unit of distance\n#: The ''ri'' reading below was more common for this."
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|village}} {{ja-r|村|むら}}, {{ja-r|村里|むらさと}}\n* {{sense|hometown}} {{ja-r|田舎|いなか}}, {{ja-r|故郷|こきょう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|里芋|さといも|[[taro]]}}\n* {{ja-r|里%親|さと%おや|[[foster parent]]}}\n* {{ja-r|里%子|さと%ご|[[foster child]]}}\n* {{ja-r|里山|さとやま|[[satoyama]]}}\n* {{ja-r|古里|ふるさと|[[old]] hometown}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|さと}}\n\n# ''a [[place name]]''\n# {{surname|lang=ja|A=a|sort=さと}}\n# {{given name|female|lang=ja|A=a|sort=さと}}\n\n{{ja-pos|proper|ざと}}\n\n# ''a [[place name]]''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|り|yomi=o}}\nFrom {{etyl|ltc|ja|sort=り}} {{ltc-l|里}}. Compare modern [[Chinese]] {{zh-l|里|tr=lǐ}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|り|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|り}}\n\n# A [[unit]] of [[distance]] defined as equal to {{frac|129,600|33}} [[meter]]s: approximately 3.927 [[kilometer]]s or 2.44 [[mile]]s."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|英里|えいり|[[mile]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "Various nanori readings.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|さとし}}\n\n# {{given name|male|lang=ja|A=a|sort=さとし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

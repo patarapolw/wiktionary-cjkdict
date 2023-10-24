@@ -1,0 +1,73 @@
+{
+  "title": "銃",
+  "ns": 0,
+  "id": 29457,
+  "timestamp": 1544239820000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|铳}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=金06}}\n\n# a [[gun]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ\n|kanon=しゅう\n|kanyoon=じゅう\n|kun=つつ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|拳銃|けんじゅう}}: [[handgun]]\n* {{ja-r|小銃|しょうじゅう}}: [[rifle]]\n* {{ja-r|機関銃|きかんじゅう}}: [[machine gun]]\n* {{ja-r|銃創|じゅうそう}}: a [[bullet]] [[wound]]\n* {{ja-r|銃傷|じゅうしょう}}: a [[bullet]] [[wound]]\n* {{ja-r|銃撃|じゅうげき}}: [[shooting]] at someone\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|じゅう|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|じゅう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|じゅう}}\n\n# [[gun]] {{gloss|firearm}}\n#: {{ja-usex|'''銃'''を撃つ|'''じゅう''' を うつ|to fire a '''gun'''}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|つつ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つつ}}\n\n# {{alternative spelling of|lang=ja|筒}}: {{rfdef|ja}}\n#: {{ja-usex|捧げ'''銃'''|ささげ '''つつ'''|[[present arms]]}}\n#* '''1898''', {{w2|ja|国木田独歩}}, [http://www.aozora.gr.jp/cards/000038/files/42203_48329.html {{l|ja||『鹿狩り』}}]\n#*: {{ja-usex|かれこれするうちに昼時分になったが鹿らしいものも来ない、たちまち谷を一つ越えたすぐむこうの山の尾で'''銃'''の音がしたと思うと白い煙が見えた。|かれこれ する うち に ひるじぶん に なった が しか らし.い もの も こない、たちまち たに を ひとつ こえた すぐ むこう の やま の お で '''つつ''' の おと が した と おも.う と しろい けむ が みえた。|}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />\n\n{{C|ja|Firearms}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

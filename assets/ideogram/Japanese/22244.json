@@ -1,0 +1,56 @@
+{
+  "title": "祠",
+  "ns": 0,
+  "id": 22244,
+  "timestamp": 1541684001000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=示05}}\n\n# {{defn|lang=ja|sort=示05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=ほこら-, まつ-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|yomi=k|ほこら}}\n* {{ja-l|叢祠}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=h|acc2=3|y=k|ほこら}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ほこら}}\n\n# a [[small]] [[shrine]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-l|神庫}}\n\n[[Category:ja:Buildings|ほこら]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "title": "歯",
+  "ns": 0,
+  "id": 18400,
+  "timestamp": 1549161645000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|齒|齿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|歯|齒}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=止08|kyu=齒}}\n\n# [[tooth]]\n# [[age]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=は-, よわい-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ja|\n|{{ja-r|臼%歯|うす%ば}}\n|{{ja-r|上%歯|うわ%ば}}\n|{{ja-r|奥%歯|おく%ば}}\n|{{ja-r|仮%歯|か%し}}\n|{{ja-r|臼%歯|きゅう%し}}\n|{{ja-r|歯%牙|し%が}}\n|{{ja-r|歯%槽|し%しょう}}\n|{{ja-r|歯%序|し%じょ}}\n|{{ja-r|下%歯|した%ば}}\n|{{ja-r|歯%朶|し%だ}}\n|{{ja-r|歯%徳|し%とく}}\n|{{ja-r|歯%列|し%れつ}}\n|{{ja-r|歯%医者|は%いしゃ}}\n|{{ja-r|歯%形|は%がた}}\n|{{ja-r|歯%痒い|は%がゆい}}\n|{{ja-r|歯%茎|は%ぐき}}\n|{{ja-r|歯ブラシ|はブラシ}}\n|{{ja-r|虫%歯|むし%ば}}\n}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|は|yomi=k}}\npa > ɸa > ha.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|は|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=齒|は}}\n\n# [[tooth]]\n#: {{ja-usex|'''歯'''が痛い。|'''は.''' が いたい。|My '''teeth''' hurt.}}\n#* {{RQ:Nippo Jisho|191}}\n#*: '''Fa'''. ハ (歯). '''Fa'''ga iru, l, ita. (歯が齭る, または, 齭た) 歯が浮く. '''Fa'''uo nuqu. (歯を抜く) 歯を抜き取る. '''Fa'''ga nuquru. (歯が抜くる) 歯が抜けて落ちる. '''Fa'''uo camu. (歯を嚙む) 歯をかみしめる, 合わせ閉じる. '''Fa'''uo dasu. (歯を出す) 怒って歯をむき出す. '''Fa'''ga vqu. (歯が浮く) 歯が浮く, または, ぐらぐらする. '''Fa'''ga yurugu. (歯が揺ぐ) 歯が動く. '''Fa'''uo curomuru. l, caneuo tçuquru. (歯を黒むる. または, 鉄漿を付くる) 歯を黒く染める."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|し|yomi=o}}\nFrom {{etyl|ltc|ja|sort=し}} {{ltc-l|齒}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|し|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=齒|し}}\n\n# [[tooth]]\n# [[age]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|歯を没す|し を ぼっす}}: [[die]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|よわい|yomi=k}}\nyopapi > yoɸaɸi > yowawi > yowai.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|よわい|acc=0|acc_ref=DJR,NHK|acc2=2|acc2_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|齢}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=齒|よわい|hhira=よはひ}}\n\n# [[age]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Nippo Jisho}}\n\n[[Category:Japanese basic words|は]]\n[[Category:ja:Teeth|は]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

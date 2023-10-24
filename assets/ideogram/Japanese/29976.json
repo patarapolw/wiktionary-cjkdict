@@ -1,0 +1,49 @@
+{
+  "title": "鑢",
+  "ns": 0,
+  "id": 29976,
+  "timestamp": 1550816358000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[file:DiamondFiles.jpg|thumb|right|250px|鑢(yasuri)]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金15}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろ\n|kanon=りょ\n|kun=やすり-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{wikipedia|lang=ja|やすり}}\n{{ja-kanjitab|yomi=k|やすり}}\n* {{ja-l|鈩}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=h|y=k|やすり}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|やすり|ヤスリ}}\n\n# a [[file]] {{gloss|cutting or smoothing tool}}\n\n[[Category:ja:Tools|やすり]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

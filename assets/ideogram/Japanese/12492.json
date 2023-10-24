@@ -1,0 +1,49 @@
+{
+  "title": "啥",
+  "ns": 0,
+  "id": 12492,
+  "timestamp": 1531490584000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=口08}}\n\n# [[what]] (variant of {{m|ja|舍}})",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃ<しや\n|kanon=しゃ<しや\n|kun=なに-, なん-ぞ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This kanji may be found in classical sources, but is not used in modern Japanese.\n{{attention|ja|needs further information and examples of use; is this kanbun only?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|何|なに}}\n* {{ja-r|何ぞ|なんぞ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:DKJ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

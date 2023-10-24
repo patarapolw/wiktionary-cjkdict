@@ -1,0 +1,39 @@
+{
+  "title": "囹",
+  "ns": 0,
+  "id": 12916,
+  "timestamp": 1537848935000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|codepoint=0xF9A9}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=囗05}}\n\n# [[prison]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りょう<りやう\n|kanon=れい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|囹圄|れいぎょ|rom=-}}, {{ja-r|囹圉|れいぎょ}}, {{ja-r|囹圄|れいご|rom=-}}, {{ja-r|囹圉|れいご}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

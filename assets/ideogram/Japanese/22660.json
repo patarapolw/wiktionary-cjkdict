@@ -1,0 +1,39 @@
+{
+  "title": "竺",
+  "ns": 0,
+  "id": 22660,
+  "timestamp": 1528715718000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=竹02}}\n\n# [[bamboo]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=とく, ちく, じく\n|kun=あつ-い, たけ-\n|nanori=あつし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|あつし|proper}}\n\n# {{given name|male|lang=ja|sort=あつし}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

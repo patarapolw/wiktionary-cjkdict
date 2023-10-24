@@ -1,0 +1,66 @@
+{
+  "title": "舵",
+  "ns": 0,
+  "id": 24675,
+  "timestamp": 1553564082000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|柁}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=舟05}}\n\n# [[rudder]], [[tiller]], [[helm]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だ\n|kanon=た\n|kun=かじ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{wikipedia|Rudder}}\n{{ja-kanjitab|yomi=k|かじ}}\n\n{{IPAchar|/kadi/}} → {{IPAchar|/kad͡ʑi/}}\n\nFrom {{inh|ja|ojp|-}}. This originally referred to a single [[oar]]-like device attached to the back of a small boat and swept from side to side to propel the boat forward. This was also used for steering, and over time, the “single back oar” sense was largely superseded by the “steering device” sense.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|かじ|acc=1|acc_ref=DJR,SMK5,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かじ|hhira=かぢ}}\n\n# {{lb|ja|nautical}} the [[rudder]] of a [[boat]] or [[ship]]\n# {{lb|ja|nautical|aeronautics}} the [[helm]], [[tiller]], or [[wheel]] of a [[boat]] or [[ship]], or of an [[aircraft]]\n# {{lb|ja|figurative}} a [[position]] of [[leadership]] or [[control]]\n# {{lb|ja|nautical}} a single [[oar]]-like device attached to the back of a small boat and swept from side to side to propel the boat forward",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|舵%取り|かじ%とり}}: [[steering]], [[leadership]]\n* {{ja-r|舵%板|かじ%ばん}}: the [[rudder]], the rudder [[board]] or [[blade]]\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|rudder}} {{ja-r|舵%板|かじ%ばん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

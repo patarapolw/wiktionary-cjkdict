@@ -1,0 +1,34 @@
+{
+  "title": "舁",
+  "ns": 0,
+  "id": 24621,
+  "timestamp": 1553313735000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F893}}\n{{character info|0x2F98B}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=臼04|[[dư]]}}\n\n# {{defn|lang=vi|sort=臼04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=8201 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "炭",
+  "ns": 0,
+  "id": 19869,
+  "timestamp": 1553056902000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|灰}}\n{{character info/new}}\n{{character info|0x2F91A}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=火05}}\n\n# [[coal]]\n# [[charcoal]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たん\n|kanon=たん\n|kun=すみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|炭安|たんあん}}: [[ammonium carbonate]]\n* {{ja-r|採炭|さいたん}}\n* {{ja-r|薪炭|しんたん}}\n* {{ja-r|炭化|たんか}}\n* {{ja-r|炭鉱|たんこう}}\n* {{ja-r|炭酸|たんさん}}\n* {{ja-r|炭素|たんそ}}\n* {{ja-r|炭田|たんでん}}\n* {{ja-r|泥炭|すくも}}, {{ja-r|泥炭|でいたん}}\n* {{ja-r|木炭|もくたん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|すみ}}\n\n# [[charcoal]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

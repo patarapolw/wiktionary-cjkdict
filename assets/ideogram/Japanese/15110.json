@@ -1,0 +1,44 @@
+{
+  "title": "建",
+  "ns": 0,
+  "id": 15110,
+  "timestamp": 1549547856000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=廴06}}\n\n# [[build]], [[establish]], [[erect]], [[found]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=けん\n|kun=た-つ, た-てる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3-u|lang=ja\n|{{ja-r|建設|けんせつ}}\n|{{ja-r|建造|けんぞう}}\n|{{ja-r|建築|けんちく}}\n|{{ja-r|建%具|たて%ぐ}}\n|{{ja-r|土建|どけん}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|けん}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|けん]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "title": "界",
+  "ns": 0,
+  "id": 8632,
+  "timestamp": 1550348905000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|畍}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=田04}}\n\n# world\n# border",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|lang=ja}}\n{{ja-readings\n|goon=け\n|kanon=かい\n|kun=さかい-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|かい}}\nFrom {{der|ja|ltc|sort=かい|-}} {{ltc-l|界|boundary}}.\n\nIn Buddhist contexts, derived from the {{cog|ltc|-}} term used as a translation of {{der|ja|sa|sort=かい|धातु||layer, stratum}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|かい|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かい}}\n\n# [[boundary]]\n# a [[bounded]] [[area]] or [[region]]\n# a [[bounded]] [[group]] of [[people]], a [[society]], a [[world]] as a [[social]] grouping\n#: Used both as a standalone noun, and in compounds. Use in compounds is more common in this sense.\n#: {{ja-usex|自然の'''界'''、自然'''界'''|しぜん の '''かい'''、 しぜん'''かい'''|the natural '''world'''}}\n#: {{ja-usex|美術界|びじゅつ'''かい'''|the art '''world'''}}\n# the [[border]] [[edge]] of a thing\n# {{lb|ja|sort=かい|Buddhism}} the [[category]] of a thing\n# {{lb|ja|sort=かい|Buddhism}} the [[world]] or [[realm]] of a thing\n# [[line]]s drawn between the lines of a text, as on lined writing paper\n# [[line]]s drawn to lay out a draft of a piece of artwork: a [[sketch]]\n# {{lb|ja|sort=かい|biology|taxonomy}} a [[kingdom]]\n# {{lb|ja|sort=かい|geology}} a [[stratum]] corresponding to a [[geologic]] [[age]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|世%界|せ%かい}}: [[world]]; [[land]], [[realm]]\n* {{ja-r|結界|けっかい}}: a [[cordon off|cordoned off]] [[area]]; a [[barrier]]\n* {{ja-r|境界|きょうかい}}: a [[boundary]], a [[border]], a [[limit]]\n* {{ja-r|物質界|ぶっしつかい}}: the material world\n* {{ja-r|精神界|せいしんかい}}: the spiritual world\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|さかい}}\n\n{{IPAchar|/sakapi/}} → {{IPAchar|/sakaɸi/}} → {{IPAchar|/sakahi/}} → {{IPAchar|/sakai/}}\n\nThe {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of obsolete verb {{m|ja|境う|tr=sakau||to divide, to form a boundary between things}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>\n\nSome sources<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> further derive the verb as {{der|ja|ojp|sort=さかい|-}} element {{m|ja|境|tr=saka||division, border, boundary}} + auxiliary verb {{m|ja|ふ|tr=fu}} indicating repetition or ongoing state. However, given the semantics, this could also be analyzed as the repetitive or ongoing aspect of {{der|ja|ojp|sort=さかい|-}}-derived verb ''saku'' with an underlying meaning of “to split apart, to separate, to put distance between”, spelled variously as {{m|ja|割く}}, {{m|ja|裂く}}, {{m|ja|離く}}, or {{m|ja|放く}}, and cognate with {{m|ja|咲く|tr=saku||to bloom|pos=from the idea of the blooms splitting open}}, {{m|ja|栄える|tr=sakaeru||to prosper|pos=extended from the ''bloom'' sense}}, {{m|ja|盛ん|tr=sakan||prospering, fluorishing}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|さかい|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|境}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さかい}}\n\n# [[border]], [[boundary]], [[limits]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "More commonly spelled {{ja-l|境}}. Derived terms primarily use that spelling, so see that entry for more details."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

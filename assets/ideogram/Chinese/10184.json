@@ -1,0 +1,66 @@
+{
+  "title": "㑢",
+  "ns": 0,
+  "id": 10184,
+  "timestamp": 1532747865000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𠊬}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "; Etymology 1\n: {{Han compound|人|alt1=亻|却|ls=psc|c1=s|c2=p|t1=man; person|no_och2=1}}.\n; Etymology 2\n: Variant of {{zh-l|*𠊬}} by analogy ({{zh-l|*卻}} → {{zh-l|*却}})."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=却,𠳞,屐}}\nFrom {{zh-l|*佢|he; she; it}}, with -''k'' (plural marker) and tone change ({{zh-ref|Gan, 1997}}). Compare {{zh-l|*偌|you (plural)}}, from {{zh-l|*你|you (singular)}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c-t=kiak4\n|cat=pron\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal Cantonese|including|Siyi|Yangjiang}} [[they]]; [[them]]\n#: {{zh-x|㑢個|[[their]]|C-T|tr=kiak4 goi1}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|他們}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|㑢個}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|𠊬|v}} <!-- Note: Not the simplified form of 𠊬 - 㑢/𠊬 not found in https://zh.wikisource.org/wiki/通用規范漢字表 -->"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{lang|zh|《漢語方言大詞典》}} ({{lang|zh|中華書局}}, 1999), Page 4243 <!-- Note: Not the same as 《現代漢語方言大詞典》 (江蘇教育出版社, 2002) -->\n* {{R:twedu|C00225-005}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

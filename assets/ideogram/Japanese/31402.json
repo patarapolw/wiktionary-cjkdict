@@ -1,0 +1,90 @@
+{
+  "title": "餞",
+  "ns": 0,
+  "id": 31402,
+  "timestamp": 1522679754000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|饯}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=食08|shin=䬻}}\n\n# [[farewell]] [[gift]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぜん\n|kanon=せん\n|kun=はなむけ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|餞月|せんげつ}}\n* {{ja-r|餞暑|せんしょ}}\n* {{ja-r|餞別|せんべつ}}\n* {{ja-r|予%餞%会|よ%せん%かい}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|はなむけ|yomi=k}}\nFrom {{m|ja|馬の鼻向け|tr=uma no hanamuke|||pos=literally \"the [[direction]] of the [[horse]]'s [[nose]]\"}}, as setting off on a journey. {{rfv-etymology|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|はなむけ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|贐}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はなむけ}}\n\n# an [[exchange]] of [[farewell]]s {{rfv-sense|ja}}\n# a [[farewell]] or [[parting]] [[gift]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|せん|yomi=o}}\n\nFrom {{der|ja|ltc|sort=せん|-}} {{ltc-l|餞}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せん}}\n\n# a [[farewell]] or [[parting]] [[gift]]\n#: {{synonyms|ja|餞別|tr=senbetsu}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{ja-verb-suru|tr=trans|せん}}\n\n# to [[see]] someone [[depart]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Conjugation",
+                      "text": "{{ja-suru|せん}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

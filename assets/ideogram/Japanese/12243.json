@@ -1,0 +1,39 @@
+{
+  "title": "呼",
+  "ns": 0,
+  "id": 12243,
+  "timestamp": 1548386694000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|謼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=口05}}\n\n# [[call]]\n# [[call]] [[out]] [[to]]\n# [[invite]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=こ\n|kun=よ-ぶ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|呼%格|こ%かく}}: [[vocative case]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

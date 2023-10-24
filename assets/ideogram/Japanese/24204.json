@@ -1,0 +1,39 @@
+{
+  "title": "聲",
+  "ns": 0,
+  "id": 24204,
+  "timestamp": 1550127574000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|声|蟹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|声|聲}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=耳17|shin=声}}\n\n# voice",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|goon=しょう<しやう|kanon=せい|kun=こえ-<こゑ-, こわ-}}\n\n{{ja-kanjitab|こえ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こえ|hhira=こゑ|shin=声}}\n\n# {{kyujitai spelling of|声|lang=ja}}: [[voice]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

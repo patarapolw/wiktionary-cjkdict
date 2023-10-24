@@ -1,0 +1,39 @@
+{
+  "title": "隆",
+  "ns": 0,
+  "id": 30703,
+  "timestamp": 1552459273000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xf9dc}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=阜09|kyu=隆}} <!-- 隆 (U+F9DC) (CJK Compatibility ideograph) is the kyūjitai form -->\n\n# [[noble]]\n# [[prosperous]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=りゅう\n|kun=なかだか, たか-い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|たかし|ゆたか}}\n\n# {{given name|male|lang=ja|sort=ゆたか}}\n\n{{ja-pos|proper|りゅう}}\n\n# {{given name|unisex|lang=ja|sort=りゅう}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

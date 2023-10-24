@@ -1,0 +1,39 @@
+{
+  "title": "喫",
+  "ns": 0,
+  "id": 12565,
+  "timestamp": 1553322272000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|吃}}\n{{character info/new}}\n{{character info|0x2F848}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口09}}\n\n# [[devour]]\n# [[ingest]]\n# [[eat]] [[or]] [[drink]]\n# [[to]] [[be]] [[struck]] [[by]] [[someone]] [[or]] [[something]]\n# [[smoke]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きゃく, け\n|kanon=かい, けき\n|kanyoon=きつ\n|kun=く-う, の-む\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|喫煙|きつえん}}: smoking\n* {{ja-r|喫茶|きっさ}}: drinking tea\n* {{ja-r|喫茶店|きっさてん}}: tea house"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

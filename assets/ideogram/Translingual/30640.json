@@ -1,0 +1,44 @@
+{
+  "title": "降",
+  "ns": 0,
+  "id": 30640,
+  "timestamp": 1550520015000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Two Unicode z-code variants, at code points U+964D (main) and U+FA09 (alt)."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=170|rad=阜|as=06|asj=07|sn=9|snj=10|four=77254|canj=NLHEQ|ids=⿰阝夅}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{l|mul|隆}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1349.120|dkj=41620|dj=1852.040|hdz=64126.180|uh=964D|ud=38477|bh=ADB0|bd=44464}}\n* {{Han ref|uh=FA09}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

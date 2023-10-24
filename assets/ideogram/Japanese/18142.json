@@ -1,0 +1,44 @@
+{
+  "title": "橳",
+  "ns": 0,
+  "id": 18142,
+  "timestamp": 1551044177000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Compound of [[木]] and [[勝]]. 勝 replaces the reading [[かち]] (''kachi''), from the wood name [[かちのき]] (''kachinoki'').\n\nIt is also called [[ぬるで]] (''nurude''), after contracted ぬで (''nude'')."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木12}}\n\n# {{taxlink|Rhus chinensis|species}}, a species of tree.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=ぬで-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [https://ci.nii.ac.jp/els/contentscinii_20180513222151.pdf?id=ART0008861049 A Study about the Variant Character of \"橳\"], YASUNO, Masato (2008)\n[[Category:Japanese-only CJKV Characters|木+12]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

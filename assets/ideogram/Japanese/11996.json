@@ -1,0 +1,95 @@
+{
+  "title": "原",
+  "ns": 0,
+  "id": 11996,
+  "timestamp": 1550600213000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|厡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=厂08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=げん<げん<ぐゑん\n|kanyoon=がん<ぐわん\n|kun=はら-\n|nanori=た, ばる, ら, わた, わら\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|原%料|げん%りょう}}\n* {{ja-r|草%原|そう%げん}}, {{ja-r|草%原|くさ%はら}}\n* {{ja-r|原%語|げん%ご}}\n* {{ja-r|笹%原|ささ%わら}}, {{ja-r|笹%原|ささ%はら}}\n* {{ja-r|砂%原|すな%はら}}\n* {{ja-r|原%稿|げん%こう}}\n* {{ja-r|原%理|げん%り}}\n* {{ja-r|原%産|げん%さん}}\n* {{ja-r|原%素|げん%そ}}\n* {{ja-r|原%始|げん%し}}\n* {{ja-r|原%油|げん%ゆ}}\n* {{ja-r|原%因|げん%いん}}\n* {{ja-r|原%子|げん%し}}\n* {{ja-r|原%作|げん%さく}}\n* {{ja-r|原%則|げん%そく}}\n* {{ja-r|原%子 番%号|げん%し ばん%ごう}}: [[atomic number]]\n* {{ja-r|原%潜|げん%せん}}\n* {{ja-r|原%価 計%算|げん%か けい%さん}}\n* {{ja-r|医%原%性 疾%患|い%げん%せい しっ%かん}}\n* {{ja-r|広%原|こう%げん}}\n* {{ja-r|雪%原|せつ%げん}}\n* {{ja-r|原%動%機|げん%どう%き}}\n* {{ja-r|原%名|げん%めい}}\n* {{ja-r|医%原%病|い%げん%びょう}}\n* {{ja-r|原%爆|げん%ばく}}\n* {{ja-r|原%水%爆|げん%すい%ばく}}\n* {{ja-r|高%原|こう%げん}}\n* {{ja-r|高%天%原|たか%あま%はら}}\n* {{ja-r|医%原|い%げん}}\n* {{ja-r|海%原|うな%ばら}}\n* {{ja-r|原%子 序%数|げん%し じょ%すう}}\n* {{ja-r|原%子%序|げん%し%じょ}}\n* {{ja-r|原%液|げん%えき}}\n* {{ja-r|原%義|げん%ぎ}}\n* {{ja-r|原%本|げん%ぽん}}\n* {{ja-r|原%状|げん%じょう}}\n* {{ja-r|原%文|げん%ぶん}}\n* {{ja-r|原%子%核|げん%し%かく}}\n* {{ja-r|原%発|げん%ぱつ}}\n* {{ja-r|原%形%質|げん%けい%しつ}}: [[protoplasm]]\n* {{ja-r|関ヶ原|^せきヶはら}}\n* {{ja-r|与%那%原|よ%な%ばる}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|はら}}\n\nFrom {{inh|ja|ojp|sort=はら|-}}. Found in the ''{{w|Man'yōshū}}'', finished some time after 759 CE. Compare Korean {{ko-inline|벌|peol|plain, field}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|はら|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はら}}\n\n# [[meadow]], [[plain]], [[field]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Specifically refers to a field that is not [[cultivate]]d."
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|はら|proper}}\n\n# {{surname|lang=ja|sort=はら}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|げん}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|原|gloss=source; origin; beginning}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|げん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|げん}}\n\n# the [[original]] thing"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|げん}}\n\n# the [[original]]\n#: {{ja-usex|'''原'''文、'''原'''材料|'''げん'''ぶん、'''げん'''-ざいりょう|'''original''' document, '''original''' / '''raw''' materials}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

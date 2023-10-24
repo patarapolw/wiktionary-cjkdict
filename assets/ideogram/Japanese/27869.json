@@ -1,0 +1,59 @@
+{
+  "title": "越",
+  "ns": 0,
+  "id": 27869,
+  "timestamp": 1550401182000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=走05}}\n\n# {{defn|lang=ja|sort=走05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えち<ゑち, おち<をち, がち<ぐわち\n|kanon=えつ<ゑつ, かつ<くわつ\n|kun=こ-える<こ-える, こ-す<こ-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{l|ja|超越}}\n* {{l|ja|越境}}\n* {{l|ja|越権}}\n* {{l|ja|越度}}\n* {{l|ja|越南}}\n* {{l|ja|激走}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えつ|yomi=on}}\nFrom {{der|ja|ltc|sort=えつ|-}} {{ltc-l|越}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えつ|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えつ|hhira=ゑつ}}\n\n# [[pass over]]; [[cross over]]; [[go over]]\n# [[pass]]; [[go through]] (of time)\n# [[exceed]]; [[surpass]]; [[transgress]] (limit, extent)\n# {{abbreviation of|越南|lang=ja|tr=Betonamu|t=[[Vietnam]]}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|えつ|hhira=ゑつ}}\n\n# {{lb|ja|historical}} the [[w:Yue_people|Yue people]] to the south of ancient China"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

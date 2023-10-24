@@ -1,0 +1,157 @@
+{
+  "title": "目",
+  "ns": 0,
+  "id": 21567,
+  "timestamp": 1554185327000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|眼|且|自|耳|貝|見|罒}}\n{{character info/subpage}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=目00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もく\n|kanon=ぼく\n|kun=ま-, め-\n|nanori=さかん, さがん, さっか, さつか\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ま|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=ま|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Older, unbound form of {{m|ja|目|tr=me<sub>2</sub>}}. Cognate with {{m|ja|見る|tr=miru||to see}}. Never found in isolation in modern Japanese. Remains as the first syllable of various compounds.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ま}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ま}}\n\n# [[eye]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|目|め}}: an eye (see Etymology 2)\n* {{ja-r|睫|まつげ}}: eyelash\n* {{ja-r|瞼|まぶた}}: eyelid\n* {{ja-r|瞼|まなぶた}}: eyelid\n* {{ja-r|前|まえ}}\n* {{ja-r|瞬く|またたく}}: to blink, to wink\n* {{ja-r|瞬く|まばたく}}: to blink, to wink\n* {{ja-r|瞬ぐ|まじろぐ}}: to blink, to wink\n* {{ja-r|眼|まなこ}}: eyeball\n* {{ja-r|眦|まなじり}}: corner of the eye\n{{der-mid}}\n* {{ja-r|眼間|まなかい}}: between one's eyes\n* {{ja-r|眉|まみえ}}: eyebrow\n* {{ja-r|眉|まゆ}}: eyebrow\n* {{ja-r|眼差し|まなざし}}: a look, gaze\n* {{ja-r|血眼|ちまなこ}}: bloodshot eyes\n* {{ja-r|目深|まぶか}}: wearing low over one's eyes\n* {{ja-r|団栗眼|どんぐり まなこ}}: goggle-eyes (acorn-eyes)\n* {{ja-r|目の当たり|ま の あたり}}: just before one's eyes\n* {{ja-r|寝惚け眼|ねぼけ まなこ}}: sleepy eyes\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|め|yomi=k}}\n\n{{IPAfont|⟨me<sub>2</sub>⟩}} → *{{IPAchar|[məj]}} → {{IPAchar|/me/|[me]}}\n\nFrom {{inh|ja|ojp|sort=め|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Shift from ''ma'' above, formed through fusion of {{compound|ja|sort=め|目|tr1=ma|pos1=unbound form|い|tr2=i|pos2=emphatic nominal particle}}. Now the modern Japanese term for {{m|en|eye}}.\n\nMay also be cognate with {{m|ja|芽|tr=me||bud, shoot}},<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> perhaps from the “visually prominent feature” sense.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|め|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|眼}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|め}}\n\n# an [[eye]]\n#: {{ja-usex|'''目'''が[[かゆい]]です。|'''め''' が かゆい です。|My '''eyes''' feel itchy.}}\n#: {{ja-usex|[[眠い|眠]]そうな'''目'''を[[する]]、眠そうな'''目'''を[[こする]]|ねむそう な '''め''' を する、ねむそう な '''め''' を こする|to have a sleepy look on one's face ('''eyes''' that look sleepy), to rub sleepy '''eyes'''}}\n# [[visually]] [[prominent]] [[feature]] of something:\n## {{short for|lang=ja|賽の目|tr=sai no me||[[dice]] [[pip]]|sort=め}}\n##* {{quote-book|||{{lj|決闘者の栄光 －記憶の断片－ side：武藤遊戯}}\n|||date=Jan 10 2015\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|[悪](あく)[魔](ま)のサイコロ}}\n|trans-chapter=Demon’s Die\n|trans-title=Duelist Road －Piece of Memory－ side: Mutō Yūgi}}\n##*: {{ja-usex|①：サイコロを１%回%振る。相%手フィールドのモンスターの攻%撃%力・守%備%力は、ターン終%了%時まで出た'''目'''の数×１００ダウンする。|①：サイコロを１%かい%ふる。あい%てフィールドのモンスターのこう%げき%りょく・しゅ%び%りょくは、ターンしゅう%りょう%じまででた'''め'''のかず×１００ダウンする。|①: Roll a die once. Until the end of this turn, the attack and defense strength of the monsters on your opponent’s field decreases by the result × 100.|rom=Ichi: Saikoro o ikkai furu. Jibun fīrudo no monsutā no kōgekiryoku shubiryoku wa, tān shūryōji made deta '''me''' no kazu × hyaku daun suru.}}\n##* {{quote-book|||{{lj|STRUCTURE DECK R　－真帝王降臨－}}\n|||date=Sep 19 2015\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|サイコロン}}\n|trans-chapter=Dicyclone\n|trans-title=STRUCTURE DECK R －Advent of the True Sovereign－}}\n##*: {{ja-usex|①：サイコロを１%回%振り、出た'''目'''の効%果を適%用する。|①：サイコロを１%かい%ふり、でた'''め'''のこう%かをてき%ようする。|rom=Ichi: Saikoro o ikkai furi, deta me no kōka o tekiyō suru.|①: Roll a die once, then apply an effect accordingly to the result.}}\n## [[experience]]\n##: {{synonyms|ja|体験}}\n##: {{ja-usex|[[痛い]]'''目'''に[[遭う]]|いたい '''め''' に あう|to go through something terrible}}\n##: {{ja-usex|[[酷い]]'''目'''に遭う|ひどい '''め''' に あう|to meet a terrible fate}}\n##: {{ja-usex|[[大変]]な'''目'''に遭う|たいへん な '''め''' に あう|experience something serious}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|目%垢|め%あか|eye gunk}}\n* {{ja-r|目%玉|め%だま|[[eyeball]]}}\n* {{ja-r|目%糞|め%くそ}}, {{ja-r|目%屎|め%くそ|eye gunk}}\n* {{ja-r|盲|めくら|blindness}}\n* {{ja-r|横%目|よこ%め|sidelong glance}}\n* {{ja-r|雪%目|ゆき%め|snow blindness}}\n* {{ja-r|茶%目|ちゃ%め|playfulness}}\n* {{ja-r|生真面目|きまじめ|person who is too serious}}\n* {{ja-r|近%眼|ちか%め|nearsightedness}}\n* {{ja-r|眼鏡|めがね|glasses}}\n* {{ja-r|目付き|めつき|look, expression of the eyes}}\n* {{ja-r|片%目|かた%め|one eye}}\n* {{ja-r|血眼|ちめ|bloodshot eyes}}\n* {{ja-r|遠%眼鏡|とお%めがね|a telescope}}\n* {{ja-r|黒%眼鏡|くろ%めがね|sunglasses, dark glasses}}\n* {{ja-r|黒%目|くろ%め|a black iris, an eye with large pupils or irises}}\n* {{ja-r|色%眼鏡|いろ%めがね|colored glasses}}\n* {{ja-r|虫%眼鏡|むし%めがね|a magnifying glass}}\n* {{ja-r|猫%目%石|ねこ%め%いし|a cat's eye (jewel)}}\n* {{ja-r|目%脂|め%やに|eye gunk}}\n* {{ja-r|目%尻|め%じり|the corner of an eye}}\n* {{ja-r|眼医者|めいしゃ|an eye doctor}}\n* {{ja-r|眼鏡%屋|めがね%や|an optician}}\n* {{ja-r|眼鏡%橋|めがね%ばし|an arched bridge}}\n* {{ja-r|赤%目|あか%め|red eyes}}\n* {{ja-r|パンダ目|パンダめ|black eye}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|め|suffix}}\n\n# [[-st]], [[-nd]], [[-rd]], or [[-th]], for ordinal numbers (e.g. 8th or eighth, 9th or ninth)\n#: {{ja-usex|三本'''目'''のボトル|さんぼん-'''め''' の ボトル|third bottle}}\n# [[visually]] [[prominent]] [[feature]] of something\n#: {{ja-usex|結び'''目'''、編み'''目'''、効き'''目'''|むすび'''め'''、あみ'''め'''、きき'''め'''|[[knot]] (literally, “tying + [visual feature]”), [[stitch]] (literally, “knitting + [visual feature]”), [[effect]] or [[efficacy]] (literally, “working, having an effect + [visual feature]”)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|もく|yomi=o}}\nFrom {{bor|ja|ltc|sort=もく|-}} {{m|ltc|目}}. [[呉音#Japanese|Go'on]], so likely an older borrowed reading. Compare modern {{cog|yue|-}} reading ''muk<sub>6</sub>'', or modern {{cog|wuu|-}} {{IPAchar|/mʊʔ¹²/}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|もく|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|もく}}\n\n# {{lb|ja|taxonomy|sort=もく}} an [[order]] in [[biology]]: smaller than a [[class]], bigger than a [[family]]\n# a [[playing piece]] in a [[board game]], a [[stone]] in the game of [[go]]\n# a [[point]] in the game of [[go]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|目%迎|もく%げい}}: turning one's [[gaze]] towards the direction from which someone is coming\n* {{ja-r|目%撃|もく%げき}}: [[witness]]ing something\n* {{ja-r|目%今|もく%こん}}: also ''mokkon'':\n* {{ja-r|目%算|もく%さん}}: [[eyeball]]ing something, making a visual estimate or calculation of something\n* {{ja-r|目%視|もく%し}}: [[look]]ing at something with one's own eyes\n* {{ja-r|目%次|もく%じ}}: a [[table of contents]]\n* {{ja-r|目%笑|もく%しょう}}: [[smile|smiling]] with one's eyes; smiling at one another, catching another's eye and smiling or laughing\n* {{ja-r|目%睫|もく%しょう}}: eyes and [[eyelash]]es; extremely close by\n* {{ja-r|目%睫 の 間|もく%しょう の かん}}: the space between the eyes and eyelashes; extremely close by\n* {{ja-r|目%食 耳視|もく%しょく じし}}: \"eating with one's eyes, looking with one's ears\" → choosing foods based on what they look like instead of their taste, and choosing fashions based on what people say instead of how comfortable they are → all style and no substance\n* {{ja-r|目%銭|もく%せん}}: a kind of [[tax]] levied in the [[w:Kamakura period|Kamakura]] and [[w:Muromachi period|Muromachi period]]s; a tax on [[酒#Japanese|sake]] [[bottle]]s; a [[property]] tax based on the [[area]] of [[agricultural]] land\n* {{ja-r|目%前|もく%ぜん}}: right [[before]] one's [[eye]]s, [[right away]], [[imminent]], [[immediate]]\n* {{ja-r|目%送|もく%そう}}: [[follow]]ing something or someone with one's eyes\n* {{ja-r|目%測|もく%そく}}: [[eyeball]]ing a [[distance]] or [[length]]\n* {{ja-r|目%代|もく%だい}}: an [[agent]] or [[executor]] of a lord starting from the late [[w:Heian period|Heian period]]; an on-site [[official]] or [[deputy]] starting from the [[w:Kamakura period|Kamakura period]]; a [[local]] [[administrator]] in the [[w:Edo period|Edo period]]\n* {{ja-r|目%的|もく%てき}}: [[intent]], [[purpose]], [[goal]], [[objective]]\n* {{ja-r|目%途|もく%と}}: [[mark]], [[guide]], [[target]]\n* {{ja-r|目%睹|もく%と}}: uncommon alternative for ''mokugeki'': [[witness]]ing something\n* {{ja-r|目%標|もく%ひょう}}: [[target]], [[goal]], [[aim]]; [[landmark]]\n* {{ja-r|目%礼|もく%れい}}: [[greet]]ing or [[acknowledge|acknowledging]] someone with one's eyes\n* {{ja-r|目%録|もく%ろく}}: a [[list]], a [[catalog]]\n* {{ja-r|目%論見|もく%ろみ}}, {{ja-r|目%論|もく%ろみ}}: a [[plan]], a [[scheme]], a [[design]], a [[plot]]\n* {{ja-r|目%論む|もく%ろむ}}: to [[plan]], to [[scheme]], to [[design]], to [[plot]]\n* {{ja-r|目%割|もく%われ}}: a [[plot]], [[conspiracy]], or other [[hidden]] [[plan]] being [[expose]]d or [[found out]]\n{{der-mid}}\n* {{ja-r|細%目|さい%もく}}: [[detail]]s, [[particular]]s, [[breakdown]]\n* {{ja-r|真%面%目|しん%めん%もく}}: also ''shinmenboku'': the [[real]] [[appearance]] or [[worth]] of something; [[serious]]\n* {{ja-r|新%面%目|しん%めん%もく}}: also ''shinmenboku'': a new [[appearance]] or [[look]] for something\n* {{ja-r|不%面%目|ふ%めん%もく}}: alternate reading for ''fumenboku'': [[dishonor]], loss of [[face]]\n* {{ja-r|面%目|めん%もく}}: alternate reading for ''menboku'': one's [[honor]], one's metaphorical [[face]]; external [[appearance]]\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{ja-verb-suru|もく}}\n\n# to [[regard]], to [[look]] [[upon]]\n# to [[see]], to [[look]] {{qualifier|uncommon}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Conjugation",
+                      "text": "{{ja-suru|もく}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|ぼく|yomi=o}}\n\nFrom {{bor|ja|ltc|sort=ほく'|-}} {{zh-l|目}}. [[漢音#Japanese|Kan'on]], so likely a later borrowed reading. Compare modern {{cog|nan|-}} reading ''bo̍k''.\n\nOnly used in compounds.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ぼく}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|ぼく|affix}}\n\n# an [[eye]]\n# a [[look]] or [[appearance]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|瞬%目|しゅん%ぼく}}: the blink of an eye, a moment, an instant\n* {{ja-r|真%面%目|しん%めん%ぼく}}: alternate reading for ''shinmenmoku'': the [[real]] [[appearance]] or [[worth]] of something; [[serious]]\n* {{ja-r|新%面%目|しん%めん%ぼく}}: alternate reading for ''shinmenmoku'': a new [[appearance]] or [[look]] for something\n* {{ja-r|不%面%目|ふ%めん%ぼく}}: also ''fumenmoku'': [[dishonor]], loss of [[face]]\n* {{ja-r|面%目|めい%ぼく}}: alternate reading for ''menboku'' (see below)\n* {{ja-r|面%目|めん%ぼく}}: also ''menmoku'': one's [[honor]], one's metaphorical [[face]]; external [[appearance]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Anatomy|め]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "贈",
+  "ns": 0,
+  "id": 27737,
+  "timestamp": 1538062033000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|赠}}\n{{character info/new}}\n{{character info/new|codepoint=0xfa65}}\n{{character info/new|codepoint=0xfac1}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|贈|赠|贈|贈}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note difference between Chinese form, which uses {{l|mul|曾}}, and Japanese {{w|shinjitai}} which uses {{l|mul|曽}}.\n\nIn Korea, the upper right component is {{l|mul|八}} instead of {{l|mul|丷}}, which is also the historical form found in the {{w|Kangxi dictionary}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=154|rad=貝|as=12|asj=11|sn=19|snj=18|four=68866|canj=BCCWA|ids=⿰貝曾(GHTKV,U+FA65),⿰貝曽(J,U+FAC1)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[囎]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1212.150|dkj=36920|dj=1678.190|hdz=63658.090|uh=8D08|ud=36104|bh=C3D8|bd=50136}}\n* {{Han ref|uh=FA65}}\n* {{Han ref|uh=FAC1}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

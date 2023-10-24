@@ -1,0 +1,39 @@
+{
+  "title": "苾",
+  "ns": 0,
+  "id": 24876,
+  "timestamp": 1548359310000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=艸05}}\n\n# [[smell]]\n# [[fragrance]]\n# [[aroma]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=びち\n|kanon=ひつ\n|kun=かお-る}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|苾蒭|びっしゅ}}, {{ja-r|苾芻|びっしゅ}}, {{ja-r|苾蒭|ひっすう|[[bhikkhu]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "戮",
+  "ns": 0,
+  "id": 15944,
+  "timestamp": 1547126878000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=戈11}}\n\n# [[kill]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=ろく<ろく, る<る\n|kanon=りく<りく, りょう<れう, りゅう<りう\n|kun=ころ.す<ころ.す}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:DKJ|戮}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

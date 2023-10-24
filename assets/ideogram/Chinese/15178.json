@@ -1,0 +1,44 @@
+{
+  "title": "弳",
+  "ns": 0,
+  "id": 15178,
+  "timestamp": 1514278316000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|弪}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=弪}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jìng\n|c=ging3\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Taiwan|mathematics}} [[radian]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|弧度}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|弳度}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

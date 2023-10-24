@@ -1,0 +1,64 @@
+{
+  "title": "製",
+  "ns": 0,
+  "id": 26601,
+  "timestamp": 1546573273000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|制}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=衣08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せ\n|kanon=せい\n|kun=た-つ, つく-る\n}}{{attn|ja|hyphens need verification}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|自家製|じかせい}}: home-made\n* {{ja-r|製作|せいさく}}: manufacture, production\n* {{ja-r|製造|せいぞう}}: manufacturing\n* {{ja-r|製品|せいひん}}: [[product]], manufactured good\n* {{ja-r|石製|せきせい}}: [[stonen]]\n* {{ja-r|銅製|どうせい}}: [[coppern]]\n* {{ja-r|和製|わせい}}: Japanese-made\n{{der-bottom}}\n\n{{ja-kanjitab|せい|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=せい}} {{m|zh|製|tr=tsyej<sup>H</sup>}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|せい|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|せい}}\n\n# [[make]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|せい|suffix}}\n\n# -made\n#: {{ja-usex|日本'''製'''|^にほん-'''せい'''|made in Japan}}\n# made of\n#: {{ja-usex|木'''製'''|もく'''せい'''|made of wood, wooden}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

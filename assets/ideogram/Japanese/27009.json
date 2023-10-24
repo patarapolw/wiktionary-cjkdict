@@ -1,0 +1,39 @@
+{
+  "title": "誉",
+  "ns": 0,
+  "id": 27009,
+  "timestamp": 1546197949000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|譽}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|誉|譽}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=言06|kyu=譽}}\n\n# {{defn|lang=ja|sort=言06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よ\n|kanon=よ\n|kun=ほま-れ, ほ-める\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|たかし}}\n\n# {{given name|male|lang=ja}}\n\n{{ja-pos|proper|ほまれ}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|たかし]]\n[[Category:Japanese male given names|ほまれ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

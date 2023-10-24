@@ -1,0 +1,46 @@
+{
+  "title": "枡",
+  "ns": 0,
+  "id": 17382,
+  "timestamp": 1535066761000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木04|shin=桝}}\n\n# {{defn|lang=ja|sort=木04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=ます-\n}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|ます|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ます}}\n\n# [[masu]] {{gloss|square wooden box}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|枡記号|ますきごう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

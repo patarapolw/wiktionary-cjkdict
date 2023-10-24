@@ -1,0 +1,66 @@
+{
+  "title": "唇",
+  "ns": 0,
+  "id": 12389,
+  "timestamp": 1547072354000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|脣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口07}}\n\n# [[lip]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しん, じゅん\n|kanon=しん, しゅん\n|kanyoon=しん\n|kun=くちびる-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|陰唇|いんしん|[[labia]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|くちびる|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|くちびる|acc=0|dev=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|kyu=脣|くちびる}}\n\n# [[lip]]s\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}\n#*: 唇口 上音眞, 訓'''久知比流'''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|上%唇|うわ%くちびる}}, {{ja-r|上%唇|じょう%しん}}\n* {{ja-r|下%唇|した%くちびる}}, {{ja-r|下%唇|か%しん}}\n* {{ja-r|紅%唇|こう%しん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Nara Ibun 3}}\n\n[[Category:Japanese basic words|くちびる]]\n[[Category:ja:Anatomy|くちびる]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

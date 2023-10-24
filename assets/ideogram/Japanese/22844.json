@@ -1,0 +1,39 @@
+{
+  "title": "箭",
+  "ns": 0,
+  "id": 22844,
+  "timestamp": 1542359721000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹09}}\n\n# {{defn|lang=ja|sort=竹09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=せん\n|kun=や-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|yomi=k|や}}\n{{ja-noun|や}}\n\n# {{altspell|矢|lang=ja||[[arrow]]}}."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

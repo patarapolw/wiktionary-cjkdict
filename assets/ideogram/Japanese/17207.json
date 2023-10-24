@@ -1,0 +1,73 @@
+{
+  "title": "曳",
+  "ns": 0,
+  "id": 17207,
+  "timestamp": 1553597576000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|曵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=曰02}}\n\n# [[drag]], [[pull]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=えい<えい<𛀁い\n|kanon=えい<えい<𛀁い\n|kun=ひき-, ひ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|曳舞|ひきまい}}\n* {{ja-r|曳%家|ひき%や}}\n* {{ja-r|曳き山|ひきやま}}\n* {{ja-r|媾曳|あいびき}}\n* {{ja-r|尾%曳|オ%ヒキ}}\n* {{ja-r|車%曳|くるま%-びき}}\n* {{ja-r|錏%曳|しころ%-びき}}\n* {{ja-r|蓑曳|ミノヒキ}}\n* {{ja-r|羽%曳%野|^は%びき%の}}\n* {{ja-r|虫曳 虻|ムシヒキ アブ}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Used in {{w|Old Japanese}} as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAchar|⟨ye⟩}}<!--, possibly {{IPAfont|⟨ye<sub>2</sub>⟩}}-->."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えい|yomi=on}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|曳}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えい|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えい}}\n\n# [[drag]]; [[pull]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|曳曳|えいえい}}\n* {{ja-r|曳行|えいこう}}\n* {{ja-r|曳航|えいこう}}\n* {{ja-r|曳光弾|えいこうだん}}\n* {{ja-r|曳索|えいさく}}\n* {{ja-r|曳船|えいせん}}\n* {{ja-r|曳白|えいはく}}\n* {{ja-r|曳尾|えいび}}\n* {{ja-r|曳裂|えいれつ}}\n* {{ja-r|牽曳|けんえい}}\n* {{ja-r|輓曳 競馬|ばんえい けいば}}\n* {{ja-r|揺曳|ようえい}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ひき|yomi=k}}\n{{ja-see|ひき}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

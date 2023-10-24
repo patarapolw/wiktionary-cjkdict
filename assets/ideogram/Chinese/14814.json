@@ -1,0 +1,37 @@
+{
+  "title": "巰",
+  "ns": 0,
+  "id": 14814,
+  "timestamp": 1525160606000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|巯}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=巯}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{blend|zh|氫|tr1=qīng|t1=hydrogen|硫|tr2=liú|t2=sulfur}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qiú\n|c=kau4\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic chemistry}} [[sulfhydryl]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

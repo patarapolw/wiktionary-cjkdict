@@ -1,0 +1,121 @@
+{
+  "title": "力",
+  "ns": 0,
+  "id": 11719,
+  "timestamp": 1553252428000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|カ|九|丸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wikipedia|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=力00}}\n\n# [[power]], [[force]], [[strength]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りき\n|kanon=りょく\n|kun=ちから-, りき-む\n|nanori=いさお, いさむ, お, か, ちか, ちから, じから, つとむ, よし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|ちから}}\nFrom {{etyl|ojp|ja|sort=ちから}}. Compound of {{etyl|ojp|ja|sort=ちから}} elements {{compound|ja|sort=ちから|霊|tr1=chi|t1=power, life force, essence|から|tr2=kara|t2=from}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|ちから|y=k|acc=3|dev=1|acc_ref=NHK,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ちから}}\n\n# [[strength]]; [[power]]; [[force]]\n# {{lb|ja|physics|sort=ちから}} [[force]]\n# [[ability]]; [[capacity]]\n# [[effort]]\n# {{lb|ja|sort=ちから|tarot}}: [[strength|Strength]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|力%足|ちから% あし}}: a [[tense]]d [[leg]]; [[tensing]] one's [[leg]]s; {{qualifier|sumo}} the traditional [[sumo]] [[stomp]] at the beginning of a [[match]]\n* {{ja-r|力%合わせ|ちから% あわせ}}: matching strength: a [[competition]] of [[strength]]; {{qualifier|by extension}} a [[sumo]] [[match]]\n* {{ja-r|力%軍|ちから% いくさ}}: a [[test]] of [[strength]], a [[competition]] of [[strength]]\n* {{ja-r|力%石|ちから% いし}}: a large [[stone]] used as a [[dumbbell]] for purposes of [[test]]s of [[strength]]\n* {{ja-r|力%一杯|ちから% いっぱい}}: with all one's strength, as hard as one can\n* {{ja-r|力%持ち|ちから%もち}}: a very [[strong]] [[person]]\n* {{ja-r|力%添え|ちから%ぞえ}}: [[help]], [[assistance]], [[aid]]\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ちから}}\n\n# {{given name|male|lang=ja|sort=ちから}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|りき}}\nFrom {{etyl|ltc|ja|sort=りき}} {{m|ltc|力|tr=lik}}. The [[呉音#Japanese|goon]] reading, so likely the initial borrowing. Compare modern {{etyl|yue|-}} reading ''lik<sup>6</sup>''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|りき|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|りき}}\n\n# [[power]], [[strength]]\n#: {{ja-usex|'''力'''学、'''力'''士、二馬'''力'''|'''りき'''がく、'''りき'''し、にば'''りき'''|“'''power''' studies” (dynamics), “'''strength''' person” (sumo wrestler), two horse'''power'''}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|りき}}\n\n# [[physical]] [[strength]]\n# {{lb|ja|sort=りき|Buddhism}} [[capability]], especially [[mystical]] [[power]]\n# {{lb|ja|sort=りき|Buddhism}} the [[suchness]] of [[ability]], one of the [[w:Ten suchnesses|Ten Suchnesses]] in Mahayana Buddhism\n# short for {{m|ja|力者|tr=rikisha}}: a [[strong]] person\n# {{lb|ja|sort=りき|archaic}} short for {{m|ja|車力|tr=shariki}}, {{m|ja|力車|tr=rikisha}}: a [[rickshaw]]\n# {{lb|ja|sort=りき|archaic}} a [[rickshaw]] operator's [[wage]]s",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|動%力|どう%りき|[[energy]], [[motive]] [[force]]}}\n* {{ja-r|馬%力|ば%りき|[[horsepower]]}}\n* {{ja-r|力%士|りき%し|[[sumo]] [[wrestler]]}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=o|りょく}}\nFrom {{etyl|ltc|ja|sort=りょく}} {{m|zh|力}}, but apparently from a different source dialect or at a different time than {{m|zh|力|tr=lik}}. The [[漢音#Japanese|kan'on]] reading, so likely a later borrowing. Compare reconstructed {{etyl|ltc|-}} reading {{IPAchar|/li̯ək/}} or {{etyl|ko|-}} reading ''ryeok''.\n\nOnly found in compounds and idioms in modern Japanese.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|りょく}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|りょく}}\n\n# [[strength]], [[power]]\n#: {{ja-usex|'''力'''争、権'''力'''|'''りょく'''そう、けん'''りょく'''|“strength struggle” (a hard fight), “right power” (authority)}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|引%力|いん%りょく|[[attractive]] [[force]]}}\n* {{ja-r|営%力|えい%りょく|[[geomorphic]] [[agent]]}}\n* {{ja-r|気%力|き%りょく|[[spirit]]; [[drive]]; [[morale]]; [[vigor]]}}\n* {{ja-r|斥%力|せき%りょく|[[repulsive]] [[force]]}}\n* {{ja-r|動%力|どう%りょく|[[energy]], [[motive]] [[force]]}}\n* {{ja-r|力%争|りょく%そう|[[test]] of [[strength]]; [[hard]] [[fight]]}}\n* {{ja-r|努%力|ど%りょく|[[effort]], [[endeavor]]}}\n* {{ja-r|協%力|きょう%りょく|[[cooperation]]; working together}}\n* {{ja-r|体%力|たい%りょく|bodily [[strength]]; physical power}}\n* {{ja-r|魅%力|み%りょく|[[allure]], [[charm]], [[glamour]]}}\n* {{ja-r|実%力|じつ%りょく|[[merit]], [[true]] [[ability]]; [[force]]}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

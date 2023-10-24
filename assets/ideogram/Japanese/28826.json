@@ -1,0 +1,58 @@
+{
+  "title": "邑",
+  "ns": 0,
+  "id": 28826,
+  "timestamp": 1525557227000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|阝|阜|巴}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=邑00}}\n\n# {{defn|lang=ja|sort=邑00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おう<おふ\n|kanon=おう<あふ, ゆう<いふ\n|kun=くに-, むら-, うれ-える, さと-\n|nanori=すみ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ゆう|hhira=いふ}}\n\n# Eup, an administrative division in Korea like a town"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{wp|Radical 163}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おおざと|hhira=おほざと}}\n\n# the \"large village\" radical, radical 163\n\n{{C|ja|Chinese character components}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

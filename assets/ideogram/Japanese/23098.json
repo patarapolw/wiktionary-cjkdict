@@ -1,0 +1,49 @@
+{
+  "title": "粒",
+  "ns": 0,
+  "id": 23098,
+  "timestamp": 1553563370000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=米05}}\n\n# [[grains]]\n# [[drop]]\n# counter for tiny particles",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りゅう\n|kanon=りゅう\n|kun=つぶ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|粒子|りゅうし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|つぶ}}\n\n# [[grain]], [[bead]], [[drop]]"
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|つぶ|counter}}\n\n# counter for small round objects including grains, seeds, pills, drops"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

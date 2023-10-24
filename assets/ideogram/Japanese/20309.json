@@ -1,0 +1,49 @@
+{
+  "title": "片",
+  "ns": 0,
+  "id": 20309,
+  "timestamp": 1546676504000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=片00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へん\n|kanon=へん\n|kun=かた-, ひら-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|刀|かたな}}\n* {{ja-r|片%仮名|かた%かな}}\n* {{ja-r|片%道|かた%みち}}\n* {{ja-r|片%思い|かた%おもい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Cognate with {{m|ja|方|tr=kata}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かた}}\n\n# one part of a pair\n# partial"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

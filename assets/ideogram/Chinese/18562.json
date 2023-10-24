@@ -1,0 +1,80 @@
+{
+  "title": "氐",
+  "ns": 0,
+  "id": 18562,
+  "timestamp": 1537014967000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp|zh:氐|en:Di (Five Barbarians)}}\n{{zh-wp|zh:氐宿|en:Root (Chinese constellation)}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|氏|t1=(bowing figure)|一|ls=p}} – as with 氏, but with a line underneath: a bowing figure standing on the ground."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=dī\n|c=dai1\n|mn=tí/te\n|mn-t=di1\n|mc=2\n|oc=1\n|cat=n\n}}\n{{attention|zh|what is mc reading 1 (mandarin reflex \"zhi\")?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{w|Di (Five Barbarians)|Di}} {{gloss|[[ethnic group]]}}\n# {{lb|zh|astronomy}} {{w|Root (Chinese constellation)|Root}} {{gloss|Chinese [[constellation]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|氐宿|氐族|氐羌|氐士貉}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=dǐ\n|c=dai2\n|mn=té\n|mn-t=di2\n|mc=\n|oc=2\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[basis]]; [[fundamental]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|根氐}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A02110}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

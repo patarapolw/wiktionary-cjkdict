@@ -1,0 +1,87 @@
+{
+  "title": "隠",
+  "ns": 0,
+  "id": 30729,
+  "timestamp": 1548570896000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|隱|隠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|隠|隱}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=阜11|kyu=隱}}\n\n# to [[hide]], [[conceal]]\n# [[hidden]], [[concealment]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん\n|kanon=いん\n|kun=かく-す, かく-れる, かく-ろ.う, こも-る, なば-る\n|nanori=お, がくし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|隠れる|かくれる}}\n* {{ja-r|隠す|かくす}}\n* {{ja-r|隠さう|かくさう}}\n* {{ja-r|隠なす|かくなす}}\n* {{ja-r|隠ねる|かくねる}}\n* {{ja-r|隠む|くむ}}\n* {{ja-r|隠らう|かくらう}}, {{ja-r|隠らう|こもらう}}\n* {{ja-r|隠らく|かくらく}}\n* {{ja-r|隠る|かくる}}, {{ja-r|隠る|こもる}}, {{ja-r|隠る|なばる}}, {{ja-r|隠る|なまる}}\n* {{ja-r|隠ろう|かくろ.う}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いん|yomi=kanon}}\nFrom {{der|ja|ltc|sort=いん|-}} {{ltc-l|隱|id=1}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いん|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いん}}\n\n# [[hide]]; [[conceal]]; be [[hidden]]; be [[invisible]]\n# [[seclude]]; [[hermit]]; [[recluse]]\n# [[pity]]; [[sympathize]]\n# {{short for|隠岐国|lang=ja|tr=Oki no kuni||{{w|Oki Province}}}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|隠蔽|いんぺい}}: [[concealment]]\n* {{ja-r|隠匿|いんとく}}: [[concealment]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おん|yomi=goon}}\nFrom {{der|ja|ltc|sort=おん|-}} {{ltc-l|隱|id=1}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|おん|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|おん}}\n\n# {{alternative form of|隠|lang=ja|tr=in}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|隠密|おんみつ}}: A [[spy]] or [[undercover]] [[detective]].\n* {{ja-r|隠退|おんたい}}: [[retreat]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "閄",
+  "ns": 0,
+  "id": 30406,
+  "timestamp": 1553383360000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|門人}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𬮘}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|門|人|t1=door|t2=human|ls=ic}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=huò\n|c=wik6\n|h=\n|md=\n|mn=\n|w=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n<!-- 《漢語方言大詞典》：（1）冀魯官話。河北威縣。（2）吳語。浙江、浦江。（3）閩語。廣東電白、揭陽、潮州、汕頭。 -->\n# {{lb|zh|dialectal|obsolete}} the [[sound]] produced to [[scare#Verb|scare]] someone after [[emerging]] from [[hiding]]\n#* {{zh-x|粵 中 俗字 有 閄，和 馘 切，隱身 忽 出 驚 人 之 聲 也。||CL|ref={{w2|zh|翟灝}} {{w2|zh|pref=《|s:通俗編|通俗編|suf=·}}{{w2|zh|s:通俗編/33|卷三十三·語辭|suf=》}}, originally from {{w2|zh|pref=《|s:桂海虞衡誌|桂海虞衡誌|suf=》}}}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=shǎn\n|c=\n|h=\n|md=\n|mn=\n|w=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal|obsolete}} to [[suddenly]] [[emerge]] after [[hiding]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{lang|zh|《漢語方言大詞典》}} ({{lang|zh|中華書局}}, 1999), page 1432. <!-- Note: Not the same as 《現代漢語方言大詞典》 (江蘇教育出版社, 2002) -->"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

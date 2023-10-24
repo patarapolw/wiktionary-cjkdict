@@ -1,0 +1,59 @@
+{
+  "title": "鬣",
+  "ns": 0,
+  "id": 31987,
+  "timestamp": 1531677649000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|巤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=髟15}}\n\n# {{defn|lang=ja|sort=髟15}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=りょう<れふ|kanon=りょう<れふ|kun=たてがみ-}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鬣犬|たてがみ.いぬ}}: [[hyena]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|たてがみ|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|たてがみ|acc=0|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たてがみ}}\n\n# [[mane]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

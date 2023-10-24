@@ -1,0 +1,80 @@
+{
+  "title": "度",
+  "ns": 0,
+  "id": 15018,
+  "timestamp": 1549897248000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|席|庶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=广06}}\n\n# [[degrees]]\n# [[occurrence]]\n# [[time]]\n# [[counter]] [[for]] [[occurrences]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ど, だく\n|kanon=と, たく\n|kun=たび-, はか-る, めもり-, のり-, わた-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der2|lang=ja|度し難い|度外|度外視|度胸|度数|度生|度量|度量衡|度肝|度合い|温度|感度|湿度|震度|態度|丁度|調度|程度|年度}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|たび|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たび}}\n\n# [[time]]; [[whenever]]\n#* {{w|ja:DECO*27|DECO*27}}, {{w2|ja|pref=『|相愛性理論|suf=』}}\n#*: {{ja-usex|「好きだよ」と言う'''度'''に増える「好き」の気持ちは<br>きっと僕が死ぬまで伝えきれないけど|「^すき だ よ」 と いう '''たび''' に ふえる 「すき」 の きもち は <br>きっと ぼく が しぬ まで つたえきれない けど|Although even until I die I definitely cannot express enough my feelings of \"like\" that increase '''when''' you say \"I like you\"}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|時|とき}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|たび|counter}}\n\n# [[time]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|たび|suffix}}\n\n# [[time]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ど}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|ど|suffix}}\n\n# {{lb|ja|geometry|sort=と'}} [[degree]] of an angle\n# degree in temperature, scale, and so on\n# number of times\n# percentage of [[alcohol]] [[concentration]]\n\n{{C|ja|Geometry}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "title": "棗",
+  "ns": 0,
+  "id": 17707,
+  "timestamp": 1541384196000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|枣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木08}}\n# [[jujube]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう<さう\n|kanon=そう<さう\n|kun=なつめ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|酸棗|さんそう}}\n* {{ja-r|大棗|たいそう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|ナツメ}}\n{{wp|Jujube}}\n</div>\n{{ja-kanjitab|なつめ|yomi=kun}}\n\nOriginally a compound of {{compound|ja|sort=なつめ|夏|tr1=natsu|t1=[[summer]]|芽|tr2=me|t2=[[bud]], [[sprout]]|nocat=1}}.<ref>'''2011''', Toshio Komatsu, Hideo Suzuki, {{lang|ja|新明解語源辞典}} (''Shin Meikai Gogen Jiten'') (in Japanese), {{w|Tokyo|Tōkyō}}: {{w|Sanseidō}}, {{ISBN|978-4-385-13990-6}}, page 689</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|なつめ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|なつめ|ナツメ}}\n\n# the [[jujube]] or [[Chinese date]], ''[[Ziziphus jujuba]]''\n#: {{hyper|ja|黒梅擬|tr=kuroumemodoki}}\n# a [[dye]] made from [[dry|dried]] jujube [[fruit]]s\n# a [[small]] [[tea]] [[caddy]] used in the [[tea ceremony]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|棗%貝|ナツメ%ガイ}}\n* {{ja-r|棗%形 手水%鉢|なつめ%-がた ちょうず%ばち}}\n* {{ja-r|棗%玉|^なつめ%だま}}\n* {{ja-r|棗 椰%子|ナツメ ヤ%シ|[[date palm]]|pos={{taxlink|Phoenix dactylifera​|species|ver=180130}}}}\n* {{ja-r|唐%棗|から%-なつめ}}\n* {{ja-r|小%棗|こ%なつめ}}\n* {{ja-r|核太 棗|サネブト ナツメ|rom=-}}, {{ja-r|酸 棗|サネブト ナツメ}}\n* {{ja-r|浜 棗|ハマ ナツメ}}\n* {{ja-r|平 棗|ひら なつめ}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|五果|ごか|rom=-}}, {{ja-r|五菓|ごか|[[five]] [[fruit]]s}}: {{ja-r|桃|もも|[[peach]]}}, {{ja-r|李|すもも|{{vern|Prunus salicina|Japanese plum}}}}, {{ja-r|杏|あんず|[[apricot]]}}, {{ja-r|棗|なつめ|'''jujube'''}}, {{ja-r|栗|くり|{{vern|Japanese chestnut}}}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|なつめ}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=なつめ}}\n# {{surname|lang=ja|A=a|nodot=1|sort=なつめ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "吐",
+  "ns": 0,
+  "id": 12109,
+  "timestamp": 1549808150000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口03}}\n\n# [[vomit]], [[belch]], [[spit]] ([[out]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=と\n|kun=は-く, つ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|哯吐|つだみ}}: (of an infant, etc) [[spitting]] out [[milk]] after taking a drink\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

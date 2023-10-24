@@ -1,0 +1,54 @@
+{
+  "title": "塍",
+  "ns": 0,
+  "id": 13282,
+  "timestamp": 1495655527000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|朕|土|ls=psc|c1=p|c2=s}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=chéng\n|c=sing4\n|md=chìng\n|w=3zan,3zen\n|w_note=3zan - vernacular (in {{zh-l|*巴塍}}); 3zen - literary\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[raised]] [[path]] between [[field]]s; [[dyke]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|田塍}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|田|v|(''Min'') [[paddy field]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

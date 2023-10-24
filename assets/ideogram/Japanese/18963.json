@@ -1,0 +1,107 @@
+{
+  "title": "浬",
+  "ns": 0,
+  "id": 18963,
+  "timestamp": 1549694077000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|里}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=水07}}\n\n# [[nautical mile]] {{qualifier|unit of distance}}\n# [[knot]] {{qualifier|unit of speed}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=り\n|kanon=り\n|kun=かいり-, ノット-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|り}}\n\nProbably from {{bor|ja|ltc|sort=り|-}} {{ltc-l|浬}}; however, the {{m|zh|浬}} character does not appear in ancient texts.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|り}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|り}}\n\n# a [[nautical mile]]: the [[length]] of roughly one [[minute]] of [[latitude]], 1,852 [[meter]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=irr|かいり}}\n\nFrom {{bor|ja|ltc|sort=かいり|-}} compound {{ltc-l|海里|lit=sea, ocean + unit of distance}}. The single-kanji spelling is an example of {{ja-jukujikun|sort=かいり}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|かいり|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|海里}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かいり}}\n\n# a [[nautical mile]]: the [[length]] of roughly one [[minute]] of [[latitude]], 1,852 [[meter]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=irr|のっと}}\n\n[[Appendix:Glossary#loanword|Borrowed]] from {{bor|ja|en|sort=のっと|knot|pos=unit of speed}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> The kanji spelling is an example of {{ja-jukujikun|sort=のっと}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|ノット|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|節}}, {{l|ja|ノット}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ノット}}\n\n# a [[knot]]: a [[nautical]] [[unit]] of [[speed]], one [[nautical mile]] [[per]] [[hour]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The katakana spelling {{l|ja|ノット}} is more common in modern Japanese than either kanji spelling of {{m|ja|浬}} or {{m|ja|節}}."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

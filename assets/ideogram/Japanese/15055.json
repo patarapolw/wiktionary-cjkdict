@@ -1,0 +1,53 @@
+{
+  "title": "廃",
+  "ns": 0,
+  "id": 15055,
+  "timestamp": 1507152761000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|廢|废}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|廃|廢}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=广09|kyu=廢}}\n\n# [[abolish]], [[obsolete]]\n# [[cessation]]\n# [[discarding]], [[abandon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほ\n|kanon=はい\n|kun=すた-れる, すた-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はい|yomi=o}}\n\nFrom {{etyl|zhx|ja}}. Shortening of {{m|ja|廃人|tr=haijin}}, a back-formation from {{m|ja|ネトゲ廃人||tr=netoge haijin|slang: online games addict}}. {{attention|ja|...i think. please check --03:36, 7 April 2016 (UTC)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|はい}}\n\n# {{lb|ja|slang}} [[addict]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|厨|ちゅう}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

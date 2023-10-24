@@ -1,0 +1,126 @@
+{
+  "title": "鯱",
+  "ns": 0,
+  "id": 32215,
+  "timestamp": 1507524021000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=魚08}}\n\n# [[killer whale]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=しゃち-, しゃちほこ-, しゃっちょこ-\n}}\n\n[[Category:Japanese-only CJKV Characters|魚+08]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しゃち|yomi=k}}\n{{swp|lang=ja}}\n{{swp|lang=ja|シャチ}}\n{{rfe|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|しゃち|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しゃち|シャチ}}\n\n# a [[killer whale]]\n# {{lb|sort=しゃち|ja|Japanese mythology}} a {{w|shachihoko}}, a [[carp]] with the [[head]] of a [[tiger]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{s|killer whale}} {{ja-r|逆%叉|さか%また}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鯱%瓦|しゃち%がわら}}\n* {{ja-r|鯱%張り返る|しゃち%ばりかえる}}\n* {{ja-r|鯱%張る|しゃち%ばる}}\n* {{ja-r|鯱%巻き|しゃち%まき}}\n{{der-bottom}}\n\n{{C|ja|Cetaceans|sort=しゃち}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しゃちほこ|yomi=k}}\nFrom {{com|sort=しゃちほこ|ja|鯱|tr1=shachi|鉾|tr2=hoko}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鯱鉾}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|しゃちほこ|acc=0|dev=3|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しゃちほこ}}\n\n# {{lb|sort=しゃちほこ|ja|Japanese mythology}} a {{w|shachihoko}}, a [[carp]] with the [[head]] of a [[tiger]]\n# a [[Japanese pinecone fish]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{s|Japanese pinecone fish}} {{ja-r|松%毬%魚|まつ%かさ%うお}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鯨に鯱|くじら に しゃちほこ}}\n* {{ja-r|鯱蛾|しゃちほこが}}, {{ja-r|天社蛾|しゃちほこが}}\n* {{ja-r|鯱瓦|しゃちほこがわら}}\n* {{ja-r|鯱立ち|しゃちほこだち}}\n* {{ja-r|鯱張る|しゃちほこばる}}, {{ja-r|鯱張る|しゃちこばる}}\n* {{ja-r|鯱虫|しゃちほこむし}}\n{{der-bottom}}\n\n{{C|ja|Mythological creatures|sort=しゃちほこ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|しゃっちょこ|yomi=k}}\nAlteration of ''shachihoko''.<ref name=\"DJR\"></ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|しゃっちょこ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しゃっちょこ}}\n\n# {{lb|sort=しゃっちょこ|ja|Japanese mythology}} a {{w|shachihoko}}, a [[carp]] with the [[head]] of a [[tiger]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鯱%立ち|しゃっちょこ%だち}}\n* {{ja-r|鯱%張る|しゃっちょこ%ばる}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|words with multiple readings}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

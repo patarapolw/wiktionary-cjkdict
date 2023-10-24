@@ -1,0 +1,32 @@
+{
+  "title": "艚",
+  "ns": 0,
+  "id": 24712,
+  "timestamp": 1548765704000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "{{vi-hantu|[[tàu]]|rs=舟11}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{vi-noun|sc=Hani}}\n\n# [[boat]], [[ship]], [[vessel]]"
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{vi-adj|sc=Hani}}\n\n# {{qualifier|often derogatory}} [[Chinese]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "伽",
+  "ns": 0,
+  "id": 10728,
+  "timestamp": 1529816376000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人05}}\n\n# {{defn|lang=ja|sort=人05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎゃ\n|kanon=きゃ\n|kanyoon=か, が\n|kun=とぎ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|とぎ|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|とぎ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とぎ}}\n\n# relieving one of boredom with a story; also, such a person\n# attending one in their bedroom; also, such a person\n# nursing or taking care of a person; also, such a person"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

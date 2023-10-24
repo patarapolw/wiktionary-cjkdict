@@ -1,0 +1,61 @@
+{
+  "title": "發",
+  "ns": 0,
+  "id": 21452,
+  "timestamp": 1553763329000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|发|発}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|発|發}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=癶07|shin=発}}\n# [[set off]]; [[depart]]; [[start]] from; [[emit]]; [[discharge]]; [[disclose]]; [[occur]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほち, ほつ\n|kanon=はつ\n|kun=あば-く, おこ-る, つか-わす<つか-はす, た-つ, はな-つ\n|nanori=さいかち, ば\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はつ|yomi=irr|sort=はつ}}\n{{rfe|ja|Cantonese borrowing? Kan'on reading is probably coincidence}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|𤼵}} (common in Japanese tilesets)"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=irr|はつ}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ハツ}}\n\n# {{lb|ja|mahjong|sort=はつ}} [[green dragon]] ([[tile]])\n#: {{hypernyms|ja|三元牌|tr=sangenpai}}\n# {{lb|ja|mahjong|sort=はつ}} a {{m|ja|役|tr=yaku||[[win]]ning [[hand]]}} with a [[triplet]] or [[quad]] of green dragon tiles\n#: {{hypernyms|ja|役牌|tr=yakuhai, yaku-pai}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|三%元%牌|さん%げん%パイ|[[dragon]] [[tile]]s}}: {{ja-r|白|ハク|[[white dragon]]}}, {{ja-r|發|ハツ|rom=-}}/{{ja-r|𤼵|ハツ|green dragon}}, {{ja-r|中|チュン|[[red dragon]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

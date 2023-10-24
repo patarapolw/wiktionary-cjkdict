@@ -1,0 +1,66 @@
+{
+  "title": "鶲",
+  "ns": 0,
+  "id": 32700,
+  "timestamp": 1533658695000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鹟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥10}}\n\n# [[Old World flycatcher]] {{qualifier|a kind of [[bird]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=おう<をう\n|kun=ひたき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|ひたき}}\n\nReferred originally just to the {{m|ja|尉鶲||tr=jō bitaki|{{taxlink|Phoenicurus auroreus|species}} or {{vern|Daurian redstart}}}}, later came to refer to a number of visually similar species.\n\nLikely a shift from {{m|ja|火焚き||tr=hitaki|lighting a fire}}, from the characteristic call of the bird, which resembles the sound of striking a [[flint]] against a [[firestarter]].<ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref><ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|ひたき|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|火焼}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひたき|ヒタキ}}\n\n# an [[Old World flycatcher]]: a [[bird]] belonging to the [[Muscicapidae]] family",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|ヒタキ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Birds|ひたき]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

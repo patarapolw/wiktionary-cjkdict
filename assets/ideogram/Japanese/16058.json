@@ -1,0 +1,34 @@
+{
+  "title": "択",
+  "ns": 0,
+  "id": 16058,
+  "timestamp": 1507029760000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|択|擇}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=手04|kyu=擇}}\n\n# {{defn|lang=ja|sort=手04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃく\n|kanon=たく\n|kun=えら-ぶ\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

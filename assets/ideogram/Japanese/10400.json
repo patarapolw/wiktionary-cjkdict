@@ -1,0 +1,95 @@
+{
+  "title": "世",
+  "ns": 0,
+  "id": 10400,
+  "timestamp": 1553766148000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=一04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せ\n|kanon=せい\n|kun=よ-\n|nanori=とし, ゆ, ゆき\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|世%界|せ%かい}}\n* {{ja-r|世%紀|せい%き}}\n* {{ja-r|世%辞|せ%じ}}\n* {{ja-r|永%世|えい%せい}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|よ|yomi=k}}\n{{IPAfont|⟨yo<sub>2</sub>⟩}} → {{IPAchar|/yo/}}\n\nFrom {{inh|ja|ojp|sort=よ|-}}, pronunciation is distinct from {{m|ja|夜|ts=yo<sub>1</sub>|t=night, nighttime}}.\n\nChange in meaning of {{m|ja|節|tr=yo}}, in the sense of the bamboos and reeds bulging at certain intervals.<ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|よ|acc=1|acc2=0|acc_ref=DJR|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|代}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|よ}}\n\n# [[world]], [[society]]\n# this world, this {{w|life}}\n#: {{synonyms|ja|俗世間|tr=zoku seken}}\n# [[generation]], [[age]], [[era]]\n# [[lifetime]]\n#: {{synonyms|ja|一生|tr=isshō}}\n# [[lifespan]]\n#: {{synonyms|ja|寿命|tr=jumyō}}\n# [[time]] of [[year]], [[season]]\n#: {{synonyms|ja|時節|tr=jisetsu|時期|tr2=jiki|折|tr3=ori}}\n# [[relationship]] between a man and a woman\n# [[period]] of a person leading as a [[patriarch]] {{rfv-sense|ja}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|神%世|かみ%よ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|せい|yomi=o}}\nFrom {{der|ja|ltc|sort=せい|-}} {{ltc-l|世}}. The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|せい}}\n\n# [[generation]]\n#: {{ja-usex|ルパン三'''世'''|^ルパン-さん'''せい'''|{{w|Lupin the Third|Lupin the '''Third'''}}}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|せい}}\n\n# {{lb|ja|geology|sort=せい}} [[epoch]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|せい}}\n\n# {{given name|female|lang=ja|A=a|sort=せい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Han characters from which katakana were derived|セ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

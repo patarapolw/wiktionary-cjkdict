@@ -1,0 +1,56 @@
+{
+  "title": "椅",
+  "ns": 0,
+  "id": 17752,
+  "timestamp": 1553553274000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𣎷-Second round simplified}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|木|奇|c1=s|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=yǐ\n|c=ji2\n|h=pfs=yí\n|md=\n|mn=í\n|mn-t=in2\n|w=\n|mc=2\n|oc=1,2\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[chair]]\n#: {{zh-x|椅子{zi}|chair}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|坐紅椅子|坐交椅|座椅|帆布椅|交椅|安樂椅|太師交椅|太師椅|按摩椅|搖椅|椅墊|折椅|椅披|椅子|涼椅|東坡椅兒|桌椅板凳|禪椅|轉椅|鵝項椅|藤椅|電椅|躺椅|紅椅子|輪椅}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=yī\n|c=ji1\n|mn=\n|mn-t=i1\n|mc=1\n|oc=n,1\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# a kind of tree ({{taxlink|Idesia polycarpa|species}}), also known as {{zh-l|*山桐子}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

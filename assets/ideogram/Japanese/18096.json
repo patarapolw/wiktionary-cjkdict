@@ -1,0 +1,44 @@
+{
+  "title": "橅",
+  "ns": 0,
+  "id": 18096,
+  "timestamp": 1553553659000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=木12}}\n\n# beech tree",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ぼ, も\n|kun=かた, ぶな\n}}\n\n{{ja-kanjitab|ぶな|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|ぶな|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぶな|ブナ}}\n\n# [[beech]] tree"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

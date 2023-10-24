@@ -1,0 +1,61 @@
+{
+  "title": "埒",
+  "ns": 0,
+  "id": 13142,
+  "timestamp": 1513238664000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|埓}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土07}}\n\n# {{defn|lang=ja|sort=土07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れち\n|kanon=れつ\n|kanyoon=らち, らつ\n|kun=かこ-い, かき\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|らち|yomi=kanyoon}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|らち|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|らち}}\n\n# a fence built around a stable\n# a fence built around something\n#* {{RQ:Nippo Jisho|523}}\n#*: '''Rachi'''. ラチ (埒) 柵・垣. 比喩. Rachiuo aquru. (埒を明くる) 物事をよく解明する。Rachino aita fito. (埒の明いた人)素直で、道理にはすぐに副する人. Rachiuo coyuru, l, yaburu. (埒を越ゆる、または、破る)規則や禁制条項を破る、または、道理に背く.\n# a partition or limit",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|埒が明く|らち が あく}}\n* {{ja-r|埒を開ける|らち を あける}}\n* {{ja-r|埒がない|らち が ない}}\n* {{ja-r|埒もない|らち も ない}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Nippo Jisho}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

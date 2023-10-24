@@ -1,0 +1,134 @@
+{
+  "title": "羽",
+  "ns": 0,
+  "id": 24015,
+  "timestamp": 1552876132000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa1e}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{| class=\"floatright\" border=1 cellpadding=\"5\" cellspacing=\"0\"\n|- valign=\"center\"\n| bgcolor=\"#dfefff\"|\n'''[[shinjitai]]'''\n|<span class=\"Jpan\" lang=\"ja\" style=\"font-size: 175%\">[[羽]]</span>\n|- valign=\"center\"\n| bgcolor=\"#dfefff\"|\n'''[[kyūjitai]]'''\n|<span class=\"Korean\" lang=\"ko\" style=\"font-size: 175%\">[[羽]]</span>\n|}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=羽00}}\n\n# [[feathers]]\n# counter for birds, rabbits",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=う\n|kun=は-, はね-, わ-\n|nanori=しゅう, ば\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|羽太|はた}}: a [[grouper]]: a fish of subfamily [[Epinephelinae]]\n* {{ja-r|羽%田|^はね%だ}}: a [[surname]]; a place name\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|はね}}\n\nAppears in the ''{{w|Wamyō Ruijushō}}'' of 938 CE.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nCompound of {{compound|ja|sort=はね|羽|tr1=ha|t1=feather|根|tr2=ne|t2=root}}, originally referring specifically to where the [[quill]] of a [[feather]] attaches to the [[skin]].  Over time, the meaning broadened to refer to a [[feather]], and from there, to refer to a [[wing]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|はね|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|羽根}}, {{ja-l|翅}}, {{ja-l|羽子}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はね}}\n\n# {{lb|ja|sort=はね|archaic}} the [[portion]] of a [[feather]] where the [[quill]] [[attach]]es to the [[skin]]\n#: {{synonyms|ja|羽茎|tr1=haguki|q1=rare|翮|tr2=kaku|q2=rare}}\n# a [[feather]]\n#: {{synonyms|ja|羽毛|tr1=umō}}\n# a [[wing]] {{gloss|as of a [[bird]], [[bat]], [[insect]], or [[airplane]]}}\n#: {{synonyms|ja|翼|tr1=tsubasa}}\n# a [[fletching]] on an [[arrow]]\n#: {{synonyms|ja|矢羽根|矢羽|tr2=yabane}}\n# a [[shuttlecock]]\n#: {{synonyms|ja|羽子|tr1=hago}}\n# a [[blade]] (of a fan)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|は}}\n\nFrom {{inh|ja|ojp|sort=は|-}}.  Appears in the ''{{w|Kojiki}}'' of 712 CE, and the ''{{w|Man'yōshū}}'', completed some time after 759 CE.\n\nMay be cognate with {{m|ja|葉|tr=ha||leaf}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|は|acc=0|acc_ref=DJR,NHK,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|は}}\n\n# a [[feather]] {{gloss|including [[synthetic]] feathers, as on a modern [[shuttlecock]]}}\n# a [[wing]] {{gloss|as of a [[bird]], [[bat]], [[insect]], or [[airplane]]}}\n#: {{synonyms|ja|翼|tr1=tsubasa}}\n# a [[fletching]] on an [[arrow]]\n# {{lb|ja|sort=は|archery}} when a [[bow]] is [[strung]], the [[distance]] between the [[grip]] and the [[serving]] ([[nocking point]]) on the [[bowstring]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|わ}}\n\nShift in reading of ''ha'' above due to [[ハ行転呼]], i.e. /p/>/w/",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|わ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|わ|hhira=は}}\n\n# {{non-gloss definition|counter for birds}}\n# {{non-gloss definition|counter for rabbits}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=o|う}}\n\nFrom {{bor|ja|ltc|sort=う|-}} {{ltc-l|羽}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|う|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|う}}\n\n# [[feather]]; [[wing]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|う}}\n\n# {{lb|ja|sort=う|music}} the [[highest]] [[tone]] of a [[pentatonic]] [[scale]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|う}}\n\n# {{lb|ja|sort=う|historical}} the [[ancient]] Japanese province of {{m|ja|出羽|tr=Dewa}}\n#: Only used in compounds.",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n*{{ja-r|羽%前|^う%ぜん}}\n*{{ja-r|羽%後|^う%ご}}\n*{{ja-r|陸%羽|^りく%う}}\n*{{ja-r|奥%羽|^おう%う}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

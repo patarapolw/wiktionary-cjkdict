@@ -1,0 +1,39 @@
+{
+  "title": "曰",
+  "ns": 0,
+  "id": 17204,
+  "timestamp": 1536988489000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|日|臼|白}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=曰00}}\n\n# [[say]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pron|ja}}\n<!--わつ, あつ, ここ-に, other readings?-->\n{{ja-readings\n|goon=おち<をち\n|kanon=えつ<ゑつ\n|kun=い-う<い-ふ, いわ-く<いは-く, のた-ばく, のたま-う<のたま-ふ, のたも-う<のたま-ふ, のたまわ-く<のたまは-く, のたま-わす<のたま-はす, のとう-ぶ<のたう-ぶ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Named as {{m|ja|平日|tr=hirabi||lit=[[wide]] ''hi''}} to distinguish from the {{m|ja|日|tr=hi||[[sun]], [[day]]}} ''kanji''."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

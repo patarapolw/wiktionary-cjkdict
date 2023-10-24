@@ -1,0 +1,39 @@
+{
+  "title": "切",
+  "ns": 0,
+  "id": 11563,
+  "timestamp": 1553315217000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA00}}\n{{character info|0x2F850}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note that in Chinese scripts (simplified/traditional), the left component is written [[㇐]] followed by [[㇙]] (with an upward hook). In Japanese, Korean and Vietnamese scripts the left component ends with [[㇟]] as in [[七]]."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=18|rad=刀|as=02|sn=4|four=47720|canj=PSH|ids=⿰七刀}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0136.090|dkj=01858|dj=0307.050|hdz=10320.050|uh=5207|ud=20999|bh=A4C1|bd=42177}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

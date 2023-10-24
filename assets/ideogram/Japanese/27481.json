@@ -1,0 +1,44 @@
+{
+  "title": "豊",
+  "ns": 0,
+  "id": 27481,
+  "timestamp": 1546559882000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|豐|丰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|豊|豐}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=豆06|kyu=豐}}\n\n# [[abundant]], [[lush]], [[bountiful]], [[plenty]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ\n|kanon=ほう\n|kanyoon=ぶ\n|kun=ゆた-か, とよ-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{ja-kanjitab|ゆたか|yomi=k}}\n* {{ja-r|豊%田|^とよ%た}}\n* {{ja-r|豊富|ほうふ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ゆたか}}\n\n# {{given name|male|lang=ja|sort=ゆたか}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

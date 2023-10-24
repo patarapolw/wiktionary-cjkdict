@@ -1,0 +1,59 @@
+{
+  "title": "縄",
+  "ns": 0,
+  "id": 23497,
+  "timestamp": 1536379760000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|繩|绳}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|縄|繩}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=糸09|kyu=繩}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう\n|kanon=しょう\n|kun=なわ-<なは-, ただ-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|麻縄|あさなわ}}: [[hempen]] [[rope]]\n* {{ja-r|縄抜け|なわぬけ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|なわ|yomi=k}}\nFrom {{inh|ja|ojp|sort=なわ|-}}. Derived from verb {{m|ja|綯う|tr=nau||to [[plait]] or twist together into [[twine]] or line}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|なわ|acc=2|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|kyu=繩|なわ|hhira=なは}}\n\n# a [[rope]], a flexible, heavy cord of tightly intertwined hemp or other fiber"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|なわ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

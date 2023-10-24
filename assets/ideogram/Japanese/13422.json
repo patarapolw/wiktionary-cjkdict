@@ -1,0 +1,44 @@
+{
+  "title": "壘",
+  "ns": 0,
+  "id": 13422,
+  "timestamp": 1539243710000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|垒|塁}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|塁|壘}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土15|shin=塁}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=るい\n|kun=とりで-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|るい|yomi=o}}\nSee {{m|ja|塁}}."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|るい|shin=塁}}\n\n# {{kyujitai of|塁}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

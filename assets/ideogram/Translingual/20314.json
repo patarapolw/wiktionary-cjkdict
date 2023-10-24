@@ -1,0 +1,39 @@
+{
+  "title": "牌",
+  "ns": 0,
+  "id": 20314,
+  "timestamp": 1553427742000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=91|rad=片|as=08|sn=12|four=26040|canj=LLHHJ|ids=⿰片卑}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[簰]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0693.340|dkj=19854|dj=1106.280|hdz=32016.280|uh=724C}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "糸",
+  "ns": 0,
+  "id": 23204,
+  "timestamp": 1545829771000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|系|丝|絲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|糸|絲}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=糸00|kyu=絲}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "As unsimplified kanji {{l|ja|糸}}:\n{{ja-readings\n|goon=みゃく\n|kanon=べき\n}}\nAs shinjitai kanji of {{l|ja|絲}}:\n{{ja-readings\n|goon=し\n|kanon=し\n|kun=いと-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いと|kyu=絲}}\n\n# [[thread]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|紐|ひも}}: string"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

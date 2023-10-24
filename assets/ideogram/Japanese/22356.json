@@ -1,0 +1,68 @@
+{
+  "title": "科",
+  "ns": 0,
+  "id": 22356,
+  "timestamp": 1550396642000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=禾04}}\n\n# [[grade]]\n# [[categorize]]d classes or the text of law\n# graded crimes\n# [[examination]]s graded in classes\n# [[divide]] taxes or crimes\n# a (circular) [[hole]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か<くわ\n|kanon=か<くわ\n|kun=しな-, とが-\n|nanori=しな\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top4}}\n* [[科学]]\n* [[科挙]]\n* [[科斗]]\n* [[科白]]\n{{mid4}}\n* [[科名]]\n* [[科目]]\n* [[科料]]\n* [[医科]]\n{{mid4}}\n* [[学科]]\n* [[法科]]\n* [[分科]]\n* [[文科]]\n{{mid4}}\n* [[理科]]\n* [[薬科]]\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=1842\n|shift=89C8\n|jis=324A\n|euc=B2CA\n|skip=1-5-4\n|freq=531\n|nelson=3272\n|newnelson=4130\n|halpern=1138\n|kld=775\n|heisig=1179\n|tuttle=5d4.3\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|か|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|か|suffix}}\n\n# [[department]], [[section]]\n# {{lb|ja|taxonomy|sort=か}} family"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|とが|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|とが}}\n\n# [[crime]]; [[wrongdoing]]\n#* '''1916''', {{w2|ja|森鷗外}}, {{w2|ja|pref=『|高瀬舟 (小説)|高瀬舟|suf=』}}\n#*: {{ja-usex|高瀬舟に乗る罪人の過半は、いわゆる心得違いのために、思わぬ'''科'''を犯した人であった。|^たかせぶね に のる ざいにん の かはん は、いわゆる こころえちがい の ため に、おもわぬ '''とが''' を おかした ひと であった。|The majority of the criminals who rode ''Takase-bune'' were people who unwittingly committed '''crimes''' due to what we call misunderstandings.}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

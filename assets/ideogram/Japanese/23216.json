@@ -1,0 +1,54 @@
+{
+  "title": "約",
+  "ns": 0,
+  "id": 23216,
+  "timestamp": 1547174343000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|约}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=糸03}}\n\n# Approximately",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=やく, よう<えう\n|kanon=やく, よう<えう\n|kun=つずまやか-, つず-める\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|一%約|いち%やく}}\n* {{ja-r|契%約|けい%やく}}: contract, agreement\n* {{ja-r|条%約|じょう%やく}}: treaty\n* {{ja-r|予%約|よ%やく}}: reservation, appointment\n\n{{ja-kanjitab|やく|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|やく|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Adverb",
+              "text": "{{ja-pos|adverb|やく}}\n\n# [[about]], [[approximately]]\n#: {{ja-usex|'''約''' 一ヶ月|'''やく''' いっヶげつ|'''approximately''' one month}}\n#: {{ja-usex|宇宙 の 直径 は '''約''' ９３０%億 光年 だ。|^うちゅう の ちょっけい は '''やく''' きゅうひゃくさんじゅう%-おく こうねん だ。|The diameter of the universe is '''some''' 93 billion light years.}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

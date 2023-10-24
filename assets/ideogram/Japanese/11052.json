@@ -1,0 +1,49 @@
+{
+  "title": "倭",
+  "ns": 0,
+  "id": 11052,
+  "timestamp": 1553251841000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=人08}}\n\n# [[Yamato]]\n# the country of [[Japan]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い<ゐ, わ\n|kanon=い<ゐ, わ\n|kun=やまと-, したが-う\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ja|大和}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|やまと}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|やまと|proper}}\n\n# [[Yamato]]\n# the country of [[Japan]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

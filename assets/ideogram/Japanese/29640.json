@@ -1,0 +1,66 @@
+{
+  "title": "錨",
+  "ns": 0,
+  "id": 29640,
+  "timestamp": 1545307361000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|锚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金08}}\n\n# [[anchor]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=みょう\n|kanon=びょう\n|kun=いかり-}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|海%錨|かい%びょう|[[sea anchor]]}}\n* {{ja-r|走%錨|そう%びょう}}\n* {{ja-r|投%錨|とう%びょう}}\n* {{ja-r|抜%錨|ばつ%びょう}}\n* {{ja-r|錨%銲|びょう%かん}}\n* {{ja-r|錨%鎖|びょう%さ}}\n* {{ja-r|錨%地|びょう%ち}}\n* {{ja-r|錨%泊|びょう%はく}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|いかり|yomi=k}}\n* {{ja-l|碇}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|いかり|acc=0|acc_ref=DJR,NHK,SMK5}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いかり}}\n\n# {{lb|ja|nautical|sort=いかり}} an [[anchor]] {{gl|tool to moor a vessel into sea bottom}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|錨%酢%漿|いかり%かた%ばみ}}\n* {{ja-r|錨%氷|いかり%こおり|[[anchor ice]]}}\n* {{ja-r|錨%星|いかり%ぼし}}\n* {{ja-r|錨%虫|いかり%むし}}\n* {{ja-r|錨を打つ|いかり を うつ}}\n* {{ja-r|錨を下ろす|いかり を おろす}}\n* {{ja-r|鉄%錨|かな%いかり}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

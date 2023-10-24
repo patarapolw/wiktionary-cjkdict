@@ -1,0 +1,61 @@
+{
+  "title": "佃",
+  "ns": 0,
+  "id": 10734,
+  "timestamp": 1514541029000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=tián\n|c=tin4\n|mc=1\n|oc=n,1\n|ma=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} to [[till]]; to [[cultivate]]\n# {{lb|zh|literary}} {{zh-alt-form|畋|to [[hunt]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|佃作|佃具|佃漁|佃器|佃獵}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=diàn\n|c=din6\n|mn=tiān/twv:tān\n|mc=2\n|oc=y,2\n|ma=\n|cat=n,v,pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[rent]] and [[till]] [[land]] from a [[landlord]]\n# [[land]] [[rent]]\n# {{lb|zh|dialectal}} to [[rent]]\n# {{surname|lang=zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|佃人|佃戶|佃契|佃科|佃客|佃農|佃權|佃租|佃租制度|永佃權|租佃|請佃|退佃|撤佃}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

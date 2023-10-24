@@ -1,0 +1,39 @@
+{
+  "title": "窃",
+  "ns": 0,
+  "id": 22541,
+  "timestamp": 1537044964000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|竊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|窃|竊}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=穴04|kyu=竊}}\n\n# to [[steal]]\n# [[secret]], [[private]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せち\n|kanon=せつ\n|kun=ぬす-む, ひそ-か\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|窃取|せっしゅ}}: {{l|en|theft}}, to {{l|en|steal}}\n* {{ja-r|窃盗|せっとう}}: {{l|en|theft}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

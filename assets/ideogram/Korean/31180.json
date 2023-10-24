@@ -1,0 +1,51 @@
+{
+  "title": "顋",
+  "ns": 0,
+  "id": 31180,
+  "timestamp": 1550294909000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[시]], [[새]]|rv=si, sae|mr=si, sae|y=si, say|eumhun=뺨|ehrv=ppyam|ehmr=ppyam|ehy=ppyam}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun 1",
+              "text": "{{ko-noun|hangeul=시}}\n# [[cheek]]\n# [[gill]], [[branchia]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[裹顋]] ([[과시]])\n* [[閤顋]] ([[합시]])\n* [[顋頰]] ([[시협]])"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun 2",
+              "text": "{{ko-noun|hangeul=새}}\n# [[cheek]]\n# [[gill]], [[branchia]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[魚顋醢]] ([[어새해]])\n* [[牛角顋]] ([[우각새]])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

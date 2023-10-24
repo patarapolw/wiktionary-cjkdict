@@ -1,0 +1,44 @@
+{
+  "title": "龜",
+  "ns": 0,
+  "id": 33254,
+  "timestamp": 1539371765000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|龟|亀}}\n{{character info/new}}\n{{character info/new|codepoint=0xf907}}\n{{character info/new|codepoint=0xf908}}\n{{character info/new|codepoint=0xface}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}\n{{stroke order|type=hanimate}}\n{{stroke order|type=alternative}}\n{{Han simplified forms|龜|亀|龟}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=213|rad=龜|as=00|sn=18|snm++=16|four=27117|canj=HBSS,NXU}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/龜]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* [[亀]] [[龟]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1537.230|dkj=48847|dj=2078.180|hdz=74809.040|uh=9F9C|ud=40860|bh=C074|bd=49268}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

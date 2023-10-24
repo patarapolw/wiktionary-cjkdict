@@ -1,0 +1,44 @@
+{
+  "title": "琥",
+  "ns": 0,
+  "id": 20806,
+  "timestamp": 1513238567000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|玉|虎|ls=psc|c1=s|c2=p|t1=jade}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=hǔ\n|c=fu2\n|mn=hó͘\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only|琥珀|amber}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|琥珀|琥珀色|琥珀酸}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

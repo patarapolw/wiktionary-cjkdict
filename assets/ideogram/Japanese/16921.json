@@ -1,0 +1,59 @@
+{
+  "title": "旱",
+  "ns": 0,
+  "id": 16921,
+  "timestamp": 1540817898000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "/hi<sub>1</sub>deri/: *pideri > ɸideri > çideri. The nominalization of the verb {{m|ja|日照る|tr=hideru}}."
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ja|日照り}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{IPA|[çideri]|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひでり}}\n\n# a sunny day\n# a lack of water due to continuous sunny weather; a [[drought]]"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日03}}\n\n# {{defn|lang=ja|sort=日03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=かん\n|kun=ひでり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[旱魃]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

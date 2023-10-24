@@ -1,0 +1,49 @@
+{
+  "title": "憶",
+  "ns": 0,
+  "id": 15818,
+  "timestamp": 1552641958000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|忆}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心13}}\n\n# to think, to consider, to believe",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おく\n|kanon=よく\n|kun=おも-う\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おく|yomi=kanon}}\nFrom {{der|ja|ltc|sort=おく|-}} {{ltc-l|憶}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|おく|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|おく}}\n\n# to [[recall]]; to [[remember]]\n# to [[guess]]; to [[conjecture]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

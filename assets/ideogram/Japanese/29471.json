@@ -1,0 +1,59 @@
+{
+  "title": "銑",
+  "ns": 0,
+  "id": 29471,
+  "timestamp": 1517548163000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|铣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=金06}}\n\n# [[pig iron]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=せん\n|kun=ずく-\n|nanori=さね\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|銑鉄|せんてつ}}: [[pig iron]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|ja|鉄}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=412D\n|ku=3313\n|shift=914C\n|euc=C1AD\n|freq=''not ranked''\n|nelson=4850\n|newnelson=6263\n|halpern=1726\n|kld=1137\n|heisig=270\n|tuttle=8a6.6\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "銑 was removed from the general use [[w:Jōyō kanji|Jōyō kanji]] by the Japanese government in 2010.\n* The Japan Times (October 21, 2009). ''[http://www.kanjiclinic.com/kc99final.htm Get set for next year's overhaul of joyo kanji].'' Accessed February 23, 2010."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ずく}}\n\n# [[pig iron]]\n\n[[Category:ja:Metals|ずく]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

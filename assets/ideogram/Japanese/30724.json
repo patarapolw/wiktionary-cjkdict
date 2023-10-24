@@ -1,0 +1,65 @@
+{
+  "title": "際",
+  "ns": 0,
+  "id": 30724,
+  "timestamp": 1553785027000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|际}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=阜11}}\n\n# [[occasion]]\n# [[side]]\n# [[edge]]\n# [[verge]]\n# [[dangerous]]\n# [[adventurous]]\n# [[incident]]\n# [[time]]\n# [[when]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さい\n|kanon=せい\n|kun=きわ-<きは-, まじ-わる<まじ-はる, あい-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|さい|yomi=o}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さい}}\n\n# [[time]]; [[occasion]]\n#: {{ja-usex|列車が発車する'''際'''|れっしゃ が はっしゃ する '''さい'''|when a train departs}}\n#: {{ja-usex|その'''際'''に注意しなければいけない|その '''さい''' に ちゅうい しなければ いけない|you must pay attention when that happens}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|時|とき}}\n* {{ja-r|頃|ころ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|きわ|yomi=k}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きわ|hhira=きは}}\n\n# [[moment]] [[prior]] to something\n#: {{ja-usex|[[去る|去り]]'''際'''に[[握%手]]する|さり-'''ぎわ''' に あく%しゅ する|to shake hands just before leaving}} {{attention|ja|please check}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "蒐",
+  "ns": 0,
+  "id": 25305,
+  "timestamp": 1528554307000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=搜|s2=蒐}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=sōu\n|c=sau1,sau2\n|mc=y\n|oc=y\n|cat=n,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[madder]]\n# [[hunt]] in [[spring]] or autumn\n# [[review]] [[troop]]s\n# [[conceal]]\n# [[gather]]\n# [[seek]], {{zh-alt-form|搜|tr=-}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|春蒐|蒐索/搜索|蒐羅/搜罗|蒐證/搜证|蒐購/搜购|蒐集/搜集}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

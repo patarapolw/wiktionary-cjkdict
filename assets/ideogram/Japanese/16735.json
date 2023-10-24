@@ -1,0 +1,39 @@
+{
+  "title": "攻",
+  "ns": 0,
+  "id": 16735,
+  "timestamp": 1550226678000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=攴03}}\n\n# [[attack]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=こう\n|kun=せ-める, おさ-める\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|攻究|こうきゅう}}\n* {{ja-r|攻撃|こうげき}}\n* {{ja-r|攻勢|こうせい}}\n{{mid2}}\n* {{ja-r|攻防|こうぼう}}\n* {{ja-r|攻略|こうりゃく}}\n* {{ja-r|専攻|せんこう}}\n\n{{bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

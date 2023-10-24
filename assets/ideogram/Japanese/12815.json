@@ -1,0 +1,128 @@
+{
+  "title": "嚔",
+  "ns": 0,
+  "id": 12815,
+  "timestamp": 1534034959000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|嚏}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=口15}}\n\n# [[sneeze]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たい\n|kanon=てい\n|kun=くさめ-, くしゃみ-, はな-ひる, ひ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|嚔の木|はなひり の き}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|くしゃみ|yomi=k}}\n* {{ja-l|嚏}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Alteration from ''kusame'' (see below).<ref name=\"DJS>{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|くしゃみ|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くしゃみ}}\n\n# a [[sneeze]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|嚔ガス|くしゃみ ガス}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|狆が嚔をしたよう|ちん が くしゃみ を した よう}}, {{ja-r|狆くしゃ|ちんくしゃ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|くさめ|yomi=k}}\n\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くさめ}}\n\n# a [[sneeze]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|くさめくさめ|kusame kusame}}: [[expression]] used after [[someone]] [[sneeze]]s, said to [[break]] [[curse]]s"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|くっさめ|yomi=irr}}\n\n[[gemination|Gemination]] of ''kusame'' (see above).<ref name=\"DJS\"/><ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くっさめ}}\n\n# a [[sneeze]]\n# an [[achoo]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|ふ|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=ふ|-}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{ja-verb|tr=intrans|type=kami ni|ふ}}\n\n# {{lb|ja|obsolete|sort=ふ}} to [[sneeze]]\n#* {{RQ:Manyoshu|11|2808}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man11Yo.html#2808 here]\n#*: {{ja-usex\n|m=眉%根%掻 鼻'''火'''紐%解 待%八方 何時%毛%将見%跡 戀来吾%乎\n|m_kana=まよ%ね%かき はな'''ひ'''ひも%とけ まてり%やも いつか%も%みむ%と こひこしわれ%を\n|眉%根%掻き鼻'''ひ'''紐%解け待てりやもいつかも見むと恋ひ来し我れを\n|まよ%ね% かき はな'''ひ''' ひも% とけ まてり や も いつ か も みむ と こひ-こし われ を|rom=mayone kaki hana'''hi''' himo toke materi ya mo itsu ka mo mimu to koi-koshi ware o|sort=ふ}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|嚔る|ひる|pos=Classical Japanese form}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

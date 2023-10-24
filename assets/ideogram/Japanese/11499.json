@@ -1,0 +1,44 @@
+{
+  "title": "凍",
+  "ns": 0,
+  "id": 11499,
+  "timestamp": 1552490447000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|冻}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=冫}}\n\n# frozen",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=つう\n|kanon=とう\n|kun=こお-る, こご-える\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|不凍|ふとう}}: [[nonfreezing]]\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ja-r|凍てる|いてる}}\n* {{ja-r|凍る|こおる}}\n* {{ja-r|凍える|こごえる}}\n* {{ja-r|凍みる|しみる}}\n* {{ja-r|凍らす|こおらす}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

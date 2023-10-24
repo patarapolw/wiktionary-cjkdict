@@ -1,0 +1,39 @@
+{
+  "title": "濤",
+  "ns": 0,
+  "id": 19664,
+  "timestamp": 1515909459000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|涛}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水14|shin=涛}}\n# [[wave]]s, [[billow]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どう<だう\n|kanon=とう<たう\n|kun=なみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なみ}}\n# {{alternative form of|lang=ja|波||[[wave]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

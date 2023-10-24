@@ -1,0 +1,49 @@
+{
+  "title": "壮",
+  "ns": 0,
+  "id": 13443,
+  "timestamp": 1553315192000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|壯}}\n{{character info/new}}\n{{character info|0x2F851}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|壮|壯}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=士03|kyu=壯}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<さう\n|kanon=そう<しやう\n|kun=さか-ん\n|nanori=つよし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{ja-adj|さかん|decl=na}}\n\n# {{alt-form|lang=ja|sort=さかん|盛ん}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|そう|hhira=さう}}\n\n# {{given name|lang=ja|sort=そう|male}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|つよし}}\n\n# {{given name|lang=ja|sort=つよし|male}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "捌",
+  "ns": 0,
+  "id": 16242,
+  "timestamp": 1544260896000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{inh|zh|sit-pro|*b-r-gjat ~ b-g-rjat|*b-r-gjat|eight}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=bā\n|c=baat3\n|mn=qz,tp,xm:poeh/kh,zz:peh\n|mc=1\n|cat=num\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# an [[:w:Chinese numbers#Numeral characters|accounting version]] of the numeral eight that is otherwise written as {{zh-l|八|tr=-}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "{{Chinese-numbers}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "From {{inh|zh|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. Cognate to {{zh-m|*別}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=bā\n|c=baat3\n|mc=y\n|oc=y\n|cat=v,n,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|朳|toothless rake}}\n# {{zh-alt-form|扒|to break open, split open}}\n# to [[break]]\n# sound of breaking\n# {{surname|lang=zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms|alt=別,八,仈,白,𧧸,識-\"to know\",曾-\"already\"}}\nMin dialectal word for \"to know\".\n\nAustroasiatic substrate influence ({{zh-ref|Norman and Mei, 1976}}); may be related to {{zh-m|*別|to split; to differentiate}}. Cognate with {{cog|vi|biết||to know}}, {{cog|mtq|mắt||to know}}, Proto-Bahnaric {{m|mkh-ban-pro|*băt||to remember, to know}}, {{cog|hmx-pro|*pei||to know}} ({{cog|mww|paub||to know, to understand}}).\n\nMany variant written forms exist, but {{lang|zh|捌}} is [http://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia294pdf.pdf recommended] by Taiwan's Ministry of Education.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|md=báik\n|mn=xm,qz,zz,tp,lk,sx,km,mg,hc:pat/xm,zz,kh,tn,yl,tc:bat\n|mn_note=Zhangzhou: pat - only “to know”\n|mn-t=bag4\n|cat=v,adv\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}} {{tlb|zh|Min}}\n\n# to [[know]]; to [[recognise]]; to be [[familiar]] with\n#: {{zh-x|捌字|to '''know''' how to read|tr=báik-cê|MD}}\n# to [[know]] (somebody)\n#: {{zh-x|伓捌|to not '''know''' (someone)|tr=n̂g-báik|MD}}\n# [[already]]; [[previously]]\n#: {{zh-x|捌曾|''a term denoting past tense''|tr=báik-cèng|MD}}\n#: {{zh-x|捌{bat} 做 %過{kòe}|to have done something '''already'''|MN}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|知道}}\n{{zh-dial|認識}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|捌字|捌貨|捌想|毋捌|相捌|捌傳|捌勢|捌事}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-see|㧙|v}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

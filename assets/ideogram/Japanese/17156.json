@@ -1,0 +1,44 @@
+{
+  "title": "暦",
+  "ns": 0,
+  "id": 17156,
+  "timestamp": 1553389534000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|曆|历}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|暦|曆}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=日10|kyu=曆}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=れき\n|kun=こよみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Literally \"day counter\". Compound of {{compound|ja|日|tr1=ka|t1=day|読む|tr2=yomu|t2=count}} nominalized."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こよみ|kyu=曆}}\n\n# a [[calendar]]\n# an [[almanac]]\n\n[[Category:Japanese basic words|こよみ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

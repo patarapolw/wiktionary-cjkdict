@@ -1,0 +1,39 @@
+{
+  "title": "衾",
+  "ns": 0,
+  "id": 26467,
+  "timestamp": 1495667263000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wikipedia|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=衣04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[きん]] (kin)|kun=[[ふすま]] (fusuma)|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ふすま}}\n\n# {{lb|ja|archaic|sort=ふすま}} [[quilt]]\n\n[[Category:ja:Bedding|ふすま]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

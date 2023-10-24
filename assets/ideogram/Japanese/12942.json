@@ -1,0 +1,44 @@
+{
+  "title": "圓",
+  "ns": 0,
+  "id": 12942,
+  "timestamp": 1531097267000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|圆|円|圎|圜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|円|圓}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=8|rs=囗10|shin=円}}\n\n# [[round]]; [[circle]]\n# [[yen]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん<ゑん\n|kanon=えん<ゑん\n|kun=まる-い, つぶ-ら, まど-か, まろ-やか\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えん|yomi=o}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えん|shin=円|hhira=ゑん}}\n\n# [[yen]]\n# [[circle]]\n\n[[Category:ja:Currency|えん]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

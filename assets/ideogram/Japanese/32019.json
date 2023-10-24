@@ -1,0 +1,148 @@
+{
+  "title": "魂",
+  "ns": 0,
+  "id": 32019,
+  "timestamp": 1549745750000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=鬼04}}\n\n# [[soul]], [[spirit]]\n# [[vigor]]/[[vigour]], [[willpower]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=こん\n|kun=たま-, たまし.い-<たましひ-\n|nanori=こころ, もと\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|魂胆|こんたん}}\n* {{ja-r|魂柱|こんちゅう}}\n* {{ja-r|魂魄|こんぱく}}\n* {{ja-r|英魂|えいこん}}\n* {{ja-r|還魂|かんこん}}\n* {{ja-r|気魂|きこん}}\n* {{ja-r|吟魂|ぎんこん}}\n* {{ja-r|香魂|こうこん}}\n* {{ja-r|士魂|しこん}}\n* {{ja-r|詩魂|しこん}}\n* {{ja-r|入魂|じっこん}}\n* {{ja-r|商魂|しょうこん}}\n* {{ja-r|招魂|しょうこん}}\n* {{ja-r|消魂|しょうこん|rom=-}}, {{ja-r|銷魂|しょうこん}}\n* {{ja-r|蜀魂|しょっこん}}\n* {{ja-r|入魂|じゅこん}}\n* {{ja-r|入魂|じゅっこん}}\n* {{ja-r|心魂|しんこん|rom=-}}, {{ja-r|神魂|しんこん}}\n* {{ja-r|身魂|しんこん}}\n* {{ja-r|精魂|せいこん}}\n* {{ja-r|奪魂|だっこん}}\n* {{ja-r|脱魂|だっこん}}\n* {{ja-r|忠魂|ちゅうこん}}\n* {{ja-r|鎮魂|ちんこん}}\n* {{ja-r|闘魂|とうこん}}\n* {{ja-r|入魂|にゅうこん}}\n* {{ja-r|反魂|はんごん}}\n* {{ja-r|亡魂|ぼうこん}}\n* {{ja-r|芳魂|ほうこん}}\n* {{ja-r|夢魂|むこん}}\n* {{ja-r|幽魂|ゆうこん}}\n* {{ja-r|遊離魂|ゆうりこん}}\n* {{ja-r|離魂病|りこんびょう}}\n* {{ja-r|霊魂|れいこん}}\n* {{ja-r|神%魂%命|^かみ%むすび の% ^みこと}}\n* {{ja-r|蜀魂|ホトトギス}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wp|lang=ja|魂 (曖昧さ回避)|魂}}\n{{ja-kanjitab|たましい|yomi=k}}\n{{IPAfont|⟨tamasipi<sub>1</sub>⟩}} → *{{IPAchar|/tamasipʲi/}} → {{IPAchar|/tamaɕifi/}} → {{IPAchar|/tamaɕiwi/}} → {{IPAchar|/tamaɕiː/}}\n\nFrom {{inh|ja|ojp|sort=たましい|-}}, from {{inh|ja|jpx-pro|sort=たましい|*tamasipi}}.\n\nCompound of {{m|ja||魂|tr=tama|[[soul]], [[spirit]]|pos=see below}} and an uncertain ''shii'', possibly {{m|ja||強ひ|tr=shihi → shii}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of classical verb {{m|ja|強ふ|tr= shifu → shiu}}, modern {{m|ja|強いる|tr=shiiru||to [[force]], [[compel]]}}. {{rfv-etymology|ja|sort=たましい}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|魄}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|たましい|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たまし.い|hhira=たましひ}}\n\n# {{lb|ja|religion|folklore|sort=たましい}} a [[soul]], [[spirit]]\n#* {{RQ:Manyoshu|15|3767}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man15Yo.html#3767 here]\n#*: {{ja-usex|m='''多麻之比'''波 安之多由布敝尓 多麻布礼杼 安我牟祢伊多之 古非能之氣吉尓|m_kana='''たましひ'''は あしたゆふへに たまふれど あがむねいたし こひのしげきに|'''魂'''は朝%夕にたまふれど我が胸%痛し恋の繁きに|'''たましひ''' は あした%ゆふべ に たまふれど あが むね% いたし こひ の しげき に|rom='''tamashii''' wa ashita-yūbe ni tamafuredo aga mune itashi koi no shigeki ni|sort=たましい}}\n#: {{syn|ja|ゼーレ|tr=zēre|[[ソウル]], [[ソール]]|tr2=sōru|霊魂|tr3=reikon}}\n# [[mind]], [[spirit]], [[vigor]]/[[vigour]], [[willpower]]\n#: {{syn|ja|ガイスト|tr=gaisuto|気力|tr2=kiryoku|心|tr3=kokoro|心魂|tr4=kokorodama|精神|tr5=seishin}}\n# {{lb|ja|figurative|sort=たましい}} [[spirit]] {{gl|[[manner]] or [[style]] of something, [[enthusiasm]]}}\n# {{lb|ja|figurative|by extension}} [[attitude]], [[readiness]]\n#: {{syn|ja|気構え|tr=kigamae}}\n# [[discretion]], [[judgement]], [[prudence]]\n#: {{syn|ja|才略|tr=sairyaku|思慮|tr2=shiryo|分別|tr3=funbetsu}}\n# [[character]], [[genius]], [[talent]], [[wisdom]]\n#: {{syn|ja|素質|tr=soshitsu|天分|tr2=tenbun|才気|tr3=saiki}}\n# {{lb|ja|from a [[warrior]]'s \"spirit\"}} a ''[[katana]]'' {{gl|[[single]]-[[edge]]d Japanese [[sword]]}}\n#: {{syn|ja|刀|tr=katana}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|魂の|たまし.い の|pos=pillow word}}\n* {{ja-r|男の魂|おとこ の たまし.い}}\n* {{ja-r|女の魂|おんな の たまし.い}}\n* {{ja-r|国%魂|くに%-だまし.い}}\n* {{ja-r|心%魂|こころ%-だまし.い}}\n* {{ja-r|面%魂|つら%-だまし.い}}\n* {{ja-r|負けじ魂|まけじ-だまし.い}}\n* {{ja-r|大和%魂|^やまと%-だまし.い}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "{{der-top|Idioms}}\n* {{ja-r|魂が抜ける|たまし.い が ぬける}}\n* {{ja-r|魂を入れ替える|たまし.い を いれかえる}}\n* {{ja-r|魂を消す|たまし.い を けす}}\n* {{ja-r|魂を天外に飛ばす|たまし.い を てんがい に とばす}}\n* {{ja-r|魂を冷やす|たまし.い を ひやす}}\n* {{ja-r|大小は武士の魂|だいしょう は ぶし の たまし.い}}\n* {{ja-r|三つ子 の 魂 百 まで|みつご の たまし.い ひゃく まで}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Proverbs",
+                      "text": "* {{ja-r|一寸の虫にも五分の魂|いっすん の むし に も ごぶ の たまし.い}}\n* {{ja-r|仏 作って 魂 入れず|ほとけ つくって たまし.い いれず}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|たま|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=たま|-}}, from {{inh|ja|jpx-pro|sort=たましい|*tama}}.\n\nThought to be cognate with {{m|ja|玉|tr=tama||[[jewel]]}}.<ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|魄}}, {{ja-l|霊}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|たま|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たま|hhira=たま}}\n\n# a [[soul]], [[spirit]]\n#* '''905''', ''{{w|Kokin Wakashū}}'' (book 10, poem 448)\n#*: {{ja-usex|[[空蟬]]のからは木ごとにとどむれど'''たま'''のゆくへを見ぬぞかなしき|うつせみ の から-は-き-ごと に とどむれ ど '''たま''' の ゆくへ を みぬ ぞ かなしき|rom=utsusemi no kara-wa-ki-goto ni todomuredo '''tama''' no yukue no minu zo kanashiki}}\n#: {{syn|ja|霊魂|tr=reikon}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|魂%合う|たま%あう}}\n* {{ja-r|魂送り|たまおくり}}\n* {{ja-r|魂%緒の星|^たま%お の ^ほし}}\n* {{ja-r|魂%消る|たま%ぎる}}\n* {{ja-r|魂 極る|たま きわる|pos=pillow word}}\n* {{ja-r|魂%消る|たま%げる}}\n* {{ja-r|魂離る|たまさかる}}\n* {{ja-r|鎮魂|たましずめ}}\n* {{ja-r|魂棚|たまだな}}\n* {{ja-r|魂殿|たまどの}}\n* {{ja-r|魂%振り|たま%ふり}}\n* {{ja-r|魂讃星|^たまほめぼし}}\n* {{ja-r|魂%祭|たま%-まつり}}, {{ja-r|魂祭り|たま-まつり}}\n* {{ja-r|魂迎え|たまむかえ}}\n* {{ja-r|魂結び|たまむすび}}\n* {{ja-r|魂%屋|たま%や}}\n* {{ja-r|魂%呼ばい|たま%よばい}}, {{ja-r|魂%呼び|たま%よび}}\n* {{ja-r|悪魂|あくだま}}\n* {{ja-r|稲魂|いなたま}}, {{ja-r|稲魂|いなだま}}\n* {{ja-r|肝魂|きもだま}}, {{ja-r|肝魂|きもたま}}, {{ja-r|肝っ魂|きもったま}}\n* {{ja-r|国魂|くにたま}}\n* {{ja-r|心%魂|こころ%だま}}\n* {{ja-r|木%魂|こ%だま}}, {{ja-r|木%魂|こ%たま}}\n* {{ja-r|根性%魂|こんじょう%-だま}}\n* {{ja-r|亡き魂|なきたま}}\n* {{ja-r|和魂|にきたま}}\n* {{ja-r|人魂|ひとだま}}\n* {{ja-r|船魂|ふなだま}}\n* {{ja-r|御%魂|み%たま}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|こん|yomi=o}}\n\nFrom {{bor|ja|ltc|sort=こん|-}} {{ltc-l|魂}}.\n\nCompare modern {{cog|cmn|魂|tr=hún}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|こん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こん}}\n\n# [[mind]], [[spirit]], [[will]]\n#: {{syn|ja|心|tr=kokoro|精神|tr2=seishin}}\n# a [[soul]], [[spirit]]\n#: {{syn|ja|霊魂|tr=reikon}}\n# ''{{w|hun and po|hun}}'': ''[[yang]]'' [[energy]] or [[spirit]]\n#: {{ant|ja|魄|tr=haku}}\n#: {{hyper|ja|魂魄|tr=konpaku}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|和魂|わこん}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|こころ|yomi=irr}}\n\nFrom {{m|ja|心|tr=kokoro||[[heart]], [[mind]], [[spirit]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|こころ}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=こころ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

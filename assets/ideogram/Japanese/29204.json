@@ -1,0 +1,34 @@
+{
+  "title": "釈",
+  "ns": 0,
+  "id": 29204,
+  "timestamp": 1503329678000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|釈|釋}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=釆04|kyu=釋}}\n\n# {{l|en|elucidate}}, {{l|en|explain}}\n# to {{l|en|release}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃく\n|kanon=せき\n|kun=と-く, す-てる, ゆる-す\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

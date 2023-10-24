@@ -1,0 +1,68 @@
+{
+  "title": "嚫",
+  "ns": 0,
+  "id": 12839,
+  "timestamp": 1495653356000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=親}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=can1\n|cat=part\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}} {{tlb|zh|Cantonese}}\n\n# {{n-g|Used after a verb to indicate a [[negative]] [[consequence]].}}{{attention|zh|aspect marker?}}\n#: {{zh-x|哽{kang2}嚫|to choke|C}}\n#: {{zh-x|畀 人 打嚫|to be hit|C}}\n#: {{zh-x|跌嚫|to trip and hurt oneself|C}}\n#: {{zh-x|凍嚫|to catch a cold|C}}\n# {{n-g|Used after a verb and with {{zh-l|*都}} to indicate every time the action occurs.}}\n#: {{zh-x|打 嚫 畀 佢 都 唔 接電話{waa6-2}|'''Every time''' I call him, he doesn't pick up the phone.|C}}\n{{attention|zh|are these two senses related?}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{zh-l|傷}}\n* {{zh-l|到}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=儭,䞋}}\nShort for {{zh-l|達嚫}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=chèn\n|c=can3\n|mc=y\n|oc=y\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Buddhism}} to [[practise]] [[dana]]; to give [[alms]] to [[monk]]s"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

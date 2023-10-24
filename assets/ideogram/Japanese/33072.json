@@ -1,0 +1,39 @@
+{
+  "title": "黥",
+  "ns": 0,
+  "id": 33072,
+  "timestamp": 1502421128000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=黑08}}\n\n# [[tattoo]], [[tattooing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<ぎやう\n|kanon=けい\n|kanyoon=げい\n|kun=いれずみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|yomi=k|いれずみ}}\n{{ja-noun|いれずみ}}\n\n# {{rarespell|lang=ja|sort=いれずみ|入れ墨||[[tattoo]]}} {{gl|an image made in the skin with ink and a needle}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

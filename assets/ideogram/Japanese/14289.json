@@ -1,0 +1,39 @@
+{
+  "title": "少",
+  "ns": 0,
+  "id": 14289,
+  "timestamp": 1544170698000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=小01}}\n\n1. A little, just a little.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<せう\n|kanon=しょう<せう\n|kun=すく-ない, すこ-し, しばら-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|少女|しょうじょ}}\n* {{ja-r|少年|しょうねん}}\n* {{ja-r|少少|しょうしょう}}, {{ja-r|少々|しょうしょう}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

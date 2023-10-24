@@ -1,0 +1,90 @@
+{
+  "title": "努",
+  "ns": 0,
+  "id": 11735,
+  "timestamp": 1527650805000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=力05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぬ\n|kanon=ど\n|kun=つと-む, つと-める\n|nanori=つとむ\n}}\n\n{{wp|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ど|yomi=o}}\n{{der|ja|ltc|努|sort=と'}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ど|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|ど}}\n\n# [[work]], [[toil]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ど}}\n\n# the third of the [[w:Eight Principles of Yong|Eight Principles of Yong]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Hypernyms",
+                      "text": "* {{ja-r|永字八法|えいじ はっぽう|the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Coordinate terms",
+                      "text": "* {{ja-r|側|そく|the first of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}\n* {{ja-r|勒|ろく|the second of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}\n* {{ja-r|趯|てき|the fourth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}\n* {{ja-r|策|さく|the fifth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}\n* {{ja-r|掠|りゃく|the sixth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}\n* {{ja-r|啄|たく|the seventh of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}\n* {{ja-r|磔|たく|the eighth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|つとむ}}\n[[nominalization|Nominalization]] of the classical Japanese verb {{m|ja|努む|tr=tsutomu}} (modern {{m|ja|努める|tr=tsutomeru||to work, to toil}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つとむ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|つとむ}}\n\n# {{given name|lang=ja|sort=つとむ|male}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

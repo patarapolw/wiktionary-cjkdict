@@ -1,0 +1,39 @@
+{
+  "title": "堆",
+  "ns": 0,
+  "id": 13211,
+  "timestamp": 1548902035000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土08}}\n\n# {{defn|lang=ja|sort=土08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たい, て\n|kanon=たい\n|kanyoon=つい\n|kun=うずたか-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|堆積|たいせき}}\n* {{ja-r|堆%肥|たい%ひ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

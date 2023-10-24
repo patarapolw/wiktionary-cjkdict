@@ -1,0 +1,86 @@
+{
+  "title": "鯉",
+  "ns": 0,
+  "id": 28866,
+  "timestamp": 1551289401000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=り\n|kanon=り\n|kun=こい-<こひ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|養%鯉|よう%り|[[carp]] [[farming]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja|コイ}}\n{{ja-kanjitab|こい|yomi=k}}\n{{IPAfont|/ko<sub>1</sub>pi<sub>1</sub>/}} → {{IPAchar|/kopi/}} → {{IPAchar|/kofi/}} → *{{IPAchar|/kowi/}} → {{IPAchar|/koi/}}\n\nFrom {{inh|ja|ojp|sort=こい|-}}, attested in the ''{{w|Nihon Shoki}}''."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|こい|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こい|コイ|hhira=こひ|hkata=コヒ}}\n\n# [[carp]], specifically, the [[common carp]] (''[[Cyprinus carpio]]'')",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* {{U:ja:biology|コイ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|カープ}}\n* {{ja-r|こ文字|こもじ|pos=''{{w|nyōbō kotoba}}''}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|鯉口|こいぐち|[[mouth]] of a (sword's) [[sheath]]}}\n* {{ja-r|鯉のぼり|こいのぼり|rom=-}}, {{ja-r|鯉%幟|こい%のぼり|[[carp]] [[streamer]]}}\n* {{ja-r|伊勢%鯉|^イセ%-ゴイ}}\n* {{ja-r|寒%鯉|かん%ごい}}\n* {{ja-r|銀%湯%鯉|ギン%ユ%-ゴイ}}\n* {{ja-r|似%鯉|ニ%ゴイ}}\n* {{ja-r|錦%鯉|にしき%ごい|[[coloured]] [[carp]]}}\n* {{ja-r|緋%鯉|ひ%ごい}}\n* {{ja-r|真%鯉|ま%-ごい|[[black]] carp}}\n* {{ja-r|俎板の鯉|まないた の こい}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|青魚|アオ.ウオ|[[black carp]]}}\n* {{ja-r|黒鰱|コクレン|[[bighead carp]]}}\n* {{ja-r|鯱|しゃちほこ|rom=-}}, {{ja-r|鯱%鉾|しゃち%ほこ}}\n* {{ja-r|草魚|ソウギョ|[[grass carp]]}}\n* {{ja-r|白鰱|ハクレン}}, {{ja-r|鰱魚|レンギョ|[[silver carp]]}}\n* {{ja-r|鮒|フナ|[[crucian carp]]}}\n* {{ja-r|腸%香|ワタ%カ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|こい|hhira=こひ}}\n\n# {{surname|lang=ja|A=a|sort=こい}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Cyprinids|こい]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

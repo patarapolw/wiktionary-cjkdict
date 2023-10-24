@@ -1,0 +1,39 @@
+{
+  "title": "近",
+  "ns": 0,
+  "id": 8683,
+  "timestamp": 1524047493000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=辵04}}\n\n# near, close",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごん\n|kanon=きん\n|kanyoon=こん\n|kun=ちか-い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|こん|proper}}\n\n# {{surname|lang=ja|sort=こん}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "鷺",
+  "ns": 0,
+  "id": 32772,
+  "timestamp": 1548366344000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鹭}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=ろ\n|on=りょ\n|kun=さぎ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja|サギ}}\n{{ja-kanjitab|さぎ|yomi=k}}\n{{rfe|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|さぎ|acc=h|acc_ref=NHK,DJR|y=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さぎ|サギ}}\n\n# [[heron]]; [[egret]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|白鷺|シラサギ}}: egret\n* {{ja-r|黒鷺|クロサギ}}: [[Pacific]] [[reef]] heron\n* {{ja-r|蒼鷺|アオサギ}}: [[grey heron]]\n* {{ja-r|五位鷺|ゴイサギ}}: [[black-crowned night heron]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Herons|さぎ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

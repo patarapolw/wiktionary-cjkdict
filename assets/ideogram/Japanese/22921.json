@@ -1,0 +1,44 @@
+{
+  "title": "篭",
+  "ns": 0,
+  "id": 22921,
+  "timestamp": 1553397309000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|篭|籠}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹10|kyu=籠}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=ろう\n|kun=かご-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is an [[extended shinjitai]]."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|かご|yomi=k}}\n{{ja-see|籠}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

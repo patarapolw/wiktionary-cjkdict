@@ -1,0 +1,44 @@
+{
+  "title": "陣",
+  "ns": 0,
+  "id": 30662,
+  "timestamp": 1552578391000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|阵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=阜07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じん<ぢん\n|kanon=ちん\n|kun=\n|nanori=\n}}\n\n{{attn|ja|kun also じんだて, いくさ?}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|じん|hhira=ぢん}}\n\n# battle formation\n# [[camp]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|じん|suffix|hhira=ぢん}}\n\n# group, team\n#: {{ja-usex|[[経営]]'''陣'''、[[制作]]'''陣'''|けいえい-'''じん'''、せいさく-'''じん'''|management '''team''', production '''team'''}}\n#: {{ja-usex|1万人以上の[[講師]]'''陣'''|1 まん にん いじょう の こうし-'''じん'''|a '''group''' of over 10,000 teachers}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

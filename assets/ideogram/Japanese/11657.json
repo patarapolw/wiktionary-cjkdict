@@ -1,0 +1,44 @@
+{
+  "title": "剤",
+  "ns": 0,
+  "id": 11657,
+  "timestamp": 1547071274000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|劑|剂}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|剤|劑}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=刀08|kyu=劑}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ざい, すい\n|kanon=すい, せい\n|kun=そろえる, ま-ぜる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|解%毒剤|げ%どくざい}}\n* {{ja-r|幻%覚剤|げん%かくざい}}\n* {{ja-r|漂%白剤|ひょう%はくざい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|ざい|kyu=劑}}\n\n# [[agent]], chemical [[substance]]\n# [[drug]], [[medicine]]\n# dose"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

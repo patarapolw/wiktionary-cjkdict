@@ -1,0 +1,44 @@
+{
+  "title": "仄",
+  "ns": 0,
+  "id": 10582,
+  "timestamp": 1531838209000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=人02}}\n\n# be seen [[dimly]]\n# [[suggest]], [[intimate]], [[hint]]\n# [[faint]]\n# [[stupid]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=そく, しょく, しき\n|kun=ほの-か, かたむ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|仄白い|ほのじろい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=503C\n|ku=4828\n|shift=98BA\n|euc=D0BC\n|freq=''not ranked''\n|nelson=815\n|newnelson=107\n|halpern=2946\n|kld=''not listed''\n|heisig=2153\n|tuttle=2p2.1\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

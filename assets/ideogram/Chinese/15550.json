@@ -1,0 +1,64 @@
+{
+  "title": "您",
+  "ns": 0,
+  "id": 15550,
+  "timestamp": 1548497067000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=恁,𠑓}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|你|t1=you|心|t2=heart|ls=ic}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "This character was not listed in Sui/Tang rhyme books. First attested in Jin/Yuan-era novels, when it was also written as {{ltc-l|恁}}, and occurred predominantly in attributive environments, forming complementary distribution with {{zh-l|你}} in other cases. Originally, {{lang|zh|您}} was a pronoun for both 2nd sg. and 2nd pl., and {{zh-l|你每}} (> {{zh-l|你們}}) was an equilibrating disyllabic version of 您, which retains the -m syllable coda of {{lang|zh|您}} disappearing in Mandarin. Later, in the Beijing dialect, -{{zh-l|們}} was restricted to purely a plural suffix, and {{lang|zh|您}} restricted to purely a 2nd sg. honorific pronoun, although the 2nd pl. hon. {{zh-l|您們}} is still considered ungrammatical by some speakers. The plural sense of {{lang|zh|您}} is retained in the Tianjin dialect:\n{{zh-x|您 了 先 聊，我 到 外頭 溜達{da} 溜達{da}。|Please continue your conversation. I'll just be having a walk outside.|M-TJ}}\n<ref>吕叔湘 (Lü Shuxiang)，《释您，俺，咱，喒，附论们字》，in 《吕叔湘全集》第二卷 汉语语法论文集。</ref><ref>张俊阁，《近代汉语第二人称代词“您（恁）”的来源》，聊城大学学报（社会科学版），2010年第1期。</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=nín\n|ma=zh-nín.ogg\n|c=nei5\n|h=pfs=\n|mn=lín\n|w=\n|mc=\n|oc=\n|cat=pron\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|polite|honorific}} [[you]]\n# {{lb|zh|dialectal}} [[you]] {{qualifier|plural}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|你}}\n* {{q|archaic}} {{zh-l|爾}}, {{zh-l|汝}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|您哪|您老|您納}}"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "{{cmn-personal pronouns}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />\n\n{{zh-cat|Beginning}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

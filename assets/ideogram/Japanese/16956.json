@@ -1,0 +1,59 @@
+{
+  "title": "昔",
+  "ns": 0,
+  "id": 16956,
+  "timestamp": 1553551328000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=日04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃく\n|kanon=せき\n|kun=むかし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|むかし}}\n\nFrom {{inh|ja|ojp|sort=むかし|-}}. The ''muka'' portion derives from the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|向く|tr=muku||to face opposite to something}}, implying “that which stands opposite from the present”. The ''shi'' portion is suffix {{m|ja|し|tr=shi}} indicating [[direction]], also found in words {{m|ja|縦し|tr=tatashi||the standing or vertical direction}}, {{m|ja|横し|tr=yokoshi||the sideways or horizontal direction}}. This appears to be a somewhat rare alternative form, more commonly encountered as {{m|ja|さ|tr=sa}}, and may be cognate with the nominalizing adjective ending {{m|ja|さ|tr=sa}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|むかし|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Adverb",
+              "text": "{{ja-pos|adverb|むかし}}\n\n# [[once]] {{qualifier|in the indeterminate past}}\n#: {{ja-usex|'''昔'''見た映画|'''むかし''' みた えいが|a movie I '''once''' saw}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|むかし}}\n\n# the [[past]], [[old]] times\n#* {{RQ:Utsubo Monogatari|Toshikage}}<ref>{{R:Utsubo Monogatari 1}}</ref>\n#*: '''むかし'''、式部大輔、左大弁かけて清原の王ありけり。\n#: {{ja-usex-inline|'''昔'''と[[今]]|'''むかし''' と いま|the '''past''' and the present}}\n#: {{ja-usex-inline|'''昔'''の[[自分]]|'''むかし''' の じぶん|my '''past''' self}}\n#: {{ja-usex-inline|'''昔'''からの[[友達]]|'''むかし''' から の ともだち|a [[longtime]] friend|lit=a friend since '''old times'''}}\n#: {{ja-usex-inline|'''昔'''に[[戻る]]|'''むかし''' に もどる|to return to the '''past'''}}\n# [[ancient]]\n#: {{ja-usex-inline|'''昔'''の[[人]]|'''むかし''' の ひと|'''ancient''' people}}\n#: {{ja-usex-inline|もう'''昔'''の[[話]]だ。|もう '''むかし''' の はなし だ。|That's [[ancient history]].}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Time|むかし]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

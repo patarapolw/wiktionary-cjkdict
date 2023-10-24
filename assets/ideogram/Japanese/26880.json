@@ -1,0 +1,49 @@
+{
+  "title": "計",
+  "ns": 0,
+  "id": 26880,
+  "timestamp": 1547188571000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|计}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=言02}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|けい}}\n\n# [[plan]], [[total]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=けい\n|on=かい\n|kun=はか-る, はか-らう, はかりごと\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|会%計%士|かい%けい%し}}\n* {{ja-r|腕%時%計|うで%ど%けい}}\n* {{ja-r|計%画|けい%かく}}\n* {{ja-r|計%画%的|けい%かく%てき}}\n* {{ja-r|計%算|けい%さん}}\n* {{ja-r|計%量|けい%りょう}}\n* {{ja-r|計%上|けい%じょう}}\n* {{ja-r|計%測|けい%そく}}\n* {{ja-r|時%計|と%けい}}, {{ja-r|時%計|とき%はかり}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|けい}}\n\n# [[-meter]] (measuring device)\n\n[[Category:ja:Measuring instruments|けい]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

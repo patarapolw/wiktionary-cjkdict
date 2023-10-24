@@ -1,0 +1,54 @@
+{
+  "title": "番",
+  "ns": 0,
+  "id": 21165,
+  "timestamp": 1539388186000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|蹯|蕃}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=田07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほん\n|kanon=はん\n|kanyoon=ばん\n|kun=つが-い, つが-う, つが-える\n}}\n{{attention|ja|split and expand on readings}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|番外|ばんがい}}\n* {{ja-r|番犬|ばんけん}}: a [[watchdog]]\n* {{ja-r|番号|ばんごう}}\n* {{ja-r|番地|ばんち}}\n* {{ja-r|番頭|ばんとう}}, {{ja-r|番頭|ばんがしら}}\n* {{ja-r|番人|ばんにん}}\n* {{ja-r|番組|ばんぐみ}}\n* {{ja-r|定番|ていばん}}\n* {{ja-r|一番|いちばん}}\n* {{ja-r|番兵|ばんぺい}}: a [[guard]], a [[sentry]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|ばん|counter}}\n\n# {{lb|ja|sports|sort=はん'}} [[match]]es"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ばん}}\n\n# one's [[turn]] (as in a [[game]], etc.)\n#: {{ja-usex|次は君の'''番'''ですよ。|つぎ は きみ の '''ばん''' です よ。|It's your '''turn''' next.}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|ばん|suffix}}\n\n# (applied to numerals) [[-th]]: forms ordinal numerals\n#: {{ja-usex|一'''番'''|いち'''ばん'''|first}}\n#: {{ja-usex|二'''番'''|に'''ばん'''|second}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "粉",
+  "ns": 0,
+  "id": 23088,
+  "timestamp": 1552572364000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=米04}}\n\n# [[powder]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふん\n|kanon=ふん\n|kun=こ-, こな-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|花%粉|か%ふん}}\n* {{ja-r|小%麦%粉|こ%むぎ%こ}}\n* {{ja-r|薄%力%粉|はく%りき%こ}}\n* {{ja-r|中%力%粉|ちゅう%りき%こ}}\n* {{ja-r|強%力%粉|きょう%りき%こ}}\n* {{ja-r|蕎%麦%粉|そ%ば%こ}}\n* {{ja-r|片%栗%粉|かた%くり%こ}}\n* {{ja-r|澱%粉|でん%ぷん}}\n* {{ja-r|米%粉|べい%ふん}}, {{ja-r|米%粉|こめ%こ}}: [[rice flour]]\n* {{ja-r|黄な粉|きなこ}}\n* {{ja-r|粉%茶|こな%ちゃ}}: [[dust]] [[tea]]\n* {{ja-r|白粉|おしろい}}, {{ja-r|白%粉|はく%ふん}}\n{{der-mid}}\n* {{ja-r|天%花%粉|てん%か%ふん}}, {{ja-r|天%瓜%粉|てん%か%ふん}}\n* {{ja-r|粉%薬|こな%ぐすり}}\n* {{ja-r|粉%雪|こな%ゆき}}\n* {{ja-r|製%粉|せい%ふん}}\n* {{ja-r|受%粉|じゅ%ふん}}\n* {{ja-r|骨%粉|こっ%ぷん}}\n* {{ja-r|胡%粉|ご%ふん}}\n* {{ja-r|鱗%粉|りん%ぷん}}\n* {{ja-r|金%粉|きん%ぷん}}\n* {{ja-r|銀%粉|ぎん%ぷん}}\n* {{ja-r|鉄%粉|てっ%ぷん}}\n* {{ja-r|粉%砕|ふん%さい}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|こ}}\n\n{{IPAfont|⟨ko<sub>1</sub>⟩}} → *{{IPAchar|/kwo/}} → {{IPAchar|/ko/}}\n\nFrom {{inh|ja|ojp|sort=こ|-}}.  Used phonetically to spell ''ko'' in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|6|997}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man6Yos.html#997 here]</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|こ|acc=1|acc_ref=DJR,NHK,SMK5}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こな|こ}}\n\n# [[powder]]\n# [[flour]]"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|こな}}\n\nAppears to be {{suffix|ja|sort=こな|粉|tr1=ko|t1=powder|pos1=see above|な|tr2=na|pos2=suffixing element, meaning unclear}}.<ref name=\"SMK5\">{{R:Shinmeikai5}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|こな|acc=2|acc_ref=DJR,NHK,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こな}}\n\n# [[powder]]\n# [[flour]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Synonyms",
+              "text": "* {{ja-r|パウダー}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

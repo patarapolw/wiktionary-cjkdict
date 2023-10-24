@@ -1,0 +1,66 @@
+{
+  "title": "鱒",
+  "ns": 0,
+  "id": 32312,
+  "timestamp": 1536706788000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鳟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=魚12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞん\n|kanon=そん\n|kun=ます-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鯇鱒|あめます}}\n* {{ja-r|樺太鱒|からふとます}}\n* {{ja-r|河鱒|かわます}}\n* {{ja-r|銀鱒|ぎんます}}\n* {{ja-r|国鱒|くにます}}\n* {{ja-r|黒鱒|くろます}}\n* {{ja-r|鮭鱒|けいそん}}: [[salmon]]s and [[trout]]s\n* {{ja-r|桜鱒|さくらます}}\n* {{ja-r|五月鱒|さつきます}}, {{ja-r|皐月鱒|さつきます}}\n* {{ja-r|背張鱒|せっぱります}}\n* {{ja-r|虹鱒|にじます}}: [[rainbow trout]]\n* {{ja-r|姫鱒|ひめます}}\n* {{ja-r|琵琶鱒|びわます}}\n* {{ja-r|紅鱒|べにます}}\n* {{ja-r|鱒茸|ますたけ}}\n* {{ja-r|鱒の介|ます の すけ}}\n* {{ja-r|養鱒|ようそん}}: [[trout]] [[farm]]ing\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|ます|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Generally thought to derive from a Korean dialectal term for the fish, which would have entered Japanese as {{l|ja|松}}{{l|ja|魚}} (''matsu no uo'', \"pine fish\", possibly in reference to wooded streams where it can be caught), combining with or being influenced by the verb {{l|ja|増す}} (''masu'', \"to be [[excellent]], [[superior]]\", in reference to the size, flavor, and other favorable characteristics of the fish)."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|ます|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ます|マス}}\n\n# [[trout]], [[sea trout]]: more specifically, fish belonging to [[genera]] of the [[family]] ''[[Salmonidae]]'': ''[[Salmo]]'', ''[[Oncorhynchus]]'', ''[[Coregonus]]'', or ''[[Salvelinus]]''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|マス}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Salmonids|ます]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

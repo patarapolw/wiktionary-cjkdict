@@ -1,0 +1,49 @@
+{
+  "title": "無",
+  "ns": 0,
+  "id": 20010,
+  "timestamp": 1553253031000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|无|🈚}}\n{{character info/new}}\n{{character info/new|🈚}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=火08}}\n\n# [[nothing]]\n# [[nothingness]]\n# [[none]]\n# [[nil]]\n# [[not]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=む\n|kanon=ぶ\n|toon=も\n|kun=な-い, な-みする, なみ-する\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|無%明|む%みょう}}: [[unenlightment]]; [[ignorance]] of [[nirvana]]\n* {{ja-r|神%無%月|かん%な%づき}}: {{qualifier|archaic}} the tenth month of the lunar calendar\n* {{ja-r|無%形|む%ぎょう}}: [[formlessness]], [[bodylessness]]; something [[shapeless]] and [[invisible]]\n* {{ja-r|無%形|む%けい}}: [[intangibility]]; [[incorporeality]]\n* {{ja-r|無%見|む%けん}}: the belief that everything in this world is completely [[null]] and [[void]], with no [[substance]]\n* {{ja-r|無%名|む%めい}}: [[nameless]], [[anonymous]], [[unsigned]]; [[anonymity]]\n* {{ja-r|無%用|む%よう}}: [[futility]]; [[uselessness]]\n* {{ja-r|無%機|む%き}}: [[inorganic]]\n{{der-mid}}\n* {{ja-r|無%双|む%そう}}: [[matchless]], [[peerless]]\n* {{ja-r|苦%無|く%ない}}: a [[kunai#Japanese|kunai]]\n* {{ja-r|無%月|む%げつ}}: when the [[moon]] is not [[visible]] due to [[rain]] or some other reason\n* {{ja-r|無%精|ぶ%しょう}}: [[laziness]]\n* {{ja-r|無%力|む%りょく}}: [[powerless]]; [[incompetent]]\n* {{ja-r|無%力%感|む%りょく%かん}}: a [[feeling]] of [[powerlessness]]\n* {{ja-r|無%意%識|む%い%しき}}: [[unconscious]], [[unconsciousness]]\n* {{ja-r|無%限|む%げん}}: [[infinity]]; [[limitless]]; [[unlimited]]\n* {{ja-r|無%人|ぶ%にん}}: [[uninhabited]], [[unmanned]]\n{{der-bottom}}\n\n{{ja-kanjitab|yomi=o|む}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|む}}\n\n# [[nothing]], [[nothingness]]\n# {{lb|ja|Buddhism|sort=む}}: The [[null set]]: neither yes nor no (in response to a [[koan]] or other question that mistakenly assumes an affirmative or negative answer)."
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|む|prefix}}\n\n# [[non-]], [[un-]]\n\n{{ja-pos|ぶ|prefix}}\n\n# [[non-]], [[un-]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

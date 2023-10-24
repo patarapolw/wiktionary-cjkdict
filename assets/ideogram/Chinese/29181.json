@@ -1,0 +1,61 @@
+{
+  "title": "醱",
+  "ns": 0,
+  "id": 29181,
+  "timestamp": 1540269602000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|酦|醗}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=酦}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=pō,pò,1nb=standard in Mainland,2nb=standard in Taiwan\n|c=put3\n|oc=y\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|醱醅}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=fā,pò,1nb=standard in Mainland,2nb=standard in Taiwan\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used in|醱酵}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|醱酵|醱酵乳}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

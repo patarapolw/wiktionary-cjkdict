@@ -1,0 +1,68 @@
+{
+  "title": "卯",
+  "ns": 0,
+  "id": 11948,
+  "timestamp": 1552352495000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|卵|卬|戼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=卩03}}\n\n# {{defn|lang=ja|sort=卩03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=みょう\n|kanon=ぼう\n|kun=う-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "* {{ja-r|卯酒|ぼうしゅ}}\n* {{ja-r|卯酉線|ぼうゆうせん}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|う|yomi=k}}\n{{wp|lang=ja}}\nFrom {{m|ja|兎|tr=usagi, u||[[rabbit]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|acc=0|acc2=1|y=k|う}}\n* {{hmp|lang=ja|ウ|鵜|鰻|有|羽|sort=う}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|う}}\n\n# the {{w|Rabbit (zodiac)|Rabbit}}, the fourth of the twelve {{w|Earthly Branches}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ぼう|yomi=o}}\nFrom {{der|ja|ltc|卯|tr=mæw<sup>X</sup>|sort=ほう'}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ぼう|hhira=ばう}}\n\n# the {{w|Rabbit (zodiac)|Rabbit}}, the fourth of the twelve {{w|Earthly Branches}}\n\n{{cln|ja|words with multiple readings}}\n{{topics|ja|Earthly Branches|sort=う}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

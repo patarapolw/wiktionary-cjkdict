@@ -1,0 +1,104 @@
+{
+  "title": "予",
+  "ns": 0,
+  "id": 10508,
+  "timestamp": 1551617975000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|豫|矛|𠄔}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n\nTwo hands, each handing an object to another."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{inh|zh|sit-pro|*g-la}}.\n\n{{zh-ref|Zhao (1990)}} argued {{cog|nan|予|tr=hō͘||to give; to allow; by}} is a {{der|zh|qfa-tak}} substrate, associating it with {{cog|za|hawj||to give; to allow}} and {{cog|pcc|haec||to give; to allow}}. Note both were descended {{inh|th|tai-pro|*haɰᶜ||to give}} which originated from either {{der|th|ltc|-}} {{ltc-l|許|to allow}} or {{der|tai-pro|och|-}} {{och-l|與|id=2|to give}} ({{zh-ref|Zheng (2008)}}). \n\n{{zh-ref|Zheng (2008)}} considered the ''h-'' initial of both {{cog|nan|予|tr=hō͘||to give; to allow; by}} and {{cog|za|hawj||}} to be descended from the Chu dialect ({{lang|zh|楚方言}}) of {{der|tai-pro|och|-}} {{och-l|與|id=2|to give}}, and noted instances where words beginning with the {{zh-l|*以|}} initial in Middle Chinese are pronounced with a ''h-'' initial in modern Min. The rimes of {{cog|nan|予|tr=hō͘}} and {{cog|za|hawj||}}, on the other hand, descended from the rimes of {{zh-l|*與}} during Qin/Han and in an authoritative southern dialect in the Southern dynasties respectively.\n\nTaiwan's Ministry of Education agrees that the original character representing {{cog|nan|予|tr=hō͘||to give; to allow; by}} is indeed {{lang|zh|予}} ({{zh-l|*與|to give}} and {{zh-l|*予|to give}} are from the same root), but considers the Xiamen, Zhangzhou and Taiwan pronunciation ''hō͘'' to be the result of sound change from Quanzhou pronunciation ''thō͘'' ([https://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia327pdf.pdf Source]).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{zh-forms}}\n{{zh-pron\n|m=yǔ\n|c=jyu5\n|h=pfs=yì\n|mn=xm:ú/qz:ír/zz:í\n|mn_note=literary reading\n|mn-t=e2\n|mc=2\n|oc=2,2\n|ma=\n|cat=v\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# (= {{zh-l|*與}}) to [[give]]\n# to [[praise]]; to [[esteem]]"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|予假|予人口實|予以|准予|予告|不予置評|寄予|施予|授予|生殺予奪|閔予小子|贈予|賜予|給予|賦予|予市}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{zh-forms|alt=互,乎,與,度-Quanzhou}}\n{{zh-pron\n|mn=xm,zz,tp,kh,tn,tc,hc,sx,yl,km,mg:hō͘/qz:thō͘/lk:hǒ͘\n|mn_note=vernacular reading\n|cat=v,prep\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}} {{tlb|zh|Hokkien}}\n\n# to [[give]]\n#: {{zh-x|伊 予 我 五 箍。|He '''gave''' me five dollars.|MN}}\n# to [[allow]]\n#: {{zh-x|予 伊 去！|Let it go!|MN}}\n# [[by]] (used in constructing the passive)\n#: {{zh-x|伊 予 人 拍。|He was beaten up ('''by''' someone).|MN}}",
+                      "subSections": [
+                        {
+                          "level": 6,
+                          "title": "Synonyms",
+                          "text": "{{zh-dial|給}}\n{{zh-dial|被}}"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yú\n|c=jyu4\n|mn=xm:û/qz:îr/zz:î\n|mc=1\n|oc=1,1\n|ma=\n|cat=pron,pn\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|余|I, me}}\n# {{surname|lang=zh}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|予小子|予取予求|予一人|人莫予毒|莫予毒也}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-see|豫|ssv}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-see|預|ss}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

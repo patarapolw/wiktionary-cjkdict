@@ -1,0 +1,95 @@
+{
+  "title": "杖",
+  "ns": 0,
+  "id": 17308,
+  "timestamp": 1549587186000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=木03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<ぢやう\n|kanon=ちょう<ちやう\n|kun=つえ-<つ.ゑ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|つえ}}\n\n{{IPAfont|⟨tuwe⟩}} → {{IPAchar|/tuwe/}} → {{IPAchar|/t͡suwe/}} → {{IPAchar|/t͡suje/}} → {{IPAchar|/t͡sue/}}\n\nFrom {{inh|ja|ojp|sort=つえ|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|5|804}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#804 here]</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|つえ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|筇}}, {{ja-l|丈}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つえ|hhira=つゑ}}\n\n# [[staff]], [[stick]], [[walking stick]], [[cane]], [[stave]], [[strove]], [[rod]], [[wand]]\n#* {{quote-book|||BOOSTER 7\n|||date=Mar 1 2000\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|[古](こ)[代](だい)[魔](ま)[導](どう)[士](し)}}\n|trans-chapter=Ancient Mage}}\n#*: {{ja-usex|数%多くの'''杖'''を持ち、それぞれを使い分け多%彩な攻%撃をする。|かず%おおく の '''つえ''' を もち、それぞれ を つかいわけ た%さい な こう%げき を する。|He wields an array of '''wands''', each of which is used for a distinctive attack.}}\n# something one [[lean]]s on, a [[support]]\n# a [[cane]] used for [[corporal punishment]]\n# a particularly shaped [[stirring]] [[stick]] used to make [[New Year's]] [[porridge]]\n#: {{syn|ja|粥杖|tr1=kayuzue}}\n# the [[stem]] of a [[pear]]\n# {{lb|ja|sort=つえ|historical}} a [[traditional]] [[unit]] of [[length]]\n## {{lb|ja|sort=つえ|historical}} approximately 3 [[meter]]s\n## {{lb|ja|sort=つえ|historical}} seven {{m|ja|尺||tr=shaku|pos=traditional Japanese [[foot]]}} and five {{m|ja|寸||tr=sun|pos=traditional Japanese [[inch]]}}, or approximately 2.3 [[meter]]s\n# {{lb|ja|sort=つえ|historical}} a [[traditional]] [[unit]] of [[area]]\n## {{lb|ja|sort=つえ|historical}} one-fifth of a {{m|ja|段||tr=tan|pos=traditional Japanese [[paddy]] size, roughly half of an English [[acre]]}}, or around 237m²",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The Japanese term ''tsue'' can refer generally to a [[stick]] or [[staff]] of various lengths, as expressed by the range of English meanings apparent in the senses above."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|じょう}}\n\nFrom {{bor|ja|ltc|sort=しょう'|-}} {{ltc-l|杖}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|じょう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|じょう|hhira=ぢやう}}\n\n# a [[jo]]: a fighting staff, a little over 4 {{m|ja|尺||tr=shaku|a traditional unit of measure, about 30 cm or a [[foot]]}} long, shorter than a {{m|ja|棒||tr=bō|[[quarterstaff]]}}\n# {{lb|ja|sort=しょう'|historical}} under the ancient {{w|Ritsuryō}} system, [[caning]] as a [[form]] of [[corporal]] [[punishment]]\n# {{lb|ja|sort=しょう'|historical}} a [[traditional]] [[unit]] of [[area]]: one-fifth of a {{m|ja|段||tr=tan|pos=traditional Japanese [[paddy]] size, roughly half of an English [[acre]]}}, or around 237m²"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|錫%杖|しゃく%じょう}}: a khakkhara, a Buddhist monk's \"sounding staff\""
+                },
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|棒|ぼう}}: a [[bo]] [[staff]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Kokugo Dai Jiten}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

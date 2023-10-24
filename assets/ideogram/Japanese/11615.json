@@ -1,0 +1,59 @@
+{
+  "title": "刺",
+  "ns": 0,
+  "id": 11615,
+  "timestamp": 1547109068000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|刾|剌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=刀06}}\n\n# [[thorn]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し, しゃく\n|kanon=し, せき\n|kun=さ-す, そ-しる, と-げ, さ-さる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|刺%身|さし%み}}\n* {{ja-r|刺青|いれずみ}}\n* {{ja-r|名刺|めいし}}\n\n{{ja-kanjitab|し|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|し|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|し}}\n\n# [[calling card]]"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とげ}}\n\n# [[thorn]]\n# [[biting]] words"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

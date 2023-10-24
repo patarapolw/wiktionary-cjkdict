@@ -1,0 +1,39 @@
+{
+  "title": "乞",
+  "ns": 0,
+  "id": 10466,
+  "timestamp": 1553546637000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=乙02}}\n\n# [[beg]]\n# [[invite]]\n# [[ask]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こち\n|kanon=きつ\n|kanyoon=こつ\n|kun=こ-う<こ-ふ, こ-い<こ-ひ\n}}\n\n“To give”:\n{{ja-readings\n|goon=け\n|kanon=き\n|kun=あた-える<あた-へる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=3870\n|ku=2480\n|shift=8CEE\n|euc=B8F0\n|freq=2478\n|nelson=262\n|newnelson=59\n|halpern=1961\n|kld=''not listed''\n|heisig=462\n|tuttle=0a3.4\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

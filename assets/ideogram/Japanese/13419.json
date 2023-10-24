@@ -1,0 +1,102 @@
+{
+  "title": "壕",
+  "ns": 0,
+  "id": 13419,
+  "timestamp": 1529733514000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土14}}\n\n# [[moat]], [[trench]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごう\n|kanon=こう\n|kun=ほり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|掩壕|えんごう}}\n* {{ja-r|掩蔽壕|えんぺいごう}}\n* {{ja-r|壕舎|ごうしゃ}}\n* {{ja-r|塹壕|ざんごう}}\n* {{ja-r|散兵壕|さんぺいごう}}\n* {{ja-r|城壕|じょうごう}}\n* {{ja-r|待避壕|たいひごう}}\n* {{ja-r|防空壕|ぼうくうごう}}\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ごう|yomi=o}}\nFrom {{etyl|ltc|ja|sort=こう'}} {{m|zh|壕}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ごう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|濠}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ごう|hhira=がう}}\n\n# [[moat]], [[trench]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "濠 implies one with water, 壕 implies one without water."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ほり|yomi=k}}\nThe {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|掘る|tr=horu||to dig}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ほり|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|堀}}, {{ja-l|濠}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほり}}\n\n# [[ditch]], [[canal]]\n# [[moat]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|内壕|うちぼり}}\n* {{ja-r|空壕|からぼり}}\n* {{ja-r|城壕|しろぼり}}\n* {{ja-r|捨て壕|すてぼり}}\n* {{ja-r|外壕|そとぼり}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

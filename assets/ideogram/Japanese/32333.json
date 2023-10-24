@@ -1,0 +1,39 @@
+{
+  "title": "鱧",
+  "ns": 0,
+  "id": 32333,
+  "timestamp": 1527741006000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鳢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚13}}\n\n# {{defn|lang=ja|sort=魚13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らい\n|kanon=れい\n|kun=はも-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はも|ハモ}}\n\n# {{vern|daggertooth pike conger}}, a type of [[eel]], {{taxlink|Muraenesox cinereus|species|noshow=1}}\n\n[[Category:ja:Fish|はも]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

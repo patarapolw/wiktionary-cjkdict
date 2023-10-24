@@ -1,0 +1,39 @@
+{
+  "title": "飣",
+  "ns": 0,
+  "id": 31340,
+  "timestamp": 1553570953000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|饤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=食02}}\n\n# [[display]] [[food]] {{gl|for [[show]] only}}\n# [[sacrifice]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう<ちやう\n|kanon=てい\n|kun=たくわ-える<たくは-へる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|飣餖|ていとう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "舶",
+  "ns": 0,
+  "id": 24676,
+  "timestamp": 1534896400000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|艊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=舟05}}\n\n# [[oceanliner]]\n# [[ship]]\n# [[large]] [[watercraft]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=びゃく\n|kanon=はく\n|kun=おおぶね-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|つむ|yomi=irr}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|つむ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つむ}}\n\n# [[large]] [[ship]]\n\n[[Category:ja:Watercraft|つむ]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

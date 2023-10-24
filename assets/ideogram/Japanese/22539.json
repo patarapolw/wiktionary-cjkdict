@@ -1,0 +1,44 @@
+{
+  "title": "突",
+  "ns": 0,
+  "id": 22539,
+  "timestamp": 1529719651000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa55}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=穴04|kyu=突}}\n\n# {{defn|lang=ja|sort=穴04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どち\n|kanon=とつ\n|kun=つ-く\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* {{ja-r|突然|とつぜん}}: {{l|en|sudden}}, {{l|en|unexpected}}, {{l|en|all at once}}\n* {{ja-r|煙突|えんとつ}}: {{l|en|chimney}}\n* {{ja-r|衝突|しょうとつ}}: {{l|en|collision}}, {{l|en|crash}}, {{l|en|conflict}} of {{l|en|opinion}}\n* {{ja-r|突端|とったん}}: {{l|en|headland}} (land that juts into the sea)\n* {{ja-r|突破|とっぱ}}: {{l|en|breakthrough}}\n* {{ja-r|突走る|つっぱしる}}: {{l|en|rush}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "A CJK {{w|CJK compatibility ideographs|compatibility ideograph}} (U+FA55) exists for the {{w|kyūjitai}} form of {{lang|ja|突}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

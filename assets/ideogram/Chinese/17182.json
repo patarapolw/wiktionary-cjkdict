@@ -1,0 +1,49 @@
+{
+  "title": "曙",
+  "ns": 0,
+  "id": 17182,
+  "timestamp": 1553551469000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shǔ\n|c=cyu5,syu5,syu6\n|mn=qz:sìr/qz,tw,xm:sú/zz:sí/qz:sír\n|mn_note=sìr/sú/zz:sí - literary; sú/sír - vernacular (俗)\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[daybreak]]; [[dawn]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|一線曙光|曙光|曙光乍現|曙後星孤|曙色}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

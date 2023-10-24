@@ -1,0 +1,39 @@
+{
+  "title": "篤",
+  "ns": 0,
+  "id": 22912,
+  "timestamp": 1551713575000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|笃}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=竹10}}\n\n# {{defn|lang=ja|sort=竹10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=とく\n|kun=あつ-い\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|あつし|proper}}\n\n# {{given name|male|lang=ja|sort=あつし}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "庖",
+  "ns": 0,
+  "id": 15001,
+  "timestamp": 1553549048000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=páo\n|c=paau4\n|mn=pâu\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|代庖|尸祝代庖|庖丁|庖丁解牛|庖人|庖代|庖子|庖宰|庖廚|庖犧|庖立|庖羲|庖鼎|治庖|良庖|越俎代庖}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

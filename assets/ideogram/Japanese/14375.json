@@ -1,0 +1,39 @@
+{
+  "title": "屣",
+  "ns": 0,
+  "id": 14375,
+  "timestamp": 1553548442000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=尸11}}\n\n# straw sandals",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=し\n|kun=ぞうり\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぞうり}}\n\n# {{alternative spelling of|lang=ja|草履}}: [[straw]] [[sandal]]s"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

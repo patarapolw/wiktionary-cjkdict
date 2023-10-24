@@ -1,0 +1,59 @@
+{
+  "title": "域",
+  "ns": 0,
+  "id": 13155,
+  "timestamp": 1548425097000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=土08}}\n\n# [[range]]\n# [[region]]\n# [[limits]]\n# [[stage]]\n# [[level]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いき<ゐき\n|kanon=よく\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いき|yomi=goon}}\nFrom {{der|ja|ltc|sort=いき|-}} {{ltc-l|域}}.  Compare modern {{cog|yue|域|tr=wik<sup>6</sup>|pos={{IPAfont|/wɪk̚²/}}}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|いき|acc=1|acc_ref=DJR|y=goon}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いき|hhira=ゐき}}\n\n# [[region]], [[level]]"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|いき|hhira=ゐき}}\n\n# [[range]], [[region]], [[limits]], [[stage]], [[level]]\n# [[land]], [[territory]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

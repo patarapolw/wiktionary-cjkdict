@@ -1,0 +1,64 @@
+{
+  "title": "詠",
+  "ns": 0,
+  "id": 26968,
+  "timestamp": 1552142542000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|咏}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=言05}}\n\n# [[recitation]]\n# [[poem]]\n# [[song]]\n# [[composing]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう<ゐやう\n|kanon=えい<えい<ゑい\n|kun=よ-む, うた-う, なが-める, え-, ええ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{m|ja|咏}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-spellings|えい|詠|咏}}\n{{ja-kanjitab|えい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|詠}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えい|acc=1|acc_ref=DJR|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えい}}\n\n# [[recite]] (poetry); [[sing]]; [[hum]]; [[chant]]\n# [[compose]] (poetry)\n# [[poetry]]"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えい}}\n\n# {{lb|ja|literary}} the [[composition]] of [[poetry]]; [[compose]]d [[poetry]]\n# {{rfdef|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

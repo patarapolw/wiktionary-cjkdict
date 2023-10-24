@@ -1,0 +1,34 @@
+{
+  "title": "悔",
+  "ns": 0,
+  "id": 15530,
+  "timestamp": 1553313412000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA3D}}\n{{character info|0x2F8A3}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心07|kyu=悔}} <!-- 悔 (U+FA3D) is the kyūjitai form (CJK Compatibility Ideograph) -->\n\n# to [[repent]], [[regret]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=かい<くわい, け\n|kun=く-いる, くや-しい, く-やむ\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

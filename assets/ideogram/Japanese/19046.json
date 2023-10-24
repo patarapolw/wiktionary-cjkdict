@@ -1,0 +1,59 @@
+{
+  "title": "液",
+  "ns": 0,
+  "id": 19046,
+  "timestamp": 1546557340000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=水08}}\n\n# [[liquid]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=やく\n|kanon=えき\n|kun=しる-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|不凍%液|ふとう%えき}}: [[antifreeze]]\n* {{ja-r|液%化|えき%か}}: [[liquefaction]]\n* {{ja-r|液%汁|えき%じゅう}}: [[juice]], [[sap]]\n* {{ja-r|液%晶|えき%しょう}}: [[liquid crystal]]\n* {{ja-r|液%状|えき%じょう}}\n* {{ja-r|液%相|えき%そう}}: [[liquid phase]]\n* {{ja-r|液%体|えき%たい}}: [[liquid]]\n* {{ja-r|血%液|けつ%えき}}: [[blood]]\n* {{ja-r|精%液|せい%えき}}: [[semen]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えき|yomi=o}}\nFrom {{etyl|ltc|ja|sort=えき}} {{m|zh|液|tr=yek||liquid}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|えき|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えき}}\n\n# [[liquid]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

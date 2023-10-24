@@ -1,0 +1,44 @@
+{
+  "title": "粙",
+  "ns": 0,
+  "id": 23105,
+  "timestamp": 1512446013000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=稻-Min}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Probably a variant of {{och-l|稻}} ({{zh-ref|Schuessler, 2007}}, ''apud'' {{w|Jerry Norman (sinologist)|Norman}}, [[p.c.]])."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhòu\n|c=zau6\n|md=diû\n|mn=xm,zz,tw:tiū/qz:tiǔ\n|mn-t=diu6\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chiefly|Min}} [[paddy]]; [[rice]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|稻子}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

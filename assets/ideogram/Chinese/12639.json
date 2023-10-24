@@ -1,0 +1,44 @@
+{
+  "title": "嗰",
+  "ns": 0,
+  "id": 12639,
+  "timestamp": 1549518575000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𠮶|alt=個-nonstandard,果-nonstandard}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=gě,gè\n|c=go2\n|cat=pron\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} [[that]]",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|那}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|嗰個:that|嗰啲:those|嗰便:there|嗰度:there|嗰處:there|嗰次:that time|嗰陣:at the time|嗰排:in those days|嗰頭:over there}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

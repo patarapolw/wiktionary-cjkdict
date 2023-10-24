@@ -1,0 +1,44 @@
+{
+  "title": "柣",
+  "ns": 0,
+  "id": 17456,
+  "timestamp": 1541857176000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhì\n|c=dit6\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|classical}} [[threshold]]; [[doorsill]]; [[doorstep]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-syn-saurus|門檻}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "商",
+  "ns": 0,
+  "id": 12452,
+  "timestamp": 1540639038000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=口08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=しょう<しやう\n|kun=あきな-う<あきな-ふ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|農商|のうしょう}}: [[agriculture]] and [[commerce]]\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}\n{{ja-kanjitab|しょう|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=しょう}} {{m|zh|商|tr=syang||commerce}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=o|しょう|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しょう|hhira=しやう}}\n\n# [[dealing]], [[dealer]], [[merchant]]\n# {{lb|ja|arithmetic|sort=しょう}} [[quotient]]"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|被除数|ひじょすう}}; {{ja-r|除数|じょすう}}; {{ja-r|剰余|じょうよ}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

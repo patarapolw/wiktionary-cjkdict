@@ -1,0 +1,78 @@
+{
+  "title": "臆",
+  "ns": 0,
+  "id": 24555,
+  "timestamp": 1552642171000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|肉|意|c1=s|c2=p|t1=body|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=肊-var. and 2nd‐round simp.,𩪣,𩪙}}\nCompare {{cog|tai-pro|*ʔɤkᴰ||chest}}, whence {{cog|th|อก}}. Cognate with {{och-l|意|mind}} and {{och-l|憶|to remember}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yì\n|c=jik1\n|h=pfs=\n|md=\n|mn=xm,zz,tw:ek/qz:iak\n|w=2i\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[chest]]; [[breast]]; [[bosom]]\n# [[thought]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|臆想|臆想狂|臆想症|臆斷|臆測|臆度|臆造|臆見|傾吐胸臆|直抒胸臆|胸臆}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=約,億,憶}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|mn=ml,tp,kh,tn,tc,hc,lk,sx,yl,km,mg:ioh/sx:ip\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Min Nan}} to [[guess]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{zh-l|猜}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A03368}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

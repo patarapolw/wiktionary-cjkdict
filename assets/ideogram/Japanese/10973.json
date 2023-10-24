@@ -1,0 +1,44 @@
+{
+  "title": "俵",
+  "ns": 0,
+  "id": 10973,
+  "timestamp": 1541860248000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=人08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう<へう\n|kanon=ひょう<へう\n|kun=たわら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|ひょう|counter|hhira=へう}}\n\n# [[bag]]s\n\n{{ja-kanjitab|たわら|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たわら}}\n\n# [[straw]] bag, [[bale]], [[sack]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

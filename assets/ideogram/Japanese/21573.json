@@ -1,0 +1,66 @@
+{
+  "title": "直",
+  "ns": 0,
+  "id": 21573,
+  "timestamp": 1553602013000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFAA8}}\n{{character info|0x2F940}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=目03}}\n\n# [[straight]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じき<ぢき, じか<ぢか\n|kanon=ちょく\n|kun=ただ-ちに, なお-す<なほ-す, なお-る<なほ-る, あたい-<あたひ-, す-ぐ, なお-き<なほ-き\n|nanori=すぐ, なおい, のう, のお<!--<のほ-->\n}}\n{{attention|ja|expand on readings; check [[じか]] (jika), hist. [[ぢか]] (dika), ち, じ (ぢ)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|直%径|ちょっ%けい|gloss=diameter}}\n* {{ja-r|直%角%三%角%形|ちょっ%かく-%さん%かっ%けい|gloss=right triangle}}\n* {{ja-r|直流|ちょくりゅう|gloss=direct current}}\n* {{ja-r|直%感|ちょっ%かん|gloss=intuition}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|じか|yomi=k}}\n\nSound change from ''jiki''.<ref>{{R:Daijisen}}</ref>\n\n{{etystub|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|prefix|じか}}\n\n# [[directly]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|直%接|ちょく%せつ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ja-r|直 に|じか に}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

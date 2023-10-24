@@ -1,0 +1,39 @@
+{
+  "title": "氣",
+  "ns": 0,
+  "id": 18581,
+  "timestamp": 1550130248000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|气|気|炁}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|気|氣}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=气06|shin=気}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=き\n|kun=いき-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Not used in modern Japanese. Replaced by the [[新字体#Japanese|shinjitai]] form {{m|ja|気}}."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

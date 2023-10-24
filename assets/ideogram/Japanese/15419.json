@@ -1,0 +1,46 @@
+{
+  "title": "急",
+  "ns": 0,
+  "id": 15419,
+  "timestamp": 1546360932000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=心05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう\n|kanon=きゅう<きふ\n|kun=いそ-ぐ, いそ-がしい, いそが-しい, いそ-めく, せ-く, せき\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjectival noun",
+              "text": "{{ja-adj|きゅう|hhira=きふ|infl=na}}\n\n# [[sudden]]\n# [[immediate]], [[rapid]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|きゅう}}\n\n[[Category:Japanese basic words]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

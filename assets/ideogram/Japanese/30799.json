@@ -1,0 +1,59 @@
+{
+  "title": "難",
+  "ns": 0,
+  "id": 30799,
+  "timestamp": 1553875718000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|难}}\n{{character info/new}}\n{{character info/new|0xfa68}}\n{{character info/new|0xfac7}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|k=s}} <!-- U+FA68 is the kyūjitai form -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=隹11|kyu=難}}\n\n# [[difficult]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=なん, な\n|kanon=だん, だ\n|kun=むずか-し.い, かた-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|有り難う|ありがとう}}\n* {{ja-r|難解|なんかい}}\n* {{ja-r|難境|なんきょう}}: [[difficult]] [[situation]], [[difficult]] [[circumstances]]\n* {{ja-r|難色|なんしょく}}\n* {{ja-r|難事件|なんじけん}}\n* {{ja-r|難問|なんもん}}\n* {{ja-r|非難|ひなん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|なん}}\n\nFrom {{bor|ja|ltc|sort=なん|-}} {{ltc-l|難|id=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|なん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なん}}\n\n# [[difficulty]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

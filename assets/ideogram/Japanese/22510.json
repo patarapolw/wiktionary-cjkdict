@@ -1,0 +1,44 @@
+{
+  "title": "穣",
+  "ns": 0,
+  "id": 22510,
+  "timestamp": 1513238331000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|穰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|穣|穰}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾13|kyu=穰}}\n\n# {{defn|lang=ja|sort=禾13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=じょう\n|kun=ゆた-か, わら\n|nanori=しげ, みのり, みのる, ゆずる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Number",
+              "text": "'''穣''' ([[じょう]], [[jō]])\n\n# A number of 10<sup>28</sup> in modern Japanese since 17th century."
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ゆたか}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|ゆたか]]\n[[Category:Japanese numeral symbols|10^28]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

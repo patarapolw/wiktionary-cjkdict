@@ -1,0 +1,59 @@
+{
+  "title": "活",
+  "ns": 0,
+  "id": 18914,
+  "timestamp": 1553554618000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|话|㓉}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=水06}}\n\n# Active",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がち\n|kanon=かつ<くわつ\n|kun=い-きる, よみがえる\n}}\n{{attention|ja|historical form of goon reading (probably gwachi)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|活火|かっか}}\n* {{ja-r|活花|いけばな}}\n* {{ja-r|活気|かっき}}\n* {{ja-r|活況|かっきょう}}\n* {{ja-r|活計|かっけい}}\n* {{ja-r|活殺自在|かっさつじざい}}\n* {{ja-r|活字|かつじ}}\n{{mid3}}\n* {{ja-r|活人剣|かつじんけん}}\n* {{ja-r|活水|かっすい}}\n* {{ja-r|活塞|かっそく|[[piston]]}}\n* {{ja-r|活動|かつどう}}\n* {{ja-r|活発|かっぱつ}}\n* {{ja-r|活版|かっぱんん}}\n* {{ja-r|活仏|かつぶつ}}\n* {{ja-r|活物|かつぶつ}}\n{{mid3}}\n* {{ja-r|活用|かつよう}}\n* {{ja-r|活力|かつりょく}}\n* {{ja-r|活路|かつろ}}\n* {{ja-r|活火山|かっかざん}}\n* {{ja-r|生活|せいかつ}}\n* {{ja-r|復活|ふっかつ}}\n* {{ja-r|復活祭|ふっかつさい}}\n{{bottom}}\n\n{{ja-kanjitab|かつ|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=かつ}} {{m|zh|活|tr=hwat||to live}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|かつ|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かつ}}\n\n# [[life]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

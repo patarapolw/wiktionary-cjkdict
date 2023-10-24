@@ -1,0 +1,64 @@
+{
+  "title": "是",
+  "ns": 0,
+  "id": 16983,
+  "timestamp": 1553510588000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|昰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=昰}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etyl}}\nOriginally a {{Han compound|早|止|ls=psc|c1=s|c2=p|nocap=1}}, but the original meaning is unclear. It has been suggested that {{zh-l|*早}} looks like a spoon, so {{zh-l|*是}} may have been the original character for {{och-l|匙|spoon}}. As early as in late bronze inscriptions, the lower part of {{zh-l|*早}} split off and combined with {{zh-l|*止}} to give {{zh-l|*昰}}, which carried over to the small seal script, and ''{{w|Shuowen}}'' considers this a compound of {{Han compound|日|正|t1=sun|t2=upright; right}} (i.e. as the upright sun)."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "“This [an independent pronoun] > be right, correct, to be, so”. From {{inh|zh|sit-pro|*m-daj ~ m-di||that; this}}. Cognate with {{cog|bo|དེ||that}}, {{cog|kac|dai}}, {{m|kac|ndai||this}}.\n\nCognate with {{och-l|寔|this}}, {{och-l|實|this}} and {{och-l|諟|to examine, to consider}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shì\n|m-s=si4\n|dg=сы1\n|c=si6\n|c-t=si5\n|g=si5\n|h=pfs=sṳ;gd=si4\n|j=si3\n|mb=sī\n|md=sê\n|mn=xm,zz,tw,sx,km,hc,tc:sī/qz,lk:sǐ\n|mn-t=si6\n|w=3zr\n|x=shr5\n|mc=y\n|oc=y\n|ma=y\n|cat=v,n,a,adv,det,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} [[this]]; this [[thing]]\n#: {{zh-x|是日|'''this''' day}}\n#* {{zh-x|是 可 忍，孰 不 可 忍？|If '''this''' can be tolerated, what cannot?|CL}}\n#* {{zh-x|日 出 于 ^暘谷，浴 于 ^咸池，拂 于 ^扶桑，是 謂 晨明。|The sun rises from Yanggu, bathes in Xianchi, and draws near to the Fusang: '''this''' is called Dawn.|ref=Huainanzi}}\n# {{lb|zh|copulative}} to [[be]]\n## {{n-g|indicating that the subject and object are the same.}}\n##: {{zh-x|泰晤士河 是 ^英國 第二 長 的 河流。|The River Thames '''is''' the second longest river in the UK.}}\n## {{n-g|indicating that the subject has the qualities described by a noun or noun phrase.}}\n##: {{zh-x|我 是 老師。|I '''am''' a teacher.}}\n##: {{zh-x|我 是 中國人。|I '''am''' Chinese.}}\n## {{n-g|indicating a place being occupied by the object, where the place forms the subject.}}\n##: {{zh-x|房子 前面 是 禾場。|The threshing floor '''is''' in front of the house.}}\n##: {{zh-x|到處 都 是|to '''be''' everywhere}}\n# {{n-g|a particle emphasizing the word following it.}}\n#: {{zh-x|我 是 昨天 買 的 票。|It '''was''' yesterday when I bought the ticket.}}\n#: {{zh-x|我 買 票 是 在 昨天。|It '''was''' yesterday when I bought the ticket.}}\n# {{n-g|a particle showing agreement. In this meaning, {{lang|zh|是}} is stressed.}} [[truly]]; [[indeed]].\n#: {{zh-x|天氣 是 冷。|It is '''indeed''' cold.}}\n#: {{zh-x|是，長{zhǎng}官。|'''Yes''', sir.}}\n#: {{zh-x|這 件 裙子{zi} '''是''' 很 漂亮，但是 太 貴 了。|Although this dress is truly beautiful, it's too expensive.}}\n# {{lb|zh|only in compounds}} [[true]], [[correct]]\n#* {{zh-x|不是|fault; mistake; wrongdoing}}\n#* {{zh-x|你 說 得{de} 是|What you said is '''right'''}}\n#* {{zh-x|各 行 其 是|to have each going his own way, i.e., doing what he considers '''right'''}}\n#* {{zh-x|共 商 國 是|to discuss national affairs}} (This is a fossil word from Ancient Chinese where {{och-l|是}} originally means \"what is right (for the country)\", i.e., \"laws and policies\")\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{hide box|Usage notes|align=left|\nWhen translated as \"[[be|to be]]\", {{lang|zh|是}} is used only to link two nouns or nominal expressions.\n: {{zh-x|我 是 老師|I '''am''' a teacher}}\n: {{zh-x|泰晤士河 是 ^英國 第二 長 的 河流。|The River Thames '''is''' the second longest river in the UK.}}\n{{lang|zh|是}} is not used to link a noun and an adjective. The following sentence would be incorrect:\n: {{zh-x|@* 這 是 好|*}}\nThe correct sentence is\n: {{zh-x|這 很 好|This '''is (very)''' good}}\nHere, {{zh-l|很}} is used as a filler to link a noun and an adjective and is not interpreted as \"very\".\n\nA way to use {{lang|zh|是}} with an adjective is to use {{zh-l|的|tr=de}} after the adjective to turn it into a noun.\n: {{zh-x|那 隻 猫 是 黑 的|This cat is black (This cat is a black one)}}}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|是}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|是不是|是以|是否|是啥說啥|是故|是的|是非|是非不分|是非分明|是非曲直|是非自有公論|是非莫辨|乃是|也就是|事實求是|事求是|但是|便是|倒是|值得注意的是|假假若是|光是|凡是|利是|原因是|只是|可不是|可是|多得是|如是|實事求是|尤其是|就是|或是|於是|既是|有的是|橫是|正是|比比皆是|求是|為的是|煞是|獨行其是|盡是|硬是|確是|積非成是|算是|總是|老是|而是|自以為是|自行其是|若是|莫不是|莫衷一是|要不是|要是|賠不是|還是|那倒是|那是|重要的是|雖是|不是事|信是|不是話頭|不是玩的|不是了處|分辨是非|不是過|合是|又是|先是|不是頑的|原是|倒不是|惟命是聽|一身是膽|似是而非|怕不是|也是|不是路|惟命是從|不是算|人我是非|不是味|並不是|不是樣兒|多管是|惟力是視|唯利是求|可知是好|十如是|如何是好|今是昨非|以是|俯拾即是|亡是公|不是別人|不睹是|口是心非|多是|不是東西|唯利是圖|且是|怕是|大是不同|不是人|則是|可正是|不過是|惟利是營|惟利是圖|卻是|可是來|不是個兒|不是話|惹是招非|尋是尋非|不是風犯|很是|不是耍處|大是大非|師心自是|作如是觀|俯拾皆是|對不是|好是|不是滋味|惹是生非|大是|大不應是|不是頭勢|做不是|唯命是聽|一無是處|如是我聞|像是|惟利是逐|大管是|大睹是|唯是命題|不是|仍是|大不是|于是|國是|不是沒有|即是|不是頭|不是不|回頭是岸|單則是|不是頭路|唯命是從|唯利是視|唯利是從|不賭是|不是處|各行其是|唾是命|兀是|伏不是|多少是好|不完全是|便是呢|來者是客|敢則是|是古非今|是非之心|是樣兒|硬是要得|是日|的是|是則|敢是|沒是處|混淆是非|搬是造非|昨非今是|挑撥是非|祇是|是是非非|無是無非|於是乎|皆是|無是處|稱是|本是|是父是子|犯不是|撥弄是非|掠是搬非|是正|甚是|是非堆|比肩皆是|是時|招是惹非|扯是搬非|滿是|是事|果如是言|沒有不是|生是|空即是色|沉默是金|是非得失|是非黑白|是件|早是|真是|是味兒|百無一是|是非善惡|是必|明辨是非|扭是為非|當是|番番是福|由是|用是|柳如是|猶是|物是人非|搬弄是非|是須|渾是|是非顛倒|是長是短|派不是|沒個是處|招是攬非|擔不是|直是|是非題|是非之地|是處|敢只是|渾身是膽|沒是哏|敢莫是|是非人我|索是|道謀是用|竟是|頭頭是道|陪不是|觸目皆是|須不是|說一是一|閑是閑非|莫衷壹是|落不是|見風是雨|阿是穴|習非勝是|馬是得|顛倒是非|須是|非昔是今|論列是非|自是|習非成是|莫是|過是|這的是|馬首是瞻|貌是情非|賠個不是|義方是訓|豈不是|說不是|職是|莫敢是|說是談非|抑是}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}\n* {{thcwd|5013}}\n\n{{zh-cat|Beginning}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

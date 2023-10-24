@@ -1,0 +1,71 @@
+{
+  "title": "借",
+  "ns": 0,
+  "id": 11028,
+  "timestamp": 1549652421000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|藉}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=人08}}\n\n# to [[borrow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃ, しゃく\n|kanon=しゃ, せき\n|kun=か-る, か-りる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|貸借|たいしゃく}}: [[debit]] and [[credit]]; a [[loan]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|か|o1=り}}\nOriginally the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of classical verb {{m|ja|借る|tr=karu||to borrow}}, now also the {{m|ja|連用形|tr=ren'yōkei}} of modern verb {{m|ja|借りる|tr=kariru||to borrow}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|かり|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|借り}} {{qualifier|more common in running text}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かり}}\n\n# [[borrowing]], a [[debt]], a [[loan]] {{qualifier|for the borrower, not the lender}}\n# {{lb|ja|sort=かり|obsolete}} in the {{w|Edo period}}, a [[system]] for arranging [[house call]]s by [[prostitute]]s\n# {{lb|ja|sort=かり|accounting|abbreviation}} [[borrower]], [[debtor]]: short for {{m|ja|借り方|tr=karikata}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Antonyms",
+                  "text": "{{sense|borrowing, debt}} {{ja-r|貸し|かし}}: [[lending]], a [[credit]], a [[loan]] {{qualifier|for the lender, not the borrower}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

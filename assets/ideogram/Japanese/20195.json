@@ -1,0 +1,75 @@
+{
+  "title": "燕",
+  "ns": 0,
+  "id": 20195,
+  "timestamp": 1552570607000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鷰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火12}}\n\n# [[swallow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えん\n|kanon=えん\n|kun=つばめ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{ja-kanjitab|つばくらめ|yomi=k}}\n{{ja-pron|acc=3|acc2=4|つばくらめ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つばくらめ}}\n\n# a [[swallow]] {{gl|bird}}\n#* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]] (page 11)\n#*: 「[...] 石上の中納言には、'''燕（つばくらめ）'''の持たる子安のかい、ひとつ取りて賜へ」\n#* {{RQ:Wamyō Ruijushō|7|29}}\n#*: 是我邦所謂'''豆波久良米'''也"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{ja-kanjitab|つばめ|yomi=k}}\n{{ja-pron|acc=0|y=k|つばめ}}\n{{swp|lang=ja|ツバメ}}\n{{wikispecies|Hirundo rustica}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つばめ|ツバメ}}\n\n# a [[barn swallow]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|雨%燕|アマ%ツバメ}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|つばめ|proper}}\n\n# a [[place name]], such as that of Tsubame City in [[Niigata]] Prefecture"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{cite-book\n|last=Horiuchi\n|first=Hideaki\n|coauthors=Ken Akiyama\n|title=[[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]\n|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]\n|date=1997\n|location=Tōkyō\n|isbn=4-00-240017-4\n}}\n* {{R:Wamyō Ruijushō}}\n\n{{C|ja|Swallows|Cities|Japan|sort=つばめ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

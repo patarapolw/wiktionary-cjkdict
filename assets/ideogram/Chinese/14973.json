@@ -1,0 +1,66 @@
+{
+  "title": "幺",
+  "ns": 0,
+  "id": 14973,
+  "timestamp": 1550605983000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|么|ㄠ|ㆯ}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=么}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yāo,āo,2nb=variant\n|m-s=yao1\n|c=jiu1\n|h=pfs=yêu\n|mn=io/au\n|mn-t=iao1\n|w=\n|mc=y\n|oc=y\n|ma=|ma2=\n|cat=a,n,pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[tiny]]; [[minute]]\n#: {{zh-x|幺麼[麽]{mó}|small; minute}}\n# [[youngest]]\n#: {{zh-x|老幺|informal manner of referring to the last (youngest) child in a family}}\n# [[one]] {{qualifier|an alternative way of saying the numeral, especially on the phone or in the military}}\n# [[ace]]; [[one]] on [[dice]] or [[dominoes]]\n# {{surname|lang=zh}}\n# {{lb|zh|loanword|Mainland}} [[yocto-]] {{gloss|[[Appendix:SI units|SI unit]] prefix}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|幺溝/幺沟/么沟}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "* {{zh-l|么}} is used instead of {{lang|zh|幺}} in mahjong and as a surname. ''{{w|Xiandai Hanyu Guifan Cidian}}'' ({{w2|zh|pref=《|现代汉语规范词典|suf=》}}) says '{{lang|zh|幺}}' and '{{lang|zh|么}}' are different characters."
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "{| class=\"wikitable\"\n! colspan=2 | SI prefix\n|-\n! Last\n!\n|-\n| {{l|zh|[[介]]/[[仄]]}}\n| {{lang|zh|[[攸]]/[[幺]]}}\n|}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|糸|v}}\n\n{{cln|zh|numeral symbols|numerals}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

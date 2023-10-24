@@ -1,0 +1,66 @@
+{
+  "title": "唵",
+  "ns": 0,
+  "id": 12435,
+  "timestamp": 1550519021000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口08}}\n\n# [[syllable]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=おん<おん<おむ\n|kanon=あん<あん<あむ\n|kun=ふく-む\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おん|yomi=on}}\n{{IPAfont|*/om/}} → {{IPAchar|/omu/}} → {{IPAchar|/oɴ/}}\n\nFrom {{bor|ja|ltc|sort=おん|-}} {{ltc-l|唵}}, itself a [[transliteration]] of {{bor|ja|sa|sort=おん|ओम्}}.<ref name=\"NP\">{{R:Nipponica}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref><ref>{{R:Sekai Dai Hyakka Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|おん|y=goon}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おん|オン}}\n\n# {{lb|ja|Buddhism|sort=おん}} [[om]], [[aum]]\n#: {{synonyms|ja|オーム|tr=ōmu}}"
+            },
+            {
+              "level": 3,
+              "title": "Interjection",
+              "text": "{{ja-pos|interjection|おん|オン}}\n\n# {{lb|ja|Buddhism|sort=おん}} [[om]], [[aum]]\n#: {{synonyms|ja|オーム|tr=ōmu}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|唵 阿毘羅%吽欠|おん あびら%うんけん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

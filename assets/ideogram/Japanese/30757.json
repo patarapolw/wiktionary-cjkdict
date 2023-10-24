@@ -1,0 +1,39 @@
+{
+  "title": "隻",
+  "ns": 0,
+  "id": 30757,
+  "timestamp": 1519141220000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|蒦|只}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=隹02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=せき\n|kun=ひと-つ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|せき|counter}}\n\n# boats or ships\n#: {{ja-usex|一隻|いっせき|one ship}}\n# one of two, one of a pair\n# birds, fish, or arrows"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

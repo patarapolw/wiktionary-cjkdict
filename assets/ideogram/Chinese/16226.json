@@ -1,0 +1,39 @@
+{
+  "title": "挼",
+  "ns": 0,
+  "id": 16226,
+  "timestamp": 1513534404000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=ruó,ruá\n|m-s=rua2\n|c=no4\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to rub\n# {{lb|zh|Sichuan}} to [[knead]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|挼挲|挼搓}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

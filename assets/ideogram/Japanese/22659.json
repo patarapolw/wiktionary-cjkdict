@@ -1,0 +1,61 @@
+{
+  "title": "竹",
+  "ns": 0,
+  "id": 22659,
+  "timestamp": 1551868575000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ケ}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=竹00}}\n\n# [[bamboo]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちく\n|kanon=ちく\n|toon=しつ\n|kun=たけ-\n|nanori=たか\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|松%竹%梅|しょう%ちく%ばい}}: An [[arrangement]] of [[pine]]s ({{ja-l|松}}, ''[[matsu]]''), [[bamboo]] ({{ja-l|竹}}, ''[[take]]''), and [[plum]] [[blossom]]s ({{ja-l|梅}}, ''[[ume]]'').\n* {{ja-r|竹%蜻蛉|たけ%とんぼ}}: a [[bamboo]] [[dragonfly]]/[[w:Bamboo-copter|bamboo-copter]]; a [[toy]]\n* {{ja-r|緑%竹|りょく%ちく}}: [[lush]] green [[bamboo]]\n* {{ja-r|竹%簡|ちく%かん}}\n* {{ja-r|竹%馬|たけ%うま}}\n* {{ja-r|竹%林|ちく%りん}}\n* {{ja-r|竹%薮|たか%やぶ}}\n* {{ja-r|竹刀|しない}}\n* {{ja-r|糸%竹|し%ちく}}\n\n{{ja-kanjitab|たけ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|たけ|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たけ|タケ}}\n\n# [[bamboo]]\n# the middle of a 3-tier ranking system",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{sense|rank}}\n** {{ja-r|松|まつ}}: pine, the highest rank\n** {{ja-r|梅|うめ}}: apricot, the lowest rank"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|たけ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

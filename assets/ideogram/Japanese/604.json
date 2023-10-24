@@ -1,0 +1,90 @@
+{
+  "title": "車",
+  "ns": 0,
+  "id": 604,
+  "timestamp": 1552899552000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|车|倝|重}}\n{{character info/new}}\n{{character info/new|codepoint=0xF902}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=車00}}\n\n# [[vehicle]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃ<しや, こ\n|kanon=しゃ<しや, きょ<きよ\n|kun=くるま-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|車輪|しゃりん}}\n* {{ja-r|新車|しんしゃ}}\n* {{ja-r|自転車|じてんしゃ}}\n* {{ja-r|電車|でんしゃ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|しゃ}}\n\nFrom {{bor|ja|ltc|sort=しゃ|-}} {{ltc-l|車|id=2}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|しゃ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|しゃ}}\n\n# {{n-g|used to count vehicles}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|しゃ}}\n\n# [[vehicle]]\n#: {{ja-usex|韓国'''車'''|かんこく'''しゃ'''|South Korean '''vehicle'''}}\n# [[train]] [[car]]\n#: {{synonyms|ja|車両}}\n#: {{ja-usex|女性専用'''車'''|じょせい-せんよう-'''しゃ'''|'''car''' for women only}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|くるま|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=くるま|-}}.  Appears in the ''{{w|Man'yōshū}}'' completed some time after 759 CE, with the ideographic spelling {{lang|ja|車}}.<ref>{{RQ:Manyoshu|4|694}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man4Yos.html#694 here]</ref>\n\nAssuming an initial meaning of {{m|en|wheel}}, may be a compound of {{compound|ja|sort=くるま|くる|tr1=kuru|pos1=related to spinning or rotating, as in {{m|ja|繰る|tr=kuru||to spin (as in thread)}}, {{m|ja|枢|tr=kuru||hinge}}, {{m|ja|くるくる|tr=kurukuru||spinningly, round and round}}, {{m|ja|転めく|tr=kurumeku||to spin round and round, to rotate; to be dizzy}}|ま|tr2=ma|pos2=a suffix added to various parts of speech to form an indeclinable word indicating state}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くるま|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|count=台|くるま}}\n\n# a [[car]], an [[automobile]], a [[carriage]], a [[cart]]\n# a [[wheel]], a [[caster]]\n# something [[wheel]]-[[shaped]]\n# a style of {{m|ja|紋|tr=mon||family [[crest]]}}\n# short for various terms:\n## {{short for|nocap=1|nodot=1|lang=ja|sort=くるま|車海老}} (''kuruma ebi''): a [[prawn]]\n## {{short for|nocap=1|nodot=1|lang=ja|sort=くるま|車懸}} (''kuruma-gakari''): “wheel formation”, a battle tactic where units attack in staged waves in order to prevent the opponent from resting\n## {{short for|nocap=1|nodot=1|lang=ja|sort=くるま|肩車}} (''kata-guruma''): riding on one's shoulders, [[piggyback]]\n## {{short for|nocap=1|nodot=1|lang=ja|sort=くるま|手車}} (''te-guruma''): a [[handcart]], a [[wheelbarrow]]\n## {{short for|nocap=1|nodot=1|lang=ja|sort=くるま|車座}} (''kuruma za''): [[sitting]] in a [[circle]]\n# {{lb|ja|sort=くるま|obsolete}} during the {{w|Edo period}}, in the [[red-light district]] in {{w|Ōsaka}}, a [[prostitute]] whose services cost four {{m|ja|匁|tr=monme}} and three {{m|ja|分|tr=bun}} (possibly in reference to the cost of a carriage ride)",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|車%椅子|くるま%いす|[[wheelchair]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Kokugo Dai Jiten}}\n\n[[Category:Japanese basic words|くるま]]\n[[Category:ja:Machines|くるま]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

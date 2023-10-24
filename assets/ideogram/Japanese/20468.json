@@ -1,0 +1,92 @@
+{
+  "title": "狢",
+  "ns": 0,
+  "id": 20468,
+  "timestamp": 1540270779000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|貉}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=犬06|kyu=貉}}\n\n# [[badger]]\n# [[raccoon dog]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がく\n|kanon=かく\n|kun=むじな-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wp|ムジナ}}\n{{wp|Mujina}}\n[[File:Wakan Sansai Zue - Mujina.jpg|thumb|A '''{{m|ja||狢|tr=mujina}}''' from the ''{{m|ja||和漢三才図会|tr={{w|Wakan Sansai Zue}}}}'']]\n</div>\n{{ja-kanjitab|むじな|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=むしな|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|むじな|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=貉|むじな|ムジナ}}\n\n# {{synonym of|lang=ja|穴熊|tr=anaguma|nodot=1|sort=むしな}}: a [[badger]]\n# {{lb|ja|regional|sort=むしな}} {{synonym of|lang=ja|狸|tr=tanuki|nodot=1}}: a [[raccoon dog]]\n#: from the similarity of its [[fur]] [[color]] compared to a ''badger''\n# {{lb|ja|mythology|sort=むしな}} a ''{{ll|ja|妖怪|yōkai}}'' that [[shapeshift]]s and deceives humans",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|狢%藻|ムジナ%モ|[[waterwheel plant]]|pos={{taxlink|Aldrovanda vesiculosa|species|ver=181022}}}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Proverbs",
+                      "text": "* {{ja-r|一つ穴の狢|ひとつ あな の むじな}}\n* {{ja-r|同じ穴の狢|おなじ あな の むじな}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|もじな|yomi=irr}}\n\nShift from ''mujina'' above.<ref>{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=貉|もじな}}\n\n# {{lb|ja|regional|sort=もしな}} ''Same as'' {{m|ja||むじな|tr=mujina}} ''above''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|うじな|yomi=irr}}\n\nFrom {{inh|ja|ojp|-}}, first attested in the ''{{w|Nihon Shoki}}'' (720 {{CE}}).<ref name=\"DJR\"/>\n\nPossibly a shift from ''mujina'' above.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=貉|うじな}}\n\n# {{lb|ja|obsolete|sort=うしな}} ''Same as'' {{m|ja||むじな|tr=mujina}} ''above''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

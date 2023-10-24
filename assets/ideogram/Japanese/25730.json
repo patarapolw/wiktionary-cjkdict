@@ -1,0 +1,83 @@
+{
+  "title": "蘊",
+  "ns": 0,
+  "id": 25730,
+  "timestamp": 1548742457000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|藴|蕴}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=艸16}}\n\n# [[pile up]]\n# [[deep]] [[inside]]\n# [[aggregate]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=うん, おん<をん\n|kanon=うん, おん<をん\n|kun=おさ-める<をさ-める, たくわ-える<たくは-へる, つ-む\n|nanori=おさむ<をさむ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|蘊奥|うんおう}}, {{ja-r|蘊奥|うんのう|[[mysteries]]}}\n* {{ja-r|蘊藉|うんしゃ}}\n* {{ja-r|蘊蓄|うんちく|[[vast]] [[stock]] of [[knowledge]]}}\n* {{ja-r|行蘊|ぎょう-うん}}\n* {{ja-r|五蘊|ご.うん|[[five]] ''[[skandhas]]'' of [[Buddhism]]}}\n* {{ja-r|色蘊|しき-うん}}\n* {{ja-r|識蘊|しき-うん}}\n* {{ja-r|受蘊|じゅ-うん|[[perception]]}}\n* {{ja-r|想蘊|そう-うん}}\n* {{ja-r|秘蘊|ひうん}}\n* {{ja-r|余蘊|よ.うん|[[inexhaustible]] [[supply]]}}\n* {{ja-r|海蘊|モズク}}: ''{{w|Cladosiphon okamuranus}}'', a type of [[edible]] [[seaweed]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|五蘊}}\n{{wp|Skandha}}\n</div>\n{{ja-kanjitab|うん|yomi=o}}\nFrom {{der|ja|ltc|sort=うん|-}} {{ltc-l|蘊}}.\n\nThe Buddhist sense is a translation of {{der|ja|sa|sort=うん|स्कन्ध||[[collection]], [[grouping]], [[heap]]}}<ref name=\"DJS\">{{R:Daijisen}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> or {{der|ja|pi|sort=うん|khandha||[[collection]], [[heap]]}}. See entry at {{m|ja|五蘊|tr=goun}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|薀}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=o|うん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|うん}}\n\n# [[pile up]]; [[gather]]; [[accumulate]]\n# [[depths]]; [[bottom]]; [[interior]]\n# {{lb|ja|Buddhism|sort=うん}} ''[[skandha]]'' ([[aggregate]])"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うん}}\n\n# [[abundance]], [[plentifulness]]\n# {{lb|ja|Buddhism|sort=うん}} a ''[[skandha]]'' ([[aggregate]])\n#: {{synonyms|ja|陰|tr=on}}\n#: {{hypo|ja|色|tr=shiki|受|tr2=ju|想|tr3=sō|行|tr4=gyō|識|tr5=shiki}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おさむ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|おさむ|hhira=をさむ}}\n\n# {{given name|male|lang=ja|A=a|nodot=1|sort=おさむ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

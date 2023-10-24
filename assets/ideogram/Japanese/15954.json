@@ -1,0 +1,59 @@
+{
+  "title": "戸",
+  "ns": 0,
+  "id": 15954,
+  "timestamp": 1550516042000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|戶|户}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=戶00}}\n\n# [[door]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ, ご\n|kanon=こ\n|kun=と-, へ-\n|nanori=え, へ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|雨%戸|あま%ど}}\n* {{ja-r|神%戸|^こう%べ}}\n* {{ja-r|松%戸|^まつ%ど}}\n{{der-bottom}}\n\n{{ja-kanjitab|と|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{inh|ja|ojp|sort=と|-}}, from {{inh|ja|jpx-pro|sort=と|*to}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|と|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|kyu=戶|と}}\n\n# [[door]]; a [[plate]] placed on [[doorway]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|と]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

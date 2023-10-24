@@ -1,0 +1,83 @@
+{
+  "title": "屋",
+  "ns": 0,
+  "id": 14347,
+  "timestamp": 1553446255000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=尸06}}\n\n# [[roof]]\n# [[dwelling]]\n# [[vendor]]\n# [[seller]]\n# [[store]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おく<をく\n|kanon=おく<をく\n|kun=や-, た\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|居%酒%屋|い%ざか%や|Japanese [[bar]], Japanese [[pub]]}}\n* {{ja-r|屋%宇|おく%う|[[house]]}}\n* {{ja-r|屋%烏|おく%う|[[crow]] perching on a [[roof]]}}\n* {{ja-r|屋%上|おく%じょう|[[rooftop]]}}\n* {{ja-r|家%屋|か%おく|[[house]], [[dwelling]]}}\n* {{ja-r|篝%屋|かがり%や|[[guardhouse]] during the Kamakura period}}\n* {{ja-r|紀%伊%國%屋|き%の%くに%や|[[w:Books_Kinokuniya|Kinokuniya]]}}\n* {{ja-r|名%古%屋|^な%ご%や}}\n* {{ja-r|パン屋|パンや|[[bakery]]}}\n* {{ja-r|本%屋|ほん%や|[[bookshop]]}}\n* {{ja-r|松%屋|まつ%や|[[department store]]}}\n* {{ja-r|部%屋|へ%や|[[room]] (of a house or hotel), [[chamber]], [[apartment]], [[flat]]}}\n* {{ja-r|牢%屋|ろう%や|[[prison]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|や|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|や|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|や}}\n\n# [[house]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|や}}\n\n# [[shop]]\n#: {{ja-usex-inline|[[パン屋]]|パンや|bakery}}\n# person who sells or does that thing; [[-ist]]\n#: {{ja-usex-inline|[[パン屋]]|パンや|baker}}\n#: {{ja-usex-inline|[[パン屋]]さん|パンや-さん|baker}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おく|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|おく|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おく|hhira=をく}}\n\n# [[house]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{c|ja|Buildings|sort=や'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

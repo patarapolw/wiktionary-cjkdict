@@ -1,0 +1,39 @@
+{
+  "title": "宰",
+  "ns": 0,
+  "id": 14175,
+  "timestamp": 1510384867000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=宀07}}\n\n# superintend",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=さい\n|kun=つかさど-る, つかさ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|おさむ|proper}}\n\n# {{given name|male|lang=ja|sort=おさむ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

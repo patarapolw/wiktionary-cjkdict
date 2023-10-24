@@ -1,0 +1,114 @@
+{
+  "title": "器",
+  "ns": 0,
+  "id": 12771,
+  "timestamp": 1552134677000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|噐|𠾖}}\n{{character info/new}}\n{{character info/new|0xfa38}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|器|pic2=器 kyuujitai.PNG}}\n[[File:RYAKUJI ki.png|thumb|right|100px|{{w|Ryakuji}} for 器.]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=口13|kyu=器}} <!-- Note: Kyūjitai form is 器 (U+FA38) -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=き\n|kanon=き\n|kun=うつわ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|き}}\nFrom {{etyl|ltc|ja|sort=き}} {{m|zh|器|tr=khij<sup>H</sup>||vessel; instrument}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|き}}\n* When used as a suffix, the resulting term has a [[downstep]] either right before, or one [[mora]] before, the ''ki''.\n:* If the preceding syllable has only one mora (as in ''ga'' or ''tsu''), the downstep occurs just after that mora:\n::: {{m|ja|瓦器||unglazed earthenware}}: {{ja-accent/down|が}}{{lang|ja|き}} <span class=\"Latn\"><tt>[gáꜜkì]</tt></span>\n::: {{m|ja|空気予熱器|tr=kūki yonetsuki||air pre-heater}}: {{lang|ja|く}}{{ja-accent/high|うきよね}}{{ja-accent/down|つ}}{{lang|ja|き}} <span class=\"Latn\"><tt>[kùúkí yónétsúꜜkì]</tt></span>\n:* If the preceding syllable has two [[morae]] (as in ''zen'' or ''tei''), the downstep occurs between the two morae:\n::: {{l|ja|安全器|tr=anzenki||safety cut-out}}: {{lang|ja|あ}}{{ja-accent/high|ん}}{{ja-accent/down|ぜ}}{{lang|ja|んき}} <span class=\"Latn\"><tt>[àńzéꜜǹkì]</tt></span>\n::: {{l|ja|円弧測定器|tr=enko sokuteiki||cyclometer}}: {{lang|ja|え}}{{ja-accent/high|んこそく}}{{ja-accent/down|て}}{{lang|ja|いき}} <span class=\"Latn\"><tt>[èńkó sókútéꜜèkì]</tt></span>"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|き}}\n\n# [[device]]; [[instrument]]\n# [[container]]; [[vessel]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Often used interchangeably with {{m|ja|機|tr=ki}} in compounds to indicate “machine”, with the subtlety that {{lang|ja|器}} implies a smaller device, perhaps hand-held, while {{ja-l|機}} implies a larger machine, such as an airplane. Compare {{m|ja|食器|tr=shokki||tableware}} and {{m|ja|飛行機|tr=hikōki||airplane}}, or [[homophone]]s {{m|ja|機械|tr=kikai||machine|pos=generally larger}} and {{m|ja|器械|tr=kikai||machine, tool|pos=generally smaller}}."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|器%械|き%かい}}: [[device]], [[machine]] {{qualifier|generally smaller}}\n* {{ja-r|食%器|しょっ%き}}: [[tableware]]\n* {{ja-r|茶%器|ちゃ%き}}: [[teaware]]\n* {{ja-r|茗%器|めい%き}}: [[teaware]]\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|き}}\n\n# [[device]]; [[instrument]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Can attach to various nouns that can be used as verbs, to indicate a device for carrying out the action. Examples:\n* {{m|ja|計量|tr=keiryō||measurement, measuring, gauging}} + {{m|ja|器|tr=-ki}} = {{m|ja|計量器|tr=keiryōki||a measuring device, a gauge}}\n* {{m|ja|尿|tr=nyō||urine}} + {{m|ja|器|tr=-ki}} = {{m|ja|尿器|tr=nyōki||urinal}}\n* {{m|ja|印字|tr=inji||print, type|lit=stamp + character}} + {{m|ja|器|tr=-ki}} = {{m|ja|印字器|tr=injiki||a printer|pos=a smaller device, such as a handheld number and letter puncher}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|計量器|けいりょうき}}: a [[measuring]] [[device]], a [[gauge]]\n* {{ja-r|尿器|にょうき}}: a [[urinal]]\n* {{ja-r|印字器|いんじき}}: a [[printer]] {{qualifier|a smaller device, such as a handheld number and letter puncher}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|うつわ}}\n{{IPAchar|/ut͡supa/}} → {{IPAchar|/ut͡suɸa/}} → {{IPAchar|/ut͡suwa/}}\n\nFrom {{etyl|ojp|ja|sort=うつわ}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Cognate with {{m|ja|空|tr=utsuo|pos=ancient ''utsupo'', ''utsubo''}}, signifying a {{m|en|hollowness}}. Appears to be a compound of {{m|ja|空}}, {{m|ja|内|tr=utsu||hollow|pos=combining form, standalone form ''uchi'', “inside”}} + {{m|ja|は|tr=ha}}. The derivation of this ''ha'' element is unclear.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|うつわ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うつわ|hhira=うつは}}\n\n# [[container]], [[vessel]]\n# a [[tool]], a [[utensil]]\n# one's [[degree]] of [[ability]]: [[talent]], [[calibre]]\n# [[female]] [[genitalia]]: a [[vagina]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|器%物|うつわ%もの}}: a [[container]]; [[ability]], [[talent]]; a [[musical instrument]]"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{der-top|Synonyms}}\n* {{sense|container}} {{ja-r|入れ物|いれもの}}, {{ja-r|容器|ようき}}\n* {{sense|utensil}} {{ja-r|器具|きぐ}} {{qualifier|smaller; such as in a kitchen}}\n* {{sense|tool}} {{ja-r|道具|どうぐ}} {{qualifier|bigger; overtones of {{m|en|equipment}}, such as in a garage}}\n* {{sense|ability}} {{ja-r|器量|きりょう}}\n* {{sense|vagina}} {{ja-r|膣|ちつ|pos=clinical}}, {{ja-r|女陰|じょいん|pos=formal}}, {{ja-r|まんこ|pos=slang, crude}}, {{ja-r|あそこ|pos=slang, euphemistic}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

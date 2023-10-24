@@ -1,0 +1,44 @@
+{
+  "title": "苣",
+  "ns": 0,
+  "id": 24849,
+  "timestamp": 1538325490000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸05}}\n\n# [[lettuce]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|kanon=きょ|goon=ご|kun=ちさ-,ちしゃ-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|ちさ|yomi=k}}\n{{ja-kanjitab|ちしゃ|yomi=k}}\n{{ja-pron|acc=1|ちしゃ|y=k|acc2=0|dev=1}}\n{{ja-pron|acc=0|acc2=2|ちさ|dev=1|y=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ちしゃ|チシャ}} {{ja-altread|hira=ちさ|kata=チサ}}\n\n# {{altspell|lang=ja|萵苣||[[lettuce]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

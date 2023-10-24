@@ -1,0 +1,97 @@
+{
+  "title": "綿",
+  "ns": 0,
+  "id": 23419,
+  "timestamp": 1553563537000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|绵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=糸08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=めん\n|kanon=べん\n|kun=わた-\n|nanori=う\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja|木綿|木綿 (cotton)}}\n{{wikipedia|Cotton}}\n[[File:CottonPlant.JPG|thumb|250px|{{lang|ja|綿}} (''men'', ''wata''): raw [[cotton]] on the bush.]]\n</div>\n{{ja-kanjitab|yomi=o|めん}}\nFrom {{etyl|ltc|ja|sort=めん}} {{m|zh|綿|tr=miɛn||wool; cotton; soft, downy}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|めん|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|めん}}\n\n# [[cotton]] {{qualifier|both the fiber and the cloth}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "As a standalone noun, the term {{m|ja|木綿|tr=momen||cotton|lit=tree or bush + woolly batting}} is used more often. This is especially true in speech, to avoid ambiguity with the various homophones, such as {{m|ja|面|tr=men||face}} or {{m|ja|麺|tr=men||noodle}}."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|木綿|もめん}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n</div>\n{{ja-kanjitab|yomi=k|わた}}\nFrom {{etyl|ojp|ja|sort=わた}}. Originally referred to any [[batting]] or [[stuffing]], which was generally unspun [[silk]]. The meaning shifted after the spread of [[cotton]] in the {{w|Muromachi period}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|わた|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{qualifier|both rare}} {{ja-l|棉}}, {{ja-l|草綿}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|わた}}\n\n# the [[cotton]] plant\n# raw [[cotton]]\n# [[batting]] or [[stuffing]]\n# {{lb|ja|sort=わた|metaphor}} the state of being [[exhausted]] or extremely [[tired]] {{qualifier|likely from the hard work required to pick cotton}}\n#: {{ja-usex|'''綿'''のように疲れた|'''わた''' の よう に つかれた|to be as tired as '''cotton''' → to be [[exhausted]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|真%綿|ま%わた}}: [[silk]] [[batting]]; silk [[floss]]\n* {{ja-r|綿%菓子|わた%がし}}: [[cotton candy]], [[candy floss]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

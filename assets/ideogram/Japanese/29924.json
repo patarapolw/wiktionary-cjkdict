@@ -1,0 +1,44 @@
+{
+  "title": "鐸",
+  "ns": 0,
+  "id": 29924,
+  "timestamp": 1549858999000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鈬|铎}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金13|shin=鈬}}\n\n# {{defn|lang=ja|sort=金13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だく\n|kanon=たく\n|kun=すず-\n|nanori=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぬりて}}\n\n# a [[bell]] used for [[signaling]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|20}}\n#*: 鈴鐸 上須受 下達洛反 '''奴利天'''"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{Shin'yaku Kegonkyō Ongi Shiki}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

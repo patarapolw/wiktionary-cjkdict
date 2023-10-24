@@ -1,0 +1,66 @@
+{
+  "title": "部",
+  "ns": 0,
+  "id": 28973,
+  "timestamp": 1546275536000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|卩}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=邑08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶ\n|kanon=ほ, ほう\n|kanyoon=ふ\n|kun=わ-ける, す-べる, つかさ-, へ-, べ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|部長|ぶちょう}}: division head\n* {{ja-r|部門|ぶもん}}: [[division]], [[group]], [[branch]]\n* {{ja-r|部屋|へや}}: [[room]] of a [[house]] or [[hotel]], [[chamber]], [[apartment]], [[flat]]\n* {{ja-r|細%部|さい%ぶ}}: [[details]], [[minor]]\n* {{ja-r|全部|ぜんぶ}}: [[everything]], [[all]]\n* {{ja-r|部%活%動|ぶ%かつ%どう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|ぶ|counter}}\n\n# copies of a [[newspaper]] or [[magazine]]"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぶ}}\n\n# [[division]], [[divide]], a [[part]]\n# [[section]], [[bureau]], [[department]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|ぶ|suffix}}\n\n# [[division]], [[bureau]]\n# [[school]] [[club]]\n#: {{ja-usex|野球'''部'''|やきゅう'''ぶ'''|baseball '''club'''}}\n#: {{ja-usex|茶道'''部'''|さどう'''ぶ'''|tea ceremony '''club'''}}\n# [[category]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This is a level higher than {{m|ja|-課|tr=-ka||department}}, since for example {{m|ja|部長|tr=buchō||division head}} is the boss of a {{m|ja|課長|tr=kachō||department head}}."
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|部%活%動|ぶ%かつ%どう}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

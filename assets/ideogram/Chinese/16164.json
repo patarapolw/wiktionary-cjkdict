@@ -1,0 +1,51 @@
+{
+  "title": "挄",
+  "ns": 0,
+  "id": 16164,
+  "timestamp": 1527673222000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=kuò\n|c=kwok3,kok3\n|mc=\n|oc=\n|ma=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# (archaic variant of [[擴]] [[扩]]) [[expand]], [[enlarge]], [[stretch]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 114]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=guāng\n|c=\n|ma=\n|cat=v,adv\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[swindle]], [[cheat]] out of, [[defraud]]\n# [[live]], [[exist]], [[survive]]\n# [[lively]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

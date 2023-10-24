@@ -1,0 +1,61 @@
+{
+  "title": "炉",
+  "ns": 0,
+  "id": 19833,
+  "timestamp": 1547139780000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|爐}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|炉|爐}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|kyu=爐|rs=火04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=ろ\n|kun=いろり-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|ろ|yomi=o}}\n{{der|ja|ltc|爐|sort=ろ}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|ろ|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|kyu=爐|ろ}}\n\n# [[furnace]], [[kiln]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|焜炉|こんろ}}\n* {{ja-r|風炉|ふうろ}}, {{ja-r|風炉|ふろ}}\n* {{ja-r|炉火|ろか}}, {{ja-r|炉火|ろび}}\n* {{ja-r|炉%端|ろ%ばた}}\n* {{ja-r|炉%辺|ろ%ばた}}, {{ja-r|炉辺|ろへん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

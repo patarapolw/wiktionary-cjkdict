@@ -1,0 +1,171 @@
+{
+  "title": "道",
+  "ns": 0,
+  "id": 28754,
+  "timestamp": 1552876244000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=辵09}}\n\n# [[road]]; [[way]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どう<だう\n|kanon=とう<たう\n|kun=みち-, ち-, じ-<ぢ-\n|nanori=さ, じ, ど, みつ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|合%気%道|あい%き%どう|[[aikido]]}}\n* {{ja-r|道%具|どう%ぐ|[[tool]]}}\n* {{ja-r|道%路|どう%ろ|[[road]]}}\n* {{ja-r|道%徳|どう%とく|[[ethics]]}}\n* {{ja-r|報%道|ほう%どう|[[broadcast]]}}\n* {{ja-r|柔%道|じゅう%どう|[[judo]]}}\n* {{ja-r|軌%道|き%どう|[[orbit]]}}\n* {{ja-r|赤%道|せき%どう|[[equator]]}}\n* {{ja-r|食%道|しょく%どう|[[oesophagus]]}}\n* {{ja-r|水%道|すい%どう|[[water]] [[supply]]}}\n* {{ja-r|鉄%道|てつ%どう|[[railway]]}}\n* {{ja-r|道%教|どう%きょう|[[Taoism]]}}\n* {{ja-r|道%理|どう%り|[[rational]]}}\n* {{ja-r|道%州%制|どう%しゅう%せい|[[wide]]-[[area]] [[administration]]}}\n* {{ja-r|書%道|しょ%どう|[[calligraphy]]}}\n* {{ja-r|武%道|ぶ%どう|[[budo]]}}\n* {{ja-r|跆%拳%道|たい%けん%どう|[[taekwondo]]}}\n* {{ja-r|空%手%道|から%て%どう|[[karate]]}}\n* {{ja-r|茶%道|さ%どう|[[tea ceremony]]}}\n* {{ja-r|華%道|か%どう|[[flower]] [[arrangement]]}}\n* {{ja-r|花%道|か%どう|[[flower]] [[arrangement]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|どう}}\n{{IPAchar|/dau/}} → {{IPAchar|/dɔː/}} → {{IPAchar|/doː/}}\n\nFrom {{der|ja|ltc|sort=どう|-}} {{ltc-l|道||road; way}}. Compare modern {{cog|cmn|-}} {{zh-m|道|tr=dào}}, {{cog|yue|-}} {{zh-m|道|tr=dou<sup>6</sup>}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|どう|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|どう|hhira=だう}}\n\n# [[Tao]] {{gloss|the way of nature}}; [[Taoism]]\n# {{lb|ja|chiefly|_|historical|sort=とう'}} A region of Japan consisting of multiple [[province]]s or [[prefecture]]s. Feudal Japan was divided into several ''dō''; the only remaining ''dō'' is [[w:Hokkaidō|Hokkaidō]]."
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|どう|hhira=だう}}\n\n# {{surname|lang=ja|sort=どう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|ち}}\nFrom {{inh|ja|ojp|sort=ち|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> May be cognate with {{cog|ko|-}} {{ko-inline|길||road}}.\n\nMore often written as {{ja-l|路}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ち}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|路}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|ち}}\n\n# {{lb|ja|sort=ち|obsolete}} attaches to place names, indicating a road to that place\n#: This usage has generally been replaced by ''-ji'' below."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|じ}}\nDerived as a sound shift from ''chi'' above.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nMore often written as {{ja-l|路}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|じ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|路}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|じ|hhira=ぢ}}\n\n# a [[road]], a [[street]]\n#: {{ja-usex|山'''道'''、長'''道'''|やま-'''じ'''、なが-'''じ'''|a mountain '''road''', a long '''road'''}}\n# attaches to place names, indicating a road to that place\n#: {{ja-usex|奈良'''道'''|^なら-'''じ'''|'''Road''' to Nara}}\n# attaches to a time duration, indicating a [[trip]] taking that length of time\n#: {{ja-usex|四日'''道'''|よっか-'''じ'''|a '''trip''' of four days, a four-day-long '''trip'''}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|みち}}\nOriginally a compound of {{compound|ja|sort=みち|御|tr1=mi|pos1=honorific prefix|道|tr2=chi|t2=road, street, way}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> The prefix ''mi'' was in reference to the {{m|ja|神|tr=kami||god or spirit}} of roads.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|みち|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|路}}, {{ja-l|途}}, {{ja-l|径}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みち}}\n\n# a [[way]], a [[street]], a [[road]], an [[alley]], a [[path]], a pass for local traffic\n#: {{ja-usex|'''道'''を歩く|'''みち''' を あるく|to walk down a '''road'''}}\n# {{lb|ja|figurative}} a [[road]], a [[path]]\n#: {{ja-usex|[[勝利]]への'''道'''|しょうり へ の '''みち'''|the '''path''' to victory}}\n# a [[way]] of doing something\n#: {{ja-usex|使い'''道'''がわからないもの|つかい'''みち''' が わからない もの|something whose '''method of''' usage is not known}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This is the most common term for “road”, “street”, or “way” in modern Japanese."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n* {{ja-r|道の駅|みち の えき}}: a [[rest stop]] along a [[highway]]\n* {{ja-r|一本道|いっぽんみち}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|みち}}\n\n# {{given name|female|lang=ja|sort=みち}}\n# {{surname|lang=ja|sort=みち}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=irr}}\nUsed as [[ateji]] in various names.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|おさむ|すすむ|ただし|ただす|なおし|まこと|みちひろ|もとい|わたる}}\n\n# {{given name|male|lang=ja|sort=おさむ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|たお|とおる|ふみ}}\n\n# {{given name|female|lang=ja|sort=たお}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|どうざき|みちざき}}\n\n# {{surname|lang=ja|sort=とうざき'}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|みち]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

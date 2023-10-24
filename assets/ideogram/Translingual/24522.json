@@ -1,0 +1,39 @@
+{
+  "title": "膥",
+  "ns": 0,
+  "id": 24522,
+  "timestamp": 1542165413000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=130|rad=肉|as=12|sn=18|four=|canj=DSOBO|ids=⿱⿰未成肉,⿱⿰末成肉}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* The G source glyph of this Unicode codepoint erroneously replaces {{zh-l|*未}} with the visually similar but unrelated {{zh-l|*末}}.\n** See also {{l|mul|𣚺}}."
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0996.111|dj=1445.131|hdz=52933.111|uh=81A5|ud=33189}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

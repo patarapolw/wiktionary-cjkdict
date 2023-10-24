@@ -1,0 +1,39 @@
+{
+  "title": "響",
+  "ns": 0,
+  "id": 31103,
+  "timestamp": 1553901097000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|响}}\n{{character info/new}}\n\n{{character info/new|0xfa69}}\n{{character info/new|0xfaca}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|響|响|響|響}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* Note that {{w|shinjitai|Japanese shinjitai}} replaces [[鄉]] with [[郷]], dropping the top stroke on [[良]] and instead drawing [[艮]].\n* The {{w|Hanja|Korean form}} replaces [[鄉]] with [[鄕]], with [[皀]] in the middle instead of [[良]].\n* Due to {{w|Han unification}}, Chinese, Japanese and Korean forms are encoded under the same [[code point]].\n* Two unicode {{w|z-variant}}s exist. U+FA69 corresponds to its {{w|Kangxi Dictionary}} form, which is also the [[kyūjitai]] form while U+FACA corresponds to its [[shinjitai]] form."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=180|rad=音|as=11|asj=10|sn=21|snj=20|four=27601|canj=VLYTA|ids=⿱鄉音(GHTV),⿱郷音(J,U+FACA),⿱鄕音(K)}}\n<!-- Chinese and Japanese forms have same stroke count due to 阝 being considered as 3 strokes in Japanese -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1398.020|dkj=43318|dj=1914.060|hdz=74498.100|uh=97FF}}\n* {{Han ref|uh=FA69}}\n* {{Han ref|uh=FACA}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

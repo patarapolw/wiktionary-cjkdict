@@ -1,0 +1,49 @@
+{
+  "title": "鸓",
+  "ns": 0,
+  "id": 32797,
+  "timestamp": 1550484095000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|畾|鳥|ls=psc|c1=p|c2=s|t1=bird}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lěi\n|c=leoi5\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-div|鼠}} [[flying squirrel]]\n# {{lb|zh|Chinese mythology}} a [[bird]] with two heads and four legs that [[resemble]]s the [[magpie]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|鸓鼠|飛鸓|蜚鸓}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{zh-l|鼺}}\n\n{{zh-cat|Squirrels|Mythological creatures}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

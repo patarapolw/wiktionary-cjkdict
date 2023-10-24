@@ -1,0 +1,162 @@
+{
+  "title": "弓",
+  "ns": 0,
+  "id": 15143,
+  "timestamp": 1553744622000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|弖|弔}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=弓00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く, くう\n|kanon=きゅう<きゅう\n|kun=たらし-, ゆ-, ゆみ-\n|nanori=こ, ゆ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|ゆ}}\n\nFrom {{inh|ja|ojp|sort=ゆ|-}}. In modern {{cog|ja|-}}, only found as a prefix in compounds.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ゆ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|ゆ}}\n\n# a [[bow]], a bow [[shape]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|弓%懸|ゆ%がけ}}, {{ja-r|弽|ゆがけ}}, {{ja-r|韘|ゆがけ}}\n* {{ja-r|弓%束|ゆ%づか}}, {{ja-r|弓%柄|ゆ%づか}}, {{ja-r|弣|ゆづか}}\n* {{ja-r|弓%末|ゆ%ずえ}}\n* {{ja-r|弓%弦|ゆ%づる|[[bowstring]]}}\n* {{ja-r|弓%弭|ゆ%はず}}, {{ja-r|弓%筈|ゆ%はず}}, {{ja-r|弓%彇|ゆ%はず|[[nock]] on a [[bow]] where the [[bowstring]] sits}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja|弓 (楽器)}}\n{{wikipedia|Bow (music)}}\n[[File:Bows-ViolaBassGdulkaKemence.jpg|thumb|250px|{{lang|ja|弓}} (''yumi''): Four different types of '''bow'''.]]\n{{wikipedia|lang=ja|弓 (武器)}}\n{{wikipedia|Bow and arrow}}\n[[File:Yumi-p1000624.jpg|thumb|250px|{{lang|ja|弓}} (''yu'', ''yumi'', ''tarashi'', ''kyū''): Japanese '''bows''', arrows, and arrow-stand.]]\n</div>\n{{ja-kanjitab|yomi=k|ゆみ}}\n\nFrom {{inh|ja|ojp|sort=ゆみ|-}}.  Appears in the ''{{w|Man'yōshū}}'' (c. 759 {{CE}}).  A surface analysis suggests a combination of {{cog|ojp|-}} ''yu'' (see above) + suffixing element ''mi'', itself of uncertain derivation.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ゆみ|acc=2|acc_ref=NHK,DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ゆみ}}\n\n# a [[bow]]:\n## {{lb|ja|weaponry|sort=ゆみ}} a bow for shooting [[arrow]]s\n## {{lb|ja|musical instrument|sort=ゆみ}} a bow for playing a [[stringed instrument]] such as a [[violin]] or [[cello]]\n# [[archery]]\n# {{lb|ja|Shinto|sort=ゆみ}} a type of [[kagura]] (sacred Shinto song and dance) intended to drive away [[evil]]\n# short for {{ja-r|破%魔 弓|は%ま ゆみ}}: a ceremonial archery bow with the power to dispel evil\n# a bow [[shape]], a [[curve]]\n# a bow-shaped [[tool]] used to [[beat]] [[ginned]] [[cotton]] into a softer and finer [[textile]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Coordinate terms",
+                      "text": "* {{sense|archery}} {{ja-l|矢|や|ya}}: an [[arrow]]"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|弓%矢|ゆみ%や|[[bow and arrow]]}}\n* {{ja-r|梓 弓|あずさ ゆみ|a [[catalpa]] [[wood]] [[bow]]}}\n* {{ja-r|破%魔 弓|は%ま ゆみ|a [[traditional]] [[Shintō]] [[ceremonial]] [[bow]] for [[dispel]]ling [[evil]]}}\n* {{ja-r|重籐 弓|しげどう ゆみ}}, {{ja-r|滋籐 弓|しげどう ゆみ}}, {{ja-r|繁籐 弓|しげどう ゆみ|a [[rattan]] wood bow}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|ロングボウ||longbow}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Further reading",
+                      "text": "* {{projectlink|wikipedia|lang=ja|弓_(武器)}} (archery)\n* {{projectlink|wikipedia|Yumi|Yumi (Japanese archery bow)}}\n* {{projectlink|wikipedia|lang=ja|弓_(楽器)}} (music)\n* {{projectlink|wikipedia|Bow_(music)}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|たらし}}\n\nAlteration from ''torashi'', {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb ''torasu'', from ''tora'' as the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|取る|tr=toru||to take}} + {{m|ja|す|tr=su|pos=honorific suffix in {{etyl|ojp|-}}}}. Original meaning was “something kept [[to hand]]”.<ref name=\"KDJ\"/><ref name=\"DJR\"/>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|たらし}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|執}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たらし}}\n\n# {{lb|ja|sort=たらし|rare|honorific}} an [[archery]] [[bow]], particularly one belonging to a [[noble]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-l|御%執|み%たらし|rom=-}}, {{ja-r|御%弓|み%たらし}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=kanon|きゅう}}\n\nFrom {{bor|ja|ltc|sort=きゅう|-}} {{ltc-l|弓}}.<ref name=\"KDJ\"/><ref name=\"DJR\"/> Compare modern {{etyl|cmn|-}} {{m|zh|弓|tr=gōng}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kan|きゅう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きゅう}}\n\n# {{lb|ja|rare|sort=きゅう}} a [[bow]]\n# {{lb|ja|obsolete|sort=きゅう}} in [[ancient]] [[Chinese]] [[archery]], a [[unit]] of [[length]] for measuring the [[distance]] between the [[archer]] and the [[target]]; one ''kyū'' was equal to six {{m|ja|尺|tr=shaku}}, roughly six [[feet]] or 182 [[centimeter]]s\n# {{lb|ja|obsolete|sort=きゅう}} in [[ancient]] [[China]], a [[unit]] of [[length]] for [[survey]]ing [[land]]; one ''kyū'' was equal to eight {{m|ja|尺|tr=shaku}}, roughly eight [[feet]] or 242 [[centimeter]]s",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "In modern {{etyl|ja|-}}, the reading ''kyū'' is most often found in compounds."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|胡弓|こきゅう}}: a [[traditional]] [[Chinese]] [[fiddle]]\n* {{ja-r|弓道|きゅうどう|}}: [[archery]] as a [[martial art]]\n* {{ja-r|大弓|だいきゅう}}: a [[great]] [[bow]], a [[long bow]]\n* {{ja-r|半弓|はんきゅう}}: a [[half]] [[bow]], a [[short bow]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "催",
+  "ns": 0,
+  "id": 11199,
+  "timestamp": 1547069817000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人11}}\n\n# {{defn|lang=ja|sort=人11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せ\n|kanon=さい\n|kun=もよ.お-す, うなが-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|催告|さいこく}}\n* {{ja-r|催促|さいそく}}\n* {{ja-r|催眠%術|さいみん%じゅつ}}\n* {{ja-r|催涙|さいるい}}\n* {{ja-r|催涙弾|さいるいだん}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

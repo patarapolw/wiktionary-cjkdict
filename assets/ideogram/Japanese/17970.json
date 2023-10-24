@@ -1,0 +1,56 @@
+{
+  "title": "槌",
+  "ns": 0,
+  "id": 17970,
+  "timestamp": 1554122744000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=木10}}\n\n# {{defn|lang=ja|sort=木10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=つい\n|kun=つち-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|破城槌|はじょうつい}}\n* {{ja-r|相槌|あいづち}}\n* {{ja-r|金槌|かなづち}}\n\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|つち}}\n\n# [[hammer]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|金槌|かなづち}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|ハンマー}}\n\n[[Category:ja:Tools|つち]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

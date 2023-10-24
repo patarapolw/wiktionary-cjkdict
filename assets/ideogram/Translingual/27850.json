@@ -1,0 +1,44 @@
+{
+  "title": "起",
+  "ns": 0,
+  "id": 27850,
+  "timestamp": 1550904904000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0x2f9d7}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order}}\n{{stroke order|type=animate}}\n{{CJKV-forms|起|起|起|起}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "The component in the top right corner is written as {{l|mul|巳}} according to Hong Kong and Taiwan standards (traditional Chinese script) and {{l|mul|己}} according to the writing standards of mainland China (simplified Chinese), Japan, Korea and Vietnam."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=156|rad=走|as=03|sn=10|four=47801|canj=GORU,GOSU|ids=⿺走巳(HT),⿺走己(GJKV)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* [[𛀪]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1215.150|dkj=37048|dj=1683.180|hdz=53476.020|uh=8D77|ud=36215|bh=B05F|bd=45151}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

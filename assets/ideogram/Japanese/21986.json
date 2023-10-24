@@ -1,0 +1,39 @@
+{
+  "title": "硴",
+  "ns": 0,
+  "id": 21986,
+  "timestamp": 1536693746000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}, combining the [[radical]] for {{m|ja|石||stone}} with the character for {{m|ja|花||flower}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=石07}}\n\n# [[oyster]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=かき-\n}}\n{{ja-kanjitab|かき|yomi=kun|sort=かき}}\n{{ja-see|牡蠣|gloss=[[oyster]]}}\n\n[[Category:Japanese-only CJKV Characters|石]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

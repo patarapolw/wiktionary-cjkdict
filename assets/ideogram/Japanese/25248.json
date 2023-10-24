@@ -1,0 +1,85 @@
+{
+  "title": "葛",
+  "ns": 0,
+  "id": 25248,
+  "timestamp": 1554084404000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "<!--{{wp|lang=ja}}-->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸09}}\n# {{defn|lang=ja|sort=艸09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かち\n|kanon=かつ\n|kun=くず-, かずら-<かづら-, つづら-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|かずら|yomi=kun}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|かずら|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かずら|hhira=かづら}}\n# [[creeper]], [[creep]]ing [[plant]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{wp|lang=ja|クズ}}\n{{ja-kanjitab|くず|yomi=kun}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|くず|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くず|クズ}}\n# [[kudzu]], [[Japanese arrowroot]] ({{taxlink|Pueraria montana|species}})"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|つづら|yomi=kun}}\n{{rfe|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|つづら|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つづら|ツヅラ}}\n# {{alternative spelling of|lang=ja|大葛藤||{{taxlink|Sinomenium acutum|species}}​}}\n# {{alternative spelling of|lang=ja|葛籠||[[wicker]] [[basket]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

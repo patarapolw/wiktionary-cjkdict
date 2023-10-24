@@ -1,0 +1,44 @@
+{
+  "title": "隆",
+  "ns": 0,
+  "id": 30703,
+  "timestamp": 1552459273000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xf9dc}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|隆|隆|隆}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note that there is no line above [[生]] in Japanese {{w|shinjitai}}. A CJK compatibility ideograph (U+F9DC) exists for the {{w|kyūjitai}} form of {{ja-l|隆}} which has an extra line above [[生]]. Due to {{w|Han unification}}, the Chinese form (with line above [[生]]) and Japanese form (without line) are encoded under the same codepoint. The character [[𨺓]] (U+28E93) exists for the Chinese form with no line above [[生]]."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=170|rad=阜|as=09|sn=12|snj=11|four=77214|canj=NLHEM|ids=⿰[[阜|阝]]⿳夂一生(GHTKV),⿰阝⿱夂生(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[嶐]], [[漋]], [[癃]], [[窿]], [[蕯]], [[霳]], [[㝫]], [[㦕]], [[䃧]], [[鿧]], [[𠘓]], [[𠾐]], [[𥀼]], [[𥳌]], [[𧑟]], [[𪔳]], [[𪔴]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1356.220|dkj=41720|dj=1860.170|hdz=64148.050|uh=9686|ud=38534|bh=B6A9|bd=46761}}\n* {{Han ref|uh=F9DC}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

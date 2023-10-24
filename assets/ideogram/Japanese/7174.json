@@ -1,0 +1,44 @@
+{
+  "title": "損",
+  "ns": 0,
+  "id": 7174,
+  "timestamp": 1553572711000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|损}}\n{{character info/new}}\n<!-- may be replaced by zh-forms -->",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=手10}}\n\n# [[harm]] <!-- \"Kanji\" is a POS header -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そん\n|kanon=そん\n|kun=そこ-なう<そこ-なふ, そこな-う<そこな-ふ, そこ-ねる, へ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|損%失|そん%しつ|[[loss]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Synonyms",
+              "text": "* {{ja-r|失う|うしなう}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

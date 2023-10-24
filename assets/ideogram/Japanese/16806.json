@@ -1,0 +1,39 @@
+{
+  "title": "斂",
+  "ns": 0,
+  "id": 16806,
+  "timestamp": 1544184969000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|歛|㪘|敛}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|㪘|斂}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=攴13|shin=㪘}}\n\n# to [[tighten]]; to [[stiffen]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れん<れむ\n|kanon=れん<れむ\n|kun=おさ-める}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|斂葬|れんそう}}: {{l|en|interment}}; {{l|en|burial}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

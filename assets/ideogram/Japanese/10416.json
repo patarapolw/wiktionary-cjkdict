@@ -1,0 +1,68 @@
+{
+  "title": "並",
+  "ns": 0,
+  "id": 10416,
+  "timestamp": 1548954128000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|并|幷|竝}}\n{{character info/new}}\n{{character info/new|0xfa70}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|並|竝}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=一07|kyu=竝}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=びょう<びやう\n|kanon=へい\n|kun=なら-べる, なら-ぶ, なみ-, なら-びに\n}}\n\nAs a variant of {{l|ja|徬}}/{{l|ja|傍}}:<ref name=\"koukanwa\">{{lang|ja|諸橋轍次}} (Morohashi Tetsuji), et al. <cite>{{lang|ja|広漢和辞典}} (Kō Kan-Wa Jiten, “Extensive Chinese–Japanese Dictionary”)</cite>. 3 vols. plus an index. 1981–1982. Tokyo: Taishukan.</ref>\n{{ja-readings\n|goon=ぼう<ばう\n|kanon=ほう<はう\n|kun=よ-る, そ-う<そ-ふ, つら-なる\n}}\n\nAs a variant of {{l|ja|伴}}, and as in {{l|ja|同竝}}:<ref name=\"koukanwa\" />\n{{ja-readings\n|goon=ばん\n|kanon=はん\n|kun=ともな-う<ともな-ふ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{l|ja|大}}\n* {{l|ja|特}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なみ}}\n\n# something [[medium]], [[average]], [[common]], [[ordinary]]\n# a row or line of things",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|並%列|へい%れつ}}\n* {{ja-r|並%置|へい%ち}}\n* {{ja-r|並%木|な%みき}}\n* {{ja-r|人%並|ひと%なみ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|なみ}}\n\n# [[average]], [[medium]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|並み}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "魬",
+  "ns": 0,
+  "id": 32078,
+  "timestamp": 1540901436000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚04}}\n\n# {{defn|lang=ja|sort=魚04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ばん\n|kanon=はん\n|kun=かれい, ハマチ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{ja-pron|はまち|acc=0|acc_ref=NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はまち|ハマチ}}\n\n# young [[yellowtail]], young [[Japanese amberjack]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|鰍|いなだ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|鰤|ぶり|gloss=[[adult]] [[yellowtail]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Fish|はまち]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

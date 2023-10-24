@@ -1,0 +1,39 @@
+{
+  "title": "此",
+  "ns": 0,
+  "id": 18385,
+  "timestamp": 1541858856000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|比}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=止02}}\n\n# Proximal demonstrative prefix, this (near speaker)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=これ-, こ-の, ここ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|此れ|これ}}\n* {{ja-r|此の|この}}\n* {{ja-r|此処|ここ}}\n* {{ja-r|此方|こちら}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

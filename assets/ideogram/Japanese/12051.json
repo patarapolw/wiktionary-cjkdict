@@ -1,0 +1,39 @@
+{
+  "title": "取",
+  "ns": 0,
+  "id": 12051,
+  "timestamp": 1548829399000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=又06}}\n\n# take, fetch, take up",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す\n|kanon=しゅ\n|kun=と-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|取る|とる}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

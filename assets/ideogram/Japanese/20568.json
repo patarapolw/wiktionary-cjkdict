@@ -1,0 +1,83 @@
+{
+  "title": "獄",
+  "ns": 0,
+  "id": 20568,
+  "timestamp": 1552876036000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|狱}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=犬10}}\n\n# {{defn|lang=ja|sort=犬10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ごく\n|kanon=ぎょく\n|kun=ひとや-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|獄%衣|ごく%い}}: [[prison]] [[clothes]]\n* {{ja-r|獄則|ごくそく}}: [[prison]] [[rules]]\n* {{ja-r|地%獄|じ%ごく}}: [[hell]]\n* {{ja-r|辺獄|へんごく}}: {{lb|en|theology}} [[limbo]]\n* {{ja-r|煉獄|れんごく}}: {{lb|en|theology}} [[purgatory]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ごく|yomi=o}}\nFrom {{etyl|ltc|ja|sort=こく'}} {{m|zh|獄|tr=ngjowk||prison}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ごく|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ごく}}\n\n# [[prison]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ひとや|yomi=k}}\nCompound of {{compound|ja|人|tr1=hito|t1=human|屋|tr2=ya|t2=house|sort=ひとや}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ひとや|acc=0|dev=2|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-r|人%屋|ひと%や}}, {{ja-r|囚%獄|ひと%や}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひとや}}\n\n# [[prison]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Buildings|こく']]\n[[Category:ja:Prison|こく']]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

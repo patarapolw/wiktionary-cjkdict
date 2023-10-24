@@ -1,0 +1,42 @@
+{
+  "title": "氟",
+  "ns": 0,
+  "id": 18577,
+  "timestamp": 1552110151000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{elements|F|氧|O|氖|Ne|lang=zh}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From earlier {{zh-l|弗氣}}, {{zh-l|弗素}}, which is probably a {{obor|zh|ja|-|nocap=1}}, where {{ja-r|弗|ふつ}} was used phonetically."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fú\n|c=fat1\n|mn=ml:hu̍t\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemistry}} [[fluorine]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|氟利昂}}\n\n{{zh-cat|Chemical elements}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

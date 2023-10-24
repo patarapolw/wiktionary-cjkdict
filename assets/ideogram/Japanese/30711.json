@@ -1,0 +1,39 @@
+{
+  "title": "階",
+  "ns": 0,
+  "id": 30711,
+  "timestamp": 1538114745000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|阶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=阜09}}\n\n# {{defn|lang=ja|sort=阜09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=かい\n|kun=きざはし-, はしご-, しな-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|かい|counter}}\n\n# [[floors]] (of a building)\n#: {{ja-usex|（私の）オフィスは五'''階'''にあります。|（わたし の） オフィス は ご-'''かい''' に あります。|(My) office is on the fifth '''floor'''.}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

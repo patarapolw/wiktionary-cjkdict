@@ -1,0 +1,104 @@
+{
+  "title": "象",
+  "ns": 0,
+  "id": 7183,
+  "timestamp": 1553572780000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𧰼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=豕05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞう<ざう\n|kanon=しょう<しやう\n|kun=かたち-, かたど-る, のり-\n|nanori=かた, きさ, たか\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Elephant}}\n[[File:Elephas_maximus_(Bandipur).jpg|thumb|250px|{{lang|ja|象}} (''zō'', ''kisa''): an Asian '''[[elephant]]'''.]]\n</div>\n{{ja-kanjitab|ぞう|yomi=o}}\n\n{{IPAchar|/zau/}} → {{IPAchar|/zɔː/}} → {{IPAchar|/zoː/}}\n\nFrom {{der|ja|ltc|sort=そう'|象|tr=zjang<sup>X</sup>||elephant; image, resemblance}}. Compare modern {{cog|yue|-}} reading ''zoeng<sup>6</sup>''.\n\nThe [[呉音#Japanese|goon]] reading, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|ぞう|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|count=頭|ぞう|ゾウ|hhira=ざう}}\n\n# [[elephant]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|アジア象|アジアぞう}}: [[Asian elephant]]\n* {{ja-r|アフリカ象|アフリカぞう}}: [[African elephant]]\n* {{ja-r|インド象|インドぞう}}: [[Indian elephant]]\n* {{ja-r|象嵌|ぞうがん}}, {{ja-r|象眼|ぞうがん}}: [[inlay]]\n* {{ja-r|象牙|ぞうげ}}: [[ivory]]\n* {{ja-r|象牙の塔|ぞうげのとう}}: [[ivory]] [[tower]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しょう|yomi=o}}\n\n{{IPAchar|/sjau/}} → {{IPAchar|/sjɔː/}} → {{IPAchar|/ɕɔː/}} → {{IPAchar|/ɕoː/}}\n\nFrom {{der|ja|ltc|sort=しょう|象|tr=zjang<sup>X</sup>||elephant; image, resemblance}}. Compare modern {{cog|nan|-}} reading ''siōng'' or {{cog|cmn|-}} ''xiàng''.\n\nThe [[漢音#Japanese|kan'on]] reading, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|しょう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しょう|hhira=しやう}}\n\n# [[likeness]], [[appearance]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|象形|しょうけい}}: [[hieroglyphics]]\n* {{ja-r|象徴|しょうちょう}}: [[symbol]]\n* {{ja-r|抽象|ちゅうしょう}}: [[abstraction]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|きさ|yomi=irr}}\n\nFrom {{inh|ja|ojp|sort=きさ|-}}. Cognate with {{m|ja|橒|tr=kisa||wood grain}}, from the way that [[ivory]] also has a [[grain]].<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|きさ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きさ}}\n\n# {{lb|ja|obsolete|sort=きさ}} [[elephant]]\n#* {{RQ:Wamyō Ruijushō|7|52}}\n#*: 象 [...] '''岐佐''' [...] 獣名、似水牛、大耳、長鼻、眼細、牙長者也\n#* {{RQ:Utsubo Monogatari|Toshikage}}\n#*: それより西を行ケば、虎狼ひと山さワぐ所有り。'''キサ'''出デてその山をこしつ。"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />\n:* {{R:Utsubo Monogatari 1}}\n:* {{R:Wamyō Ruijushō}}\n\n[[Category:Japanese basic words|そう']]\n[[Category:ja:Elephants|そう']]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

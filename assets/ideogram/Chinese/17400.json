@@ -1,0 +1,44 @@
+{
+  "title": "枲",
+  "ns": 0,
+  "id": 17400,
+  "timestamp": 1553552731000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xǐ\n|c=saai2\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[ramie]] (''{{w|Boehmeria nivea}}'')\n# [[male]] plant of [[nettle]]-[[hemp]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|枲麻}}\n\n{{zh-cat|Rosales order plants}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

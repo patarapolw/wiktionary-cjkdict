@@ -1,0 +1,56 @@
+{
+  "title": "沆",
+  "ns": 0,
+  "id": 18678,
+  "timestamp": 1553554441000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=hàng\n|c=hong4\n|mn=khòng\n|mc=2\n|oc=2\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|Used in {{zh-l|沆漭}} and {{zh-l|沆瀣}}, etc.}}\n# {{zh-hg}} (big) [[pool]]; [[lake]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|沆瀣|沆瀣一氣|漭沆|沆漭|沆溉}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=háng\n|mc=1\n|oc=1\n|cat=a,adv\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hg}} the appearance of [[water]] [[flow]]ing\n# {{zh-hg}} {{zh-synonym|渡}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

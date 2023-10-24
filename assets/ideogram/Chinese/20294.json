@@ -1,0 +1,54 @@
+{
+  "title": "爸",
+  "ns": 0,
+  "id": 20294,
+  "timestamp": 1552078274000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|父|巴|ls=psc|c1=s|c2=p|t1=father}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Colloquial form of {{och-l|父|father|id=2}}, from {{inh|zh|sit-pro|*p/ba||male; father}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bà\n|m-s=ba2\n|c=baa1\n|h=pfs=pâ\n|md=bă/bâ\n|mn=xm,tw:pē/qz:pě/zz:pēe/xm,qz,tw:pâ/zz,twv:pa/pā/qz:pǎ\n|mn_note=Xiamen, Zhangzhou, Taiwan: pē/pēe - vernacular (also written as {{zh-l|*父}}); pâ/pa - vernacular; pā - literary\nQuanzhou: pě - vernacular (also written as {{zh-l|*父}}); pâ, pā - vernacular; pǎ - literary\n|mn-t=bê6/ba1/ba5\n|mn-t_note=bê6 - vernacular (also written as {{zh-l|*父}}); ba1/ba5 - literary\n|w=1pa\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|colloquial}} [[father]]; [[dad]]\n#: {{zh-x|我 爸 是 ^李 ^@剛！|{{w|Li Gang incident|My '''father''' is Li Gang!}}}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|爸爸}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|爸爸|老爸|阿爸|郎爸}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

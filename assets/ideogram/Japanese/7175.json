@@ -1,0 +1,175 @@
+{
+  "title": "空",
+  "ns": 0,
+  "id": 7175,
+  "timestamp": 1551503128000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|🈳}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=穴03}}\n\n# [[sky]]\n# [[empty]], [[hollow]], [[bare]], [[void]], [[deserted]]",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く, くう\n|kanon=こう\n|kun=あ-く, あ-ける, うつ-ける, うつ-, うつお-, うつぼ-, うつ-ろ, う-ろ, から-, す-く, そら-, むな-し.い, あな-\n|nanori=たか\n}}"
+                },
+                {
+                  "level": 5,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|青%空|あお%ぞら}}\n* {{ja-r|青%空%市%場|あお%ぞら% いち%ば}}\n* {{ja-r|冬%空|ふゆ%ぞら}}\n* {{ja-r|空っぽ|からっぽ}}\n* {{ja-r|空%手|から%て}}\n* {{ja-r|空オケ|カラオケ}}\n* {{ja-r|空%気|くう%き}}\n* {{ja-r|空%間|くう%かん}}\n* {{ja-r|空%港|くう%こう}}\n* {{ja-r|空%中|くう%ちゅう}}\n* {{ja-r|空%輸|くう%ゆ}}\n* {{ja-r|空%洞|くう%どう}}\n{{mid2}}\n* {{ja-r|空%腹|くう%ふく}}\n* {{ja-r|空%白|くう%はく}}\n* {{ja-r|空%席|くう%せき}}\n* {{ja-r|真%空|しん%くう}}\n* {{ja-r|架%空|か%くう}}\n* {{ja-r|虚%空|こ%くう}}\n* {{ja-r|航%空|こう%くう}}\n* {{ja-r|航%空%便|こう%くう%びん}}\n* {{ja-r|空き缶|あきかん}}\n* {{ja-r|空き瓶|あきびん}}\n* {{ja-r|空き巣%狙い|あきす%ねらい}}\n* {{ja-r|空しい|むなし.い}}\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|空%揚げ|から%あげ|karaage}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|そら|yomi=kun}}\n\nFrom {{inh|ja|ojp|sort=そら|-}}.  Found in the ''{{w|Kojiki}}'' c. 712 CE.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|そら|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|虚}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そら}}\n\n# the [[sky]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|the sky}} {{ja-l|天|てん|ten}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Related terms",
+                      "text": "* {{ja-r|空で|そらで}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|から|yomi=kun}}\n\nCognate with {{ja-r|殻|から|[[shell]]}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|から|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|から}}\n\n# [[empty]]\n#: {{ja-r|'''空'''箱|'''から'''ばこ|empty [[box]]}}\n# [[ineffectual]]\n#: {{ja-r|'''空'''振り|'''から'''ぶり|[[in vain]]}}\n# [[false]]\n#: {{ja-r|'''空'''元%気|'''から'''げん%き|[[bravado]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-l|カラオケ|karaoke}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|くう|yomi=on}}\n\nFrom {{der|ja|ltc|sort=くう|-}} {{ltc-l|空}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|くう|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くう}}\n\n# empty air\n# [[meaninglessness]]\n# {{lb|ja|sort=くう|Buddhism}} [[shunya]] ([[Śūnyatā]]): [[emptiness]], [[vacuity]], [[awareness]], [[openness]], [[thusness]]\n# {{lb|ja|sort=くう|Buddhism}} {{w|Five elements (Japanese philosophy)#Void_(Aether)|void}}: one of the {{l|ja|五大}} (''godai''; lit. \"''[[great]] [[five]]); also known as {{l|ja|天}} ({{l|ja|そら}}, sora''), of particular importance as the highest of the five elements"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{rfe|ja}}\n{{ja-kanjitab|うろ|yomi=kun}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|うろ|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うろ}}\n\n# [[cavity]], [[hole]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{rfe|ja}}\n{{ja-kanjitab|うつお|yomi=kun}}\n/utuho/: utupo → utuɸo → utuwo → utuo. See also {{m|ja|空|tr=utsubo}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|うつお|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うつお|hhira=うつほ}}\n\n# {{alternative form of|うろ|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|うつぼ|yomi=kun}}\nSimilar etymology to {{m|ja|空|tr=utsuo}}. As /h/ gradually changed from [p] → [ɸ] → [w] → [Ø], the phoneme was voiced to [b] in order to maintain it.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|うつぼ|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うつぼ}}\n\n# {{alternative form of|うろ|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|そら]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

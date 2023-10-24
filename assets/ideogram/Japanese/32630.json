@@ -1,0 +1,100 @@
+{
+  "title": "鵬",
+  "ns": 0,
+  "id": 32630,
+  "timestamp": 1554061720000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鹏}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥08}}\n\n# ''{{w|Peng (mythology)|peng}}'' {{gl|[[fabled]] [[large]] [[bird]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぼう\n|kanon=ほう\n|kun=おおとり-\n|nanori=とも, ゆき\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鵬程|ほうてい|large distance}}\n* {{ja-r|鵬図|ほうと|large scheme}}\n* {{ja-r|鵬翼|ほうよく|[[wing]]s of a ''peng'' → wings of an [[aircraft]] → aircraft}}\n* {{ja-r|大鵬|たいほう|''dapeng''}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja}}\n{{wp|Peng (mythology)}}\n</div>\n{{ja-kanjitab|ほう|yomi=o}}\n\nFrom {{bor|ja|ltc|sort=ほう|-}} {{ltc-l|鵬}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=ko|ほう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほう|ぼう}}\n\n# {{lb|ja|Chinese mythology|sort=ほう}} ''peng'': a [[fabled]] [[large]] [[bird]] thought to have [[wing]]s measuring 3,000 ''{{ll|ja|里|li}}'' and can [[soar]] up to 90,000 ''li''\n#: {{syn|ja|[[大鳥]]|tr=ōtori}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|鯤鵬|こんほう|''kun'' and ''peng'' → something extremely [[large]]}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|鯤|こん|''kun''}}\n* {{ja-r|鳳凰|ほうおう|''fenghuang''}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ほう}}\n\n# {{given name|male|or=female|lang=ja|A=a|nodot=1|sort=ほう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おおとり|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|おおとり|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おおとり|hhira=おほとり}}\n\n# {{altspell|lang=ja|大鳥|tr=ōtori|nodot=1|sort=おおとり}}: any [[large]] [[bird]] {{gl|[[crane]], [[stork]], [[swan]], etc.}}; a [[fabled]], [[legendary]], or [[mythological]] [[bird]] {{gl|''peng'', ''{{w|fenghuang}}'', [[phoenix]], [[roc]], etc.}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|おおとり|hhira=おほとり}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=おおとり}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

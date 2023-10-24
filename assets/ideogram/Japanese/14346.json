@@ -1,0 +1,46 @@
+{
+  "title": "届",
+  "ns": 0,
+  "id": 14346,
+  "timestamp": 1546675087000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|屆}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|届|屆}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=尸05|kyu=屆}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=かい\n|kun=とど-ける, とど-く, とど-け, とどけ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|とどけ}}\n\n# [[report]], [[notice]], [[registration]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-r|届け|-とどけ}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

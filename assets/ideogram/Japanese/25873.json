@@ -1,0 +1,51 @@
+{
+  "title": "蚕",
+  "ns": 0,
+  "id": 25873,
+  "timestamp": 1527409304000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|蠶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|蚕|蠶}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=虫04|kyu=蠶}}\n\n# [[silkworm]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞん<ぞん<ぞむ, てん\n|kanon=さん<さん<さむ, てん\n|kun=かいこ-, こ-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|sort=かいこ|yomi=k|かいこ}}\n{{rfe|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かいこ|カイコ}}\n\n# the [[silkworm]] (''[[Bombyx mori]]'')",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|カイコ}}\n\n[[Category:ja:Insects|かいこ]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

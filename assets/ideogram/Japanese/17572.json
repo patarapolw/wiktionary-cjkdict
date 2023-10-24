@@ -1,0 +1,39 @@
+{
+  "title": "桒",
+  "ns": 0,
+  "id": 17572,
+  "timestamp": 1553309746000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|桑}}\n{{character info/new}}\n{{character info|0x2F8E1}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木06}}\n\n# [[mulberry]] [[tree]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう<さう\n|kanon=そう<さう\n|kun=くわ-<くは-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くわ|クワ|hhira=くは|hkata=クハ}}\n\n# {{alternative form of|lang=ja|桑||mulberry tree}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

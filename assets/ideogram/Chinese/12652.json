@@ -1,0 +1,49 @@
+{
+  "title": "嗽",
+  "ns": 0,
+  "id": 12652,
+  "timestamp": 1548153795000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𠻳}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=sòu,shù,sù\n|c=sok3,sau3\n|h=pfs=chhu̍k\n|md=\n|mn=ml:sò͘/sàu\n|mn_note=sò͘ - literary; sàu - vernacular\n|w=\n|mc=y\n|oc=y\n|cat=v\n}}\n{{zh-attn-split}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[cough]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|咳嗽}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|乾嗽|咳嗽|散嗽}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

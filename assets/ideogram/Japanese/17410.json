@@ -1,0 +1,56 @@
+{
+  "title": "枹",
+  "ns": 0,
+  "id": 17410,
+  "timestamp": 1553552743000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木05}}\n\n# {{defn|lang=ja|sort=木05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう, ぶ\n|kanon=ふう, ほう\n|kanyoon=ふ\n|kun=ばち-, おけら, なら\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja|バチ}}\n{{ja-kanjitab|ばち|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|桴}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ばち|バチ}}\n\n# [[drum stick]] for instruments such as the [[taiko]] and [[gong]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{ja-r|撥|ばち}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

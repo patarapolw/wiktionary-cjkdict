@@ -1,0 +1,37 @@
+{
+  "title": "磌",
+  "ns": 0,
+  "id": 22074,
+  "timestamp": 1553054953000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFAAB}}\n{{character info|0x2F950}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tián\n|c=tin4\n|mc=y\n|oc=y\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} [[sound]] of [[falling]] [[rocks]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

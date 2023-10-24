@@ -1,0 +1,59 @@
+{
+  "title": "忌",
+  "ns": 0,
+  "id": 15331,
+  "timestamp": 1547086695000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心03}}\n\n# [[mourning]]\n# to [[abhor]]\n# [[abhorrent]], [[detestable]]\n# [[death]] [[anniversary]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ご\n|kanon=き\n|kun=い-む, い-み, い-まし.い, い-まう, い-まわし.い\n|nanori=いまわ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|忌み嫌う|いみきらう}}\n* {{ja-r|忌み日|いみび}}\n* {{ja-r|忌%日|き%にち}}\n* {{ja-r|忌%日|き%じつ}}\n* {{ja-r|回%忌|かい%き}}\n* {{ja-r|祖%忌|そ%き}}: {{q|Buddhism}} death anniversary of a sect founder, or the memorial service thereof\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|き|yomi=o}}\nFrom {{etyl|ltc|ja|sort=き}} {{m|zh|忌|tr=gi<sup>H</sup>}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|き|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|き}}\n\n# mourning\n# death anniversary"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

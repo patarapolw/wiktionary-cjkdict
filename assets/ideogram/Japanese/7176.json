@@ -1,0 +1,85 @@
+{
+  "title": "底",
+  "ns": 0,
+  "id": 7176,
+  "timestamp": 1553572721000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|厎}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=广05}}\n\n# {{defn|lang=ja|sort=广05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たい\n|kanon=てい\n|kun=そこ-, なんぞ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|そこ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|そこ|acc=0|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|そこ}}\n\n# the [[bottom]]\n#:{{ja-usex|'''底'''に沈む|'''そこ''' に しずむ|sink to the '''bottom'''}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|二%重%底|に%じゅう%ぞこ|[[double]] [[sole]]; [[double]] [[bottom]]}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Antonyms",
+                      "text": "* {{ja-r|頂|いただき|gloss=[[top]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|てい|yomi=o}}\nFrom {{etyl|ltc|ja|sort=てい}} {{m|zh|底|tr=tej<sup>X</sup>}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|てい|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|てい}}\n\n# [[base]] of a [[logarithm]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

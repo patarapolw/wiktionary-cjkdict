@@ -1,0 +1,51 @@
+{
+  "title": "唄",
+  "ns": 0,
+  "id": 12386,
+  "timestamp": 1547072265000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|呗}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口07}}\n\n# [[song]]\n# songs played with a [[shamisen]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=べ\n|kanon=はい\n|kanyoon=ばい\n|kun=うた-, うた-う<うた-ふ\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|うた|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うた}}\n\n# {{alternative spelling of|lang=ja|歌|tr=uta||[[song]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|小%唄|こ%うた}}: [[ballad]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

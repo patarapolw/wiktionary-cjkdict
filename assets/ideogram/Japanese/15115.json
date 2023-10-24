@@ -1,0 +1,78 @@
+{
+  "title": "廿",
+  "ns": 0,
+  "id": 15115,
+  "timestamp": 1553549140000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|廾}}\n{{character info/new}}\n\n{{commonscat}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=廾01}}\n\n# [[twenty]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にゅう<にふ\n|kanon=じゅう<じふ\n|kun=にじゅう-<にじふ-, はたち-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|廿%日|はつ%か}}\n* {{ja-r|廿%日%市|^はつ%か%いち}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|にじゅう|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Numeral",
+                  "text": "{{ja-pos|numeral|にじゅう|hhira=にじふ}}\n\n# {{altspell|lang=ja|二十|tr=nijū|nodot=1|sort=はたち}}: [[twenty]], [[20]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|にじゅう|hhira=にじふ}}\n\n# {{altspell|lang=ja|二十|tr=nijū|nodot=1|sort=はたち}}: a [[twenty]][[-year-old]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|はたち|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|はたち}}\n\n# {{altspell|lang=ja|二十歳|tr=hatachi|nodot=1|sort=はたち}}: a [[twenty]][[-year-old]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|はたち}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=はたち}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "{{ja-kref\n|jis=467B\n|ku=3891\n|shift=93F9\n|euc=C6FB\n|freq=''not ranked''\n|nelson=1550\n|newnelson=1662\n|halpern=3449\n|kld=''not listed''\n|heisig=1190\n|tuttle=0a4.36\n}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

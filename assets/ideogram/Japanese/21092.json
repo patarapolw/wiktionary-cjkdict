@@ -1,0 +1,39 @@
+{
+  "title": "產",
+  "ns": 0,
+  "id": 21092,
+  "timestamp": 1551542658000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|産|产}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=生06}} <!-- Not listed as kyūjitai character in Jōyō kanji 2010 -->\n\n# {{defn|lang=ja|sort=生06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん\n|kanon=さん\n|kun=う-まれる, うぶ-, う-む, む-す\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character lacks JIS support and is not listed as a {{w|kyūjitai}} character. [[産]] (U+7523) is used instead in Japanese."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

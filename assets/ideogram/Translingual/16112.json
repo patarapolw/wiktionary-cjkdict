@@ -1,0 +1,49 @@
+{
+  "title": "拔",
+  "ns": 0,
+  "id": 16112,
+  "timestamp": 1553312906000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|抜}}\n{{character info/new}}\n{{character info|0x2F8B6}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|拔|拔|抜|拔}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In {{w|traditional Chinese characters|traditional Chinese}} and {{w|Hanja|Korean}} scripts, the bottom right component of {{l|mul|犮}} is written {{l|mul|乂}} instead of {{l|mul|又}} (as found in the {{w|Kangxi dictionary}}).\n* In {{w|simplified Chinese characters|simplified Chinese}} and {{w|Chữ Nôm|Vietnamese}} scripts, the bottom right component of {{l|mul|犮}} is written {{l|mul|又}} ({{l|mul|友}} with a dot on the top right corner). Due to {{w|Han unification}}, both traditional and simplified forms are encoded under the same codepoint. A CJK compatibility ideograph (U+2F8B6) exists corresponding to this form.\n* In Japanese, the right component {{l|mul|犮}} is {{w|Shinjitai|simplified}} to {{l|mul|友}} instead, giving {{l|mul|抜}} (U+629C)."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=05|sn=8|four=53047|canj=QIKE,QIKK|ids=⿰扌犮(GHTJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[菝]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|mul|[[抜]]}} ''(Japanese {{w|shinjitai}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0426.010|dkj=11959|dj=0774.030|hdz=31850.030|uh=62D4|ud=25300|bh=A9DE|bd=43486}}\n{{Han ref|uh=2F8B6}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

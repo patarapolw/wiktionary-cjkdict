@@ -1,0 +1,124 @@
+{
+  "title": "首",
+  "ns": 0,
+  "id": 31555,
+  "timestamp": 1554048163000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=首00}}\n\n# [[neck]]\n# [[counter]] [[for]] [[songs]] [[and]] [[poems]]\n# [[beginning]], [[first]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ\n|kanon=しゅう\n|kun=くび-, おびと-, こうべ-, しるし-, つかさ-\n|nanori=おびと, こべ, す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|機首|きしゅ}}\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|くび|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くび|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|頸}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|くび}}\n\n# [[neck]] (part of the body connecting head and torso)\n# the neck and [[head]] as a whole\n# [[dismissal]] from employment",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|足%首|あし%くび}}\n* {{ja-r|猪%首|い%くび}}\n* {{ja-r|雁%首|かり%くび}} goose's neck, something resembling a goose's neck; [[corona]] {{gloss|circumference of the base of the glans penis in human males}}\n* {{ja-r|雁%首|がん%くび}} [[bowl]] {{gloss|part of a pipe}}; human neck or head\n* {{ja-r|首っ引き|くびっぴき}}\n* {{ja-r|首%輪|くび%わ}}\n* {{ja-r|手%首|て%くび}}\n* {{ja-r|花%首|はな%くび}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おびと|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おびと}}\n\n# {{lb|ja|archaic|sort=おびと}} one who rules or commands a group of people; a [[chief]]"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* [[Appendix:Gikun_Usage_in_Meiji_Version_of_Japanese_Bible/首]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|こうべ|yomi=k}}\nkamipe > kampe > kaube > koːbe. Compound of either {{m|ja|上|tr=kami||upper}} or {{m|ja|髪|tr=kami||hair}} with the suffix {{m|ja|方|tr=he||location}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こうべ|hhira=かうべ}}\n\n# (part of the body) [[head]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|しゅ|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|counter|しゅ}}\n\n# [[poem]]s and [[song]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しゅ}}\n\n# {{lb|ja|rare|sort=しゅ}} The [[first]] [[one]]; a [[lord]]"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|ja|頭}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|くび]]\n[[Category:ja:Anatomy|くび]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

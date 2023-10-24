@@ -1,0 +1,63 @@
+{
+  "title": "隘",
+  "ns": 0,
+  "id": 30721,
+  "timestamp": 1547810888000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=ài\n|c=aai3,ai3\n|h=pfs=ai\n|mn=ài\n|mc=y\n|oc=1,y\n|cat=a,n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[narrow]]; [[confined]]\n#: {{zh-x|隘路|[[narrow]] [[passage]]}}\n# [[strategic]] [[pass#noun|pass]] that is [[dangerous]] or [[difficult]] to [[access]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|困隘|山隘|湫隘|狹隘|褊隘|要隘|迫隘|邊隘|關隘|阻隘|隘口|隘害|隘巷|隘懾|隘窘|隘路|隘險|險隘}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=è\n|c=ak1\n|oc=2,n\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[isolate]]\n# to [[block]]; to [[defend]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

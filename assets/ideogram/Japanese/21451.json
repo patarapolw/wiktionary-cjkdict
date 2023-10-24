@@ -1,0 +1,39 @@
+{
+  "title": "登",
+  "ns": 0,
+  "id": 21451,
+  "timestamp": 1549857327000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=癶07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=とう\n|kanon=とう\n|kanyoon=と\n|kun=のぼり-, のぼ-る, あ-がる\n|nanori=たか, とさき, のり, みのる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|のぼる}}\n\n# {{given name|male|lang=ja}}\n\n[[Category:Japanese male given names|のぼる]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

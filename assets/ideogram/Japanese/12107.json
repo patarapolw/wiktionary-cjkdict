@@ -1,0 +1,90 @@
+{
+  "title": "后",
+  "ns": 0,
+  "id": 12107,
+  "timestamp": 1552532067000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|後}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=口03}}\n\n# [[empress]], [[queen]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=こう\n|kanyoon=ご, ごう\n|kun=きさき-, きさい-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|きさき}}\n{{unk|ja|sort=きさき}}. Possibly originally a contraction of {{m|ja|君}}{{m|ja|幸|tr=kimi saki|lit=lordly good fortune}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|きさき|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|妃}}, {{ja-l|後宮}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きさき}}\n\n# [[queen]], [[empress]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|queen}}: {{ja-r|女王|じょ.おう}}, {{ja-r|王妃|おうひ}}\n* {{sense|empress}}: {{ja-r|皇后|こうごう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|きさい}}\n{{IPAchar|/kisaki/}} → {{IPAchar|/kisai/}}\n\nSound shift from ''kisaki'' above. Appears to be less common in isolation than the ''kisaki'' reading above.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|きさい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|皇后}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|きさい}}\n\n# [[queen]], [[empress]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "㐬",
+  "ns": 0,
+  "id": 10120,
+  "timestamp": 1538404611000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|旒|荒|巟|充}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* This character appears differently when it is used as a character component placed on the right (see derived characters below):\n** In mainland China (based on ''{{w|Xin Zixing}}'' character form), Japanese [[kanji]], Korean [[hanja]] and Vietnamese [[Nôm]], the upper component {{l|mul|sc=Jpan|𠫓}} is written {{l|mul|⿱[[亠]][[厶]]}} (4 strokes) while the bottom right stroke is written <big>{{l|mul|乚}}</big> with an ending hook which is the historical form found in the {{w|Kangxi Dictionary}}.\n** In Taiwan and Hong Kong (based on {{w|Big5}} character form), the upper component {{l|mul|sc=Hant|𠫓}} is written {{l|mul|⿻[[一]][[厶]]}} (3 strokes) while the bottom right stroke is written <big>{{l|mul|㇄}}</big> without the ending hook."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=8|rad=亠|as=05|sn=7|four=00212|canj=YIHU|ids=⿱亠𠫝(GJ),⿳亠厶⿲丿丨㇄(T)}} <!-- Note: Do not use ⿱𠫓𫶧 because 𠫓 consists of ⿻一厶 for GT and ⿱亠厶 for J -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* <big>{{l|mul|[[𢏭]], [[㧧]], [[旈]], [[𭦓]], [[𨓞]], [[𥆨]], [[锍]], [[巯]], [[𦈷]], [[𦎓]], [[𮗲]], [[𧨆]], [[酼]], [[𠡤]], [[𢂙]]}}</big> ''(Contains {{l|mul|𠫓|⿱亠厶}} at top right for all regions including Taiwan and Hong Kong if the character is used)''\n* <big>{{l|mul|sc=Hant|[[㤺]]}}</big> ''(Exception: Only for Taiwan and Japan character form which contains {{l|mul|𠫓|⿱亠厶}} at top right. Mainland China character form contains <big>{{l|mul|巟}}</big> instead ({{l|mul|sc=Hans|亡}} at top right))''\n* <big>{{l|mul|sc=Hant|[[鋶]]}}</big> ''(Exception: Contains {{l|mul|𠫓|⿱亠厶}} at top right for mainland China and Hong Kong character form. Contains {{l|mul|𠫓|⿻一厶}} at top right for Taiwan character form)''\n* <big>{{l|mul|[[𪠻]], [[流]], [[梳]], [[㲙]], [[琉]], [[硫]], [[疏]], [[𥹷]], [[𦀠]], [[艈]], [[䖻]], [[裗]], [[䟽]], [[𨌙]], [[毓]], [[巰]], [[鯍]], [[𤭕]], [[𧰖]], [[𣹳]], [[麍]], [[𪎣]]}}</big> ''(Exception: Contains {{l|mul|𠫓|⿱亠厶}} at top right for all regions except Taiwan and Hong Kong which uses {{l|mul|𠫓|⿻一厶}} at top right for these characters)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0088.150|hdz=10284.040|uh=342C}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

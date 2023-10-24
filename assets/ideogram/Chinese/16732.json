@@ -1,0 +1,44 @@
+{
+  "title": "攸",
+  "ns": 0,
+  "id": 16732,
+  "timestamp": 1531411754000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|人|攴|ls=ic}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yōu\n|c=jau4\n|mn=iu/iû\n|mc=y\n|oc=y\n|ma=\n|cat=a,pref\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[distant]], [[far]]\n# adverbial [[prefix]]\n# {{lb|zh|loanword|Taiwan}} [[yocto-]] {{gloss|[[Appendix:SI units|SI unit]] prefix}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "{| class=\"wikitable\"\n! colspan=2 | SI prefix\n|-\n! Last\n!\n|-\n| {{l|zh|[[介]]/[[仄]]}}\n| {{lang|zh|[[攸]]/[[幺]]}}\n|}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

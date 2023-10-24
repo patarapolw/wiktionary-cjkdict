@@ -1,0 +1,44 @@
+{
+  "title": "若",
+  "ns": 0,
+  "id": 24851,
+  "timestamp": 1553050632000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xF974}}\n{{character info|0x2F998}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=艸05}}\n\n# young\n# if",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にゃく, にゃ\n|kanon=じゃく, じゃ\n|kun=わか-い, も-しく は, も-し, ごと-し, したがう\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|若干|じゃっかん}}\n* {{ja-r|若年|じゃくねん}}\n* {{ja-r|若輩|じゃくはい}}\n{{mid2}}\n* {{ja-r|老%若|ろう%にゃく}}\n* {{ja-r|若者|わかもの}}\n* {{ja-r|若人|わこうど}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|わか}}\n\n# \"[[my]] [[lord]]\" (towards a young [[master]] or a young [[heir]])"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

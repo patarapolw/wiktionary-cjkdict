@@ -1,0 +1,39 @@
+{
+  "title": "蔌",
+  "ns": 0,
+  "id": 25442,
+  "timestamp": 1551920208000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸11}}\n\n# [[vegetable]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そく<!--, す-->\n|kanon=そく<!--, そう-->\n|kun=な-, やさい-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|蔌蔌|そくそく}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "苆",
+  "ns": 0,
+  "id": 24820,
+  "timestamp": 1529105457000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸04}}\n\n# {{defn|lang=ja|sort=艸04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=すさ-, つた-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|すさ|yomi=k}}\n\n* {{ja-l|寸莎}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{rfe|ja|sort=すさ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|すさ|acc=0|acc2=2|acc_ref=DJR|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|すさ}}\n\n# [[straw]] [[mix]]ed with other materials {{gl|[[clay]], [[soil]], etc.}} used to [[reinforce]] [[walls]] and prevent [[crack]]s\n#: {{syn|ja|苆藁|tr=susawara}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|苆藁|すさわら}}\n* {{ja-r|油%苆|あぶら%ずさ}}\n* {{ja-r|粗苆|あらすさ}}\n* {{ja-r|莔麻%苆|いちび%ずさ}}\n* {{ja-r|壁苆|かべすさ}}, {{ja-r|壁苆|かべずさ}}\n* {{ja-r|浜苆|はますさ|rom=-}}, {{ja-r|浜%寸莎|はま%すさ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|つた|yomi=k}}\n\nShift from ''susa'' (see above).<ref name=\"DJR\"/><ref name=\"DJS\">{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|つた|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|つた}}\n\n# [[straw]] [[mix]]ed with other materials {{gl|[[clay]], [[soil]], etc.}} used to [[reinforce]] [[walls]] and prevent [[crack]]s\n#: {{syn|ja|苆藁|tr=tsutawara}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese-only CJKV Characters|艸+04]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

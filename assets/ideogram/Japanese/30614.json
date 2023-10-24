@@ -1,0 +1,39 @@
+{
+  "title": "阳",
+  "ns": 0,
+  "id": 30614,
+  "timestamp": 1538898605000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|陽}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=阜04}}\n\n# {{alt-form|lang=ja|陽}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう\n|kanon=よう<やう\n|kun=ひ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|471610}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "遼",
+  "ns": 0,
+  "id": 28804,
+  "timestamp": 1550644033000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|辽}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=辵12}}\n\n# [[faraway]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=りょう<れう\n|kun=はる-か\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|りょう|hhira=れう}}\n\n# {{given name|male|lang=ja|sort=りょう}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

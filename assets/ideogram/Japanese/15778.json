@@ -1,0 +1,39 @@
+{
+  "title": "憎",
+  "ns": 0,
+  "id": 15778,
+  "timestamp": 1553313220000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA3F}}\n{{character info|0xFA89}}\n{{character info|0x2F8AB}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心12|kyu=憎}}\n\n# hate",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう\n|kanon=そう\n|kanyoon=ぞう\n|kun=にく-む, にく-しみ, にく-い, にく-らし.い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|合憎|gloss=[[unfortunately]]|あいにく}}\n* {{ja-r|生憎|gloss=[[unfortunately]]|あいにく}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "鰰",
+  "ns": 0,
+  "id": 32278,
+  "timestamp": 1504725481000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[file:Arctoscopus japonicus.jpg|thumb|right|200px|鰰(hatahata)]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚10}}\n\n# [[sailfin sandfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|kun=はたはた-|nanori=いな}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|はたはた|yomi=k}}\n{{swp|lang=ja}}\n* {{ja-l|鱩}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|はたはた|acc=0|acc_ref=DJR,NHK|acc2=4|acc2_ref=DJR,NHK|acc3=3|acc3_ref=NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はたはた|ハタハタ}}\n\n# a [[sailfin sandfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|雷魚|かみなりうお}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|蝦夷鰰|えぞはたはた|[[Pacific sandfish]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese-only CJKV Characters|魚+10]]\n[[Category:ja:Fish|はたはた]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

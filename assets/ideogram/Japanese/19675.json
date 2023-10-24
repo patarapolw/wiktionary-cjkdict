@@ -1,0 +1,39 @@
+{
+  "title": "濯",
+  "ns": 0,
+  "id": 19675,
+  "timestamp": 1553557676000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水14}}\n\n# {{defn|lang=ja|sort=水14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だく\n|kanon=たく\n|kun=あら-う\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|洗濯|せんたく}}: [[washing]]; [[laundry]]\n* {{ja-r|洗濯機|せんたっき}}: [[washing machine]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

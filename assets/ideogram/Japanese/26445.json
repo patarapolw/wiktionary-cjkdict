@@ -1,0 +1,114 @@
+{
+  "title": "表",
+  "ns": 0,
+  "id": 26445,
+  "timestamp": 1546274718000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|錶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=衣03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう\n|kanon=ひょう\n|kun=あらわ-す, あら-わす, あらわ-れす, あらわ-れる, おもて-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds of 表}}\n* {{ja-r|表%沙汰|おもて%ざた}}\n* {{ja-r|表%千家|おもて%せんけ}}\n* {{ja-r|表計算|ひょうけいさん}}\n* {{ja-r|表決|ひょうけつ}}\n* {{ja-r|表見|ひょうけん}}\n* {{ja-r|表%見%代%理|ひょう%けん%だい%り}}\n{{der-mid3}}\n* {{ja-r|表現|ひょうげん}}: [[expression]]\n* {{ja-r|表示|ひょうじ}}: [[display]]\n* {{ja-r|表情|ひょうじょう}}\n* {{ja-r|表皮|ひょうひ}}\n* {{ja-r|表明|ひょうめい}}\n* {{ja-r|表面|ひょうめん}}: [[visible]] [[surface]], [[outer]] [[face]]\n{{der-mid3}}\n* {{ja-r|表裏|ひょうり}}\n* {{ja-r|表%裏%一%体|ひょう%り%いっ%たい}}\n* {{ja-r|公表|こうひょう}}: [[reveal]] to the [[public]], [[publicise]]\n* {{ja-r|年表|ねんぴょう}}\n* {{ja-r|発表|はっぴょう}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|sort=おもて|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{ja-pron|おもて|y=k|acc=o|accent_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おもて}}\n\n# [[surface]]; [[face]] (visible side of an object)\n# [[front]] (of a building), [[obverse]] side of a coin (\"heads\")\n# [[cover]] attached to a surface\n# outer [[clothing]]\n# [[facade]]; [[appearance]]; [[outside]]; [[exterior]]\n# [[public]]; [[official]]\n# main [[entrance]] of a house; [[front door]]\n# [[outside]] a house; [[outdoors]]; [[street]] in front of a house\n# {{lb|ja|baseball|sort=おもて}} [[first half]], [[top]] (of an [[inning]])\n# {{short for|表千家|tr=omotesenke|lang=ja|sc=Jpan}} Foundation of Fushin-an\n# [[front room]]; [[living room]]\n# {{lb|ja|computing|sort=おもて}} [[foreground]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Antonyms",
+                      "text": "* {{ja-r|裏|うら}}: [[back]], [[bottom]] (of an [[inning]], in baseball)"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|おもて}}\n\n# {{rfdef|ja}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Attached to a noun to indicate direction, location, etc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{qualifier|verb:}} {{ja-r|表す|ひょうす}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{ja-pron|ヒョー|y=o|acc=h|accent_ref=NHK|audio=Ja-hyou-table(chart).ogg}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ひょう}}\n\n# [[table]], [[chart]], [[list]]\n#: {{ja-usex-inline|'''表'''のセル|'''ひょう''' の セル|'''table''' cell}}\n#: {{ja-usex-inline|常用漢字'''表'''|じょうよう かんじ '''ひょう'''|'''list''' of commonly used kanji}}\n# [[documents]] presented to a monarch from a [[vassal]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{ja-verb-suru|ひょう}}\n\n# to [[express]], to [[show]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Conjugation",
+                      "text": "{{ja-suru|ひょう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "轍",
+  "ns": 0,
+  "id": 28481,
+  "timestamp": 1552876237000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|辙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=車12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=でち\n|kanon=てつ\n|kun=わだち-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|わだち}}\n\nCompound of {{compound|ja|sort=わだち|輪|tr1=wa|t1=wheel|立ち|tr2=tachi|t2=standing|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|立つ}} ''tatsu'', “to stand”, here in reference to the shape of the rut left standing after the passage of the wheel}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref> {{rendaku2|sort=わだち|tachi|dachi}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|わだち|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|わだち}}\n\n# a [[wheel]] [[furrow]], [[track]], or [[rut]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|てつ}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|轍|gloss=wagon rut, wheel track}}. The [[漢音#Japanese|kan'on]] reading, so likely a later borrowing. Compare modern {{cog|nan|-}} reading ''tia̍t''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|てつ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|てつ}}\n\n# a [[wheel]] [[furrow]], [[track]], or [[rut]]\n# another person's [[mistake]], a [[prior]] [[example]] {{qualifier|generally negative}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

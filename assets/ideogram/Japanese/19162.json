@@ -1,0 +1,92 @@
+{
+  "title": "渦",
+  "ns": 0,
+  "id": 19162,
+  "timestamp": 1553555828000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|涡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か<くわ, わ\n|kanon=か<くわ, わ\n|kanyoon=か<くわ\n|kun=うず-<うづ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|か}}\n{{IPAchar|/kwa/}} → {{IPAchar|/ka/}}\n\nFrom {{etyl|ltc|ja|sort=か}} {{m|zh|渦|tr=kwa?||eddy, swirl, whirlpool}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=goon|か}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|か|hhira=くわ}}\n\n# [[eddy]], [[swirl]], [[whirlpool]], [[vortex]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "This reading is only ever found in compounds."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|渦状|かじょう}}: a [[swirl]] [[shape]]\n* {{ja-r|渦中|かちゅう}}: the one [[involved]], the one [[dragged]] [[in]], the one [[caught up]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Vortex}}\n[[File:Airplane_vortex_edit.jpg|thumb|250px|{{lang|ja|渦}} (''uzu''): a '''[[vortex]]''' in colored smoke, caused by the passage of an airplane wing.]]\n</div>\n{{ja-kanjitab|yomi=k|うず}}\n\n{{IPAchar|/udu/}} → {{IPAchar|/udzu/}} → {{IPAchar|/uzu/}}\n\nFrom {{etyl|ojp|ja|sort=うず}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|うず|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|うず|hhira=うづ}}\n\n# [[eddy]], [[swirl]], [[whirlpool]], [[vortex]]\n#* '''Early 700s''', {{lang|ja|播磨国風土記}} (''Harima no Kuni Fudoki'', “Chronicles of the Country of Harima”)\n#*: {{ja-usex|'''絞水'''の淵あり。故、'''宇頭'''川と号く。|'''うづ''' の ふち あり。 ^かれ、 '''^うづ'''がわ と なづく。|There is a deep '''whirl / eddy''' pool there. As such, it is called “'''Uzu'''gawa” ('''Eddy''' River).}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|渦%巻き|うず%まき}}: [[spiral]], [[whirlpool]], [[eddy]]\n* {{ja-r|渦%潮|うず%しお}}: a [[tidal]] [[whirlpool]] or [[eddy]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

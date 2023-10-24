@@ -1,0 +1,63 @@
+{
+  "title": "偏",
+  "ns": 0,
+  "id": 11103,
+  "timestamp": 1547171344000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へん\n|kanon=へん\n|kun=かたよ-る, ひとえ-に<ひとへ-に\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top}}\n* [[不偏]]\n* [[普偏]]\n* [[偏愛]]\n* [[周波数偏移]]\n* [[偏奇]]\n* [[偏狂]]\n* [[偏狭]]\n* [[偏屈]], [[偏窟]]\n* [[偏見]]\n* [[偏光]]\n* [[偏向]]\n* [[偏好]]\n* [[偏差]]\n* [[偏在]]\n* [[偏執]]\n* [[偏斜]]\n* [[偏重]]\n* [[偏食]]\n* [[偏心]]\n* [[偏針]]\n* [[偏人]]\n* [[偏頗]]\n* [[偏性]]\n* [[偏西風]]\n* [[偏土]]\n* [[偏頭痛]]\n* [[偏波]]\n* [[偏微分]]\n* [[偏平]]\n* [[偏癖]]\n* [[偏癖]]\n* [[偏片]]\n* [[偏辺]]\n* [[偏流]]\n* [[偏旁]]\n* [[獣偏]]\n* [[人偏]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Related terms",
+              "text": "* [[偏降り]]\n* [[偏照り]]"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|へん|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|へん}}\n\n# the [[left-hand]] [[component]] of a [[kanji]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Coordinate terms",
+                      "text": "* {{ja-r|旁|つくり}}: the [[right-hand]] component\n\n{{C|ja|Chinese character components}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

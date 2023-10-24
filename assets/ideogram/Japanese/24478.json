@@ -1,0 +1,64 @@
+{
+  "title": "腺",
+  "ns": 0,
+  "id": 24478,
+  "timestamp": 1517147464000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}} coined in the late 1700s&ndash;early 1800s by ''[[rangaku]]'' scholar {{w|ja:宇田川玄真|Udagawa Genshin}} as a translation for {{cog|nl|klier||gland}}, as an {{Han compound|肉|alt1=⺼|泉|ls=ic|t1=flesh; body|t2=spring; fountain; source; producer of liquid|nocap=1}}, together expressing the idea “part of the body that produces liquid [[secretion]]s”."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=肉09}}\n\n# [[gland]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=せん\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|腺状|せんじょう}}: [[glandular]]\n* {{ja-r|甲状腺|こうじょうせん}}: [[thyroid gland]]\n* {{ja-r|管状腺|かんじょうせん}}: [[tubular gland]]\n* {{ja-r|涙腺|るいせん}}: [[lacrimal gland]]\n* {{ja-r|耳下腺|じかせん}}: [[parotid gland]]\n* {{ja-r|顎下腺|がっかせん}}: [[submaxillary gland]]\n* {{ja-r|舌下腺|ぜっかせん}}: [[sublingual gland]]\n* {{ja-r|唾液腺|だえきせん}}: [[salivary gland]]\n* {{ja-r|扁桃腺|へんとうせん}}: [[tonsil]]\n{{der-mid}}\n* {{ja-r|前立腺|ぜんりつせん}}: [[prostate gland]]\n* {{ja-r|尿道球腺|にょうどうきゅうせん}}: [[bulbourethral gland]]\n* {{ja-r|カウパー腺|カウパーせん}}: [[bulbourethral gland]]\n* {{ja-r|スキーン腺|スキーンせん}}: [[Skene's gland]]\n* {{ja-r|小前庭腺|しょうぜんていせん}}: [[Skene's gland]]\n* {{ja-r|傍尿道腺|ぼうにょうどうせん}}: [[Skene's gland]]\n* {{ja-r|バルトリン腺|バルトリンせん}}: [[Bartholin's gland]]\n* {{ja-r|大前庭腺|だいぜんていせん}}: [[Bartholin's gland]]\n* {{ja-r|汗腺|かんせん}}: [[sweat gland]]\n* {{ja-r|皮脂腺|ひしせん}}: [[sebaceous gland]]\n* {{ja-r|性腺|せいせん}}: [[sex gland]]\n* {{ja-r|毒腺|どくせん}}: [[venom gland]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Gland}}\n</div>\n{{ja-kanjitab|せん|yomi=kanyoon}}\n\nSee [[#Glyph origin|Glyph origin]] above. The reading ''sen'' is based on the [[漢音#Japanese|kan'on]] of the {{m|ja|泉}} base."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|せん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|せん}}\n\n# [[gland]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "樹",
+  "ns": 0,
+  "id": 18083,
+  "timestamp": 1551868507000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|树}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=木12}}\n\n# [[tree]]; [[plant]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゅ, ず\n|kanon=しゅ\n|kun=う-える, き-, た-てる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|き|yomi=k}}\n{{ja-see|木}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|いつき|たつき}}\n\n# {{given name|male|lang=ja|sort=いつき}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

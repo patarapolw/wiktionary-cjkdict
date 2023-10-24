@@ -1,0 +1,39 @@
+{
+  "title": "壇",
+  "ns": 0,
+  "id": 13405,
+  "timestamp": 1551994749000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|坛}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=土13}}\n\n# [[podium]], [[stage]], [[rostrum]], [[terrace]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=だん\n|kanon=たん\n|kun=ば, ところ, たいら\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|だん|proper}}\n\n# {{surname|lang=ja|A=a|nodot=1|sort=だん}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

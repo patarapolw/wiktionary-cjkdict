@@ -1,0 +1,42 @@
+{
+  "title": "榣",
+  "ns": 0,
+  "id": 17927,
+  "timestamp": 1553309561000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8E9}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yáo\n|c=jiu4\n|cat=n,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# a type of [[large]] [[tree]]\n# {{lb|zh|of trees}} to [[shake]], to [[sway]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C05321}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
