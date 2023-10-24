@@ -1,0 +1,133 @@
+{
+  "title": "蘗",
+  "ns": 0,
+  "id": 25743,
+  "timestamp": 1535923605000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|檘|檗}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In Taiwan and Hong Kong (based on the {{w|Big5}} character form), the bottom component is written {{l|mul|𣎳}} instead of {{l|mul|木}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=17|sn=21|snmj+=20|four=44904|canj=TSJD|ids=⿱薜木(GJK),⿱薜𣎳(HT)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[檗]]}} ''(Preferred form used in mainland China)'' <!-- Note: Not a simplified character. Character exists in Shuowen Jiezi. -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1069.080|dkj=32479|dj=1535.330|hdz=53333.070|uh=8617}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{Han etym}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{Han-glyphref|⿱薜𣎳|}}\n{{zh-forms|alt=⿱[[⻀]][[檗]]}} <!-- Note: 檗 and 蘗 are considered as separate characters by the Dictionary of Variant Characters in Taiwan. -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=bò\n|c=baak3,paak3\n|c_note=baak3 - colloquial; paak3 - variant\n|mc=\n|oc=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|chiefly Taiwan}} {{zh-used in|黃蘗|dot=}} ''and related compounds''\n#: {{zh-alt-inline|[[檗#Pronunciation 1|檗]]}} <small>{{qualifier|mainland China}}</small>",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|蘗米|黃蘗|根蘗繁殖|齧蘗吞針|飲冰茹蘗|飲冰食蘗}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|A03599}}\n* {{R:yue:Hanzi}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{Han-glyphref|⿱薜木|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "Found in the historical {{w|Jiyun}} 《{{w2|zh|集韻}}》 dictionary published during the {{w|Song dynasty}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|薜|hv}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|A03573-002-1#26}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸17}}\n\n# {{defn|lang=ja|sort=艸17}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=はく, びゃく\n|kun=きわだ\n|nanori=\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=벽|eumhun=|rv=byeok|mr=pyŏk|y=pyek}}\n\n# {{defn|lang=ko|sort=艸17}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

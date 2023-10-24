@@ -1,0 +1,85 @@
+{
+  "title": "鰦",
+  "ns": 0,
+  "id": 32268,
+  "timestamp": 1535924537000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China ({{w|Traditional Chinese|traditional form}} based on {{w|Xin Zixing}}, {{w2|zh|新字形}}), the right component is <font size=4>{{l|mul|兹}}</font> (contains <big>{{l|mul|䒑}}</big>).\n* In Taiwan (based on its {{w|zh:國字標準字體|standard form}} of national characters) and Hong Kong (based on the {{w|Hong Kong Supplementary Character Set}}), the right component is <font size=5, lang=zh-hant>[[茲#Translingual|茲]]</font> (contains <font size=4, lang=zh-hant>[[艹#Translingual|艹]]</font>, grass radical with 4 strokes).\n* In Japanese {{w|kanji}}, the right component is <font size=5, lang=ja>[[茲#Translingual|茲]]</font> (same as Taiwan/Hong Kong) but the grass radical <font size=4, lang=ja>[[艹#Translingual|艹]]</font> is written with 3 strokes instead.\n* Due to {{w|Han unification}}, all the forms above are encoded under the same [[code point]]. This character will appear differently depending on the font used.\n* In the historical {{w|Kangxi dictionary}}, the upper component of <font size=5, lang=zh-hant>[[茲#Translingual|茲]]</font> is written with <font size=4>[[⻀]]</font> (ram's horn component) instead of the grass radical."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=195|rad=魚|as=10|asmj=09|sn=21|snmj=20|four=28332|canj=NFTVI|ids=⿰魚兹(G),⿰魚茲(HTJ)}} <!-- Note: Unicode charts show ⿰魚兹 for Hong Kong which is an older form. Latest form used in Hong Kong based on HKSCS 2016 (Page 48) is ⿰魚茲 with grass radical -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* <big>{{l|mul|[[𫚤]]}}</big> ''(Extended {{w|Simplified Chinese characters|simplified form}} in mainland China)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1476.010|dkj=46383|dj=2007.260|hdz=74705.070|uh=9C26}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zī\n|c=zi1\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚10}}\n\n# {{defn|lang=ja|sort=魚10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|on=[[し]] (shi)|kun=[[はや]] (haya)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

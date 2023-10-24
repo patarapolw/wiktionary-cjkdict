@@ -1,0 +1,123 @@
+{
+  "title": "墟",
+  "ns": 0,
+  "id": 13365,
+  "timestamp": 1541984113000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=12|sn=15|four=41117|canj=GYPC,GYPM|ids=⿰土虚}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0238.280|dkj=05457|dj=0477.130|hdz=10479.120|uh=589F|ud=22687|bh=BC56|bd=48214}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|土|虚|ls=psc|c1=s|c2=p|t1=dirt}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xū\n|c=heoi1\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[ruin]]\n# [[fair]], [[market]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|墟落|墟墓|墟市|廢墟|宗廟丘墟|墟里|丘墟|殷墟|社稷為墟|破墟|殷墟書契|村墟|殷墟卜辭|歸墟|華屋丘墟|趁墟|趕墟}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土12}}\n\n# ruins",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こ\n|kanon=きょ\n|kun=あと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|廃墟|はいきょ}}: ruins, abandoned building"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Rarely replaced by [[虚]] in modern usage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=허|rv=heo|mr=hŏ}}\n\n# {{defn|lang=ko|sort=土12}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[hư]], [[khư]]|rs=土12}}\n\n# {{defn|lang=vi|sort=土12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=589f Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

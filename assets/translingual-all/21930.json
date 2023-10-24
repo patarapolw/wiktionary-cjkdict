@@ -1,0 +1,68 @@
+{
+  "title": "砼",
+  "ns": 0,
+  "id": 21930,
+  "timestamp": 1544389130000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=05|sn=10|four=|canj=MROM|ids=⿰石仝}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0829.331|hdz=42424.100|uh=783C|ud=30780}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Coined in 1953 by Prof. Cai Fangyin (蔡方蔭).<ref>[https://books.google.hu/books?id=NfN0DwAAQBAJ&pg=PA170&lpg=PA170&dq=%22Cai+Fangyin%22+concrete&source=bl&ots=PekDsLdwxd&sig=81E2e4yLh4RaUc5oJ-nngQQf4AE&hl=en&sa=X&ved=2ahUKEwj73_m2y5PfAhXCa1AKHSFWBmUQ6AEwB3oECAgQAQ#v=onepage&q=%22Cai%20Fangyin%22%20concrete&f=false Early 21st-Century Power Struggles of Chinese Languages Teaching in US Higher Education], by Ya-chen Chen, p. 170 (at Google Books)</ref>\n\nThe glyph is a compound of {{zh-l|[[人工]][[石]]|man-made stone}}. Pronunciation is from {{zh-l|仝}}, treated as the phonetic component of the glyph. Serendipitously, the pronunciation also resembles the word for “concrete” in some European languages; cf. {{cog|fr|béton}}, {{cog|de|Beton}}, {{cog|ru|бето́н}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tóng\n|m-s=\n|c=tung4\n|c-t=\n|g=\n|h=pfs=\n|j=\n|md=\n|mn=\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[concrete]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|混凝土}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

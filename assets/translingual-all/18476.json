@@ -1,0 +1,216 @@
+{
+  "title": "殺",
+  "ns": 0,
+  "id": 18476,
+  "timestamp": 1553309254000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|杀}}\n{{character info/new}}\n{{character info|0xF970}}\n{{character info|0xFA96}}\n{{character info|0x2F8F5}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|殺|杀|殺|殺}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In {{w|traditional Chinese}} (based on the modern character forms used in {{w|zh:國字標準字體|Taiwan}} and {{w|zh:常用字字形表|Hong Kong}}), the bottom left component is {{l|mul|朮}} ({{l|mul|𣎳}} with an additional dot at its top right corner).\n* In mainland China (based on the {{w|Xin Zixing}} ({{w2|zh|新字形}}) standardized character forms), the bottom left component is {{l|mul|朩}} instead which is one stroke less.\n* In Korean {{w|hanja}}, the bottom left component is {{l|mul|术}}, which is also the historical form found in the {{w|Kangxi dictionary}}.\n* In Japanese {{w|shinjitai}} and Vietnamese [[Nôm]], the bottom left component is {{l|mul|木}} which is one stroke less.\n* Three {{w|CJK Compatibility Ideographs}} exist for this character:\n** <code>U+F970</code> corresponds to the Japanese {{w|kyūjitai}} form containing {{l|mul|术}} which is similar to the historical Kangxi form.\n** <code>U+FA96</code> corresponds to the alternative Korean form which is similar to the Japanese {{w|shinjitai}} form containing {{l|mul|木}}.\n** <code>U+2F8F5</code> is similar to the traditional form in Taiwan but has {{l|mul|𣎳}} (without dot at top right corner) instead of {{l|mul|朮}} as its bottom left component."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=79|rad=殳|as=07|asmj+=06|sn=11|snmj+=10|four=47947|canj=KCHNE,KDHNE|ids=⿰⿱㐅朩殳(G),⿰⿱㐅朮殳(HT),⿰⿱㐅木殳(JV,<code>U+FA96</code>),⿰⿱㐅术殳(K,<code>U+F970</code>).⿰⿱㐅𣎳殳(<code>U+2F8F5</code>)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[杀]]}} ''({{w|Simplified Chinese}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0585.110|dkj=16638|dj=0978.050|hdz=32157.010|uh=6BBA}}\n{{Han ref|uh=F970}}\n{{Han ref|uh=FA96}}\n{{Han ref|uh=2F8F5}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=杀}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n\nIn the oracle bone script, it was an {{Han compound|戈||t1=spear|t2=hair|ls=ic|nocap=y}} – a man impaled in the head.\n\nIn the bronze script, {{zh-l|*人|man}} was added under the hair to accentuate the killing of the man. In some bronze inscriptions, {{zh-l|*殳|spear}} or {{zh-l|*攴}} was used in place of {{lang|zh|戈}}.\n\nIn the bamboo and silk script, symbol representing the man being killed corrupted into {{zh-l|*杀}}: {{Han compound|乂|t1=weapon for killing|𣎳}}. The seal script inherits this: {{Han compound|𣏂|c1=p|殳|c2=s|t2=spear|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{inh|zh|sit-pro|*g/b-sat}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=shā\n|m-s=\n|dg=\n|c=saat3\n|c-t=\n|g=\n|h=pfs=sat;gd=sad5\n|j=\n|mb=suŏi\n|md=sák\n|mn=sat/qz,xm,zz:soah\n|mn_note=sat - literary; soah - vernacular\n|mn-t=suah4\n|w=4saq\n|x=\n|mc=2\n|oc=1,2\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[kill]]; to [[murder]]\n# to [[hurt]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Normally, the subject of 殺 should at least be alive. The sentence \"A tiger killed many people.\" can be validly translated as {{lang|zh|老虎殺死數人}}, while the sentence \"This accident killed many people.\" is seldom translated as *{{lang|zh|這次事故殺死數人}}. For death caused by non-living things, split forms of {{zh-l|致死}} are often used instead:\n*: {{zh-x|這 次 事故 '''致''' 數 人 '''死亡'''。|This accident '''caused''' many people's '''death'''.}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial}}\n{{zh-dial|宰}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|凶殺|不教而殺|一概抹殺|六殺|慈悲殺人|以殺去殺|妨殺|喊殺|慢性自殺|劫殺|切腹自殺|忒殺|刺殺|宰殺|惡支殺|他殺|天生天殺|卸磨殺驢|一筆抹殺|大殺風景|低溫殺菌|凶殺案|以殺止殺|屠殺|好生惡殺|嚴殺|喊殺連天|封殺|情殺|射殺|姦殺|夾殺|天殺的|合殺|大殺|大屠殺|坑殺|仇殺|勝殘去殺|廝殺|嗜殺成性|剿殺|去殺勝殘|借刀殺人|借劍殺人|殺掠|溷殺|扼殺|殺死|殺氣|格殺|掩殺|殺家達子|殺人償命|殺雞為黍|殺價|收殺|殺人放火|掠殺|殺風景|斫殺|殺人如蓺|殺機|殺身成義|殺坯|殺蟲器|殺生之權|打殺|毒殺|殺雞炊黍|毀車殺馬|殺出重圍|殺人如麻|止殺|殺傷力|抹殺|殺馬毀車|殺傷|殺人罪|畏罪自殺|斬刈殺伐|濫殺無辜|殺伐|接殺|殺雞取卵|搏殺|殺才|殺氣騰騰|捕殺|殺身成名|生殺之權|殺伐決斷|殺妻求將|殺人盈野|曾子殺彘|殘殺|槍殺|殺戮|打打殺殺|暗殺|殺身救國|殺彘教子|殺人滅跡|殺頭|殺青|殺菌|殺生之柄|殺身報國|殺一儆百|殺菌劑|獵殺|牲殺|撲殺|殺身為報|殺害|殺敵致果|氣殺鍾馗|抄殺|打魚殺家|殺一利百|故殺|殺人犯|生殺與奪|生殺大權|生殺予奪|殺身|殺戒|殺身出生|狙殺|按殺|淹殺|殺雞儆猴|殺身之禍|殺威風|殺人越貨|拉殺|殺生與奪|殺口甜|砍殺|殺雞駭猴|殺雞扯脖|殺生|爛殺|拋閃殺人|捐殘去殺|曾參殺人|沒亂殺|殺人如草|殺狗勸夫|殺蟲劑|殺聲震天|殺狗記|殺手鐧|殺手|殺性子|殺威棒|殺千刀|殺剁|殺人如芥|格殺勿論|破殺殺|殺身成仁|春生秋殺|斬盡殺絕|殺人滅口|逼殺|過失殺人|義刑義殺|觸殺|絞殺|誤殺|虐殺|藥殺|誘殺|通殺|衝殺|馬殺雞|荊劉拜殺|躁殺|肅殺|雙殺|覆軍殺將|誅殺|苦殺|鴆殺|追殺|謀殺|趕盡殺絕|誅盡殺絕|虧殺|自相殘殺|自殺|捧殺}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "From {{och-l|衰|to diminish; to decay}} + final ''*-t'' ({{zh-ref|Schuessler, 2007}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=殺\n|c=saai3\n|h=\n|md=sái\n|mn=\n|w=\n|dial=n\n|mc=1\n|oc=2,1\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[pare]] off; to [[diminish]]; to [[reduce]]; to [[clip]]\n#: {{zh-x|隆殺 之 義 辨 矣。|The principle of increase and dimunution (of sumptuary allowances) is defined.|CL|ref={{w2|zh|荀子}}, {{lang|zh|《樂論》}}}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|fold=1|幽殺|不殺|不豐不殺|噍殺|殺衣縮食|豐殺}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=sà\n|dial=n\n|cat=a,v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[dark]]\n# {{zh-alt-form|𥻦|to spread; to exile}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xiè\n|dial=n\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|蹩殺}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=shì\n|dial=n\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|降殺}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{zh-see|弒|v}}\n\n{{zh-cat|Elementary|Death}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|k=y}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=殳07}}\n\n# to [[kill]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せい, せち, せつ\n|kanon=さい, さつ\n|kun=ころ-す, そ-ぐ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|縊%殺|い%さつ}}: [[strangling]] to [[death]]\n* {{ja-r|虐%殺|ぎゃく%さつ}}\n* {{ja-r|人%殺し|ひと%ごろし}}\n* {{ja-r|必%殺|ひっ%さつ}}\n* {{ja-r|殺%人|さつ%じん}}\n* {{ja-r|殺%害|さつ%がい}}\n* {{ja-r|殺%気|さっ%き}}\n* {{ja-r|殺%菌|さっ%きん}}\n* {{ja-r|殺%傷|さっ%しょう}}\n* {{ja-r|殺%身|さっ%しん}}\n* {{ja-r|殺%生|せっ%しょう}}\n* {{ja-r|殺%青|さっ%せい}}\n* {{ja-r|殺%節|さっ%せつ}}\n* {{ja-r|殺%到|さっ%とう}}\n* {{ja-r|殺%伐|さつ%ばつ}}\n* {{ja-r|殺%風%景|さっ%ぷう%けい}}\n* {{ja-r|殺%戮|さつ%りく}}\n* {{ja-r|殺%略|さつ%りゃく}}\n* {{ja-r|殺%陣|さつ%じん}}\n* {{ja-r|刺%殺|し%さつ}}\n* {{ja-r|自%殺|じ%さつ}}: [[suicide]]\n* {{ja-r|相%殺|そう%さい}}\n* {{ja-r|他%殺|た%さつ}}\n* {{ja-r|抹%殺|まっ%さつ}}\n* {{ja-r|黙%殺|もく%さつ}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[살]], [[쇠]]|eumhun=|mr=sal, soe|y=sal, soy}}\n\n# {{defn|lang=ko|sort=殳07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[sát]], [[sái]], [[sít]], [[sịt]], [[sướt]], [[sét]], [[sượt]]|rs=殳07}}\n\n# {{defn|lang=vi|sort=殳07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "氰",
+  "ns": 0,
+  "id": 18594,
+  "timestamp": 1528433805000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=84|rad=气|as=08|sn=12|four=80217|canj=ONQMB|ids=⿹气青}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0600.011|dkj=17072|hdz=32013.030|uh=6C30|ud=27696|bh=D9E6|bd=55782}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|青}}, influenced by [[cyanogen]]."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=氰\n|c=cing1,cing4\n|mc=\n|oc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[cyanogen]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|氰化鉀|氰化物|氰中毒|氫氰酸|金氰化鉀|三聚氰胺|氰化氫}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

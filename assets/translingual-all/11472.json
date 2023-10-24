@@ -1,0 +1,130 @@
+{
+  "title": "冲",
+  "ns": 0,
+  "id": 11472,
+  "timestamp": 1529587049000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|沖|衝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=15|rad=冫|as=04|sn=6|four=35106|canj=IML|ids=⿰冫中}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[沖]]}} ''(Orthodox form of'' <big>冲</big>)\n* {{l|mul|[[衝]]}} ''({{w|Traditional Chinese}} form of ''<big>冲</big>)"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0131.280|dkj=01616|dj=0294.190|hdz=10295.080|uh=51B2}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "An unorthodox variant {{Han simp|沖|f=氵|t=冫|nocap=y}} that can be found in various historical dictionaries such as the {{w|Kangxi dictionary}}. <!-- See also: http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAyMTUwLTAwMQ#32 -->\n\nEventually adopted as an official character by the People's Republic of China. <!-- Exact time period is unknown. Not found in https://zh.wikisource.org/wiki/漢字簡化方案 (1956) or https://zh.wikisource.org/wiki/簡化字總表 (1964) -->"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|沖|svt}} <!-- Refer https://www.moedict.tw/冲 -->"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han simp|衝}} in the {{w|Chinese Character Simplification Scheme|first round simplification}} of Chinese characters by the People's Republic of China in 1956.<!-- Refer https://zh.wikisource.org/wiki/漢字簡化方案 --> Note that {{zh-l|衝*|[[chōng]]}} and {{zh-l|沖*|[[chōng]]}} are homonyms."
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|衝}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=冫04}}\n\n# {{alt-form|lang=ja|沖||[[open sea]]; [[offing]]}} <!-- Note: Used as a noun in Japanese. Different usage compared to Chinese where it is used as a verb. -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ちゅう]] (chū)|kun=[[おき]] (oki), [[わく]] (waku)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=충|rv=chung|mr=ch'ung}}\n\n# {{defn|lang=ko|sort=冫04}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=冫04|[[trong]], [[xông]], [[xống]], [[xung]]}} <!-- Note: gdhn source in Nom Foundation may include readings of simplified Chinese characters -->\n\n# {{defn|lang=vi|sort=冫04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=51B2 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

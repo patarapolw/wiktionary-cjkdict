@@ -1,0 +1,170 @@
+{
+  "title": "吽",
+  "ns": 0,
+  "id": 12167,
+  "timestamp": 1548742809000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=04|sn=7|four=65000|canj=RHQ|ids=⿰口牛}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𭌨]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0180.020|dkj=03378|dj=0398.010|hdz=10589.060|uh=543D}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=óu\n|c=hau1,hau2\n|mc=y\n|oc=y\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|吽牙}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=hōng\n|c=hung1\n|mc=\n|oc=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used in|唵嘛呢叭咪吽}}\n# {{zh-used in|阿吽}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=ngau6\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|吽哣|[[listless]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-see|吼|v}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C01034}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口04}}\n\n# [[bark]], [[growl]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "As \"to [[bark]], [[howl]]\":\n{{ja-readings\n|goon=く, ぐ\n|kanon=こう, ごう\n|kun=ほ-える\n}}\nAs transcription of {{bor|ja|sa|[[हूम्]]}}:\n{{ja-readings\n|goon=おん<おん<おむ\n|kanon=いん<いん<いむ\n|kanyoon=うん\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|うん|yomi=kanyoon}}\n''[[慣用音#Japanese|Kan'yoon]]'' pronunciation."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|うん|acc=1|acc_ref=DJR|y=kanyoon}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うん}}\n\n# {{lb|ja|Buddhism}} the [[Sanskrit]] syllable ''hūṃ''"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[후]], [[음]], [[우]]|rv=hu, eum, u|mr=hu, ŭm, u}}\n\n# {{defn|lang=ko|sort=口04}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "'''吽''' ([[hồng]])<!--vi:Wiktionary also gives ẩu, hống, ngâu, and oanh; are these all valid readings?-->\n\n# {{defn|lang=vi|sort=口04}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

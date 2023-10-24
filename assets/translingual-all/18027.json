@@ -1,0 +1,225 @@
+{
+  "title": "樂",
+  "ns": 0,
+  "id": 18027,
+  "timestamp": 1553253943000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|乐|楽}}\n{{character info/new}}\n{{character info/new|codepoint=0xF914}}\n{{character info/new|codepoint=0xF95C}}\n{{character info/new|codepoint=0xF9BF}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|樂|楽|乐}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China (for its traditional form based on {{w|Xin Zixing}} {{w2|zh|新字形}}), Japanese {{w|kanji}}, Korean {{w|hanja}} and Vietnamese [[Nôm]], the bottom component is written {{l|mul|木}}, which is the historical form found in the {{w|Kangxi dictionary}}.\n* In Taiwan and Hong Kong (based on the {{w|Big5}} encoding standard), the bottom component is written {{l|mul|𣎳}} instead.\n* Three {{w|CJK Compatibility Ideographs|CJK compatibility ideographs}} exist at <code>U+F914</code>, <code>U+F95C</code> and <code>U+F9BF</code>. All three forms are the same as the form used in Korean {{w|hanja}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=75|rad=木|as=11|sn=15|four=22904|canj=VID|ids=⿱⿲幺白幺木(GHJKV),⿱⿲幺白幺⿻十八(T)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𭀅]], [[𠘙]], [[嚛]]([[𪠸]]), [[㜰]], [[𡾒]], [[㦡]], [[擽]]([[𭢫]]/[[㧰]]), [[濼]]([[泺]]), [[𤢴]], [[𣋵]], [[䑈]], [[櫟]]([[檪]]/[[栎]]), [[爍]]([[𭶒]]/[[烁]]), [[瓅]]([[𬍛]]), [[皪]], [[䁻]]([[䀥]]), [[礫]]([[䃯]]/[[砾]]), [[𥽗]], [[纅]], [[𦘈]], [[𧔉]], [[觻]], [[𧭥]], [[䟏]], [[躒]]([[跞]]), [[轢]]([[𮝩]]/[[轹]]), [[䤕]], [[鑠]]([[𮣏]]/[[铄]]), [[𩟧]], [[𩧂]], [[鱳]], [[𫿾]], [[𪇱]], [[藥]]([[薬]]/[[𣛙]]), [[𤻲]]([[𬏤]])}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[楽]]}} ''(Japanese {{w|shinjitai}})''\n* {{l|mul|[[乐]]}} ''({{w|Simplified Chinese}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0548.200|dkj=15399|dj=0936.060|hdz=21280.160|uh=6A02}}\n{{Han ref|uh=F914}}\n{{Han ref|uh=F95C}}\n{{Han ref|uh=F9BF}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=乐|alt=楽}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|糸|木|ls=ic|t1=string|t2=wood}} – strings on a piece of wood, i.e. a wooden musical instrument.\n\nThe oracle bone form shows two strings connected to the wood. In the bronze inscriptions, a {{och-l|白}} component was added in between the two strings, which may either represent the thumb (fiddling) or a phonetic part."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "; “music; joyful”\n: The etymological relationship between “music” and “joy” has been discussed in {{zh-ref|Wulff (1935)}} and {{zh-ref|Unger (1983)}}. Unger draws comparison with the following semantic parallelism in Tibetan: {{m|bo|རོལ་མོ||music}} and {{m|bo|རོལ||to enjoy; to amuse oneself; to play}}.\n: Also comparable is {{cog|mkh-mkm|leṅa||to play}} and {{m|mkh-mkm|bhleṅa||(playing) music}}, whence {{cog|th|เล่น||to play}} and {{m|th|เพลง||music}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=yuè\n|m-s=\n|c=ngok6\n|c-t=\n|g=\n|h=pfs=ngo̍k;gd=ngog6\n|j=\n|mb=ngà\n|md=ngŏk\n|mn=ga̍k\n|mn-t=ghaoh8/ngaoh8\n|w=5hhiaq,5ngoq\n|w_note=5hhiaq - “music”; 5ngoq - only in the placename {{zh-l|*樂清}} in Zhejiang\n|x=\n|mc=2\n|oc=4,3\n|ma=y\n|cat=n,v,pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[music]]; [[tune]]; [[melody]]; [[song]]\n#: {{zh-x|音樂|music}}\n# {{†}} to [[play]] music; to [[sing]]\n# {{†}} [[musical instrument]]\n# {{zh-abbrev|樂經|''{{w|Classic of Music}}''}}\n# {{surname|lang=zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|交響樂|交響樂團|仙樂|佛教音樂|作樂|俗樂|六樂|凱樂|制禮作樂|南樂|古典音樂|古樂|合成樂器|吹奏樂器|吹樂器|和聲樂器|哀樂|唐樂|器樂|噪音音樂|國家音樂廳|國樂|國民樂派音樂|夏威夷音樂|夔龍禮樂|天樂|奏樂|女樂|子卯不樂|宗教音樂|室內樂|家樂|小山樂府|底下奏樂|弦樂|弦樂器|心靈音樂|悅樂|愷樂|房中樂|打擊樂|打擊樂器|拉丁美洲音樂|搖擺樂|搖滾樂|撥弦樂器|擦弦樂器|散樂|敲擊樂器|敲擊音樂|文樂傀儡|新爵士樂|朝歌暮樂|木管樂器|樂人|樂句|樂史|樂品|樂器|樂團|樂壇|樂婦|樂工|樂師|樂床|樂府|樂府指迷|樂府詩|樂府詩集|樂府雜錄|樂式|樂律|樂戶|樂探|樂曲|樂棚|樂歌|樂正|樂毅|樂毅論|樂池|樂理|樂籍|樂素|樂經|樂翁|樂聖|樂聲|樂舞|樂記|樂語|樂論|樂譜|樂迷|樂部|樂隊|樂音|樂章|標題音樂|歌樂|民俗音樂|民族樂器|民族樂隊|民族音樂|氣鳴樂器|浪漫樂派|清商樂|清樂|潮樂|熱門音樂|燕樂|燕樂二十八調|燕樂半字譜|燕樂考源|爵士樂|獨樂樂|破陣樂|禮壞樂崩|禮壞樂缺|禮崩樂壞|禮廢樂崩|禮樂|禮樂崩壞|禮樂為鉤|秦王破陣樂|移調樂器|管弦樂|管弦樂團|管樂|管樂器|管樂隊|簧樂器|粗樂|細樂|絕對音樂|絲竹樂|網路音樂廳|聆樂|聖樂|聲樂|背景音樂|胡樂|能樂|膜鳴樂器|舉酒作樂|舞樂|衣冠禮樂|西樂|西海岸爵士樂|西班牙音樂|詩書禮樂|軍樂|軍樂隊|輕音樂|鄉村音樂|配樂|鈞天廣樂|鈞天樂|銅管樂器|銅管樂隊|鍵盤樂器|雅樂|電子音樂|電樂器|電腦音樂|靡靡之樂|音樂|音樂劇|音樂卡|音樂圖書館|音樂家|音樂廳|音樂會|音樂治療|音樂片|音樂盒|音樂站|音樂節|音樂臺|音樂鋸|音樂電鈴|韶樂|黑人音樂|鼓吹樂|鼓樂|鼓樂喧天|樂清|樂勝}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=lè\n|c=lok6\n|h=pfs=lo̍k;gd=log6\n|md=lŏk\n|mn=lo̍k\n|mn-t=lag8\n|w=5loq\n|mc=3\n|oc=2,2\n|cat=a,n,v,pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[joyful]]; [[happy]]; [[glad]]\n# [[enjoyable]]; [[fun]]\n# [[happiness]]; [[joy]]; [[pleasure]]\n#: {{zh-x|樂{lè}趣|delight; pleasure}}\n# {{†}} [[lasciviousness]]; [[lechery]]; [[decadence]]\n# to [[laugh]]; to [[smile]]\n# to [[enjoy]]; to [[love]]\n# 24th [[tetragram]] of the [[Taixuanjing]]; \"joy\" ([[𝌝]])\n# {{surname|lang=zh}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|三樂|不亦樂乎|不樂|不樂觀|于飛之樂|享樂|享樂主義|伯樂|伯樂一顧|何樂不為|佚樂|作樂|俱樂部|假樂|傻樂|優樂|先憂後樂|兒童樂園|其樂不窮|其樂無比|其樂無窮|其樂融融|利樂|利樂包|刮刮樂|助人為樂|博樂|及時行樂|取樂|可共患難不可共安樂|可樂|可與共患難，不可與共樂|吃喝玩樂|同樂|同樂會|君子三樂|和樂|咍樂|哀樂|喜怒哀樂|喜聞樂見|大家樂|天倫之樂|天樂|好善樂施|好施樂善|娛樂|娛樂場所|娛樂片|娛樂稅|媽媽樂|安和樂利|安土樂業|安堵樂業|安家樂業|安居樂業|安樂|安樂世界|安樂公主|安樂國|安樂椅|安樂死|安樂窩|安貧樂賤|安貧樂道|安身樂業|宴樂|富強康樂|寓教於樂|尋樂|尋歡作樂|平樂|幸災樂禍|幾家歡樂幾家愁|康樂|康樂活動|快樂|快樂丸|快樂主義|忽忽不樂|怏怏不樂|怡然自樂|悒悒不樂|悶悶不樂|愛心刮刮樂|慘然不樂|找樂子|曲肱之樂|朝歡暮樂|村天樂|森林遊樂區|極樂|極樂世界|極樂鳥|樂不可支|樂不可極|樂不可言|樂不思蜀|樂事|樂以忘憂|樂兒|樂利|樂呵|樂呵呵|樂和|樂善|樂善不倦|樂善好施|樂善好義|樂嘻嘻|樂國|樂園|樂土|樂在其中|樂境|樂天|樂天安命|樂天派|樂天知命|樂子|樂子館|樂得|樂意|樂戶|樂捐|樂施|樂昌分破鏡|樂昌破鏡|樂易|樂普|樂業|樂業安居|樂極則悲|樂極忘形|樂極悲來|樂極悲生|樂極生悲|樂樂陶陶|樂此不倦|樂此不疲|樂歲|樂浪|樂滋滋|樂禍|樂禍幸災|樂紋兒|樂群|樂而不淫|樂而不荒|樂而忘憂|樂而忘歸|樂而忘返|樂育|樂處|樂融融|樂觀|樂觀主義|樂觀其成|樂觀進取|樂託|樂貧甘賤|樂趣|樂輸|樂透|樂遊原|樂道|樂陶陶|欣然自樂|歌舞作樂|歡樂|永樂|永樂大典|永樂宮|永樂窯|永樂錢|泌水樂飢|泰極還生否，樂處又逢悲|津津樂道|為善最樂|燕樂|狄斯奈樂園|狄斯耐樂園|玩樂|甘貧樂道|生於憂患，死於安樂|白樂天|百事可樂|百樂|知命樂天|知足常樂|知魚之樂|磨喝樂|網路咖啡俱樂部|老人俱樂部|耽樂|育樂|自得其樂|至樂|與民偕樂|與民同樂|般樂|芭樂|芭樂票|苦中作樂|苦樂|莎樂美|蓮花樂|行樂|行樂圖|衾枕之樂|西方極樂世界|豐樂|豐樂亭|財去身安樂|貧而樂道|買樂|賞心樂事|躬耕樂道|迪斯尼樂園|追歡取樂|逗樂|逢場作樂|進酒作樂|逸樂|遊樂|遊樂場|遊樂林|酣樂|長樂|長樂宮|長樂未央|隨緣樂助|電視遊樂器|風吹鴨蛋殼，財去人安樂|飲酒作樂|饒樂|高樂|鬱鬱不樂|魚樂}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=lè,yào,1nb=standard in Mainland,2nb=standard in Taiwan,2nc=literary variant in Mainland\n|c=ngaau6\n|h=pfs=ngau\n|md=ngâu\n|mn=ngāu\n|w=\n|mc=1\n|oc=3,1\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} to be [[fond]] of; to [[enjoy]]; to [[appreciate]]\n#* {{zh-x|知{zhì} 者 樂{yào} 水，仁 者 樂{yào} 山。|The wise '''find pleasure''' in water; the virtuous '''find pleasure''' in hills.|ref=Analects}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|fold=1|三樂|仁者樂山|推賢樂善|損者三樂|敬業樂群|樂山樂水|樂道安貧|益者三樂|知者樂水}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 4",
+              "text": "{{zh-pron\n|m=lào\n|c=lok3\n|cat=pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used2|p}}\n#: {{zh-x|樂{Lào}亭|{{w|Laoting County}}, [[Hebei]] Province}}\n#: {{zh-x|樂{Lào}陵|{{w|Laoling}}, [[Shandong]] Province}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 5",
+              "text": "{{zh-see|療|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 6",
+              "text": "{{zh-pron\n|m=luò\n|c=lok6\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used2|c}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|fold=1|樂託:[[slack]]; [[unrestrained]]; [[desolate]]|樂樂|爆樂}}\n\n{{zh-cat|Intermediate}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|楽|樂}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=木11|shin=楽}}\n\n# {{kyūjitai spelling of|楽}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "From {{w|Middle Chinese}} {{ltc-l|樂|id=1}}:\n{{ja-readings\n|goon=ぎょう<げう\n|kanon=ごう<がう\n|kun=この-む\n}}\nFrom {{w|Middle Chinese}} {{ltc-l|樂|id=2|[[music]], [[sing]]ing}}:\n{{ja-readings\n|goon=がく\n|kanon=がく\n|kun=かな-でる\n}}\nFrom {{w|Middle Chinese}} {{ltc-l|樂|id=3|[[comfort]], [[ease]]}}:\n{{ja-readings\n|goon=らく\n|kanon=らく\n|kanyoon=ろう<らう\n|kun=たの-し.い, たのしみ-, たの-しむ\n|nanori=ささ, もと, よし\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Hanja",
+                  "text": "{{ko-hanja/new|노래|악}}\n\n# [[music]]; [[tune]]; [[melody]]; [[song]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Hanja",
+                  "text": "{{ko-hanja/new|즐기다|즐길|락||낙}}\n\n# [[happiness]]; [[joy]]; [[pleasure]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Hanja",
+                  "text": "{{ko-hanja/new|좋아하다|좋아할|요}}\n\n# to be [[fond]] of; to [[enjoy]]; to [[appreciate]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[lạc]], [[nhạc]]|rs=木11}}\n\n# {{defn|lang=vi|sort=木11}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

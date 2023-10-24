@@ -1,0 +1,75 @@
+{
+  "title": "鶒",
+  "ns": 0,
+  "id": 32668,
+  "timestamp": 1498784213000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=196|rad=鳥|as=09|sn=20|four=57927|canj=DLKSF|ids=⿰勅鳥}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1494.110|dkj=47075|dj=2024.090|hdz=74645.010|uh=9D92}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𫛶|alt=鷘,𪀦,𪀸,𪅙,鵣,䳵,𪄪,𪆵,𪄠,𪅍}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|勅|鳥|ls=psc|c1=p|c2=s|t2=bird}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chì\n|c=cik1\n|mc=y\n|oc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only|鸂鶒}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥09}}\n\n# {{defn|lang=ja|sort=鳥09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[せき]] (seki), [[しゃく]] (shaku), [[ちょく]] (choku), [[しゃ]] (sha)|kun=[[おしどり]] (oshidori)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

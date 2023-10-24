@@ -1,0 +1,87 @@
+{
+  "title": "羧",
+  "ns": 0,
+  "id": 23983,
+  "timestamp": 1525161571000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "For the organic compound, {{Han compound|羊|夋|t1=oxgyen, from {{l|mul|氧}}|t2=acid, from {{l|mul|酸}}|ls=ic}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=123|rad=羊|as=07|sn=13|four=83547|canj=TQICE|ids=⿰羊夋}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0952.290|dkj=28501|dj=1396.230|hdz=53135.010|uh=7FA7}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{blend|zh|氧|tr1=yǎng|t1=oxygen|酸|tr2=suān|t2=acid}} and borrowed from {{bor|zh|en|carboxyl}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=suō,zuī,2nb=variant in Taiwan\n|c=so1\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic chemistry}} [[carboxyl]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|羧酸|羧基}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zuī\n|c=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[woollens]]; [[wool]] [[fabric]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "title": "爨",
+  "ns": 0,
+  "id": 20278,
+  "timestamp": 1553056738000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F920}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=25|sn=29|four=77809|canj=HBDDF}}\n\n# oven, cooking stove\n# [[cook]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0688.210|dkj=19648|dj=1101.080|hdz=32251.030|uh=7228|ud=29224|bh=C679|bd=50809}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cuàn\n|c=cyun3\n|mn=ml:chhoàn\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|另起煙爨|五花爨弄|同爨|同居各爨|執爨|分爨|炊骨爨骸|煙爨|爨下|爨寶子碑|稱柴而爨|稱薪而爨|析爨|析骸以爨|炊爨|異爨|爨龍顏碑|爨桂炊玉|爨室|爨婢|炊金爨玉|樵蘇不爨|爨婦|析骨以爨|踏爨|蹈爨|爨底下}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火25}}\n\n# [[boil]], [[cook]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さん\n|kanon=さん\n|kun=かし-ぐ, かまど-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|御爨|おさん}}\n* {{ja-r|炊爨|すいさん}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=찬|eumhun=부뚜막|rv=chan|mr=ch'an|y=chan|ehrv=buttumak|ehmr=puttumak|ehy=puttwumak}}\n\n# {{defn|lang=ko|sort=火25}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

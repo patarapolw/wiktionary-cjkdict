@@ -1,0 +1,87 @@
+{
+  "title": "舢",
+  "ns": 0,
+  "id": 24656,
+  "timestamp": 1530406999000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=137|rad=舟|as=03|sn=9|four=22470|canj=HYU|ids=⿰舟山}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1009.121|dkj=30370|dj=1466.210|hdz=53056.040|uh=8222|ud=33314|bh=AD51|bd=44369}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shān\n|m-s=\n|dg=\n|c=saan1\n|c-t=\n|g=\n|h=pfs=\n|j=\n|mb=\n|md=\n|mn=\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only|舢板}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=舟03}}\n\n# [[sampan]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[さん]] (san)|kanon=[[さん]] (san)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|舢板|サンパン|[[sampan]]}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=산|eumhun=|rv=san|mr=san|y=san}}\n\n# a small boat attached to a ship"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "title": "噂",
+  "ns": 0,
+  "id": 12721,
+  "timestamp": 1552875883000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=12|sn=15|four=68046|canj=RTWI|ids=⿰口尊}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0208.060|dkj=04286|dj=0431.030|hdz=10686.050|uh=5642|ud=22082|bh=E4F7|bd=58615}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|口|尊|c1=s|t1=mouth|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zǔn\n|c=zyun2\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[talk]] [[together]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|噂噆|噂議|噂沓|噂噂}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=口12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そん\n|kanon=そん\n|kun=うわさ-<うはさ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|うわさ|yomi=kun}}\n\n&#42;{{IPAchar|/upasa/}} → {{IPAchar|/ufasa/}} → {{IPAchar|/uwasa/}}\n\nMay be from {{inh|ja|ojp|-}}.  Appears from at least ''{{w|The Tale of Genji}}'' from the early 1000s CE.\n\nConsidering that the meaning originally referred to private conversation about one's social superiors, possibly derived as a compound of {{compound|ja|上|tr1=ufa|t1=up, upward|pos1=ancient reading of modern ''uwa'', the combining form of modern ''ue''; in reference to those of higher [[social]] [[standing]]|さ|tr2=sa|t2=-ness|pos2=suffix indicating [[state]] or [[degree]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|うわさ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うわさ|hhira=うはさ}}\n\n# [[rumor]] (US), [[rumour]] (UK)\n# [[gossip]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|風%説|ふう%せつ}}\n* {{ja-r|風%聞|ふう%ぶん}}\n* {{ja-r|世%評|せ%ひょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{ja-verb-suru|tr=trans|うわさ}}\n\n# to [[talk]] [[gossip]] (about)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Conjugation",
+                  "text": "{{ja-suru|うわさ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "* {{ja-r|噂をすれば|うわさ を すれば}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=준|rv=jun|mr=chun}}\n\n# {{defn|lang=ko|sort=口12}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[ton]]|rs=口12}}\n\n# {{defn|lang=vi|sort=口12}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

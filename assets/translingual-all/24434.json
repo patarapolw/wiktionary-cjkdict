@@ -1,0 +1,172 @@
+{
+  "title": "腎",
+  "ns": 0,
+  "id": 24434,
+  "timestamp": 1533055872000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|肾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=130|rad=肉|as=08|asj=9|sn=12|snj=13|four=77227|canj=SEB|ids=⿱臤月}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* [[肾]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{Han ref|kx=0987.020|dkj=29621|dj=1439.130|hdz=32086.040|uh=814E|ud=33102|bh=B5C7|bd=46535}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=肾}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|臤|肉|alt2=⺼|t2=meat; flesh|ls=psc|c1=p|c2=s}} – a body part, the kidneys."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{inh|zh|sit-pro|*m-k(j)un||kidney}}. Cognate with {{cog|my|ကုန်း||back}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shèn\n|m-s=sen4\n|c=san6,san5,san5-2\n|c_note=san6 - literary (“kidney; testicle”); san5, san5-2 - vernacular (“gizzard”)\n|c-t=sin5\n|g=siin5\n|h=pfs=sṳn;gd=sen4\n|j=seng3\n|mb=sēng\n|md=sêng\n|mn=sīn/xm,zz,tw:siān/qz:siǎn\n|mn_note=sīn - literary; siān/siǎn - vernacular\n|mn-t=siang6/siêng6\n|w=3zen\n|x=shen4\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|anatomy}} [[kidney]]\n# {{lb|zh|TCM}} [[testicle]]\n# {{lb|zh|Cantonese}} [[gizzard]]\n#: {{zh-x|雞腎|chicken '''gizzard'''|C}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial}}\n{{zh-dial|睪丸}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|腎癌|敗腎|洗腎|腎上腺|腎上腺素|腎元|腎囊|腎炎|腎盂|腎盂炎|腎結核|腎結石|腎臟|腎臟癌|腎虧|補腎|雕肝琢腎|雕肝鏤腎|賣腎|腎子|雞腎|鴨腎}}\n\n{{zh-cat|Body parts}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "/murato<sub>1</sub>/ → /murato/.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{IPA|[murato]|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|むらと}}\n\n# [[kidney]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}\n#*: 心腎肝脯 心人情也 腎音神 訓'''牟良斗''' 肝音干 訓岐毛"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "From earlier /murato/. Voicing suggests that it was originally a compound of ''mura'' and ''to''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "* {{IPA|[murado]|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|むらど}}\n\n# [[kidney]]\n#* {{RQ:Wamyō Ruijushō|2|35-36}}\n#*: 腎 白虎通云 時忍反 上聲之重 '''无良度''' [...] 水之精也 色黑 [...] 水藏也 [...]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Kanji",
+                  "text": "{{ja-kanji|grade=|rs=肉08}}\n\n# {{defn|lang=ja|sort=肉08}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Readings",
+                      "text": "{{ja-readings\n|goon=じん\n|kanon=しん\n|kun=かなめ\n}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|腎臓|じんぞう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Nara Ibun 3}}\n* {{R:Wamyō Ruijushō}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=신|eumhun=|rv=sin|mr=sin|y=sin}}\n\n# {{defn|lang=ko|sort=肉08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|thận|rs=肉08}}\n\n# {{defn|lang=vi|sort=肉08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "title": "岋",
+  "ns": 0,
+  "id": 14435,
+  "timestamp": 1553548578000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=46|rad=山|as=04|sn=7|four=27247|canj=UNHE,XUNHE|ids=⿰山及}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0308.170|dkj=07928|dj=0607.340|hdz=10764.180|uh=5C8B}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Cantonese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{yue-hanzi|jyut=[[ngap6]], [[ap6]]|y=ngap6, ap6}}\n\n# {{defn|lang=yue|sort=山04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 98]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=山04}}\n\n# {{defn|lang=ja|sort=山04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ごう\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Mandarin",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{cmn-hanzi|pin=[[è]] ([[e4]])|wg=o<sup>4</sup>}}\n\n# {{defn|lang=cmn|sort=山04}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=山04|reading=gập}}\n\n# {{defn|lang=vi|sort=山04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5c8b Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

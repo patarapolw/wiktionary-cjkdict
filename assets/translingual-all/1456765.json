@@ -1,0 +1,68 @@
+{
+  "title": "䃣",
+  "ns": 0,
+  "id": 1456765,
+  "timestamp": 1553054923000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F951}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=12|sn=17|four=|canj=MRIKF|ids=⿰石為,⿰石爲}}\n\n# (variant of [[毀]]) to [[ruin]], to [[destroy]], to [[break]] [[down]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0836.230|dkj=|dj=|hdz=42445.070|uh=40E3|ud=16611|bh=|bd=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|毀|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{vi-readings|hanviet=hủy|nom=ve|rs=石12}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{vi-noun|sc=Hani|ve|rs=石12}}\n\n# [[phial]], [[vial]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=40e3&img=1 Nôm Lookup Tool], Vietnamese Nom Preservation Foundation\n* {{R:WinVNKey:Lê Sơn Thanh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

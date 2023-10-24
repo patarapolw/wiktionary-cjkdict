@@ -1,0 +1,87 @@
+{
+  "title": "衋",
+  "ns": 0,
+  "id": 26414,
+  "timestamp": 1543597293000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|聿|皕|血|t3=blood|ls=psc}}"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=143|rad=血|as=18|sn=24|four=50107|canj=LQMAT|ids=⿳聿皕血}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1108.280|dkj=34026|dj=1570.300|hdz=53054.090|uh=884B|ud=34891|bh=F8C0|bd=63680}}\n* [http://chardb.iis.sinica.edu.tw/char/21673 International Encoded Han Character and Variants Database]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xì\n|c=sik1\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[emotional]] [[pain]]; [[sorrow]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=血18}}\n\n# {{defn|lang=ja|sort=血18}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=きょく,こく|kun=いたむ|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "'''衋''' ([[hực]])\n\n# {{defn|lang=vi}}\n\n{{cln|vi|Han tu}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

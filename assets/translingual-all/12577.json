@@ -1,0 +1,95 @@
+{
+  "title": "営",
+  "ns": 0,
+  "id": 12577,
+  "timestamp": 1548775145000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|營|营}}\n{{character info/new}}\n{{character info/new|🈺}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|營|営|营}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Japanese {{w|shinjitai}}. {{Han simp|營|f=炏|t=⺍}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=09|sn=12|four=|canj=FBRHR,FBRR|ids=⿳⺍冖吕(GH),⿳⺌冖呂(T),⿳⺍冖呂(JK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0201.121|dkj=04025|dj=0424.040|hdz=10661.081|uh=55B6|ud=21942}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|營|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|営|營}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=口09|kyu=營}}\n\n# [[manage]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう\n|kanon=えい\n|kun=いとな-む, いとな-み\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えい|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えい|-}} {{ltc-l|營}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えい|acc=1|acc_ref=DJR|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えい|kyu=營}}\n\n# [[build]]; [[construct]]\n# [[run]]; [[operate]]; [[manage]]\n# {{lb|ja|military}} [[camp]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|営力|えいりょく}}: [[geomorphic]] [[agent]]\n* {{ja-r|営業|えいぎょう}}: {{l|en|business}}, {{l|en|trade}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えい|kyu=營}}\n\n# {{lb|ja|military}} [[camp]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

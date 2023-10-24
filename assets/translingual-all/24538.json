@@ -1,0 +1,97 @@
+{
+  "title": "膵",
+  "ns": 0,
+  "id": 24538,
+  "timestamp": 1546706493000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|脺}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=130|rad=肉|as=12|sn=16|four=74248|canj=BTYJ|ids=⿰肉萃}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0996.111|dkj=29920|hdz=32106.100|uh=81B5|ud=33205|bh=EAEC|bd=60140}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Borrowed from {{bor|zh|ja|膵}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cuì\n|c=seoi6,ceoi3\n|mn=chūi\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[pancreas]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Coined by Genshin Utagawa ({{w2|ja|宇田川玄真}}) in ''Ihan Teikō'' ({{w2|ja|医範提綱}}, 1805).\n{{Han compound|ls=ic|肉|t1=body|alt1=月|萃}}.\n{{attn|ja|萃：「（優れたものを）集める」（ja.wt）／「全て」（ja.wp）}}\n{{ja-etym-kokuji}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉12}}\n\n# [[pancreas]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|kanyoon=すい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|膵臓|すいぞう}}\n* {{ja-r|膵島|すいとう}}\n* {{ja-r|膵癌|すいがん}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=췌|eumhun=|rv=chwe|mr=ch'we|y=chwey}}\n\n# {{defn|lang=ko|sort=肉12}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

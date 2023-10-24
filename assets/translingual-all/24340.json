@@ -1,0 +1,82 @@
+{
+  "title": "胰",
+  "ns": 0,
+  "id": 24340,
+  "timestamp": 1525182188000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=130|rad=肉|as=06|sn=10|four=75232|canj=BKN|ids=⿰月夷}}\n\n# [[pancreas]]\n# [[soap]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0980.220|dkj=29431|dj=1432.220|hdz=32067.040|uh=80F0|ud=33008|bh=AFD8|bd=45016}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yí\n|c=ji4\n|h=pfs=yì\n|md=\n|mn=î\n|mn-t=i5\n|w=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|anatomy}} [[pancreas]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|胰臟|胰腺|香胰子|胰澱粉酶|胰液|胰蛋白酶|胰子|胰島素|胰脂酶}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉06}}\n\n# {{defn|lang=ja|sort=肉06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[い]] (i)|kun=[[せにく]] (seniku)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

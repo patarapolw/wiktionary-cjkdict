@@ -1,0 +1,73 @@
+{
+  "title": "时",
+  "ns": 0,
+  "id": 16926,
+  "timestamp": 1525250515000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|時}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=7}}\n{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Variant of {{l|mul|時}}. From {{w|cursive script (East Asia)|cursive script}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=72|rad=日|as=03|sn=7|four=|canj=ADI|ids=⿰日寸}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𫪅]], [[埘]], [[𪶄]], [[𬌠]], [[𬖞]], [[鲥]], [[莳]], [[𦋂]], [[𣠈]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0490.221|dkj=13772|dj=0851.220|hdz=21487.020|uh=65F6}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|時|sv}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日03}}\n\n# {{alternative form of|時|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|on=[[じ]] (ji)\n|kun=[[とき]] (toki)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|154790}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

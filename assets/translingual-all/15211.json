@@ -1,0 +1,116 @@
+{
+  "title": "当",
+  "ns": 0,
+  "id": 15211,
+  "timestamp": 1553314463000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𢑐|當|噹}}\n{{character info/new}}\n{{character info|0x2F874}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=6}}\n{{stroke order|type=animate}}\n{{ja-forms|当|当|[[當]]}} <!-- Example of character that is simplified in the same way in both mainland China and Japan -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "<!-- 58 -->\n{{Han char|rn=42|rad=小|as=03|sn=6|four=|canj=FSM|ids=⿱⺌彐}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0297.061|dkj=09913|dj=0591.090|hdz=10562.120|uh=5F53|ud=24403}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Unorthodox variant of {{l|zh|當}}. From {{w|cursive script (East Asia)|cursive script}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|當|sv}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|噹}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|当|當}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=小03|kyu=當}}\n\n# [[hit]]\n# [[right]]\n# [[appropriate]]\n# [[himself]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=とう<たう\n|kanon=とう<たう\n|kun=あ-たる, あ-てる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|当来|とうらい}}: [[afterlife]]\n* {{ja-r|本当|ほんとう}}: [[true]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Prefix",
+              "text": "{{ja-pos|とう|prefix}}\n\n# this (business or place)"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=당|eumhun=|rv=dang|mr=tang|y=tang}}\n\n# {{defn|lang=ko|sort=小03}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[đáng]], [[đương]]|rs=小03}}\n\n# {{defn|lang=vi|sort=小03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5f53 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

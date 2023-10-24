@@ -1,0 +1,106 @@
+{
+  "title": "俳",
+  "ns": 0,
+  "id": 10971,
+  "timestamp": 1520329772000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=08|sn=10|four=21211|canj=OLMY|ids=⿰亻非}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0106.100|dkj=00726|dj=0226.050|hdz=10174.030|uh=4FF3|ud=20467|bh=ADD6|bd=44502}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|人|alt1=亻|t1=person|非|ls=psc|c1=s|c2=p}} – a type of person."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=pái\n|c=paai4\n|mc=y\n|oc=y\n|ma=\n|cat=n,a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[actor]]\n# [[vaudeville]] [[show]]\n# {{lb|zh|literary}} [[humorous]]; [[funny]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|俳笑|俳體|俳優體|俳倡|俳句|俳賦|俳諧|俳優|俳謔|詼俳}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=pái\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|俳佪}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=人08}}\n\n# haiku",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=べ\n|kanon=はい\n|kun=わざおぎ-\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=배|rv=bae|mr=pae}}\n\n# {{defn|lang=ko|sort=人08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

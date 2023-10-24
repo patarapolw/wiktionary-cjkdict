@@ -1,0 +1,106 @@
+{
+  "title": "仨",
+  "ns": 0,
+  "id": 10617,
+  "timestamp": 1536119951000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=03|sn=5|four=21211|canj=OMMM|ids=⿰亻三}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0094.051|dkj=00397|hdz=10112.010|uh=4EE8}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "[[contraction|Contraction]] of {{l|zh|[[三]][[個]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=sā\n|c=saam1\n|mc=\n|oc=\n|ma=\n|cat=num\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chiefly|Mandarin|colloquial}} {{n-g|functioning as {{zh-l|*三|three}} + an implied classifier}}: [[three]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{lang|zh|仨}} is not followed by any classifier."
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{zh-l|倆}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人03}}\n\n# {{defn|lang=ja|sort=人03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さ\n|kanon=さ}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[tam]]|rs=人03}}\n\n# {{defn|lang=vi|sort=人03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=4ee8 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

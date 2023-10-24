@@ -1,0 +1,71 @@
+{
+  "title": "萈",
+  "ns": 0,
+  "id": 25161,
+  "timestamp": 1535836143000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|莧}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In Taiwan and Hong Kong, the upper component of this character is <font size=5>[[⻀]]</font> (ram's horn), which is the original form found in the {{w|Shuowen Jiezi}} dictionary.\n* In mainland China, the upper component of this character is <font size=4>{{l|mul|艹}}</font> (grass radical) which is the same form found in the {{w|Kangxi dictionary}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=08|sn=12|snm=11|four=44213|canj=TBUI|ids=⿱艹⿷見丶(G),⿱⻀⿷見丶(T)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is not to be confused with visually similar <big>{{l|mul|莧}}</big> (<code>U+83A7</code>) which is based on the grass radical and does not have an additional {{l|mul|丶}} dot in the component {{l|mul|見}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* <big>{{l|mul|[[𦏊]], [[𡅽]], [[寬]], [[𡅻]]}}</big> ''(Contains <font size=5>[[⻀]]</font> <small>(ram's horn)</small> for Taiwan/Hong Kong and <font size=4>{{l|mul|艹}}</font> <small>(grass radical)</small> for mainland China and other regions)''\n* <big>{{l|mul|[[𬪖]]}}</big> ''(Contains <font size=4>{{l|mul|艹}}</font> grass radical)''\n* <big>{{l|mul|[[𬉛]]}}</big> ''(Contains <font size=5>[[⻀]]</font> ram's horn)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1040.310|dkj=31257|hdz=53233.090|uh=8408}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𦏊,羦,𦎻}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{liushu|p}} – a goat, showing its horns, head, legs and tail. ''{{w|Shuowen}}'' erroneously considers it to be a {{Han compound|𥄕||ls=psc|c1=p|c2=s|t2=legs of a rabbit|nocap=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=huán\n|c=wun4\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} [[goat]] with [[thin]] [[horn]]s"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

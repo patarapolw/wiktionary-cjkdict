@@ -1,0 +1,102 @@
+{
+  "title": "鯰",
+  "ns": 0,
+  "id": 32214,
+  "timestamp": 1540188461000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鲇|鲶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=195|rad=魚|as=08|sn=19|four=28332|canj=NFOIP|ids=⿰魚念}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "<references/>\n* {{Han ref|kx=1473.271|dkj=46285|dj=2005.270|hdz=74697.130|uh=9BF0|ud=39920|bh=F3CE|bd=62414}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|鮎|v}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "Commonly used for the [[catfish]] sense in {{w|written Chinese}}, due to the rarity usage of {{zh-l|鮎}}."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}},<ref name=\"DJS\">{{R:Daijisen}}</ref> using the {{m|ja|魚}} radical on the left for its meaning of “fish”, and {{m|ja|念}} on the right for its [[phonetic]] value as a homophone of {{m|ja|粘|tr=nen||sticky; slimy}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚08}}\n\n# a [[catfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=ねん<ねん<ねむ\n|kun=なまず-<なまづ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{swp|lang=ja}}\n[[File:Naturalis_Biodiversity_Center_-_RMNH.ART.134_-_Silurus_asotus_(Linnaeus)_-_Kawahara_Keiga_-_1823_-_1829_-_Siebold_Collection_-_pencil_drawing_-_water_colour.jpeg|thumb|250px|鯰 (''namazu''): a biologist's depiction of a {{vern|Amur catfish}} ({{vern|Japanese catfish}}).]]\n</div>\n{{ja-kanjitab|なまず|yomi=k}}\nPossibly from {{com|ja|sort=なまず|滑|tr1=nama|t1=slippery, slimy|pos1=possible ancient alternate for ''name'' reading|頭|tr2=zu|t2=head}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|なまず|acc=0|acc_ref=DJR,NHK,SMK5}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|なまず|ナマズ|hhira=なまづ}}\n\n# an {{vern|Amur catfish}} ({{taxlink|Silurus asotus|species|noshow=1}})",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* {{U:ja:biology|ナマズ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|上がり鯰|あがりなまず}}\n* {{ja-r|痺鯰|しびれなまず}}\n* {{ja-r|電気鯰|でんきなまず}}\n* {{ja-r|鯰尾|なまずお}}\n* {{ja-r|鯰隈|なまずぐま}}\n* {{ja-r|鯰肌|なまずはだ}}\n* {{ja-r|鯰髭|なまずひげ}}\n* {{ja-r|鯰坊主|なまずぼうず}}\n* {{ja-r|瓢箪で鯰を押さえる|ひょうたん で なまず を おさえる}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese-coined CJKV characters used outside Japanese|魚+08]]\n{{C|ja|Catfish|sort=なまず}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "title": "礻",
+  "ns": 0,
+  "id": 22208,
+  "timestamp": 1553563206000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ネ|衤|⺭}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=113|rad=示|as=00|sn=4|four=30203|canj=IF}}\n\n# [[Kangxi radical]] #113, {{l|mul|⽰}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* [[Index:Chinese radical/示]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0839.201|dkj=24625|dj=1256.270|hdz=42385.011|uh=793B}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shì\n|m_note=Only used as a component in a character\n|c=si6\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# Left {{w|Radical 113|radical}} form of {{l|zh|示}} ([[示字旁]], shìzìpáng)"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "Not to be confused with [[衤]], which is the left radical form of {{l|zh|衣}}."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=r|rs=示00}}\n\n# The left \"show\" radical, called {{ja-l|示偏|shimesuhen}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=し\n|kun=しめすへん-, ねへん-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Since it looks like the [[片仮名#Japanese|katakana]] {{ja-l|ネ|ne}}, commonly in {{ja-l|楷書体|kaishotai|[[w:Regular script|regular script]]}}, it can also be called {{ja-l|ネ偏|nehen|\"ne\" radical}}."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=示00|reading=kì, tự}}\n\n# {{defn|lang=vi|sort=示00}}\n\n[[Category:CJKV radicals| ]]\n\n{{cln|vi|Han tu}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

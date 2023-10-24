@@ -1,0 +1,90 @@
+{
+  "title": "猟",
+  "ns": 0,
+  "id": 20532,
+  "timestamp": 1520494177000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|獵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|獵|猟|猎}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=94|rad=犬|as=08|sn=11|four=42217,49210|canj=KHFHN|ids=⿰犭鼡}}\n\n# [[hunt]]\n# field [[sport]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0714.051|dkj=20512|dj=1126.050|hdz=21354.141|uh=731F|ud=29471}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|猟|獵}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=犬08|kyu=獵}}\n\n# [[hunting]], [[hunt]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りょう<れふ\n|kanon=りょう<れふ\n|kun=かり-, か-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|禁猟|きんりょう}}: [[prohibition]] on [[hunting]]\n* {{ja-r|狩猟|しゅりょう}}: [[hunting]]\n* {{ja-r|密猟|みつりょう}}: [[poaching]]\n{{der-mid}}\n* {{ja-r|猟犬|りょうけん}}: a [[hunting dog]]; a [[hound]]\n* {{ja-r|猟師|りょうし}}: a [[hunter]]\n* {{ja-r|猟者|りょうしゃ}}: a [[hunter]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|りょう|yomi=o}}\n\nFrom {{der|ja|ltc|-}} {{ltc-l|獵}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|りょう|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|kyu=獵|りょう|hhira=れふ}}\n\n# [[hunting]]\n# [[game]] {{qualifier|animals that one hunts}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|狩|かり}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|漁|りょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

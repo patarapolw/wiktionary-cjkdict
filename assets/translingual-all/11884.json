@@ -1,0 +1,141 @@
+{
+  "title": "医",
+  "ns": 0,
+  "id": 11884,
+  "timestamp": 1548341506000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|醫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|医|医|醫}}\n{{stroke order|strokes=7}}\n[[Category:CJKV simplified characters which already existed as traditional characters]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=23|rad=匸|as=05|sn=7|four=|canj=SOK|ids=⿷匚矢}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[殹]], [[悘]], [[𢟇]], [[𤻢]], [[𥏏]], [[𦑄]], [[𨯍]], [[𫑝]], [[𫧕]], [[𬙟]], [[𭬢]], [[𮡟]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0155.050|dkj=02680|hdz=10085.030|uh=533B|ud=21307}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|匸|矢|t1=that which hides; that which stores|t2=arrow|ls=ic}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yì\n|c=ai3\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} a [[tool]] for [[store|storing]] a [[bow]] and [[crossbow]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|醫}}\n{{Han simp|醫|f=殳|t=&nbsp;|f2=酉|t2=&nbsp;}}."
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C00862}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|医|醫}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=匸05|kyu=醫}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=い\n|kanon=い\n|kun=い-やす, くすし-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|い|yomi=o}}\nFrom {{der|ja|ltc|sort=い|-}} {{ltc-l|醫}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|い|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|い}}\n\n# [[doctor]]; [[physician]]; [[medicine]]"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|い}}\n\n# [[doctor]]\n# [[medicine]], the healing arts",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top|medicine, the healing arts}}\n* {{ja-r|医%院|い%いん}}\n* {{ja-r|医%学|い%がく}}\n* {{ja-r|医%師|い%し}}\n* {{ja-r|医%者|い%しゃ}}\n* {{ja-r|医%術|い%じゅつ}}\n* {{ja-r|医%薬|い%やく}}\n* {{ja-r|医%療|い%りょう}}\n{{der-bottom}}\n\n{{der-top|doctor}}\n* {{ja-r|軍%医|ぐん%い}}\n* {{ja-r|校%医|こう%い}}\n* {{ja-r|侍%医|じ%い}}\n* {{ja-r|獣%医|じゅう%い}}\n* {{ja-r|女%医|じょ%い}}\n* {{ja-r|典%医|てん%い}}\n* {{ja-r|名%医|めい%い}}\n* {{ja-r|歯%科%医|し%か%い}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[예]], [[의]]|rv=ye, ui|mr=ye, ŭi}}\n\n# {{defn|lang=ko|sort=匸05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

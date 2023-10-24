@@ -1,0 +1,80 @@
+{
+  "title": "氡",
+  "ns": 0,
+  "id": 18579,
+  "timestamp": 1553554148000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|氭}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=84|rad=气|as=05|sn=9|four=80317|canj=ONHEY|ids=⿹气冬}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0599.111|hdz=32011.050|uh=6C21}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|气|c1=s|t1=gas|冬|c2=p|ls=psc|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Borrowed from {{bor|zh|en|radon|ra'''don'''}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dōng\n|c=dung1\n|mn=ml:tong\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemistry}} [[radon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|氡氣}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=气05|reading=đông}}\n\n# {{defn|lang=vi|sort=气05}}\n\n{{cln|vi|Han tu}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

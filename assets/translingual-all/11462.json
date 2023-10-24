@@ -1,0 +1,97 @@
+{
+  "title": "冧",
+  "ns": 0,
+  "id": 11462,
+  "timestamp": 1549809270000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=14|rad=冖|as=08|sn=10|four=|canj=BDD|ids=⿱冖林}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0131.011|hdz=80010.070|uh=51A7|ud=20903}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=lam1\n|cat=n,v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} [[flower]] [[bud]]\n# {{lb|zh|Cantonese}} to [[coax]] (especially a child or girl)\n#: {{zh-x|冧歌|love song|C}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|冧巴|冧巴溫|冧樣|冧歌|冧篷頭|布冧}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Probably a {{der|yue|qfa-tak}} substrate word. Compare {{cog|th|ล้ม||to fall}}, {{cog|za|laemx||to fall}}, {{cog|mmd|lam⁵||to fall}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=lín\n|c=lam3\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} to [[topple over]]; to [[fall over]] (of trees, etc.)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=lam6\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} to be intoxicated"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

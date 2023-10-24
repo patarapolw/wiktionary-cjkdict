@@ -1,0 +1,156 @@
+{
+  "title": "畑",
+  "ns": 0,
+  "id": 21139,
+  "timestamp": 1546684517000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=102|rad=田|as=04|sn=9|four=96800|canj=FW|ids=⿰火田}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𬊴]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0760.341|dkj=21797|dj=1078.170|hdz=32195.110|uh=7551|ud=30033}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Borrowed from {{bor|zh|ja|畑}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From the character component of {{zh-l|田|[[field]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tián\n|c=tin4\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{n-g|Used in Japanese personal names.}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}.\n\n{{Han compound|ls=ic|火#Japanese|c1=s|t1=[[fire]]|田#Japanese|c2=s|t2=[[field]]}}"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=田04}}\n\n# [[field]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=はた-, はたけ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|はたけ|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|はたけ|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はたけ}}\n\n# dry field",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|茶%畑|ちゃ%ばたけ}}: [[tea]] [[plantation]]\n* {{ja-r|葡萄%畑|ぶどう%ばたけ}}: [[vineyard]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|はた|proper}}\n\n# {{surname|lang=ja|sort=はた}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[전]]|eumhun=|rv=jeon|mr=chŏn|y=cen}}\n\n# {{defn|lang=ko|sort=田04}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|火#Vietnamese|田#Vietnamese|c1=s|c2=p|t1=fire|tr2={{l|vi|điền}}|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=田04\n|nom=đèn-tdcndg;tdcntd;gdhn;genibrel;taberd, dền-gdhn, vặc-btcn\n}}\n\n# {{Nom form of|đèn|[[lamp]]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

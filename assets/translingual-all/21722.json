@@ -1,0 +1,80 @@
+{
+  "title": "睭",
+  "ns": 0,
+  "id": 21722,
+  "timestamp": 1548768974000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=109|rad=目|as=08|sn=13|four=67020|canj=BUBGR|ids=⿰目周}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0811.150|dkj=23471|dj=1226.140|hdz=42498.060|uh=776D}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=zhǒu\n|c=zau2\n|mc=\n|oc=\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[deep]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|睭睭}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=珠}}\nFrom {{och-l|珠|pearl}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|md=cĭu\n|mn=chiu\n|mn-t=ziu1\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfv-sense|zh}} {{lb|zh|Teochew}} [[eyeball]]\n# {{zh-used|目睭}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

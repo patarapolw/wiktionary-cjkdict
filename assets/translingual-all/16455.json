@@ -1,0 +1,87 @@
+{
+  "title": "搢",
+  "ns": 0,
+  "id": 16455,
+  "timestamp": 1553312730000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8BF}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=10|sn=13|four=51061|canj=QMCA,QMIA|ids=⿰扌晋}}\n\n# to [[stick]] into\n# to [[shake]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0447.150|dkj=12494|dj=0798.070|hdz=31929.050|uh=6422|ud=25634|bh=DDA8|bd=56744}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jìn\n|c=zeon3\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手10}}\n\n# {{defn|lang=ja|sort=手10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[しん]] (shin), [[せん]] (sen), [[せい]] (sei), [[さい]] (sai)|kun=[[はさむ]] (hasamu)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=진|eumhun=|rv=jin|mr=chin|y=cin}}\n\n# {{defn|lang=ko|sort=手10}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

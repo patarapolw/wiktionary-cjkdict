@@ -1,0 +1,70 @@
+{
+  "title": "嗏",
+  "ns": 0,
+  "id": 12602,
+  "timestamp": 1531939835000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=10|sn=13|four=64098|canj=RTOD|ids=⿰口茶}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0202.220|dkj=04066|dj=0425.030|hdz=10650.010|uh=55CF|ud=21967|bh=DCD8|bd=56536}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chā,hé\n|c=caa1,caa2,zaa2\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} [[imperative]] final [[particle]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口10}}\n\n# {{defn|lang=ja|sort=口10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[さ]] (sa), [[しゃ]] (sha)|kun=}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

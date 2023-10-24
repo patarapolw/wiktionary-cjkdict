@@ -1,0 +1,82 @@
+{
+  "title": "窾",
+  "ns": 0,
+  "id": 22600,
+  "timestamp": 1523715720000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=116|rad=穴|as=12|sn=17|four=30982|canj=JCGFO|ids=⿱穴款}}\n\n# [[hole]]\n# [[hallow]]\n# [[empty]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0868.250|dkj=25655|dj=1297.320|hdz=42741.180|uh=7ABE|ud=31422|bh=EDB7|bd=60855}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=kuǎn,cuàn\n|c=fo1,fun2\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=穴12}}\n\n# {{defn|lang=ja|sort=穴12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|on=かん, こう, か, く, さん\n|kun=むな-しい\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=관|eumhun=|rv=gwan|mr=kwan|y=kwan}}\n\n# {{defn|lang=ko|sort=穴12}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

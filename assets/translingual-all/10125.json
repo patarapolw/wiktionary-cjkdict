@@ -1,0 +1,90 @@
+{
+  "title": "㐱",
+  "ns": 0,
+  "id": 10125,
+  "timestamp": 1525000330000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=03|sn=5|four=|canj=OHHH|ids=⿱𠆢彡}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[疹]], [[參]]([[参]]), [[翏]], [[曑]], [[沴]], [[抮]], [[昣]], [[胗]], [[殄]], [[珍]], [[畛]], [[眕]], [[紾]]([[𬘝]]), [[聄]], [[袗]], [[診]]([[诊]]), [[趁]], [[跈]], [[軫]]([[轸]]), [[鉁]], [[䪾]]([[𫖬]]), [[飻]], [[駗]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0092.110|hdz=10111.090|uh=3431}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|人|彡|t1=man|t2=hair|ls=ic}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhěn\n|c=can2\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|鬒|thick hair}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=진|rv=jin|mr=chin|y=cin}}\n\n# {{defn|lang=ko|sort=人03}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[chỉn]], [[chín]], [[xỉn]]|rs=人03}}\n\n# {{defn|lang=vi|sort=人03}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

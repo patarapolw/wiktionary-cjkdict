@@ -1,0 +1,104 @@
+{
+  "title": "犎",
+  "ns": 0,
+  "id": 20387,
+  "timestamp": 1551665962000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=93|rad=牛|as=09|sn=13|four=44500|canj=GIHQ|ids=⿱封牛}}\n\n# the zebu, or humped-ox",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0702.270|dkj=20086|dj=1115.300|hdz=31815.050|uh=728E|ud=29326|bh=DEA9|bd=57001}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Eberhard (1968) thought this and similar words like {{och-l|封|mound, tumulus}} were all related and fundamentally meant \"hump\".\n\nOr from {{inh|zh|sit-pro|*brawŋ||wild yak, buffalo}} (STEDT, Boodberg 1937, {{zh-ref|Schuessler, 2007}}), cognate with {{cog|bo|འབྲོང||wild yak}}, {{cog|my|tr=proŋ|t=buffalo}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fēng,máo\n|c=fung1\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|犎牛}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=牛09}}\n\n# [[zebu]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[ふう]] (fū)|kanon=[[ほう]] (hō)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|犎牛|ほうぎゅう|[[zebu]]}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "'''犎''' ([[phong]])\n\n{{cln|vi|Han tu}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

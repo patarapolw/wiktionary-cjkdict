@@ -1,0 +1,75 @@
+{
+  "title": "伔",
+  "ns": 0,
+  "id": 10661,
+  "timestamp": 1520759352000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=04|sn=6|four=27210|canj=OBHU|ids=⿰亻冗}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0096.100|dkj=00448|dj=0204.050|hdz=10126.070|uh=4F14|ud=20244|bh=C9AF|bd=51631}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dǎn\n|c=dam2\n|mc=\n|oc=\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|抌}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 63]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人04}}\n\n# {{defn|lang=ja|sort=人04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[しん]] (shin), [[じん]] (jin)|kun=}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "title": "点",
+  "ns": 0,
+  "id": 19881,
+  "timestamp": 1545934399000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|點|奌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}\n{{stroke order|strokes=9}}\n{{ja-forms|点|点|[[點]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{Han simp|點|f=黑|t=灬}}. Note that 黑 changed from being on the left to being 灬, underneath. Compare [[黙]] (from [[默]]), which retains the [[里]], and [[黒]], which is the simplification in isolation.\n\nCurrent form is graphically {{Han compound|占|灬}}."
+            },
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{Han char|rn=86|rad=火|as=05|sn=9|four=|canj=XYRF,YRF|ids=⿱占灬}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* Simplification: [[奌]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0669.101|dkj=18980|dj=1078.150|hdz=32198.070|uh=70B9|ud=28857}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|點}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|点|點}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=火05|kyu=點}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=てん<てん<てむ\n|kanon=てん<てん<てむ\n|kun=さ-す, た-てる, ちょぼ-<ちよぼ-, つ-ける, とぼ-す, とも-す, ぼち\n}}\n{{attention|ja|review readings}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|濁点|だくてん}}\n* {{ja-r|点字|てんじ}}\n* {{ja-r|点火|てんか}}\n* {{ja-r|点検|てんけん}}\n* {{ja-r|点穴|てんけつ}}: [[pressure point]]s\n* {{ja-r|点滅|てんめつ}}\n* {{ja-r|点心|てんしん}}\n* {{ja-r|点数|てんすう}}\n* {{ja-r|自%殺点|じ%さつてん}}: [[own goal]]\n* {{ja-r|半濁点|はんだくてん}}\n{{der-bottom}}\n\n{{ja-kanjitab|てん|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{etyl|ltc|ja|sort=てん}} {{m|zh|點|tr=tem<sup>X</sup>||point}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|てん|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|てん|counter}}\n\n# items or goods"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|てん}}\n\n# [[spot]], [[dot]]\n# [[score]], [[grade]], [[mark]](s)\n# [[point]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=점|eumhun=|rv=jeom|mr=chŏm|y=cem}}\n\n# {{defn|lang=ko|sort=火05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

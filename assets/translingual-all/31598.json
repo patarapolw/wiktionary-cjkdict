@@ -1,0 +1,51 @@
+{
+  "title": "駂",
+  "ns": 0,
+  "id": 31598,
+  "timestamp": 1552984566000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2FA06}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=187|rad=馬|as=04|sn=14|four=21427|canj=PJSQF|ids=⿰𠤏馬}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1435.160|dkj=44623|dj=1959.270|hdz=74544.130|uh=99C2|ud=39362|bh=E4D7|bd=58583}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bǎo\n|c=bou2\n|mc=y\n|oc=y\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

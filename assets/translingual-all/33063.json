@@ -1,0 +1,104 @@
+{
+  "title": "黜",
+  "ns": 0,
+  "id": 33063,
+  "timestamp": 1536813598000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=203|rad=黑|as=05|sn=17|four=62372|canj=WFUU|ids=⿰黑出}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1519.210|dkj=48076|dj=2053.090|hdz=74747.100|uh=9EDC|ud=40668|bh=C24A|bd=49738}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|黑|出|ls=psc|c1=s|c2=p|t1=black}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chù\n|c=ceot1,zeot1,zyut3,zyut6\n|h=pfs=\n|md=\n|mn=lut\n|w=\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[dismiss]]\n# [[demote]], [[downgrade]] {{rfv-sense|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|罷黜|黜免|黜退}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=黑05}}\n\n# {{defn|lang=ja|sort=黑05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちゅち\n|kanon=ちゅつ\n|kun=しりぞ-ける\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=출|eumhun=|rv=chul|mr=ch'ul|y=chwul}}\n\n# {{defn|lang=ko|sort=黑05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[truất]], [[trụt]], [[truột]]|rs=黑05}}\n\n# {{defn|lang=vi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "title": "喉",
+  "ns": 0,
+  "id": 12529,
+  "timestamp": 1516097848000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=09|sn=12|four=67034|canj=RONK|ids=⿰口侯}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0197.310|dkj=03913|dj=0419.080|hdz=10657.040|uh=5589|ud=21897|bh=B3EF|bd=46063}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=㗋,𦞈,𦞕}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|口|t1=mouth|侯|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{inh|zh|sit-pro|*ku||neck; throat}} (STEDT); compare {{cog|cdm|गुक्‌||throat}} ({{zh-ref|Schuessler, 2007}}). Also compare {{cog|mkh-pro|*kɔʔ||neck}}, whence {{cog|mnw|ကံ||neck}}, {{cog|km|ក||neck}}, {{cog|vi|cổ||neck}} ({{zh-ref|Schuessler, 2007}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=hóu\n|m-s=hou2\n|c=hau4\n|c-t=heu3\n|g=heu2\n|h=pfs=hèu;gd=hêu2\n|j=\n|md=hèu\n|mn=âu/xm,zz:hô͘/qz:hiô\n|mn_note=hô͘/hiô - literary; âu - vernacular\n|mn-t=ao5\n|w=3hheu\n|x=hou2\n|mc=y\n|oc=y\n|cat=n,a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|anatomy}} [[larynx]]\n# {{lb|zh|by extension}} [[throat]]; [[gullet]]\n# {{lb|zh|Cantonese}} [[pipe]]; [[duct]]; [[hose]]; [[tube]]\n# [[guttural]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|喉嚨}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|喉嚨:throat|喉擦音|喉管|猴急|喉結|喉鏡|喉科|喉塞音|喉痧|喉舌|喉頭|喉炎|喉音|咽喉|咽喉要路|喉吻|喉咽|喉急|喉片|喉癌|喉衿|喉長氣短|喉風|囀喉|大喉嚨|如鯁在喉|弔喉|扼喉撫背|拊背扼喉|摩喉羅|撫背扼喉|歌喉|潤喉|為民喉舌|煙生喉舌|珠喉|發喉急|白喉|白喉疫苗|結喉|耳鼻喉科|衿喉|襟喉|見血封喉|調喉|調喉嗓|骨鯁在喉}}"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{zh-l|咽|pharynx}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=口09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=こう\n|kun=のど-\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|咽喉|いんこう|[[throat]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|のど|yomi=k}}\nnomito > nomto > nomdo > nondo > nodo.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|のど|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|咽}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のど}}\n\n# [[throat]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|咽喉|いんこう}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|こう|yomi=o}}\nFrom {{der|sort=こう|ja|ltc|喉|tr=huw}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|こう}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Counter",
+                  "text": "{{ja-pos|こう|counter}}\n\n# counter for [[fish]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|尾|び}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|sort=のんど|yomi=irr}}\nnomito > nomto > nomdo > nondo.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|のんど}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|咽}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のんど}}\n\n# [[throat]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|sort=のみど|yomi=irr}}\nFrom {{m|ja|喉|tr=nomito}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|のみど}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|咽}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のみど}}\n\n# [[throat]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|57}}\n#*: 喉吻 下无粉反 口邊也 唇兩邊也 上音呉 訓'''乃美土'''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|sort=のみと|yomi=irr}}\nCompound of {{affix|sort=のみと|ja|飲み|tr1=nomi|t1=drink|門|tr2=to|t2=passage}}. ''nomi'' is the nominalized form of the verb {{m|ja|飲む|tr=nomu||to drink}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|のみと}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|咽}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|のみと}}\n\n# [[throat]]\n#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|81}}\n#*: 咽咀 上於見反 咽倭云'''能美等''' 咀嚼也 咀才與反 倭言久不"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{Shin'yaku Kegonkyō Ongi Shiki}}\n:* {{R:Nara Ibun 3}}\n\n[[Category:ja:Anatomy|のど]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[후]]|rv=hu|mr=hu}}\n\n# [[throat]], [[gullet]], [[larynx]]\n# [[guttural]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Okinawan",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Cognate with mainland {{cog|ja|喉|tr=nodo}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{head|ryu|kanji|hiragana|ぬーでぃー|romaji|nūdī}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{head|ryu|noun|hiragana|ぬーでぃー|romaji|nūdī}}\n\n# [[throat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{l|ryu|喉弦|tr=[[ぬーでぃーじる]], ''[[nūdījiru]]''||[[vocal cords]]}}\n\n[[Category:ryu:Anatomy|ぬうでぃい]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[hầu]]|rs=口09}}\n\n# {{defn|lang=vi|sort=口09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "title": "旡",
+  "ns": 0,
+  "id": 16906,
+  "timestamp": 1537191704000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=71|rad=无|as=00|sn=4|four=10410|canj=MVKU|ids=⿸⿻丆𠃋乚(GHTJ),⿸⿻丆丄乚(K)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/旡]]\n* [[既]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0485.250|dkj=13717|dj=0848.010|hdz=21147.130|uh=65E1|ud=26081|bh=C95E|bd=51550}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{liushu|p}} – a kneeling figure.\n\nNote the stroke order, which may not be clear in derived characters: the left vertical and second horizontal are one stroke with a corner, while the upper right vertical continues in a diagonal stroke to lower left.\n\n{{Han etyl}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jì\n|c=gei3\n|mn=kì\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# when [[food]] becomes [[stuck]] in the [[throat]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|既|ss}}",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "References",
+                  "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 121]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=无01}}\n\n# {{defn|lang=ja|sort=无01}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[き]] (ki), [[け]] (ke)|kun=[[むせぶ]] (musebu)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

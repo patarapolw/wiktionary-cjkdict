@@ -1,0 +1,114 @@
+{
+  "title": "亘",
+  "ns": 0,
+  "id": 10522,
+  "timestamp": 1537025731000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|亙}}\n{{character info/new}}\n<!-- may be replaced by zh-forms -->",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=7|rad=二|as=04|sn=6|four=10106|canj=MAM|ids=⿱一旦,⿱𣄼一}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0087.040|dkj=00262|dj=0183.100|hdz=10017.160|uh=4E98|ud=20120}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han etyl}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xuān\n|oc=y\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[revolve]] [[around]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|亙}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=二04}}\n\n# [[span]]\n# [[request]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん, がん<ぐわん\n|kanon=せん, かん<くわん\n|kun=めぐ-る, もと-める\n|nanori=せん, のぶ\n}}\n\nAs an alternative form of {{m|ja|亙}}:\n{{ja-readings\n|goon=こう\n|kanon=こう\n|kun=わた-る\n|nanori=とおる, わたり, ひろし\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|亘古|こうこ}}: forever, from ancient times.\n* {{ja-r|連亘|れんこう}}: extending in a row"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=4F4B\n|ku=4743\n|shift=986a\n|euc=\n|freq=1728\n|nelson=30\n|newnelson=79\n|halpern=1939\n|kld=1232\n|heisig=32\n|tuttle=4c2.4\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|わたる}}\n\n# {{given name|male|lang=ja|sort=わたる}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[선]], [[환]]|rv=seon, hwan|mr=sŏn, hwan}}\n\n# {{defn|lang=ko|sort=二04}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

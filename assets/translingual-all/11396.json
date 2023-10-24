@@ -1,0 +1,107 @@
+{
+  "title": "党",
+  "ns": 0,
+  "id": 11396,
+  "timestamp": 1546673248000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|黨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|党|党|党/[[黨]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=10|rad=儿|as=08|sn=10|four=90216|canj=FBRHU|ids=⿳龸兄,⿱尚儿}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0125.180|dkj=01381|dj=0265.230|hdz=10273.110|uh=515A|ud=20826|bh=D0DE|bd=53470}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|尚|儿|c1=p|c2=s|t2=human|ls=psc}}.\n\nBesides its original senses, it is used as a simplified substitute for the character [[黨]]."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|黨|sv}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=dǎng\n|c=dong2\n|mn=tóng\n|cat=pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{surname|lang=zh}}\n#: {{zh-x|^党家 ^村|{{w|Dangjia village|'''Dang'''jia Village}}}}\n# {{zh-only|党項}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|党|黨}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=儿08|kyu=黨}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "'''As shinjitai or abbreviated form of {{lang|ja|黨}}:'''\n{{ja-readings\n|goon=とう<たう\n|kanon=とう<たう\n|kun=なかま-<なかま-, むら-<むら-\n}}\n\n'''As original character:'''\n{{ja-readings\n|goon=とう<たう\n|kanon=とう<たう\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Rare as an original character, and even more rarely used with its original reading; used mostly in the word {{ja-r|党%項|タン%グート|Tangut}}.\n{{ja-kanjitab|とう|yomi=o}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とう|kyu=黨}}\n\n# political [[party]]\n\n{{ja-noun|たむら|kyu=黨}}\n\n# {{alternative form of|屯|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|とう|kyu=黨}}\n\n# political party"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:DKJ}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

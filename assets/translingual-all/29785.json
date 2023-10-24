@@ -1,0 +1,121 @@
+{
+  "title": "鎮",
+  "ns": 0,
+  "id": 29785,
+  "timestamp": 1553777630000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鎭|镇}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|鎮|镇|鎮|鎭}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=167|rad=金|as=10|sn=18|four=84181|canj=CJBC|ids=⿰金真}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𤄱]]}} <!-- Contains 鎮 not 鎭 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[鎭]]}} ''(Orthodox form in {{w|Kangxi dictionary}})''\n* {{l|mul|[[镇]]}} ''({{w|Simplified Chinese}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1318.170|dkj=40745|dj=1818.070|hdz=64238.010|uh=93AE}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=镇|t2=鎭}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|金|真|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhèn\n|c=zan3\n|h=pfs=chṳ́n\n|md=déng\n|mn=qz,tw,xm,zz:tìn\n|mn-t=ding3\n|w=2tsen\n|mc=y\n|oc=y\n|cat=v,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[guard]]; [[garrison]]\n#* {{zh-x|鎮守|to guard}}\n# to [[calm]]; to [[tranquil]]; to [[sedate]]\n#* {{zh-x|鎮定|calm}}\n#* {{zh-x|鎮痛|pain killer}}\n# to [[suppress]]; to [[repress]]; to [[subdue]]\n#* {{zh-x|鎮住|to dominate, to subdue}}\n#* {{zh-x|鎮壓|repression}}\n# {{lb|zh|food or drinks}} to [[cool]]; to [[chill]]\n#* {{zh-x|冰鎮|iced}}\n# [[town]]; [[township]]\n#* {{zh-x|這 個 鎮 建 於 @1610 年。|The '''town''' was founded in 1610.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{desc|khb|ᦵᦈᦲᧃᧈ|bor=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|平鎮|冰鎮|坐鎮|強作鎮靜|市鎮|左鎮人|城鎮|大鎮國|書鎮|方鎮|矯情鎮物|村鎮|鎮國將軍|鎮尺|雄鎮|鎮星|鎮暴|鎮痛劑|鎮壓|鎮物|鎮臺|重鎮|藩鎮之亂|鎮嚇|鎮暴警察|鎮長|鎮痛|鎮暴隊形|鎮撫|鎮懾|鎮家之寶|鎮定|鎮守|鎮墓獸|鎮反|鎮南關|鎮公所|鎮靜劑|鎮邪物|鎮定劑|鎮紙|鎮日|鎮邪|鄉鎮|紙鎮|鎮靜|鎮宅神|藩鎮|鎮圭|鎮川|沙鎮溪|都鎮灣|鎮江|鎮東|鎮安}}\n\n{{zh-cat|Administrative divisions|Intermediate}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|鎮|鎭}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=金10|kyu=鎭}}\n\n# {{defn|lang=ja|sort=金10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちん\n|kanon=ちん\n|on=てん\n|kun=しず-まる, しず-める, おさ-え\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=진|eumhun=|rv=jin|mr=chin|y=cin}}\n\n# {{defn|lang=ko|sort=金10}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[trấn]]|rs=金10}}\n\n# {{defn|lang=vi|sort=金10}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

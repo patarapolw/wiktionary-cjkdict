@@ -1,0 +1,85 @@
+{
+  "title": "燚",
+  "ns": 0,
+  "id": 20200,
+  "timestamp": 1531285601000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=12|sn=16|four=99889|canj=FFFF|ids=⿱炎炎}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𤓔]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0684.060|dkj=19440|dj=1096.060|hdz=32237.030|uh=71DA}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{zh-etym-quadruple|火}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yì\n|c=jik6,ngai6\n|c_note=jik6 - colloquial; ngai6 - variant\n|cat=a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[appearance]] of [[fire]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C06858}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火12}}\n\n# {{defn|lang=ja|sort=火12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[いつ]] (itsu), [[いち]] (ichi)|kun=}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

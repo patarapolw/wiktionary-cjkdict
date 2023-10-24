@@ -1,0 +1,121 @@
+{
+  "title": "郡",
+  "ns": 0,
+  "id": 28966,
+  "timestamp": 1546953366000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=163|rad=邑|as=07|sn=10|four=17627|canj=SRNL|ids=⿰君⻏}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𠹴]], [[㴫]], [[𦄄]], [[𩺐]], [[𡩫]], [[𦵼]], [[𤹓]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1272.070|dkj=39436|dj=1770.280|hdz=63775.060|uh=90E1}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp|zh:郡|en:Jun (country subdivision)}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jùn\n|c=gwan6\n|h=pfs=\n|md=\n|mn=kūn\n|mna=Taiwanese-Tone_7.ogg\n|w=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|historical}} An [[administrative]] [[subdivision]] of [[imperial]] [[China]] of [[various]] [[status]] over the [[centuries]], [[usually]] [[translate]]d as ''[[commandery]]'' or ''[[prefecture]]''\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{sense|governor of the commandery}} {{zh-l|郡守}}, {{zh-l|太守}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|延平郡王|州郡|巴陵郡|涿郡|郡縣|遙郡|郡邑|郡國制|跨州越郡|郡丞|郡馬|象郡|郡守|郡望|郡公|郡尉|蜀郡|郡王|郡府|郡君|郡侯|邊郡|郡主|郡庠}}\n\n{{zh-cat|Administrative divisions}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=邑07}}\n\n# [[county]]\n# [[district]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ぐん, くん\n|kun=こおり-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぐん}}\n\n# [[county]], [[district]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=군|eumhun=|rv=gun|mr=kun|y=kwun}}\n\n# {{defn|lang=ko|sort=邑07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[quận]], [[quặn]], [[quấn]], [[quẩn]], [[quạnh]]|rs=邑07}}\n\n# urban district ([[quận]])"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

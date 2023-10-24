@@ -1,0 +1,89 @@
+{
+  "title": "鉎",
+  "ns": 0,
+  "id": 29339,
+  "timestamp": 1540630850000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=167|rad=金|as=05|sn=13|four=85110|canj=CHQM|ids=⿰釒生}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1301.040|dkj=40296|dj=1803.060|hdz=64186.130|uh=924E|ud=37454|bh=E0C8|bd=57544}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shēng\n|c=sau3\n|mn=qz:sng/xm,zz:seng/qz,tw,xm:siⁿ/zz:seⁿ/qz:san/tw,xm,zz:sian\n|mn_note=sng/seng - literary; siⁿ/seⁿ/san/sian - vernacular\n|mn-t=sang1\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary|or|Min Nan}} [[rust]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|鐵鏽}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金05}}\n\n# {{defn|lang=ja|sort=金05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[そう]] (sō), [[しょう]] (shō), [[せい]] (sei)|kun=[[さび]] (sabi)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=생|eumhun=|rv=saeng|mr=saeng|y=sayng}}\n\n# {{defn|lang=ko|sort=金05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

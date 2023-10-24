@@ -1,0 +1,167 @@
+{
+  "title": "稲",
+  "ns": 0,
+  "id": 22457,
+  "timestamp": 1547982136000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|稻}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Variant of {{l|mul|稻}}. The component {{l|mul|旧}} is a variant of {{l|mul|臼}}.\n\nThe Japanese usage is of reform ({{w|shinjitai}}) nature."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=115|rad=禾|as=09|sn=14|four=|canj=HDBLA|ids=⿰禾⿱爫旧}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{Han ref|kx=0856.321|dkj=25187|dj=1282.110|hdz=42618.060|uh=7A32|ud=31282}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|稻|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|稲|稻}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=禾09|kyu=稻}}\n\n# [[rice]] [[plant]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どう<だう\n|kanon=とう<たう\n|kun=いね-, いな-\n|nanori=ね\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|稲%熱%病|とう%ねつ%びょう}}\n* {{ja-r|水%稲|すい%とう}}\n* {{ja-r|陸%稲|りく%とう}}\n* {{ja-r|晩稲|ばんとう}}\n* {{ja-r|稲熱%病|いもち%びょう}}, {{ja-r|稲熱|いもち}}\n* {{ja-r|稲架|はさ}}\n* {{ja-r|陸稲|おかぼ}}\n* {{ja-r|晩稲|おくて}}\n* {{ja-r|賤稲|しとで}}\n* {{ja-r|中稲|なかて}}\n* {{ja-r|早稲|わさ}}, {{ja-r|早稲|わせ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|イネ}}\n{{wp|Oryza sativa}}\n</div>\n{{ja-kanjitab|いね|yomi=k}}\n{{IPAfont|⟨i<sub>1</sub>nai⟩}} → *{{IPAchar|/jinai/}} → *{{IPAchar|/jine/}} → {{IPAchar|/ine/}}\n\nFrom {{inh|ja|ojp|sort=いね|-}}.\n\nPossibly from {{inh|ja|jpx-pro|-}} *''jinaC-''<ref>Whitman, John (2012). \"[https://link.springer.com/article/10.1007/s12284-011-9080-0 Northeast Asian Linguistic Ecology and the Advent of Rice Agriculture in Korea and Japan], ''Rice'', Volume 4, Issue 3–4, pp 149–158. https://doi.org/10.1007/s12284-011-9080-0</ref> and related to {{m|ja|米|tr=yone||[[husked]] [[rice]]}}.\n\nUnknown \"-C-\" consonantal \"stem\", reconstructed by Vovin (1998), seems unlikely considering {{IPAfont|[a ~ e]}} vowel alternation:\n: Compare {{m|ja|藍|tr=awi → ai||[[indigo]]}} from {{m|ja|青|tr=awo||[[blue]]}} + {{m|ja|い|tr=i|pos=emphatic nominative particle}}<ref>Thomas Pellard (2013).  [https://hal.archives-ouvertes.fr/hal-01289288/document Ryukyuan perspectives on the proto-Japonic vowel system].  Frellesvig, Bjarke; Sells, Peter. Japanese/Korean Linguistics 20, CSLI Publications, pp.81–96, 2013.</ref> against {{m|ja|白き|tr={{IPAfont|⟨siro<sub>1</sub>ki<sub>1</sub>⟩}} → shiroki}} → {{m|ja|白い|tr=shiroi||[[white]]}}. <ref>Hamano, S. \"Voicing of Obstruents in Old Japanese: Evidence from the Sound-Symbolic Stratum.\" ''Journal of East Asian Linguistics'' (2000) 9. 3: 207-225. https://doi.org/10.1023/A:1008367619295</ref>.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いね|acc=1|acc_ref=SMK2,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=稻|いね|イネ}}\n\n# the [[Asian]] [[rice]] [[plant]], ''[[Oryza sativa]]''\n#* {{RQ:Manyoshu|14|3459}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3459 here]\n#*: {{ja-usex|sort=いね|m='''伊祢'''都氣波 可加流安我手乎 許余比毛可 等能乃和久胡我 等里弖奈氣可武|m_kana='''いね'''つけば かかるあがてを こよひもか とののわくごが とりてなげかむ|'''稲'''舂けばかかる我が手を今宵もか殿%の若子が取りて嘆かむ|'''いね''' つけば かかる あが て を こよひ も か との% の わくご が とりてなげかむ|rom='''ine''' tsukeba kakaru aga te o koyoi mo ka tono no wakugo ga torite nagekamu}}\n# a {{m|ja|家紋|tr=kamon||[[family]] [[crest]]}} with various [[design]]s of rice plants",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top3}}\n* {{ja-r|稲%揚げ|いね%あげ}}\n* {{ja-r|稲%刈|いね%かり|rom=-}}, {{ja-r|稲%刈り|いね%かり}}\n* {{ja-r|稲%扱き|いね%こき}}\n* {{ja-r|稲%舂き|いね%つき}}\n* {{ja-r|稲の丸|いね の まる}}\n* {{ja-r|稲%埒|いね%らち}}\n* {{ja-r|抱%稲|だき%いね|rom=-}}, {{ja-r|抱き稲|だき.いね}}\n* {{ja-r|稲%分け|いね%わけ}}\n* {{ja-r|徒 稲|いたずら いね}}\n* {{ja-r|晩稲|おしね}}\n* {{ja-r|刈り稲|かり.いね}}\n* {{ja-r|賤%稲|しず%いね}}\n* {{ja-r|長彦の稲|ながひこ の いね}}\n* {{ja-r|野%稲|の%いね}}\n* {{ja-r|法師子の稲|ほうしご の いね}}\n* {{ja-r|糯%稲|もち%いね}}\n* {{ja-r|行%合いの稲|ゆき%あい の いね|rom=-}}, {{ja-r|行き合いの稲|ゆきあい の いね}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|kyu=稻|いね}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=いね}}\n# {{surname|lang=ja|A=a|nodot=1|sort=いね}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|稲%挙ぐ|いね%あぐ}}, {{ja-r|稲%挙ぐる|いね%あぐる}}\n* {{ja-r|稲%積む|いね%つむ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|いな|yomi=k}}\n\nFrom {{inh|ja|ojp|-}}.\n\nCommonly found in [[compound]]s, rarely in isolation.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=稻|いな}}\n\n# a [[rice]] [[plant]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|稲%扱き|いな%こき}}\n* {{ja-r|稲%作|いな%さく}}\n* {{ja-r|稲%舂き|いな%つき}}\n* {{ja-r|稲%妻|いな%づま|rom=-}}, {{ja-r|電|いなずま}}\n* {{ja-r|稲つるび|いなつるび}}\n* {{ja-r|稲%葉|いな%ば}}\n* {{ja-r|稲%光|いな%びかり}}\n* {{ja-r|稲%穂|いな%ほ}}\n* {{ja-r|稲荷|^いなり}}\n{{der-bottom}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|kyu=稻|いな}}\n\n# {{surname|lang=ja|A=a|nodot=1}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=irr|sort=しね}}\nOften found in compounds. The initial s- either represents [[w:epenthesis|epenthesis]] or, more likely, is a reflex of an older form of the word {{m|ja|稲|tr=ine||[[rice]]}} maintained in fossilized compounds. See also {{m|ja|春雨|tr=harusame||[[spring]] [[rain]]}} and {{m|ja|小雨|tr=kosame||light rain}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=稻|しね}}\n\n# a [[rice]] [[plant]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|荒%稲|あら%しね}}\n* {{ja-r|粳%稲|うる%しね}}\n* {{ja-r|搗ち稲|かちしね}}\n* {{ja-r|奠%稲|くま%しね}}\n* {{ja-r|褻%稲|け%しね|rom=-}}, {{ja-r|食%稲|け%しね}}\n* {{ja-r|税%稲|ちから%しね}}\n* {{ja-r|十%握%稲|と%つか%しね}}\n* {{ja-r|新%稲|に.い%しね}}\n* {{ja-r|和%稲|にき%しね}}, {{ja-r|和%稲|にこ%しね}}\n* {{ja-r|野%稲|の%しね}}\n* {{ja-r|残り稲|のこりしね}}\n* {{ja-r|花%稲|はな%しね}}\n* {{ja-r|御%稲|み%しね}}\n* {{ja-r|八百%稲|やお%しね}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{ja-r|米|こめ|[[husked]] [[rice]] [[grains]]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|いね]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}\n\n# {{defn|lang=ko|sort=禾09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

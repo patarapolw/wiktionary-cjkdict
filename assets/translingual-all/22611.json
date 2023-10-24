@@ -1,0 +1,104 @@
+{
+  "title": "竈",
+  "ns": 0,
+  "id": 22611,
+  "timestamp": 1544180806000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|竃|灶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=116|rad=穴|as=16|sn=21|four=|canj=JCGRU|ids=⿱𥤧黽}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|𢥼}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|mul|竃}} ''(Japanese [[shinjitai]] character)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0869.260|dkj=25703|dj=1298.340|hdz=42746.110|uh=7AC8|ud=31432}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|灶}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* This variant form is the name of the forty-fourth [[tetragram]] of the [[Taixuanjing]] ([[𝌱]]), as listed in the ancient text.\n* In the {{w|lang=zh|第一批简体字表|first batch}} of {{w|simplified Chinese}} characters (1935), it was proposed for this character to be simplified as {{l|zh|灶}}. The simplification of 竈 to {{l|zh|灶}} was finally {{w|lang=zh|汉字简化方案|approved}} in 1965 in mainland China. Note that in {{w|traditional Chinese}} (Taiwan), this character is classified as a variant form of {{l|zh|灶}}."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|竃|竈}}\n{{wp|lang=ja|竈}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=穴16|shin=竃}}\n\n# {{kyujitai spelling of|竈}} ''{{gloss|[[hearth]]; [[kitchen]] [[stove]]}}''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう\n|kanon=そう\n|kun=かまど-, かま-, くど-, へつい-, へっつい-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "{{l|ja|竃}} (U+7AC3) which is an {{w|extended shinjitai}} character that was added to {{w|JIS X 0208}} in 1990, is the preferred form for this character."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=조|eumhun=}}\n\n# {{defn|lang=ko|sort=穴16}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "title": "鶩",
+  "ns": 0,
+  "id": 32691,
+  "timestamp": 1553571687000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鹜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=196|rad=鳥|as=09|sn=20|four=18327|canj=NKHAF|ids=⿰敄鳥}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1495.210|dkj=47142|dj=2025.170|hdz=74648.210|uh=9DA9}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=鹜|alt=䳱,𨾣,騖}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|敄|鳥|c1=p|c2=s|t2=bird|ls=psc}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wù\n|c=mou6\n|mc=y\n|oc=y\n|cat=n,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[domestic]] [[duck]]\n# [[duck]]\n# {{zh-alt-form|騖|to [[run]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|刻鵠類鶩|家雞野鶩|雞鶩|雞鶩爭食|鶩舲|趨之若鶩}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{zh-l|鴨}}\n* {{zh-l|鳧}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥09}}\n\n# [[domestic duck]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もく, む\n|kanon=ぼく, ぶ\n|kun=あひる-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|あひる}}\n\nUncommon alternative spelling of {{m|ja|家鴨|tr=ahiru||[[domestic duck]]}}.  See that entry for fuller details."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|あひる|acc=0|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あひる|アヒル}}\n\n# {{altspell|nocap=1|lang=ja|家鴨}}: a [[domestic duck]] {{gl|the domesticated variety of [[mallard]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This term ''ahiru'' appears to be the only usage of this kanji in modern Japanese."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Kokugo Dai Jiten}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|목}}\n\n# {{defn|lang=ko|sort=鳥09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=鳥09|reading=vọ, vụ}}\n\n# {{defn|lang=vi|sort=鳥09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=9da9 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

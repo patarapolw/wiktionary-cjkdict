@@ -1,0 +1,97 @@
+{
+  "title": "皤",
+  "ns": 0,
+  "id": 21490,
+  "timestamp": 1547085103000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=106|rad=白|as=12|sn=17|four=22669|canj=HAHDW|ids=⿰白番}}\n\n# [[white]]\n# big-bellied",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0789.180|dkj=22784|dj=1204.140|hdz=42651.210|uh=76A4|ud=30372|bh=ED78|bd=60792}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Related to {{och-l|白}} \"white\" and {{och-l|燔}} \"to burn, to roast\" (STEDT; {{zh-ref|Schuessler (2007)}}). See [[白]] for etymology."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=pó\n|c=po4\n|mn=\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|皤腹|蒼皤}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=白12}}\n\n# {{defn|lang=ja|sort=白12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[は]] (ha), [[ば]] (ba), [[はん]] (han), [[ばん]] (ban)|kun=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[파]]|eumhun=|rv=pa|mr=p'a|y=pha}}\n\n# [[white]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

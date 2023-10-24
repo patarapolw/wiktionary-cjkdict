@@ -1,0 +1,121 @@
+{
+  "title": "称",
+  "ns": 0,
+  "id": 22390,
+  "timestamp": 1552456491000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|稱}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|称|称|[[稱]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=115|rad=禾|as=05|sn=10|four=27992|canj=HDNF|ids=⿰禾尔(GTKV),⿰禾尓(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𠦿]], [[𨃾]], [[𢋉]], [[𠺰]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[稱]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}} of ''<big>称</big>)"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0852.101|dkj=25016|dj=1276.140|hdz=42601.040|uh=79F0}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han simp|穪|f=爾|t=尔}}, where {{lang|zh|穪}} is corrupted from {{lang|zh|稱}}. It was found in various {{w|Movable type#Metal movable type in China|moveable type}} copies of {{w|Classic Chinese Novels|classical novels}}. First attested in 《{{w2|zh|宋元以來俗字譜}}》, a {{w|Variant Chinese character|variant forms}} dictionary compiled in 1930 that records unorthodox forms ({{l|zh|俗字}}) that have existed since the {{w|Song dynasty}}.\n\nAdopted as an official simplified character by the People's Republic of China in the 1956 {{w|Chinese Character Simplification Scheme}}. <!-- Refer https://zh.wikisource.org/wiki/漢字簡化方案 -->"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|稱}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A02937-001}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|称|稱}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=禾05|kyu=稱}}\n\n# {{defn|lang=ja|sort=禾05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう\n|kanon=しょう\n|kun=はか-る, とな-える, たた-える, あ-げる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|称号|しょうごう}}: {{l|en|title}}; {{l|en|academic}} {{l|en|degree}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=칭|eumhun=|rv=ching|mr=ch'ing|y=ching}}\n\n# {{defn|lang=ko|sort=禾05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=禾05|[[xưng]], [[hấng]], [[xứng]]}}\n\n# {{defn|lang=vi|sort=禾05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=79F0 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

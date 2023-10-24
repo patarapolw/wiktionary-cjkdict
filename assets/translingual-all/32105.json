@@ -1,0 +1,90 @@
+{
+  "title": "鮄",
+  "ns": 0,
+  "id": 32105,
+  "timestamp": 1549277879000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𫚒}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=195|rad=魚|as=05|sn=16|four=25327|canj=NFLLN|ids=⿰魚弗}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|𫚒}} {{q|[[Simplified Chinese]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1467.190|dkj=46046|dj=2000.300|hdz=74683.120|uh=9B84}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𫚒}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|魚|弗|c1=s|c2=p|t1=fish|ls=psc}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fú\n|mc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-hg}} type of [[sea]] [[fish]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C17202}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚05}}\n\n# {{defn|lang=ja|sort=魚05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぶち\n|kanon=ふつ\n|kun=さば-}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|魴%鮄|ほう%ぼう|{{vern|spiny red gurnard}} {{gloss|{{taxlink|Chelidonichthys spinosus|species|ver=190204}}}}}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

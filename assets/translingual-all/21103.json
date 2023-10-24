@@ -1,0 +1,87 @@
+{
+  "title": "甭",
+  "ns": 0,
+  "id": 21103,
+  "timestamp": 1531928699000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|不用}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=101|rad=用|as=04|sn=9|four=10227|canj=MFBQ|ids=⿱不用}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0756.051|dkj=21713|dj=1166.060|hdz=10025.110|uh=752D}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}\nFrom a northern dialectal pronunciation of {{zh-l|*不用}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=béng,bíng,1na=Standard Chinese and Beijing dialect,2na=Beijing dialect\n|c=bung2\n|h=pfs=\n|md=\n|mn=bàng\n|w=2pion\n|mc=\n|oc=\n|ma=y\n|cat=adv\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal Mandarin}} {{contraction of|不用|lang=zh|3=needn't}}\n# {{lb|zh|Beijing Mandarin}} {{n-g|Indicates a rhetorical question}}: could it be that...; is it [[possible]] that...",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|不用}}\n{{zh-dial|難道}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|棄|v}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A02631}}\n\n{{zh-cat|Intermediate}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[bằng]]|rs=用04}}\n\n# {{defn|lang=vi|sort=用04}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

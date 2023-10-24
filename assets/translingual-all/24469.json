@@ -1,0 +1,109 @@
+{
+  "title": "腱",
+  "ns": 0,
+  "id": 24469,
+  "timestamp": 1547345837000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=130|rad=肉|as=09|sn=13|four=75240|canj=BNKQ|ids=⿰月建}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0989.160|dkj=29708|dj=1441.200|hdz=32092.100|uh=8171|ud=33137|bh=B878|bd=47224}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\nOriginally {{zh-l|䇟}}. {{Han compound|肉|建|c1=s|c2=p|t1=meat; flesh|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiàn\n|c=gin3,gin1,gin6\n|h=pfs=\n|md=\n|mn=kiān\n|w=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[tendon]]s"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|牛腱|肌腱|腱鞘|腱子}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=けん\n|kanon=こん\n|on=きん\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|けん}}\n\n# {{lb|ja|anatomy|sort=けん}} [[tendon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|筋|すじ}}\n\n[[Category:ja:Muscles|けん]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=건|eumhun=|rv=geon|mr=kŏn|y=ken}}\n\n# {{defn|lang=ko|sort=肉09}}"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{l|ko|심줄}}\n* {{l|ko|힘줄}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "卩",
+  "ns": 0,
+  "id": 11941,
+  "timestamp": 1549341226000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㔾|卪|巴|部|節}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=26|rad=卩|as=00|sn=2|four=77220|canj=SL|ids=⿰丨𠃌}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/卩]]\n* {{l|mul|[[叩]], [[𫭘]], [[夘]], [[𡴹]], [[𭨤]], [[𨑏]], [[𡰰]], [[𮇄]], [[缷]], [[𦓥]], [[𫆀]], [[𮗷]], [[𩱺]], [[𩾓]], [[𣢀]], [[爷]], [[令]]<!-- Note: 令 contains evolved 卩, see glyph origin of Chinese section -->, [[𫕝]], [[𠬝]], [[𡴺]]}} <!-- Characters not listed under Radical Index of 卩. Derived characters that are further derived from characters already found in the radical index are not included. -->"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|mul|[[ㄗ]]}} ''({{w|Bopomofo|Zhuyin alphabet}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0158.450|dkj=02836|dj=0363.020|hdz=10310.090|uh=5369}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etyl}}\n{{liushu|p}}: a kneeling person."
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* [[㔾]] (e.g. [[危]], [[卷]])\n* [[卪]]\n* Not used independently, *巴 (e.g. [[色]], [[邑]])."
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|節|a|tally stick used as a proof of authorization}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=卩00}}\n\n# {{defn|lang=ja|sort=卩00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[せつ]] (setsu)|kun=[[わりふ]] (warifu)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=절|rv=jeol|mr=chŏl}}\n\n# {{defn|lang=ko|sort=卩00}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=卩00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* [[音読|âm]]: [[tiết]]\n* [[意義|nghĩa]] (''literal meaning''): [[tiết]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{head|vi|noun|sc=Hant}}{{attention|vi|may need inflection template}}\n\n# [[tiết]] ([[section]] [[period]] [[time]], [[season]])"
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{head|vi|verb|sc=Hant}}{{attention|vi|may need inflection template}}\n\n# [[tiết]] (to [[secrete]], to [[emit]])"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5369 Nôm Foundation]\n* [http://www.vietdictionary.com Viet Dictionary]\n\n[[Category:CJKV radicals]]\n\n{{cln|vi|nouns|verbs}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "title": "横",
+  "ns": 0,
+  "id": 18068,
+  "timestamp": 1552640181000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|橫|構}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=15}}\n{{ja-forms|横|横|[[橫]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Variant of {{l|zh|橫}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=75|rad=木|as=11|sn=15|four=|canj=DTLC|ids=⿰木黄}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0551.181|dkj=15484|hdz=21273.070|uh=6A2A|ud=27178}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{attention|zh|large seal script in 横, small seal script in 橫}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|木|黄|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|橫|sv}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|横|橫}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=木11|kyu=橫}}\n\n# [[sideways]], [[horizontal]]\n# [[next]], [[next to]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おう\n|kanon=こう\n|kun=よこ-, よこ-たわる, よこ-たえる, おごる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|横縦|よこたて}}: [[breadth]] and [[length]]; [[woof]] and [[warp]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|よこ|yomi=k}}\nFrom {{inh|ja|ojp|sort=よこ|-}}, from {{inh|ja|jpx-pro|sort=よこ|*yəkə}}. Cognate with {{cog|xug|横|tr=ゆく゚ー, yukuu}}, {{cog|mvi|横|tr=ゆく, yuku}}, {{cog|ryn|横|tr=ゆく゚, yuxu}}, {{cog|ryu|横|tr=ゆく, yuku}}, {{cog|rys|横|tr=ゆく, yuku}}, {{cog|yoi|横|tr=どぅぐ, dugu}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|よこ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|よこ}}\n\n# [[side]]\n#: {{ja-usex|ドアの'''横'''|ドア の '''よこ'''|side of the doors}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Antonyms",
+                      "text": "* {{ja-r|縦|たて}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|おう|yomi=goon}}\nFrom {{der|ja|ltc|sort=おう|-}} {{ltc-l|橫|id=2|[[horizontal]]}} and {{ltc-l|橫|id=3|[[violent]]; [[unexpected]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|おう|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|おう|kyu=橫|hhira=わう}}\n\n# [[sideways]], [[horizontal]]\n# [[self-willed]]; [[arbitrary]]; [[unrestrained]] and [[aggressive]]\n# [[sudden]]; [[unexpected]]\n# [[brimming]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=횡|eumhun=|rv=hoeng|mr=hoeng|y=hoyng}}\n\n# [[across]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "title": "揸",
+  "ns": 0,
+  "id": 16414,
+  "timestamp": 1526897189000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=09|sn=12|four=|canj=QDAM|ids=⿰扌查,⿰扌査}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0445.341|dkj=12443|hdz=31913.020|uh=63F8|ud=25592}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|zh|of same origin? or probably from English [[drive]]}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhā\n|c=zaa1,zaa2\n|h=pfs=\n|md=\n|mn=\n|w=\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} to [[hold]] in the hand; to [[grasp]]\n#: {{zh-x|揸 筷子|to hold chopsticks|C}}\n# {{lb|zh|Cantonese}} to [[drive]] a [[vehicle]]\n#: {{zh-x|揸車|to drive a car|C}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手09}}\n\n# {{defn|lang=ja|sort=手09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[さ]] (sa)|kun=[[つまむ]] (tsumamu)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=手09|tra}}\n\n# {{defn|lang=vi|sort=手09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=63f8 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

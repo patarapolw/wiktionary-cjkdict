@@ -1,0 +1,58 @@
+{
+  "title": "兤",
+  "ns": 0,
+  "id": 11406,
+  "timestamp": 1553325647000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F810}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=10|rad=儿|as=19|sn=21|four=|canj=FUITC|ids=⿺光廣, ⿰光廣}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0125.300|dkj=01412|dj=0266.160|hdz=10275.140|uh=5164}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|爌|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|𭀨|兤}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=儿19|shin=𭀨}}\n\n# {{defn|lang=ja|sort=儿19}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こう<くわう\n|kanon=こう<くわう\n|kun=あか-るい}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

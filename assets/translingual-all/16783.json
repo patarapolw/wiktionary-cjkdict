@@ -1,0 +1,104 @@
+{
+  "title": "敫",
+  "ns": 0,
+  "id": 16783,
+  "timestamp": 1525804438000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Graphically, {{Han compound|白|方|攴|alt3=攵}} (last character is radical, a variant of 攴)."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=66|rad=攴|as=09|sn=13|four=|canj=HSOK|ids=⿰⿱白方攵}}\n\n# [[ancient]] [[musical]] [[instrument]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[激]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0473.180|dkj=13286|dj=0826.180|hdz=21470.130|uh=656B|ud=25963}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiǎo\n|c=giu3,giu2\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 120]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=攴09}}\n\n# {{defn|lang=ja|sort=攴09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[せく]] (seku), [[きょう]] (kyō), [[けき]] (keki), [[きゃく]] (kyaku)|kun=[[うつる]] (utsuru)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=교|rv=gyo|mr=kyo}}\n\n# {{defn|lang=ko|sort=攴09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

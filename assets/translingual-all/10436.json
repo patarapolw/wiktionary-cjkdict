@@ -1,0 +1,68 @@
+{
+  "title": "丽",
+  "ns": 0,
+  "id": 10436,
+  "timestamp": 1553326022000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|麗}}\n{{character info/new}}\n{{character info|0x2F800}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=1|rad=一|as=06|sn=7|four=10227|canj=MBIB|ids=⿱一⿰⿵冂丶⿵冂丶<small>(G)</small>,⿰⿱一⿵冂丶⿱一⿵冂丶<small>(HT)</small>}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Depending on the font the top stroke may be broken (+7 strokes) or not (+6 strokes)\n* Unicode ever counted it to radical 3 丶 (between [[丼]] and [[举]])"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0081.040|dkj=00059|dj=0164.060|hdz=10021.030|uh=4E3D|ud=20029}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph 1",
+              "text": "{{Han-glyphref|⿰⿱一⿵冂丶⿱一⿵冂丶}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han etym}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|麗|a}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Glyph 2",
+              "text": "{{Han-glyphref|⿱一⿰⿵冂丶⿵冂丶}}\n{{zh-see|麗|s}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

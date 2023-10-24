@@ -1,0 +1,96 @@
+{
+  "title": "堍",
+  "ns": 0,
+  "id": 13218,
+  "timestamp": 1553315129000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F854}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=08|sn=11|four=47113|canj=GNAI,GNUI|ids=⿰土兔}}\n\n# [[flat]] [[ground]] on either [[end]] of a [[bridge]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0232.181|dkj=05232|hdz=10456.010|uh=580D|ud=22541|bh=D4CB|bd=54475}}\n* [http://dictionary.sina.com.hk/p/word/%D4%CB Sina Hong Kong Dictionary]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Cantonese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{yue-hanzi|jyut=|y=tou3}}\n\n# {{defn|lang=yue|sort=土08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土08}}\n\n# {{defn|lang=ja|sort=土08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[と]] (to)|kun=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Mandarin",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{cmn-hanzi|pin=[[tù]] ([[tu4]])|wg=t'u<sup>4</sup>}}\n\n# {{defn|lang=cmn|sort=土08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[thỏ]]|rs=土08}}\n\n# {{defn|lang=vi|sort=土08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=580d Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

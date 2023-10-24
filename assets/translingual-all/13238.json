@@ -1,0 +1,147 @@
+{
+  "title": "堡",
+  "ns": 0,
+  "id": 13238,
+  "timestamp": 1539369078000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=09|sn=12|four=26104|canj=ODG|ids=⿱保土}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0233.150|dkj=05254|dj=0470.310|hdz=10464.130|uh=5821|ud=22561|bh=B3F9|bd=46073}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|保|土|ls=psc|c1=p|c2=s}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=bǎo\n|c=bou2\n|mn=pó\n|mc=y\n|oc=y\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[small]] [[camp]]; small [[mud]] [[fortification]]\n# [[fort]]; [[fortress]]\n# {{zh-short|漢堡|[[hamburger]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Often used in {{w|phono-semantic matching}}s to translate English {{m|en|-burgh}}, {{m|en|-burg}}, etc."
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|堡砦|堡壘|伊斯坦堡|堡塢|愛丁堡|匹茲堡|堡礁|布綸堡|安平古堡|土木堡|古堡|城堡|碉堡|盧森堡|空中堡壘|空頭堡|漢堡|海德堡|橋頭堡|關堡|西臺古堡|馬德堡|聖彼得堡|}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=bǔ,bǎo,1nb=Mainland,2nb=Taiwan\n|c=bou2\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|often in [[placename]]s}} [[town]] or [[village]] with [[city wall|wall]]s"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|堡子|吳堡|柴溝堡}}<!--not sure if read as bu or pu 河西堡|朱王堡|寧遠堡-->"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=pù,bǎo,1nb=Mainland,2nb=Taiwan\n|c=pou3\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used2|p|dot=, as a variant of {{zh-l|鋪|tr=pù|[[courier]] [[station]]}}.}}\n#* {{zh-x|^烏魯木齊 ^地窩堡{pù} ^國際.^機場|{{w|Ürümqi Diwopu International Airport|Ürümqi Diwo'''pu''' International Airport}}}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|十里堡|三十里堡}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土09}}\n\n# {{defn|lang=ja|sort=土09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=ほ\n|kanon=ほう\n|kun=とりで}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=보|rv=bo|mr=po}}\n\n# {{defn|lang=ko|sort=土09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[bảo]]|rs=土09}}\n\n# {{defn|lang=vi|sort=土09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

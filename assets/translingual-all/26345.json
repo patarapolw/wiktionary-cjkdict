@@ -1,0 +1,104 @@
+{
+  "title": "蠊",
+  "ns": 0,
+  "id": 26345,
+  "timestamp": 1530597584000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=142|rad=虫|as=13|sn=19|four=50137|canj=LIITC|ids=⿰虫廉}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1100.060|dkj=33701|dj=1564.070|hdz=42898.070|uh=880A}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lián\n|c=lim4\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-used in|蜚蠊|[[cockroach]]|3=飛蠊}}\n# {{zh-alt-lb|螊|𧍧}} {{zh-hg}} type of [[mollusc]] <!-- 《廣韻·平聲·鹽韻》 海虫也。长寸而白，可食。 -->"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C12484}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫13}}\n\n# {{defn|lang=ja|sort=虫13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|goon=[[れん]] (ren)|kanon=[[れん]] (ren)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=ja\n|{{ja-r|蜚蠊|ごきぶり}}: [[cockroach]]\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=虫13|[[liêm]]}}\n\n# {{defn|lang=vi|sort=虫13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=880A Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

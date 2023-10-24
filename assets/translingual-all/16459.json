@@ -1,0 +1,111 @@
+{
+  "title": "搦",
+  "ns": 0,
+  "id": 16459,
+  "timestamp": 1551611666000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=10|sn=13|four=57027|canj=QNMM|ids=⿰扌弱}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0447.210|dkj=12500|dj=0798.130|hdz=31938.080|uh=6426|ud=25638|bh=DDAB|bd=56747}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{cog|yue|搦|tr=nik1}} has a [[wikipedia:Cantonese_nasal-stop_alternation|nasal-stop alternant]] in {{zh-l|拎|ning1}} ({{zh-ref|Kwok et al. (2008)}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=nuò\n|c=nik1\n|md=niăh\n|mn=la̍k/xm,qz:lio̍k/zz:jio̍k\n|mn_note=la̍k - \"to grasp\", \"to rub in water\"; lio̍k/jio̍k - \"to tread on\", \"to rub and knead\"\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|classical}} to [[repress]]; to [[restrain]]\n# to [[grasp]], to [[seize]]; to [[take]] in [[hand]]\n# {{lb|zh|Cantonese}} to [[hold]] in the [[hand]]\n#: {{zh-x|搦起 塊 石|'''pick up''' a rock|C}}\n# to [[challenge]]\n# to [[capture]]\n# {{lb|zh|Min Nan}} to [[grasp]] in [[hand]]\n# {{lb|zh|Min Nan}} to [[rub]] in [[water]]\n#: {{zh-x|搦{la̍k} 衫褲|'''rub''' clothes in water for washing|MN}}\n# {{lb|zh|Min Nan}} to [[rub]] and [[knead]]\n# {{lb|zh|Min Nan}} to [[tread]] on\n#: {{zh-x|搦{lio̍k} 塗糜|'''tread''' on mud|MN}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|Cantonese: to hold in the hand}} {{q|Mandarin}} {{zh-l|提}}, {{zh-l|拿}}\n{{zh-dial|拿}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|搐搐搦搦|搐搦|搦管|搦管操觚|摶搦|搦戰|捉搦歌|搦翰}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手10}}\n\n# {{defn|lang=ja|sort=手10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=にゃく\n|kanon=だく\n|kun=から-める, がら-み}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=手10|nạch}}\n\n# {{defn|lang=vi|sort=手10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=6246 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

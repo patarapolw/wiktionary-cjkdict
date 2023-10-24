@@ -1,0 +1,173 @@
+{
+  "title": "町",
+  "ns": 0,
+  "id": 21116,
+  "timestamp": 1539503007000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=bw|strokes=7}}\n{{stroke order|type=jbw|strokes=7}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=102|rad=田|as=02|sn=7|four=61020|canj=WMN|ids=⿰田丁}}\n\n# a [[raise]]d [[path]] between [[field]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0759.070|dkj=21735|dj=1169.070|hdz=42528.050|uh=753A|ud=30010|bh=CB6D|bd=52077}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=圢}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=tǐng\n|c=ting2\n|mn=ml:théng\n|mc=1+3+4\n|oc=y,2+3+4\n|ma=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# a [[ridge]] or [[boundary]] between [[field]]s\n# a [[field]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|町畦|町畽}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=dīng\n|c=\n|mn=teng\n|mc=\n|oc=\n|ma=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# a local administrative unit in Japan (see below)\n# character used in placenames",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|西門町|東門町|畹町}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=zhèng\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[plain]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 4",
+              "text": "{{zh-pron\n|m=tiǎn\n|mc=2\n|oc=n,1\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|町疃}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=田02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ちょう<ちやう\n|kanon=てい\n|kun=まち-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|まち}}\n\n# [[town]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|まち|proper}}\n\n# {{surname|lang=ja|sort=まち}}"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|まち|suffix}}\n\n# A [[Machi]] [[district]]; more detailed than [[都]], [[道]], [[府]], [[県]].\n\n{{ja-pos|suffix|ちょう|hhira=ちやう}}\n\n# A [[Chō]] [[district]]; more detailed than [[市]], [[区]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|街|まち}}\n\n[[Category:Grade 1 kanji|田02]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=정|rv=jeong|mr=chŏng|y=ceng|eumhun=밭두둑|ehrv=batduduk|ehmr=|ehy=}}\n\n# A [[ridge]] between [[field]]s.\n# A [[boundary]]."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[đinh]], [[thĩnh]]|rs=田02}}\n\n# city"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

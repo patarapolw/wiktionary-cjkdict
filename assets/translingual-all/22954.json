@@ -1,0 +1,85 @@
+{
+  "title": "簌",
+  "ns": 0,
+  "id": 22954,
+  "timestamp": 1541727385000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=118|rad=竹|as=11|sn=17|four=88582|canj=HDLO,XHDLO|ids=⿱𥫗欶}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0897.360|dkj=26455|dj=1324.060|hdz=53007.070|uh=7C0C|ud=31756|bh=C150|bd=49488}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|𥫗|欶|ls=psc|c1=s|c2=p|t1=bamboo}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=sù\n|c=cuk1,suk1\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[flutter]]\n# {{n-g|Used in}} {{zh-l|簌簌}}."
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|急簌簌|撲簌|撲簌簌|撲撲簌簌|簌地|篤簌簌|簌簌|簏簌}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=竹11}}\n\n# {{defn|lang=ja|sort=竹11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[そく]] (soku)|kun=[[ふるい]] (furui)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

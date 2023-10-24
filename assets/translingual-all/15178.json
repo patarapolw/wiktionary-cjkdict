@@ -1,0 +1,63 @@
+{
+  "title": "弳",
+  "ns": 0,
+  "id": 15178,
+  "timestamp": 1514278316000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|弪}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=57|rad=弓|as=07|sn=10|four=11211|canj=NMVM|ids=⿰弓巠}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0359.061|hdz=20996.090|uh=5F33|ud=24371|bh=D179|bd=53625}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=弪}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jìng\n|c=ging3\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Taiwan|mathematics}} [[radian]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|弧度}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|弳度}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

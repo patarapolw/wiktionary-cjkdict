@@ -1,0 +1,90 @@
+{
+  "title": "阳",
+  "ns": 0,
+  "id": 30614,
+  "timestamp": 1538898605000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|陽}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=7}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=170|rad=阜|as=04|sn=7|four=76200|canj=NLA|ids=⿰[[阜|⻖]][[日]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[㳱]], [[𬭏]], [[𫔿]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[陽]]}} ''({{w|Traditional Chinese|Traditional form}} of ''<big>阳</big>)"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1347.070|dkj=41578|dj=1849.010|hdz=64117.060|uh=9633}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "An unorthodox variant {{Han simp|陽|f=昜|t=日|nocap=y}} which can be found in various historical dictionaries such as the {{w|Kangxi dictionary}}. <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTA0NDMyLTAwNQ#35 -->\n\nEventually adopted as an official simplified character by the People's Republic of China in 1956. <!-- Refer https://zh.wikisource.org/wiki/漢字簡化方案 -->"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|陽|sv}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A04432-005#35}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=阜04}}\n\n# {{alt-form|lang=ja|陽}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<やう\n|kanon=よう<やう\n|kun=ひ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|471610}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

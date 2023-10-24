@@ -1,0 +1,119 @@
+{
+  "title": "圏",
+  "ns": 0,
+  "id": 12938,
+  "timestamp": 1535049490000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|圈}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=31|rad=囗|as=09|sn=12|four=60717|canj=WFQU,XWFQU|ids=⿴囗巻}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[圈]]}} ''({{w|Kyūjitai}} form of ''<big>圏</big>)"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0220.051|dkj=04815|hdz=10722.131|uh=570F}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Unorthodox variant of {{l|zh|圈}} with bottom component of {{l|zh|卷}} written {{l|zh|己}} instead of {{l|zh|㔾}}."
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|圈|v}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A00733-001}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|圏|圈}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=囗08|kyu=圈}}\n\n# [[sphere]]; [[area]]; [[region]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん, ごん\n|kanon=けん\n|kun=かこ-い\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|yomi=o|けん}}\n{{IPAchar|/kwen/}} → {{IPAchar|/ken/}}\n\nFrom {{etyl|ltc|ja|sort=けん}} {{m|zh|圏|tr=kyuen?||to circle something; a corral}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|けん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|けん|hhira=くゑん}}\n\n# a [[bounded]] [[area]], a [[sphere]], a [[region]]\n#: {{ja-usex|首都'''圏'''|しゅと'''けん'''|the capital '''area''' → the Tokyo metropolitan '''region'''}}\n#: {{ja-usex|英語'''圏'''|えいご'''けん'''|the English [language] '''area''' → the Anglophone '''world''', the Anglo'''sphere'''}}\n#: {{ja-usex|この'''圏'''の構成は…|^この '''けん''' の こうせい は …|The composition of this '''region'''… {{qualifier|mathematics}}}}\n# {{lb|ja|mathematics}} [[category]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|圏論|けんろん}}: {{q|mathematics}} [[category theory]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=권|rv=gwon|mr=kwŏn}}\n\n# {{defn|lang=ko|sort=囗08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

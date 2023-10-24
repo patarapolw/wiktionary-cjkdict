@@ -1,0 +1,70 @@
+{
+  "title": "瀴",
+  "ns": 0,
+  "id": 19744,
+  "timestamp": 1548923842000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=17|sn=20|four=36144|canj=EBCV|ids=⿰氵嬰}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0661.020|dkj=18695|dj=1070.250|hdz=31788.040|uh=7034|ud=28724|bh=F45F|bd=62559}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yīng,yǐng,yìng\n|c=jing1,jing2\n|mc=y\n|oc=y\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水17}}\n\n# {{defn|lang=ja|sort=水17}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[えい]] (ei), [[よう]] (yō)|kun=[[ふかい]] (fukai)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

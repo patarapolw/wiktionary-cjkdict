@@ -1,0 +1,96 @@
+{
+  "title": "僎",
+  "ns": 0,
+  "id": 11233,
+  "timestamp": 1522591621000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=12|sn=14|four=27281|canj=ORUC|ids=⿰亻巽}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0116.070|dkj=01083|dj=0247.190|hdz=10222.120|uh=50CE|ud=20686|bh=B9B6|bd=47542}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=zhuàn\n|c=zaan6\n|mn=chhoân\n|mc=2+3\n|oc=1+2\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} to [[prepare]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=zūn\n|c=zyun1,zeon1\n|mc=1\n|oc=3\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|遵|[[master of ceremonies]]}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人12}}\n\n# {{defn|lang=ja|sort=人12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[せん]] (sen), [[しゅん]] (shun)|kun=[[そなえる]] (sonaeru), [[かず]] (kazu), [[かぞえる]] (kazoeru)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[준]], [[선]]|rv=jun, seon|mr=chun, sŏn}}\n\n# {{defn|lang=ko|sort=人12}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

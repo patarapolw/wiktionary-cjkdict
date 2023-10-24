@@ -1,0 +1,128 @@
+{
+  "title": "祠",
+  "ns": 0,
+  "id": 22244,
+  "timestamp": 1541684001000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=113|rad=示|as=05|sn=10|four=37220|canj=IFSMR|ids=⿰礻司}}\n\n# ancestral temple\n# offer sacrifice",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0842.060|dkj=24676|dj=1262.040|hdz=42395.010|uh=7960|ud=31072|bh=AFA8|bd=44968}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|礻|司|ls=psc|ls2=ic|c1=s|c2=p|t1=divinity}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cí\n|c=ci4\n|h=pfs=\n|md=\n|mn=qz:sîr/tw,xm,zz:sû/xm,zz:sî\n|mn_note=sîr/sû - literary; sî - vernacular\n|mn-t=se5\n|w=\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|雷家祠|家祠|宗祠|叢祠|奉祠|禖祠|生祠|祠官|祠堂|祠兵|淫祠|祠宇|龍祠|行祠|史祠}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=示05}}\n\n# {{defn|lang=ja|sort=示05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=ほこら-, まつ-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "{{ja-kanjitab|yomi=k|ほこら}}\n* {{ja-l|叢祠}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=h|acc2=3|y=k|ほこら}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ほこら}}\n\n# a [[small]] [[shrine]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-l|神庫}}\n\n[[Category:ja:Buildings|ほこら]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}\n\n# {{defn|lang=ko|sort=示05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[từ]], [[thờ]], [[tờ]]|rs=示05}}\n\n# {{defn|lang=vi|sort=示05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

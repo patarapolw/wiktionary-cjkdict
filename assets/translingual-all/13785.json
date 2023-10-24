@@ -1,0 +1,82 @@
+{
+  "title": "娾",
+  "ns": 0,
+  "id": 13785,
+  "timestamp": 1528044626000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=38|rad=女|as=08|sn=11|four=41414|canj=VMGG|ids=⿰女厓}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0263.450|dkj=06380|dj=0530.300|hdz=21056.140|uh=5A3E|ud=23102|bh=D4E4|bd=54500}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=ǎi\n|c=ngaai6,aai6\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 93]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=女08}}\n\n# {{defn|lang=ja|sort=女08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|on=[[がい]] (gai), [[げ]] (ge), [[ごう]] (gō), [[きょう]] (kyō)|kun=[[よろこぶ]] (yorokobu), [[みめよい]] (mimeyoi)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

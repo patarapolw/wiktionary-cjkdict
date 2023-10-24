@@ -1,0 +1,106 @@
+{
+  "title": "酮",
+  "ns": 0,
+  "id": 29108,
+  "timestamp": 1538449909000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=164|rad=酉|as=06|sn=13|four=17620|canj=MWBMR|ids=⿰酉同}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1283.010|dkj=39853|dj=1782.250|hdz=63580.150|uh=916E}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Borrowed from {{bor|zh|en|ketone|ke'''tone'''}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tóng\n|c=tung4\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{zh-noun}}\n\n# {{lb|zh|organic compound}} [[ketone]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|苯丙酮尿症|丙酮|酮體症|酮病|氯胺酮|酮康唑}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{zh-pron\n|m=tóng\n|c=tung4\n|mc=1\n|oc=1\n|cat=n\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{†}} [[koumiss]]\n# {{†}} [[vinegar]]"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{zh-pron\n|m=dòng\n|mc=2\n|oc=2\n|cat=v\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|of alcohol|vinegar}} to [[spoil]]; to [[go bad]]"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 3",
+                  "text": "{{zh-pron\n|m=chóng\n|cat=v\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|of alcohol}} to become [[sour]]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

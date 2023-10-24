@@ -1,0 +1,105 @@
+{
+  "title": "鴎",
+  "ns": 0,
+  "id": 32533,
+  "timestamp": 1549567221000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鷗|鸥}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|鷗|鴎|鸥|ex=y}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=196|rad=鳥|as=04|sn=15|four=|canj=SKHAF|ids=⿰区鳥}}\n\n# [[seagull]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1484.261|hdz=74618.071|uh=9D0E|ud=40206}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|鴎|鷗}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{w|Extended shinjitai}}, Asahi simplification form of {{ja-l|鷗}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥04|kyu=鷗}}\n\n# [[seagull]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=う\n|kanon=おう\n|kun=かもめ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鴎盟|おうめい}}\n* {{ja-r|鴎%尻|かもめ%じり}}\n* {{ja-r|鴎%蘭|かもめ%らん}}\n* {{ja-r|紹%鴎%棚|じょう%おう%だな}}\n* {{ja-r|白%鴎|しろ%かもめ}}, {{ja-r|白鴎|はくおう|[[white]] [[gull]]}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja|カモメ}}\n{{ja-kanjitab|かもめ|yomi=k}}\nUncertain. One theory suggests from {{ja-compound|鴨|かも|め|-め|t1=[[duck]]|pos2=suffix expressing familitarity}}. {{rfv-etymology|ja}}\n\nCompare {{m|ja|雀|tr=suzume||[[sparrow]]}} and {{m|ja|燕|tr=tsubame||[[swallow]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|鷖}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|かもめ|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|kyu=鷗|かもめ|カモメ}}\n\n# [[common gull]] (''[[Larus canus]]'')\n# {{lb|ja|by extension}} a [[seagull]] (any seabird of the family [[Laridae]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* {{U:ja:biology|カモメ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|鴎%髱|かもめ%づと}}\n* {{ja-r|フルマ鴎|フルマ カモメ|[[northern fulmar]]}}\n* {{ja-r|背%黒%鴎|セ%グロ% カモメ|[[herring gull]]}}\n* {{ja-r|百合%鴎|ユリ% カモメ|[[black-headed gull]]}}\n* {{ja-r|盗%賊%鴎|トウ%ゾク% カモメ|[[skua]], {{w|pomarine skua​}}}}\n* {{ja-r|笑い鴎|わらい かもめ|[[laughing gull]]}}\n* {{ja-r|三指%鴎|ミツユビ% カモメ|rom=-}}, {{ja-r|三趾%鷗|ミツユビ% カモメ|{{w|black-legged kittiwake}}}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|kyu=鷗|proper|かもめ}}\n\n# {{given name|lang=ja|female|sort=かもめ}}\n# {{surname|lang=ja|sort=かもめ}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese Asahi characters]]\n[[Category:Japanese basic words|かもめ]]\n[[Category:ja:Birds|かもめ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

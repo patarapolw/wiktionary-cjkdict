@@ -1,0 +1,131 @@
+{
+  "title": "添",
+  "ns": 0,
+  "id": 19119,
+  "timestamp": 1530174010000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=08|sn=11|four=32133|canj=EHKP,EMKP|ids=⿰氵忝}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𠻹]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0632.190|dkj=17698|dj=1039.020|hdz=31639.040|uh=6DFB}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=沗}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|t1=water|忝|ls=psc|c1=s|c2=p}} – to increase by pouring more water in."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Compare {{cog|tai-pro|*k.temᴬ||full}}, whence {{cog|th|เต็ม||full}} ({{zh-ref|Manomaivibool, 1975}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tiān\n|c=tim1\n|c-t=hiam1\n|h=pfs=thiâm\n|md=\n|mn=thiⁿ/thiam\n|mn_note=thiⁿ - vernacular; thiam - literary\n|w=\n|mc=y\n|oc=y\n|cat=v,c:adv,c:part\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[add]]; to [[increase]]\n# to [[give birth]] to (a baby)\n# {{lb|zh|Cantonese}} {{zh-alt-form|𠻹|tr=tim1|[[again]]; [[more]]}}\n# {{lb|zh|Cantonese}} {{zh-alt-form|𠻹|tr=tim1|''modal particle''}}\n# {{lb|zh|Taishanese}} [[need]] to (do something); [[have to]]\n#: {{zh-x|我 橫掂 都 添 去。|I '''have to''' go anyway.|C-T}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|加油添醬|如虎添翼|增添|加添|延壽添嗣|一喫一添|加油添醋|平添|添枝加葉|添加物|無添和|火上添油|添丁|放屁添風|添倉|添油加醋|添增|添綴|添磚加瓦|添置|添購|添加|畫蛇添足|添本|添兵減灶|添補|為蛇添足|添房|添案小吃|為虎添翼|添妝|添盆|添造|添線|添箱|添忙|添壽|添墳|添枝接葉|海屋籌添|沒添貨|有枝添葉|海屋添籌|紅袖添香|與虎添翼|附添|錦上添花|頰上添毫}}"
+            },
+            {
+              "level": 3,
+              "title": "Descendants",
+              "text": "* {{desc|vi|thêm|bor=1}}\n{{attn|zh|Thai แถม, Lü ᦶᦏᧄ?}}\n\n{{zh-cat|Elementary}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水08}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "# to [[attach]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=てん\n|kun=そ-える<そ-へる, そ-う<そ-ふ\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=첨|eumhun=|rv=cheom|mr=ch'ŏm|y=chem}}\n\n# {{defn|lang=ko|sort=水08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=水08|[[thêm]], [[thiêm]], [[thếch]]}}\n\n# {{defn|lang=vi|sort=水08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=6DFB Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

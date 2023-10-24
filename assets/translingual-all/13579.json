@@ -1,0 +1,75 @@
+{
+  "title": "奲",
+  "ns": 0,
+  "id": 13579,
+  "timestamp": 1527647300000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=37|rad=大|as=21|sn=24|four=46656|canj=KARRJ|ids=⿰奢單}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0254.210|dkj=06034|dj=0516.170|hdz=10551.070|uh=5972|ud=22898|bh=F7D4|bd=63444}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=duǒ\n|c=ce2,do2\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=大21}}\n\n# {{defn|lang=ja|sort=大21}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|on=[[しゃ]] (sha), [[せん]] (sen), [[た]] (ta)|kun=[[おおきい]] (ookii), [[ゆるやかで]] (yuruyakade)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

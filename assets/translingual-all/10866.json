@@ -1,0 +1,177 @@
+{
+  "title": "侍",
+  "ns": 0,
+  "id": 10866,
+  "timestamp": 1554098003000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=8}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=06|sn=8|four=24241|canj=OGDI|ids=⿰亻寺}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0101.260|dkj=00589|dj=0215.070|hdz=10143.170|uh=4F8D|ud=20365|bh=A8CD|bd=43213}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shì\n|c=si6\n|h=pfs=sṳ\n|md=sê\n|mn=ml:sī/qz:sīr/sāi/xm,zz:sū\n|mn_note=sī/sīr - literary; sāi - vernacular; sū - vernacular (俗)\n|w=3zr\n|mc=y\n|oc=y\n|ma=y\n|cat=v,n,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[wait upon]]; to [[serve]]\n# [[attendant]]; [[servant]]\n# {{surname|lang=zh|dot=:}} [[Shi]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|中常侍|伏侍|侍中|侍人|侍候|侍兒|侍奉|侍女|侍妾|侍子|侍巾櫛|侍弄|侍役|侍從|侍御|侍應生|侍生|侍立|侍者|侍衛|侍講|侍讀|侍郎|侍醫|俠侍|內侍|奉侍|女侍|姬侍|媵侍|常侍|接侍|散騎常侍|服侍|近侍|選侍|重侍下|閽侍|陪侍|隨侍|鵠侍}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人06}}\n\n# [[samurai]]\n# [[wait upon]], [[serve]]",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=さぶらい-<さぶらひ, さぶら-う<さぶら-ふ, さむらい-<さむらひ, さむら-う<さむら-ふ, はべ-る\n|nanori=つこ, ひと\n}}"
+                },
+                {
+                  "level": 5,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|侍%医|じ%い}}\n* {{ja-r|侍%衛|じ%えい}}\n* {{ja-r|侍%御|じ%ぎょ}}\n* {{ja-r|侍%講|じ%こう}}\n* {{ja-r|侍%祭|じ%さい}}\n* {{ja-r|侍%史|じ%し}}\n* {{ja-r|侍%者|じ%しゃ}}\n* {{ja-r|侍%臣|じ%しん}}\n* {{ja-r|侍%従|じ%じゅう}}\n* {{ja-r|侍%女|じ%じょ}}\n* {{ja-r|侍%僧|じ%そう}}\n* {{ja-r|侍%読|じ%どく}}\n* {{ja-r|侍%婢|じ%ひ}}\n* {{ja-r|侍%立|じ%りつ}}\n* {{ja-r|近%侍|きん%じ}}\n* {{ja-r|典%侍|てん%じ}}\n* {{ja-r|内%侍|ない%じ}}\n* {{ja-r|陪%侍|ばい%じ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "<div style=float:right;>\n{{wp|lang=ja}}\n{{wp|Samurai}}\n</div>\n{{ja-kanjitab|さむらい|yomi=k}}\n{{IPAfont|⟨sa morapi<sub>1</sub>⟩}} → {{IPAchar|/saburapi/}} → {{IPAchar|/saburafi/}} → {{IPAchar|/samurawi/}} → {{IPAchar|/samurai/}}\n\nSound shift from ''saburai'' (see below), itself the {{m|ja|連用形|tr=ren'yōkei|pos=stem or continuative form}} of classical verb {{m|ja|侍ふ|tr=saburafu||to [[serve]]|pos=modern ''saburau''}}, ultimately derived from {{m|ja|さ|tr=sa-||pos=prefix meaning \"[[early]]\"}} + {{m|ja|守らふ|tr=morafu||to [[keep watch]]|pos=modern ''morau''}}.\n\nThe shift from ''saburaf-'' → ''samuraf-'' is due to the development of the {{m|ja|女性語|tr=josei-go||{{w|Gender differences in spoken Japanese|women's language}}}} in {{w|Middle Japanese}}, expected from {{m|ja|候|tr=sōrō||[[service]]|pos=classical ''saurafu''}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|士}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|さむらい|acc=h|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さむらい|hhira=さむらひ}}\n\n# {{lb|ja|historical|sort=さむらい}} a [[warrior]] [[class]] in [[medieval]] and pre-[[modern]] Japan; [[samurai]]\n#: {{synonyms|ja|武士|tr=bushi}}\n# one who [[serve]]s [[nearby]]:\n## a [[servant]]\n## a [[retainer]]\n# {{short for|lang=ja|侍所|tr=samurai-dokoro|nodot=1}}: the Board of Retainers in the {{w|Kamakura period|Kamakura}} and {{w|Muromachi period|Muromachi}} periods.\n# an [[above]]-[[average]] [[person]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|侍 気質|さむらい かたぎ}}\n* {{ja-r|田舎%侍|いなか%-ざむらい}}\n* {{ja-r|犬%侍|いぬ%ざむらい}}\n* {{ja-r|忰%侍|かせ%-ざむらい}}\n* {{ja-r|国%侍|くに%-ざむらい}}\n* {{ja-r|若%侍|わか%-ざむらい}}\n{{der-bottom}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Idioms",
+                      "text": "* {{ja-r|黄%金 と 侍 は 朽ちて も 朽ちぬ|こ%がね と さむらい は くちて も くちぬ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|武士%道|ぶし%どう|samurai [[code of conduct]]}}\n* {{ja-r|浪人|ろうにん|[[masterless]] [[samurai]]}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|さぶらい|yomi=k}}\n{{IPAfont|⟨sa morapi<sub>1</sub>⟩}} → {{IPAchar|/saburapi/}} → {{IPAchar|/saburafi/}} → {{IPAchar|/saburawi/}} → {{IPAchar|/saburai/}}\n\nThe {{m|ja|連用形|tr=ren'yōkei|pos=stem or continuative form}} of classical verb {{m|ja|侍ふ|tr=saburafu||to [[serve]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|さぶらい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|さぶらい|hhira=さぶらひ}}\n\n# {{lb|ja|archaic|sort=さむらい}} one who [[serve]]s [[nearby]]:\n## a [[servant]]\n## a [[retainer]]\n## a [[warrior]]; particularly, a [[samurai]]\n##* {{RQ:Nippo Jisho|545}}<ref>{{R:Nippo Jisho}}</ref>\n##*: '''Saburai'''. サブライ('''侍''') 貴族, または,尊敬すべき人〔武士〕.\n# {{syn of|lang=ja|下侍|tr=shimosaburai|nodot=1}}: {{rfdef|ja}}\n# {{short for|lang=ja|侍所|tr=saburai-dokoro|nodot=1}}: a [[samurai]] [[guardhouse]] in the {{w|Heian period}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=시}}\n\n# {{defn|lang=ko|sort=人06}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[thị]]|rs=人06}}\n\n# {{defn|lang=vi|sort=人06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=4f8d Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

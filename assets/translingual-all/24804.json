@@ -1,0 +1,87 @@
+{
+  "title": "芶",
+  "ns": 0,
+  "id": 24804,
+  "timestamp": 1500153684000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=04|sn=10|four=44727|canj=TPI,XTPI|ids=⿱艹勾}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1021.050|dkj=30739|hdz=53184.010|uh=82B6}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=gǒu\n|c=gau2\n|cat=adv,a,conj,pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|苟}}\n# {{surname|lang=zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=gōu\n|c=gau1\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{n-g|a type of [[vegetable]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C11419}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Zhuang",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{za-head|noun}}\n\n# {{za-sawndip form of|gaeu}}\n# {{za-sawndip form of|gaeuj}}"
+            },
+            {
+              "level": 3,
+              "title": "Classifier",
+              "text": "{{za-head|classifier}}\n\n# {{za-sawndip form of|gouh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

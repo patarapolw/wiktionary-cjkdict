@@ -1,0 +1,80 @@
+{
+  "title": "酯",
+  "ns": 0,
+  "id": 29109,
+  "timestamp": 1525161137000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=164|rad=酉|as=06|sn=13|four=11681|canj=MWPA|ids=⿰酉旨}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1283.051|dkj=39861|hdz=63581.100|uh=916F}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|酉|旨|c1=s|c2=p|t1=oxygenated functional group|ls=psc}}. Modelled after {{zh-l|脂|lipid}} with a radical input from other oxygenated organic compounds such as {{zh-l|醇|alcohol}} and {{zh-l|酸|acid}}, referring to ester linkages in lipids like [[glyceride]]s."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|脂|lipid}}, referring to ester linkages in lipids like [[glyceride]]s."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhǐ\n|c=zi2\n|h=\n|md=\n|mn=chí\n|w=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic compound}} [[ester]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|𨤎}} {{qualifier|obsolete}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[chỉ]]|rs=酉06}}\n\n# {{defn|lang=vi|sort=酉06}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

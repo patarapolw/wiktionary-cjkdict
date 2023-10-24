@@ -1,0 +1,109 @@
+{
+  "title": "艘",
+  "ns": 0,
+  "id": 24710,
+  "timestamp": 1553564089000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=137|rad=舟|as=09|sn=15|four=27447|canj=HYHXE|ids=⿰舟叟}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1012.110|dkj=30511|dj=1470.300|hdz=53064.070|uh=8258}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=㮴,䑹}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|舟|t1=boat|叟|ls=psc|c1=s|c2=p}} – counter for boats."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=艘\n|c=sau2,sau1\n|h=pfs=\n|md=\n|mn=qz:so/xm,zz:só/xm,zz:só͘\n|w=\n|mc=y\n|oc=y\n|cat=cl\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-classifier|[[boat]]s, [[ship]]s, [[vessel]]s}}\n#: {{zh-x|一 艘 小船|a small boat}}\n\n{{zh-cat|Intermediate}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=舟09}}\n\n# {{defn|lang=ja|sort=舟09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=そう\n|kun=ふね-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|そう|yomi=o}}\nFrom {{der|ja|ltc|sort=そう|-}} {{ltc-l|艘}}."
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|そう|counter}}\n\n# [[small]] [[boat]]s"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|소}}\n\n# {{defn|lang=ko|sort=舟09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=舟09\n|reading=sưu\n}}\n\n# {{defn|lang=vi|sort=舟09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

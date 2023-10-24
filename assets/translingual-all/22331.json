@@ -1,0 +1,61 @@
+{
+  "title": "禷",
+  "ns": 0,
+  "id": 22331,
+  "timestamp": 1495666434000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=113|rad=示|as=19|sn=24|four=31286|canj=IFFKC|ids=⿰礻類}}\n\n# a special sacrifice",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0847.340|dkj=24875|dj=1269.190|hdz=42412.120|uh=79B7|ud=31159|bh=F8B6|bd=63670}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|示|類|c1=s|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lèi\n|c=leoi6\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B03081}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "壿",
+  "ns": 0,
+  "id": 13460,
+  "timestamp": 1520760323000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=33|rad=士|as=12|sn=15|four=48146|canj=GTWI,XGTWI|ids=⿰士尊}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0244.100|dkj=05678|dj=0484.160|hdz=10488.130|uh=58FF|ud=22783|bh=E553|bd=58707}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Cantonese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{yue-hanzi|jyut=[[cun1]]|y=chun1}}\n\n# {{defn|lang=yue|sort=士12}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=士12}}\n\n# {{defn|lang=ja|sort=士12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[しゅん]] (shun), [[そん]] (son)|kun=[[まう]] (mau)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Mandarin",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{cmn-hanzi|pin=[[zǔn]] ([[zun3]])|wg=tsun<sup>3</sup>}}\n\n# {{defn|lang=cmn|sort=士12}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

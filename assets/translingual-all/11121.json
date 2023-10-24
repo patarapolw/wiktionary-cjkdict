@@ -1,0 +1,70 @@
+{
+  "title": "偡",
+  "ns": 0,
+  "id": 11121,
+  "timestamp": 1548581653000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=09|sn=11|four=24211|canj=OTMV|ids=⿰亻甚}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0111.060|dkj=00870|hdz=10186.140|uh=5061|ud=20577|bh=D44E|bd=54350}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhàn\n|c=zaam6\n|mc=y\n|oc=y\n|ma=\n|cat=a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|appearance}} [[orderly]], [[neat]], [[even]], [[tidy]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人09}}\n\n# {{defn|lang=ja|sort=人09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[たん]] (tan), [[だ]] (da)|kun=[[そろってすすむ]] (sorottesusumu), [[ととのったさま]] (totonottasama)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

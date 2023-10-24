@@ -1,0 +1,163 @@
+{
+  "title": "漣",
+  "ns": 0,
+  "id": 19418,
+  "timestamp": 1553556849000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|涟}}\n{{character info/new}}\n{{character info/new|0xf992}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=11|sn=14|four=35130|canj=EYJJ|ids=⿰氵連}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𢣣]], [[𬮖]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|涟}} {{q|[[Simplified Chinese]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0646.210|dkj=18155|dj=1056.020|hdz=31695.030|uh=6F23}}\n{{Han ref|uh=F992}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=涟}}\n{{zh-wp|zh:漣水 (湘江支流)}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|連|alt1=氵|c1=s|c2=p|t1=water|ls=psc}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lián\n|c=lin4\n|mn=liân\n|mc=y\n|oc=y\n|cat=n,a,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|of water}} [[ripple]]\n# [[appearance]] of [[continuous]] [[weeping]]\n# {{zh-div|水}} [[river]] in [[Hunan]] [[province]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|楊漣|泣血漣如|淪漣|清漣|漣洏|漣洳|漣漣|漣漪|漪漣|漣波|漣水}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=水11}}\n\n# [[ripple]]\n# {{lb|sort=れんれん|ja|of|_|tears}} [[continuous]]ly [[flow]]ing",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=れん\n|kanon=れん\n|kun=さざなみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ja-r|砂%漣|さ%れん|[[sand]] [[ripple]]}}\n* {{ja-r|漣%漪|れん%い|[[ripple]]}}\n* {{ja-r|漣%音|れん%おん|[[mordent]]}}\n* {{ja-r|漣%痕|れん%こん|[[ripple mark]]}}\n* {{ja-r|漣%漣|れん%れん|(''of tears'') [[continuous]]ly [[flow]]ing}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|さざなみ|yomi=k}}\n{{prefix|sort=さざなみ|ja|細|tr1=saza-|t1=small|波|tr2=nami|t2=wave}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|さざなみ|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|細波}}, {{ja-l|小波}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|さざなみ}}\n\n# [[ripple]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|漣漪|れんい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|련||연}}\n\n# {{defn|lang=ko|sort=水11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top3|Compounds}}\n* {{ko-l|연흔|漣痕}}\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=水11\n|hanviet=liên-gdhn;genibrel\n|phienthiet=靈年 linh niên\n|nom=trơn-tdcndg, lăn-gdhn, liên-btcn\n}}\n\n# {{defn|lang=vi|sort=水11}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

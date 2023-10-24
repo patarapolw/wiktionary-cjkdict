@@ -1,0 +1,126 @@
+{
+  "title": "鷀",
+  "ns": 0,
+  "id": 32714,
+  "timestamp": 1530404329000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鶿|鹚}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China ({{w|Traditional Chinese|traditional form}} based on {{w|Xin Zixing}}, {{w2|zh|新字形}}) and Japanese {{w|kanji}}, the left component is <big>{{l|mul|兹}}</big>, which is also the historical form found in the {{w|Kangxi dictionary}}.\n* In Taiwan and Hong Kong (based on the {{w|Big5}} character form for {{w|traditional Chinese}}) and Korean {{w|hanja}}, the left component is <font size=4, lang=zh-hant>[[茲#Translingual|茲]]</font> (contains <font size=4, lang=zh-hant>[[艹#Translingual|艹]]</font>, grass radical with 4 strokes)."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=196|rad=鳥|as=10|asmj+=9|sn=21|snmj+=20|four=87727|canj=TIHAF,XTIHA|ids=⿰兹鳥(GJ),⿰茲鳥(HTK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[鶿]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}})''\n* {{l|mul|[[鹚]]}} ''({{w|Simplified Chinese}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1497.050|dkj=47204|dj=2027.050|hdz=74648.010|uh=9DC0}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|鶿}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B06135-002#24}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥10}}\n\n# {{rarespell|lang=ja|鵜|tr=u|nodot=1|sort=う}}: [[cormorant]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n|kun=う-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鸕鷀%草葺%不合%尊|^うが%やふき%あえず の% ^みこと}}\n* {{ja-r|鸕鷀|ろじ}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=자|eumhun=|rv=ja|mr=cha|y=ca}}\n\n# {{defn|lang=ko|sort=鳥10}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [https://hanja.dict.naver.com/hanja?q=%E9%B7%80 Naver Hanja Dictionary]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=鳥10|[[tư]]}}\n\n# {{defn|lang=vi|sort=鳥10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=9DC0 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "羰",
+  "ns": 0,
+  "id": 23997,
+  "timestamp": 1525161555000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=123|rad=羊|as=09|sn=15|four=82589|canj=TQUKF,TQUMF|ids=⿰羊炭}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0953.311|hdz=53136.110|uh=7FB0}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{blend|zh|氧|tr1=yǎng|t1=oxygen|碳|tr2=tàn|t2=carbon}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tāng,tàn,2nb=Taiwan\n|c=tong1\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemistry}} [[carbonyl]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|羰基}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

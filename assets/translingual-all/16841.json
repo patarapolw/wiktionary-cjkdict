@@ -1,0 +1,80 @@
+{
+  "title": "斦",
+  "ns": 0,
+  "id": 16841,
+  "timestamp": 1529732955000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=69|rad=斤|as=04|sn=8|four=|canj=HLHML|ids=⿰斤斤}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[啠]], [[質]]([[质]]), [[𣃒]], [[𭋖]], [[𩙗]], [[𣃊]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0479.070|dkj=13538|dj=0838.030|hdz=32023.090|uh=65A6}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{zh-etym-double|斤}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yín\n|c=ngan4,an4\n|mc=y\n|oc=y\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=斤04}}\n\n# {{defn|lang=ja|sort=斤04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ぎん]] (gin), [[ごん]] (gon), [[しつ]] (shitsu), [[しち]] (shichi)|kun=[[あきらか]] (akiraka)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

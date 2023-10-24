@@ -1,0 +1,77 @@
+{
+  "title": "摞",
+  "ns": 0,
+  "id": 16515,
+  "timestamp": 1553550869000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=11|sn=14|four=56093|canj=QWVF|ids=⿰扌累}}\n\n# to [[pile up]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0450.080|dkj=12594|dj=0800.270|hdz=31946.060|uh=645E}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Cantonese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{yue-hanzi|jyut=[[lo3]], [[lo6]]|y=lo3, lo6}}\n\n# {{defn|lang=yue|sort=手11}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Mandarin",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{cmn-hanzi|pin=[[luò]] ([[luo4]])|wg=lo<sup>4</sup>}}\n\n# {{defn|lang=cmn|sort=手11}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=手11|reading=lũy}}\n\n# {{defn|lang=vi|sort=手11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=645e Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

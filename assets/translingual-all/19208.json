@@ -1,0 +1,130 @@
+{
+  "title": "湓",
+  "ns": 0,
+  "id": 19208,
+  "timestamp": 1553556517000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=09|sn=12|four=38117|canj=ECST|ids=⿰氵盆}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0636.320|dkj=17832|dj=1044.020|hdz=31682.060|uh=6E53}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=澎-Sichuan,𡌂-Sichuan}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|盆|ls=psc|c1=s|c2=p|t1=water}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=pén\n|m-s=pen2\n|c=pun4\n|mn=phûn\n|h=pfs=phùn;gd=pun1\n|x=ben2\n|mc=1\n|oc=2\n|cat=v,n,pn\n}}\n{{attn|nan|phùn?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|Southwestern Mandarin|dialectal Gan|Hakka|dialectal Jin|Xiang|of water|etc.}} to [[overflow]]\n# {{†}} [[rainstorm]]; [[shower]]\n# {{zh-div|水}} {{lb|zh|historical}} {{zh-altname|龍開河}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|to overflow}} {{zh-l|溢出}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|湓出|湓溢|湓涌}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=pèn\n|mc=3+2\n|oc=1+3\n|cat=adv,v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|onomatopoeia}} {{n-g|The sound of water.}}\n# {{†}} to [[squirt]] water"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|湓流}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水09}}\n\n# {{defn|lang=ja|sort=水09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ほん, ふん, ぼん\n|kun=あふれる\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|분}}\n\n# {{defn|lang=ko|sort=水09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=水09|reading=bùn}}\n\n# {{defn|lang=vi|sort=水09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

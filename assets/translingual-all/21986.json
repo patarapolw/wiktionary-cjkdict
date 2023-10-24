@@ -1,0 +1,58 @@
+{
+  "title": "硴",
+  "ns": 0,
+  "id": 21986,
+  "timestamp": 1536693746000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=07|sn=12|four=|canj=MRTOP|ids=⿰石花}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0832.211|hdz=42432.031|uh=7874|ud=30836}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}, combining the [[radical]] for {{m|ja|石||stone}} with the character for {{m|ja|花||flower}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=石07}}\n\n# [[oyster]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=かき-\n}}\n{{ja-kanjitab|かき|yomi=kun|sort=かき}}\n{{ja-see|牡蠣|gloss=[[oyster]]}}\n\n[[Category:Japanese-only CJKV Characters|石]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

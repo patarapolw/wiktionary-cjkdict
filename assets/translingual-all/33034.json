@@ -1,0 +1,80 @@
+{
+  "title": "麿",
+  "ns": 0,
+  "id": 33034,
+  "timestamp": 1542800744000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=200|rad=麻|as=07|sn=18|four=|canj=IDRR|ids=⿸麻吕<small>(G)</small>,⿸麻呂<small>(HTJK)</small>}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1515.211|dkj=47909|dj=2045.250|hdz=74724.160|uh=9EBF|ud=40639}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}. {{m|ja|麻|tr=ma}} + {{m|ja|呂|tr=ro}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=麻07}}\n\n# [[I]]\n# [[you]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=ろ\n|kun=まろ-\n|nanori=ま}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|jis=4B7B\n|ku=4391\n|shift=969B\n|euc=CBFB\n|freq=''not ranked''\n|nelson=5396\n|newnelson=7044\n|halpern=3184\n|kld=2034\n|heisig=2894\n|tuttle=3q15.2\n}}\n\n[[Category:Japanese-coined CJKV characters used outside Japanese|麻07]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronoun",
+              "text": "{{ja-pos|pronoun|まろ}}\n\n# {{lb|ja|archaic|sort=まろ}} [[I]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=마|eumhun=|rv=ma|mr=ma|y=ma}}\n\n# {{defn|lang=ko|sort=麻07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

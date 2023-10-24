@@ -1,0 +1,97 @@
+{
+  "title": "烷",
+  "ns": 0,
+  "id": 19968,
+  "timestamp": 1495665911000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=07|sn=11|four=93811|canj=FJMU|ids=⿰火完}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0671.190|dkj=19047|hdz=32206.010|uh=70F7}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp|zh|yue}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|火|完|ls=psc|c1=s|t1=fire|c2=p|t2=full; complete}}. {{zh-l|*火}} is a common radical used for names of [[hydrocarbon]]s."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=wán\n|c=jyun4\n|mn=oân\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[fire]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "From {{zh-l|完|full; complete}}, referring to the saturation of the carbons in alkanes.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=wán\n|c=jyun4,jyun4-2\n|mn=oân\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic compound}} [[alkane]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|烷烴|丁烷|戊烷|己烷|庚烷|辛烷|壬烷|癸烷|三氯乙烷|乙烷|三鹵甲烷|丙烷|硼烷|甲烷|螺烷|烷基}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[hoàn]]|rs=火07}}\n\n# {{defn|lang=vi|sort=火07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

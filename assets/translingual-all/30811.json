@@ -1,0 +1,111 @@
+{
+  "title": "雯",
+  "ns": 0,
+  "id": 30811,
+  "timestamp": 1495667981000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=173|rad=雨|as=04|sn=12|four=10401|canj=MBYK|ids=⿱雨文}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1371.410|dkj=42230|dj=1879.110|hdz=64059.120|uh=96EF|ud=38639|bh=B6B2|bd=46770}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|雨|文|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{och-l|文|mark; design; pattern}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wén\n|c=man4\n|mn=bûn\n|mn-t=bhung5\n|w=3ven\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[multicoloured]] [[cloud]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|青雯|雯華|雯蓋}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=雨04}}\n\n# {{defn|lang=ja|sort=雨04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ぶん]] (bun), [[もん]] (mon)|kun=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=문|eumhun=|rv=mun|mr=mun|y=mun}}\n\n# {{defn|lang=ko|sort=雨04}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[văn]]|rs=雨04}}\n\n# {{defn|lang=vi|sort=雨04}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "艚",
+  "ns": 0,
+  "id": 24712,
+  "timestamp": 1548765704000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=137|rad=舟|as=11|sn=17|four=25466|canj=HYTWA|ids=⿰舟曹}}\n\n# [[ship]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1012.200|dkj=30523|dj=1470.380|hdz=53066.150|uh=825A|ud=33370|bh=EDF1|bd=60913}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cáo\n|c=cou4\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=舟11}}\n\n# [[boat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞう<ざう\n|kanon=そう<さう\n|kun=[[ふね]] (fune), [[こぶね]] (kobune)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}\n\n# [[ship]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "{{vi-hantu|[[tàu]]|rs=舟11}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{vi-noun|sc=Hani}}\n\n# [[boat]], [[ship]], [[vessel]]"
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{vi-adj|sc=Hani}}\n\n# {{qualifier|often derogatory}} [[Chinese]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

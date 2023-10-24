@@ -1,0 +1,100 @@
+{
+  "title": "麺",
+  "ns": 0,
+  "id": 33028,
+  "timestamp": 1525204748000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|麵}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|麵|麺|面}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Variant of {{l|mul|麵}}, {{Han simp|麵|f=麥|t=麦|nocap=y}}. The modern Japanese usage is of reform ([[shinjitai]]) nature."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=199|rad=麦|as=09|sn=16|four=|canj=QEMWL|ids=⿰麦面(GV),⿺麦面(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1514.571|hdz=74605.121|uh=9EBA|ud=40634}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|麵|v}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "Mostly seen in cursive scripts."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|麺|麵}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=麦09|kyu=麵}}\n\n# [[flour]]\n# [[noodles]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=めん\n|kanon=べん\n|kun=むぎこ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|素麺|そうめん}}: [[somen]]\n* {{ja-r|麺棒|めんぼう}}: [[rolling pin]]\n* {{ja-r|拉麺|ラーメン}}: [[ramen]]\n{{der-bottom}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|めん|yomi=o}}\nFrom {{etyl|ltc|ja|sort=めん}} {{m|zh|麵}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=goon|めん|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|麪}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|めん}}\n\n# [[noodles]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Foods|めん]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "title": "忒",
+  "ns": 0,
+  "id": 15337,
+  "timestamp": 1553549956000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=61|rad=心|as=03|sn=7|four=43300|canj=IPP,XXIPP|ids=⿹弋心}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0376.100|dkj=10319|dj=0702.190|hdz=42269.070|uh=5FD2}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|弋|心|ls=psc|c1=p|c2=s}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Cognate with {{och-l|代|to substitute}} ({{zh-ref|Schuessler, 2007}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tè\n|c=tik1\n|h=pfs=thet\n|mn=thek\n|mc=y\n|oc=y\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[change]]\n# to [[err]]\n#: {{zh-alt-inline|𢘋|貸|貣}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{rfe|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tuī,tè,tēi,1nb=colloquial,1nc=standard in Mainland,2nb=literary,2nc=standard in Taiwan,2nd=variant in Mainland,3nb=colloquial,3nc=variant in Mainland\n|c=tik1\n|h=pfs=thet\n|w=4theq\n|cat=adv\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal}} to an excessive degree; [[too]]\n#* {{zh-x|你 也 忒{tuī} 胡鬧 了。|You're '''too''' wild-acting.|ref=Hongloumeng}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|太}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|不忒|密斯忒|差忒|忒兒|忒兒嘍|忒忒|忒恁|忒惡|忒敬思|忒楞|忒楞楞|忒楞楞騰|忒殺|忒沒意|忒煞|忒甚|忒過|愆忒}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=心03}}\n\n# {{defn|lang=ja|sort=心03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=とく\n|kun=かわる\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|특}}\n\n# {{defn|lang=ko|sort=心03}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=心03|reading=thắc}}\n\n# {{defn|lang=vi|sort=心03}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

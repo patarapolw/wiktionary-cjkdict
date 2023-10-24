@@ -1,0 +1,94 @@
+{
+  "title": "仉",
+  "ns": 0,
+  "id": 10587,
+  "timestamp": 1539955736000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=02|sn=4|four=27210|canj=OHN|ids=⿰亻几}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0091.170|dkj=00357|dj=0194.020|hdz=10109.020|uh=4EC9|ud=20169|bh=C953|bd=51539}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𠆰}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Corruption of {{zh-l|𤓯}}, an ancient form of {{zh-l|*掌}}. In its current form, the left part became {{zh-l|*亻}}, while the right became {{zh-l|*几}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhǎng\n|c=zoeng2\n|md=ciōng\n|mn=xm,qz:chióng/zz:chiáng\n|mn-t=zion2/ziên2/ziang2\n|mn-t_note=zion2/ziên2 - vernacular; ziang2 - literary\n|w=2tsaan\n|mc=y\n|oc=y\n|ma=\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|掌}}\n# {{surname|lang=zh}}\n#: {{zh-x|^仉 ^氏|Zhang Shi, mother of [[Mencius]])}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人02}}\n\n# {{defn|lang=ja|sort=人02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<じやう\n|kanon=しょう<じやう\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[kẻ]]|rs=人02}}\n\n# [[person]], [[people]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=4ec9 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

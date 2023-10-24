@@ -1,0 +1,102 @@
+{
+  "title": "茎",
+  "ns": 0,
+  "id": 24893,
+  "timestamp": 1532681968000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|莖}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|莖|茎|茎}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=05|sn=8|four=|canj=TNOM|ids=⿱艹圣,⿱艹𢀖}}\n\n# [[stem]], [[stalk]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Due to {{w|Han unification}}, this Unicode character appears as {{lang|zh|[[茎]]}} ({{lang|zh|[[艹]][[𢀖]]}}) in PRC-style fonts and {{lang|ja|[[茎]]}} ({{lang|ja|[[艹]][[圣]]}}) in Japan-style fonts. Compare {{lang|zh|[[径]]}} and {{lang|ja|[[径]]}}."
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1027.201|dkj=30861|dj=1486.150|hdz=53198.050|uh=830E|ud=33550}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|莖}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|茎|莖}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=艸05|kyu=莖}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう\n|kanon=こう\n|kanyoon=けい\n|kun=くき-, なかご-\n}}\n\n{{wikipedia|lang=ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|くき|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くき|acc=2|dev=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=莖|くき}}\n\n# [[stem]], [[stalk]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|なかご|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なかご|acc=2|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=莖|なかご}}\n\n# {{lb|ja|sort=なかご|swords}} [[tang]] {{gloss|part of a sword blade}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|くき]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

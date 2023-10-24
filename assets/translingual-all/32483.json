@@ -1,0 +1,156 @@
+{
+  "title": "鳩",
+  "ns": 0,
+  "id": 32483,
+  "timestamp": 1545112824000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鸠}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=196|rad=鳥|as=02|sn=13|four=47027|canj=KNHAF|ids=⿰九鳥}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|𤄄}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1481.100|dkj=46648|dj=2013.120|hdz=74613.130|uh=9CE9|ud=40169|bh=B9A7|bd=47527}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=鸠|alt=䲥,𩾛}}\n{{zh-wp|zh:鳩鴿科|en:Columbidae}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|九|鳥|ls=psc|c1=p|c2=s|t2=bird}}.\n{{rfe|lang=zh|Any chance the term started out as onomatopoeia?  /ku/ almost sounds like a dove cooing.}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiū\n|c=kau1,gau1\n|c_note=kau1 - common for non-vulgar senses; gau1 - common for vulgar senses\n|mn=ml:kiu/tw:khiu\n|mc=y\n|oc=y\n|cat=n,c:interfix\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[pigeon]]; [[dove]] ([[family]] [[Columbidae]])\n# {{lb|zh|Cantonese|vulgar}} {{zh-alt-form|㞗|tr=gau<sup>1</sup>}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|斑鳩:[[turtledove]]|鳩嗚|尸鳩之平|尸鳩之仁|斑鳩跌彈|班鳩跌彈|斑頸鳩|鳩形鵠面|鳩居|鳩槃荼|鳩斂|雎鳩|鷽鳩笑鵬|鵲笑鳩舞|鵲巢鳩占|鵠面鳩形|鳩奪鵲巢|雉鳩|鳲鳩|鳩杖|鳩拙|鳩工庀材|鳩工|鳩合|鳩占鵲巢|鳩佔鵲巢|鳩集|鳩僭鵲巢|鳩率|鶻鳩|鳴鳩|鳩居鵲巢|森鳩|山鳩}}\n\n{{zh-cat|Pigeons}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=鳥02}}\n\n# [[pigeon]], [[dove]]\n# {{qualifier|in compounds}} to [[gather]] [[together]] {{qualifier|from the way that pigeons flock together}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=く\n|kanon=きゅう<きう\n|kun=はと-, あつ-める\n|nanori=やす\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|鳩居|きゅうきょ}}: a [[pigeon]] in a [[magpie]]'s [[nest]]; [[living]] in a [[rented]] [[house]] or [[apartment]]\n* {{ja-r|鳩合|きゅうごう}}: [[flock]]ing together\n* {{ja-r|鳩舎|きゅうしゃ}}: a [[dovecote]]\n* {{ja-r|鳩車|きゅうしゃ}}: a [[pigeon]] [[cart]]: a kind of toy pigeon with wheels on it\n* {{ja-r|鳩首|きゅうしゅ}}: putting heads together, [[consulting]] in a group\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wikipedia|lang=ja}}\n{{wikipedia|Columba (genus)}}\n[[File:Wood_pigeon_(male).jpg|thumb|250px|鳩 (''hato''): a '''[[pigeon]]''', a '''[[dove]]'''.]]\n</div>\n{{ja-kanjitab|はと|yomi=k}}\nPossibly [[onomatopoeia]] from the ''hatahata'' sound of a dove or pigeon's wings in flight."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|はと|acc=1|acc_ref=NHK,DJR,SMK5}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|鴿}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はと|ハト}}\n\n# a [[pigeon]], a [[dove]]: a [[bird]] of [[genus]] [[Columba]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{U:ja:biology|ハト}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Idioms",
+                  "text": "{{der-top|Idioms}}\n* {{ja-r|鳩が豆鉄砲を食ったよう|はと が まめてっぽう を くった よう}}: “like a pigeon that ate a peashooter” → [[dumbfounded]], [[taken by surprise]]\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|鳩車|はとぐるま}}: a [[pigeon]] [[cart]]: a kind of toy pigeon with wheels on it\n* {{ja-r|鳩小屋|はとごや}}: a [[dovecote]]\n* {{ja-r|鳩根性|はと こんじょう}}: “pigeon-spirited” → appearing [[composed]] while [[harbor#Verb|harboring]] [[resentment]]\n* {{ja-r|鳩座|^はと-ざ}}: the [[Dove]] or [[Columba]] [[constellation]]\n* {{ja-r|鳩酒|はとざけ}}: an old kind of [[medicine]], wherein a pigeon would be tenderized and the bones broken, then the whole carcass would be covered in [[sake]] and [[miso]] and [[stewed]], purportedly used to treat back pain and poor circulation in the extremities\n* {{ja-r|鳩染|はとぞめ}}: “pigeon dyeing” → [[dyeing]], or something [[dyed]], in the colors of the [[turtledove]] or [[Japanese green pigeon]]\n* {{ja-r|鳩派|はとは}}: {{qualifier|politics}} the [[dove]]s {{qualifier|proponents of peace; as opposed to the [[hawk]]s, proponents of war}}\n* {{ja-r|鳩羽色|はとばいろ}}: “pigeon-wing color” → a dark blue-gray\n* {{ja-r|鳩笛|はとぶえ}}: a [[pigeon]] [[flute]]: a flute used to [[imitate]] the call of the dove\n* {{ja-r|鳩吹|はとふき}}: a [[dove]] [[call]], a [[lure]] to [[imitate]] the call of the dove\n* {{ja-r|鳩吹く|はとふく}}: to make a [[dove]] [[call]], such as by blowing a kind of whistle formed by one's cupped hands\n* {{ja-r|鳩麦|はとむぎ}}: “pigeon barley” → [[Job's tears]], [[tear grass]]\n* {{ja-r|鳩胸|はとむね}}: [[pigeon]]-[[breasted]] {{qualifier|similar to the way a pigeon's chest is puffed out}}; {{qualifier|medical}} [[pectus carinatum]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Pigeons|はと]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}\n\n# [[pigeon]], [[dove]]\n# [[collect]], [[assemble]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[cưu]]|rs=鳥02}}\n\n# {{defn|lang=vi|sort=鳥02}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

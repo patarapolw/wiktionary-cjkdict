@@ -1,0 +1,89 @@
+{
+  "title": "扖",
+  "ns": 0,
+  "id": 15984,
+  "timestamp": 1553550606000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=02|sn=5|four=|canj=QO,XQO|ids=⿰扌入}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0417.131|dkj=11788|dj=0764.060|hdz=31827.041|uh=6256}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手02}}\n\n# {{rfdef|ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=さがす, はめる, しぼる\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|132810}}\n* {{R:Wasei Kanji 2014|0744}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=手02|reading=[[nhấp]], [[nhẹp]]}}\n\n# {{defn|lang=vi|sort=手02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=6256 Nom Foundation]\n\n{{cln|vi|Han tu}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Zhuang",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{za-head|verb}}\n\n# {{za-sawndip form of|yaeb}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

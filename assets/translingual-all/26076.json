@@ -1,0 +1,106 @@
+{
+  "title": "蜱",
+  "ns": 0,
+  "id": 26076,
+  "timestamp": 1536379926000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=142|rad=虫|as=08|sn=14|four=56140|canj=LIHWJ|ids=⿰虫卑}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1087.160|dkj=33182|dj=1554.120|hdz=42863.090|uh=8731|ud=34609|bh=E3EB|bd=58347}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=pí\n|ma=y\n|c=pei4\n|mn=pi\n|w=3bi\n|mc=1\n|oc=1\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[tick]] {{gloss|the parasitic arachnid}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{zh-l|壁蝨}}\n* {{zh-l|蝨子}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=miáo\n|mc=2\n|oc=2\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-historical-ghost}} {{n-g|Name of a kind of insect.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|蜱蛸}}\n\n{{zh-cat|Mites and ticks}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫08}}\n\n# [[mite]]\n# [[tick]]\n{{ja-kanjitab|yomi=k|だに}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=び,びょう\n|kanon=ひ,ひょう\n|kun=だに-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|だに|ダニ}}\n\n# {{rarespell|lang=ja|sort=だに|壁蝨||[[mite]]; [[tick]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

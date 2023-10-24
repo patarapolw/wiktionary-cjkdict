@@ -1,0 +1,92 @@
+{
+  "title": "孒",
+  "ns": 0,
+  "id": 14068,
+  "timestamp": 1553548221000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=39|rad=子|as=00|sn=3|var=2|four=|canj=NNM,XNNM|ids=⿰了一}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𢩯]], [[𧺐]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0277.080|dkj=06932|dj=0544.020|hdz=21008.011|uh=5B52}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|孓}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=子00}}\n\n# {{defn|lang=ja|sort=子00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かち\n|kanon=けつ\n|kanyoon=きょう<きよう\n|on=く, くつ\n|kun=ぼうふら-, みじか-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|孑孒|ぼうふら|[[mosquito]] [[larva]]}}\n* {{ja-r|孑孑|ぼうふら}}, {{ja-r|孑%孑|けつ%けつ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* The Kanji Jiten entry has an odd kun-reading: {{ja-r|ひだりのうでがない|ひだり の うで が ない|missing one's left arm}}, referencing the kanji character's appearance. Compare from Chinese, above."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=子00|reading=kiết}}\n\n# {{defn|lang=vi|sort=子00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5b52 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

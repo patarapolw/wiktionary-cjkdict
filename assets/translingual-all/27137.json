@@ -1,0 +1,131 @@
+{
+  "title": "謁",
+  "ns": 0,
+  "id": 27137,
+  "timestamp": 1549027495000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|谒}}\n{{character info/new}}\n{{character info/new|0xfa62}}\n{{character info/new|0xfabc}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=149|rad=言|as=09|asj=08|sn=16|snj=15|four=06627|canj=YRAPV|ids=⿰言曷,⿰言⿱曰匂}}\n\n# [[visit]], pay [[respects]] to",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1173.100|dkj=35690|dj=1638.050|hdz=63997.040|uh=8B01|ud=35585|bh=BFD6|bd=49110}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=谒}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yè\n|m-s=\n|c=jit3,kit3\n|c-t=\n|g=\n|h=pfs=\n|j=\n|mb=giĕ\n|md=\n|mn=qz,tw,xm,zz:iat\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|上謁|女謁|刺謁|伏謁|干謁|交謁|參謁|投謁|瞻謁|拜謁|晉謁|進謁|賕謁|訪謁|謁索|謁者|造謁|謁選|謁告|謁見|謁歸|謁刺|請謁|覲謁}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=言09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=えつ\n|kun=まみ-える\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えつ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えつ|-}} {{ltc-l|謁}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えつ|acc=1|acc_ref=DJR|y=kanon}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|えつ}}\n\n# [[audience]] (with a noble)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|謁見|えっけん}}\n* {{ja-r|拝謁|はいえつ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えつ}}\n\n# {{lb|ja|literary}} a [[meeting]] or [[audience]] with a [[noble]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|おめみえ}}\n* {{ja-r|謁見|えっけん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=알|eumhun=|rv=al|mr=al|y=al}}\n\n# {{defn|lang=ko|sort=言09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

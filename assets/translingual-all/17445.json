@@ -1,0 +1,116 @@
+{
+  "title": "柜",
+  "ns": 0,
+  "id": 17445,
+  "timestamp": 1553552760000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|櫃}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=75|rad=木|as=05|sn=9|four=41917|canj=DSS|ids=⿰木巨}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0519.140|dkj=14631|dj=0907.130|hdz=21167.050|uh=67DC}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|木|巨|c1=s|c2=p|t1=tree|t2=huge|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|櫃}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jǔ\n|c=geoi2\n|mc=y\n|oc=n,1\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{taxlink|Salix integra|species}}, a type of [[willow]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|柜柳}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木05}}\n\n# {{defn|lang=ja|sort=木05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=こ\n|kanon=きょ\n}}\nAs variant form of {{ja-l|櫃}}:\n{{ja-readings\n|goon=ぎ<ぎ<ぐゐ\n|kanon=き<き<くゐ\n|kun=ひつ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|柜%霜|キョ%ソウ}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=木05|reading=cự}}\n\n# {{defn|lang=vi|sort=木05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=67dc Nom Foundation]\n\n[[Category:CJKV simplified characters which already existed as traditional characters]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

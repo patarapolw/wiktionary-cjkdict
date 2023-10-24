@@ -1,0 +1,68 @@
+{
+  "title": "氠",
+  "ns": 0,
+  "id": 18578,
+  "timestamp": 1510502280000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|氙}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=84|rad=气|as=05|sn=9|four=80517|canj=ONLWL|ids=⿹气申}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0599.111|hdz=32011.030|uh=6C20|ud=27680|bh=CF6B|bd=53099}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|气|c1=s|t1=gas|申|c2=p|ls=psc|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Borrowed from {{bor|zh|en|xenon|'''xen'''on}}. Obsoleted, as it is homophonous to {{zh-l|砷|arsenic}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shēn\n|c=san1\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemistry|obsolete}} [[xenon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|氙}}\n\n{{zh-cat|Chemical elements}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

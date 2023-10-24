@@ -1,0 +1,73 @@
+{
+  "title": "脷",
+  "ns": 0,
+  "id": 24411,
+  "timestamp": 1552627063000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=130|rad=肉|as=07|sn=11|four=|canj=BHDN|ids=⿰⺼利}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0985.111|hdz=32078.100|uh=8137}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=利}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|⺼|利|ls=psc|c1=s|c2=p|t1=meat|no_och2=1}}. Specialization of {{zh-l|*利|benefit; profit}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|*利|benefit; profit}}, used as a euphemism for {{zh-l|舌|sit6|tongue}}, which is homophonous to {{zh-l|*折}}, {{zh-l|蝕|sit6|to be at a loss}}.\n\nAlternatively, it may be from {{och-l|舐|to lick}}, preserving the Old Chinese initial ''*l-'' ({{zh-ref|Schuessler, 2007}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lì\n|m-s=ni4\n|c=lei6\n|c-t=lei5*,lei5\n|c-t_note=lei5* - as an independent word or the head of a compound; lei5 - in compounds (not as the head)\n|h=pfs=li;gd=li4\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} [[tongue]] {{zh-mw|條}}\n# {{lb|zh|Hakka|Sichuanese}} [[tongue]] of an animal\n{{attn|cmn|Sichuanese dictionaries seem to specifically mention pigs?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|舌頭}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|黐脷根|脷苔|橫脷|脷根|鴨脷洲|牛脷酥|脷錢|揦脷}}\n\n{{zh-cat|taboo}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

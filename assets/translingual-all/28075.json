@@ -1,0 +1,101 @@
+{
+  "title": "蹓",
+  "ns": 0,
+  "id": 28075,
+  "timestamp": 1531085011000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=157|rad=足|as=10|sn=17|four=67160|canj=RMHHW|ids=⿰𧾷留}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1231.301|hdz=63730.040|uh=8E53}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=⿰[[𧾷]][[㽞]]}} <!-- Note: ⿰𧾷㽞 in Longkan Shoujian 《龍龕手鑑》 -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|足|留|c1=s|c2=p|t1=foot|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=liū\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-lb|溜}} to [[slide]]; to [[glide]]; to [[slip]]\n# {{zh-alt-lb|溜}} to [[sneak off]]; to [[sneak away]]; to [[escape]]\n# {{lb|zh|mainland China}} {{zh-used in|蹓躂}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=liù\n|c=lau4,lau6\n|c_note=lau4 - colloquial, same as {{l|zh|遛}}; lau6 - part of '''蹓'''躂\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-lb|遛|溜}} to [[stroll]]; to [[saunter]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|蹓躂|蹓馬|蹓晃|蹓鳥|蹓彎}} <!-- Note: 蹓躂 has Pronunciation 1 in mainland China but belongs to this sense. -->"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B04939}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=足10|[[lưu]]}}\n\n# {{defn|lang=vi|sort=足10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=8E53 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

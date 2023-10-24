@@ -1,0 +1,87 @@
+{
+  "title": "歳",
+  "ns": 0,
+  "id": 18404,
+  "timestamp": 1547153727000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|歲|岁}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|歲|歳|岁}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=77|rad=止|as=09|sn=13|four=|canj=YMIHF|ids=⿱止⿵戌小,⿱止⿵戊𡭕}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0577.071|dkj=16326|hdz=21443.201|uh=6B73|ud=27507}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|歲|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=止09}} <!-- The character 歲 is not its kyūjitai form -->\n\n# [[year]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さい\n|kanon=せい\n|kun=とし-, とせ-, よわい-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Often abbreviated to much simpler {{m|ja|才}}, for example in {{m|ja|何才||how old?}}, or {{m|ja||１才|1 year old}}, as opposed to {{m|ja|何歳||how old?}}, {{m|ja||１歳|1 year old}}.\n\n{{ja-kanjitab|とし|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|とし|kyu=歲}}\n\n# a [[year]] (or years) of age\n#: {{ja-usex|'''歳'''を取る|'''とし''' を とる}}\n# [[age]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|ja|年}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|さい|サイ}}\n\n# [[-year-old]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|ja|才}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

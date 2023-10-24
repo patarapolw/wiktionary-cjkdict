@@ -1,0 +1,135 @@
+{
+  "title": "髟",
+  "ns": 0,
+  "id": 31890,
+  "timestamp": 1553013018000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=190|rad=髟|as=00|sn=10|four=72722|canj=SIHHH|ids=⿰镸彡}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/髟]]\n* {{l|mul|[[𧫄]]}} <!-- Not listed under radical index of 髟 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1452.260|dkj=45355|dj=1983.010|hdz=74518.010|uh=9ADF}}\n\n[[Category:CJKV radicals]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|長|alt1=镸|t1=long|彡|t2=hair|ls=ic}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=biāo\n|c=biu1\n|mn=phiau\n|mc=1+2\n|oc=1,1+2\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[appearance]] of [[long]] [[hair]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=shān\n|mn=sam\n|mc=3\n|oc=2,3\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[tip]] of the [[eaves]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=髟00}}\n\n# long [[hair]]\n# [[mane]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せん<せん<せむ, ひゅう<ひう, ひょう<へう\n|kanon=さん<さん<さむ, ひゅう<ひう, ひょう<へう\n}}\n<!--|kun=[[かみかんむり]] (kamikanmuri, [[髪冠]]), [[かみがしら]] (kamigashira, [[髪頭]])-->\n{{attention|ja|since this character is a radical, should kun readings (commented, \"-kanmuri\" and \"-gashira\") be there too?}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[표]], [[삼]]|mr=p'yo, sam|y=phyo, sam}}\n\n# {{defn|lang=ko|sort=髟00}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[tiêu]]|rs=髟00}}\n\n# {{defn|lang=vi|sort=髟00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=9ADF Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

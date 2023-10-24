@@ -1,0 +1,82 @@
+{
+  "title": "糎",
+  "ns": 0,
+  "id": 23158,
+  "timestamp": 1549694728000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=119|rad=米|as=09|sn=15|four=|canj=FDMWG|ids=⿰米厘}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0911.241|dkj=27057|dj=1338.180|hdz=53154.101|uh=7CCE|ud=31950|bh=A261|bd=41569}}\n\n[[Category:Japanese-coined CJKV characters used outside Japanese]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lí\n|c=\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dated}} [[centimetre]] ([[cm]])\n# {{lb|zh|dated}} [[millimetre]] ([[mm]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|centimetre}} {{zh-l|釐米}}, {{zh-l|公分}}\n* {{sense|millimetre}} {{zh-l|毫米}}, {{zh-l|公釐}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|米|釐|alt2=厘|t1=metre|t2=one hundredth|ls=ic}}. {{ja-etym-kokuji}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=米+9}}\n\n# [[centimeter]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=センチメートル-\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

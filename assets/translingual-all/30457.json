@@ -1,0 +1,61 @@
+{
+  "title": "閷",
+  "ns": 0,
+  "id": 30457,
+  "timestamp": 1530461759000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|殺|杀}}\n{{character info/new}}\n{{character info/new|0x2f9f0}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=169|rad=門|as=09|asm=08|sn=17|snm=16|four=47920|canj=KCANO,KDANO|ids=⿰⿱㐅朩閃(G),⿰⿱㐅朮閃(HT),⿰⿱㐅术閃(K),⿰⿱㐅木閃(<code>U+2F9F0</code>)}} <!-- Alternative ids: ⿰杀閃(G) ⿰𣏂閃(HTK) not accurate, 杀 and 𣏂 contains two different forms respectively -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[殺]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}})\n* {{l|mul|[[杀]]}} ''({{w|Simplified Chinese|Simplified form}} of ''{{l|mul|殺}})"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1336.180|dkj=41407|hdz=74305.030|uh=95B7}}\n{{Han ref|uh=2F9F0}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|殺|v}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A02091-087-1}}\n* {{R:twedu|B05507}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

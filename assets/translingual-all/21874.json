@@ -1,0 +1,80 @@
+{
+  "title": "砅",
+  "ns": 0,
+  "id": 21874,
+  "timestamp": 1534085223000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=04|sn=9|four=12630|canj=MRE|ids=⿰石水}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0828.040|dkj=24050|dj=1242.060|hdz=42420.050|uh=7805|ud=30725|bh=CFED|bd=53229}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=濿}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|ls=ic|石|水}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lì\n|c=lai6\n|mc=y\n|oc=2\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[cross]] over a [[stream]] using [[stepping stone]]s"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B02946}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石04}}\n\n# {{defn|lang=ja|sort=石04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[れい]] (rei), [[り]] (ri), [[ひょう]] (hyō)|kun=[[わたる]] (wataru)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

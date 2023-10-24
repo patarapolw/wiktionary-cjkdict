@@ -1,0 +1,114 @@
+{
+  "title": "蝠",
+  "ns": 0,
+  "id": 26125,
+  "timestamp": 1523069253000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=142|rad=虫|as=09|sn=15|four=51166|canj=LIMRW|ids=⿰虫畐}}\n\n# kind of [[bat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1090.050|dkj=33288|dj=1556.030|hdz=42868.100|uh=8760}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|虫|畐|ls=psc|c1=s|c2=p}}. Originally a {{liushu|p|nocap=1}} in the oracle bone and bronze scripts."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{inh|zh|sit-pro|*baːk||bat}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fú\n|c=fuk1\n|h=pfs=fuk\n|md=hók\n|mn=hok\n|mn-t=hog4\n|w=4foq\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[bat]] {{gloss|animal}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|蝙蝠}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|蝙蝠人|蝙蝠俠|蝙蝠}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫09}}\n\n# [[bat]]\n# [[pit viper]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふく\n|kanon=ふく\n|kun=まむし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|蝙蝠|こうもり}}, {{ja-r|蝙蝠|かわほり}}, {{ja-r|蝙蝠|へんぷく}}: [[bat]] {{gl|[[small]] [[fly]]ing [[mammal]] of order [[Chiroptera]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Uncommon alternative form of {{m|ja|蝮|tr=mamushi||[[pit viper]]}}."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[복]]|eumhun=|rv=bok|mr=pok|y=pok}}\n\n# {{defn|lang=ko|sort=虫09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

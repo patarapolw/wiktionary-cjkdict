@@ -1,0 +1,125 @@
+{
+  "title": "骰",
+  "ns": 0,
+  "id": 31837,
+  "timestamp": 1553571291000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=188|rad=骨|as=04|sn=14|four=77247|canj=BBHNE|ids=⿰骨殳}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1448.200|dkj=45127|dj=1974.200|hdz=74408.110|uh=9AB0}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}\nFrom {{ltc-l|投|to throw}}. Often read semantically as {{ltc-l|色}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tóu,shǎi,1nb=standard in Mainland and Taiwan,2nb=common variant\n|m_note=shǎi - semantic reading for {{zh-l|*色}}\n|c=tau4,sik1\n|c_note=sik1 - semantic reading for {{zh-l|*色}}\n|g=\n|h=pfs=n:tàu/s:thèu;gd=têu2\n|j=\n|mb=dě\n|md=dàu\n|mn=tâu/xm,zz:tô͘/qz:tiô\n|mn_note=tâu - vernacular; tô/tiô - literary\n|mn-t=dao5\n|w=3deu\n|x=\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[die]] {{gloss|polyhedron used in games of chance}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|骰子}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|十八骰仔|骰仔|撚骰仔|骰九|擲骰子|藥骰|骰子}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|股|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=骨04}}\n\n# {{defn|lang=ja|sort=骨04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=とう\n|kun=さい, さいころ\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|투}}\n\n# {{defn|lang=ko|sort=骨04}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=骨04|reading=đầu}}\n\n# {{defn|lang=vi|sort=骨04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=9ab0 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

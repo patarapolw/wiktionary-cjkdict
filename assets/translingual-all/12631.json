@@ -1,0 +1,87 @@
+{
+  "title": "嗨",
+  "ns": 0,
+  "id": 12631,
+  "timestamp": 1530976567000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=10|sn=13|four=68057|canj=REOY|ids=⿰口海}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0204.111|dkj=04137|hdz=10671.030|uh=55E8}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|口|海|ls=psc|c1=s|c2=p|t1=mouth; speech}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=hāi\n|c=hoi1,hei1,hoi1\n|c_note=hoi1 - colloquial; hei, hoi1 - variant\n|mn=hài\n|mn-t=hai2/hai1\n|w=0he\n|cat=intj\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|colloquial}} [[hey]]; [[hi]]\n# {{lb|zh|colloquial}} [[high]]; to be [[exhilarated]] (may or may not be under the influence of alcohol or recreational drugs)\n# {{zh-alt-form|咳|''hāi'', \"sound of [[lament]]\"}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|嗨喲}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A00646}}\n* {{R:yue:Hanzi}}\n\n{{zh-cat|Phrasebook}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口10}}\n\n# {{defn|lang=ja|sort=口10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かい\n|kanon=かい\n|toon=はい\n|kun=}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

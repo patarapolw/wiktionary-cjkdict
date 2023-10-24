@@ -1,0 +1,63 @@
+{
+  "title": "燵",
+  "ns": 0,
+  "id": 20227,
+  "timestamp": 1528435997000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=13|sn=17|four=|canj=FYGQ|ids=⿰火達}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0685.201|dkj=19504|dj=1098.080|hdz=32240.061|uh=71F5|ud=29173}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanjitab|yomi=o}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=たつ\n|kun=}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|たつ|y=o}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たつ}}\n\n# [[foot]] [[warmer]]\n\n[[Category:Japanese-only CJKV Characters|火+13]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "昱",
+  "ns": 0,
+  "id": 16985,
+  "timestamp": 1535452930000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=72|rad=日|as=05|sn=9|four=60108|canj=AYT|ids=⿱日立}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0494.030|dkj=13862|dj=0858.090|hdz=21503.090|uh=6631|ud=26161|bh=AC52|bd=44114}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yù\n|c=juk1\n|mc=y\n|oc=y\n|ma=\n|cat=n,a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-original|翌|[[tomorrow]]}}\n# {{lb|zh|literary}} [[bright]] [[light]]; [[sunlight]]\n# {{lb|zh|literary}} to [[shine]]; to [[illuminate]] {{zh-alt-lb|煜}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|昱昱}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日05}}\n\n# {{defn|lang=ja|sort=日05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[いく]] (iku)|kun=[[あきらか]] (akiraka)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=욱|eumhun=|rv=uk|mr=uk|y=wuk}}\n\n# {{defn|lang=ko|sort=日05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[dục]]|rs=日05}}\n\n# {{defn|lang=vi|sort=日05}}\n<!--for some reason this character is not in the Nom Foundation database-->"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

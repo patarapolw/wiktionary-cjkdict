@@ -1,0 +1,85 @@
+{
+  "title": "㐂",
+  "ns": 0,
+  "id": 10076,
+  "timestamp": 1550007254000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𛀣}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{zh-etym-triple|七|seven}}, based from the {{w|cursive script (East Asia)|cursive script}} of {{l|zh|喜}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=1|rad=一|as=05|sn=6|four=40714|canj=PPP|ids=⿱七⿰七七}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𭩳]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0078.101|dkj=|dj=|hdz=|uh=3402}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=一05}}\n\n# {{alternative form of|喜|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こ, し\n|kanon=き\n|kun=よろこ-ぶ, よろこ-び\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This kanji is commonly seen on store signs."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{l|ja|喜寿}}<!-- name for 77th birthday, b/c 㐂 – which looks like 七十七 – is a variant of 喜 -->"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[칠]], [[희]]|rv=chil, hui|mr=ch'il, hŭi|y=chil, huy|eumhun=기쁘다|ehrv=gippeuda|ehmr=kippŭda|ehy=kipputa}}\n\n# {{defn|lang=ko|sort=一05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

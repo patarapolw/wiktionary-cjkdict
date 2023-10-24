@@ -1,0 +1,106 @@
+{
+  "title": "鋅",
+  "ns": 0,
+  "id": 29525,
+  "timestamp": 1539348707000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|锌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=167|rad=金|as=07|sn=15|four=80141|canj=CYTJ|ids=⿰釒辛}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1306.250|dkj=40439|dj=1809.030|hdz=64211.050|uh=92C5|ud=37573|bh=BE4E|bd=48718}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=锌}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Borrowed from {{bor|zh|en|zinc}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=xīn\n|c=san1,sing1\n|h=pfs=sîn\n|md=sĭng\n|mn=ml:sin\n|mn-t=sing1\n|w=\n|mc=\n|oc=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemical element}} [[zinc]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{zh-l|亞鉛}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|鋅白|鋅版|鋅板|鋅鋇白|氯化鋅|菱鋅礦|鍍鋅鐵|鋅鐵礦}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|釨|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金07}}\n\n# {{defn|lang=ja|sort=金07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[し]] (shi), [[しん]] (shin)|kun=[[こはい]] (kohai)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=자|eumhun=|rv=ja|mr=cha|y=ca}}\n\n# {{defn|lang=ko|sort=金07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

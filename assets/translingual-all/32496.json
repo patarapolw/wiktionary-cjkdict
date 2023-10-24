@@ -1,0 +1,136 @@
+{
+  "title": "鳰",
+  "ns": 0,
+  "id": 32496,
+  "timestamp": 1552958961000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=196|rad=鳥|as=02|sn=13|canj=OHAF|ids=⿰入鳥}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1482.021|dkj=46658|dj=2013.210|hdz=74613.121|uh=9CF0}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=鳥02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=にお-<にほ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wikipedia|lang=ja}}\n{{ja-kanjitab|にお|yomi=k}}\nFrom {{ja-l|水に入る鳥}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|にお|acc=1|acc_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|にお|hhira=にほ}}\n\n# [[grebe]]\n## [[little grebe]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|grebe}} {{ja-r|鸊鷉|かいつぶり}}, {{ja-r|鳰鳥|におどり}}, {{ja-r|浮巣鳥|うきすどり}}, {{ja-r|息長鳥|しながどり}}, {{ja-r|潜り|むぐり}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|鳰貝|におがい}}\n* {{ja-r|鳰照る|におてる}}\n* {{ja-r|鳰照るや|におてる や}}\n* {{ja-r|鳰鳥|におどり|[[grebe]]; [[little grebe]]}}\n* {{ja-r|鳰鳥の|におどり の}}\n* {{ja-r|鳰の浮き巣|にお の うきす}}\n* {{ja-r|鳰の海|^にお の ^うみ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|sort=かいつぶり|yomi=irr}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|かいつぶり|acc=3|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鸊鷉}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かいつぶり|カイツブリ}}\n\n# [[grebe]]\n## [[little grebe]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|sort=かいつむり|yomi=irr}}\nAlteration of ''kaitsuburi''.<ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|かいつむり|acc=3|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鸊鷉}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かいつむり}}\n\n# [[grebe]]\n## [[little grebe]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese-only CJKV Characters|鳥+02]]\n\n[[Category:ja:Grebes|にお]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

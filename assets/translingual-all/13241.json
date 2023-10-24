@@ -1,0 +1,157 @@
+{
+  "title": "堤",
+  "ns": 0,
+  "id": 13241,
+  "timestamp": 1552561569000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=09|sn=12|four=46181|canj=GAMO|ids=⿰土是}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0233.200|dkj=05259|dj=0470.360|hdz=10463.010|uh=5824|ud=22564|bh=B3F6|bd=46070}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=*隄}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|土|是|ls=psc|c1=s|c2=p|t1=soil}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=堤\n|c=tai4\n|mn=thê\n|mc=2\n|oc=1\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[dike]]\n# base of bottle"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "''{{w|Xiandai Hanyu Guifan Cidian}}'' ({{w2|zh|pref=《|现代汉语规范词典|suf=》}}) proscribes the use of the pronunciation {{m|cmn|tí}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|土堤|圩堤|埂堤|堤壩|堤封|堤岸|堤防|汴堤|決堤|河堤|海堤|白公堤|白堤|築堤|群蟻潰堤|自然堤|范公堤|西堤|長堤|防沙堤|防波堤|須菩堤|堤堰|梓楠堤|新堤口|新堤|斗湖堤|橫堤|下河堤|中河堤|上河堤}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=tǐ\n|mc=3\n|oc=2\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[stop]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=shí,tí,1nb=Mainland,2nb=Taiwan\n|mc=1\n|oc=3\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|堤封}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 4",
+              "text": "{{zh-pron\n|m=wéi\n|cat=pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# Used in place names\n\n{{zh-cat|Intermediate}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=土09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=たい\n|kanon=てい\n|kun=つつみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|つつみ}}\n\n# [[dike]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|つつみ|proper}}\n\n# {{surname|lang=ja|sort=つつみ}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=제|rv=je|mr=che}}\n\n# {{defn|lang=ko|sort=土09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[đê]]|rs=土09}}\n\n# {{defn|lang=vi|sort=土09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

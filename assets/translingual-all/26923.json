@@ -1,0 +1,104 @@
+{
+  "title": "訳",
+  "ns": 0,
+  "id": 26923,
+  "timestamp": 1546680018000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|譯|译}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|譯|訳|译}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Japanese shinjitai {{Han simp|譯|f=睪|t=尺|nocap=y}}"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=149|rad=言|as=04|sn=11|four=|canj=YRSO|ids=⿰言尺}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1152.121|dkj=35324|dj=1618.230|hdz=63951.071|uh=8A33|ud=35379}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|訳|譯}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=言04|kyu=譯}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=やく\n|kanon=えき\n|kun=わけ-, とく\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|わけ|y=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|わけ|kyu=譯}}\n\n# [[conclusion]]\n# [[meaning]], [[sense]]\n#: {{ja-usex|'''訳''' で は ない|'''わけ''' で は ない|it is not '''because''' ..., it is not '''the case''' that ...}}\n#: {{ja-usex|'''わけ''' じゃ ない|'''わけ''' じゃ ない|it is not '''because''' ..., it is not '''the case''' that ...}}\n#: {{ja-usex|SELinux 自%体 に 問題 が ある '''訳''' で は ありません。|SELinux じ%たい に もんだい が ある '''わけ''' で は ありません。|This does not mean that there is a problem in SELinux itself.}}\n# [[reason]] (for), [[cause]]\n# [[circumstances]]"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|為|ため}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|やく|y=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|やく|kyu=譯}}\n\n# [[translation]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Verb",
+                  "text": "{{ja-verb-suru|やく|kyu=譯}}\n\n# to [[translate]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Conjugation",
+                      "text": "{{ja-suru|やく}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|訳語|やくご|[[translated]] [[word]]}}\n* {{ja-r|訳者|やくしゃ|[[translator]]}}\n* {{ja-r|翻訳|ほんやく|[[translation]]}}\n* {{ja-r|通訳|つうやく|[[interpreting]]}}\n* {{ja-r|意訳|いやく|[[free]] [[translation]], [[liberal]] [[translation]]}}\n* {{ja-r|直訳|ちょくやく|[[literal]] [[translation]]}}\n* {{ja-r|和訳|わやく|[[Japanese]] [[translation]]}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

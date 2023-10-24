@@ -1,0 +1,128 @@
+{
+  "title": "吠",
+  "ns": 0,
+  "id": 12124,
+  "timestamp": 1528008328000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=04|sn=7|four=63034|canj=RIK|ids=⿰口犬}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𦜀]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0177.220|dkj=03331|dj=0395.040|hdz=10587.020|uh=5420}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𠲎}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|口|犬|ls=ic|t1=mouth|t2=dog}} – to bark."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fèi\n|m-s=\n|c=fai6\n|c-t=\n|g=\n|h=pfs=phoi\n|j=\n|md=\n|mn=ml,tp,kh,tn,sx,yl,km,mg,hc,tc:pūi/lk:pǔi/hūi\n|mn_note=pūi/pǔi - vernacular; hūi - literary\n|mn-t=bui7\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|of a dog}} to [[bark]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|吠非其主|夜珠吠陀|吠影吠聲|吠堯|吠舍|吠陀|吠日|吠形吠聲|桀犬吠堯|狂吠|犬吠之警|狗吠之警|犬不夜吠|狗吠非主|狗吠之驚|犬吠之盜|越犬吠雪|阿吠斯陀|蜀犬吠日|跖狗吠堯|跖犬吠堯|黎俱吠陀|驢鳴犬吠|粵犬吠雪|邑犬群吠|雞鳴狗吠|雞鳴犬吠|狗吠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{qualifier|Min Nan}} {{thcwd|2971}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口04}}\n\n# {{defn|lang=ja|sort=口04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ばい\n|kanon=はい\n|kun=ほ-える, ほえ-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|狗吠|くはい}}: the [[barking]] of a dog, or the sound thereof\n* {{ja-r|犬吠|けんばい}}: the [[barking]] of a dog, or the sound thereof\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=폐|rv=pye|mr=p'ye|y=phyey}}\n\n# {{defn|lang=ko|sort=口04}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[phệ]], [[phịa]]|rs=口04}}\n\n# {{defn|lang=vi|sort=口04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5420 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

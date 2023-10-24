@@ -1,0 +1,80 @@
+{
+  "title": "稵",
+  "ns": 0,
+  "id": 22460,
+  "timestamp": 1530357146000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In Chinese, the right component is <big>{{l|mul|兹}}</big>, which is the orthodox form found in the {{w|Kangxi dictionary}}.\n* In Japanese {{w|kanji}} and Korean {{w|hanja}}, the right component is <big>{{l|mul|茲}}</big>, which contains the grass radical which is written 3 strokes in Japan and 4 strokes in Korean."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=115|rad=禾|as=09|ask+=10|sn=14|snk+=15|four=28932|canj=HDTVI|ids=⿰禾兹(GT),⿰禾茲(JK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0857.160|dkj=25204|dj=1282.270|hdz=42620.120|uh=7A35}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zī\n|c=\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾10}}\n\n# {{defn|lang=ja|sort=禾10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|on=[[し]] (shi), [[しゅう]] (shū)|kun=[[うえる]] (ueru), [[まく]] (maku), [[ます]] (masu)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

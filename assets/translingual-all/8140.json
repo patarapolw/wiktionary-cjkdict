@@ -1,0 +1,135 @@
+{
+  "title": "丿",
+  "ns": 0,
+  "id": 8140,
+  "timestamp": 1553546561000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ノ}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=4|rad=丿|as=00|sn=1|four=20000|canj=H,XH}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/丿]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0081.060|dkj=00106|dj=0164.070|hdz=10031.020|uh=4E3F}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=piě\n|c=pit3\n|h=pfs=phiet\n|mn=phiat\n|w=\n|mc=2\n|oc=1\n|ma=|ma2=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# left-falling stroke, usually read as {{zh-l|*撇}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=yì\n|mc=1\n|oc=2\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hist-ghost}} to [[arrive]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=r|rs=丿00}}\n\n# [[katakana]] [[ノ]] (no) radical (ノのかんむり)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|nanori=の\n}}\n\n“Curving from right to left; raising one's head and standing upright”：\n{{ja-readings\n|goon=へち, よう<えう\n|kanon=へつ, よう<えう\n}}\n\n“Arrive”:\n{{ja-readings\n|goon=えい\n|kanon=えい\n|kun=いた-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "{{ja-kref\n|jis=5028\n|ku=4808\n|shift=98A6\n|euc=D0A8\n|freq=''radical''\n|nelson=''not listed''\n|newnelson=39\n|halpern=3345\n|kld=''not listed''\n|heisig=''not listed''\n|tuttle=0a1.2\n}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|별}}\n\n# [[line]]\n# KangXi radical 4"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=丿00|reading=phết, phảy, phiết, phiệt, phút, phịch, triệt, thiên, phét}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* [[音読|âm]]: {{l|vi|phiết}}, {{l|vi|triệt}}, {{l|vi|phiệt}}, {{l|vi|phảy}}, {{l|vi|phết}}, {{l|vi|thiên}}, {{l|vi|phút}}, {{l|vi|phét}}, {{l|vi|phịch}}\n* [[意義|nghĩa]] (''literal meaning''): {{l|vi|phết}}; {{l|vi|phiết}}; nét phẩy; dấu phẩy; phút chốc"
+                },
+                {
+                  "level": 4,
+                  "title": "Further reading",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=4e3f Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

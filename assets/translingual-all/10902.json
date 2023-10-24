@@ -1,0 +1,111 @@
+{
+  "title": "侮",
+  "ns": 0,
+  "id": 10902,
+  "timestamp": 1553325889000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA30}}\n{{character info|0x2F805}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=07|asj=06|sn=9|snj=8|four=28257|canj=OOWY|ids=⿰亻每(GHTKV),⿰亻毎(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0103.010|dkj=00629|dj=0218.170|hdz=10163.010|uh=4FAE|ud=20398|bh=AB56|bd=43862}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=㑄:ancient form}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wǔ\n|c=mou5\n|mn=bú\n|mc=y\n|oc=y\n|ma=\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[insult]], [[ridicule]], [[disgrace]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|侮手侮腳|公然侮辱|侮辱|共禦外侮|卑侮|侮慢|侵侮|外侮|不侮暗室|侮蔑|侮手|折衝禦侮|狎侮|禦侮|欺侮|自侮|輕侮}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=人07|kyu=侮}} <!-- 侮 (U+FA30) is the kyūjitai form (CJK Compatibility ideograph) -->\n\n# [[contempt]], [[disdain]], [[scorn]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=む\n|kanon=ぶ\n|kun=あなど-る, あなど-り, あなず-る, あなず-り\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=모|rv=mo|mr=mo}}\n\n# {{defn|lang=ko|sort=人07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[vũ]], [[vụ]]|rs=人07}}\n\n# {{defn|lang=vi|sort=人07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=4fae Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

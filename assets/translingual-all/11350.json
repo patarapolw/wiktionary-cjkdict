@@ -1,0 +1,51 @@
+{
+  "title": "儫",
+  "ns": 0,
+  "id": 11350,
+  "timestamp": 1548936805000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=14|sn=16|four=|canj=OYRO|ids=⿰亻豪}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0121.040|dkj=01240|hdz=10231.120|uh=512B|ud=20779}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|豪|a}}"
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=호|rv=ho|mr=ho}}\n\n# {{defn|lang=ko|sort=人14}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

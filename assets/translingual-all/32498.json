@@ -1,0 +1,82 @@
+{
+  "title": "鳱",
+  "ns": 0,
+  "id": 32498,
+  "timestamp": 1535123809000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=196|rad=鳥|as=03|sn=14|four=17427|canj=MJHAF|ids=⿰干鳥}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1482.030|dkj=46659|dj=2013.220|hdz=74615.050|uh=9CF1|ud=40177|bh=E4E2|bd=58594}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=gān\n|c=gon1\n|g=\n|j=\n|mb=\n|md=\n|mn=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|鳱鵲||鳱鵠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=hàn\n|c=hon6\n|g=\n|j=\n|mb=\n|md=\n|mn=\n|w=\n|x=\n|cat=\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|鳱鴠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|m=yàn\n|c=\n|g=\n|j=\n|mb=\n|md=\n|mn=\n|w=\n|x=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|鴈}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

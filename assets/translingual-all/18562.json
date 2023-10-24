@@ -1,0 +1,191 @@
+{
+  "title": "氐",
+  "ns": 0,
+  "id": 18562,
+  "timestamp": 1537014967000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=83|rad=氏|as=01|sn=5|four=72740|canj=HPM,HVPI|ids=⿱氏丶(G),⿱氏一(HTJ),⿹氏一(K)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "As a component of complex characters, may have sense of “down, low” from the bowing, stooping figure, as in [[低]] and [[底]]; compare more abstract [[下]]."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[低]], [[厎]], [[底]], [[抵]], [[邸]], [[骶]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0597.190|dkj=17027|dj=0988.310|hdz=32130.020|uh=6C10|ud=27664|bh=A5C2|bd=42434}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp|zh:氐|en:Di (Five Barbarians)}}\n{{zh-wp|zh:氐宿|en:Root (Chinese constellation)}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|氏|t1=(bowing figure)|一|ls=p}} – as with 氏, but with a line underneath: a bowing figure standing on the ground."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=dī\n|c=dai1\n|mn=tí/te\n|mn-t=di1\n|mc=2\n|oc=1\n|cat=n\n}}\n{{attention|zh|what is mc reading 1 (mandarin reflex \"zhi\")?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{w|Di (Five Barbarians)|Di}} {{gloss|[[ethnic group]]}}\n# {{lb|zh|astronomy}} {{w|Root (Chinese constellation)|Root}} {{gloss|Chinese [[constellation]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|氐宿|氐族|氐羌|氐士貉}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=dǐ\n|c=dai2\n|mn=té\n|mn-t=di2\n|mc=\n|oc=2\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[basis]]; [[fundamental]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|根氐}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A02110}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=氏01}}\n\n# {{w|Di (Five Barbarians)|Di}} {{gl|[[ancient]] [[ethnic group]] in [[west]]ern China}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n\nFrom {{bor|ja|ltc|sort=てい|-}} {{ltc-l|氐|id=1|Di; {{w|Root (Chinese constellation)|Root}} [[mansion]]}}:\n{{ja-readings\n|goon=だい\n|kanon=たい, てい\n}}\n\nFrom {{bor|ja|ltc|-}} {{ltc-l|氐|tr=*ʈiɪ|[[basis]], [[fundamental]]}}:\n{{ja-readings\n|goon=じ<ぢ\n|kanon=ち\n|kun=ふもと-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|氐宿|^ともぼし}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "<div style=\"float:right;\">\n{{wp|lang=ja|テイ宿}}\n{{wp|Root (Chinese constellation)}}\n{{wp|lang=ja|テイ (民族)}}\n{{wp|Di (Five Barbarians)}}\n</div>\n{{ja-kanjitab|てい|yomi=o}}\n\nFrom {{bor|ja|ltc|sort=てい|-}} {{ltc-l|氐|id=1}}, compare modern {{cog|cmn|氐|tr=dī}}.\n\nUsed in {{w|Old Japanese}} as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨te⟩}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=ko|てい|acc=1|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|てい}}\n\n# {{lb|ja|Chinese astronomy}} Root, one of the {{w|Twenty-Eight Mansions}}\n#: {{syn|ja|氐宿|tr=Teishū, Tei-shuku|とも星|tr2=Tomoboshi}}\n# {{lb|ja|historical}} Di: an [[ancient]] [[ethnic group]] in [[west]]ern China\n#: {{hyper|ja|五胡|tr=Goko}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|てんびん座|^てんびん-ざ|[[Libra]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=저|eumhun=|rv=jeo|mr=chŏ|y=ce}}\n\n# the foundation, the basis, the origin"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[đê]]|rs=氏01}}\n\n# {{defn|lang=vi|sort=氏01}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=6c10 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

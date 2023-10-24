@@ -1,0 +1,104 @@
+{
+  "title": "雫",
+  "ns": 0,
+  "id": 30807,
+  "timestamp": 1552105855000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=173|rad=雨|as=03|sn=11|four=|canj=MBMY|ids=⿱雨下}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1371.301|dkj=42219|hdz=64057.060|uh=96EB|ud=38635}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|lang=ko|Japanese coined character?}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=nǎ,nuán\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{uncertain|zh|nohypothesis=y}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Appears only in the ''{{w|Longkan Shoujian}}''."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-see-also|滴}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=雨03}}\n\n# [[raindrop]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=な\n|kanon=だ, だん\n|kun=しずく-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-kanjitab|しずく|yomi=k}}\n{{ja-noun|しずく|hhira=しづく}}\n\n# {{alternative form of|滴|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|雨%雫|あめ%しずく}}\n* {{ja-r|末の露、本の雫|すえ の つゆ、もと の しずく}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|しずく|proper}}\n\n# {{surname|lang=ja|sort=しずく}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "{{ja-kref\n|jis=3C36\n|ku=2822\n|shift=8EB4\n|euc=BCB6\n|freq=2219\n|nelson=5043\n|newnelson=6519\n|halpern=2760\n|kld=''not listed''\n|heisig=2778\n|tuttle=8d3.1\n}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

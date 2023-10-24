@@ -1,0 +1,102 @@
+{
+  "title": "奥",
+  "ns": 0,
+  "id": 13566,
+  "timestamp": 1519699807000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|奧}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|奥|奥|[[奧]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=37|rad=大|as=09|sn=12|four=|canj=HBK,XHBK|ids=⿱⿵⿱丿冂米大}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0253.151|dkj=05981|hdz=10545.070|uh=5965|ud=22885}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|奧|sv}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|奥|奧}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=大09|kyu=奧}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おう<あう, おく<をく\n|kanon=いく<ゐく, おう<あう\n|kanyoon=おく<をく\n|kun=おく-, おく-まる\n|nanori=くま, おお, おん, つ, のく\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=k|おく}}\nDespite the apparent overlap with the modern [[呉音#Japanese|''goon'']] reading of ''oku'' that is derived from {{cog|ltc|-}}, this term is actually rooted in {{der|ja|ojp|-|sort=おく}}, appearing in the ''{{w|Man'yōshū}}'' collection of poetry dating to roughly 759 CE. Cognate with {{m|ja|沖|tr=oki|t=the open sea, offshore}}, originally in reference to “somewhere far removed, possibly out of sight”. While ''oki'' came to mean “far removed in the wide open → far off shore”, ''oku'' instead came to mean “far removed inside → inside, interior”.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|おく|acc=1|acc_ref=DJR,SMK5}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おく}}\n\n# [[inside]]; [[inner]] [[depth]]s\n# [[back]], [[rear]]\n# inside the house\n# one's [[heart]], true feelings",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|奥まる|おくまる}}: to have a deep recess, to be deeply recessed, to have a deep interior\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|おく|proper}}\n\n# {{surname|lang=ja|sort=おく}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese basic words|おく]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[오]], [[욱]]|rv=o, uk|mr=o, uk}}\n\n# {{defn|lang=ko|sort=大09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

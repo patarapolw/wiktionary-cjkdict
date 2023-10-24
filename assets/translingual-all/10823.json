@@ -1,0 +1,101 @@
+{
+  "title": "佢",
+  "ns": 0,
+  "id": 10823,
+  "timestamp": 1547508569000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=05|sn=7|four=21217|canj=OSS|ids=⿰亻巨}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0100.021|dkj=00538|hdz=10120.050|uh=4F62|ud=20322|bh=CA5C|bd=51804}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=渠,𠍲,伊-S. Sixian Hakka:yì}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From the initial ''*k''-series of Old Chinese third-person pronouns, cognate with {{och-l|其|id=2}}. Also compare {{cog|mkh-pro|*ge(e)ʔ}}, whence {{cog|km|គេ||they; he; she}} ({{zh-ref|Schuessler, 2007}}).\n\nIn standard Cantonese, the tone has assimilated with the other personal pronouns: {{zh-l|我|tr=ngo<sup>5</sup>}}, {{zh-l|你|tr=nei<sup>5</sup>}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qú\n|c=keoi5,heoi5\n|c_note=heoi5 - nonstandard, chiefly Hong Kong\n|c-t=kui1\n|g=qie2\n|h=pfs=kì/s:yì;gd=gi2\n|mb=gṳ̀\n|cat=pron\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese|Hakka|Gan|Min Bei|vernacular}} [[he]], [[him]]; [[she]], [[her]]; [[it]] {{gloss|third person singular pronoun}}\n#: {{zh-x|佢 個 鼻 好 大。|'''His/ her''' nose is very big.|C-GZ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|他}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人05}}\n\n# {{defn|lang=ja|sort=人05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=きょ|kun=かれ}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[cừ]]|rs=人05}}\n\n# {{defn|vi}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=4f62 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

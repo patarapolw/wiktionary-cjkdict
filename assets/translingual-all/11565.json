@@ -1,0 +1,70 @@
+{
+  "title": "刉",
+  "ns": 0,
+  "id": 11565,
+  "timestamp": 1534440567000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=18|rad=刀|as=03|sn=5|four=82700|canj=ONLN|ids=⿰乞刂}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0136.140|dkj=01863|dj=0307.100|hdz=10324.050|uh=5209|ud=21001|bh=C9BE|bd=51646}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jī\n|c=gei1\n|mc=\n|oc=\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=刀03}}\n\n# {{defn|lang=ja|sort=刀03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[き]] (ki), [[け]] (ke)|kun=[[たつ]] (tatsu)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

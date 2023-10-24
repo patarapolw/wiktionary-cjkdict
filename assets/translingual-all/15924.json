@@ -1,0 +1,75 @@
+{
+  "title": "戙",
+  "ns": 0,
+  "id": 15924,
+  "timestamp": 1550896583000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=62|rad=戈|as=06|sn=10|four=73250|canj=BRI|ids=⿰同戈}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0412.320|dkj=11585|dj=0755.200|hdz=21405.140|uh=6219|ud=25113|bh=D1AF|bd=53679}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=dòng\n|c=dung6\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[pole]] of a [[punt]]\n# {{†}} [[mooring post]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=棟}}\nProbably a {{der|yue|qfa-tak}} substrate. Compare {{cog|za|daengj||to erect}}, {{cog|th|ตั้ง||to erect}}, {{cog|mmd|tang¹||to erect}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=dung6\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} to [[erect]]; to make [[upright]]\n# {{lb|zh|Cantonese}} to [[stand]] like a [[pillar]]\n# {{lb|zh|Cantonese}} {{zh-classifier|objects organised in [[vertical]] [[column]]s}}\n#: {{zh-x|一 戙 磚|a ''column'' of bricks|C}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

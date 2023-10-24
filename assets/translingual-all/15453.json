@@ -1,0 +1,109 @@
+{
+  "title": "恇",
+  "ns": 0,
+  "id": 15453,
+  "timestamp": 1535466393000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=61|rad=心|as=06|sn=9|four=91011|canj=PSMG|ids=⿰忄匡}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0383.280|dkj=10529|dj=0714.040|hdz=42293.110|uh=6047}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|心|匡|ls=psc|c1=s|c2=p|t1=heart}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Related to {{och-l|懼|to fear}} ({{zh-ref|Schuessler, 2007}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=kuāng\n|c=hong1\n|mc=y\n|oc=y\n|cat=v,a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} to [[fear]]; to be [[cowardly]]\n# {{†}} [[weak]]\n# {{†}} to [[expect]]; to [[anticipate]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|害怕}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|恇怯|恇駭|恇懼|恇擾}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B01092}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=心06}}\n\n# [[fear]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[きょう]] (kyō), [[こう]] (kō)|kun=[[つね]] (tsune), [[おそれる]] (osoreru), 【古語】[[おづ]] (ozu)/[[おじける]] (ojikeru)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=광|eumhun=|rv=gwang|mr=kwang|y=kwang}}\n\n# [[fear]]\n# [[weak]], [[tender]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

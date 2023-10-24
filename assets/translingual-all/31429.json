@@ -1,0 +1,68 @@
+{
+  "title": "餸",
+  "ns": 0,
+  "id": 31429,
+  "timestamp": 1495668088000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=184|rad=食|as=10|sn=19|four=|canj=OIYTK|ids=⿰飠送}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1424.171|hdz=74468.070|uh=9938|ud=39224}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𩠌}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|送|sung3|to accompany (a staple food)}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=sòng\n|c=sung3\n|ca=Yue-送.oga\n|c-t=lhuung4\n|h=\n|md=\n|mn=\n|w=\n|mc=\n|oc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} a [[dish]] served to accompany [[rice]] or other [[staple]] food\n#: {{zh-x|今晚{maan5-1} 食 乜 餸 啊{aa3}？|What are we eating tonight? (''lit.'' What '''dishes''' are we eating '''with our rice''' tonight?)|C}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|菜}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|煮餸|買餸|飯餸}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

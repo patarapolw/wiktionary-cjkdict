@@ -1,0 +1,61 @@
+{
+  "title": "黢",
+  "ns": 0,
+  "id": 33069,
+  "timestamp": 1547133489000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=203|rad=黑|as=07|sn=19|four=|canj=WFICE|ids=⿰黑夋}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1520.070|dkj=48101|dj=2054.140|hdz=74749.180|uh=9EE2|ud=40674}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|黑|夋|c1=s|c2=p|t1=black|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qū,qù\n|cat=a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[black]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|黑黢黢|黢黑}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

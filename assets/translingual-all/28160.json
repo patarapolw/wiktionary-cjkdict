@@ -1,0 +1,61 @@
+{
+  "title": "躟",
+  "ns": 0,
+  "id": 28160,
+  "timestamp": 1495667551000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=157|rad=足|as=17|sn=24|four=60132|canj=RMYRV|ids=⿰𧾷襄}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1236.180|dkj=37999|dj=1709.020|hdz=63750.050|uh=8E9F|ud=36511|bh=F8C4|bd=63684}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=ráng,rǎng\n|c=nong5\n|mc=y\n|oc=y\n|cat=\n}}\n{{attention|zh|cmn tone difference prc vs. tw?}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

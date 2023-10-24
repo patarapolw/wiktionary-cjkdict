@@ -1,0 +1,85 @@
+{
+  "title": "㬈",
+  "ns": 0,
+  "id": 4056332,
+  "timestamp": 1553310129000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8D0}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=72|rad=日|as=09|sn=13|canj=|four=|ids=⿰日昷, ⿰日𥁕}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0498.230|dkj=14087|dj=|hdz=21523.120|uh=3B08}}<!-- NOTE: ALSO 14061 in DKJ! -->"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|日|𥁕|ls=psc|c1=s|c2=p|t1=sun}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|zh|from 溫?}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wēn\n|c=wan1\n|cat=a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} [[warm]] because of the [[sun]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=日10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=おん<をん\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:DKJ|㬈}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

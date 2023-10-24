@@ -1,0 +1,131 @@
+{
+  "title": "斧",
+  "ns": 0,
+  "id": 16842,
+  "timestamp": 1549587174000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=69|rad=斤|as=04|sn=8|four=80221|canj=CKHML|ids=⿱父斤}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0479.080|dkj=13539|dj=0838.040|hdz=32023.100|uh=65A7|ud=26023|bh=A9F2|bd=43506}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n\n{{Han compound|父|斤|c1=p|c2=s|t2=axe|ls=psc}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fǔ\n|m-s=\n|c=fu2\n|c-t=\n|g=\n|h=pfs=pú/fú\n|j=\n|mb=\n|md=\n|mn=qz,tw,xm:pó͘/zz:phú/hú\n|mn_note=pó͘/phú - vernacular; hú - literary\n|mn-t=bou2\n|w=2fu\n|x=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[axe]], [[hatchet]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|斧斤|斧頭|斧削|斧鑿|斧鑿痕|斧正|斧政|斧子}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Axt zum spalten1.jpg|250px|thumb|斧]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=斤04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ふ\n|kanon=ふ\n|kun=おの-<をの-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-l|斧鉞}}\n* {{ja-l|斧鑿}}\n* {{ja-l|斧正}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おの|yomi=k}}\n{{swp|lang=ja}}\nFrom {{inh|ja|jpx-pro|sort=おの|*wənə}}. Cognate with {{cog|yoi|斧|tr=ぶぬ, bunu}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=1|y=k|おの}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|おの|hhira=をの|オノ|hkata=ヲノ}}\n\n# [[axe]]\n#* {{RQ:Konkōmyō Saishōōkyō Ongi|9 (back)}}\n#*: 斧 '''乎乃'''\n#* {{quote-book|||{{lj|[STARTER DECK](スターターデッキ)}}\n|||date=Mar 15 2008\n|publisher={{w|Konami}}\n|lang=ja\n|chapter={{lj|アックス・レイダー}}\n|trans-chapter=Axe Raider}}\n#*: {{ja-usex|'''オノ'''を持つ戦%士。片%手で'''オノ'''を振り回す攻%撃はかなり強い。|'''オノ''' を もつ せん%し。かた%て で '''オノ''' を ふりまわす こう%げき は かなり つよい。|An axe-wielding warrior. He swings his axe with only one arm, yet he can deal quite some heavy blows.}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Konkōmyō Saishōōkyō Ongi}}\n\n{{C|ja|Tools|Weapons|sort=おの}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=부}}\n\n# {{defn|lang=ko|sort=斤04}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=斤04|nom=búa|hanviet=phủ}}\n\n# {{defn|lang=vi|sort=斤04}}\n\n{{cln|vi|Han tu}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": "珊",
+  "ns": 0,
+  "id": 20715,
+  "timestamp": 1528546890000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Due to {{w|Han unification}}, the {{w|Traditional Chinese|traditional form}} containing {{l|mul|冊}} and {{w|Simplified Chinese|simplified form}} containing {{l|mul|册}} are encoded under the same [[code point]]. Depending on the font installed, this character may appear to be either <font size=4.5, lang=\"zh-hant\">珊 </font> or <font size=4.5, lang=\"zh-hans\">珊</font>."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=96|rad=玉|as=05|sn=9|four=17140|canj=MGBBM,MGBT|ids=⿰𤣩册(GV),⿰𤣩冊(HTJK)}}\n\n# [[coral]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𭹝]]}} ''(Note: Contains <small>{{l|mul|⿰[[𤣩]][[𠕁]]}}</small>)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0729.230|dkj=20917|dj=1141.130|hdz=21108.050|uh=73CA}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shān\n|c=saan1\n|mn=ml:san/tw:soan\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|媻珊|意興闌珊|春事闌珊|春意闌珊|桃葉珊瑚|涼珊珊|燈火闌珊|珊珊|珊瑚|珊瑚在網|珊瑚婚|珊瑚島|珊瑚樹|珊瑚礁|珊瑚菜|珊瑚蟲|綠珊瑚|蜈蚣珊瑚|鐵網珊瑚|闌珊}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=玉05}}\n\n# {{defn|lang=ja|sort=玉05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さん\n|kanon=さん\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=산|eumhun=|rv=san|mr=san|y=san}}\n\n# {{defn|lang=ko|sort=玉05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[san]]|rs=玉05}}\n\n# {{defn|lang=vi|sort=玉05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

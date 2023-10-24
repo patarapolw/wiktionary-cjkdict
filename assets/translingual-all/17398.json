@@ -1,0 +1,87 @@
+{
+  "title": "枰",
+  "ns": 0,
+  "id": 17398,
+  "timestamp": 1495665336000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=75|rad=木|as=05|sn=9|four=|canj=DMFJ|ids=⿰木平}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0517.040|dkj=14580|dj=0905.010|hdz=21180.080|uh=67B0|ud=26544|bh=AC69|bd=44137}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=píng\n|c=ping4\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[smooth]] [[board]]\n# [[chessboard]]\n# [[chess]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木05}}\n\n# {{defn|lang=ja|sort=木05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[へい]] (hei), [[びょう]] (byō)|kun=[[すごろくばん]] (sugorokuban)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[평]]|eumhun=|rv=pyeong|mr=p'yŏng|y=phyeng}}\n\n# {{defn|lang=ko|sort=木05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

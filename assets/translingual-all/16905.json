@@ -1,0 +1,119 @@
+{
+  "title": "无",
+  "ns": 0,
+  "id": 16905,
+  "timestamp": 1552851655000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|無|天}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=4}}\n{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=71|rad=无|as=00|sn=4|four=10412|canj=MKU|ids=⿱一尢}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* All characters sorted under this radical are actually derived from {{l|mul|旡}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "<!-- [[Index:Chinese radical/无]] --> <!-- Note: Most characters found in the radical index contain 旡 instead of 无. -->\n* {{l|mul|[[呒]], [[𪢸]], [[妩]], [[𭘓]], [[怃]], [[抚]], [[𣲘]], [[𬂠]], [[𭴊]], [[䥻]]<!-- Note: traditional form ⿰釒無 or ⿰釒无 does not exist in Unicode -->, [[庑]], [[芜]]}} {{q|Contains [[Simplified Chinese|simplified]] component of {{l|mul|無}}}}\n* {{l|mul|[[𩇳]], [[𡯊]], [[𮬫]], [[𡆶]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[無]]}} {{q|Orthodox [[Traditional Chinese|traditional form]] of {{lang|mul|无}}}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|ja|ん}} {{q|[[hiragana|Hiragana]] character derived from [[man'yōgana]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0485.230|dkj=13716|dj=0847.260|hdz=21147.120|uh=65E0}}\n\n[[Category:CJKV radicals]]\n[[Category:Han characters from which hiragana were derived|ん]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-wp|zh:无部|en:Radical 71}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\nOne of the three characters ({{m|zh|無}}, {{m|zh|无}}, {{m|zh|亡}}) that have historically been used to represent the word \"no, not any\". First attested in the {{w|Warring States period}}; used interchangeably with {{m|zh|無}} until the {{w|Tang dynasty}}. Readopted by the {{w|People's Republic of China|PRC}} in 1956.\n\nThe origin of this character is unknown. Probably an ancient variant form of either {{m|zh|元}}, {{m|zh|天}} or {{m|zh|堯}}."
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|無|sv}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja|无部}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=无00}}\n\n# {{alternative form of|無|lang=ja||[[nothing]]; [[nothingness]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=ぶ, む\n|kun=ない\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja/new|무}}\n\n# {{defn|lang=ko|sort=无00}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=无00\n|hanviet=vô-tdcntd;gdhn\n|phienthiet=\n|nom=vô-tdcntd\n}}\n\n# {{defn|lang=vi|sort=无00}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "title": "廊",
+  "ns": 0,
+  "id": 15062,
+  "timestamp": 1553313852000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xF928}}\n{{character info|0x2F88E}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=53|rad=广|as=09|sn=12|four=00227|canj=IIIL|ids=⿸广郎(GHTJ),⿸广郞(KV)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𭏱]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0349.130|dkj=09437|dj=0660.010|hdz=20890.030|uh=5ECA}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=láng\n|c=long4\n|mn=lông\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[corridor]]\n# [[porch]], [[veranda]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|屧廊|廊子|廊廟|廊廟器|廊廟宰|廊廟材|廊廡|廊簷|廊腰|廊院|廟廊之彥|抄手遊廊|拱廊|柱廊|步廊|河西走廊|波蘭走廊|畫廊|空中走廊|穿廊|藝廊|走廊|超手遊廊|迴廊|遊廊|遼西走廊|酒廊|長廊|響屧廊|髮廊}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=广09}}\n\n# {{defn|lang=ja|sort=广09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ろう\n|kanon=ろう\n|kun=わたどの-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|画廊|がろう|[[gallery]]}}\n* {{ja-r|歩廊|ほろう|[[corridor]]; [[platform]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ろう|yomi=o}}\nFrom {{etyl|ltc|ja|sort=ろう}} {{m|zh|廊|tr=lang||side-gallery}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=o|ろう|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ろう}}\n\n# [[corridor]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja/new|복도|랑||낭}}\n\n# {{defn|lang=ko|sort=广09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[lang]], [[láng]], [[làng]], [[sang]]|rs=广09}}\n\n# [[village]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Chữ Nôm. The modern Vietnamese word for village is [[làng]].\n* This character only means village in Vietnamese chữ Nôm. In Chinese, this character has a different meaning. The Chinese word for village is [[村]]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

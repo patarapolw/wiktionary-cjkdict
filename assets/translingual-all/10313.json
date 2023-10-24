@@ -1,0 +1,90 @@
+{
+  "title": "㓣",
+  "ns": 0,
+  "id": 10313,
+  "timestamp": 1531837757000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=18|rad=刀|as=06|sn=8|four=82600|canj=ORLN|ids=⿰合刂}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[箚]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0139.080|hdz=10336.080|uh=34E3}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=⿰⿱⺈𦥑刂<!-- Note: 𠜼 is listed as a separate character in Dictionary of Chinese Character Variants. Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QzAwNTk5 -->}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=qià\n|c=zak6\n|mc=y\n|oc=\n|ma=\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hg}} to [[sink]] into; to [[pierce]] <!-- 《廣韻·洽韻》 㓣，入也。 《集韻·洽韻》 㓣，陷也。 《正字通·刀部》 㓣，刺入也。 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|C00565}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "Found in the historical {{w|Yupian}} 《{{w2|zh|玉篇}}》 dictionary from the {{w|Liang dynasty}} (543 AD)."
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|割|ha}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|A00366-008#24}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

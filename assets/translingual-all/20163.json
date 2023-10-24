@@ -1,0 +1,56 @@
+{
+  "title": "熵",
+  "ns": 0,
+  "id": 20163,
+  "timestamp": 1504872797000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=11|sn=15|four=90827|canj=FYCB|ids=⿰火商}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0681.141|hdz=32229.140|uh=71B5|ud=29109|bh=E669|bd=58985}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|火|商|c1=s|c2=p|t1=fire|t2=quotient|ls=psc}}\n\nCoined by Chinese physical scientist Hu Gangfu ({{l|zh|w:zh:胡剛復|胡剛復}}) in 1923 to translate the concept of [[entropy]] in thermodynamics, where {{m|zh|商||[[quotient]]}} represents the quotient of [[heat]] and [[temperature]], and {{m|zh|火||fire}} represents its relation to [[thermodynamics]]."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shāng\n|c=soeng1\n|h=pfs=sông\n|md=siŏng\n|mn=siong\n|w=1saan\n|mc=\n|oc=\n|ma=\n|cat=n,pn,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[entropy]] (in [[physics]], [[information theory]], etc.)\n\n{{zh-cat|Physics}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "title": "絁",
+  "ns": 0,
+  "id": 23278,
+  "timestamp": 1552876125000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=120|rad=糸|as=05|sn=11|four=28912|canj=VFOPD|ids=⿰糹㐌}}\n\n# rough, indelicate silk",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0920.260|dkj=27371|dj=1353.080|hdz=53383.070|uh=7D41|ud=32065|bh=D6EA|bd=55018}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shī\n|c=si1\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=糸05}}\n\n# [[rough]], [[indelicate]] [[silk]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=あしぎぬ-, つむぎ-, ふと.おり-, ふとぎぬ-\n|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Used in the ''{{w|Nihon Shoki}}'' (720 {{CE}}) as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨si⟩}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あしぎぬ|yomi=k}}\n\nFirst attested in the ''{{w|Wamyō Ruijushō}}'' (938 {{CE}}).\n\nCompound of {{compound|ja|sort=あしきぬ|悪し|tr1=ashi|t1=[[crude]], [[rough]]|絹|tr2=kinu|t2=[[silk]]}}.<ref>{{R:Daijirin}}</ref> {{rendaku2|kinu|ginu|sort=あしきぬ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あしぎぬ}}\n\n# {{rfdef|ja}}\n#: {{syn|ja|太絹|tr=futoginu}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ふとおり|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふと.おり}}\n\n# {{altspell|lang=ja|太織り|tr=futoori|nodot=1}}: {{rfdef|ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|ふとぎぬ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ふとぎぬ}}\n\n# {{altspell|lang=ja|太絹|tr=futoginu|nodot=1}}: {{rfdef|ja}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

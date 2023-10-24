@@ -1,0 +1,114 @@
+{
+  "title": "尢",
+  "ns": 0,
+  "id": 14306,
+  "timestamp": 1553314436000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ㄤ|尤|尣}}\n{{character info/new}}\n{{character info|0x2F875}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=43|rad=尢|as=00|sn=3|four=40010|canj=KU,XKU|ids=⿸𠂇乚}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/尢]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|mul|ㄤ}} ''({{w|Bopomofo|Zhuyin alphabet}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0298.020|dkj=07539|dj=0593.010|hdz=10551.100|uh=5C22}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etyl}}\n{{liushu|i}}, a man with bent legs (jumping or collapsing). Compare with {{zh-l|*大}}, which derives from a man with straight legs, and in present form has slightly different strokes."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|alt=兀,𡯁,尣,𡯂}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=wāng\n|c=wong1\n|h=\n|mn=ong\n|w=\n|mc=y\n|oc=\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} [[lame]]; [[crippled]]"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{zh-l|尪}} {{attn|zh|is this an alt form of 尪?}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|尤|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=尢00}}\n\n# {{defn|lang=ja|sort=尢00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[おう]] (ō)|kun=[[あしなえ]] (ashinae), [[せむし]] (semushi)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[uông]], [[vưu]]|rs=尢00}}\n\n# {{defn|lang=vi|sort=尢00}}\n\n[[Category:CJKV radicals]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

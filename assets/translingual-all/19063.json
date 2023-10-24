@@ -1,0 +1,89 @@
+{
+  "title": "淃",
+  "ns": 0,
+  "id": 19063,
+  "timestamp": 1553555046000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=08|sn=11|four=|canj=EFQU|ids=⿰氵卷}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0629.020|dkj=17614|dj=1030.200|hdz=31653.040|uh=6DC3}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=juàn\n|c=gyun6\n|mc=y\n|oc=y\n|ma=\n|cat=n,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-used in|淃漣}}\n# {{n-g|The [[name]] of a [[river]].}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:yue:Jyutping Database}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|권}}\n\n# {{defn|lang=ko|sort=水08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=水08|reading=cuộn}}\n\n# {{defn|lang=vi|sort=水08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Further reading",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=6dc3 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

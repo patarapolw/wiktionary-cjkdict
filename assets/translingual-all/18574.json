@@ -1,0 +1,80 @@
+{
+  "title": "氜",
+  "ns": 0,
+  "id": 18574,
+  "timestamp": 1525160780000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=84|rad=气|as=04|sn=8|four=|canj=ONA|ids=⿹气日}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0599.060|dkj=17049|dj=0990.190|hdz=32010.100|uh=6C1C|ud=27676}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|气|t1=gas; air|日|t2=sun|ls=ic}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{zh-l|日|sun}}. Influenced by {{cog|en|helium}}, which comes from {{cog|grc|ἥλιος||sun}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=rì\n|ma=\n|c=\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=\n|oc=\n|cat=a,n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|obsolete}} [[helium]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{zh-l|氦}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|陽|v}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|N00005}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

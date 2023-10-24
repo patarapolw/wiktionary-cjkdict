@@ -1,0 +1,118 @@
+{
+  "title": "嘿",
+  "ns": 0,
+  "id": 12718,
+  "timestamp": 1554052603000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|lang=mul|phono-semantic compound?}}"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=12|sn=15|four=66031|canj=RWGF|ids=⿰口黑}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0208.030|dkj=04283|dj=0430.320|hdz=10684.010|uh=563F|ud=22079|bh=BC4B|bd=48203}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=hēi\n|c=hei1\n|h=pfs=\n|md=\n|mn=qz:hiak/xm,zz:hek/heh\n|mn_note=hiak/hek - literary; heh - vernacular\n|w=\n|mc=\n|oc=\n|cat=intj\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[hey]] {{gloss|used to get attention}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{zh-l|嗨}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|默|v}}\n\n{{zh-cat|Elementary}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口12}}\n\n# {{defn|lang=ja|sort=口12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=もく\n|kanon=ぼく, こく\n|kun=だ-まる, しずか, あざむ-く}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=묵|rv=muk|mr=muk}}\n\n# {{defn|lang=ko|sort=口12}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|hải|rs=口12}}\n\n# {{defn|vi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

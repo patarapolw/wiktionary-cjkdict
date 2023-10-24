@@ -1,0 +1,87 @@
+{
+  "title": "譔",
+  "ns": 0,
+  "id": 27228,
+  "timestamp": 1526948129000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=149|rad=言|as=12|sn=19|four=07681|canj=YRRUC|ids=⿰訁巽}}\n\n# [[eulogize]]\n# [[compose]], [[write]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1181.110|dkj=35968|dj=1644.220|hdz=64021.090|uh=8B54|ud=35668|bh=F2FC|bd=62204}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhuàn\n|c=zaan6\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言12}}\n\n# {{defn|lang=ja|sort=言12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[せん]] (sen), [[ぜん]] (zen)|kun=[[おしえる]] (oshieru)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=선|eumhun=|rv=seon|mr=sŏn|y=sen}}\n\n# {{defn|lang=ko|sort=言12}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

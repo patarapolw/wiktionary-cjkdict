@@ -1,0 +1,89 @@
+{
+  "title": "薤",
+  "ns": 0,
+  "id": 25624,
+  "timestamp": 1525390106000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=13|sn=19|four=44211|canj=TMNM|ids=⿱艹𩐁}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1061.400|dkj=32141|dj=1526.070|hdz=53300.150|uh=85A4|ud=34212|bh=EDFC|bd=60924}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xiè\n|m-s=\n|c=haai6\n|c-t=\n|g=\n|h=pfs=\n|j=\n|md=\n|mn=\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{vern|Chinese onion}} ({{taxlink|Allium chinense|species|ver=171106}})",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸13}}\n\n# {{defn|lang=ja|sort=艸13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=かい, けい\n|kun=らっきょう-\n|nanori=\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=해|eumhun=|rv=hae|mr=hae|y=hay}}\n\n# {{defn|lang=ko|sort=艸13}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

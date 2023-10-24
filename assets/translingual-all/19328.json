@@ -1,0 +1,109 @@
+{
+  "title": "滋",
+  "ns": 0,
+  "id": 19328,
+  "timestamp": 1553057311000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA99}}\n{{character info|0x2F90B}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "*<code>U+6ECB</code> {{Han char|rn=85|rad=水|as=09|sn=12|four=38132|canj=ETVI|ids=⿰氵兹}}\n*<code>U+FA99</code> {{Han char|rn=85|rad=水|as=10|sn=13|four=|canj=EYII|ids=⿰氵玆}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* <big>{{l|mul|[[𬵱]]}}</big> ''(Contains'' {{l|mul|⿰[[氵]][[玆]]}} (<code>U+FA99</code>)) <!-- Please zoom into the unicode charts at 500% and observe the serif type hook on the top right of 玄 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0642.150|dkj=17919|dj=1049.190|hdz=31686.060|uh=6ECB}}\n{{Han ref|uh=FA99}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|玆|ls=psc|c1=s|c2=p|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zī\n|c=zi1\n|h=pfs=\n|md=\n|mn=qz:chir/tw,xm,zz:chu\n|w=\n|mc=y\n|oc=y\n|cat=v,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[grow]]; to [[multiply]]\n# to [[cause]]\n# to [[increase]]\n# [[taste]]\n# {{lb|zh|colloquial}} to [[spurt]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|滋生|滋味|滋潤|滋補|愛滋病|不是滋味|個中滋味|滋事|滋蔓|滋養品|滋育|甘露滋心|滋長|日益月滋|滋芽|滋蔓難圖|滋養|日滋月益|滋擾|暴力滋擾|滋味兒|殊滋異味|樹德務滋|樂滋滋|蕃滋|聚眾滋事|華爾滋|飛滋|松滋}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水09}}\n\n# {{defn|lang=ja|sort=水09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kanyoon=じ\n|kun=しげ-る, ま-す, ますます\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=자|eumhun=|rv=ja|mr=cha|y=ca}}\n\n# {{defn|lang=ko|sort=水09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|tư|rs=水09}}\n\n# {{defn|lang=vi|sort=水09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

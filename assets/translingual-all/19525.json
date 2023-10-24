@@ -1,0 +1,170 @@
+{
+  "title": "潟",
+  "ns": 0,
+  "id": 19525,
+  "timestamp": 1527773552000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=12|sn=15|four=37127|canj=EHXF|ids=⿰氵舄}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𧂙]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0649.160|dkj=18247|dj=1059.100|hdz=31743.090|uh=6F5F}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|舄|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xì\n|c=sik1\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[saline]] [[land]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|潟滷|潟鹵|新潟|潟湖|鹹潟}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=水12}}\n\n# [[lagoon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゃく<しやく\n|kanon=せき\n|kun=かた-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|潟%湖|せき%こ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|かた|yomi=k}}\n{{rfe|ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|y=k|かた|acc=2|acc_ref=DJR}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かた}}\n\n# [[lagoon]]\n# [[tidal]] [[flat]]s\n# {{lb|ja|historical|sort=かた}} [[inlet]], [[bay]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|lagoon}} {{ja-r|ラグーン}}\n* {{sense|tidal flat}} {{ja-r|干%潟|ひ%がた}}\n* {{sense|inlet}} {{ja-r|入り江|いりえ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|明石%潟|アカシ%ガタ}}\n* {{ja-r|潮%干%潟|しお%ひ%-がた|[[ebb tide]] [[beach]]}}\n* {{ja-r|難波潟|^なにわ%-がた}}\n* {{ja-r|新潟|^にいがた}}\n* {{ja-r|八郎%潟|^はちろう%-がた}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|がた}}\n\n# the ... Lagoon; Bay of ..."
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|がた}}\n\n# {{surname|lang=ja|sort=かた}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[석]]|rv=seok|mr=sŏk|y=sek|eumhun=개펄|ehrv=gaepeol|ehmr=kaep'ǒl|ehy=}}\n\n# tidal flats",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Hanja ref|nav=10000}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=水12|[[tích]]}}\n\n# {{defn|lang=vi|sort=水12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "*[http://nomfoundation.org/common/nom_details.php?codepoint=6f5f Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

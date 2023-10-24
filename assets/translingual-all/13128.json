@@ -1,0 +1,114 @@
+{
+  "title": "埃",
+  "ns": 0,
+  "id": 13128,
+  "timestamp": 1525579234000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=07|sn=10|four=43134|canj=GIOK|ids=⿰土矣}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* ''Chinese Numeral'' '''埃'''\n** '''Next:''' [[渺]]\n** '''Last:''' [[塵]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0229.190|dkj=05107|dj=0465.090|hdz=10447.150|uh=57C3|ud=22467|bh=AE4A|bd=44618}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|土|矣|ls=psc|c1=s|c2=p|t1=earth; soil}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=āi\n|c=oi1,aai1\n|h=pfs=âi\n|mn=ai/ia\n|mn_note=ai - literary; ia - vernacular\n|w=2e,2i\n|w_note=2e - usual pronunciation; 2i - in {{zh-l|*埃及}}\n|mc=y\n|oc=y\n|ma=\n|cat=n,num,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[fine]] [[dust]], [[dirt]]\n#: {{zh-x|塵埃|dust}}\n# [[angstrom]]\n# one [[billionth]], the number 10<sup>-10</sup>\n# (''a phonetic component'')\n#: {{zh-x|^埃及|Egypt}}\n#: {{zh-x|^埃塞俄比亞|Abyssinia}}\n#: {{zh-x|蘇維埃|soviet}}\n# {{zh-abbrev|埃及|Egypt}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|埃及|埃及曆|埃塵|埃滅|塵埃|塵埃傳染|塵埃落定|星際塵埃|涓埃|蘇維埃|雰埃}}\n\n{{cln|zh|numeral symbols|numerals}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=土07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=あい\n|kanon=あい\n|kun=ちり-, ほこり-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あい}}\n\n# one [[billionth]]\n\n{{ja-noun|ほこり}}\n\n# [[dust]]\n\n[[Category:Japanese numeral symbols|あい]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=애|mr=ae}}\n\n# fine dust, [[dirt]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[ai]]}}\n\n# {{defn|lang=vi|sort=土07}}\n\n[[Category:Kennybot testing category]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

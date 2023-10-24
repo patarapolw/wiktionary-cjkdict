@@ -1,0 +1,131 @@
+{
+  "title": "捺",
+  "ns": 0,
+  "id": 16288,
+  "timestamp": 1553550724000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=08|sn=11|four=54091|canj=QKMF|ids=⿰扌奈}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0435.290|dkj=12221|dj=0785.110|hdz=31893.020|uh=637A}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n[[File:N-black.png|thumb|right|250px]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|手|alt1=扌|t1=hand|奈}} – to press down with the hand, stamp."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=nà\n|m-s=\n|c=naat6\n|c-t=\n|g=\n|h=pfs=\n|j=\n|mb=\n|md=\n|mn=ml:la̍t\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=v,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[press]] [[down]] [[firmly]] with the [[hand]]\n# {{lb|zh|Chinese calligraphy}} a [[stroke]] that falls downwards towards the right ({{m|mul|㇏}})",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|stroke}} {{zh-l|磔}}; {{q|Min Nan}} {{zh-l|裁刀}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{list:basic character strokes/zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|捺下|捺擱|捺定性子|捺倒|捺印|按捺|按捺不住}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手08}}\n\n# [[press]]\n# [[print]]\n# [[affix]] a [[stamp]]\n# [[seal]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=なち, なつ\n|kanon=だつ\n|kun=お-す, さ-す, つ-く\n|nanori=な\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|捺印|なついん}}\n* {{ja-r|捺染|なっせん}}\n* {{ja-r|捺%落|な%らく}}\n* {{ja-r|捺筆|だっぴつ}}\n* {{ja-r|押捺|おうなつ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|なつ|yomi=o}}\n\nFrom {{der|ja|ltc|sort=なつ|-}} {{ltc-l|捺}}."
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|なつ}}\n\n# {{given name|female|lang=ja|A=a|nodot=1|sort=なつ}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|날}}\n\n# {{defn|lang=ko|sort=手08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=手08|reading=nài}}\n\n# {{defn|lang=vi|sort=手08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

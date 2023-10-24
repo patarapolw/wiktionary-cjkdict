@@ -1,0 +1,75 @@
+{
+  "title": "朊",
+  "ns": 0,
+  "id": 17228,
+  "timestamp": 1514161658000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=74|rad=月|as=04|sn=8|four=71211|canj=BMMU|ids=⿰月元}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0504.280|dkj=14339|dj=0883.080|hdz=32046.150|uh=670A|ud=26378|bh=CCD2|bd=52434}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=ruǎn\n|m-s=\n|c=jyun2,gun2\n|c-t=\n|g=\n|h=pfs=\n|j=\n|md=\n|mn=\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# moonlight shines faintly"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=䏓}}\n{{zh-wp}}\nNewly coined character. {{Han compound|肉|alt1=⺼|元|ls=psc|c1=s|t1=flesh|c2=p|t2=original; first}}.\n\nModelled after the etymology of English \"{{m|en|protein}}\": from {{cog|grc|πρῶτος||first}} ― cf. {{zh-l|元|original, first}}, which also acted as the phonetic component of the character.\n\nThe choice of this character for the sense of \"prion\" is primarily due to the nature of prions as proteins, but might also have been influenced by the pronunciation of the word {{m|en|prion}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=ruǎn\n|c=jyun2,gun2\n|h=pfs=\n|md=\n|mn=\n|w=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n# {{lb|zh|biochemistry|obsolete}} [[protein]]\n#: {{zh-syn|蛋白質}}\n# {{lb|zh|biochemistry|in compounds}} [[prion]]\n#: {{zh-syn|朊病毒|朊毒體}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

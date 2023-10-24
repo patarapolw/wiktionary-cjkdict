@@ -1,0 +1,97 @@
+{
+  "title": "氟",
+  "ns": 0,
+  "id": 18577,
+  "timestamp": 1552110151000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=84|rad=气|as=05|sn=9|four=80510|canj=ONLLN|ids=⿹气弗}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0599.111|dkj=17058|hdz=32011.060|uh=6C1F|ud=27679|bh=AC74|bd=44148}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{elements|F|氧|O|氖|Ne|lang=zh}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From earlier {{zh-l|弗氣}}, {{zh-l|弗素}}, which is probably a {{obor|zh|ja|-|nocap=1}}, where {{ja-r|弗|ふつ}} was used phonetically."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fú\n|c=fat1\n|mn=ml:hu̍t\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemistry}} [[fluorine]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|氟利昂}}\n\n{{zh-cat|Chemical elements}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=气05}}\n\n# [[fluorine]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=ふつ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Extremely rare. When written in kanji, more commonly spelled using the character {{l|ja|弗}}. The full Japanese term for {{m|en|fluorine}} is {{ja-l|弗素}}, much more commonly written in Japanese in [[katakana]], as {{ja-l|フッ素}}."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=불|eumhun=|rv=bul|mr=pul|y=pul}}\n\n# {{defn|lang=ko|sort=气05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

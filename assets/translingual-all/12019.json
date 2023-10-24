@@ -1,0 +1,121 @@
+{
+  "title": "厶",
+  "ns": 0,
+  "id": 12019,
+  "timestamp": 1537017270000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|マ|ㇺ|ム|ﾑ|ㄙ|私}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=28|rad=厶|as=00|sn=2|four=20730|canj=VI,XVI|ids=⿰𠃋丶}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* [[ㄙ]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/厶]]\n* [[勾]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Similar strokes occur in various Chinese characters, where they often represent a stylized tail, as in {{m|mul|离||beast|sc=Hani}} and {{m|mul|鬼||demon|sc=Hani}}."
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0163.200|dkj=03057|dj=0371.250|hdz=10383.090|uh=53B6|ud=21430}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etyl}}\n\n{{liushu|i}} – revolving around oneself – original character for {{zh-l|*私|selfish; private}}.\n\nAccording to ''{{w|Han Feizi}}'', which was referenced in ''{{w|Shuowen}}'':\n{{zh-x|^古者 ^蒼頡 之 作 書 也，自 環 者 謂 之 厶{sī}|In olden times, when {{w|Cangjie}} invented the system of writing, a self-encircling element was designated as the character for “private”.}}\n\nCompare {{zh-l|*公|public}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|私|a}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|某|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=厶00}}\n\n# {{defn|lang=ja|sort=厶00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=し, ぼう, む\n|kun=わたくし-, ござ-る\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=사|rv=sa|mr=sa}}\n\n# {{defn|lang=ko|sort=厶00}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[khư]]|rs=厶00}}\n\n# {{defn|lang=vi|sort=厶00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=53b6 Nom Foundation]\n\n[[Category:CJKV radicals]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

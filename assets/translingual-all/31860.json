@@ -1,0 +1,87 @@
+{
+  "title": "髆",
+  "ns": 0,
+  "id": 31860,
+  "timestamp": 1501609212000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=188|rad=骨|as=10|sn=20|four=73242|canj=BBIBI|ids=⿰骨尃}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1450.190|dkj=45241|dj=1976.370|hdz=74416.040|uh=9AC6|ud=39622|bh=F566|bd=62822}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|骨|尃|c1=s|c2=p|t1=bone|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bó\n|c=bok3\n|mn=phok\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|anatomy}} [[shoulder blade]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=骨10}}\n\n# {{defn|lang=ja|sort=骨10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[はく]] (haku)|kun=[[かいがらぼね]] (kaigarabone)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=박|eumhun=|rv=bak|mr=pak|y=pak}}\n\n# {{defn|lang=ko|sort=骨10}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

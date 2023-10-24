@@ -1,0 +1,80 @@
+{
+  "title": "龏",
+  "ns": 0,
+  "id": 33243,
+  "timestamp": 1520769632000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=212|rad=龍|as=03|sn=19|four=|canj=XYPT,YPT|ids=⿱龍廾}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1537.020|dkj=48823|dj=2077.050|hdz=74804.030|uh=9F8F|ud=40847}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=gōng\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C18355}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=龍03}}\n\n# {{defn|lang=ja|sort=龍03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[きょう]] (kyō), [[く]] (ku), [[あく]] (aku)|kun=[[つつしむ]] (tsutsushimu), [[のぼる]] (noboru), [[ともしびおおい]] (tomoshibiooi)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

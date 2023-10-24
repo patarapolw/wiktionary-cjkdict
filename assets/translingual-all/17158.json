@@ -1,0 +1,128 @@
+{
+  "title": "暨",
+  "ns": 0,
+  "id": 17158,
+  "timestamp": 1531379030000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|曁}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=72|rad=日|as=10|sn=14|four=21106|canj=AUAM|ids=⿱既旦}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[櫭]], [[𩽙]]}} <!-- Contains 暨 not 曁 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[曁]]}} ''(Orthodox form in {{w|Kangxi dictionary}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0499.061|dj=0870.030|hdz=21531.070|uh=66A8}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=曁,𠕨,𡍳,臮}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A01818 -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|既|旦|c1=p|c2=s|t2=sunrise|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jì\n|c=kei3,gei6\n|mc=y\n|oc=y\n|cat=v,adv,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-hg}} initial [[appearance]] of [[sunrise]]\n# {{zh-alt-lb|臮}} [[and#Conjunction|and]]\n#: {{zh-syn|及|與}}\n# to [[attain]]; to [[reach]]\n#: {{zh-syn|至|到}}\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|暨南|暨暨|暨今|暨大}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A01818}}\n* {{R:yue:mfccd}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日10}}\n\n# {{alt-form|lang=ja|曁}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=き\n|kun=およ-ぶ\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}\n\n# {{defn|lang=ko|sort=日10}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=日10|[[kị]]}}\n\n# {{defn|lang=vi|sort=日10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=66a8 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

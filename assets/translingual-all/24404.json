@@ -1,0 +1,94 @@
+{
+  "title": "脰",
+  "ns": 0,
+  "id": 24404,
+  "timestamp": 1520916611000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=130|rad=肉|as=07|sn=11|four=71218|canj=BMRT|ids=⿰月豆}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0985.020|dkj=29544|dj=1437.090|hdz=32076.070|uh=8130|ud=33072|bh=B2E8|bd=45800}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{inh|zh|sit-pro|*tuk ~ *twak||head; skull; neck}}; cognate with {{cog|kac|du||neck}}, {{cog|my|လည်တိုင်|လည်'''တိုင်'''}}, {{cog|ii|ꆽꄿ|ꆽ'''ꄿ'''}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dòu\n|m-s=\n|dg=\n|c=dau6\n|c-t=\n|g=\n|h=pfs=\n|j=\n|md=dâu\n|mn=tāu/xm,zz:tō͘/qz:tiō\n|mn_note=tāu - vernacular; tō͘/tiō - literary\n|mn-t=dou6\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary|or|dialectal}} [[neck]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|脖子}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉07}}\n\n# {{defn|lang=ja|sort=肉07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[とう]] (tō), [[ず]] (zu)|kun=[[うなじ]] (unaji)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=두}}\n\n# {{defn|lang=ko|sort=肉07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

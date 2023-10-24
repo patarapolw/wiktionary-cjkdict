@@ -1,0 +1,70 @@
+{
+  "title": "塁",
+  "ns": 0,
+  "id": 13270,
+  "timestamp": 1507151636000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|壘}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|壘|塁|垒}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=09|sn=12|four=60104|canj=WIOG}}\n\n# [[rampart]], military [[wall]]\n# {{lb|mul|baseball}} [[base]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0234.271|dkj=05316|hdz=42544.011|uh=5841|ud=22593}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|塁|壘}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=土09|kyu=壘}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=るい\n|kanon=るい\n|kun=とりで-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|るい|yomi=o}}\nFrom {{der|ja|ltc|-}} {{ltc-l|壘}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|るい|kyu=壘}}\n\n# {{lb|ja|baseball|sort=るい}} [[base]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|るい}}\n\n# {{given name|male|lang=ja|sort=るい}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

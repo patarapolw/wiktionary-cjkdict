@@ -1,0 +1,128 @@
+{
+  "title": "硼",
+  "ns": 0,
+  "id": 21994,
+  "timestamp": 1552358456000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=08|sn=13|four=17620|canj=MRBB|ids=⿰石朋}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0831.230|dkj=24254|dj=1247.200|hdz=42439.040|uh=787C|ud=30844|bh=B84E|bd=47182}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|石|朋|ls=psc|c1=s|c2=p|t1=stone|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{elements|B|鈹|Be|碳|C|lang=zh}}\n{{zh-wp}}\nOriginally only used in {{zh-l|*硼砂|borax}}: first attested in {{lang|zh|《丹方鑑源》}} ({{w|Tang dynasty}}), as {{lang|zh|大朋砂}}. <!--http://www.doc88.com/p-9495366540026.html-->The {{lang|zh|硼}} here is a loanword; compare {{cog|pal|bwlk'|tr=bōrag}}.\n\nThe “boron” sense of {{lang|zh|硼}} is a {{clipping|zh|nocap=1}} or {{back-form|zh|nocap=1}}.<!--http://ishare.iask.sina.com.cn/f/11777230.html-->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=péng\n|c=pang4,paang4\n|h=pfs=phìn\n|md=bèng\n|mn=phêng/qz:phn̂g/twv:pêng\n|w=3ban\n|mc=\n|oc=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemical element}} [[boron]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{q|obsolete}} {{l|zh|𥑢}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|硼鋼|硼烷|硼酸|硼肥|硼砂|硼玻璃|硼酸水|硼化|硼化塑料|硼化物|硼砂玻璃|硼酸鹽|硼鐵|三氟化硼}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=pēng\n|c=paang1\n|mc=\n|oc=\n|cat=n,v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|onomatopoeia}} a [[loud]] [[sound]]\n# {{zh-alt-form|蹦|to [[jump]]}}\n# {{zh-alt-form|碰|to [[bump]]; to [[touch]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|硼砰}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石08}}\n\n# [[boron]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=ひょう\n|kanon=ほう}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[붕]], [[평]]}}\n\n# {{defn|lang=ko|sort=石08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

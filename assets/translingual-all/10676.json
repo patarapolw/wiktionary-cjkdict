@@ -1,0 +1,61 @@
+{
+  "title": "伢",
+  "ns": 0,
+  "id": 10676,
+  "timestamp": 1529218243000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=04|sn=6|four=27240|canj=OMVH|ids=⿰亻牙}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0096.121|hdz=10120.060|uh=4F22}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{inh|zh|sit-pro|*m/s-ŋa-j||small; inferior; offspring}}; southern dialectal form of {{ltc-l|兒|child; son|id=1}}. Also compare {{cog|mkh-pro|*ŋa(i)k||baby}}, {{cog|mkh-ban-pro|*ŋaː||baby}}, {{cog|km|ង៉ា||infant; baby}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yá\n|c=ngaa4\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal}} [[child]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|伢子}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

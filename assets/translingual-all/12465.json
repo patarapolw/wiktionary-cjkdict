@@ -1,0 +1,114 @@
+{
+  "title": "啓",
+  "ns": 0,
+  "id": 12465,
+  "timestamp": 1553348373000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|启|啟}}\n{{character info/new}}\n{{character info|0x2F843}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|啟|启|啓|啓}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* Note that regional variations exist for the upper left component of this character ({{l|mul|戸}} in Japan, {{l|mul|戶}} in Taiwan, Korea, {{l|mul|户}} in <span class=\"explain\" title=\"When used as traditional character\">China</span>, Hong Kong and Vietnam). In the {{w|Kangxi dictionary}}, the component is written {{l|mul|戸}} similar to the Japanese form.\n* An alternative form {{l|mul|啟}} (U+555F) exists which is the preferred form used in Hong Kong and Taiwan."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=08|sn=11|four=|canj=HKR,IKR,XHKR|ids=⿱⿰戸攵口(J),⿱⿰戶攵口(TK),⿱⿰户攵口(GHV,U+2F843)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𢴖]], [[㬖]], [[𭿚]], [[𦄊]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[啟]]}} ''(Character used in Hong Kong and Taiwan)''\n* {{l|mul|[[启]]}} ''({{w|Simplified Chinese}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0195.170|dkj=03820|dj=0416.160|hdz=10646.120|uh=5553}}\n{{Han ref|uh=2F843}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|啟|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=け\n|kanon=けい\n|kun=ひら-く, もう-す\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|けい}}\n\n# {{given name|male|lang=ja|sort=けい}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=계|rv=gye|mr=kye}}\n\n# {{defn|lang=ko|sort=口08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[khải]]|rs=口08}}\n\n# {{defn|lang=vi|sort=口08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

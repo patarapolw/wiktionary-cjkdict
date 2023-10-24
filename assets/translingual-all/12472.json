@@ -1,0 +1,109 @@
+{
+  "title": "啚",
+  "ns": 0,
+  "id": 12472,
+  "timestamp": 1537727498000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note that the [[啚]] component in this character is written 口十回 (China, Vietnam), 口亠回 (Hong Kong, Taiwan, Japan, Korea). The [[Kangxi]] dictionary form of this character resembles the form used in Japan and Korea, as the component [[亠]] is written similar to [[丄]] but with a shorter upward stroke in the Kangxi dictionary."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=08|sn=11|four=|canj=RJWR,RYWR|ids=⿳口十回(GV),⿱口㐭(TJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[鄙]], [[圖]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0196.080|dkj=03829|dj=0417.080|hdz=10638.110|uh=555A|ud=21850}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|口|㐭|t2=receive|ls=ic}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|鄙|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|圖|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口08}}\n\n# [[stingy]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ひ]] (hi), [[と]] (to)|kun=[[おしむ]] (oshimu)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=비|rv=bi|mr=pi}}\n\n# [[low]], [[mean]]\n# [[cheap]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[bở]], [[bẽ]]|rs=口08}}\n\n# {{defn|lang=vi|sort=口08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

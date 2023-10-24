@@ -1,0 +1,94 @@
+{
+  "title": "忄",
+  "ns": 0,
+  "id": 15323,
+  "timestamp": 1549978308000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|心|㣺}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Variant of {{m|mul|心||heart|sc=Hani}}, when used as left radical (compare [[㣺]])."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=61|rad=心|as=00|sn=3|var=1|four=|canj=HY|ids=⿰丿卜,⿻丨八}}\n\n# radical number 61",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0375.011|dkj=10297|dj=0701.020|hdz=42267.011|uh=5FC4|ud=24516}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xīn\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{n-g|radical form of {{l|zh|心}}.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Only used as a component in a character. Referred to as {{zh-l|豎心旁}} 'standing heart radical'."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=r|rs=心00}}\n\n# the left \"heart\" radical, called {{ja-l|立心偏|risshinben}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=りっしんべん-\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[tâm]]|rs=心00}}\n\n# {{defn|lang=vi|sort=心00}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

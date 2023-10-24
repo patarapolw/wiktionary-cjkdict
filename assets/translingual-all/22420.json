@@ -1,0 +1,106 @@
+{
+  "title": "税",
+  "ns": 0,
+  "id": 22420,
+  "timestamp": 1507156867000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|稅}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{Han etym}}\n{{Han simp|稅|f=兌|t=兑}}. {{Han compound|禾|兑|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=115|rad=禾|as=07|sn=12|four=|canj=HDCRU,XHDCR|ids=⿰禾兑}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0854.201|dkj=25070|hdz=42609.100|uh=7A0E|ud=31246}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|稅}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=禾07}}\n\n# [[tax]]",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=せ\n|kanon=せい\n|kanyoon=ぜい, さい\n|on=だつ, えつ\n|kun=みつぎ-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|ぜい|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ぜい}}\n\n# [[tax]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "* {{ja-r|税金|ぜいきん|gloss=tax, tax charge}}\n* {{ja-r|税収|ぜいしゅう|gloss=tax revenue}}\n* {{ja-r|税務署|ぜいむしょ|gloss=tax office, revenue office}}\n* {{ja-r|消費税|しょうひぜい|gloss=consumption tax, value added tax, goods and services tax}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab}}\nFrom {{m|ja|力|tr=chikara||strength}}. That which is produced from strength, ie labor.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ちから}}\n\n# the collection of grain from the commoners masses to the state; a [[tax]], [[taxes]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[세]], [[탈]]|eumhun=|rv=se, tal|mr=se, t'al|y=sey, thal}}\n\n# {{defn|lang=ko|sort=禾07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

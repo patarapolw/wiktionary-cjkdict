@@ -1,0 +1,94 @@
+{
+  "title": "顋",
+  "ns": 0,
+  "id": 31180,
+  "timestamp": 1550294909000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=181|rad=頁|as=09|sn=18|four=|canj=WPMBC|ids=⿰思頁}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1406.300|dkj=43576|dj=1924.090|hdz=74382.030|uh=984B|ud=38987}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|腮|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=頁09}}\n\n# {{defn|lang=ja|sort=頁09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[さい]] (sai)|kun=[[あご]] (ago), [[えら]] (era)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[시]], [[새]]|rv=si, sae|mr=si, sae|y=si, say|eumhun=뺨|ehrv=ppyam|ehmr=ppyam|ehy=ppyam}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun 1",
+              "text": "{{ko-noun|hangeul=시}}\n# [[cheek]]\n# [[gill]], [[branchia]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[裹顋]] ([[과시]])\n* [[閤顋]] ([[합시]])\n* [[顋頰]] ([[시협]])"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun 2",
+              "text": "{{ko-noun|hangeul=새}}\n# [[cheek]]\n# [[gill]], [[branchia]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[魚顋醢]] ([[어새해]])\n* [[牛角顋]] ([[우각새]])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

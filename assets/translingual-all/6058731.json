@@ -1,0 +1,61 @@
+{
+  "title": "鿬",
+  "ns": 0,
+  "id": 6058731,
+  "timestamp": 1537252753000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=5|sn=10|four=|canj=|ids=⿰石田}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|uh=9FEC}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{elements|Ts|鉝|Lv|鿫|Og|lang=zh}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Coined in 2017 by the Chinese National Committee for Terms in Sciences and Technologies and State Language Commission.<ref>http://www.cnctst.cn/xwdt/tpxw/201702/t20170215_361375.html</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tián\n|c=tin4\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemical element}} [[tennessine]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />\n* [http://www.unicode.org/wg2/docs/n4830-SC2n4540-China3UNCs.pdf ISO/IEC JTC 1/SC 2 N 4540]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

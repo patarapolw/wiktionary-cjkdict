@@ -1,0 +1,117 @@
+{
+  "title": "礼",
+  "ns": 0,
+  "id": 22209,
+  "timestamp": 1548342116000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|禮}}\n{{character info/new}}\n{{character info/new|0xfa18}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=6}}\n{{CJKV-forms|禮|礼|礼|禮}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Ancient form of {{l|mul|禮}} according to the {{w|Kangxi dictionary}} ({{w|Jiyun}} section).\n\nIn Japanese [[shinjitai]] and simplified Chinese, the character is {{Han simp|禮|f=示|t=礻|f2=豊|t2=乚|nocap=y}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=113|rad=示|as=01|sn=5|four=32210|canj=IFU|ids=⿰礻乚(U+793C),⿰示乚(U+FA18)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𠲥]], [[𡋀]], [[𢙔]], [[𢬦]], [[𣑶]], [[𨦂]]([[𫓳]]), [[𩷋]], [[𫰣]], [[𫸱]], [[𣉷]], [[𬯰]], [[𦮲]], [[𮅍]], [[𫩵]], [[𫩶]], [[𧊢]]}}\n* {{l|mul|[[𥘶]], [[𥘷]], [[𥙒]], [[𥙓]], [[𥙧]], [[𥙩]], [[𥙪]], [[𥚄]], [[𥚅]], [[𥚇]], [[𥚤]], [[𥚥]], [[𥚯]], [[𥛉]], [[𥛭]], [[𥜤]], [[𫩉]], [[𬒸]], [[𬒼]], [[𬓐]], [[𬓓]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{Han ref|kx=0839.220|dkj=24626|dj=1256.280|hdz=42385.020|uh=793C|ud=31036}}\n* {{Han ref|uh=FA18}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|示|alt1=礻|t1=altar|乚|ls=psc|c1=s|c2=p}} – performing rites at an altar."
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|禮}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|礼|禮}}\n{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{rfp|lang=ja}}"
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=示01|kyu=禮}}\n\n# [[manner]]s; [[etiquette]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らい\n|kanon=れい\n|kun=いや-, うや-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "wiya → iya."
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-see-also|礼をする}}\n{{ja-noun|いや|hhira=ゐや|kyu=禮}}\n\n# the act of respecting one; [[reverence]]"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|れい|kyu=禮}}\n\n# a [[bow]], the gesture of bending at the waist\n# an [[expression]] of [[thanks]] or [[gratitude]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|bow}} {{ja-r|お辞儀|おじぎ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Troponyms",
+                  "text": "* {{ja-r|会%釈|え%しゃく}}: a [[slight]] bow\n* {{ja-r|目%礼|もく%れい}}: a [[nod]] to a person\n* {{ja-r|黙%礼|もく%れい}}: a [[silent]] bow\n* {{ja-r|最%敬%礼|さい%けい%れい}}: a respectful bow, a low bow\n* {{ja-r|叩%頭|こう%とう}}: a deep bow, a [[kowtow]], a bow where one touches one's head to the floor or ground"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|礼記|れいき}}\n* {{ja-r|礼拝|れいはい}}\n{{mid3}}\n* {{ja-r|礼儀|れいぎ}}\n* {{ja-r|礼装|れいそう}}\n{{mid3}}\n* {{ja-r|礼服|れいふく}}\n* {{ja-r|礼文島|^れぶん-とう}}\n{{bottom}}\n\n[[Category:ja:Body language|れい]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

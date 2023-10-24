@@ -1,0 +1,68 @@
+{
+  "title": "仩",
+  "ns": 0,
+  "id": 10618,
+  "timestamp": 1527672673000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=03|sn=5|four=21210|canj=OYM|ids=⿰亻上}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0094.051|hdz=10113.051|uh=4EE9}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=shàng\n|c=saang3\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{n-g|Kunqu {{w|gongche notation}} of high [[do]] (1̇).}}\n# {{n-g|Cantonese opera {{w|gongche notation}} of low [[do]] (1̣).}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|長|v}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://www.cns11643.gov.tw/AIDB/query_general_view.do?page=2&code=2147 Chinese National Standards (Master Ideographs Seeker for CNS 11643)]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

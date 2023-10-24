@@ -1,0 +1,123 @@
+{
+  "title": "彘",
+  "ns": 0,
+  "id": 15216,
+  "timestamp": 1553549306000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=58|rad=彐|as=09|sn=12|four=27711|canj=VMPOP|ids=⿱彑⿲匕矢匕}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0362.170|dkj=09931|dj=0680.330|hdz=20961.140|uh=5F58}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|豕|矢|ls=ic|ls2=psc|c1=s|c2=p|t1=pig; boar|t2=arrow}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{der|zh|qfa-tak}}; compare {{cog|qfa-kms-pro|*ʔdlaːi⁵||wild pig}}, {{cog|lic-pro|*C-ləc||wild boar}} ({{zh-ref|Schuessler, 2007}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhì\n|c=zi6\n|h=pfs=\n|md=dê\n|mn=tē\n|mn-t=di6\n|w=3zr\n|mc=y\n|oc=y\n|cat=n,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[pig]]; [[swine]]; [[boar]]\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|豬}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|人彘|彘肩|狗彘|犬彘之食|狗彘不食|狗彘不若|曾子殺彘|殺彘教子|犬彘|狗彘不如|行同狗彘|行若狗彘|乳彘|依斟流彘|彘牢|彘盧|彘肩斗酒|彘豪|彘顱|彘首|毫彘|牛彘胞|牢彘|田彘|眾彘|豕彘|豪彘|豬彘|賁彘|赤彘|野彘}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=彐09}}\n\n# {{defn|lang=ja|sort=彐09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=てい, でい, えい, え\n|kun=ぶた\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|체}}\n\n# {{defn|lang=ko|sort=彐09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=彐09|reading=trệ}}\n\n# {{defn|lang=vi|sort=彐09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5f58 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

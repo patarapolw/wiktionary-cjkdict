@@ -1,0 +1,138 @@
+{
+  "title": "秤",
+  "ns": 0,
+  "id": 22378,
+  "timestamp": 1553776048000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=115|rad=禾|as=05|sn=10|four=21949|canj=HDMFJ|ids=⿰禾平(GHTV),⿰禾⿻干八(JK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0851.280|dkj=24993|dj=1275.260|hdz=42598.100|uh=79E4|ud=31204|bh=AFAF|bd=44975}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Glyphic variant of {{l|zh|稱}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chèng,píng\n|ma=Zh-chèng.ogg\n|c=cing3,ping4\n|h=pfs=chhṳn\n|md=\n|mn=chhìn/qz,xm,zz:chhèng\n|mn_note=chhìn - vernacular; chhèng - literary\n|w=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[scales]] (device to measure weight)\n# to [[weigh]] on a [[scale]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|地秤|天秤座|動秤兒的|吃了秤砣|彈簧秤|廣法大秤|官秤|大斗小秤|壓秤|天秤|水秤|秤平斗滿|秤鉤|秤錘|浮秤|秤砣|桿秤|磅秤|拿秤|案秤|秤紐|秤盤子|秤毫|秤桿|秤星|折秤|秤斤注兩|盤秤|沒星秤|抬秤|短秤|綿裹秤鎚|過秤|開秤}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾05}}\n\n# {{defn|lang=ja|sort=禾05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しよう\n|kanon=しょう<しよう\n|kanyoon=ひょう<ひやう,ひん,びん\n|kun=はかり-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|天秤|てんびん}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はかり|yomi=k}}\n{{wikipedia|lang=ja}}\n\nThe {{ja-etym-renyokei|量る|はかる}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はかり}}\n\n# [[scale]]\n\n[[Category:ja:Measuring instruments|はかり]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* Homophones: [[稱]] ([[칭]])"
+            },
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=칭|eumhun=|rv=ching|mr=ch'ing|y=ching}}\n\n# ([[저울]], ''jeoul''): [[balance]], [[scale]].",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{l|ko|天平秤}} ([[천평칭]], ''cheon-pyeong-ching'') [[balance]], [[scale]].\n* {{l|ko|天平}} ([[천평]], ''cheon-pyeong'') short for [[天平秤]].\n* {{l|ko|天秤}} ([[천칭]], ''cheon-ching'') short for [[天平秤]]."
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|ko|天}} ([[천]])\n* {{l|ko|平}} ([[평]])\n\n[[Category:Hanja readings|칭]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "'''秤''' ([[xứng]], [[hấng]])\n\n# {{defn|lang=vi}}\n\n{{cln|vi|Han tu}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

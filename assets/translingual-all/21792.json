@@ -1,0 +1,136 @@
+{
+  "title": "瞳",
+  "ns": 0,
+  "id": 21792,
+  "timestamp": 1545545471000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=109|rad=目|as=12|sn=17|four=60014|canj=BUYTG|ids=⿰目童}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0818.040|dkj=23707|dj=1230.140|hdz=42514.120|uh=77B3|ud=30643|bh=C0FB|bd=49403}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|目|童|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{och-l|童|child}}. Compare English {{m|en|pupil||‘child’ > student; pupil of eye}} for a similar semantic development."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tóng\n|c=tung4\n|h=pfs=\n|md=dùng\n|mn=tông\n|mn-t=tong5\n|w=3don\n|mc=y\n|oc=y\n|cat=a,n,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} [[inexperienced]]; [[ignorant]]\n# {{lb|zh|anatomy}} [[pupil]] of [[eye]]\n# {{†}} [[sight]]; [[vision]]; [[view]]\n# {{†}} to [[see]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|瞳孔|瞳人|瞳人兒|瞳仁|瞳仁兒|瞳矇|瞳子|打瞳|重瞳|雙瞳翦水}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=目12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ずう\n|kanon=とう\n|kanyoon=どう\n|kun=ひとみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|瞳孔|どうこう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひとみ}}\n\n# {{lb|ja|anatomy|sort=ひとみ}} [[pupil]]\n#: {{ja-usex|'''瞳'''に映る景色|'''ひとみ''' に うつる けしき|the scene reflected in one's '''eyes'''}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|ひとみ}}\n\n# {{given name|female|lang=ja|sort=ひとみ}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=동|eumhun=|rv=dong|mr=tong|y=tong}}\n\n# {{defn|lang=ko|sort=目12}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|đồng|rs=目12}}\n\n# {{defn|lang=vi|sort=目12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* Nôm: đồng, tròng"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942\n* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999\n* Vũ Văn Kính: Đại Tự Điển Chữ Nôm, NXB Văn Nghệ, Ho Chi Minh Ville, 1999"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

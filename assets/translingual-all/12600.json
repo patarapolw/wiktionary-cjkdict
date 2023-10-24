@@ -1,0 +1,75 @@
+{
+  "title": "嗍",
+  "ns": 0,
+  "id": 12600,
+  "timestamp": 1534346847000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=10|sn=13|four=67020|canj=RTUB|ids=⿰口朔}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0202.200|dkj=04064|dj=0425.010|hdz=10671.010|uh=55CD|ud=21965|bh=DCDE|bd=56542}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=欶-Min Nan,噪-Min Nan}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=嗍\n|c=sok3\n|mn=xm,qz,tp,kh,tn,tc,hc,lk,sx,yl,km,mg:suh/zz,tp,kh,tn,lk,yl,pn:soh\n|mn-t=suh4\n|w=4soq\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary|or|dialectal}} to [[suck]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|嗍管|嗍薰}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口10}}\n\n# {{defn|lang=ja|sort=口10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[さく]] (saku)|kun=[[すふ]] (sufu)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

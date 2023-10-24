@@ -1,0 +1,61 @@
+{
+  "title": "烯",
+  "ns": 0,
+  "id": 19960,
+  "timestamp": 1503887430000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=07|sn=11|four=94827|canj=FKKB|ids=⿰火希}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0671.100|dkj=19037|dj=1080.070|hdz=32205.040|uh=70EF}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp|zh|yue}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|火|t1=fire|希|ls=psc|c1=s|c2=p|no_och2=y}}, the latter being derived from {{zh-l|稀|rare}} of which it is the phonetic element. This is coined in light of the observed lack of hydrogens (as compared to alkanes) in alkenes and the fact that alkenes are flammable.\n\nCompare {{zh-l|烷|[[alkane]]}}, {{zh-l|炔|[[alkyne]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xī\n|c=hei1\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=\n|oc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic compound}} [[alkene]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|烯烴|乙烯|丙烯|丁烯|環戊二烯|苯乙烯|薴烯|三氯乙烯|氯乙烯|聚乙烯|聚苯乙烯|聚丙烯|蒎烯}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

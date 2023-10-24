@@ -1,0 +1,82 @@
+{
+  "title": "娧",
+  "ns": 0,
+  "id": 13762,
+  "timestamp": 1553314791000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F864}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=38|rad=女|as=07|sn=10|four=|canj=VCRU|ids=⿰女兌}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0263.120|dkj=06333|dj=0529.290|hdz=21053.040|uh=5A27|ud=23079}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tuì\n|c=teoi3\n|mc=y\n|oc=y\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=女07}}\n\n# {{defn|lang=ja|sort=女07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[たい]] (tai), [[て]] (te), [[えつ]] (etsu), [[えち]] (echi)|kun=[[みめよい]] (mimeyoi), [[よろこぶ]] (yorokobu)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=태|rv=tae|mr=t'ae}}\n\n# {{defn|lang=ko|sort=女07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

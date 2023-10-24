@@ -1,0 +1,145 @@
+{
+  "title": "説",
+  "ns": 0,
+  "id": 7033,
+  "timestamp": 1554168759000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|說|说}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|說|説|说}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=149|rad=言|as=07|sn=14|four=|canj=XYRCR,YRCRU|ids=⿰言兑}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𡣛]]}} <!-- Contains 説 not 說 -->"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[說]]}} ''({{w|Traditional Chinese|Traditional form}} used in Taiwan, also the orthodox form in {{w|Kangxi dictionary}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "説 is not encoded in the {{w|Big5}} character set for traditional Chinese characters."
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1165.051|dkj=35556|hdz=63979.030|uh=8AAC}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|說|vt}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is the preferred form used in Hong Kong.<!-- http://input.foruto.com/ccc/gongbiu/dzijingbiu/ --> It is also the traditional form of {{l|zh|说}} used in mainland China. <!-- https://zh.wikisource.org/wiki/通用规范汉字表 -->"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=言07}} <!-- Not a shinjitai character. -->\n\n# [[theory]]\n# [[explanation]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えち, せ, せち\n|kanon=えつ, せい, せつ\n|kanyoon=ぜい\n|kun=と-く\n|nanori=あき, かぬ, かね, こと, さとし, つぐ, とき, とく, のぶ, ひさ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|説明|せつめい}}: an [[explanation]]; to [[explain]]\n* {{ja-r|説得|せっとく}}: [[persuasion]], [[persuade]]\n* {{ja-r|説得力|せっとくりょく}}: [[persuasive]] [[force]], [[persuasiveness]]\n* {{ja-r|逆説|ぎゃくせつ}}: a [[paradox]]\n* {{ja-r|仏説|ぶっせつ}}: the [[saying]]s or [[teaching]]s of [[Buddha]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|yomi=o|せつ}}\nFrom {{der|ja|ltc|-}} {{ltc-l|說|id=3}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|せつ|y=o|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せつ}}\n\n# [[theory]]\n#: {{ja-usex|{{...}} と いう '''説''' を [[否定]] する|{{...}} と いう '''せつ''' を ひてい する|reject the '''theory''' that {{...}}}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[설]], [[세]], 열|eumhun=|rv=seol, se, yeol|mr=sŏl, se, yŏl|y=sel, sey, yel}}\n\n# {{defn|lang=ko|sort=言07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=言07|reading=[[thuyết]], [[thót]], [[thốt]]}}\n\n# {{defn|lang=vi|sort言07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=8AAC Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

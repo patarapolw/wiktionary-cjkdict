@@ -1,0 +1,94 @@
+{
+  "title": "㑚",
+  "ns": 0,
+  "id": 10176,
+  "timestamp": 1534266628000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=07|sn=9|four=|canj=OSQL|ids=⿰亻那}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0103.290|dkj=00656|hdz=10154.070|uh=345A|ud=13402}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=nuó\n|c=naa4,no4\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{rfv-sense|zh}} {{zh-alt-form|那|[[that]]; [[there]]}}\n# {{n-g|Used for transliteration in Buddhist scriptures.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=倷}}\nContraction of {{zh-l|*爾|you}} + {{zh-l|*拉|plural marker}}: {{IPAchar|/n̩ la/}} → {{IPAchar|/n̩ na/}} → {{IPAchar|/na/}} ({{zh-ref|You, 1995}}; {{zh-ref|Zhang, 2001}}).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|w=3na\n|cat=pron\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Shanghainese}} [[you]] (plural)\n# {{lb|zh|Shanghainese}} [[your]] (singular or plural)\n#: {{zh-x|立 辣 窗口頭 個 搿個 人 是 㑚 經理，對 𠲎？|The man standing near the window is your manager, right?|SH}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|你們}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=나|y=na|eumhun=어찌|ehrv=eojji|ehmr=ŏtchi|ehy=ecci}}\n\n# {{defn|lang=ko|sort=人07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

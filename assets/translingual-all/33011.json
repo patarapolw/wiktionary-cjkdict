@@ -1,0 +1,118 @@
+{
+  "title": "麭",
+  "ns": 0,
+  "id": 33011,
+  "timestamp": 1542299046000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=199|rad=麥|as=05|sn=16|four=47241|canj=JEPRU|ids=⿰麥包}}\n\n# sticky rice ball",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1513.080|dkj=47757|dj=2042.060|hdz=74602.120|uh=9EAD|ud=40621|bh=ECB3|bd=60595}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms|s=𮮆}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=pào\n|c=paau3\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[cake]], [[pastry]]\n<!---糕饼--->"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=胖|s=𮮆}}\nBorrowed from {{bor|zh|ja|パン|tr=pan||bread}}, from {{der|zh|pt|pão||bread}}, from {{der|zh|la|panem}}, [[Appendix:Glossary#accusative|accusative]] singular form of {{m|la|panis||bread}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|h=pfs=pháng\n|mn=tw:pháng\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Taiwanese Min Nan and Hakka}} [[bread]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "{{zh-dial|麵包}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|俗麭:sio̍k-pháng}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=麥05}}\n\n# {{defn|lang=ja|sort=麥05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ほう]] (hō)|kun=[[こなもち]] (konamochi)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[포]]|rv=po|mr=p'o}}\n\n# {{defn|lang=ko|sort=麥05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

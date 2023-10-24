@@ -1,0 +1,75 @@
+{
+  "title": "龱",
+  "ns": 0,
+  "id": 6061117,
+  "timestamp": 1545882581000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=31|rad=囗|as=2|sn=5|canj=WK|ids=⿴囗㐅}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|uh=9FB1}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|四|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|囟|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Hankyu Umeda Ticket.jpg|thumb|right|200px|A ticket with the character 龱, instead of [[田]]. ]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=囗02}}\n\n# {{defn|lang=ja|sort=囗02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|kun=た-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* A variant of {{ja-l|田}}, as in {{ja-l|梅田}} (''Umeda'', place name in [[Osaka]]), used by [[w:Hankyu|Hankyu Railway]]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "title": "鮟",
+  "ns": 0,
+  "id": 32134,
+  "timestamp": 1515848921000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=195|rad=魚|as=06|sn=17|four=23344|canj=NFJV|ids=⿰魚安}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1469.030|dkj=46108|dj=2001.410|hdz=74689.090|uh=9B9F|ud=39839}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𩽾}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|魚|t1=fish|安|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=àn\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hist-ghost}} {{n-g|Name of a kind of fish.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=鮟\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|鮟鱇}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|鮟鱇}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=魚06鮟}}\n\n# [[anglerfish]], [[monkfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=あん\n|kanon=あん\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|鮟鱇|あんこう}}: [[anglerfish]], [[monkfish]]\n* {{ja-r|鮟肝|あんきも}}: [[monkfish]] [[liver]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Only found in compounds. Not used in isolation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=안|eumhun=|rv=an|mr=an|y=an}}\n\n# ([[아귀]]) [[monkfish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|ko|鱇}} (안, ''gang'')"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[鮟鱇]] ([[안강]], ''an-gang'') [[monkfish]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

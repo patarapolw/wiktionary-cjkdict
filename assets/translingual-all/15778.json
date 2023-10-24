@@ -1,0 +1,126 @@
+{
+  "title": "憎",
+  "ns": 0,
+  "id": 15778,
+  "timestamp": 1553313220000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFA3F}}\n{{character info|0xFA89}}\n{{character info|0x2F8AB}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|憎|憎|憎}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note difference between Chinese form, which uses {{lang|und|sc=Hani|[[曾]]}}, and Japanese shinjitai which uses {{lang|ja|[[曽]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=61|rad=心|as=12|asj=11|sn=15|snj=14|four=98066|canj=PCWA|ids=⿰忄曾(GHTK),⿰忄曽(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* [[增]] ([[増]]) [[僧]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0402.080|dkj=11188|dj=0742.100|hdz=42356.080|uh=618E|ud=24974|bh=BCA8|bd=48296}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|心|alt1=忄|t1=heart|曾|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zēng,zèng,2nb=nonstandard variant\n|c=zang1\n|h=pfs=chen\n|md=cĕng\n|mn=xm,zz,tw:cheng/qz:chng\n|w=1tsen\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary|or|Cantonese}} to [[hate]]; to [[detest]]; to [[abhor]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|討厭}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|可憎|怨憎會苦|愛憎分明|僕憎|嫌憎|可憎才|可人憎|愛憎|可憎娘|憎惡|文章憎命|憎恨|盜憎主人|面目可憎}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=心12|kyu=憎}}\n\n# hate",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう\n|kanon=そう\n|kanyoon=ぞう\n|kun=にく-む, にく-しみ, にく-い, にく-らし.い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|合憎|gloss=[[unfortunately]]|あいにく}}\n* {{ja-r|生憎|gloss=[[unfortunately]]|あいにく}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=증|eumhun=|rv=jeung|mr=chŭng|y=cung}}\n\n# {{defn|lang=ko|sort=心12}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[tăng]]|rs=心12}}\n\n# {{defn|vi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

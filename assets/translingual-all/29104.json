@@ -1,0 +1,121 @@
+{
+  "title": "酪",
+  "ns": 0,
+  "id": 29104,
+  "timestamp": 1545537465000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=164|rad=酉|as=06|sn=13|four=17664|canj=MWHER|ids=⿰酉各}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1282.220|dkj=39847|dj=1782.190|hdz=63581.120|uh=916A|ud=37226|bh=B954|bd=47444}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{unk|zh}}. Possibly from a Central Asian language; compare {{cog|mn|-}} {{m|mn|айраг||fermented milk of mares}} and {{cog|tr|ayran||yoghurt mixed with water}}. The phonetic similarity between Chinese {{och-l|酪|milk}}, {{cog|grc|γάλα||milk}} and {{cog|la|lac||milk}}, from {{cog|ine-pro|-}} {{m|ine-pro|*ǵlákts||milk}} is worth noting ({{zh-ref|Schuessler, 2007}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=酪\n|c=lok3,lou6,lok6\n|h=pfs=lok\n|md=\n|mn=lo̍k\n|w=5loq\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# curdled milk, [[cream]], [[cheese]]\n# fruit juice\n# [[koumiss]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|乳酪|乾酪|優酪乳|奶酪|牛酪|酥酪|酪乳|酪奴|酪梨|酪漿|酪素|酪蛋白|酪農|酪農業|酪酥|酪酸|酸凝酪|酸酪乳}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=酉06}}\n\n# {{defn|lang=ja|sort=酉06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=らく\n|kanon=らく\n|kun=ちちざけ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|乾酪|かんらく}}: [[cheese]]\n* {{ja-r|牛酪|ぎゅうらく}}: [[butter]]\n* {{ja-r|酪農|らくのう}}: [[dairy farm]]\n* {{ja-r|酪酸|らくさん}}: [[butyric acid]]\n{{der-bottom}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[락]]>[[낙]]}}\n\n# {{defn|lang=ko|sort=酉06}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[lộ]]|rs=酉06}}\n\n# {{defn|lang=vi|sort=酉06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=916a Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

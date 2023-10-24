@@ -1,0 +1,61 @@
+{
+  "title": "汉",
+  "ns": 0,
+  "id": 18616,
+  "timestamp": 1536276659000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|漢}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=5}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=02|sn=5|four=37140|canj=EE|ids=⿰氵又}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𭇙]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[漢]]}} ''({{w|Traditional Chinese|Traditional form}} of  汉)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0604.091|hdz=31549.080|uh=6C49}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han simp|漢}} (elimination of right component to <small>{{l|zh|又}}</small>) in the 1956 {{w|Chinese Character Simplification Scheme}} by the People's Republic of China. Not known to have existed prior to that. <!-- Refer https://zh.wikisource.org/wiki/漢字簡化方案 -->"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|漢}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

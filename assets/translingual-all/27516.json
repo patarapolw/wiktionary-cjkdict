@@ -1,0 +1,97 @@
+{
+  "title": "豭",
+  "ns": 0,
+  "id": 27516,
+  "timestamp": 1551844246000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=152|rad=豕|as=09|sn=16|four=17247|canj=MORSE|ids=⿰豕叚}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1198.050|dkj=36435|dj=1660.080|hdz=63618.150|uh=8C6D|ud=35949|bh=BFDE|bd=49118}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|豕|叚|ls=psc|c1=s|c2=p}}.\n\nDerivative: {{zh-l|*家|home}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{zh-ref|Wang (1982)}} relates this word to {{och-l|羖|(black) [[ram]]}}, {{och-l|牯|male bovine}} and {{och-l|麚|stag}}; thus, this word is likely a general word for “male animal”. However, {{zh-ref|Schuessler (2007)}} considers {{och-l|牯}} to be a post-classical loanword from {{cog|aav}}, and {{och-l|羖}} a cognate to {{och-l|羯|[[wether]]}}. See these entries for more.\n\nThe common word for “pig” in most modern varieties of Chinese, {{och-l|豬}}, is likely a derivative. See there for more."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiā\n|c=gaa1\n|h=pfs=\n|md=\n|mn=\n|w=\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[boar]]; [[male]] pig\n# {{lb|zh|in general}} [[pig]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|艾豭}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=豕09}}\n\n# [[boar]]\n# male pig",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[か]] (ka), [[け]] (ke)|kun=[[おすのいのこ]] (osunoinoko)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=가|rv=ga|mr=ka}}\n\n# a (male) hog\n# a boar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

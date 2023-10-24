@@ -1,0 +1,131 @@
+{
+  "title": "暑",
+  "ns": 0,
+  "id": 17135,
+  "timestamp": 1553551442000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|署|者}}\n{{character info/new}}\n{{character info|0xFA43}}\n{{character info|0x2F8CF}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In Korean {{w|hanja}}, there is an additional {{l|mul|丶}} stroke above {{l|mul|日}} in the component <font size=5, font lang=ko>[[者#Translingual|者]]</font>, which is also the historical form found in the {{w|Kangxi dictionary}}.\n* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+FA43</code> for the Japanese {{w|kyūjitai}} form which is similar to the form above."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=72|rad=日|as=08|ask+=09|sn=12|snk+=13|four=60604|canj=AJKA,AJKI|ids=⿱日者(GHTJV),⿳日⿸耂丶日(K,<code>U+FA43</code>)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[濐]], [[龧]], [[𮟕]], [[𭿦]], [[𮘼]], [[鱪]], [[𢋂]], [[𦾧]], [[𤻃]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0498.130|dkj=14031|dj=0866.110|hdz=21516.020|uh=6691}}\n{{Han ref|uh=FA43}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|日|者|c1=s|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shǔ\n|c=syu2\n|mn=xm,tw:sú/qz:sír/zz,ph:sí\n|mn-t=su2\n|mc=y\n|oc=y\n|ma=\n|cat=n,a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[heat]]; [[hotness]]\n# [[summer]]; [[summer]] [[heat]]; hot [[weather]]\n# [[hot]]; [[heated]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|去暑|徂暑|寒暑|寒來暑往|小暑|伏暑|中暑|大專暑訓|大暑|受暑|再寒暑|寒暑表|寒暑推移|寒耕暑耘|溽暑|蒸暑|浮瓜避暑|暑伏|炎暑|暑修班|暑月|暑期學校|拂暑|盛暑|殘暑|盛暑祁寒|癉暑|暑往寒來|暑歲|祁寒暑雨|暑氣|祁寒溽暑|烈暑|暑期|暑假|消暑|暑來寒往|暑天|暑雨|暑熱|酷暑|觸暑|避暑勝地|繁暑|隆暑|避暑|逭暑|闌暑|處暑}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|k=y}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=日08}}\n\n# [[hot]], [[warm]] (weather), [[heat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょ<しよ\n|kanon=しょ<しよ\n|kun=あつ-い\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[残暑]]\n* [[避暑]]\n* [[猛暑]]"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|ja|暑い}}\n* {{l|ja|暑さ}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|서}}\n\n# {{defn|lang=ko|sort=日08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=日08|reading=thử}}\n\n# {{defn|lang=vi|sort=日08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=6691 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

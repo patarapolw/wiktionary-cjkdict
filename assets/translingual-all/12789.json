@@ -1,0 +1,87 @@
+{
+  "title": "噺",
+  "ns": 0,
+  "id": 12789,
+  "timestamp": 1511576013000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=13|sn=16|four=|canj=RYDL|ids=⿰口新}}\n\n# [[story]], [[talk]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0211.121|dkj=04433|dj=0434.080|hdz=10693.101|uh=567A|ud=22138}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=はなし-\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|はなし|yomi=k}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はなし}}\n\n# {{alternative form of|話し|lang=ja}}: [[story]]\n#: {{ja-usex|'''噺'''家|'''はなし'''か|professional '''rakugo story'''teller}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Used especially in the context of [[rakugo]]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[신]]|rv=sin|mr=sin}}\n\n# {{defn|lang=ko|sort=口13}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

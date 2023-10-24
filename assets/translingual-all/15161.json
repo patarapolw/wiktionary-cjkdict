@@ -1,0 +1,92 @@
+{
+  "title": "弢",
+  "ns": 0,
+  "id": 15161,
+  "timestamp": 1553313709000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F894}}\n{{character info|0x2F895}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=57|rad=弓|as=05|sn=8|four=12247|canj=NUE|ids=⿰弓𠬢}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0357.250|dkj=09748|dj=0674.070|hdz=20994.040|uh=5F22|ud=24354|bh=CC71|bd=52337}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tāo\n|c=tou1\n|cat=n,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|韜}}"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "Also used in [[personal names]]."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=弓05}}\n\n# {{defn|lang=ja|sort=弓05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[とう]] (tō)|kun=[[ゆみぶくろ]] (yumibukuro)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}\n\n# {{defn|lang=ko|sort=弓05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

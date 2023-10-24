@@ -1,0 +1,126 @@
+{
+  "title": "蛍",
+  "ns": 0,
+  "id": 25931,
+  "timestamp": 1549587310000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|螢|萤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|螢|蛍|萤}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Japanese {{w|shinjitai}} character. {{Han simp|螢|f=炏|t=⺍}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=142|rad=虫|as=05|sn=11|four=|canj=FBLMI|ids=⿳⺍冖虫}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1081.111|dkj=32983|hdz=42845.041|uh=86CD|ud=34509}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|螢|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|蛍|螢}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=虫05|kyu=螢}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぎょう<ぎやう\n|kanon=けい<けい<くゑい\n|kun=ほたる-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|蛍%光|けい%こう|[[fluorescence]]}}\n* {{ja-r|蛍%光%灯|けい%こう%とう|[[fluorescent lamp]]}}\n* {{ja-r|蛍%光%染%料|けい%こう% せん%りょう|[[fluorescent]] [[dye]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=k|ほたる}}\n{{swp|lang=ja|ホタル}}\nFrom {{inh|ja|ojp|-}}. Appears in the ''{{w|Man'yōshú}}'', compiled some time after 759 CE.<ref name=\"MYS\">{{RQ:Manyoshu|13|3344}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man13Yo.html#3344 here]</ref>  Ultimate derivation {{unk|ja|nocap=1|sort=ほたる}}.\n* The initial ''ho'' element is almost certainly the ancient form of {{m|ja|火|tr=hi||fire}}, which appears as ''ho'' in compounds such as {{m|ja|炎|tr=honō||flame|pos=originally from ''ho no ho''}} or {{m|ja|火屋|tr=hoya||lamp chimney}}.\n* Various theories exist regarding the ''taru'' portion. This may be from classical verb {{m|ja|垂る|tr=taru||to hang down, to droop|pos=in reference to a firefly's posterior; modern form {{m|ja|垂れる|tr=tareru}}}}, or a vowel shift from verb {{m|ja|照る|tr=teru||to shine}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ほたる|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほたる|ホタル|kyu=螢}}\n\n# a [[firefly]]\n#:{{ja-usex|'''火%垂る'''の墓|'''^ほ%たる''' の ^はか|{{w|Grave of the Fireflies|Grave of the '''Fireflies'''}}}}\n#* {{quote-book|||{{ruby|{{w2|ja|虹色とうがらし|[虹色とうがらし](ＮＩＪＩ－ＩＲＯ　ＴＯＨＧＡＲＡＳＨＩ)}}}}\n||30\n|last=Adachi\n|first=Mitsuru\n|authorlink=Mitsuru Adachi\n|chapter={{ruby|{{lang|ja|[魔](ま)[法](ほう)の[粉](こな)の[巻](まき)}}}}\n|trans-chapter=Magical Powder\n|trans-title={{w|Niji-iro Tōgarashi|Rainbow-Colored Chilis}}\n|genre=fiction\n|lang=ja\n|location=Tokyo\n|publisher=Shogakukan\n|date=Jul 15 1991\n|volume=4\n|isbn=4-09-122464-4}}\n#*: {{ja-usex|しってるか、'''ホタル'''ってのは虫だぞ。|しってる か、'''ホタル''' って の は むし だ ぞ。|Did you not know '''fireflies''' were insects too?}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|蛍%石|ほたる%いし|{{w|fluorite}}}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|けい}}\n\nFrom {{bor|ja|ltc|sort=けい|-}} {{ltc-l|螢|firefly}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|けい}}\n\n# {{n-g|used in various compounds to refer to {{m|en|fluorescence}}}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|けい|proper}}\n\n# {{given name|male|or=female|lang=ja|sort=けい}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|words with multiple readings}}\n{{cln|ja|basic words|sort=ほたる}}\n{{C|ja|Beetles|sort=ほたる}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=형|eumhun=|rv=hyeong|mr=hyŏng|y=hyeng}}\n\n# {{defn|lang=ko|sort=虫05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

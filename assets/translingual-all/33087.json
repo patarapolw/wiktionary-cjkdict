@@ -1,0 +1,133 @@
+{
+  "title": "黴",
+  "ns": 0,
+  "id": 33087,
+  "timestamp": 1531797433000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|霉}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=203|rad=黑|as=11|sn=23|four=28240|canj=HOUFK,XHOUF|ids=⿲彳𪑛}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𭼼]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[霉]]}} ''({{w|Variant Chinese character|Variant}} and {{w|Simplified Chinese|simplified form}} in Chinese)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1521.470|dkj=48196|dj=2057.030|hdz=20851.250|uh=9EF4}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=霉|alt=⿲彳⿳山一里攵,霉,⿰𡼡攵,黣,⿰⿳山一黒攵,𪑛,⿲亻⿱山黒攵,⿲彳⿱山黒攵,⿱山⿰彳𪐫,⿲彳𡼡攵,⿲彳⿳山一黒攵}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A04782 -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|微|黑|c1=p|c2=s|t2=black|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=méi\n|c=mei4,mui4\n|c_note=mei4 - colloquial; mui4 - variant\n|mn=xm,qz:mûi/zz:bôe/xm,tw:bî/xm:hui\n|mc=y\n|oc=y\n|ma=\n|cat=n,v,a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[mold#Etymology 2|mold]]; [[mildew]]; [[must]]\n# {{zh-alt-lb|霉}} to become [[moldy]]\n# {{lb|zh|of one's face}} [[dirty]]; [[dingy]]; [[dark]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|黴菌|土黴素|康黴素|白黴素|新黴素|白黴|氯黴素|黴黑|黴黧|黴菌病|麴黴|赤黴素|青黴素|青黴|黑黴菌|金黴素|鉑黴素|鏈黴素}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A04782}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=黑11}}\n\n# {{defn|lang=ja|sort=黑11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=め, み\n|kanon=ばい, び\n|on=まい\n|kun=かび-, かび-る\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かび|カビ}}\n\n# [[mold#Etymology 2|mold]]\n\n[[Category:ja:Fungi|かび]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}\n\n# {{defn|lang=ko|sort=黑11}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=黑11|[[mai]], [[mị]]}}\n\n# {{defn|lang=vi|sort=黑11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=9EF4 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "㵃",
+  "ns": 0,
+  "id": 4056848,
+  "timestamp": 1529696089000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=11|sn=14|canj=ELIP|four=|ids=⿰氵蛇}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0646.140|hdz=31723.080|uh=3D43}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{Han compound|水|alt1=氵|蛇|ls=psc|c1=s|c2=p|t1=river; water}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shé\n|c=se4\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# She {{gloss|name of a stream}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

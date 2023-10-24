@@ -1,0 +1,123 @@
+{
+  "title": "㗎",
+  "ns": 0,
+  "id": 1352500,
+  "timestamp": 1550299384000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=09|sn=12|canj=RKRD|ids=⿰口架}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0201.121|uh=35CE}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|口|架|ls=psc|c1=s|c2=p|no_och2=1|t1=mouth; vernacular}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{rfe|zh|contraction of 嘅啊?}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{zh-forms|alt=架-nonstandard,o架-nonstandard,咖,𡃉}}\n{{zh-pron\n|m=jià\n|c=gaa3\n|cat=part\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}} {{tlb|zh|Cantonese}}\n\n# {{non-gloss definition|Sentence-final particle that marks emphasis or surprise.}}\n#: {{zh-x|咁 衰{seoi1} 㗎{gaa3}！|That's awful!|C}}\n# {{non-gloss definition|Sentence-final particle used in a question seeking information or confirmation.}}\n#: {{zh-x|係 唔係 真 㗎{gaa3}？|Is that true?|C}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{zh-forms|alt=架-nonstandard,o架-nonstandard,嘎}}\n{{zh-pron\n|c=gaa4\n|cat=part\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}} {{tlb|zh|Cantonese}}\n\n# {{non-gloss definition|Sentence-final particle used in a question seeking confirmation.}}\n#: {{zh-x|真係 㗎{gaa4}？|Really?|C}}\n# {{non-gloss definition|Sentence-final particle used in a rhetorical question.}}\n#: {{zh-x|你 當 我 傻 㗎{gaa4}？|You think I am dumb?|C}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 3",
+                  "text": "{{zh-forms|alt=架-nonstandard,o架-nonstandard,𠿪}}\n{{zh-pron\n|c=gaa2\n|cat=part\n}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Definitions",
+                      "text": "{{zh-hanzi}} {{tlb|zh|Cantonese}}\n\n# {{rfdef|zh}}\n#: {{zh-x|冇 理由 佢 會 偷 嘢 㗎{gaa2}。|No way would he steal.|C}}\n#: {{zh-x|你 要 邀請{cing2} 人 先 會 有 人 嚟 㗎{gaa2}。|You have to invite people for people to come.|C}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=架,嘎}}\nTwo theories:\n* From the common {{der|yue|ja|-}} particle {{ja-r|か}}.\n* From the second syllable of {{der|yue|ja|-}} {{ja-r|馬鹿|ばか|fool; idiot}}, used by Japanese soldiers during the Sino–Japanese War.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=gaa4\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese|derogatory|ethnic slur|attributive}} [[Japanese]]; [[Jap]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|㗎仔|㗎妹|㗎佬|㗎文|㗎話|㗎頭}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja/new|음역자|가}}\n\n# a transliteration sinogram"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

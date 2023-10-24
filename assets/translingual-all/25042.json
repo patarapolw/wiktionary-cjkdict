@@ -1,0 +1,104 @@
+{
+  "title": "莒",
+  "ns": 0,
+  "id": 25042,
+  "timestamp": 1528463775000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Due to {{w|Han unification}}, the {{w|Traditional Chinese|traditional form}} containing <font size=4.5, lang=\"zh-hant\">[[呂]]</font> and {{w|Simplified Chinese|simplified form}} containing <font size=4.5, lang=\"zh-hans\">[[吕]]</font> are encoded under the same [[code point]]. Depending on the font installed, this character may appear to be either <font size=4.5, lang=\"zh-hant\">莒</font> or <font size=4.5, lang=\"zh-hans\">莒</font>."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=07|asc=06|sn=10|snc=9|four=44606|canj=TRHR,TRR|ids=⿱艹吕(G),⿱艹呂(HTJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𪬠]]}} ''(Contains ⿱{{l|mul|[[艹]][[呂]]}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1034.030|dkj=31046|dj=1493.080|hdz=53204.030|uh=8392}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp|zh:莒國|en:Ju (state)}}\n{{zh-wp|zh:莒縣|en:Ju county}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jǔ\n|c=geoi2\n|mn=xm,tp:kú/qz:kír/zz,kh:kí\n|mc=y\n|oc=y\n|cat=n,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[taro]]\n#: {{zh-syn|芋}}\n# {{zh-div|國}} {{w|Ju (state)|state of Ju}} during the {{w|Zhou dynasty}}\n# {{zh-div|縣}} {{w|Ju county}} in [[Shandong]] province\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|在莒|毋忘在莒|莒光|莒光樓|莒光連隊|莒刀|莒拳|莒縣}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸07}}\n\n# {{defn|lang=ja|sort=艸07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[きょ]] (kyo), [[こ]] (ko)|kun=[[いも]] (imo)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=거|eumhun=|rv=geo|mr=kŏ|y=ke}}\n\n# {{defn|lang=ko|sort=艸07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

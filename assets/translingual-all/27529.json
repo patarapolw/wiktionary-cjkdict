@@ -1,0 +1,134 @@
+{
+  "title": "豹",
+  "ns": 0,
+  "id": 27529,
+  "timestamp": 1553508132000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=153|rad=豸|as=03|sn=10|four=27220|canj=BHPI|ids=⿰豸勺}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𬿅]], [[𠹕]], [[𭱯]], [[𥔰]], [[𪕺]], [[𦷒]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1199.390|dkj=36499|dj=1662.030|hdz=63908.060|uh=8C79}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Exopassive derivative, meaning \"the spotted one\", of {{och-l|[[駁]]|piebald}}, from {{inh|zh|sit-pro|*bruk}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bào\n|c=paau3,baau3\n|mn=pà/ml:pàu\n|mn_note=pà - vernacular; pàu - literary\n|mn-t=ba3\n|w=2pau\n|mc=y\n|oc=y\n|ma=\n|cat=n,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[leopard]]; [[panther]]\n# {{lb|zh|more specifically}} [[leopard]], ''[[Panthera pardus]]''\n#: {{zh-syn|金錢豹}}\n# {{surname|lang=zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|全豹|南山霧豹|南山隱豹|君子豹變|半豹|玄豹|熊心豹膽|海豹|獵豹|豹值|窺豹一斑|豹隱|豺狼虎豹|豹變|豹貓|金錢豹|豹尾車|豹頭環眼|黑豹|豹略|管中窺豹|豹子|雪豹|豹皮帽|霧豹|龍肝豹胎|豹死留皮|豹尾班|美洲豹|豹環|豹頭猿臂|豹腳|豹立直|虎豹豺狼|虎豹之文|豹房}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{thcwd|6693}}\n\n{{zh-cat|Panthers}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=豸03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう<へう\n|kanon=ほう<はう\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ひょう|yomi=o}}\n{{swp|lang=ja|ヒョウ}}\nFrom {{der|ja|ltc|tr=paew<sup>H</sup>|豹|sort=ひょう}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|acc=1|y=go|ひょう}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひょう|ヒョウ|hhira=へう|hkata=ヘウ}}\n\n# a [[leopard]] {{gl|a large wild cat with a spotted coat, ''Panthera pardus''}}\n\n{{C|ja|Panthers|sort=ひょう}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "{{ko-hanjatab}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=표|eumhun=표범 표|rv=pyo|mr=p'yo|y=phyo}}\n\n# {{defn|lang=ko|sort=豸03}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "{{vi-hantutab}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[báo]], [[beo]], [[bươu]]|rs=豸03}}\n\n# {{han tu form of|báo|[[spotted]] [[big cat]]}}\n# {{Nom form of|beo|spotted big cat}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

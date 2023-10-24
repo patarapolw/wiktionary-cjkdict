@@ -1,0 +1,92 @@
+{
+  "title": "莰",
+  "ns": 0,
+  "id": 25073,
+  "timestamp": 1515782645000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=07|sn=13|four=44182|canj=TGNO,XXTGN|ids=⿱艹坎}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1036.401|hdz=53214.090|uh=83B0}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|艸|alt1=艹|坎|ls=psc|c1=s|c2=p|no_och2=y}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Borrowed from {{bor|zh|en|camphane}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=kǎn\n|m-s=\n|c=ham2\n|c-t=\n|g=\n|h=pfs=\n|j=\n|md=\n|mn=\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic compound}} [[camphane]], [[bornane]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|莰烷|莰烯}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|khảm|rs=艸07}}\n\n# {{defn|lang=vi|sort=艸07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* Nôm: khóm, khúm"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* Vũ Văn Kính: Đại Tự Điển Chữ Nôm, NXB Văn Nghệ, Ho Chi Minh Ville, 1999"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

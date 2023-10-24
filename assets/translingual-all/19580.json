@@ -1,0 +1,94 @@
+{
+  "title": "澖",
+  "ns": 0,
+  "id": 19580,
+  "timestamp": 1553557368000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=12|sn=15|four=37120|canj=EAND|ids=⿰氵閑}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0652.210|dkj=18349|dj=1062.170|hdz=31749.020|uh=6F96}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xián\n|c=haan4\n|mc=\n|oc=\n|ma=\n|cat=a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[without]] [[border]] and [[hill]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 144]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水12}}\n\n# {{defn|lang=ja|sort=水12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=かん, げん\n|kun=はてがない\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=水12|reading=nhờn}}\n\n# {{defn|lang=vi|sort=水12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "*[http://nomfoundation.org/common/nom_details.php?codepoint=6f96 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

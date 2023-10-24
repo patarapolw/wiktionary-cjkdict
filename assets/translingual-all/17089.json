@@ -1,0 +1,116 @@
+{
+  "title": "曁",
+  "ns": 0,
+  "id": 17089,
+  "timestamp": 1531380879000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|暨}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=72|rad=日|as=12|sn=16|four=21106|canj=HUAM|ids=⿱旣旦}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𡃢]]}} <!-- Note: 櫭, 𩽙 are derived from 暨 not 曁 in Unicode -->"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[暨]]}} ''(Preferred form in modern Chinese)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0500.020|dkj=14165|hdz=21531.070|uh=66C1}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|暨}}"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character is the original form that is found in the historical {{w|Kangxi dictionary}}."
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A01818-001}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日12}}\n\n# [[and]]\n# [[along with]]\n# to [[reach]]\n# to [[extend]] to",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=き\n|kun=およ-ぶ\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}\n\n# {{defn|lang=ko|sort=日12}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=日12|[[hí]]}}\n\n# {{defn|lang=vi|sort=日12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=66c1 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

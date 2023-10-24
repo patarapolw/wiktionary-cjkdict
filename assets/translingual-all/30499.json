@@ -1,0 +1,128 @@
+{
+  "title": "闢",
+  "ns": 0,
+  "id": 30499,
+  "timestamp": 1531459247000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|辟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=169|rad=門|as=13|sn=21|four=77641|canj=ANSRJ|ids=⿵門辟}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𪸌]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[辟]]}} ''({{w|Simplified Chinese|Simplified form}} of ''<big>闢</big>'' in mainland China)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1342.100|dkj=41500|dj=1847.030|hdz=74320.120|uh=95E2}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=辟|alt=辟,𨳥,𨴔,𨵓}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTA0NDAw -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|門|辟|c1=p|c2=s|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=pì\n|m-s=\n|c=pik1\n|c-t=\n|g=\n|h=pfs=\n|j=\n|mb=pĭ\n|md=\n|mn=qz:phiak/tw:pe̍k/twv,xm,zz:phek/twv:pi̍t\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[open]]\n#: {{zh-syn|開}}\n# to [[settle]]; to [[develop]]; to [[open up]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|開闢|開天闢地|另闢蹊徑|另闢新徑|增闢|墾闢|別闢蹊徑|別闢門戶|各闢蹊徑|獨闢蹊徑|精闢|軒闢|透闢|闢田|闢築|闢邪|闢謠|闢建|闢室|闢地開天|闢地|闢佛|翕闢}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A04400}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=門13}}\n\n# {{defn|lang=ja|sort=門13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=びゃく<びやく\n|kanon=へき\n|kun=ひら-く\n|nanori=\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=벽|eumhun=|rv=byeok|mr=pyŏk|y=pyek}}\n\n# {{defn|lang=ko|sort=門13}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=門13|[[tịch]]}}\n\n# {{defn|lang=vi|sort=門13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=95E2 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

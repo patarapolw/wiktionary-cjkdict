@@ -1,0 +1,87 @@
+{
+  "title": "咢",
+  "ns": 0,
+  "id": 12282,
+  "timestamp": 1553324302000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F840}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=06|sn=9|four=66207|canj=RRMMS|ids=⿱吅亏}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0186.020|dkj=03529|dj=0405.240|hdz=10615.060|uh=54A2|ud=21666|bh=CE4B|bd=52811}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=㖾}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|吅|屰|c1=s|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=è\n|c=ngok6\n|mn=go̍k\n|mc=y\n|oc=y\n|ma=\n|cat=n,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[argue]]\n# {{zh-alt-form|愕|tr=-|to be [[surprise]]d}}\n# {{zh-alt-form|鍔|tr=-|[[blade]] ([[edge]]) of a [[sword]]}}\n# [[edge]] of a [[house]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口06}}\n\n# [[outspokenly]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=がく\n|kanon=がく\n|kun=おどろ-く}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=악|rv=ak|mr=ak}}\n\n# {{defn|lang=ko|sort=口06}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

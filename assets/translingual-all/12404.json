@@ -1,0 +1,109 @@
+{
+  "title": "唖",
+  "ns": 0,
+  "id": 12404,
+  "timestamp": 1548322418000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|啞}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|啞|唖|哑|ex=y}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=07|sn=10|four=|canj=RMLM,XRMLM|ids=⿰口亜}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0193.051|dkj=03743|dj=0413.130|hdz=10626.100|uh=5516|ud=21782}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=口07|kyu=啞}}\n\n# mute, dumb",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=え, やく\n|kanon=あ, あく\n|kun=おし-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{ja-kref\n|ku=1602\n|shift=88a0\n|jis=3022\n|euc=B0A2\n|freq=''not ranked''\n|nelson=939\n|newnelson=795\n|halpern=''not listed''\n|kld=''not listed''\n|heisig=2958\n|tuttle=3d8.3\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=あ|-}} {{ltc-l|啞|id=1}}.\n\nThe ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|あ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|あ}}\n\n# [[muteness]]; [[dumbness]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|あ}}\n\n# [[mute]], [[dumb]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top|mute, dumb}}\n* {{ja-r|唖者|あしゃ|a [[mute]] person}}\n* {{ja-r|唖然|あぜん|[[dumbfounded]], [[speechless]]}}\n* {{ja-r|唖鈴|あれい|[[dumbbell]]}}\n* {{ja-r|盲唖|もうあ|[[blind]] and [[deaf-mute]]}}\n* {{ja-r|聾唖|ろうあ|[[deafness]], [[deaf-mute]]}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-see|おし}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=아|rv=a|mr=a}}\n\n# {{defn|lang=ko|sort=口07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

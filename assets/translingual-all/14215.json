@@ -1,0 +1,89 @@
+{
+  "title": "寘",
+  "ns": 0,
+  "id": 14215,
+  "timestamp": 1553548384000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|置}}\n{{character info/new}}\n{{character info|0x2F86E}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=40|rad=宀|as=10|sn=13|four=30801|canj=JJBC|ids=⿱宀真}}\n\n# [[put]] [[aside]], put [[down]]\n# [[discard]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0289.270|dkj=07257|dj=0573.180|hdz=20945.090|uh=5BD8}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|置|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=宀10}}\n\n# {{defn|lang=ja|sort=宀10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=し\n|kun=おく, いれる, とめる, すこる\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|치}}\n\n# {{defn|lang=ko|sort=宀10}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=宀10|reading=trí}}\n\n# {{defn|lang=vi|sort=宀10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5bd8 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

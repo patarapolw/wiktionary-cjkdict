@@ -1,0 +1,125 @@
+{
+  "title": "叚",
+  "ns": 0,
+  "id": 12055,
+  "timestamp": 1538360868000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=29|rad=又|as=07|sn=9|four=77247|canj=RSSE,RYSE|ids=⿰⿸⿰丨コ𠄠⿱コ又}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[假]], [[婽]], [[徦]], [[溊]], [[猳]], [[暇]], [[腵]], [[椵]], [[煆]], [[犌]], [[瑕]], [[遐]], [[睱]], [[碬]], [[嘏]], [[蝦]], [[豭]], [[貑]], [[赮]], [[鍜]], [[騢]], [[鰕]]([[𫚥]]), [[葭]], [[霞]], [[麚]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0166.110|dkj=03165|dj=0378.050|hdz=10398.040|uh=53DA}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{attention|zh|fixed module error, then realized there are other problems}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=jiǎ\n|mc=y\n|oc=y\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-original|假|to [[borrow]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=xiá\n|cat=pn\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-alt-form|瑕}}\n# {{†}} {{zh-alt-form|遐}}\n# {{surname|lang=zh}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=又07}}\n\n# {{defn|lang=ja|sort=又07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[か]] (ka), [[け]] (ke), [[げ]] (ge)|kun=[[かりる]] (kariru), [[かす]] (kasu)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=가|rv=ga|mr=ka}}\n\n# {{defn|lang=ko|sort=又07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=又07|[[giả]]}}\n\n# {{defn|lang=vi|sort=又07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=53da Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

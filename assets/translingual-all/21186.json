@@ -1,0 +1,102 @@
+{
+  "title": "畿",
+  "ns": 0,
+  "id": 21186,
+  "timestamp": 1544704930000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=102|rad=田|as=10|sn=15|four=22653|canj=VIW}}\n\n# [[imperial]] [[domain]]\n# [[area]] near [[capital]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0766.080|dkj=21925|dj=1176.190|hdz=42551.090|uh=757F|ud=30079|bh=BD42|bd=48450}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|田|幾|c1=s|c2=p|ls=psc|abb2=y}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jī\n|c=gei1,kei4\n|mn=ki/kî\n|mn-t=gi1\n|w=3jji\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# Imperial domain; area near the capital"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|封畿|京畿|京畿令|畿縣|畿輦|畿輔|王畿|邦畿|近畿}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=田10}}\n\n# {{defn|lang=ja|sort=田10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=き\n|kun=みやこ-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|近畿|きんき}}: [[w:Kinki|Kinki]] region"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=기|eumhun='경기 - 왕도 주위로 오백리 이내의 땅'|rv=gi|mr=ki|y=ki}}\n\n# {{defn|lang=ko|sort=田10}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

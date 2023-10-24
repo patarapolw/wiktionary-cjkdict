@@ -1,0 +1,126 @@
+{
+  "title": "苜",
+  "ns": 0,
+  "id": 24842,
+  "timestamp": 1535924546000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𥄕}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=05|sn=9|snmj+=8|four=44600|canj=TBU|ids=⿱艹目}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is not to be confused with {{l|mul|𥄕}} (<code>U+25115</code>, \"''[[uneven]] [[eyes]]''\"), which contains <font size=4>[[⻀]]</font>, the ram's horn component instead of the grass radical."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𢱁]], [[𢉧]], [[𦱛]], [[𦳮]],<!-- Note: 𤊾 contains 𥄕 not 苜 --> [[𭔗]], [[𨘚]], [[𦢐]]}} <!-- Contains 苜 (grass radical) and not 𥄕 -->\n* {{l|mul|[[𥢞]]}} ''(Exception: Only for mainland China {{w|GB 18030|character form}} which contains grass radical. Taiwan {{w|zh:中文標準交換碼|character form}} contains <font size=4>[[⻀]]</font> instead)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1023.020|dkj=30787|dj=1482.020|hdz=53190.040|uh=82DC}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|艸|alt1=艹|目|ls=psc|c1=s|c2=p|t1=grass; plant}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=mù\n|c=muk6\n|mc=y\n|oc=y\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only|苜蓿|[[Medicago]]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A03457}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸05}}\n\n# {{defn|lang=ja|sort=艸05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=もく\n|kanon=ぼく\n|kun=\n|nanori=}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|苜蓿|もくしゅく}}: {{w|Medicago polymorpha}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=목|eumhun=|rv=mok|mr=mok|y=mok}}\n\n# {{defn|lang=ko|sort=艸05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=艸05|[[mục]]}}\n\n# {{defn|lang=vi|sort=艸05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=82DC Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

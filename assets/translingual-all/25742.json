@@ -1,0 +1,126 @@
+{
+  "title": "蘖",
+  "ns": 0,
+  "id": 25742,
+  "timestamp": 1531463359000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|櫱|蘗}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China, Hong Kong (based on {{w|Hong Kong Supplementary Character Set|HKSCS 2016}}), Japanese {{w|kanji}} and Korean {{w|hanja}}, the bottom component is written {{l|mul|木}} which is the historical form found in the {{w|Kangxi dictionary}}.\n* In Taiwan (based on its {{w|zh:國字標準字體|standardized form}} of characters), the bottom component is written {{l|mul|𣎳}} instead."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=17|sn=21|snmj+=20|four=44904|canj=TJD|ids=⿱薛木(GHJK),⿱薛𣎳(T)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𡿗]], [[𮁛]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[櫱]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}} of ''<big>蘖</big>)"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1069.070|dkj=32478|dj=1535.320|hdz=53331.150|uh=8616}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|櫱}}"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character is the preferred form used in mainland China. <!-- Refer Character 6423 of https://zh.wikisource.org/wiki/通用規范漢字表 -->"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B01897-008}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸17}}\n\n# {{defn|lang=ja|sort=艸17}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=げつ\n|kun=ひこばえ\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ひこばえ}}\n\n# [[sprout]]s from the [[stump]] of a tree"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=얼|eumhun=|rv=eol|mr=ŏl|y=el}}\n\n# {{defn|lang=ko|sort=艸17}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=艸17|[[nghẹt]], [[nghệt]], [[nghiệt]]}}\n\n# {{defn|lang=vi|sort=艸17}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=8616 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

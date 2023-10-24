@@ -1,0 +1,135 @@
+{
+  "title": "檗",
+  "ns": 0,
+  "id": 18178,
+  "timestamp": 1531461294000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|蘗}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=75|rad=木|as=13|sn=17|four=70904|canj=SJD|ids=⿱辟木(GJK),⿱辟𣎳(HT)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𢹐]], [[蘗]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0557.040|dkj=15669|dj=0946.130|hdz=21306.020|uh=6A97}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=檘}} <!-- Note: 蘗,柏 are alternative forms used in 黃檗 but not considered a variant form of this character by Taiwan or mainland China -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|辟|木|t2=tree|ls=psc|c1=p|c2=s}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=bò\n|c=baak3,paak3\n|c_note=baak3 - colloquial; paak3 - variant\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-lb|蘗|柏}} {{zh-used in|黃檗|''type of {{w|Huáng bǎi|herb}} used in {{w|traditional Chinese medicine}}''}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=bì\n|c=\n|mc=\n|oc=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hg}} [[wooden]] [[tray]] <!-- 《集韻·入聲·錫韻》： 檗，槃也。 -->\n#: {{zh-syn|槃}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B01863}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木13}}\n\n# {{defn|lang=ja|sort=木13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|on=はく, びゃく\n|kun=きはだ, きわだ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|黄檗|キハダ}}: Amur [[cork]] [[tree]] {{gloss|{{taxlink|Phellodendron amurense|species|noshow=1}}}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=벽|eumhun=|rv=byeok|mr=pyŏk|y=pyek}}\n\n# {{defn|lang=ko|sort=木13}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=木13|[[bá]]}}\n\n# {{defn|lang=vi|sort=木13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=6A97 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

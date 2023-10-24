@@ -1,0 +1,113 @@
+{
+  "title": "摒",
+  "ns": 0,
+  "id": 16503,
+  "timestamp": 1525300001000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|屏}}\n{{character info/new}}\n{{character info/new|0xfa8f}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=11|sn=14|four=57041|canj=QSTT,QSYJ,XQSYJ|ids=⿰扌屏(GHT),⿰扌屛(JK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0449.250|dkj=12575|dj=0800.100|hdz=31926.010|uh=6452|ud=25682|bh=B4AC|bd=46252}}\n* {{Han ref|uh=FA8F}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=屏-second round simplified}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bìng\n|c=bing2,bing3\n|h=pfs=piang/piâng\n|md=\n|mn=piaⁿ/phiaⁿ/piàⁿ\n|w=\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[expel]], [[cast off]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|摒棄|摒除|摒斥}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手11}}\n\n# {{defn|lang=ja|sort=手11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[へい]] (hei), [[ひょう]] (hyō)|kun=[[はらう]] (harau)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=병|eumhun=제거할|rv=byeong|mr=pyŏng|y=pyeng}}\n\n# {{defn|lang=ko|sort=手11}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=手11|bính}}\n\n# {{defn|lang=vi|sort=手11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=6452 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

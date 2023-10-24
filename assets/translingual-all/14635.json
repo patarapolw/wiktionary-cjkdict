@@ -1,0 +1,128 @@
+{
+  "title": "崽",
+  "ns": 0,
+  "id": 14635,
+  "timestamp": 1553548876000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=46|rad=山|as=09|sn=12|four=22336|canj=UWP|ids=⿱山思}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0315.360|dkj=08260|dj=0616.260|hdz=10786.070|uh=5D3D}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=仔}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|山|思|c1=s|t1=mountain|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Cognate with {{och-l|子}} and {{och-l|仔|id=2}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zǎi,er=y\n|m_note=zǎir - \"young animal\"\n|c=zoi2,zai2\n|mn=cháiⁿ/ml:chai\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Liuzhou|_|Mandarin|Gan|Pinghua|Xiang}} [[son]]; [[child]]\n# {{lb|zh|dialectal}} [[young]] [[animal]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|兒子}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|下崽|兔崽子|崽子|猴兒崽子|毛崽子|狼崽子|猴崽子|細崽|西崽}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=山09}}\n\n# {{defn|lang=ja|sort=山09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=さい, しゃ, し\n|kun=こども\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|재}}\n\n# {{defn|lang=ko|sort=山09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=山09|reading=[[tể]], [[tử]]}}\n\n# {{defn|lang=vi|sort=山09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5d3d Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "碰",
+  "ns": 0,
+  "id": 22046,
+  "timestamp": 1553563203000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=08|sn=13|four=18612|canj=MRTTC|ids=⿰石並}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0832.211|dkj=24360|hdz=42440.040|uh=78B0}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=*掽,踫}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Appears in ''{{w|Zihui}}'' (Ming dynasty), as {{zh-l|*掽}}; but only attested in literary works since Qing dynasty. Probably related to {{zh-l|逢}}. <!--https://www.zhihu.com/question/50254292-->"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=pèng\n|m-s=pong4\n|c=pung3\n|mn=phòng/tw:pōng\n|mn_note=pōng - 磅 is used in the Mainland\n|mc=\n|oc=\n|ma=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[collide]]\n# to [[touch]]\n# to [[meet]] by chance\n# to make [[contact]] with\n# {{lb|zh|[[mahjong]]}} [[pong]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|四處碰壁|吃碰|碰傷|磕頭碰腦|東碰西撞|碰面|碰碰車|碰巧|碰和|碰鈴|碰壁|碰杯|磕碰兒|碰鼻|碰頭好兒|碰頭|碰釘子|碰運氣|碰見|碰著|碰碰船|碰牌|碰壺|碰勁|碰了|碰碰和|碰鐘|碰觸|硬碰硬|磕碰|瞎碰|碰撞|碰碰胡|碰到|處處碰壁}}\n\n{{zh-cat|Beginning}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石09}}\n\n# [[collide]], [[bump into]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=ほう\n|kun=ぶつ-かる, ぶつ-ける\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja|副露}}\n{{ja-kanjitab|ぽん|yomi=irr}}\nBorrowed from {{bor|ja|cmn|碰|tr=pèng|sort=ほん}}.<ref>{{R:Daijisen}}</ref><ref name=\"DJR\"/>\n\nCompare {{cog|yue|碰|tr=pung<sup>3</sup>}} and {{cog|nan|碰|tr=pōng}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|ポン|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ポン}}\n\n# {{lb|ja|mahjong|sort=ほん}} [[pung]], [[pong]]: [[call]] for a {{m|ja|明刻|tr=minkō||[[open]] or [[expose]]d [[triplet]]}} from a [[discard]]ed [[tile]], given that the player who called ''pon'' has a [[pair]] of said tiles"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|双%碰|シャン%ポン}}: [[two]]-[[side]]d wait pattern, winning tile may form a triplet with one or the other pair"
+                },
+                {
+                  "level": 4,
+                  "title": "Coordinate terms",
+                  "text": "* {{ja-r|吃|チー|[[chow]]}}\n* {{ja-r|槓|カン|[[kong]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|刻%子|コー%ツ|[[triplet]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=石08|reading=[[bánh]], [[bính]]}}\n\n# {{defn|lang=vi|sort=石08}}\n\n{{cln|vi|Han tu}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

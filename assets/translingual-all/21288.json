@@ -1,0 +1,109 @@
+{
+  "title": "痣",
+  "ns": 0,
+  "id": 21288,
+  "timestamp": 1529391002000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=104|rad=疒|as=07|sn=12|four=00131|canj=KGP|ids=⿸疒志}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0774.140|dkj=22218|dj=1184.230|hdz=42673.110|uh=75E3|ud=30179|bh=B569|bd=46441}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=志,*誌,䏯}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|疒|志|c1=s|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhì\n|m-s=\n|c=zi3\n|c-t=\n|g=\n|h=pfs=\n|j=\n|mb=\n|md=cé\n|mn=ml:chì/qz,tw,xm,zz:kì\n|mn_note=chì - literary; kì - vernacular\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[colored]] [[spot]] on [[skin]]\n# {{surname|lang=zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=疒07}}\n\n# {{defn|lang=ja|sort=疒07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n|kun=あざ-, ほくろ-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あざ}}\n\n# [[bruise]], [[birthmark]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|あざ|acc=2|acc_ref=SMK2,ZAJ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Often written in hiragana as {{m|ja|あざ}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=지|eumhun=}}\n\n# {{defn|lang=ko|sort=疒07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

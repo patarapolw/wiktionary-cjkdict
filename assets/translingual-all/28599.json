@@ -1,0 +1,141 @@
+{
+  "title": "込",
+  "ns": 0,
+  "id": 28599,
+  "timestamp": 1550278527000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "[[kokuji|Kokuji]], Japan-derived kanji: {{ja-l|辶}} + {{ja-l|入}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=162|rad=辵|as=02|sn=5|four=|canj=YO|ids=⿺辶入}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1253.131|dkj=38712|dj=1735.120|hdz=63815.021|uh=8FBC|ud=36796}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=辵02}}\n\n# {{defn|lang=ja|sort=辵02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=こ-む, こ-める, こ-み\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|込む|こむ}}\n* {{ja-r|ねじ込む|ねじこむ}}\n* {{ja-r|飲み込む|のみこむ}}\n* {{ja-r|巻き込む|まきこむ}}\n* {{ja-r|申込書|もうしこみしょ}}\n* {{ja-r|潜り込む|もぐりこむ}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=입|eumhun=|rv=ip|mr=ip|y=ip}}\n\n# {{defn|lang=ko|sort=辵02}}\n\n[[Category:Japanese-only CJKV Characters|辵]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Kunigami",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{head|xug|kanji}}\n\n* {{ja-readings|kun=[[ふみるん]] ([[込みるん]], fumirun)}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{IPA|/ɸumiɾuŋ/|lang=xug}}"
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{head|xug|verb|hiragana|ふみるん|romaji|fumirun}}\n\n# to [[include]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Miyako",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{head|mvi|kanji}}\n\n* {{ja-readings|kun=[[くみーㇲ゙]] ([[込みーㇲ゙]], kumiiz)}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{IPA|/kumiːz̩/|lang=mvi}}"
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{head|mvi|verb|hiragana|くみーㇲ゙|romaji|kumiiz}}\n\n# to [[include]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Yaeyama",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{head|rys|kanji}}\n\n* {{ja-readings|kun=[[くみん]] ([[込みん]], kumin)}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "* {{IPA|/kumiŋ/|lang=rys}}"
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{head|rys|verb|hiragana|くみん|romaji|kumin}}\n\n# to [[include]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

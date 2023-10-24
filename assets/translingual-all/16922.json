@@ -1,0 +1,101 @@
+{
+  "title": "旲",
+  "ns": 0,
+  "id": 16922,
+  "timestamp": 1527673243000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|昊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=72|rad=日|as=03|sn=7|four=60430|canj=AK|ids=⿱日大}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0490.070|dkj=13753|dj=0851.080|hdz=21487.050|uh=65F2|ud=26098|bh=CAFB|bd=51963}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=tái\n|c=toi4\n|mc=\n|oc=\n|ma=y\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|obsolete}} [[daylight]]; [[sunlight]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=yǐng\n|c=\n|cat=a\n}}\n<!-- Unihan is probably wrong. yǐng comes from the Kangxi Dictionary -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|obsolete}} [[big]], [[great]], [[vast]], [[large]], [[high]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{qualifier|Cantonese}} [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 122]\n* {{R:twedu|C04785}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日03}}\n\n# {{defn|lang=ja|sort=日03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[たい]] (tai), [[だい]] (dai), [[えい]] (ei)|kun=[[ひかげ]] (hikage), [[おおきい]] (ookii)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=대|eumhun=|rv=dae|mr=tae|y=tay}}\n\n# {{defn|lang=ko|sort=日03}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": "粵",
+  "ns": 0,
+  "id": 23133,
+  "timestamp": 1549028963000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|粤}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=119|rad=米|as=07|sn=13|four=26207|canj=HWMVS|ids=⿱⿵⿱丿冂釆亏}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0909.311|hdz=53149.041|uh=7CB5|ud=31925|bh=B866|bd=47206}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=粤|alt=曰-filler}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\nA specialization of {{och-l|雩}} by modification of {{zh-l|*雨}} ({{zh-ref|Chi, 2010}}).\n\n''{{w|Shuowen}}'' interprets it as an {{Han compound|宷|亏|ls=ic|nocap=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yuè\n|c=jyut6\n|h=pfs=ye̍t\n|mn=oa̍t\n|mn-t=uag8\n|mc=y\n|oc=y\n|ma=y\n|cat=pn,part\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} {{n-g|a meaningless [[particle]]}}\n## {{n-g|a meaningless form word ({{zh-l|發語詞}}) used in the beginning of a sentence}}\n## {{n-g|a meaningless particle used in the middle of a sentence}}\n# [[Guangdong]]\n#: {{zh-x|粵語|'''Canton'''ese}}\n#: {{zh-x|粵音|'''Cantonese''' pronunciation}}\n# [[Guangdong]] and [[Guangxi]]\n#: {{zh-x|兩粵|Guangdong and Guangxi}}\n# {{zh-short|粵語|Cantonese}}\n# {{lb|zh|informal|punning}} {{zh-alt-form|越|more|dot=}}{{n-g|, usually in reference to the Cantonese language.}}\n#: {{zh-x|要 我哋 收聲，我哋 粵 大聲！|You want us to be quiet, and the ['''more'''] louder we will be! (''a slogan protesting restriction of usage of Cantonese'')|C}}\n#: {{zh-x|粵 講 越 掂|\"steadier '''the more''' one speaks\" (''the name of a TV show by GDTV Pearl River Channel focusing on the Cantonese language'')|C}}\n#: {{zh-x|《粵 唱 越 響》|\"Echoing Further '''the More''' [I] Sing\" (''a 2015 song by {{w|George Lam}} about singing in Cantonese'')|C}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|粵北|粵菜|粵東|粵犬吠雪|粵劇|粵曲|粵省|粵西|粵語|粵語殘片|粵語長片|兩粵|百粵|粵江|粵江流域|粵漢鐵路|粵秀山|粵胡|粵若稽古|粵謳}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related terms",
+                  "text": "* {{zh-l|越}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A03064}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=米07}}\n\n# {{defn|lang=ja|sort=米07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=えつ, おち\n|kun=ここ-に\n|nanori=\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=월|eumhun=|rv=wol|mr=wŏl|y=wel}}\n\n# {{defn|lang=ko|sort=米07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[việt]]|rs=米07}}\n\n# {{defn|lang=vi|sort=米07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

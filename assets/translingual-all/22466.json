@@ -1,0 +1,116 @@
+{
+  "title": "稻",
+  "ns": 0,
+  "id": 22466,
+  "timestamp": 1548217189000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|稲}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=115|rad=禾|as=10|sn=15|four=22977|canj=HDBHX|ids=⿰禾舀}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0857.290|dkj=25216|dj=1283.090|hdz=42624.110|uh=7A3B|ud=31291|bh=BD5F|bd=48479}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=稲,𫁃,粙-Min vernacular,⿰禾刀-second round simplified}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|禾|舀|c1=s|c2=p|ls=psc|t1=grain, cereal, rice}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Area word (rice culture originated in the south). Often compared with {{cog|hmx-pro|*mbləu||rice plant/paddy}}, whence {{cog|mww|nplej}} ({{zh-ref|Bodman, 1980}}).\n\nThe relationship with similar-looking Mon-Khmer words is ambiguous ({{zh-ref|Schuessler, 2007}}). {{zh-ref|Ferlus (2010)}} proposes a connection between {{cog|och|-}} {{och-l|稻}} and {{cog|mkh-pro|*sruʔ||paddy}}, which in turn is linked to {{cog|mkh-pro|*t₂rawʔ||taro}}, as the two plants share the same farming niche.\n\nThe native Min word {{zh-l|*粙}} may be a variant ({{zh-ref|Schuessler, 2007}}, ''apud'' {{w|Jerry Norman (sinologist)|Norman}}, [[p.c.]])."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dào\n|m-s=\n|c=dou6\n|c-t=\n|g=\n|h=pfs=\n|j=\n|mb=tāu\n|md=dô̤/dêu\n|md_note=dô̤ - literary; dêu - vernacular (sometimes written as {{zh-l|*粙}})\n|mn=xm,zz,tw:tō/qz:tǒ͘/xm,zz:tāu/qz:tǎu/qz:tiǔ/xm,zz:tiū\n|mn_note=tō/tǒ͘ - literary; tāu/tǎu - vernacular; tiū/tiǔ - vernacular (sometimes written as {{zh-l|*粙}})\n|mn-t=dao6/diu6\n|mn-t_note=dao6 - literary; diu6 - vernacular (sometimes written as {{zh-l|*粙}})\n|w=3dau\n|x=\n|mc=y\n|oc=y\n|ma=\n|cat=n,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[paddy]]; [[rice]] {{gloss|''[[Oryza sativa]]''}}\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|稻子}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|稻苞蟲|稻草|稻草人|稻穀|稻蝗|稻糠|稻殼|稻米|稻穗|稻田|稻瘟病|稻秧|稻仔|割稻仔|割稻仔尾|斬稻仔尾|佈稻仔|稻埕|大稻埕|稻梁菽麥黍粟|稻城}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|稲|稻}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾10|shin=稲}}\n\n# rice plant",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=どう<だう\n|kanon=とう<たう\n|kun=いね-, いな-\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}\n\n# {{defn|lang=ko|sort=禾10}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[đạo]]|rs=禾10}}\n\n# {{defn|lang=vi|sort=禾10}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

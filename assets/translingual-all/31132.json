@@ -1,0 +1,109 @@
+{
+  "title": "頜",
+  "ns": 0,
+  "id": 31132,
+  "timestamp": 1546495588000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|颌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=181|rad=頁|as=06|sn=15|four=81686|canj=ORMBC|ids=⿰合頁}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1402.360|dkj=43440|dj=1920.020|hdz=74368.160|uh=981C|ud=38940|bh=BE67|bd=48743}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=颌}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|合|頁|ls=psc|c1=p|c2=s|t2=head}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=頜,,hàn,3nb=variant\n|c=hap6,gap3\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|anatomy}} [[jaw]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|上頜|下頜|無頜|頜骨}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=Gé\n|c=gap3\n|mc=\n|oc=\n|cat=pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{surname|lang=zh}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-see|領|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=頁06}}\n\n# {{defn|lang=ja|sort=頁06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[かん]] (kan), [[ごん]] (gon), [[がん]] (gan), [[こう]] (kō)|kun=[[あご]] (ago)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

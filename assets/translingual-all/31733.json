@@ -1,0 +1,63 @@
+{
+  "title": "驉",
+  "ns": 0,
+  "id": 31733,
+  "timestamp": 1538349545000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=187|rad=馬|as=12|sn=22|four=71317|canj=SFYPC,SFYPM|ids=⿰馬虚}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1444.340|dkj=44981|dj=1969.040|hdz=74574.110|uh=9A49|ud=39497|bh=F7A1|bd=63393}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xū\n|c=heoi1\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|駏驉}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

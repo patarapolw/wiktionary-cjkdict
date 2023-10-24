@@ -1,0 +1,90 @@
+{
+  "title": "蒁",
+  "ns": 0,
+  "id": 25287,
+  "timestamp": 1545508569000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In {{w|traditional Chinese}} (based on the character form used in {{w|zh:國字標準字體|Taiwan}}), the <font size=4, lang=zh-hant>[[述#Translingual|述]]</font> component under the grass radical contains {{l|mul|朮}}.\n* In mainland China (based on the {{w|Xin Zixing}} {{w2|zh|新字形}} standardized character form), the <font size=4, lang=zh-hans>[[述#Translingual|述]]</font> component under the grass radical contains {{l|mul|术}} instead.\n* In Japanese {{w|kanji}}, this character is encoded with a slightly different form. The component {{l|mul|术}} is written under the grass radical, giving the form of <font size=4, lang=zh-hans>[[𦬸#Translingual|𦬸]]</font> which is enclosed by <font size=5, lang=ja>[[辶#Translingual|辶]]</font> as its bottom left component.\n* A separate character, <big>{{l|mul|𦳯}}</big> (<code>U+26CEF</code>) exists for a {{w|Variant Chinese character|variant form}} found in the historical Chinese dictionary {{w|Jiyun}} 《{{w2|zh|集韻}}》 which is similar to its Japanese form."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=09|asm+=08|sn=13|snm=11|snj=12|four=44309|canj=TYID,YTID|ids=⿱艹述(GT),⿺辶𦬸(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Although the basic components of the character is the same, the components have different stroke counts:\n* In traditional Chinese: <font size=5, lang=zh-hant>[[艹#Translingual|艹]]</font> (4 strokes) + <font size=5, lang=zh-hant>[[辶#Translingual|辶]]</font> (4 strokes) +  {{l|mul|朮}} (5 strokes) - Total: 13 strokes\n* In mainland China: <font size=5, lang=zh-hans>[[艹#Translingual|艹]]</font> (3 strokes) + <font size=5, lang=zh-hans>[[辶#Translingual|辶]]</font> (3 strokes) + <font size=5, lang=zh-hans>{{l|mul|术}}</font> (5 strokes) - Total: 11 strokes\n* In Japanese: <font size=5, lang=ja>[[艹#Translingual|艹]]</font> (3 strokes) + <font size=5, lang=ja>[[辶#Translingual|辶]]</font> (4 strokes)<!-- Note: Non Jōyō kanji counted as 4 strokes --> + <font size=5, lang=zh-hans>{{l|mul|术}}</font> (5 strokes) - Total: 12 strokes"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1047.671|dkj=31477|hdz=63856.010|uh=8481}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𦳯}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shù\n|c=\n|mc=\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# type of [[grass]]\n# {{zh-used in|蒁藥|[[herbal]] [[mix]] containing the following [[plants]] from the [[genus]] of [[Curcuma]]}}\n::* {{zh-l|莪朮|{{w|Curcuma zedoaria}}}}\n::* {{zh-l|鬱金|{{w|Curcuma aromatica}}}}\n::* {{zh-l|薑黃|[[turmeric]] (Curcuma longa)}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C11665}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸09}}\n\n# {{defn|lang=ja|sort=艸09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いち, じゅち, りち\n|kanon=いつ, しゅつ, りつ\n|kun=\n|nanori=\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

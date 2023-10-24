@@ -1,0 +1,116 @@
+{
+  "title": "祀",
+  "ns": 0,
+  "id": 22213,
+  "timestamp": 1553739209000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=113|rad=示|as=03|sn=8|four=37217|canj=IFRU|ids=⿰礻巳}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0840.010|dkj=24633|dj=1258.030|hdz=42387.010|uh=7940|ud=31040|bh=AAC1|bd=43713}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=禩}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|示|巳|ls=psc|c1=s|c2=p|t1=divinity}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=sì\n|c=zi6\n|h=pfs=\n|md=\n|mn=qz:sǐr/tw,xm,zz:sū/qz:sǐ/xm:sī/tw,xm:chhāi/tw:sāi\n|mn_note=sǐr/sū/sǐ/sī - literary; chhāi/sāi - vernacular\n|w=\n|mc=y\n|oc=y\n|cat=v,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[sacrifice]]; to [[worship]]\n# {{lb|zh|Shang dynasty}} [[year]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|垂馨千祀|大祀|崇祀|從祀|奉祀|先祀|宗祀|不祀|祭祀|祀灶日|祀典|禋祀|禱祀|祀神|祀孔|祀天|明祀|清祀|祀灶|祀事|毖祀|陪祀|雩祀|覆宗絕祀|覆宗滅祀|郊祀}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=示03}}\n\n# {{defn|lang=ja|sort=示03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=し, じ\n|kun=まつ-る, まつ-り, とし-\n|nanori=\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}\n\n# {{defn|lang=ko|sort=示03}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=祀03\n|hanviet=tự-gdhn\n}}\n\n# {{han tu form of|tự|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=vi\n|{{vi-l|祭祀|tế tự}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

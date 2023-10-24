@@ -1,0 +1,94 @@
+{
+  "title": "乓",
+  "ns": 0,
+  "id": 10457,
+  "timestamp": 1553546627000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=4|rad=丿|as=05|sn=6|four=72031|canj=OMI|ids=⿱丘丶}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0083.011|dkj=00146|hdz=10038.040|uh=4E53}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=pāng\n|c=bam1,pong1\n|mn=ml:phong/tw:phóng\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|onomatopoeia}} pang!, pong!, bang!"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|乒乒乓乓|乒乓球|乒乓|乒乓外交}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=丿05}}\n\n# {{defn|lang=ja|sort=丿05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ほう<はう\n|kanon=ほう<はう\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=丿05|reading=bang}}\n\n# {{defn|lang=vi|sort=丿05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=4e53 Nom Foundation]\n\n{{cln|vi|Han tu}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

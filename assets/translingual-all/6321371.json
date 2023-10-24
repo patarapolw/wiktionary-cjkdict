@@ -1,0 +1,61 @@
+{
+  "title": "鿖",
+  "ns": 0,
+  "id": 6321371,
+  "timestamp": 1501554701000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=1|rad=一|as=06|sn=7|ids=⿱合一}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|uh=9FD6}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Abbreviation of {{zh-l|合利斯托斯|Christ}}, from {{der|zh|ru|Христос}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{rfp|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Eastern Orthodoxy|obsolete}} [[Christ]]; [[anointed]] one\n#* {{zh-x|世界 君王 興{xīng}起、諸 公卿 一同 謀議、為 敵 ^主 與 他 鿖{_}|The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his '''anointed'''|CL|ref='''1910''', Bishop Innocent (translator), {{lang|zh|官話聖詠經}} (''Psalter in Mandarin''), [http://orthodox.cn/bible/psalter/1910/kathisma01_hant.htm Psalm 2:2]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://std.dkuug.dk/JTC1/SC2/WG2/docs/n4583.pdf Proposal to Encode Chinese Characters Used for Transcribing Slavonic]\n* [https://zhuanlan.zhihu.com/p/20280070 基本集扩充字考（二）]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

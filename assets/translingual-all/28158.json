@@ -1,0 +1,123 @@
+{
+  "title": "躝",
+  "ns": 0,
+  "id": 28158,
+  "timestamp": 1549297800000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=157|rad=足|as=17|sn=24|four=67120|canj=RMANW|ids=⿰𧾷闌}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1236.120|dkj=37993|dj=1708.330|hdz=63750.080|uh=8E9D|ud=36509|bh=F8C6|bd=63686}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𨅬}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=lán\n|c=laan4\n|mc=y\n|oc=y\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-obsolete}} to [[surpass]], to [[cross over]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|躝躒|籍躝}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "Probably a {{der|yue|qfa-tak}} substrate word. Compare {{cog|th|คลาน||to crawl}}, {{cog|za|ruenz||to crawl}} (Wuming dialect), and {{cog|za|lonz||to crawl}} (Hengxian dialect).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=laan1\n|cat=v\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} to [[crawl]] and [[leave]] an [[area]]\n# {{lb|zh|Cantonese|derogatory}} to [[leave]]; to [[get out]]; to [[beat it]]; to [[scram]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{sense|to leave}} {{q|Mandarin}} {{zh-l|滾}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Compounds",
+                      "text": "{{zh-der|躝開|躝癱|躝屍|躝屍趷路|躝屍趌路|蟻躝噉|躝街}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=足17}}\n\n# {{defn|lang=ja|sort=足17}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=らん, たん, だん\n|kun=こ-える\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "呉",
+  "ns": 0,
+  "id": 12179,
+  "timestamp": 1536990083000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|吳|県|吴}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|吳|呉|吴}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Variant of {{l|mul|吳}}.\n\nThe modern Japanese usage is of reform ([[shinjitai]]) nature."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=04|sn=7|four=|canj=RVNC|ids=⿳⿺𠃑口一八(GJ),⿱⿳口𠃑一八(T)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[娯]] [[誤]] [[虞]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0181.191|dkj=03365|hdz=10595.081|uh=5449|ud=21577}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|吳|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口04}} <!-- No corresponding kyūjitai character as 吳 (U+5433) lacks JIS support -->\n\n# [[China]]\n# to [[give]] something, to [[do]] something for someone",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぐ\n|kanon=ご\n|kun=くれ-, く-れる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|呉牛|ごぎゅう}}: [[water buffalo]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|ご}}\nFrom {{etyl|ltc|ja|sort=ご}} {{m|zh|吳|tr=ngu|pos=name of a state}}. Compare modern {{etyl|cmn|-}} {{zh-l|吳|tr=Wú}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|ご}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|ご|kyu=吳}}\n\n# Japanese reading of the Chinese [[surname]] Wu.\n# the ancient [[w:Wu (state)|State of Wu]]\n# [[China]], [[Chinese]]\n#: More commonly found in compounds in modern Japanese.",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|呉音|ご.おん}}: a kind of [[kanji]] [[reading]], indicating an older borrowing from Chinese\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|くれ}}\nThe {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|暮れる|tr=kureru||to set (''said of the sun or moon''), to get dark}}, from the way that China lies to the [[west]] of Japan, in the direction of the setting sun.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Originally referred more specifically to the ancient [[w:Wu (state)|State of Wu]] (roughly analogous with the modern [[w:Jiangnan|Jiangnan]] region), and later referring to China as a whole.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|くれ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|くれ|proper|kyu=吳}}\n\n# {{lb|ja|sort=くれ|archaic}} [[China]], [[Chinese]]\n#: More commonly found in compounds in modern Japanese.\n# a place name, such as that of [[w:Kure,_Hiroshima|Kure City]] in [[w:Hiroshima_Prefecture|Hiroshima Prefecture]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|呉楽|くれがく}}: [[w:Gigaku|gigaku]], an [[extinct]] form of [[masked]] [[drama]] [[performance]] originally imported from China\n* {{ja-r|呉竹|くれたけ}}: alternate name for {{m|ja|淡竹|tr=hachiku}}: [[henon bamboo]], a [[form]] of ''[[Phyllostachys nigra]]'' ([[black bamboo]])\n* {{ja-r|紅|くれない}}: [[crimson]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Cities|くれ]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

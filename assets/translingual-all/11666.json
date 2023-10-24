@@ -1,0 +1,89 @@
+{
+  "title": "剭",
+  "ns": 0,
+  "id": 11666,
+  "timestamp": 1520759667000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=18|rad=刀|as=09|sn=11|four=72200|canj=SGLN|ids=⿰屋刂}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0142.180|dkj=02092|dj=0322.040|hdz=10349.090|uh=526D|ud=21101|bh=D46A|bd=54378}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Cantonese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{yue-hanzi|jyut=|y=uk1}}\n\n# {{defn|lang=yue|sort=刀09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=刀09}}\n\n# {{defn|lang=ja|sort=刀09}} <!-- line may be deleted if/when POS headers are added -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[おく]] (oku), [[あく]] (aku)|kun=[[つみする]] (tsumisuru)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[옥]], [[악]]|rv=ok, ak|mr=ok, ak}}\n\n# {{defn|lang=ko|sort=刀09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Mandarin",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{cmn-hanzi|pin=[[chuāng]] ([[chuang1]]), [[wū]] ([[wu1]])|wg=ch'uang<sup>1</sup>, wu<sup>1</sup>}}\n\n# {{defn|lang=cmn|sort=刀09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

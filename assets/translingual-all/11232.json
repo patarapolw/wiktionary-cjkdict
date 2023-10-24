@@ -1,0 +1,90 @@
+{
+  "title": "働",
+  "ns": 0,
+  "id": 11232,
+  "timestamp": 1546457153000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|動|动|仂}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=11|sn=13|four=|canj=OHGS|ids=⿰亻動}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0116.041|dkj=01079|dj=0247.120|hdz=10211.091|uh=50CD|ud=20685}}\n\n[[Category:Japanese-coined CJKV characters used outside Japanese]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{rfv|zh}}\n{{zh-forms|t2=動|s=动|alt=𫢙-nonstandard simp.}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Borrowed from Japanese."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{der|zh|ja|働}}. The character is usually read as {{zh-l|動}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dòng\n|c=dung6\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|uncommon}} {{n-g|Used only in borrowings of Japanese words:}} [[labor]]; [[work]]\n#: {{zh-x|勞働[动]{dòng}|labor ({{zh-l|勞動*}})}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{ja-etym-kokuji}}. {{Han compound|人|動|alt1=亻}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=人11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=どう\n|kun=はたら-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|労働|ろうどう}}\n* {{ja-r|労働者|ろうどうしゃ}}\n{{mid3}}\n* {{ja-r|労働 組合|ろうどう くみあい}}\n* {{ja-r|稼働|かどう}}\n{{mid3}}\n* {{ja-r|実働|じつどう}}\n{{bottom}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "title": "譃",
+  "ns": 0,
+  "id": 27210,
+  "timestamp": 1548824785000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=149|rad=言|as=12|sn=19|four=|canj=XXYRY,YRYPC,YRYPM|ids=⿰訁虚}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1180.010|dkj=35934|dj=1643.280|hdz=64018.100|uh=8B43|ud=35651}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xū\n|c=heoi1,jyu4\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=言12}}\n\n# {{defn|lang=ja|sort=言12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings|on=[[く]] (ku)|kun=[[いつわる]] (itsuwaru), [[うそ]] (uso)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=후|eumhun=|rv=hu|mr=hu|y=hwu}}\n\n# {{defn|lang=ko|sort=言12}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

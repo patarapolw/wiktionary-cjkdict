@@ -1,0 +1,80 @@
+{
+  "title": "嬣",
+  "ns": 0,
+  "id": 14020,
+  "timestamp": 1526965220000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=38|rad=女|as=14|sn=17|four=43421|canj=VJPN|ids=⿰女寧}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0272.260|dkj=06808|hdz=21088.020|uh=5B23|ud=23331|bh=ECD1|bd=60625}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𪥰}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|女|寧|ls=psc|c1=s|c2=p|t1=woman}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=níng\n|c=ning4\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Jyutping Database}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=女14}}\n\n# {{defn|lang=ja|sort=女14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[たう]] (tau), [[にゃう]] (nyau), [[でい]] (dei)|kun=[[からだのさま]] (karadanosama), [[しずか]] (shizuka)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "title": "磌",
+  "ns": 0,
+  "id": 22074,
+  "timestamp": 1553054953000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0xFAAB}}\n{{character info|0x2F950}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=10|sn=15|four=11686|canj=MRJBC|ids=⿰石真(GHT),⿰石眞(JK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0834.290|dkj=24396|dj=1252.020|hdz=42446.130|uh=78CC|ud=30924|bh=E6C3|bd=59075}}\n* {{Han ref|uh=FAAB}}\n* {{Han ref|uh=2F950}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tián\n|c=tin4\n|mc=y\n|oc=y\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} [[sound]] of [[falling]] [[rocks]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石10}}\n\n# {{defn|lang=ja|sort=石10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[てん]] (ten), [[でん]] (den), [[しん]] (shin)|kun=|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[전]]|eumhun=|rv=jeon|mr=chŏn|y=cen}}\n\n# sound of falling stones"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

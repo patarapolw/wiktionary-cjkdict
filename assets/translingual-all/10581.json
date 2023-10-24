@@ -1,0 +1,116 @@
+{
+  "title": "仃",
+  "ns": 0,
+  "id": 10581,
+  "timestamp": 1525327710000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=02|sn=4|four=21220|canj=OMN|ids=⿰亻丁}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0091.110|dkj=00351|dj=0193.030|hdz=10108.010|uh=4EC3|ud=20163|bh=A4B1|bd=42161}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|人|丁|ls=psc|c1=s|c2=p|t1=man}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=dīng\n|c=ding1\n|mc=y\n|oc=y\n|ma=\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|伶仃||仃伶}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|伶仃|伶仃孤苦|伶仃話|伶仃洋|孤苦伶仃|瘦伶仃|仃伶}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|酊|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "[[File:仃车往右.jpg|thumb|A sign reading {{lang|zh|仃车往右}} (\"parking lot to the right\"), which uses {{lang|zh|仃}} instead of {{l|zh|停}}]]\n{{zh-see|停|ss}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人02}}\n\n# {{defn|lang=ja|sort=人02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[てい]] (tei)|kun=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[đừng]], [[đần]], [[đành]], [[đình]], [[đứa]], [[dừng]], [[đinh]]|rs=人02}}\n\n# {{defn|lang=vi|sort=人02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=4ec3 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

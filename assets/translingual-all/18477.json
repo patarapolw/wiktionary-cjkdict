@@ -1,0 +1,83 @@
+{
+  "title": "殻",
+  "ns": 0,
+  "id": 18477,
+  "timestamp": 1553309225000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|壳|殼|穀}}\n{{character info/new}}\n{{character info|0x2F8F6}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|殼|殻|壳}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Variant of {{l|mul|殼}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=79|rad=殳|as=07|sn=11|four=|canj=GNHNE,XXGNH|ids=⿰壳殳}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[慤]], [[𣝝]], [[𤛓]], [[𤠼]], [[𦎼]], [[𧐜]], [[𪅏]], [[𪍥]], [[𪖃]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0586.011|dj=0978.120|hdz=32159.050|uh=6BBB|ud=27579}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|殼|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|殻|殼}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=殳07|kyu=殼}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こく\n|kanon=かく\n|on=ばい\n|kun=から-, がら\n}}\n{{attention|ja|should がら really be here?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top3}}\n* {{ja-r|地%殻|ち%かく|crust of the earth}}\n* {{ja-r|卵殻|らんかく|eggshell}}\n* {{ja-r|貝殻|かいがら|shell}}\n* {{ja-r|豆殻|まめがら|bean husk}}\n{{mid3}}\n* {{ja-r|甲殻%類|こうかく%るい|Crustacea}}\n* {{ja-r|抜け殻|ぬけがら|castoff skin}}\n* {{ja-r|燃え殻|もえがら|cinders}}\n* {{ja-r|石%炭柄|せき%たんがら|coal cinders}}\n{{mid3}}\n* {{ja-r|吸い殻|すいがら|cigarette butt}}\n* {{ja-r|卵の殻|たまご の から|eggshell}}\n* {{ja-r|殻を閉ざす|から を とざす|retire into one's shell}}\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|から|kyu=殼}}\n\n# [[shell]], [[crust]], [[chaff]]\n#: {{ja-usex|卵の'''殻'''は壊れやすい|たまご の '''から''' は こわれ-やすい|The shell of an egg is easily broken}}\n# [[husk]], [[hull]]"
+            },
+            {
+              "level": 3,
+              "title": "Suffix",
+              "text": "{{ja-pos|suffix|がら|kyu=殼}}\n\n# [[cinders]], [[ashes]]\n# [[leftovers]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "鼘",
+  "ns": 0,
+  "id": 33123,
+  "timestamp": 1553710456000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=207|rad=鼓|as=08|sn=21|four=44224|canj=GELXL|ids=⿱鼓𣶒}}\n\n# sound made by the [[pellet drum]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1526.260|dkj=48359|dj=2062.260|hdz=74766.060|uh=9F18|ud=40728|bh=F6CF|bd=63183}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=鼘|alt=鼝, 𪔗, 𪔥, 𪔱}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|鼓|淵|c1=s|c2=p|t1=drum|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yuān\n|m-s=\n|dg=\n|c=jyun1\n|c-t=\n|g=\n|h=pfs=yên\n|j=\n|mb=\n|md=\n|mn=\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|鼘鼘}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

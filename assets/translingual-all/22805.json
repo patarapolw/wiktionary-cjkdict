@@ -1,0 +1,124 @@
+{
+  "title": "箇",
+  "ns": 0,
+  "id": 22805,
+  "timestamp": 1525438156000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|個|个}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=118|rad=竹|as=08|sn=14|four=88603|canj=HWJR|ids=⿱⺮固}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𨮱]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* {{l|ja|ヶ}} {{qualifier|abbreviation of 箇 as Japanese counter}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0886.360|dkj=26116|dj=1314.300|hdz=52983.010|uh=7B87}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|個|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=竹08}}\n\n* Normally written as [[ヶ]] when used as a counter for months",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=か\n|toon=こ\n|kun=\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|counter|ヶ}}\n# used with numbers in the ichi-ni-san counting system",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|ヵ}}\n* {{l|ja|個}}\n* {{l|ja|个}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "It is often written in katakana with a small ''ke'', but it is always pronounced as \"ka.\""
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{l|ja|ヶ月}}\n* {{l|ja|ヶ国語}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|こ|counter}}\n\n# {{ja-def|個}} [[article]]s"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=개|eumhun=|rv=gae|mr=kae|y=kay}}\n\n# {{defn|lang=ko|sort=竹08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{head|vi|counter|sc=Hani}}\n\n# {{form of|Han form|cái|lang=vi|sc=Latn}}"
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{head|vi|adjective|sc=Hani}}\n\n# {{form of|Han form|cái|lang=vi|sc=Latn}}\n\n{{attention|vi|check/format please}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

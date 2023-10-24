@@ -1,0 +1,123 @@
+{
+  "title": "淅",
+  "ns": 0,
+  "id": 19065,
+  "timestamp": 1553555092000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=08|sn=11|four=32121|canj=EDHL|ids=⿰氵析}}\n\n# [[water]] used to [[wash]] [[rice]]\n# to wash rice",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0629.050|dkj=17617|dj=1031.010|hdz=31642.070|uh=6DC5}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|氵|析|c1=s|c2=p|t1=water|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xī\n|c=sik1\n|mn=sek\n|mc=y\n|oc=y\n|cat=n,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|formal}} to wash rice\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|淘米}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* ''{{w|Xiandai Hanyu Guifan Cidian}}'' ({{w2|zh|pref=《|现代汉语规范词典|suf=》}}) specifically proscribes the substitution of '{{l|zh|浙}}' with '{{lang|zh|淅}}'."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|接淅而行|洒淅|淅淅|淅淅瀝瀝|淅淅颯颯|淅瀝|淅留淅零|淅零淅留|淅零零|淅颯|瀝瀝淅淅|瀟瀟淅淅|淅河|淅川}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水08}}\n\n# {{defn|lang=ja|sort=水08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=せき\n|kun=よなぐ, かしよね\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|석}}\n\n# {{defn|lang=ko|sort=水08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=水08|reading=tích}}\n\n# {{defn|lang=vi|sort=水08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Further reading",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=6dc5 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

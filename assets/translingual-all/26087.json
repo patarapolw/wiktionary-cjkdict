@@ -1,0 +1,92 @@
+{
+  "title": "蜼",
+  "ns": 0,
+  "id": 26087,
+  "timestamp": 1511128272000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=142|rad=虫|as=08|sn=14|four=50114|canj=LIOG|ids=⿰虫隹}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1088.030|dkj=33205|dj=1554.250|hdz=42863.080|uh=873C|ud=34620|bh=E3E8|bd=58344}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n; Etymology 1\n: {{Han compound|虫|隹|ls=psc|c1=s|c2=p|t1=insect; crawling creature}}.\n; Etymology 2\n: {{Han compound|虫|隹|ls=psc|c1=p|c2=s|t2=bird|no_och=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Compare {{cog|mkh-pro|*srjuul||gibbon}} ({{zh-ref|Schuessler, 2007}}).\n\n{{zh-ref|Matisoff (1995)}} suggests that it is {{och-l|猶|a kind of monkey|id=2}} + palatal diminutive suffix.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=wèi,lěi,yòu\n|c=wai6,wai2,leoi5\n|mc=2+1+3\n|oc=3+2+1\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} long-tailed [[monkey]] (similar to a [[macaque]] but larger)\n#* {{zh-x|爰 有 熊、羆、文虎、蜼{wèi}、豹、離朱、視肉。|There are the bear, the brown bear, the tiger, the '''long-tailed monkey''', the leopard, the ''lizhu'' and the ''shirou''.|ref=Shanhaijing}}\n#* {{zh-x|猨{yuán} 蜼{wèi} 晝 吟，鼯鼠 夜 叫。|The ape and '''long-tailed monkey''' sing in the day; the flying squirrel calls at night.|CL|ref={{w2|zh|馬融 (東漢)|馬融}} ({{w|Ma Rong}}), {{lang|zh|長笛賦}} (“Rhapsody on Long Flute”), in {{w2|zh|文選}} (''{{w|Selections of Refined Literature}}'')}}\n#* {{zh-x|於是乎 玄猨{yuán} 素 雌，蜼{wèi} 玃{jué} 飛𧕫{lěi}，蛭 蜩 蠼猱，獑{chán}胡 豰{hù} 蛫{guǐ}，棲息 乎 其間。||CL|ref={{w2|zh|司馬相如}} ({{w|Sima Xiangru}}), {{lang|zh|上林賦}} (“''Fu'' on the Shanglin Park”), in {{w2|zh|文選}} (''{{w|Selections of Refined Literature}}'')}}\n#* {{zh-x|不 辨 過 河 牛，時 看 掛 樹 蜼。|Not recognizing the cattle that are crossing the river, always seeing the '''monkeys''' that are hanging in the trees.|CL|ref={{w2|zh|吳寬}}, {{lang|zh|次韻啟南淫雨}}}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|蜼彝|蜼螭|武蜼|豦蜼}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|䳋|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫08}}\n\n# {{defn|lang=ja|sort=虫08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[い]] (i), [[ゆい]] (yui), [[るい]] (rui)|kun=[[さる]] (saru)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

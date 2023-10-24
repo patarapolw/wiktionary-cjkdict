@@ -1,0 +1,75 @@
+{
+  "title": "骲",
+  "ns": 0,
+  "id": 31839,
+  "timestamp": 1540684228000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=188|rad=骨|as=05|sn=15|four=|canj=BBPRU|ids=⿰骨包}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1448.300|dkj=45142|dj=1974.330|hdz=74409.170|uh=9AB2|ud=39602}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bào\n|c=baau6,biu6\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} to [[push]] with the [[body]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=骨05}}\n\n# {{defn|lang=ja|sort=骨05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=びょう<べう, ぼく\n|kanon=ほう<はう, ほく\n|kanyoon=はく\n|kun=やじり-\n}}<!--\n{{ja-readings\n|goon=ぎょう<げう\n|kanon=ごう<がう\n}}-->"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

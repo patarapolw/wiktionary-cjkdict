@@ -1,0 +1,104 @@
+{
+  "title": "炬",
+  "ns": 0,
+  "id": 19868,
+  "timestamp": 1511573626000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=05|sn=9|four=91817|canj=FSS|ids=⿰火巨}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0668.200|dkj=18949|dj=1077.210|hdz=32191.110|uh=70AC|ud=28844|bh=ACB2|bd=44210}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jù\n|c=geoi6\n|mn=qz:kǐr/tw,xm:kū/zz:kī/qz:kîr\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[torch]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|一炬|付之一炬|付諸一炬|目光如炬|炬火|火炬|麻炬|蠟炬}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火05}}\n\n# {{defn|lang=ja|sort=火05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ご\n|kanon=きょ\n|kanyoon=こ\n|kun=たいまつ-, ともしび-, や-く\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|yomi=k|たいまつ}}\n{{ja-pron|acc=1|acc2=0|y=k|たいまつ}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|たいまつ}}\n\n# {{altspell|lang=ja|松明||[[torch]]}} {{gl|stick with flame at one end}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=거|eumhun=|rv=geo|mr=kŏ|y=ke}}\n\n# {{defn|lang=ko|sort=火05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

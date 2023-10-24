@@ -1,0 +1,141 @@
+{
+  "title": "艦",
+  "ns": 0,
+  "id": 24724,
+  "timestamp": 1551107837000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|舰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=137|rad=舟|as=14|asj=15|sn=20|snj=21|four=28417|canj=HYSIT,HYSMT|ids=⿰舟監}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1013.010|dkj=30571|dj=1471.290|hdz=53069.080|uh=8266|ud=33382|bh=C4A5|bd=50341}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=舰}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|舟|監|ls=psc|c1=s|c2=p}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "\"Warship (with boards installed on its four sides to defend against arrow attacks)\" (''{{w|Shiming}}'') > \"warship\" > \"ship\" (''{{w|Guangya}}''). A specialised character derived from {{och-l|檻|fence, railing, board}}; see there for more on the external etymology.\n\nThis character is a classic example of historical misreadings of unfamiliar characters. The ''l-'' initial in southern dialects is probably due to confusion with {{ltc-l|濫|to overflow|id=2}}, not due to divergent evolutions of the Old Chinese cluster initial ''*gr-'' as this character is often cited as an example of. Likewise, the readings in other Chinese are misreadings, although this is more subtle. Expected Mandarin reflex is ''xiàn'', and ''jiàn'' is due to confusion with {{ltc-l|鑑|mirror; to reflect|id=2}}. Wu and Min Dong readings are results of confusion with {{ltc-l|檻|doorsill}}. Despite these irregularities, all the Sinoxenic readings are regular."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiàn\n|c=laam6\n|h=pfs=kam;gd=gam4\n|md=kāng\n|mn=lām/xm:hām/twv:kàm\n|mn-t=lam2\n|w=2khe\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[warship]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|兵艦|戰艦|旗艦|母艦|炮艦|無敵艦隊|第七艦隊|義勇艦隊|航空母艦|船艦|艦橋|艦炮|艦艇|艦長|艦隊|艦隻|護衛艦|軍艦|軍艦鳥|巡洋艦|巡防艦|驅潛艦|驅逐艦|鬥艦}}"
+            },
+            {
+              "level": 3,
+              "title": "Descendants",
+              "text": "{{CJKV||かん|함|hạm}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=舟14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん\n|kanon=かん\n|kun=いくさぶね-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-kanjitab|かん|yomi=o}}\n{{ja-pron|yomi=kanon|かん|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|かん}}\n\n# [[warship]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|軍艦|ぐんかん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|母艦|ぼかん}}: [[mothership]]\n* {{ja-r|航空母艦|こうくう ぼかん}}: [[aircraft carrier]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Military|かん]]\n[[Category:ja:Watercraft|かん]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=함|eumhun=|rv=ham|mr=ham|y=ham}}\n\n# {{defn|lang=ko|sort=舟14}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|hạm|rs=舟14}}\n\n# {{defn|lang=vi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

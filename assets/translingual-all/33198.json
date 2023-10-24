@@ -1,0 +1,107 @@
+{
+  "title": "齢",
+  "ns": 0,
+  "id": 33198,
+  "timestamp": 1532888824000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|齡}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|齡|齢|龄}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Japanese shinjitai {{Han simp|齡|f=齒|t=歯}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=211|rad=歯|as=05|sn=20|snj=17|four=|canj=XXYUO,YUOII|ids=⿰歯令}}\n\n# [[age]]\n# [[years]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1533.281|dkj=48632|hdz=21446.061|uh=9F62|ud=40802}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|齢|齡}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=齒05|kyu=齡}}\n\n# [[age]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=りょう<りやう\n|kanon=れい<れい\n|kun=よわい-<よはひ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|齢人|よわいびと}}\n* {{ja-r|齢草|よわいぐさ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|よわい|yomi=k}}\nyopapi > yoɸaɸi > yowawi > yowai.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|よわい|acc=0|acc_ref=DJR,NHK|acc2=2|acc2_ref=NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|歯}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=齡|よわい|hhira=よはひ}}\n\n# [[age]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|れい|yomi=o}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|れい|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=齡|れい}}\n\n# [[instar]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

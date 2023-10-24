@@ -1,0 +1,56 @@
+{
+  "title": "甏",
+  "ns": 0,
+  "id": 21047,
+  "timestamp": 1538702174000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=98|rad=瓦|as=12|sn=17|four=42717|canj=GHMVN|ids=⿱彭瓦}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0752.050|dkj=21596|hdz=21431.140|uh=750F|ud=29967|bh=ED72|bd=60786}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=㼞,烹-Cantonese colloquial,𨭌-Cantonese colloquial}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|彭|瓦|ls=psc|c1=p|c2=s|t2=fired earthenware pottery}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bèng,pèng\n|c=paang1,bong3,bong6,paang6,paang4\n|c_note=paang1 - colloquial; bong3/bong6 - literary; paang6/paang4 - rare\n|g=pang5\n|mb=pa̿ng\n|w=3ban\n|mc=y\n|oc=y\n|cat=n,c:cls\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal}} [[jar]]; [[jug]]; [[urn]]; [[pot]]\n# {{lb|zh|Cantonese}} {{zh-classifier|food in a pot|t=a pot of}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

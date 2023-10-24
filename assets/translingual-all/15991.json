@@ -1,0 +1,70 @@
+{
+  "title": "扝",
+  "ns": 0,
+  "id": 15991,
+  "timestamp": 1553312949000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8B4}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=03|sn=6|four=|canj=QMMS|ids=⿰扌亏}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0418.010|dkj=11800|dj=0764.170|hdz=31829.020|uh=625D|ud=25181}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=kū\n|c=fu1\n|mc=y\n|oc=y\n|ma=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|agriculture}} [[spread]]ing, [[scatter]]ing, [[winnow]]ing"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{qualifier|Cantonese}} [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 112]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=yū,wū\n|c=\n|ma=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[pull]], [[draw out]], [[drag]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

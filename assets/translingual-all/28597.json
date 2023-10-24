@@ -1,0 +1,308 @@
+{
+  "title": "辺",
+  "ns": 0,
+  "id": 28597,
+  "timestamp": 1552876240000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|邊|邉|边}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|邊|辺|边}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=162|rad=辵|as=02|sn=5|four=37302|canj=YSH|ids=⿺辶刀}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𬵑]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1253.131|dkj=38710|dj=1735.090|hdz=63815.051|uh=8FBA}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Etymology 1: {{Han simp|道}}, where the original phonetic component {{och-l|首}} was replaced with the more apparent and less complicated phonetic component {{zh-l|刀}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|道|ss}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|邊|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|辺|邊}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=辵02|kyu=邊}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=へん\n|kanon=へん\n|kun=あた-り, べ-, へ-, へた-, へち, ほとり-\n|nanori=なべ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|海%辺|うみ%べ}}, {{ja-r|海辺|かいへん}}\n* {{ja-r|近辺|きんぺん}}\n* {{ja-r|君辺|くんぺん}}: [[vicinity]] of a [[lord]]\n* {{ja-r|周辺|しゅうへん}}\n* {{ja-r|辺境|へんきょう}}\n* {{ja-r|辺鄙|へんぴ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|yomi=o|へん}}\n/pen/ → /fen/ → /hen/\n\nFrom {{der|ja|ltc|-|sort=へん'}} {{ltc-l|邊|gloss=edge; margin, border; nearby, vicinity}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation 1",
+                  "text": "{{ja-pron|yomi=o|へん|acc=0|acc_ref=DJR,NHK}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Noun",
+                      "text": "{{ja-noun|kyu=邊|へん}}\n\n# {{lb|ja|colloquial|sort=へん}} [[place]], [[general]] [[area]], [[vicinity]]\n#: {{ja-usex|彼はその'''辺'''にいるはずだ。|かれ は その '''へん''' に いる はず だ。|He must be '''there or somewhere'''.}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation 2",
+                  "text": "{{ja-pron|yomi=o|へん|acc=1|acc_ref=DJR,NHK}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Noun",
+                      "text": "{{ja-noun|kyu=邊|へん}}\n\n# {{lb|ja|geometry|sort=へん}} the joining [[line]] between two [[vertices]] of a [[polygon]]; [[edge]], [side]\n# {{lb|ja|graph theory|sort=へん}} any of the connected pairs of the [[vertices]] in a [[graph]]; [[edge]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=k|へ}}\n/pe{{sub|1}}/ → /pe/ → /fe/ → /he/\n\nFrom {{inh|ja|ojp|-|sort=へ}}. The root of the modern Japanese directional particle {{m|ja|へ|tr=e}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|へ|acc=1|acc_ref=DJR}}\n* This pitch accent pattern only applies to the noun sense."
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|方}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=邊|へ}}\n\n# [[place]], [[general]] [[area]], [[vicinity]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|kyu=邊|suffix|へ}}\n\n# {{lb|ja|sort=へ|obsolete}} [[place]], [[general]] [[area]], [[vicinity]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The suffix sense underwent phonological changes, with the reading shifting to either ''e'' or ''be''. See also ''be'' below."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|家|いえ}}: [[home]], [[abode]], [[house]]\n* {{ja-r|古|いにしえ}}: a [[long]] [[time]] [[ago]]\n* {{ja-r|沖%辺|おき%へ}}: [[offshore]], the [[open]] [[ocean]]\n* {{ja-r|末%辺|すえ%へ}}: the [[area]] towards the [[end]] of something; the area near the [[summit]] of a [[mountain]]\n* {{ja-r|前|まえ}}: [[front]]; [[forward]]\n* {{ja-r|本%辺|もと%へ}}: the [[area]] towards the [[beginning]] of something; the area near the [[base]] or [[foothill]]s of a [[mountain]]\n* {{ja-r|行%方|ゆく%え}}: one's [[destination]], one's [[whereabouts]]\n* {{ja-r|後%方|しり%え}}: [[back]]; [[backward]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=k|べ}}\n/pe{{sub|1}}/ → /pe/ → /be/\n\nFrom {{inh|ja|ojp|-|sort=へ'}}, from ''pe'' above.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref> {{rendaku2|sort=へ'|he|be}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|べ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|方}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|kyu=邊|べ}}\n\n# [[place]], [[general]] [[area]], [[vicinity]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|天%辺|あま%べ}}\n* {{ja-r|海%辺|うみ%べ}}\n* {{ja-r|岡%辺|おか%べ}}\n* {{ja-r|沖%方|おき%べ}}: [[offshore]], the [[open]] [[ocean]]\n* {{ja-r|上%辺|かみ%べ}}\n* {{ja-r|川%辺|かわ%べ}}\n* {{ja-r|岸%辺|きし%べ}}\n* {{ja-r|下%辺|しも%べ}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|yomi=k|へた}}\nFrom {{inh|ja|ojp|-|sort=へた}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref> Originally a compound of {{compound|ja|sort=へた|辺|tr1=he|t1=vicinity|pos1=see ''he'' above|た|tr2=ta|t2=place, area|pos2=the same ''ta'' element in {{m|ja|貴方}} ''anata'', now “you” in modern Japanese but previously meaning “that one over there”}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|へた}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|端}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=邊|へた}}\n\n# {{lb|ja|sort=へた|obsolete}} the [[area]] near something or along the [[edge]] of something"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|kyu=邊|へた}}\n\n# the [[area]] near something or along the [[edge]] of something",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "In modern Japanese, this changes phonologically into either {{IPAchar|/-ppeta/}} or {{IPAchar|/-beta/}}."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|尻べた|しりべた}}: the [[butt]], the rounded area of one's [[posterior]]\n* {{ja-r|尻っぺた|しりっぺた}}: {{qualifier|emphatic}} the [[butt]], the rounded area of one's [[posterior]]\n* {{ja-r|頬っ辺|ほっぺた}}: the [[area]] around the [[cheek]]s\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|yomi=k|へち}}\nFrom at least the late {{w|Heian period}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref> Originally a compound of {{compound|ja|sort=へち|辺|tr1=he|t1=vicinity|pos1=see ''he'' above|ち|tr2=chi|t2=area?|pos2=the same ''chi'' element used to indicate general area in {{m|ja|こち}} ''kochi'', “around here, this area” and related words}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|へち|acc=2|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|端}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=邊|へち}}\n\n# {{lb|ja|sort=へた|obsolete}} the [[area]] near something or along the [[edge]] of something",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|縁|ふち}}\n* {{ja-r|外れ|はずれ}}\n* {{ja-r|辺|ほとり}} {{qualifier|see below}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|yomi=k|ほとり}}\nFrom at least the {{w|Heian period}}.<ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref> Appears to be a compound or conjugation, but the ultimate derivation is {{unk|ja|nocap=1|sort=ほとり}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|ほとり|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|畔}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=邊|ほとり}}\n\n# the [[area]] near something or along the [[edge]] of something\n# those [[people]] who are [[close]] to someone in terms of [[social]] [[relationship]]s"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 7",
+              "text": "{{ja-kanjitab|yomi=irr|なべ}}\nAppears to be a compound of {{compound|ja|sort=なべ|な|tr1=na|pos1=alternative form of {{m|ja|の}} ''no'', the possessive particle|辺|tr2=be|t2=vicinity|pos2=see ''be'' above}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=irr|なべ}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|kyu=邊|なべ}}\n\n# [[vicinity]], [[area]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "Only found in names."
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|川%辺|^かわ%なべ}}: a place in {{w|Kagoshima Prefecture}}\n* {{ja-r|神%辺|^かん%なべ}}: a place in {{w|Hiroshima Prefecture}}\n* {{ja-r|田%辺|^た%なべ}}: a [[surname]]; a place in {{w|Wakayama Prefecture}}; a place in {{w|Kyoto Prefecture}}\n* {{ja-r|渡%辺|^わた%なべ}}: a [[surname]]\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Mathematics|へん]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

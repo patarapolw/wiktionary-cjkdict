@@ -1,0 +1,105 @@
+{
+  "title": "壱",
+  "ns": 0,
+  "id": 13446,
+  "timestamp": 1548429452000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|壹|弌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|壱|[[壹]]|[[壹]]}}\n{{commonscat}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=33|rad=士|as=04|sn=7|four=40712|canj=GBP|ids=⿳士冖匕}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[壹]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}} of ''<big>壱</big>)"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0243.041|dkj=05647|dj=0483.080|hdz=10428.021|uh=58F1}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Found in {{w|Zhongwen Da Cidian}} <big>《中文大辭典》</big>, a dictionary published in Taiwan from 1962 to 1968 that is based on the Japanese {{w|Dai Kan-Wa Jiten}}."
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|壹|v}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A00834-007}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|壱|壹}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han simp|壹|f=豆|t=匕}} in the 1946 {{w|Tōyō kanji}} list."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=士04|kyu=壹}}\n\n# number [[one]] {{qualifier|used in legal documents}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いち\n|kanon=いつ\n|kun=ひと-つ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|壱越|いちこつ}}: first note of ancient [[chromatic scale]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いち|yomi=goon}}\nFrom {{der|ja|ltc|sort=いち|-}} {{ltc-l|壹}}."
+            },
+            {
+              "level": 3,
+              "title": "Numeral",
+              "text": "{{ja-pos|numeral|いち|kyu=壹}}\n\n# [[one]], [[1]] {{qualifier|used in legal documents}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|いち|kyu=壹}}\n\n# {{short for|壱岐国||{{w|Iki Province}}|lang=ja|tr=Iki no kuni}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "聿",
+  "ns": 0,
+  "id": 24224,
+  "timestamp": 1553563987000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|[[:Category:Han rad sup|⺻]]|肀}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=129|rad=聿|as=00|sn=6|four=50007|canj=LQ|ids=⿻肀二,⿻𦘒一}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/聿]]\n* [[律]], [[津]], [[建]], [[筆]], [[書]], [[畫]], [[衋]], [[㶳]], [[肁]]"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|mul|隶}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0971.010|dkj=29215|dj=1422.170|hdz=53166.010|uh=807F}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|𦘒|一|c1=s|c2=p|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yù\n|c=jyut6,leot6,wat6\n|h=pfs=lu̍t\n|mn=u̍t\n|w=\n|mc=y\n|oc=y\n|cat=n,part,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-original|筆|[[writing]] [[brush]]; [[pencil]]}}\n# {{†}} {{n-g|[[sentence]]-[[initial]] or sentence-[[medial]] [[introductory]] [[particle]]:}} [[then]]; [[and]] then; [[thereupon]]\n# {{surname|lang=zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|聿皇}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=聿00}}\n\n# [[writing]] [[brush]], [[pencil]]\n# [[thereupon]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=いつ, いち\n|kun=ふで, ここに\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|율}}\n\n# writing brush, [[pencil]]\n# [[thereupon]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=聿00|reading=duật}}\n\n# {{defn|lang=vi|sort=聿00}}\n\n[[Category:CJKV radicals]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

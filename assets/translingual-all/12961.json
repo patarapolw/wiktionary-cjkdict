@@ -1,0 +1,90 @@
+{
+  "title": "圧",
+  "ns": 0,
+  "id": 12961,
+  "timestamp": 1547997443000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|壓|压}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|壓|圧|压}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{Han simp|壓|f=厭|t=厂}}"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=02|sn=5|four=|canj=MG,XMG|ids=⿸厂土}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𪠦]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0223.091|dkj=04879|hdz=10068.071|uh=5727}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|壓|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|圧|壓}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=土02|kyu=壓}}\n\n# [[pressure]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=よう<えふ\n|kanon=おう<あふ\n|kanyoon=あつ\n|kun=お-さえる\n}}\n\n{{ja-kanjitab|あつ|yomi=kanyoon}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanyoon|あつ}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|あつ}}\n\n# [[pressure]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|側圧|そくあつ|[[lateral]] [[pressure]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|あつ}}\n\n# [[push]]; [[press]]; [[suppress]]\n# [[pressure]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "title": "屐",
+  "ns": 0,
+  "id": 14352,
+  "timestamp": 1532612617000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=44|rad=尸|as=07|sn=10|four=77247|canj=SHOE,XSHOE|ids=⿸尸𫹍}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𢲈]], [[𥰦]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0302.030|dkj=07708|dj=0599.160|hdz=20976.010|uh=5C50}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𡰸,𡰵,⿸尸技,⿸尸𢪊,𭕞,⿸尸𭣖<!-- Note: 𭣖 is ⿰丬支 not ⿰爿支 (Mistake in Hanazono font) -->}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A01092 -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n''{{w|Shuowen}}'': {{Han compound|履|支|c1=s|c2=p|t1=shoe|ls=psc}}. <!-- Refer Shuowen Jiezi -->"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jī\n|c=kek6\n|h=pfs=\n|md=\n|mn=kia̍h\n|w=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[clog]]s; [[wooden]] [[shoe]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|屐齒|木屐|登山屐|折屐|挈屐而歸|裙屐少年|蠟屐|謝公屐|阮孚蠟屐|裙屐|連齒木屐|謝屐|謝安折屐}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A01092}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=尸07}}\n\n# {{defn|lang=ja|sort=尸07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=げき, けき\n|kun=はきもの\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=극|rv=geuk|mr=kŭk}}\n\n# {{defn|lang=ko|sort=尸07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=尸07|[[kịch]]}}\n\n# {{defn|lang=vi|sort=尸07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5C50 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

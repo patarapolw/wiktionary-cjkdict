@@ -1,0 +1,113 @@
+{
+  "title": "寰",
+  "ns": 0,
+  "id": 14239,
+  "timestamp": 1553548400000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=40|rad=宀|as=13|sn=16|four=30732|canj=JWLV|ids=⿱宀睘}}\n\n# [[great]] [[domain]]\n# [[country]]\n# [[world]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0292.170|dkj=07344|dj=0579.050|hdz=20956.020|uh=5BF0}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|宀|睘|c1=s|c2=p|t1=roof|ls=psc}}\n{{attention|zh|This etymology is incorrect, can we instead use the etymology found on the French version of this page?}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=huán\n|c=waan4\n|mn=xm:khoân/qz,xm,zz:hoân\n|mn_note=khoân - vernacular; hoân - literary\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|人寰|慘絕人寰|寰宇記|塵寰|威震寰宇|寰域|寰區|寰內|寰宇|撒手塵寰|撒手人寰|游戲塵寰|瀛寰|譽滿寰中}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=宀13}}\n\n# {{defn|lang=ja|sort=宀13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=かん\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|환}}\n\n# {{defn|lang=ko|sort=宀13}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=宀13|reading=hoàn}}\n\n# {{defn|lang=vi|sort=宀13}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5bf0 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

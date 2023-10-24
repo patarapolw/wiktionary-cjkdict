@@ -1,0 +1,82 @@
+{
+  "title": "坺",
+  "ns": 0,
+  "id": 13053,
+  "timestamp": 1550973320000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=05|sn=8|four=|canj=GIKE|ids=⿰土犮}}\n\n# {{lb|mul|Cantonese}} [[classifier]] for [[soft]] [[mass]]es",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0227.040|dkj=05000|dj=0462.210|hdz=10430.080|uh=577A|ud=22394}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bá\n|m-s=\n|dg=\n|c=pet6, paat6\n|c-t=\n|g=\n|h=pfs=\n|j=\n|mb=\n|md=\n|mn=\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Cantonese}} [[classifier]] for [[soft]] [[mass]]es\n#: {{zh-x|一 坺{pet6} 屎|excrement|C}}\n#: {{zh-x|一 坺{pet6} 泥|a pile of dirt|C}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|濕坺坺}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土05}}\n\n# {{defn|lang=ja|sort=土05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[はつ]] (hatsu), [[はち]] (hachi), [[ぼち]] (bochi)|kun=[[ちりのさま]] (chirinosama)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

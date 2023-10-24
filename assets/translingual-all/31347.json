@@ -1,0 +1,131 @@
+{
+  "title": "飪",
+  "ns": 0,
+  "id": 31347,
+  "timestamp": 1535649786000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|餁|饪}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|飪|饪|飪|飪}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In Japanese [[kanji]] and Korean [[hanja]], the left radical component is written <big>{{l|mul|𩙿}}</big> which is the historical form found in the {{w|Kangxi dictionary}}.\n* In modern Chinese scripts (in [[traditional Chinese|traditional form]]), the left radical component is written <big>{{l|mul|飠}}</big> instead.\n* In Taiwan, Hong Kong and Macau, the right component is written {{l|mul|sc=Hant|壬}} (the uppermost stroke is a horizontal {{l|mul|一}} line).\n* In mainland China, Japan and Korea, the right component is written {{l|mul|sc=Hans|壬}} (the uppermost stroke is a slanting {{l|mul|㇒}} stroke written from the upper right position to the bottom left position)."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=184|rad=食|as=04|sn=12|snjk=13|four=81714|canj=OIHG|ids=⿰飠壬(GHT),⿰𩙿壬(JK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𤏼]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[餁]]}} ''({{w|Variant Chinese character|Variant}} [[traditional Chinese|traditional form]])''\n* {{l|mul|[[饪]]}} ''([[Simplified Chinese]])''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1417.050|dkj=44049|dj=1941.050|hdz=74443.210|uh=98EA}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=饪|alt=餁,䏕,恁,㶵,𤇲,𤏼,𦜙,䭃}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|食|壬|ls=psc|c1=s|c2=p|t1=food}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=rèn\n|c=jam6,jam5,jan5\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[cook]] [[thorough]]ly"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|失飪|烹飪鼎鼐|烹飪|茵飪}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A04584}}\n* {{R:yue:Hanzi}}\n* {{R:yue:Jyutjam}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=食04}}\n\n# {{defn|lang=ja|sort=食04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=じん, にん\n|kun=にる\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=임|eumhun=|rv=im|mr=im|y=im}}\n\n# {{defn|lang=ko|sort=食04}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=食04|[[nhẫm]], [[nhẩm]]}}\n\n# {{defn|lang=vi|sort=食04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=98EA Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

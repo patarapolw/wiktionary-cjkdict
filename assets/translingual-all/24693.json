@@ -1,0 +1,116 @@
+{
+  "title": "艇",
+  "ns": 0,
+  "id": 24693,
+  "timestamp": 1553564086000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=137|rad=舟|as=06|asj=7|sn=12|snj=13|four=22441|canj=HYNKG|ids=⿰舟廷}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1011.080|dkj=30440|dj=1469.200|hdz=53061.010|uh=8247}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tǐng\n|c=ting5,teng5,teng3\n|h=pfs=\n|md=\n|mn=théng\n|w=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[small]] [[boat]]; [[dugout]]; [[punt]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|快艇|汽艇|漁艇|登月小艇|登陸艇|氣艇|皮條艇|救生艇|潛水艇|炮艇|潛艇|橡皮艇|核能潛艇|核潛艇|滑航艇|艦艇|魚雷快艇|飛艇|飛彈快艇|巡邏艇|遊艇|蜀艇}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=舟07}}\n\n# [[dinghy]]\n# [[small]] [[boat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=てい\n|kun=ふね\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|てい}}\n\n# [[boat]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|정}}\n\n# {{defn|lang=ko|sort=舟07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=舟07|reading=đĩnh}}\n\n# {{defn|lang=vi|sort=舟07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "*[http://nomfoundation.org/common/nom_details.php?codepoint=8247 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "贈",
+  "ns": 0,
+  "id": 27737,
+  "timestamp": 1538062033000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|赠}}\n{{character info/new}}\n{{character info/new|codepoint=0xfa65}}\n{{character info/new|codepoint=0xfac1}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{CJKV-forms|贈|赠|贈|贈}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note difference between Chinese form, which uses {{l|mul|曾}}, and Japanese {{w|shinjitai}} which uses {{l|mul|曽}}.\n\nIn Korea, the upper right component is {{l|mul|八}} instead of {{l|mul|丷}}, which is also the historical form found in the {{w|Kangxi dictionary}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=154|rad=貝|as=12|asj=11|sn=19|snj=18|four=68866|canj=BCCWA|ids=⿰貝曾(GHTKV,U+FA65),⿰貝曽(J,U+FAC1)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[囎]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1212.150|dkj=36920|dj=1678.190|hdz=63658.090|uh=8D08|ud=36104|bh=C3D8|bd=50136}}\n* {{Han ref|uh=FA65}}\n* {{Han ref|uh=FAC1}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=赠}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zèng\n|c=zang6\n|mn=qz:chn̄g/tw,xm,zz:chēng/qz,tw,xm,zz:chān/xm,zz:cheng\n|mn_note=chn̄g/chēng - literary; chān - vernacular; cheng - vernacular (俗)\n|mn-t=zang7\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[give]] as a [[present]]; to [[present]] with",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|回贈|奉贈|封贈|惠贈|捐贈|敕贈|綈袍之贈|腆贈|致贈|誥贈|貤贈|賠贈|賻贈|贈予|贈別|贈品|贈嫁|贈序|贈獎|贈禮|贈答|贈策|贈與|贈言|贈詩|贈賻|贈送|贈遺|贈閱|轉贈|追贈|遺贈|采蘭贈芍|附贈|雪中贈襦|頒贈|餽贈|饋贈}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=貝12}}\n\n# {{defn|lang=ja|sort=貝12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞう\n|kanon=そう\n|kun=おく-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|寄贈|きぞう|[[donation]]}}\n* {{ja-r|贈呈|ぞうてい}}\n* {{ja-r|贈答|ぞうとう}}\n* {{ja-r|贈与|ぞうよ}}\n* {{ja-r|贈賄|ぞうわい}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{ja-r|贈る|おくる}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=증|eumhun=|rv=jeung|mr=chŭng|y=cung}}\n\n# {{defn|lang=ko|sort=貝12}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[tặng]]|rs=貝12}}\n\n# {{defn|lang=vi|sort=貝12}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

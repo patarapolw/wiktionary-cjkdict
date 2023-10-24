@@ -1,0 +1,214 @@
+{
+  "title": "生",
+  "ns": 0,
+  "id": 21089,
+  "timestamp": 1551520882000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|主|玍}}\n{{character info/new|生|name=CJK UNIFIED IDEOGRAPH-751F|image=|block=CJK Unified Ideographs|sc=Hani|combining=false|aliases=\n|previous_codepoint=0x751E|previous_codepoint_sc=Hani|previous_codepoint_combining=false|previous_codepoint_name=CJK UNIFIED IDEOGRAPH-751E|previous_codepoint_printable=true|previous_codepoint_title=self\n|next_codepoint=0x7520|next_codepoint_sc=Hani|next_codepoint_combining=false|next_codepoint_name=CJK UNIFIED IDEOGRAPH-7520|next_codepoint_printable=false|next_codepoint_title=self\n}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|stroke=5}}\n{{stroke order|type=animate}}\n{{stroke order|type=janimate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=100|rad=生|as=0|sn=5|four=25100|canj=HQM|ids=⿻𠂉土,⿰丿龶}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/生]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0754.260|dkj=21670|dj=1162.040|hdz=42575.010|uh=751F|ud=29983|bh=A5CD|bd=42445}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etyl}}\n{{Han compound|屮|一|ls=ic|t1=bud|t2=ground}} – [[sprouting]] from the ground."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{inh|zh|sit-pro|*s-riŋ ~ s-r(j)aŋ||to live; to be alive; to give birth; raw; green}}. Cognate with {{cog|my|ရှင်||to live; alive}}, {{cog|lus|hring||to bear; to bring forth; to give birth to; green}}.\n\n{{zh-ref|Schuessler (2007)}} proposes that {{cog|sit-pro||*sriŋ}} is derived from the root {{m|sit-pro|*sri||to exist}} (whence possibly Chinese {{och-l|體|body; shape; form}}) + {{m|sit-pro|*-ŋ||''terminative suffix''}}.\n\nBoth level tone and falling tone readings are found in Middle Chinese, but the latter has since been lost and is merged into the level-tone reading in modern dialects.\n\nRelated to {{och-l|青|blue-green}}, {{och-l|蒼|dark blue; deep green}}.\n\nDerivatives: {{och-l|性|nature; character; personality; quality}}, {{och-l|姓|family name}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shēng\n|m-s=sen1/sen4\n|c=saang1,sang1\n|c_note=saang1 - colloquial; sang1 - literary\n|c-t=\n|g=\n|h=pfs=sâng/sên;gd=sang1\n|h_note=sâng - colloquial; sên - literary\n|j=\n|mb=sáng/cháng/sáing\n|mb_note=sáng, cháng - colloquial; sáing - literary\n|md=săng/chăng/sĕng\n|md_note=săng - colloquial; chăng - colloquial (“raw”); sĕng - literary\n|mn=xm,qz,tp,hc,lk,sx,km,mg,jj,ph:siⁿ/zz,kh,tn,tc,yl:seⁿ/xm,qz,tp,hc,lk,sx,km,mg,jj,ph:chhiⁿ/zz,kh,tn,tc,yl:chheⁿ/xm,zz,tw:seng/qz,jj,ph:sng\n|mn_note=siⁿ/seⁿ - colloquial; chhiⁿ/chheⁿ - colloquial (“raw”); seng/sng - literary\n|mn-t=sên1/cên1/sêng1\n|mn-t_note=sên1 - colloquial; cên1 - colloquial (“raw”); sêng1 - literary (“student”)\n|w=1san,1sen\n|w_note=1san - colloquial; 1sen - literary\n|x=\n|mc=y\n|oc=y\n|ma=y\n|mna=Taiwanese-The_Vowel_enn.ogg\n|cat=v,n,a,adv\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[live]]; to [[subsist]]; to [[exist]]\n# to [[grow]]; to [[develop]]; to [[bud]]\n#* {{zh-x|紅豆 生 南國。|Red berries '''grow''' in southern lands.|CL|ref={{lang|zh|王維《相思》}}}}\n# {{lb|zh|causative}} to [[bear]]; to [[give birth]]; to [[bring up]]; to [[rear]]\n#* {{zh-x|她 妻子 生 了 一 對 雙胞胎 女孩。|His wife '''gave birth''' to twin girls.}}\n#* [http://wordproject.org/multi/bi_en_cn_py.htm John 1.9]\n#*: {{zh-x|那 光 是 真 光，照亮 一切 生 在 世上 的 人。|That was the true Light, which lighteth every man that '''cometh''' into the world.}}\n# to [[be born]]; to [[come]] into [[existence]]\n#* {{zh-x|他 生 在 中國。|He '''was born''' in China.}}\n# [[offspring]]; [[descendant]]\n# [[pupil]]; [[disciple]]; [[student]]\n#* {{zh-x|你 作為 全日制 生 必須 定期 上課。|As a full-time student, you should attend classes on a regular basis.}}\n# {{lb|zh|historical}} [[scholar]]; [[Confucian]] scholar\n# {{lb|zh|opera}} [[actor]] or [[male]] [[character]]\n# {{zh-short|先生|[[gentleman]]}}\n# {{lb|zh|Cantonese}} {{zh-short|先生|[[Mr.]]}}\n#* {{zh-x|陳 生|'''Mr.''' Chan|C}}\n# [[life]]; [[existence]]; [[being]]; [[living]]\n#: {{zh-x|殺生|to destroy a [[life]]}}\n# [[fresh]]; not [[stale]]\n# [[unripe]]\n# [[raw]]; [[uncooked]]\n#* {{zh-x|生 洋蔥|'''raw''' onions}}\n#* {{zh-x|我 覺{gok3}得 呢{ni1} 塊 肉 仲係 太 生。|I think this piece of meat is too raw.|C}}\n# [[uncultured]], [[uncultivated]]; {{lb|zh|historical|_|ethnography}} [[wild]], [[uncivilized]], [[savage]] {{q|opposed with ''熟'' or \"civilized\"}}\n#: {{zh-x|生 黎|wild Li}}\n# [[strange]]; [[unfamiliar]]\n#: {{zh-x|生人|[[stranger]]}}\n# [[mechanically]]; [[forcedly]]\n# {{†}} [[very]]; [[quite]]; [[extremely]]\n# [[vivid]]; [[strong]]; [[forceful]]\n# [[innate]]; [[natural]]; [[born]] with\n# {{†}} {{zh-original|性|[[intelligence]]; [[natural]] [[endowment]]}}\n# [[living]] [[thing]]s; [[organism]]\n# [[livelihood]]; [[subsistence]]\n#: {{zh-x|謀生|to [[make a living]]}}\n# [[lifetime]]; all one's [[life]]\n#: {{zh-x|來生|[[afterlife]]}}\n# [[birthday]]; [[anniversary]]\n#: {{zh-x|慶生|to celebrate one's [[birthday]]}}\n# to [[bring]] back to [[life]]; to [[revive]]; to [[rescue]]\n# to [[generate]]; to [[breed]]; to [[create]]\n# to [[manufacture]]; to [[produce]]\n# to [[happen]]; to [[occur]]; to [[take place]]\n# to [[catch]] (a disease)\n# {{rfdef|lang=zh}}\n#: {{zh-x|生 跳蚤|to be infested with fleas}}\n#: {{zh-x|生 蝨乸|to be infested with lice|C}}\n# {{lb|zh|Buddhism}} to [[go]] into [[society]]; to be [[reincarnate]]d\n# {{lb|zh|dialectal}} to [[set up]]; to [[put in]]; to [[settle]]\n# to [[light]]; to [[ignite]] (a fire)\n#* {{zh-x|母親 沒 有 生 爐子{zi}。|Mother did not light the stove.}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|生變:to occur unexpectedly|生病:ill, sick|生產:production|生詞:a new word that one is not familiar with|生地:root of the ''[[Rehmannia glutinosa]]'' (Chinese herb)|生活:life, existence, livelihood, lifestyle|生理:physiology|生靈:the people, the citizenry|生命:life, existence|生氣:angry, upset|生人:a stranger|生日:birthday|生疏:out of practice, rusty, not familiar|生死:life and death, to live and die|生態:ecology|生物:living being, organism|生意:business, trade|生化:biochemistry|衛生:hygienic, hygiene, sanitation, health|先生:mister, sir, husband|生搬硬套|生動|生發|生根|生活問題|生火|生機|生計|生絲|生效|生長|生殖|生字|一生|三生|丟生|乍生|互生|人生|今生|他生|伐生|你生|佾生|來生|侍生|保生|偏生|做生|偷生|傍生|催生|傷生|像生|僑生|儒生|共生|再生|出生|前生|勉生|勞生|化生|半生|卵生|厚生|友生|受生|叢生|合生|同生|含生|喪生|四生|回生|增生|外生|多生|天生|夾生|女生|好生|孤生|孳生|學生|孿生|安生|官生|家生|宿生|寄生|寤生|寫生|射生|對生|小生|尾生|師生|平生|幸生|庠生|廕生|廩生|往生|後生|復生|怎生|怕生|怪生|怯生|慶生|懷生|所生|打生|托生|投生|招生|挺生|捉生|捐生|捕生|接生|攝生|收生|放生|救生|新生|旁生|旅生|族生|晚生|更生|書生|有生|本生|橫生|次生|欺生|此生|武生|死生|殘生|殺生|民生|永生|求生|治生|洪生|派生|浮生|滋生|濟生|為生|無生|營生|狂生|獨生|生事|生來|生像|生僻|生光|生冷|生分|生利|生前|生厭|生受|生口|生吃|生員|生壙|生天|生存|生客|生小|生就|生布|生平|生年|生徒|生心|生忌|生忿|生怕|生性|生恐|生息|生成|生手|生技|生擒|生放|生料|生是|生書|生朝|生業|生母|生民|生水|生油|生津|生涯|生湊|生漆|生澀|生炭|生煤|生父|生狼|生猛|生獰|生生|生番|生疑|生疼|生皮|生相|生眼|生硬|生祠|生端|生紙|生綃|生肖|生育|生色|生花|生芻|生苗|生茶|生荒|生菌|生菜|生薑|生藥|生蠔|生角|生財|生貨|生趣|生路|生身|生辰|生還|生鈔|生鐵|生隙|生面|生食|生飲|生養|生魂|生鮮|生齒|產生|申生|男生|畜生|畢生|疇生|發生|監生|目生|相生|眷生|眼生|眾生|禮生|種生|窮生|童生|紅生|終生|經生|維生|緣生|群生|老生|考生|耳生|聊生|胎生|脆生|腐生|花生|苟生|萌生|落生|葛生|蒼生|蔓生|衍生|親生|託生|認生|誕生|諸生|謀生|貢生|貪生|超生|輕生|輪生|轉生|逃生|道生|達生|鄙生|醜生|醫生|重生|野生|長生|門生|附生|陌生|降生|陰生|雙生|面生|養生|餘生|驀生|鬚生|鯫生|麴生|生老病死|眾生相|鹹魚返生|鹹魚翻生|苟且偷生|生態平衡|不虛此生|怕死貪生|孿生子|厚生省|人生如夢|夢筆生花|半生半熟|做生意|情急智生|人生如萍|工讀生|忍恥偷生|再生紙|一生一世|公費生|出生牙|再生之恩|乾生子|如虎生翼|仿生學|冬烘先生|嬌生慣養|大半生|學生證|天公生|哉生魄|個人衛生|再生纖維|單主寄生|偷生苟活|大先生|公共衛生|元生代|侍應生|不生不滅|事生肘腋|半生不熟|後生晚學|出生率|婚生子女|忍辱偷生|了無生機|小留學生|回生起死|人生觀|出芽生殖|尋事生非|古生界|情海生波|再生能源|人生如寄|寸草不生|怯生生|家生哨|了無生趣|全能生產|七竅生煙|廩膳生員|大人先生|忘生捨死|寄生菌|兩性生殖|主治醫生|丁固生松|娃娃生|作麼生|人不聊生|寄生動物|做生日|全真先生|性生活|噓枯吹生|劫後餘生|尾生抱柱|否極生泰|不枉此生|人生朝露|寄生植物|侯生|心理醫生|九死一生|別開生面|兜攬生意|做生活|剖腹生產|天生麗質|慣養嬌生|夾生飯|再生資源|底棲生物|小本生意|十死九生|天子門生|不老長生|像生兒|公眾衛生|尾生之信|不事生產|婦人生鬚|彩管生花|出生入死|十生九死|忍垢偷生|務實生理|一線生機|下江先生|心理衛生|天生尤物|回生乏術|德先生|寄生物|人急計生|微生物|保生大帝|佛生日|原生植物|得意門生|後生小輩|後生小子|後生可畏|別生枝節|十二生肖|妙筆生花|太瘦生|寄生蟲|劣等生|天生天殺|地理先生|再生之德|心生一計|卵胎生|寄生蠅|大學生|平生歡|不生心|師範生|原生林|同生死|小子後生|廣文先生|巧若生成|即景生情|工廠衛生|孿生兄弟|小先生|好生惡殺|出生別|千生萬死|原生礦物|家生婢|小門生|墓生兒子|小後生|三生石|小學生|導生制|實習生|寶生佛|不視生產|古生代|惹是生非|實習醫生|寄生蟲病|寄生蜂|寄生火山|寄生昆蟲|家生奴|人生在世|不生不死|共生礦|急中生智|休養生息|三生有幸|增廣生員|孤雌生殖|原生代|媽祖生|五柳先生|七孔生煙|始生魄|好沒生|天生地設|像生花|好好先生|一切眾生|女先生|妙語橫生|好生之德|太老先生|太憨生|塗炭生民|天生羽翼|人生無常|天下蒼生|初生之犢|再生父母|吃生活|寄宿生|古生物學|妄生穿鑿|大地重生|天文生|家生孩兒|借腹生子|外生殖器|崧生嶽降|塗炭生靈|天生天化|土長根生|原生質|慶生會|太學生|土生土長|出生證明|慷慨捐生|國計民生|娶妻生子|十死一生|中生代|不死不生|哉生明|人急智生|今生今世|一死一生|亭林先生|叢生葉|和氣生財|女生外嚮|優生學|同胞雙生|同生共死|兩腋生風|惹事生非|另開生面|古生物|彌生文化|人地生疏|原生海岸|原生動物|一陽生|分裂生殖|好生意|同舍生|外拆生意|優生保健|出死入生|不顧生死|再生緣|口吻生花|公生明|大專生|幹營生|官費生|往生論|可憐生|同卵雙生|中生動物|妙趣橫生|人生如戲|乾生受|不安生|更生人|生產計畫|早生貴子|畏死貪生|服內生子|扇子生|生魚片|晚學生|熟魏生張|生力麵|生產指數|應際而生|汽電共生|普濟群生|挾生兒|生產管制|無中生有|生啤酒|採生折割|留學生|望文生義|私生子|民不聊生|積久弊生|楮先生|生物潛能|生妖作怪|生物能|新生活|故生枝節|斗室生輝|更生保護|暴殄輕生|研究生|接合生殖|桐生茂豫|民生彫敝|扁毛畜生|有生以來|生死簿|日久玩生|生棟覆屋|生張熟魏|普濟眾生|生態環境|生石膏|畢生難忘|應時而生|生物群聚|放生會|生存空間|生物戰|生物電流|生物鹼|生意口|無性生殖|新學小生|無配生殖|生命力|生煞煞|福盡災生|禍生肘腋|搶生吃|生態結構|禍生不測|沒營生|相生相剋|玉谿生|殺生之權|生財有道|拉生意|煙生喉舌|景迂生集|應運而生|救生筏|生產工具|服務生|新生牙|生我劬勞|死裡求生|生死分定|氣生氣死|物質生活|生而知之|生物工程|生菩薩|民生史觀|抱憾終生|生死與共|生情見景|樂極生悲|畢業生|生虎子|次生林|民生凋敝|生存競爭|生活圈|福過災生|生意盎然|生擒活捉|獨生女|福生于微|獨生子|生芻致祭|生齒日繁|生態系|生死弟兄|生產線|生不遇時|生事作耗|死生之交|生物學|書生之見|生物合成|生猛海鮮|畢生之玷|熟能生巧|浮生瞬息|書生氣|死裡逃生|搖曳生姿|死日生年|抵死謾生|環境衛生|拚生盡死|救生圈|生臉兒|生理年齡|生情造意|派生法|新生代|物腐蟲生|文弱書生|生生不已|放來生債|招生簡章|破甑生塵|生殺之權|生死攸關|生活照|死中求生|萬死一生|生態農業|生產能力|永生難忘|熠熠生輝|生奪硬搶|有無相生|生理鹽水|神女生涯|生活領域|生意人|生聚教訓|生擒活拿|生離死絕|枯樹生華|積習生常|生氣勃勃|捉生替死|生花之筆|生物界|私塾先生|新生地|枯楊生稊|救生衣|禍福相生|禍生於忽|視聽生|視死如生|生橡膠|有生之年|歡若平生|新生訓練|民生塗炭|海洋生物|派生詞|益氣生津|硬生生|死生榮辱|殺生之柄|生髮劑|浮生若寄|當家小生|槲寄生|橫生枝節|白生生|生殖器|瞽目先生|抵死瞞生|水生植物|睹物生情|永生花|眷晚生|滿面生春|死生契闊|看醫生|看景生情|生靈塗地|相滅相生|日久生情|求生害義|生活空間|生活水準|暮生兒|生別死離|萬家生佛|百花生日|百死一生|無風生浪|百弊叢生|浮生植物|白面書生|救生艇|生殖器官|生生不息|模範生|生意擔子|生機勃勃|發生學|樂極悲生|生石灰|步步生花|油然而生|異配生殖|死生有命|村生泊長|生財之道|生活型態|百病叢生|生面孔|生非作歹|生靈塗炭|生關死劫|生長輪|生長素|生長激素|生長期|生辰八字|生趣盎然|生藥局|生花筆|生花妙筆|生男育女|生申令日|生產量|生產者|生產結構|生產方式|生產力|生生世世|生理時鐘|生理學|生物防治|生物製劑|生物科技|生物相|生物武器|生物時鐘|生物因子|生活輔導|生活費|生活習慣|生活方式|生活教育|生活態度|生津止渴|生毛帶角|生殺與奪|生殺大權|生殺予奪|生殖腺|生死關頭|生死與奪|生死海|生死有命|生死之交|生死不負|生死不渝|生榮死哀|生桑之夢|生日卡|生拖死拽|生拉硬拽|生意經|生情發意|生悶氣|生息蕃庶|生寄死歸|生命週期|生命線|生吞活剝|生化湯|生動有趣|生力軍|生剌剌|生兒育女|生佛萬家|生不逢辰|生不逢時|無事生風|接線生|生離死別|接生婆|生生化化|殺身出生|旁生枝節|捐生殉國|掩映生姿|栩栩如生|生死肉骨|根生土長|獨家生意|滿座風生|浮生六記|新生兒|牛角書生|生氣蓬勃|生民塗炭|滿舌生花|生死輪迴|生長點|生不如死|無計可生|無忝所生|有性生殖|無以為生|普渡眾生|烏有先生|潑殘生|殺生與奪|生地方|捨死忘生|生死存亡|捨生取義|生活品質|滿面生花|滿面春生|死別生離|無事生非|永生永世|戀生惡死|死地求生|生活資訊|生態地位|浴火重生|浮生若夢|浮生如寄|浮游生物|救生船|活色生香|祖生鞭|痛不欲生|民生國計|沒本營生|望而生畏|次生礦物|民生主義|殉義忘生|發生率|拼生死|生態工程|既生魄|捨生忘死|民生哲學|死生未卜|新生命|欣生惡死|死而復生|死生存亡|明珠生蚌|活剝生吞|濤生雲滅|普度眾生|收生婆|生命徵象|生來死去|生物食品|生花盆兒|枯楊生華|枯木生花|民生問題|朝生暮死|歹生活|活生生|新生界|晶粒生長|生物圈|晚生後學|生枯起朽|春生秋殺|救生員|稷下先生|皮肉生涯|戎馬生郊|生事擾民|生龍活虎|抵死漫生|抗生素|筆底生花|鹽生植物|觸景生情|通學生|覓生覓死|練習生|老畜生|老生兒|長生牌位|養生送死|老營生|著生植物|雙生子|遇事生風|虛室生白|陌生人|蔓生植物|衛生工程|老蚌生珠|驢生戟角|蓬蓽生光|論議風生|腐生植物|註生娘娘|職業學生|高材生|薄生生|齒頰生香|談笑風生|衛生衣|苦不聊生|計畫生育|輪生葉|自費生|謀生之道|霖雨蒼生|親生父母|門生故吏|節外生枝|義同生死|驀生人|醉生夢死|貪生怕死|養生堂|筆下超生|算命先生|附學生員|談生意|舉步生風|管城生花|自然生態|長生不老|臺閣生風|議論風生|落花生|花生樹|精神生活|膽邊生毛|逸趣橫生|素昧生平|飽暖生淫|董生下帷|重氣輕生|辭喻橫生|非有先生|節上生枝|若昧平生|觸景生懷|見肉生根|討生活|緣定三生|見景生情|龔生|龍生九子|虎口逃生|選讀生|釜中生魚|黍谷生春|黃花後生|見事風生|麗質天生|虎口餘生|花生米|附生植物|芸芸眾生|過生日|長生祿位|緣訂三生|老先生|貪生畏死|舍生存義|野生動物|衍生物|顧盼生輝|高才生|酒生兒|高四生|髀肉復生|貪生惡死|筆墨生涯|馬生角|衛生所|背生兒子|輕生重義|重生爺娘|衛生丸|餌料生物|花生油|陽明先生|長生果|風趣橫生|驢生笄角|衛生掩埋|顯生元|風水先生|精彩生動|非生物界|緣文生義|親生骨肉|見習生|花生醬|裂片生殖|虎虎生風|面色如生|面生不熟|陰陽生|赤腳醫生|顧盼生姿|鄉先生|變生肘腋|雜草叢生|雖死猶生|雉尾小生|隱生元|險象環生|鋒鏑餘生|舞態生風|素昧平生|鴉巢生鳳|陌生客|維生素|阻生齒|適者生存|蓬屋生輝|長生殿|長生庫|長生不滅|長生不死|談吐風生|調養生息|胎生植物|食品衛生|蓬閭生輝|逸態橫生|造謗生事|終生教育|蓬蓽生輝|野草叢生|逃出生天|野外求生|重生父母|誓同生死|趣味橫生|綵筆生花|藍田生玉|道學先生|遍體生津|背生芒刺|羅生門|造謠生事|造言生事|賽先生|重義輕生|逃生子|與生俱來|衛生設備|老生常談|走讀生|荼毒生靈|貪生舍義|資優生|自力更生|貪生害義|彪虎生翼|自生自滅|談論風生|龍生日|落地生根|起死回生|衛生紙|衛生球|虛生浪死|衛生局|門館先生|筆夢生花|虎嘯風生|長生久視|老生常譚|翠生生|絕處逢生|節用厚生}}\n\n{{zh-cat|Elementary|Intermediate}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{stroke order|strokes=5|type=jbw}}\n{{stroke order|type=janimate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=1|rs=生00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<しやう\n|kanon=せい\n|toon=さん\n|kun=い-きる, い-かす, い-ける, う-む, う-まれる, うま-れる, うま-れ, お-う, は-える, は-やす, き-, なま-, な-る, な-す, む-す\n|nanori=あさ, い, いき, いく, いけ, うぶ, うまい, え, おい, ぎゅう, くるみ, ごせ, さ, じょ, すぎ, そ, そう, ちる, なば, にう, にゅう, ふ, み, もう, よい, りゅう\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|生憎|あいにく}}: unfortunately\n* {{ja-r|生身|いきみ}}\n* {{ja-r|生物|いきもの}}: living being\n* {{ja-r|生花|いけばな}}\n* {{ja-r|生贄|いけにえ}}: an [[animal]] [[sacrifice]] or [[religious]] [[offering]] (living or dead); an [[animal]] so [[sacrificed]] or [[offered]]\n* {{ja-r|学生|がくせい}}: student\n* {{ja-r|桐生|きりゅう}}: (Japanese surname)\n* {{ja-r|生育|せい.いく}}\n* {{ja-r|生花|せいか}}\n* {{ja-r|生家|せいか}}\n* {{ja-r|生活|せいかつ}}\n* {{ja-r|生還|せいかん}}\n{{der-mid3}}\n* {{ja-r|生気|せいき}}\n* {{ja-r|生計|せいけい}}\n* {{ja-r|生後|せいご}}\n* {{ja-r|生彩|せいさい}}\n* {{ja-r|生殺|せいさつ}}\n* {{ja-r|生殺与奪|せいさつ よだつ}}\n* {{ja-r|生死|せいし}}\n* {{ja-r|生殖|せいしょく}}\n* {{ja-r|生新|せいしん}}\n* {{ja-r|生成|せいせい}}\n* {{ja-r|生鮮|せいせん}}\n* {{ja-r|生前|せいぜん}}\n{{der-mid3}}\n* {{ja-r|生存|せいぞん}}\n* {{ja-r|生体|せいたい}}\n* {{ja-r|生態|せいたい}}\n* {{ja-r|生長|せいちょう}}\n* {{ja-r|生徒|せいと}}: student\n* {{ja-r|生物|せいぶつ}}: living being\n* {{ja-r|生命|せいめい}}\n* {{ja-r|生来|せいらい}}\n* {{ja-r|生涯|しょうがい}}\n* {{ja-r|生者|しょうじゃ}}\n* {{ja-r|生者必滅|しょうじゃひつめつ}}\n* {{ja-r|生身|しょうじん}}\n* {{ja-r|生身|なまみ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|なま|yomi=k}}\n\nFrom {{inh|ja|ojp|sort=なま|-}}.  Numerous derivatives already in use in the {{w|Heian period}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|なま|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|なま}}\n\n# a [[raw]], [[uncooked]] state\n#: {{ja-usex|肉を'''生'''のまま食べると、腹を壊すことがある。|にく を '''なま''' の まま たべる と、 はら を こわす こと が ある。|You may have a stomachache if you eat '''raw''' meat.}}\n# [[fresh]], [[draft]]\n# {{short for|生ビール|lang=ja}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|なま}}\n\n# [[live]]\n#: {{ja-usex|'''生'''演奏|'''なま'''えんそう|'''live''' performance}}\n# [[fresh]], [[draft]]\n#: {{ja-usex|'''生'''クリーム|'''なま''' クリーム|'''fresh''' cream}}\n#: {{ja-usex|'''生'''ビール|'''なま''' ビール|'''draft''' beer}}\n# [[raw]], [[uncooked]], [[rare]]\n#: {{ja-usex|'''生'''卵|'''なま''' たまご|a '''raw''' egg}}\n# [[natural]], [[unprocessed]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|せい|yomi=o}}\n\nFrom {{der|ja|ltc|-|sort=せい}} {{ltc-l|生|gloss=alive; fresh; raw; unprocessed}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|せい|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せい}}\n\n# a [[living]]\n#: {{ja-usex|'''生'''を営む|'''せい''' を いとなむ|make a '''living'''}}\n# [[life]]\n#: {{ja-usex|'''生'''の喜び|'''せい''' の よろこび|the joys of '''life'''}}\n#: {{syn|ja|命}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|せい}}\n\n# a [[student]]\n#: {{ja-usex|中学'''生'''、大学'''生'''、受験'''生'''|ちゅうがく'''せい'''、だいがく'''せい'''、じゅけん'''せい'''|middle-school '''student''', university '''student''', test-taking '''student''' → examin'''ee'''}}\n# (be) [[born]] in\n#: {{ja-usex|1950年'''生'''|せん-きゅうひゃく-ごじゅう-ねん '''せい'''|'''born''' in 1950}}\n#: Antonyms: {{ja-r|歿|ぼつ|[[died]] in}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|き|yomi=k}}\n\nLikely a contraction from {{m|ja|生き|tr=iki||life, living; freshness}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|き|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|き}}\n\n# [[purity]], a lack of any [[admixture]], a state of being [[undiluted]]\n#: {{ja-usex|ウィスキー を '''生''' で 飲む|ウィスキー を '''き''' で のむ|drink whiskey '''straight'''}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Prefix",
+                  "text": "{{ja-pos|prefix|き}}\n\n# [[unrefined]]\n#: {{ja-usex|生糸|き.いと|'''raw''' silk}}\n# [[pure]], [[undefiled]], [[unadulterated]]\n#: {{ja-usex|生娘|きむすめ|'''innocent''' young girl}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "*[[Appendix:Gikun_Usage_in_Meiji_Version_of_Japanese_Bible/生]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "<!--Middle Korean ᄉᆡᆼ, IPA pronunciation estimate is Sʌiŋ.-->{{attention|ko}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja/new|나다|날|생}}\n\n# [[fresh]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[生日]] ([[생일]], saeng-il): [[birthday]]\n* [[生麥酒]] ([[생맥주]], saengmaekju): [[draft]]/[[draught]] [[beer]]\n* [[妓生]] ([[기생]], gisaeng): [[kisaeng]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=生00\n|hanviet=sinh-tdcndg;tdcntd;gdhn;bonet, sanh-gdhn;bonet\n|phienthiet=\n|nom=sinh-tdcndg;tdcntd;gdhn;bonet;genibrel;taberd, sanh-tdcndg;tdcntd;btcn;bonet;genibrel;taberd, siêng-tdcndg;gdhn;btcn;bonet;genibrel;taberd, xinh-tdcndg;tdcntd;gdhn;btcn, xênh-tdcndg;gdhn;btcn, sống-tdcndg, xanh-tdcndg\n}}\n\n# {{han tu form of|sinh|to [[produce#Verb|produce]]; to [[yield#Verb|yield]]; to [[give birth]] to}}\n# {{han tu form of|sanh|to be [[born]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der3|lang=vi\n|{{vi-l|生動|sinh động}}\n|{{vi-l|生活|sinh hoạt}}\n|{{vi-l|生理|sinh lí}}\n|{{vi-l|生日|sinh nhật}}\n|{{vi-l|生素|sinh tố}}\n|{{vi-l|生存|sinh tồn}}\n|{{vi-l|生物|sinh vật}}\n|{{vi-l|生員|sinh viên}}\n|{{vi-l|稟生|bẩm sinh}}\n|{{vi-l|學生|học sinh}}\n|{{vi-l|人生|nhân sinh}}\n|{{vi-l|先生|tiên sinh}}\n|{{vi-l|私生|tư sinh}}\n|{{vi-l|衛生|vệ sinh}}\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:CJKV radicals]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

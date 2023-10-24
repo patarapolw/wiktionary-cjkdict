@@ -1,0 +1,89 @@
+{
+  "title": "剫",
+  "ns": 0,
+  "id": 11664,
+  "timestamp": 1520759663000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=18|rad=刀|as=09|sn=11|four=02200|canj=IELN|ids=⿰度刂}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0142.160|dkj=02090|dj=0322.020|hdz=10349.040|uh=526B|ud=21099|bh=D469|bd=54377}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Cantonese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{yue-hanzi|jyut=|y=dok6}}\n\n# {{defn|lang=yue|sort=刀09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=刀09}}\n\n# {{defn|lang=ja|sort=刀09}} <!-- line may be deleted if/when POS headers are added -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[たく]] (taku), [[だく]] (daku), [[と]] (to), [[ぞ]] (zo)|kun=[[わける]] (wakeru), [[とじる]] (tojiru)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=탁|rv=tak|mr=t'ak}}\n\n# {{defn|lang=ko|sort=刀09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Mandarin",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{cmn-hanzi|pin=[[duó]] ([[duo2]])|wg=to<sup>2</sup>}}\n\n# {{defn|lang=cmn|sort=刀09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

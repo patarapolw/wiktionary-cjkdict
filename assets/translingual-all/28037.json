@@ -1,0 +1,87 @@
+{
+  "title": "踭",
+  "ns": 0,
+  "id": 28037,
+  "timestamp": 1531804535000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㬹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In mainland China (based on {{w|Xin Zixing}} {{w2|zh|新字形}}) and Vietnamese [[Nôm]], the right component is written {{l|mul|争}}.\n* In Hong Kong (based on {{w|Hong Kong Supplementary Character Set}}), the right component is written {{l|mul|爭}}.\n* Due to {{w|Han unification}}, both forms are encoded under the same [[code point]]. This character will appear differently depending on the font used."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=157|rad=足|as=08|asm=06|sn=15|snm=13|four=67157|canj=RMNSD,XRMNS|ids=⿰𧾷争(GV),⿰𧾷爭(H)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1226.091|hdz=63717.080|uh=8E2D}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|足|爭|c1=s|c2=p|t1=foot|ls=psc|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhēng\n|c=zaang1\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}} {{tlb|zh|Cantonese}}\n\n# {{lb|zh|anatomy}} [[elbow]]\n# {{lb|zh|anatomy}} [[heel]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|手踭|打包踭|高踭鞋|鞋踭|批踭|鬆踭|起踭|托手踭|腳踭|踭䟶}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=足06|[[dừng]]}}\n\n# {{defn|lang=vi|sort=足06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=8E2D Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

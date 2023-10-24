@@ -1,0 +1,94 @@
+{
+  "title": "閟",
+  "ns": 0,
+  "id": 30432,
+  "timestamp": 1524267056000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=169|rad=門|as=05|sn=13|four=77330|canj=ANPH|ids=⿵門必}}\n\n# [[shut up]] [[door]]\n# [[close]]\n# [[cover]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1333.320|dkj=41283|dj=1840.020|hdz=74293.110|uh=959F|ud=38303|bh=E0CD|bd=57549}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𮤲}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bì\n|c=bei3\n|mn=\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|閟宮}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=門05}}\n\n# [[hide]]\n# [[keep secret]]\n# [[hideaway]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ひ]] (hi)|kun=[[とじる]] (tojiru)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}\n\n# [[close]] [[the]] [[door]]\n# [[shut]]\n# [[hide]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

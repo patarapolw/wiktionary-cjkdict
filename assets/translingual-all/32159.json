@@ -1,0 +1,104 @@
+{
+  "title": "鮸",
+  "ns": 0,
+  "id": 32159,
+  "timestamp": 1553571478000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=195|rad=魚|as=07|sn=18|four=27316|canj=NFNAU|ids=⿰魚免}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1470.180|dkj=46153|dj=2003.120|hdz=74692.100|uh=9BB8}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𩾃}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|魚|免|ls=psc|c1=s|c2=p|t1=fish}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=miǎn\n|c=min5\n|mn=bián\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# Mi-iuy [[croaker]] [[fish]] ({{taxlink|Miichthys miiuy|species}})"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|白花鮸:{{vern|yellow drum fish}}, {{taxlink|Nibea albiflora|species}}}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [https://www.fishbase.de/summary/Nibea-albiflora FishBase.org]\n* [http://terms.naer.edu.tw/detail/72186/ National Academy for Educational Research]\n\n{{zh-cat|Croakers}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚07}}\n\n# {{defn|lang=ja|sort=魚07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=めん, まん\n|kanon=べん, ばん\n|kun=にべ, いしもち\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=魚07|reading=miễn}}\n\n# {{defn|lang=vi|sort=魚07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "*[http://nomfoundation.org/common/nom_details.php?codepoint=9bb8 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

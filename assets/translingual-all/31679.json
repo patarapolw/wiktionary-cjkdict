@@ -1,0 +1,68 @@
+{
+  "title": "験",
+  "ns": 0,
+  "id": 31679,
+  "timestamp": 1507163084000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|驗|验}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|驗|験|验}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{Han simp|驗|f=僉|t=㑒}}; Japanese simplification ({{m|en|shinjitai}}); compare [[検]], [[険]], [[剣]]. Current form {{Han compound|馬|㑒}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=187|rad=馬|as=08|sn=18|four=|canj=SFOMO,XSFOM|ids=⿰馬㑒}}\n\n# [[test]], [[examine]], [[inspect]]\n# [[verify]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* [[検]] [[険]] [[剣]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1441.071|dkj=44835|dj=1965.120|hdz=74562.101|uh=9A13|ud=39443}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|験|驗}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=馬08|kyu=驗}}\n\n# {{defn|lang=ja|sort=馬08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=げん\n|kanon=げん\n|kanyoon=けん\n|kun=しるし-, あかし-, ため-す\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|経験|けいけん|gloss=[[experience]]}}\n* {{ja-r|経験値|けいけんち|gloss=[[experience point]]}}\n* {{ja-r|試験|しけん|gloss=[[test]]}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

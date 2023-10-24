@@ -1,0 +1,226 @@
+{
+  "title": "咽",
+  "ns": 0,
+  "id": 12309,
+  "timestamp": 1548510264000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|嚥}}\n{{character info/new}}\n{{character info/new|0xf99e}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=06|sn=9|four=66000|canj=RWK|ids=⿰口因}}\n\n# [[throat]]\n# [[pharynx]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|throat}} {{l|mul|喉}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0188.080|dkj=03577|dj=0407.070|hdz=10616.020|uh=54BD|ud=21693|bh=AB7C|bd=43900}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|口|t1=mouth|因|ls=psc|c1=s|c2=p}} – connected to the mouth, the throat."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yān\n|c=jin1\n|h=pfs=\n|md=\n|mn=qz,tw,xm,zz:ian\n|w=\n|mc=1\n|oc=1\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[throat]], [[pharynx]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|咽喉|咽炎|口咽|喉咽|咽頭}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|嚥|sv}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yè\n|c=jit3\n|mc=3\n|oc=2,3\n|ma=\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to make a [[hoarse]] sound"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|嗚咽|哽咽}}\n\n{{zh-cat|Elementary}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=口06}}\n\n# [[throat]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=えち, えん\n|kanon=えつ, えん\n|kanyoon=いん\n|kun=のど-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|嗚%咽|お%えつ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いん|yomi=kanyoon}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いん|y=kanyoon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いん}}\n\n# [[throat]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|咽%喉|いん%こう}}\n* {{ja-r|咽%頭|いん%とう}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|えつ|yomi=kanon}}\nFrom {{der|ja|ltc|sort=えつ|-}} {{ltc-l|咽|id=3}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えつ|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えつ}}\n\n# [[choked]]; [[smothered]]: {{only used in|嗚咽||[[sobbing]] ''(n.)'', to [[sob]] ''(v.)''|lang=ja|tr=oetsu}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|えん|yomi=on}}\nFrom {{der|ja|ltc|sort=えん|-}} {{zh-l|*咽}} / {{ltc-l|嚥}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|えん|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|えん}}\n\n# {{alternative form of|嚥|lang=ja|tr=en|t=[[swallow]]; [[gulp down]]}}: {{only used in|咽下||[[swallowing]] ''(n.)'', to [[swallow]] ''(v.)''|lang=ja|tr=enka, enge}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{ja-kanjitab|のど|yomi=k}}\n{{ja-see|のど}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{ja-kanjitab|のんど|yomi=k}}\n{{ja-see|のんど}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{ja-kanjitab|のみど|yomi=k}}\n{{ja-see|のみど}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 7",
+              "text": "{{ja-kanjitab|のみと|yomi=k}}\n{{ja-see|のみと}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[인]], [[열]]|rv=in, yeol|mr=in, yŏl}}\n\n# {{defn|lang=ko|sort=口06}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[yết]], [[nhằn]], [[ịt]], [[nhiết]], [[yến]]|rs=口06}}\n\n# {{defn|lang=vi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

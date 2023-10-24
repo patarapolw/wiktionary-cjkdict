@@ -1,0 +1,129 @@
+{
+  "title": "温",
+  "ns": 0,
+  "id": 19165,
+  "timestamp": 1552642984000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|溫}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=12}}\n{{ja-forms|温|温|[[溫]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=09|sn=12|four=36112|canj=EABT|ids=⿰氵昷}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[蕰]], [[𡀦]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[溫]]}} ''(Orthodox {{w|Traditional Chinese characters|traditional form}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0634.100|dkj=17774|dj=1041.070|hdz=31675.040|uh=6E29}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\nAn unorthodox variant {{Han simp|溫|f=𥁕|t=昷|nocap=y}} which can be found in various historical dictionaries. <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAyMjkwLTAwMQ#20 -->\n\nEventually adopted as an official form by the People's Republic of China in 1965 based on the {{w|Xin Zixing}} ({{w2|zh|新字形}}) standardized form of characters."
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|溫}}"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character is also the preferred form used in modern Hong Kong, where traditional Chinese is used. <!-- Refer HKSCS 2016 (Page 36) and http://input.foruto.com/ccc/gongbiu/dzijingbiu/ -->"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|温|溫}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=水09|kyu=溫}}\n\n# [[warm]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おん<をん\n|kanon=おん<をん\n|toon=うん\n|kun=あたた-か, あたた-める, あたた-かい, あたた-まる, ぬる-い, ぬく-もり\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top4}}\n* {{ja-r|温泉|おんせん}}: [[hot spring]]\n{{mid4}}\n* {{ja-r|温かい|あたたかい}}: [[warm]] (of an object)\n{{mid4}}\n* {{ja-r|温い|ぬるい}}: [[lukewarm]], [[tepid]] (of an object)\n{{mid4}}\n* {{ja-r|温もり|ぬくもり}}: [[warmth]]\n{{bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おん|yomi=on}}\nFrom {{der|ja|ltc|sort=おん|-}} {{ltc-l|溫}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|おん|y=on}}"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|おん|kyu=溫|hhira=をん}}\n\n# [[warm]]"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|おん|kyu=溫|hhira=をん}}\n\n# {{given name|male|lang=ja|sort=おん}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=水09|[[ồn]], [[ổn]], [[ôn]]}}\n\n# {{defn|lang=vi|sort=水09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=6E29 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "title": "埶",
+  "ns": 0,
+  "id": 13178,
+  "timestamp": 1550026958000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=08|sn=11|four=45117|canj=GGKNI|ids=⿰坴丸}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{l|mul|蓺}}, {{l|mul|勢}}, {{l|mul|熱}}, {{l|mul|摰}}, {{l|mul|槷}}, {{l|mul|褻}}"
+                },
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{l|mul|孰}} <!-- reasonably graphically similar; compare 熱, 熟-->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0231.080|dkj=05192|dj=0467.140|hdz=10455.040|uh=57F6|ud=22518|bh=D4B0|bd=54448}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|坴|丮||t2=to hold|ls=ic}} – to plant. \n\nThe {{zh-l|*圥}} in {{zh-l|*坴}}, the left part of the character, was the result of corruption of {{zh-l|*木}}. {{zh-l|*丸}}, the right part of the character, evolved from {{zh-l|*丮|to hold}}. The original character depicted a kneeling person planting a sapling ({{zh-l|*木}}) into the soil ({{zh-l|*土}}). {{lang|zh|埶}} is the original character of {{zh-l|*蓺}} and {{zh-l|*藝}}.\n\nThe character {{och-l|埶}} was also often phonetically borrowed to represent another character {{och-l|勢}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=yì\n|c=ngai6\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hg}} {{zh-alt-form|藝*|''to grow; skill; talent''}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=shì\n|c=sai3\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hg}} {{zh-alt-form|勢*|''power; position''}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=土08}}\n\n# [[art]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[げい]] (gei), [[せい]] (sei)|kun=[[うえる]] (ueru), [[わざ]] (waza), [[いきほひ]] (ikihohi)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{l|ja|勢}} - [[摯]] - [[熱]] - [[蟄]] - [[褻]] - [[贄]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=세|rv=se|mr=se}}\n\n# [[grains]]\n# [[skill]]\n# [[art]]\n# [[plant]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[đệm]]|rs=土08}}\n\n# {{defn|lang=vi|sort=土08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

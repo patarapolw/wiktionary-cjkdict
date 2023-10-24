@@ -1,0 +1,109 @@
+{
+  "title": "弩",
+  "ns": 0,
+  "id": 15168,
+  "timestamp": 1553137854000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=57|rad=弓|as=05|sn=8|four=47207|canj=VEN|ids=⿱奴弓}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0358.030|dkj=09760|dj=0674.170|hdz=20994.050|uh=5F29|ud=24361|bh=A9B8|bd=43448}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Compare {{cog|tbq-pro|*s-na||crossbow}}, whence {{cog|duu|tana}}, {{cog|nxq|daqna}}.\n\n{{zh-ref|Unger (1990)}} suggests a derivation from {{och-l|努|to tense; to exert}}, as the crossbow shoots arrows by releasing elastic potential energy stored in its limbs and string. {{zh-ref|Ferlus (1999)}} cites Gernet's opinion that {{och-l|砮|stone arrow-tip}} had been semantically extended to mean the whole crossbow.\n\nMore likely, {{och-l|弩}} and {{cog|tbq-pro|*s-na}} were Sinitic and Tibeto-Burman renditions of a {{w|Mainland Southeast Asia linguistic area|Mainland Southeast Asian}} Wanderwort ({{zh-ref|Ratliff, 2010}}; {{zh-ref|Blench, 2014}}), possibly of {{der|zh|aav}} origin ({{zh-ref|Norman and Mei, 1976}}; {{zh-ref|Benedict, 1990}}; {{zh-ref|Schuessler, 2007}}). Compare other MSEA lexical items meaning \"crossbow\":\n* {{cog|mkh-pro|*snaʔ}}, whence {{cog|vi|ná}}, {{cog|km|ស្នា}};\n* {{cog|hmx-pro|*nhaᴮ}}, whence {{cog|mww|hneev}}, {{cog|ium|hnakv}};\n* {{cog|tai-pro|*ʰnwɯəᶜ}}, whence {{cog|th|หน้าไม้}}, {{cog|lo|ໜ້າໄມ້}}, {{cog|khb|ᦐᦱᧉᦺᦙᧉ}}.\nAlso compare {{cog|map-pro|*panaq||to shoot (an arrow)}} (cf. {{cog|mkh-pro|*paɲʔ}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=nǔ\n|c=nou5\n|h=pfs=\n|md=\n|mn=xm,qz:ló͘/zz:nó͘/xm:lō͘/qz:lǒ͘\n|w=\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[crossbow]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|彊弩之末|弩末|弩箭離絃|弩手|強弓硬弩|弩弓|勁弩|幰弩|強弩|張眉弩眼|弩箭|弩箙|弩張劍拔|弓弩|強弩之末|弩機|劍拔弩張|弩砲|搭弩張弓|硬弩強弓|璅弩|負弩先驅|負弩|踏弩}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=弓05}}\n\n# [[crossbow]]\n# one of abbreviations for loanwords whose transcription begin with the syllable [[ド]] (Do). Especially, [[dreadnought]].\n#* '''1916''', Machida Shiro, ''獨逸戰前の真相'',  Waseda University Press, page 129:\n#*: 獨逸に於ける最初の'''弩'''級戦艦はナッサウ、エストファーレンの二艦である\n#*:: The first dreadnought-class battleships in Germany are Nassau and Westfalen",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぬ, の\n|kanon=ど\n|kun=いしゆみ-, おおゆみ-<おほゆみ-\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=노|eumhun=|rv=no|mr=no|y=no}}\n\n# {{defn|lang=ko|sort=弓05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[nỏ]], [[nỗ]], [[ná]], [[nõ]]|rs=弓05}}\n\n# {{defn|lang=vi|sort=弓05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

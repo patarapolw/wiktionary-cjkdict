@@ -1,0 +1,102 @@
+{
+  "title": "萠",
+  "ns": 0,
+  "id": 25185,
+  "timestamp": 1531369138000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|萌}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=08|sn=14|four=44227|canj=TBB|ids=⿱艹朋(GH),⿱艹⿰⿵⺆⺀⿵⺆⺀(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𬄡]], [[𧽹]], [[蒯]], [[𩕕]], [[𦘃]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[萌]]}} ''(Orthodox form for Japanese and Korean usage)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1042.261|hdz=53237.041|uh=8420}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{rfe|zh|{{w|HKSCS}} character. Also used as a component in the character {{l|zh|蒯}}}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=pān\n|c=pang4\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{surname|lang=zh}} <!-- 《中华字海》 萠，音攀，姓。 --> <!-- Note: Usage of 萠 in Chinese does not seem to be related to 萌 -->"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸08}}\n\n# {{alt-form|lang=ja|萌|t=[[sprout]]; [[bud]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=みょう<みやう\n|kanon=もう<まう\n|kanyoon=ほう<はう, ぼう<ばう\n|kun=きざ-し, きざ-す, めばえ-, も-える<も-ゆ\n|nanori=めぐむ\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=맹|eumhun=|rv=maeng|mr=maeng|y=mayng}}\n\n# {{alt-form|lang=ko|萌|t=[[sprout]]; [[bud]]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://hanja.dict.naver.com/hanja?q=%E8%90%A0 Naver Hanja Dictionary]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

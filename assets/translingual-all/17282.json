@@ -1,0 +1,80 @@
+{
+  "title": "朿",
+  "ns": 0,
+  "id": 17282,
+  "timestamp": 1497611579000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=75|rad=木|as=02|sn=6|four=50902|canj=DB}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* [[木]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[刺]]\n* [[責]] <!-- See etymology – used 朿 in earlier form -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0510.180|dkj=14441|dj=0894.150|hdz=21153.030|uh=673F|ud=26431|bh=C9F4|bd=51700}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{liushu|p}} – a tree {{zh-l|*木}} with thorns."
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|刺|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木02}}\n\n# {{defn|lang=ja|sort=木02}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|goon=[[し]] (shi)|kanon=[[し]] (shi)|kun=[[とげ]] (toge)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "title": "将",
+  "ns": 0,
+  "id": 14278,
+  "timestamp": 1553314480000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|將}}\n{{character info/new}}\n{{character info|0x2F873}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=9}}\n{{Han simplified forms|將|将|将}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han simp|將|f=爿|t=丬}}. In Simplified Chinese, the top right is simplified to [[夕]] (removing the dot), while in Taiwan glyph and Japanese shinjitai it is simplified to variant of [[爫]], as in top of [[采]]. However, these are represented by the same Unicode code point – see {{w|Han unification}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=41|rad=寸|as=06|asj=07|sn=9|snj=10|four=|canj=LMNII|ids=⿰丬𪧷(G),⿰丬寽(TJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[奨]] [[醤]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0294.111|dkj=07437|hdz=42375.010|uh=5C06|ud=23558}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|將|sv}}"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "{{lang|zh|⿰丬𪧷}} is the simplified form; {{lang|zh|⿰丬寽}} is a variant form."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|将|將}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=寸07|kyu=將}}\n\n# commander, leader, general",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=そう<さう\n|kanon=しょう<しやう\n|kun=ひき-いる, もっ-て, はた-, まさ-に\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|主将|しゅしょう}}: (team) [[captain]]; (national forces) [[commander in chief]]\n* {{ja-r|将家|しょうか}}\n* {{ja-r|将棋|しょうぎ}}: [[shogi]], Japanese chess\n* {{ja-r|将軍|しょうぐん}}: [[shogun]], Japanese military ruler\n* {{ja-r|将校|しょうこう}}: a commissioned [[officer]]\n* {{ja-r|将帥|しょうすい}}\n* {{ja-r|将星|しょうせい}}\n* {{ja-r|将卒|しょうそつ}}: [[officers]] and [[soldiers]]\n* {{ja-r|将門|しょうもん}}\n* {{ja-r|大将|たいしょう}}: (military) [[general]]\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|しょう|yomi=o}}\nFrom {{bor|ja|ltc|-|sort=しょう}} {{m|zh|將|tr=tsjang<sup>H</sup>||leader}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=kanon|しょう|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しょう|hhira=しやう}}\n\n# [[general]]; [[commander]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しょう}}\n\n# {{given name|male|lang=ja|sort=しょう}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|まさ|o1=る|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|まさる}}\n\n# {{given name|male|lang=ja|sort=まさる}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|はた|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|はた|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adverb",
+                  "text": "{{ja-pos|adverb|はた}}\n\n# [[also]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n{{cln|ja|words with multiple readings}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

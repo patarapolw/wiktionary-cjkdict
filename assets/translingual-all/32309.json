@@ -1,0 +1,131 @@
+{
+  "title": "鱏",
+  "ns": 0,
+  "id": 32309,
+  "timestamp": 1554084408000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=195|rad=魚|as=12|sn=23|four=|canj=NFMBJ,NFMWJ|ids=⿰魚覃}}\n\n# [[sturgeon]]\n# ''same as'' [[鲟]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1478.080|dkj=46488|dj=2009.290|hdz=74713.030|uh=9C4F|ud=40015}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xún\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=魚12}}\n\n# [[ray]]\n# [[skate]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じん<じん<じむ, いん<いん<いむ\n|kanon=しん<しん<しむ, いん<いん<いむ\n|kun=えい-<えひ-, かじき-<かぢき-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|えい|yomi=kun}}\nFrom {{der|ja|ain|sort=えい|アイ|tr=ay||arrow|pos=by extension, \"point\"}}, by its stingers {{rfv-etymology|ja}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|鱝}}\n* {{ja-l|海鷂魚}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|え.い|y=k|acc=1}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|えい|エイ|hhira=えひ|hkata=エヒ}}\n\n# [[ray]] {{gloss|a kind of cartilaginous fish}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* ''Ei'' refers to rays in general. Stingrays commonly found in Japan are called {{ja-r|赤%鱏|アカ%エイ|[[w:Red stingray|red stingray]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|かじき|yomi=kun}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|かじき|y=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|かじき|カジキ|hhira=かぢき|hkata=カヂキ}}\n\n# {{alternative spelling of|lang=ja|梶木||[[marlin]]}}\n\n[[Category:ja:Rays and skates|えい]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=심|eumhun=|rv=sim|mr=sim|y=sim}}\n\n# [[sturgeon]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

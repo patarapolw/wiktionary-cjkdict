@@ -1,0 +1,133 @@
+{
+  "title": "逕",
+  "ns": 0,
+  "id": 28688,
+  "timestamp": 1530735067000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|徑|径|迳}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=162|rad=辵|as=07|sn=11|snm++=10|four=31301|canj=YMVM|ids=⿺辶巠}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[徑]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}} of ''<big>逕</big>'' in mainland China)''\n* <font size=4, lang=zh-Hans>[[径#Translingual|径]]</font> ''({{w|Simplified Chinese|Simplified}} form of ''<big>逕</big>'' and {{l|mul|徑}} in mainland China)''\n* {{l|mul|[[迳]]}} ''({{w|Simplified Chinese|Simplified}} form of ''<big>逕</big>'' only used for placenames and personal names in mainland China)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1257.210|dkj=38883|dj=1743.100|hdz=63840.010|uh=9015}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=径|s2=迳|note={{l|zh|迳}} - Only used in placenames and personal names.}} <!-- Refer https://zh.wikisource.org/wiki/通用規范漢字表#fn_d28 -->",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jìng\n|c=ging3,gaang3\n|h=pfs=kang\n|mc=y\n|oc=y\n|cat=n,v,adv\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-alt-lb|徑*}} [[small]] [[path]]\n# to [[go to]]; to [[reach]]\n# {{lb|zh|literary|of water}} to [[flow]] through\n# [[directly]]\n# {{lb|zh|archaic}} [[diameter]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|一逕|井逕|大有逕庭|大相逕庭|畦逕|逕入|逕到|逕取|逕庭|逕啟者|逕流|逕自|逕行|逕路兒}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "* In mainland China, this character, <big>逕</big> is considered a {{w|Variant Chinese character|variant}} traditional form of {{l|zh|徑}}. The usage of <big>逕</big> is replaced by the orthodox form {{l|zh|徑}} which is simplified as {{l|zh|径}}.\n* In the {{w|Song dynasty}} dictionary, {{w|Jiyun}} 《{{w2|zh|集韻}}》, <big>逕</big> is also listed as a {{w|Variant Chinese character|variant form}} of {{l|zh|徑}}. However, in modern Taiwan, <big>逕</big> and {{l|zh|徑}} are considered as two different characters. <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAxMjg5LTAwNA -->"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}\n* {{R:twedu|A04144}}\n* {{R:twedu|A01289-004#26}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=辵07}}\n\n# [[path]]; [[route]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=きょう\n|kanon=けい\n|kun=こみち, ちかい, すぐ\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|逕路|けいろ}}: {{alt-form|lang=ja|{{ja-r|経路|けいろ|rom=-}}}}\n* {{ja-r|逕庭|けいてい}}: {{alt-form|lang=ja|{{ja-r|径庭|けいてい|rom=-}}}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}\n\n# {{defn|lang=ko|sort=辵07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=辵07|[[kính]]}}\n\n# {{defn|lang=vi|sort=辵07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=9015 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

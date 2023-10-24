@@ -1,0 +1,99 @@
+{
+  "title": "焯",
+  "ns": 0,
+  "id": 20025,
+  "timestamp": 1497981738000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=08|sn=12|four=91846|canj=FYAJ|ids=⿰火卓}}\n\n# [[boil]] vegetables for a very short time; [[scald]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0675.020|dkj=19139|dj=1086.130|hdz=32208.130|uh=712F|ud=28975|bh=DA5A|bd=55898}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chāo\n|c=zoek3,coek3\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|cooking}} to [[scald]]; to [[blanch]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|焯焯|焯爍|焯著|焯水}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火08}}\n\n# {{defn|lang=ja|sort=火08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[しゃく]] (shaku), [[とく]] (toku), [[たく]] (taku)|kun=[[あきらか]] (akiraka)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=작|eumhun=|rv=jak|mr=chak|y=cak}}\n\n# {{defn|lang=ko|sort=火08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

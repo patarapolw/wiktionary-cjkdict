@@ -1,0 +1,85 @@
+{
+  "title": "亻",
+  "ns": 0,
+  "id": 10555,
+  "timestamp": 1549975516000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|イ|ィ}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=00|sn=2|var=1|four=|canj=HL|ids=⿱丿丨}}\n\n# [[Kangxi radical]] #9, {{l|mul|人}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/人]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0091.011|dj=0192.010|hdz=10101.101|uh=4EBB|ud=20155}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=rén\n|c=\n|mc=\n|oc=\n|ma=\n|cat=symbols\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[:w:Radical (Chinese character)|Side form]] of the person ({{zh-l|人}}) radical."
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "Only used as a component in a character. Referred to as {{zh-l|單人旁}}."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=사|rv=sa|mr=sa}}\n\n# {{defn|lang=ko|sort=人00}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[nhân]]|rs=人00}}\n\n# {{defn|lang=vi|sort=人00}}\n\n[[Category:CJKV radicals]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

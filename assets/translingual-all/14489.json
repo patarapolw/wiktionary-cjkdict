@@ -1,0 +1,92 @@
+{
+  "title": "岾",
+  "ns": 0,
+  "id": 14489,
+  "timestamp": 1505693783000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=46|rad=山|as=05|sn=8|four=|canj=UYR|ids=⿰山占}}\n\n# [[mountain]] [[pass]] (Korean)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0310.071|dj=0610.130|hdz=10766.101|uh=5CBE|ud=23742}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=山05}}\n\n{{attention|ja|reference #2 provides a decent amount of material to work with}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=やま-, はけ-}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はけ}}\n\n# [[cliff]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:Koseki Moji|090890}}\n* {{R:Wasei Kanji 2014|528}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "岾(''jeom, jae'')",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Eumhun 1",
+                  "text": "* '''Sound''': {{ko-l|점}}\n* '''Meaning''': {{ko-l|땅 이름}}, {{ko-l|절 이름}}\n*# Used in Placename, and the name of the temple. (河岾面(하점면, ''Hajeom-myeon'') in Ganghwa-gun; 楡岾寺(유점사, [[w:Yujomsa|''Yujŏm-sa'']] in Mount Kumkang)"
+                },
+                {
+                  "level": 4,
+                  "title": "Eumhun 2",
+                  "text": "* '''Sound''': {{ko-l|재}}\n** '''Sound origin''': From native Korean word.\n* '''Meaning''': {{ko-l|고개}}\n*# A mountain pass."
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* [[峙]] ({{ko-l|치}})\n* [[嶺]] ({{ko-l|령}})\n\n[[Category:Ghost kanji]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

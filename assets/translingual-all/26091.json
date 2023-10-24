@@ -1,0 +1,102 @@
+{
+  "title": "蝀",
+  "ns": 0,
+  "id": 26091,
+  "timestamp": 1509594074000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=142|rad=虫|as=08|sn=14|four=55196|canj=LIDW|ids=⿰虫東}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1088.100|dkj=33213|dj=1554.290|hdz=42860.040|uh=8740}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=𬟽}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|虫|東|c1=s|c2=p|t1=insect|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Cognate with {{och-l|虹}}. See there for more."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dōng,dòng\n|c=dung1,dung2,dung3\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only|螮蝀|rainbow|dot=}}{{n-g|; also}} {{zh-short|螮蝀|nocap=1}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|螮蝀|虹蝀|玉蝀|金鰲玉蝀}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|B04287}}\n* {{R:yue:mfccd}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=虫08}}\n\n# [[rainbow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[とう]] (tō), [[つ]] (tsu)|kun=|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=동|eumhun=|rv=dong|mr=tong|y=tong}}\n\n# {{defn|lang=ko|sort=虫08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

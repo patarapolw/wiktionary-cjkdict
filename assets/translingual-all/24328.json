@@ -1,0 +1,157 @@
+{
+  "title": "胤",
+  "ns": 0,
+  "id": 24328,
+  "timestamp": 1553564010000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=130|rad=肉|as=05|sn=9|four=22010|canj=LVBU|ids=⿰𦙍乚}} <!-- Taiwan/Hong Kong glyph form not represented by ⿰丿𦙌 -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[湚]], [[𠸕]], [[𧎠]], [[𨢂]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0980.040|dkj=29405|dj=1432.020|hdz=10039.160|uh=80E4}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yìn\n|c=jan6\n|mn=īn\n|mc=\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[heir]], [[successor]]\n# [[progeny]], [[posterity]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|子胤|祚胤|淑胤|胤嗣|胤子|車胤囊螢}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=肉05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いん\n|kanon=いん\n|kun=たね-\n|nanori=つぎ, つぐ, かず\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|たね|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|たね}}\n\n# [[paternal]] [[blood]], [[offspring]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* [[胤違い]] (''tanechigai''): half brother, half sister\n* [[落し胤]] (''otoshidane''): nobleman's illegitimate child"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Related terms",
+                      "text": "* {{l|ja|種}} (''tane''): seed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|いん|yomi=on}}\nFrom {{der|ja|ltc|sort=いん|-}} {{ltc-l|胤}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いん|y=on}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いん}}\n\n# [[lineage]]; [[descendant]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* [[胤裔]] (''inei''): successor, descendant\n* [[皇胤]] (''kōin''): Imperial descendant\n* [[後胤]] (''kōin''): descendant, scion\n* [[落胤]] (''rakuin''): nobleman's illegitimate child\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|윤}}\n\n# {{defn|lang=ko|sort=肉05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=肉05|reading=dận}}\n\n# {{defn|lang=vi|sort=肉05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

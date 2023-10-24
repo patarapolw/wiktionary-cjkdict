@@ -1,0 +1,138 @@
+{
+  "title": "荻",
+  "ns": 0,
+  "id": 25019,
+  "timestamp": 1552532138000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=07|sn=13|four=44289|canj=TKHF|ids=⿱艹狄}}\n\n# a kind of [[reed]] (''[[Miscanthus sacchariflorus]]'')",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1032.180|dkj=31005|dj=1492.060|hdz=53223.120|uh=837B|ud=33659|bh=B2FD|bd=45821}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dí\n|c=dik6\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|修母畫荻|歐母畫荻|畫荻|荻筆|蘆荻}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸07}}\n\n# Amur silver-grass, [[Miscanthus sacchariflorus]]\n# [[reed]], [[cane]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゃく<ぢやく\n|kanon=てき\n|kun=おぎ-<をぎ-\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|蘆荻|ろう%てき}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|おぎ|yomi=kun}}\n\nFrom {{inh|ja|ojp|sort=おぎ|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref name=\"MYS\">{{RQ:Manyoshu|14|3446}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3446 here]</ref>\n\nUltimate derivation {{unk|ja|nocap=1|sort=おぎ}}.  One theory suggests that it might be the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of classical verb {{m|ja|招く|tr={{upright|ancient reading}} woku, {{upright|modern rendering}} oku||to invite, to beckon someone closer|pos=also found in some texts with the ancient reading ''wogu''}}, from the way the grass waves in the wind.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|おぎ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|おぎ|オギ|hhira=をぎ|hkata=ヲギ}}\n\n# [[Amur silver-grass]], ''[[Miscanthus sacchariflorus]]''"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Further reading",
+              "text": "* Etymology entry for {{lang|ja|荻}} at Japan Dictionary: http://www.nihonjiten.com/data/46206.html"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n:* {{R:Kokugo Dai Jiten}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=적|eumhun=|rv=jeok|mr=chŏk|y=cek}}\n\n# {{defn|lang=ko|sort=艸07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[địch]]|rs=艸07}}\n\n# {{defn|lang=vi|sort=艸07}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

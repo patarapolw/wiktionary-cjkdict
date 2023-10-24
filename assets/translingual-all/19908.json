@@ -1,0 +1,85 @@
+{
+  "title": "烕",
+  "ns": 0,
+  "id": 19908,
+  "timestamp": 1535834731000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=06|sn=10|four=53200|canj=IHMF|ids=⿵戌火,⿵戊灭}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|滅}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0670.120|dkj=19007|dj=1079.070|hdz=21405.180|uh=70D5|ud=28885}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|戌|火|c1=p|c2=s|t2=fire|ls=psc}}.\n\n''{{w|Shuowen}}'' considers this to be an {{Han compound|戌|火|t1=ninth month|t2=fire|ls=ic|nocap=y}}, probably alluding to a passage in ''{{w|Huainanzi}}'':\n: {{zh-x|^火 生 於 寅，壯 於 午，死 於 戌|[The element] fire is born in the first month, is strong in the fifth month, and dies in the ninth month.|CL}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Cognate with {{och-l|滅}}; see there for more."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=miè,xuè\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-original|滅|to [[extinguish]]; to [[destroy]]}}\n#: {{zh-x|赫赫 ^宗周，^褒 ^姒 烕 之。|But the majestic honoured capital of Zhou,<br>Is being '''destroy'''ed by {{w|Bao Si|Si of Bao}}.|ref=Shijing}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=火06}}\n\n# {{defn|lang=ja|sort=火06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[けつ]] (ketsu), [[けち]] (kechi), [[べつ]] (betsu)|kun=[[ほろびる]] (horobiru), [[ほろぼす]] (horobosu)}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

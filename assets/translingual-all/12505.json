@@ -1,0 +1,73 @@
+{
+  "title": "啱",
+  "ns": 0,
+  "id": 12505,
+  "timestamp": 1551988640000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=08|sn=11|four=|canj=RUMR|ids=⿰口岩}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0196.261|hdz=10641.081|uh=5571|ud=21873}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=恰}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Probably a {{der|yue|qfa-tak}} substrate word ({{zh-ref|Li, 1990}}). Compare {{der|zh|za|ngamq||just; exactly; only}}, {{cog|lic|ngamx||suitable}}, {{cog|vi|ngám||just right}}.\n\nAlternatively, some postulate that this is derived from {{zh-l|*恰|tr=hap1|just; coincidentally; suitable}} or {{zh-l|*諳|tr=am1|to know; familiar with}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yán\n|c=ngaam1\n|h=gd=ngam1\n|mn=pn:ngam\n|mn_note=ngam - from Cantonese\n|cat=a,v,adv\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}} {{tlb|zh|chiefly|Cantonese|Hakka|Malaysia|_|Min Nan}}\n\n# [[correct]], [[right]]\n# to [[fit]]; to be [[appropriate]]; to be [[suitable]]\n#: {{zh-x|啱 細路仔 飲|suitable for consumption by children|C}}\n# [[just now]]; a [[moment]] ago\n#: {{zh-x|啱啱|just now; just|C}}\n# [[by chance]]; [[coincidentally]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|剛啱|咁啱|咁啱嘅|咁啱得咁巧|唔啱|唔啱嗲|唔啱嘴形|唔啱講到啱|啱feel|啱key|啱使|啱傾|啱先|啱去|啱口味|啱啱|啱啱好|啱啱線|啱啱落地|啱嗲|啱嘴型|啱嘴形|啱好|啱心水|啱晒|啱晒你|啱牙|啱睇|啱聽|啱身|啱食|啱飲|夾啱|湊啱|湊啱條數|真啱|睇啱|碰啱|計啱條數|遇啱}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[nhàm]]|rs=口08}}\n\n# {{defn|lang=vi|sort=口08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

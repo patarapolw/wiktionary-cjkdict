@@ -1,0 +1,80 @@
+{
+  "title": "溴",
+  "ns": 0,
+  "id": 19305,
+  "timestamp": 1552114421000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=10|sn=13|four=36134|canj=EHUK|ids=⿰氵臭}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0641.020|dkj=17981|dj=1048.100|hdz=31701.020|uh=6EB4}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|alt1=氵|t1=water; liquid|臭|t2=stink; odorous|ls=ic}}. Also a {{liushu|psc|nocap=y}}, with {{zh-l|臭|chòu, xiù}} as a phonetic component."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|臭|stink; odorous}}, {{semantic loan|zh|grc|βρῶμος||stink|nocap=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xiù\n|c=cau3\n|mn=hiù\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[bromine]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|溴水|溴化物|溴化鈉|汞溴紅|溴化銀|溴化鎂|溴中毒|溴酸}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=추|eumhun=|rv=chu|mr=ch'u|y=chwu}}\n\n# {{defn|lang=ko|sort=水10}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

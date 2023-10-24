@@ -1,0 +1,145 @@
+{
+  "title": "奠",
+  "ns": 0,
+  "id": 13561,
+  "timestamp": 1552738158000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=37|rad=大|as=09|sn=12|four=80430|canj=TWK|ids=⿱酋大}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𡼓]], [[𢵫]], [[𣾇]], [[𬯚]], [[橂]], [[𨗖]], [[磸]], [[𨣆]], [[䥖]], [[鄭]], [[𤡽]], [[𡰙]], [[㽀]], [[𠪝]], [[𭔕]], [[㞟]], [[𥳢]], [[𥂴]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0253.050|dkj=05960|dj=0514.300|hdz=10546.060|uh=5960}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n\nOracle bone script: {{liushu|p}} – an alcohol vessel ({{zh-m|*酉}}) placed on a mat ({{zh-m|*一}}).\n\nIn the bronze inscriptions, two strokes ({{zh-m|*八}}) were sometimes added above the alcohol vessel, representing overflowing alcohol; this is inherited in the small seal script as {{zh-l|*酋}}. In some bronze inscriptions, two horizontal strokes were sometimes also added below the line representing a mat; the strokes sometimes were changed to something like {{zh-m|*八}}. These two strokes then fused with the mat to give {{zh-m|*丌}} (a table with two legs) in the small seal script. {{zh-m|*丌}} later evolved into {{zh-m|*大}} by process of ''libian'' ({{zh-l|*隸變}})."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=diàn\n|c=din6\n|mn=tiān\n|mc=1\n|oc=y\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[make]] [[offering]]s to the [[dead]]\n# to [[establish]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|奠定|弔奠|供奠|奠安|奠雁|奠都|奠立|奠地|家奠|奠酹|奠酒|奠敬|奠基|奠儀|祭奠|澆奠|祖奠|拜奠|設奠|遣奠|饋奠|路奠}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=dìng\n|mc=2\n|cat=v,a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-alt-form|飣}}\n# [[fake]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-see|鄭|a|proper noun sense}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Notes",
+                  "text": "Usage seen in oracle bone and bronze inscriptions."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 4",
+              "text": "{{zh-see|停|v}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 5",
+              "text": "{{zh-see|尊|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=大09}}\n\n# {{defn|lang=ja|sort=大09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[てん]] (ten), [[でん]] (den), [[てい]] (tei)|kun=[[まつる]] (matsuru), [[さだめる]] (sadameru)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=전|rv=jeon|mr=chŏn}}\n\n# {{defn|lang=ko|sort=大09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[điện]]|rs=大09}}\n\n# {{defn|lang=vi|sort=大09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

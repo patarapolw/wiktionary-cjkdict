@@ -1,0 +1,157 @@
+{
+  "title": "壮",
+  "ns": 0,
+  "id": 13443,
+  "timestamp": 1553315192000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|壯}}\n{{character info/new}}\n{{character info|0x2F851}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|壮|壮|[[壯]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=33|rad=士|as=03|sn=6|four=34110|canj=LMG,ILG|ids=⿰丬士(<code>U+58EE</code>),⿰丬土(<code>U+2F851</code>)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[荘]], [[装]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[壯]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}} of ''<big>壮</big>)"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0243.011|dkj=05642|dj=0483.020|hdz=10420.060|uh=58EE}}\n{{Han ref|uh=2F851}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph 1",
+              "text": "{{Han-glyphref|⿰丬士|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han simp|壯|f=爿|t=丬}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|壯|sv}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:twedu|A00833-003#37}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Glyph 2",
+              "text": "{{Han-glyphref|⿰丬土|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Etymology 1",
+                  "text": "{{zh-see|壯|v}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "References",
+                      "text": "* {{R:twedu|A00833-001#18}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Etymology 2",
+                  "text": "{{zh-see|牡|v}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "References",
+                      "text": "* {{R:twedu|A02490-004#17}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|壮|壯}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=士03|kyu=壯}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょう<さう\n|kanon=そう<しやう\n|kun=さか-ん\n|nanori=つよし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{ja-adj|さかん|decl=na}}\n\n# {{alt-form|lang=ja|sort=さかん|盛ん}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|そう|hhira=さう}}\n\n# {{given name|lang=ja|sort=そう|male}}"
+            },
+            {
+              "level": 3,
+              "title": "Proper noun",
+              "text": "{{ja-pos|proper|つよし}}\n\n# {{given name|lang=ja|sort=つよし|male}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=士03|[[tráng]]}}\n\n# {{defn|lang=vi|sort=士03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=58EE Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

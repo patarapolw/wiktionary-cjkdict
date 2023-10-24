@@ -1,0 +1,85 @@
+{
+  "title": "腈",
+  "ns": 0,
+  "id": 24428,
+  "timestamp": 1522905889000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=130|rad=肉|as=08|sn=12|four=7522|canj=BQMB|ids=⿰月青}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0986.220|dkj=29609|dj=1439.030|hdz=32083.020|uh=8148}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jīng\n|g=jiang1\n|h=pfs=chiâng;gd=jiang1\n|mn=chiaⁿ\n|mn-t=zian1\n|w=1jin\n|x=zin1\n|cat=a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|dialectal|of meat}} {{zh-alt-form|精|[[lean]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|腈肉}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms}}\n{{zh-wp|zh|yue}}\nFrom {{zh-l|氰|cyanogen}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=jīng\n|c=cing1,zing1\n|mn-t=zêng1\n|w=3xxin\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|organic chemistry}} [[nitrile]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|異腈|乙腈|腈綸}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

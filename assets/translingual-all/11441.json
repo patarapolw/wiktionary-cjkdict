@@ -1,0 +1,167 @@
+{
+  "title": "冒",
+  "ns": 0,
+  "id": 11441,
+  "timestamp": 1553310087000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info|0x2F8D2}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=13|rad=冂|as=07|sn=9|four=6060.0|canj=ABU|ids=⿱日目 <small>(J)</small>,⿱⺜目 <small>(GTKV)</small>}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[帽]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0129.210|dkj=01538|hdz=21499.120|uh=5192|ud=20882|bh=AB5F|bd=43871}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=冃,冐}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|冃|t1=hat|目|t2=eyes|ls=ic}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "Original meaning was “to cover”.\n\nSino-Tibetan. {{zh-ref|Schuessler (2007)}} connects it with {{inh|zh|sit-pro|*muːŋ ~ r/s-muːk||sky, clouds, fog, dark, covered}}, whence {{cog|my|မိုး||sky; rain; to hold something over the head; roof}}, {{cog|bo|མུ}}, {{m|bo|དམུ}}, {{m|bo|རྨུ}}, {{m|bo|སྨུ||(''archaic'') sky}}.\n\nDerivative: {{och-l|帽|hat}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=mào\n|ma=y\n|c=mou6\n|h=pfs=mo\n|md=\n|mn=mō͘\n|mn-t=mao6\n|w=3mau\n|mc=1\n|oc=2,1\n|cat=n,v,a,adv\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} to [[cover]]\n# {{†}} [[cloth]] used to [[dress]] a [[corpse]]; [[sack]] for corpses\n# {{†}} to [[wear]] a [[hat]]\n# {{†}} {{zh-original|帽|hat}}\n# {{†}} to [[pretend]] to be\n#: {{zh-x|假冒|fake}}\n#: {{zh-x|冒名|to go under someone else's name}}\n# to [[risk]]; to [[brave]]; to [[face]]\n#: {{zh-x|冒險|to adventure}}\n#: {{zh-x|冒雨|to brave the rain}}\n# {{†}} [[bold]]; [[thoughtless]]; [[boldly]]\n#: {{zh-x|冒失|thoughtlessly}}\n# {{†}} to [[encroach]] on; to [[violate]]\n#: {{zh-x|冒犯|to offend}}\n# {{†}} to [[receive]]; to [[suffer]] from\n# to [[emit]]; to [[give off]]; to [[send out]]\n#: {{zh-x|冒煙|to give off smoke}}\n# {{lb|zh|Mandarin}} to [[appear]]; to [[emerge]]\n# {{lb|zh|dialectal Mandarin|of water}} to [[boil]]\n# {{lb|zh|dialectal Mandarin|Wu}} to [[vomit]] or to have [[diarrhoea]]\n# {{lb|zh|dialectal Mandarin}} to [[cover]] rice or noodles with [[vegetable]]s and [[meat]]; to put [[broth]] over noodles or rice\n#: {{zh-x|冒菜|{{w|zh:冒菜|maocai}} [a local dish of Sichuan]}}\n# {{zh-alt-form|冇|to not have}}\n# {{†}} {{zh-subst-char|懋|to encourage}}\n# {{†}} {{zh-subst-char|芼|name of a vegetable}}\n# {{†}} {{zh-original|瑁|ceremonial jade}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "“Covetous”. Compare {{och-l|每|to covet}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=mào\n|c=mak6\n|oc=1,n\n|cat=v,a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-original|媢|to envy}}\n# {{†}} to be [[greedy]] for; [[covetous]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=mào\n|c=mui6\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{zh-only|瑇冒||毒冒|dot=,}} {{n-g|both are alternative forms of {{zh-l|玳瑁}}.}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "Transcription character, preserving the original pronunciation at the time of borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=mò\n|c=mak6\n|mc=2\n|oc=n,2\n|cat=pn\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-only|冒頓|name of a Xiongnu chieftain}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|不揣冒昧|仿冒|仿冒品|假冒|冒了|冒充|冒兒咕冬|冒冒勢勢|冒冒失失|冒冒實實|冒冷汗|冒名|冒名行騙|冒名頂替|冒失|冒失鬼|冒姓|冒富|冒尖|冒撞|冒支銀|冒昧|冒昧從事|冒死|冒汗|冒泡|冒泡兒|冒涼腔|冒濫|冒瀆|冒火|冒然|冒煙|冒煙突火|冒熱氣|冒牌|冒牌貨|冒犯|冒用|冒禮|冒稱|冒突|冒籍|冒號|冒被|冒認|冒進政策|冒金星兒|冒鋒突圍|冒鏑當鋒|冒險|冒險犯難|冒險進取|冒雨|冒雨剪韭|冒雪|冒霜撥露|冒露安身|冒頓|冒領|冒頭|冒風|冒餉|失張冒勢|感冒|打脫冒|披霜冒露|浮冒|湯風冒雪|火冒|火冒三丈|甘冒虎口|美得冒泡|覆冒|觸冒|貪冒|貪冒榮寵|貪榮冒寵|迎風冒雪|靦冒|頂名冒姓|風熱感冒|冒字頭}}\n\n{{zh-cat|Elementary}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=冂07}}\n\n# risk",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=もう, もく\n|kanon=ぼう, ぼく\n|on=まい, ばい, ぼく\n|kun=おか-す<をか-す, おお-う<おほ-ふ\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[모]], [[목]]|rv=mo, mok|mr=mo, mok}}\n\n# {{defn|lang=ko|sort=冂07}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[mạo]], [[mào]], [[mẹo]]|rs=冂07}}\n\n# {{defn|lang=vi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

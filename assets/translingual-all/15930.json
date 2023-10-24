@@ -1,0 +1,138 @@
+{
+  "title": "戟",
+  "ns": 0,
+  "id": 15930,
+  "timestamp": 1553550529000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|㦸}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=62|rad=戈|as=08|sn=12|four=43450|canj=JJI|ids=⿰𠦝戈}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𠽤]], [[撠]], [[橶]], [[𧾂]], [[𦻝]], [[𩯋]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[㦸]]}} ''({{w|Variant Chinese character|Variant form}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0413.090|dkj=11606|dj=0755.360|hdz=21407.070|uh=621F}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=屰<!--《六書正譌》、《字彙》：古戟字。-->,㦸,𢧢,⿰䈇戈,⿰⿱亠早戈,⿰𠦝⿱𠂉戈}}\n{{zh-wp|zh:戟|en:Ji (polearm)}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\nReduced form of {{zh-l|𢧢}}: {{Han compound|倝|戈|t1=[[branch]], reduction of {{zh-l|榦*}}|t2=weapon on pole|ls=ic}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jǐ\n|c=gik1\n|mn=kek\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[halberd]] with [[crescent]] [[blade]] used in {{w|ancient China}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|亡戟得矛|刀鎗劍戟|劍戟森森|句戟|執戟|巴戟天|戟手|戟指|戟指怒目|戟門|戲戟|折戟沉沙|持戟|提牌執戟|方天戟|方天畫戟|星旗電戟|杖戟|棨戟|畫戟|短戟|葦戟桃杖|貫頤奮戟|轅門射戟|鉤戟|門戟|雙戟|驢生戟角|鬚髯如戟}}\n\n{{zh-cat|Weapons}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=戈08}}\n\n# type of [[weapon]] ([[halberd]] or [[spear]])",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=きゃく\n|kanon=けき\n|kanyoon=げき\n|kun=ほこ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|げき|yomi=kanyo}}\nFrom {{der|ja|ltc|sort=げき|-}} {{ltc-l|戟}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|げき}}\n\n# {{w|Ji (polearm)|''Ji''}} {{gloss|[[halberd]] used in {{w|ancient China}}}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|ほこ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほこ}}\n\n# {{alternative spelling of|矛|lang=ja|gloss=[[spear]]}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "{{wp|lang=ko|극 (무기)}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|극}}\n\n# {{hanja form of|극|{{w|Ji (polearm)|''Ji''}}, [[halberd]] used in {{w|ancient China}}}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "{{wp|lang=vi|Kích (vũ khí)}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=戈08\n|reading=kích\n}}\n\n# {{han tu form of|kích|{{w|Ji (polearm)|''Ji''}}, [[halberd]] used in {{w|ancient China}}}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "榁",
+  "ns": 0,
+  "id": 17878,
+  "timestamp": 1495665451000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=75|rad=木|as=09|sn=13|four=|canj=DJMG|ids=⿰木室}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0542.191|dkj=15217|dj=0930.240|hdz=21255.091|uh=6981|ud=27009}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木09}}\n\n# {{taxlink|Juniperus rigida|species|noshow=1}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=|kun=[[むろ]] (muro)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|lang=ja}}\n{{ja-kanjitab|むろ|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|むろ|yomi=k}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|むろ|ムロ}}\n\n# {{taxlink|Juniperus rigida|species|noshow=1}}, the [[temple juniper]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|杜松|ねず}}, {{ja-r|鼠刺し|ねずみさし}}\n\n[[Category:Japanese-only CJKV Characters|木+09]]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

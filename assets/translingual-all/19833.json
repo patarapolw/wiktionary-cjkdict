@@ -1,0 +1,107 @@
+{
+  "title": "炉",
+  "ns": 0,
+  "id": 19833,
+  "timestamp": 1547139780000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|爐}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|炉|炉|[[爐]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{Han simp|爐}}.\n* {{Han simp|爐|f=盧|t=户}} in simplified Chinese.\n* {{Han simp|爐|f=盧|t=戸}} in modern Japanese."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=86|rad=火|as=04|sn=8|four=|canj=FHS,FIS|ids=⿰火户(GH),火戶(TK),火戸(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𦲊]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0667.050|dkj=18902|dj=1076.140|hdz=32194.020|uh=7089|ud=28809}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|爐}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|炉|爐}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|kyu=爐|rs=火04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=る\n|kanon=ろ\n|kun=いろり-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{wp|lang=ja}}\n{{ja-kanjitab|ろ|yomi=o}}\n{{der|ja|ltc|爐|sort=ろ}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|ろ|acc=0|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|kyu=爐|ろ}}\n\n# [[furnace]], [[kiln]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "{{der-top}}\n* {{ja-r|焜炉|こんろ}}\n* {{ja-r|風炉|ふうろ}}, {{ja-r|風炉|ふろ}}\n* {{ja-r|炉火|ろか}}, {{ja-r|炉火|ろび}}\n* {{ja-r|炉%端|ろ%ばた}}\n* {{ja-r|炉%辺|ろ%ばた}}, {{ja-r|炉辺|ろへん}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[로]]>[[노]]|eumhun=}}\n\n# {{defn|lang=ko|sort=火04}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

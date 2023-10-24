@@ -1,0 +1,92 @@
+{
+  "title": "咎",
+  "ns": 0,
+  "id": 12262,
+  "timestamp": 1552458811000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=05|sn=8|four=28604|canj=HOR,HYR|ids=⿱⿺夂卜口 (G), ⿱⿺夂人口 (TJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0185.060|dkj=03493|dj=0404.060|hdz=10607.060|uh=548E|ud=21646|bh=A953|bd=43347}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\nOriginally {{Han compound|夂|人|ls=ic|nocap=1}}, with {{lang|zh|口}} later added."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiù\n|c=gau3\n|mn=qz:kiǔ/tw,xm,zz:kiū\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[fault]]; [[defect]]; [[error]]; [[mistake]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|咎由自取|咎悔|引咎辭職|執咎|不咎既往|引咎責躬|引咎自責|咎徵|動輒得咎|引咎|咎戾|取咎|委咎|咎過|休咎|招咎|獲咎|歸咎|盈滿之咎|無咎無譽|既往不咎|降咎|自取其咎|難辭其咎|自咎}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口05}}\n\n# {{defn|lang=ja|sort=口05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=きゅう, こう\n|kun=とが-, とが-める\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[구]], [[고]]|rv=gu, go|mr=ku, ko}}\n\n# {{defn|lang=ko|sort=口05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

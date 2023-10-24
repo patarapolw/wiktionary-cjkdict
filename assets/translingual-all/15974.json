@@ -1,0 +1,87 @@
+{
+  "title": "扌",
+  "ns": 0,
+  "id": 15974,
+  "timestamp": 1550972513000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|才|孑|犭}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=00|sn=3|var=1|four=50000|canj=DM,XXXDM|ids=⿻𬺰㇀}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/手]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0416.291|dkj=11770|dj=0763.020|hdz=31824.011|uh=624C}}\n\n[[Category:CJKV radicals]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Derived from its [[w:seal script|seal script]] form, [[File:手-seal.svg|25px]]."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shǒu\n|cat=symbols\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{n-g|left radical form of {{zh-l|手}}.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Usually found as the left component of a character. Referred to as {{zh-l|提手旁|gloss=slanted hand radical}}."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=r|rs=手00}}\n\n# left \"hand\" radical, called ''te-hen'' ({{ja-l|手偏}})",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ<しゆ\n|kanon=しゅう<しう\n|kanyoon=ず\n|kun=てへん-\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

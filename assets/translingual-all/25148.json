@@ -1,0 +1,145 @@
+{
+  "title": "菻",
+  "ns": 0,
+  "id": 25148,
+  "timestamp": 1535923587000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|麻}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* A similar character, ⿱{{l|mul|[[⻀]][[𣏟]]}} can be found in the historical ''{{w|Jiyun}}'' dictionary. <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=C11594#26 -->\n** In mainland China, this form has been unified with ⿱{{l|mul|[[艹]][[林]]}} due to the ''{{w|Xin Zixing}}'' standardization of characters. ([[⻀]] → [[艹]], [[𣏟]] → [[林]])"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=08|sn=12|snmj=11|four=44994|canj=TDD|ids=⿱艹林}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1040.110|dkj=31238|dj=1499.050|hdz=53230.030|uh=83FB}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𦾰}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph 1",
+              "text": "{{Han-glyphref|⿱艹林|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "{{Han etym}}\n{{Han compound|艸|林|c1=s|c2=p|t1=grass; plant|ls=psc}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=lǐn\n|c=lam4\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|botany}} [[artemisia]]\n#: {{zh-syn|蒿}}\n# {{†}} {{zh-used in|拂菻|{{w|Byzantine Empire}}}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Glyph 2",
+              "text": "{{Han-glyphref|⿱[[⻀]][[𣏟]]|}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Glyph origin",
+                  "text": "Found in the historical ''{{w|Jiyun}}'' {{w2|zh|pref=《|集韻|suf=》}} {{w|rime dictionary}} published during the {{w|Song dynasty}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|麻|v}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|C11594}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=艸08}}\n\n# {{defn|lang=ja|sort=艸08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=りん\n|kun=きつねあざ\n|nanori=\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|りん|yomi=on}}\n\nFrom {{bor|ja|ltc|sort=りん|-}} {{ltc-l|菻|[[artemisia]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|りん}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|拂菻|ふつりん}}: {{lb|ja|historical|used by China}} {{w|Byzantine Empire}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=艸07|[[lùm]], [[râm]], [[răm]]}}\n\n# {{defn|lang=vi|sort=艸07}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=83FB Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

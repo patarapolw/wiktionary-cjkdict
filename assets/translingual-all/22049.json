@@ -1,0 +1,109 @@
+{
+  "title": "碳",
+  "ns": 0,
+  "id": 22049,
+  "timestamp": 1552114575000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=09|sn=14|four=12689|canj=MRUKF,MRUMF|ids=⿰石炭}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0833.291|dkj=24363|hdz=42443.100|uh=78B3|ud=30899|bh=BAD2|bd=47826}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{elements|C|硼|B|氮|N|lang=zh}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|石|t1={{qualifier|chemical nomenclature}} non-metal solid|炭|t2=charcoal|ls=ic}}. Also a {{liushu|psc|nocap=y}}, with {{zh-l|炭}} as a phonetic component."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|炭|charcoal}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tàn\n|c=taan3\n|h=pfs=than\n|md=táng\n|mn=thòaⁿ/ml:thàn\n|mn_note=thòaⁿ - vernacular; thàn - literary\n|w=2the\n|mc=\n|oc=\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemistry}} [[carbon]]\n# {{lb|zh|ecology}} carbon emissions (in the context of [[global warming]] and [[climate change]])"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|碳黑|碳化|碳化硅|碳化鐵|碳氫化合物|碳水化合物|碳素鋼|碳酸|碳酸氣|一氧化碳|中碳鋼|二氧化碳|氟碳塑膠|活性碳|矽碳棒|碳化物|碳循環|碳纖維|碳酸氫鹽|碳酸鈣|碳鋼|高碳鋼|低碳|低碳經濟}}\n\n{{zh-cat|Chemical elements}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石09}}\n\n# {{defn|lang=ja|sort=石09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=たん\n|kanon=たん\n|kun=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=탄}}\n\n# {{defn|lang=ko|sort=石09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[thán]]|rs=石09}}\n\n# {{defn|lang=vi|sort=石09}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "title": "卡",
+  "ns": 0,
+  "id": 11932,
+  "timestamp": 1544013361000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𠧗|𠀝}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=25|rad=卜|as=03|sn=5|four=21231|canj=YMY|ids=⿱上卜}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[佧]], [[咔]], [[拤]], [[胩]], [[鉲]], [[𠖺]], [[𡛨]], [[𡶛]], [[𣳓]], [[𤋈]], [[𤙐]], [[𦭌]], [[𪁯]], [[𫧱]], [[𫧲]], [[𫧳]], [[𫧵]], [[𫧶]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0158.010|dkj=02781|dj=0362.010|hdz=10092.040|uh=5361}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "This character is a vertical stacking of {{zh-l|*上|up}} and {{zh-l|*下|down}} with fusion of the horizontal lines, thus representing being squeezed between above and below."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-forms}}\nMaybe cognate with {{och-l|夾|to clip}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=kǎ,qiǎ,1nc=colloquial,2nc=literary\n|m-s=qia1/ka1/ka3/qia3\n|c=kaa1,kaa2\n|h=pfs=khà\n|mn=qz,tw:khah/xm,zz:khá/tw:kha̍h\n|mn_note=khah/khá - vernacular (俗); kha̍h - 闔 is used in the Mainland\n|mc=\n|oc=\n|ma=\n|cat=v,n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# to [[wedge]]; to [[get]] [[stuck]]; to be [[jammed]]; to become tightly [[wedged]]\n#* {{zh-x|魚刺 卡 在 喉嚨 裡。|A fishbone is '''stuck''' in the throat.}}\n# to [[clip]]; to [[fasten]]\n# to [[scrag]]; to [[choke]]\n#* {{zh-x|歹徒 卡 住 他 的 脖子。|The ruffian '''wrung''' his neck.}}\n# {{lb|zh|computing}} to [[freeze up]]; to [[buffer]]; to [[stop]] [[loading]]; to [[lag]]\n#: {{zh-x|卡 在 奇怪 的 地方|it stopped (loading) at a strange frame}}\n# {{lb|zh|computing}} [[laggy]]; [[slow]]; not [[responding]]\n# [[pin]]; [[fastener]]\n#* {{zh-x|髮卡{qiǎ}|hairpin}}\n# [[checkpoint]]; [[checkpost]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-forms|alt=咭-Cantonese}}\nFrom {{bor|zh|en|card}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=kǎ\n|c=kaat1\n|h=pfs=khá/khà\n|mn=xm,zz:khá/qz,tw:khah\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[card]] {{zh-mw|張}}\n#* {{zh-x|卡片|card}}\n#* {{zh-x|記憶卡|memory card}}\n#* {{zh-x|賀卡|celebration card}}\n#* {{zh-x|刷卡|to swipe one's card}}\n#* {{zh-x|碌卡{kaat1}|to swipe one's card|C}}\n#* {{zh-x|電話卡|phone card}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{zh-forms}}\nFrom {{bor|zh|fr|calorie}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=kǎ\n|c=kaa1\n|h=pfs=khà\n|mn=\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-abbrev|卡路里}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 4",
+              "text": "{{zh-forms}}\nFrom {{bor|zh|en|car}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=kǎ\n|c=kaa1\n|h=pfs=\n|mn=xm,zz:khá/qz,tw:khah\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[truck]]; [[lorry]]\n#* {{zh-x|卡車|truck}}\n#* {{zh-x|貨卡|cargo truck}}\n# [[railcar]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 5",
+              "text": "{{zh-forms}}\nFrom {{bor|zh|fr|cassette}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=kǎ\n|c=kaa1\n|h=pfs=\n|mn=khah/khá\n|ma=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-abbrev|卡式|[[cassette]]}}\n#: {{zh-x|卡帶|cassette}}\n#: {{zh-x|雙 卡 錄音機|dual cassette recorder}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 6",
+              "text": "{{zh-forms}}\nFrom {{bor|zh|en|carat}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|c=kaa1\n|cat=cls\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Hong Kong}} [[carat]] (unit of weight equivalent to 200 milligrams)"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{thcwd|1400}}\n* {{thcwd|1401}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|卡通|卡帶|卡港會議|大卡|卡紙|卡賓槍|多媒體卡|信用卡|刷卡|卡尺|卡利撒|卡農|卡片|卡門|卡脖子|卡其布|巴茲卡|布卡拉|志願卡|卡土穆|卡通劇|影視卡|安卡拉|帕斯卡|卡片軟體|外卡|原圖卡|卡式|學籍卡|健保卡|介面卡|卡座|卡司|卡片碼|卡倫|卡計|卡鉗|傾卸卡車|卡達|卡通電影|卡車|卡路里|卡片目錄|卡死|卡巴迪|卡子|卡介苗|分釐卡|卡拉卡斯|打卡機|斯里蘭卡|易加卡|活動卡通|打卡|提款卡|數據卡|普魯卡因|磁卡|目錄卡|生日卡|棒球卡|波爾卡舞|游標卡尺|打卡鐘|控制卡|讀卡機|耶誕卡|音樂卡|蒙地卡羅|賀卡|網路賀卡|貼票卡|電子卡片|達卡|電話卡|馬拉卡|聖誕卡|音效卡|邊卡|萊卡|認同卡|電子賀卡|簽帳卡|金融卡|配接卡|網路卡|那卡西|關卡|通訊卡|賀年卡|護票卡|綠卡|預付卡|貴賓卡|阿空卡瓜|卡羅琳}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=卜03}}\n\n# {{defn|lang=ja|sort=卜03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞう<ざふ\n|kanon=そう<さふ\n|toon=さ\n|kanyoon=か}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=잡|rv=jap|mr=chap}}\n\n# {{defn|lang=ko|sort=卜03}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[tạp]], [[ca]]|rs=卜03}}\n\n# {{defn|lang=vi|sort=卜03}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

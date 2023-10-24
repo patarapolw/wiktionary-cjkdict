@@ -1,0 +1,56 @@
+{
+  "title": "頩",
+  "ns": 0,
+  "id": 31146,
+  "timestamp": 1537646298000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0x2fa00}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=181|rad=頁|as=06|sn=15|four=81486|canj=TTMBC|ids=⿰并頁(U+9829),⿰幷頁(U+2FA00)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1403.200|dkj=43461|dj=1920.230|hdz=74370.080|uh=9829|ud=38953|bh=E8B9|bd=59577}}\n* {{Han ref|uh=2FA00}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{attention|zh|Simplified character in CJK Unified Ideographs extension G}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=pīng,pǐng\n|c=ping1,ping2\n|mc=y\n|oc=y\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

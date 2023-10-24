@@ -1,0 +1,111 @@
+{
+  "title": "矼",
+  "ns": 0,
+  "id": 21865,
+  "timestamp": 1547624030000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=03|sn=8|four=11610|canj=MRM|ids=⿰石工}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0827.190|dkj=24044|dj=1241.200|hdz=42417.110|uh=77FC}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|石|工|c1=s|c2=p|t1=stone|ls=psc}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=gāng,qiāng\n|c=gong1,hong1,kung4\n|mc=y\n|oc=y\n|cat=\n}}\n{{zh-attn-split}} <!-- jiāng for \"stone bridge\" sense in Moedict.tw; kòng for \"appearance of honesty\" sense in Hanyudazidian -->"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[stone]] [[bridge]]\n# [[appearance]] of [[honesty]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|矼牙}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石03}}\n\n# [[stepping stone]]\n# [[hard]]\n# [[serious]] [[minded]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=こう\n|kun=とびいし, いしばし, たしか\n|nanori=ばし\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja/new|강}}\n\n# {{defn|lang=ko|sort=石03}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=石03\n|nom=cong-tdcndg\n}}\n\n# {{Nom form of|cong|[[curved]]; [[bent]]}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

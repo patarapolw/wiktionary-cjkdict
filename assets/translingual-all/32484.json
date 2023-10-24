@@ -1,0 +1,61 @@
+{
+  "title": "鳪",
+  "ns": 0,
+  "id": 32484,
+  "timestamp": 1550172935000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|mul|𨾇}}"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=196|rad=鳥|as=02|sn=13|canj=YHAF|four=27027|ids=⿰卜鳥}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1481.120|dkj=46653|dj=2013.160|hdz=74613.110|uh=9CEA|ud=40170|bh=E0EB|bd=57579}}\n* [http://chardb.iis.sinica.edu.tw/char/26996 International Encoded Han Character and Variants Database (國際電腦漢字及異體字知識庫)]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|卜|鳥|ls=psc|c1=p|c2=s}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bú\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-only used in|鳪雉}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

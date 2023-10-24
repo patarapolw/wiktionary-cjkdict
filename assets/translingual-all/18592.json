@@ -1,0 +1,119 @@
+{
+  "title": "氮",
+  "ns": 0,
+  "id": 18592,
+  "timestamp": 1534342599000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=84|rad=气|as=08|sn=12|four=80817|canj=ONFF|ids=⿹气炎}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{Han ref|kx=0600.011|dkj=17071|hdz=32013.060|uh=6C2E|ud=27694|bh=B4E1|bd=46305}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{elements|N|碳|C|氧|O|lang=zh}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|气|淡|ls=psc|ls2=ic|c1=s|c2=p|t1=gas|t2=dilute|abb2=y|no_och2=1}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|淡|dilute}} in {{zh-l|淡氣}} {{defdate|19th c.}}, referring to nitrogen diluting oxygen in the air."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dàn\n|ma=zh-dan4.ogg\n|c=daam6\n|h=pfs=tham\n|md=dâng\n|mn=tām\n|w=3de\n|mc=\n|oc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[nitrogen]]<!-- unicode.org, jisho.org, and weblio.jp are all wrong, this is nitrogen, *not* xenon. -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{q|rare|chiefly Taiwanese Min Nan}} {{zh-l|窒素}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|氮肥|氮氣|液氮|固氮菌|固氮作用|氮循環|氮化法|氮化物|氮環|氮血症|氮平衡}}\n\n{{zh-cat|Chemical elements}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=气08}}\n\n# [[nitrogen]] <!-- unicode.org, jisho.org, and weblio.jp are all wrong, this is nitrogen, *not* xenon. -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=たん\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Not used in Japanese. Some sources erroneously give a meaning of {{m|en|xenon}}, instead of the correct {{m|en|nitrogen}}.\n\nThe Japanese word for {{m|en|nitrogen}} is {{m|ja|窒素|tr=chisso}}."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=담|eumhun=|rv=dam|mr=tam|y=tam}}\n\n# [[nitrogen]] <!-- unicode.org, jisho.org, and weblio.jp are all wrong, this is nitrogen, *not* xenon. -->"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[đạm]]|rs=气08}}\n\n# [[nitrogen]] <!-- unicode.org, jisho.org, and weblio.jp are all wrong, this is nitrogen, *not* xenon. -->"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

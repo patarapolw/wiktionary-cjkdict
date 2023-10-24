@@ -1,0 +1,95 @@
+{
+  "title": "暜",
+  "ns": 0,
+  "id": 17146,
+  "timestamp": 1553310027000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|替|普|晋|𤾕}}\n{{character info/new}}\n{{character info|0x2F8D5}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "A CJK {{w|Unicode compatibility characters|compatibility ideograph}} (U+2F8D5) exists with [[曰]] as the bottom component instead of [[日]]."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=72|rad=日|as=10|sn=14|four=|canj=XYTA,YTA|ids=⿱竝日,⿱竝曰}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𧭘]]/[[譜]]}}, {{l|mul|普}} (and its [[普#Derived_characters|derived characters]]), {{l|mul|替}} (and its [[替#Derived_characters|derived characters]])"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0498.360|dkj=14082|hdz=21530.180|uh=669C|ud=26268}}\n* {{Han ref|uh=26268}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|替|a}} <!--《廣韻·去聲·霽·替》替：『廢也，代也，滅也。《說文》本作暜廢一偏下也。他計切，二十。』-->"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|普|a}} <!--《康熙字典》普：『《唐韻》滂古切，音浦。《說文》作暜，日無色也。《註》日無光則遠近皆同，故从竝。』-->"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "Note that etymology 1 applies to the character with [[曰]] as the bottom component (U+2F8D5) while etymology 2 applies to the character with [[日]] as the bottom component (U+669C). When {{w|regular script}} ([[楷書]]) became the more prominent style in {{w|Chinese script styles|Chinese calligraphy}}, the component [[竝]] in 暜 was simplified to [[替]] and [[普]] respectively to avoid confusion between the two forms."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=日10}}\n\n# {{alt-form|lang=ja|[[普]]}} {{gloss|[[general#Adjective|general]], [[universal]], [[widespread]]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[ふ]] (fu)|kun=[[あまねし]] (amaneshi)}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "This character was added to {{w|JIS X 0208}} in 1990 but is scarcely used except in historical texts."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

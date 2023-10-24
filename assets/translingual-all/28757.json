@@ -1,0 +1,90 @@
+{
+  "title": "遖",
+  "ns": 0,
+  "id": 28757,
+  "timestamp": 1528438781000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=162|rad=辵|as=09|sn=13|four=3430.2|canj=YJBJ|ids=⿺辶南}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1262.201|dkj=39030|dj=1756.140|hdz=63856.041|uh=9056}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|rs=辵09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kun=あっぱ-れ}}\n\n{{ja-kanjitab|あっぱれ|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{IPAchar|/apare/}} → {{IPAchar|/appare/}}\n\nAlteration of {{etyl|ojp|ja|sort=あっぱれ}} {{m|ja|哀|tr=apare, ''modern'' aware||deeply touching or moving}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=k|あっぱれ|acc=3|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{ja-l|天晴れ}}"
+            },
+            {
+              "level": 3,
+              "title": "Adjective",
+              "text": "{{ja-adj|infl=na|あっぱれ}}\n\n# [[admirable]], [[commendable]], [[wonderful]], [[brilliant]], [[splendid]], [[worthy]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Inflection",
+                  "text": "{{ja-na|あっぱれ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Interjection",
+              "text": "{{ja-pos|interjection|あっぱれ}}\n\n# [[well done]], [[wow]], [[bravo]], [[wonderful]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:Japanese-only CJKV Characters|辵+09]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

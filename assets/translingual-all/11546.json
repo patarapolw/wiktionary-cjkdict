@@ -1,0 +1,116 @@
+{
+  "title": "凵",
+  "ns": 0,
+  "id": 11546,
+  "timestamp": 1553325374000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|ㄩ}}\n{{character info/new}}\n{{character info|0x2F81D}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=17|rad=凵|as=00|sn=2|four=22770|canj=VL,XVL|ids=⿰𠃊丨}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* [[Index:Chinese radical/凵]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0134.390|dkj=01800|dj=0300.250|hdz=10306.150|uh=51F5|ud=20981|bh=C942|bd=51522}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qiǎn,kǎn\n|c=ham3,ham2\n|h=pfs=kham\n|mn=khám\n|w=\n|mc=y\n|oc=y\n|ma=|ma2=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# the [[apparence]] of an [[open]] [[aperture]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E5%87%B5 CCDICT (Chineselanguage.org)]\n* {{R:hak:Lau 1997}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=凵00}}\n\n# {{defn|lang=ja|sort=凵00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[かん]] (kan), [[こん]] (kon)|kun=[[かんにょう]] (kannyou), [[かんがまえ]] (kangamae)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=감|rv=gam|mr=kam}}\n\n# {{defn|lang=ko|sort=凵00}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[khảm]]|rs=凵00}}\n\n# {{defn|lang=vi|sort=凵00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=51f5 Nom Foundation]\n\n[[Category:CJKV radicals]]\n\n{{cln|vi|Han tu}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

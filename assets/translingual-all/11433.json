@@ -1,0 +1,133 @@
+{
+  "title": "冊",
+  "ns": 0,
+  "id": 11433,
+  "timestamp": 1550601095000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|册|𠕁}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=13|rad=冂|as=03|sn=5|four=77440|canj=BT,XBT|ids=⿻冂卄,⿻𦉫一}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𭇒]], [[姍]], [[柵]], [[𣧱]], [[𦙱]],<!-- Note: 𧧚 is incorrect - Contains ⿻冊丨 --> [[𪑃]], [[刪]], [[𮟰]], [[𠂨]], [[𣫳]], [[𣌧]]}}\n*  <font size=3, lang=\"zh-hant\">[[珊#Translingual|珊]], [[粣#Translingual|粣]], [[跚#Translingual|跚]], [[銏#Translingual|銏]], [[笧#Translingual|笧]]</font> ''(For all regions except mainland China and Vietnamese Nom characters which contain {{l|mul|册}} instead. Exception: Korean <font size=3, lang=\"ko\">[[跚#Translingual|跚]]</font> contains {{l|mul|册}}) - See {{w|Han unification}}''"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[册]]}} ''(Variant form used in {{w|simplified Chinese}} and {{w|History of writing in Vietnam|Vietnamese Nom}})''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0129.010|dkj=01515|dj=0289.200|hdz=10099.050|uh=518A}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=册|alt=𠕁}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{liushu|p}} – {{w|bamboo slips}} strung together."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cè\n|c=caak3\n|h=pfs=chhak\n|md=cháh\n|mn=xm,qz,tw:chheh/zz,pn:chheeh/xm,zz,tw:chhek/qz:chhiak\n|mn_note=chheh/chheeh - vernacular; chhek/chhiak - literary\n|w=4tshaq\n|mc=y\n|oc=y\n|cat=n,v,cls\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary|or|Min Nan}} [[book]]\n# [[volume]]\n# [[imperial]] [[edict]]\n# to [[grant]] in an [[imperial]] [[edict]]\n# {{zh-classifier|[[book]]s}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "See also",
+                  "text": "* {{zh-l|書}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|冊書|四柱冊|冊正|丁口冊|列冊|冊封|底冊|人手一冊|冊立|帳冊|冊子|冊命|分冊|冊頁|冊府元龜|冊府|冊葉|哀冊|冊籍|小冊子|史冊|兔園冊|副冊|名冊|畫冊|捐冊|旅遊手冊|檔冊|留言冊|清冊|書冊|樣冊子|手冊|方冊|符冊|簡冊|花名冊|點名冊|長冊|黃冊|魚鱗圖冊|高文大冊|高文典冊|紀念冊|簿冊|註冊|註冊商標|羊冊|照冊}}\n\n{{zh-cat|Elementary}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=冂03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=さつ, さく\n|kun=ふみ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Counter",
+              "text": "{{ja-pos|さつ|counter}}\n\n# [[book]]s"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[책]]|rv=chaek|mr=ch'aek}}\n\n# [[book]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[冊房]] ([[책방]], chaekbang)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|sách|rs=冂03}}\n\n# {{han tu form of|sách|[[book]]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

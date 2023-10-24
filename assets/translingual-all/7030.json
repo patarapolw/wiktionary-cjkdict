@@ -1,0 +1,129 @@
+{
+  "title": "悪",
+  "ns": 0,
+  "id": 7030,
+  "timestamp": 1548470110000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|惡|恶}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|惡|悪|恶}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=61|rad=心|as=07|sn=11|four=10331|canj=MMP,XMMP|ids=⿱亜心}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𫫖]], [[𨉼]], [[𬹓]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0388.341|dkj=10717|dj=0721.260|hdz=42300.020|uh=60AA|ud=24746}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|惡|sgsv}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|悪|惡}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=心07|kyu=惡}}\n\n# (あく) [[evil]]; [[bad]]; [[disagreeable]]; [[unpleasant]]\n# (お) [[hate]]; [[loathe]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=あく, う\n|kanon=あく, お<を\n|kun=わる-い, にく-む, いずく-んぞ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|悪露|おろ|[[lochia]]}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|あく|yomi=o}}\nFrom {{etyl|ltc|ja|sort=あく}} {{m|zh|惡|tr=ʔak||bad}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|あく|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=惡|あく}}\n\n# [[evil]], [[wickedness]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|kyu=惡|あく}}\n\n# [[evil]], [[vice]], [[ill]], [[wrong]]\n# [[bad]]; [[disagreeable]]; [[unpleasant]]; [[undesirable]]; \n# [[inferior]]; [[ugly]]\n# [[fierce]]; [[vicious]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|わる|yomi=k}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|わる|acc=1|acc_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=惡|わる}}\n\n# [[evil]], [[wickedness]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|お|yomi=kanon}}\n{{IPAchar|/wo/}} → {{IPAchar|/o/}}\n\nFrom {{der|ja|ltc|sort=お|-}} {{ltc-l|惡|id=2}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|お|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|お|hhira=を}}\n\n# [[hate]]; [[loathe]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

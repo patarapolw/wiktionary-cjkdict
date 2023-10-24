@@ -1,0 +1,93 @@
+{
+  "title": "残",
+  "ns": 0,
+  "id": 18428,
+  "timestamp": 1528873683000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|殘|浅}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|殘|残|残}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han simp|殘|f=戔|t=㦮}} for Japanese shinjitai and {{Han simp|殘|f=戔|t=戋|nocap=y}} for simplified Chinese."
+            },
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note that Japanese shinjitai uses {{l|mul|㦮}} (extra line above {{l|mul|戋}}) while simplified Chinese uses {{l|mul|戋}}. Due to {{w|Han unification}}, both {{w|simplified Chinese}} and Japanese {{w|shinjitai}} forms are encoded under the same [[code point]]. Different forms can be observed when using the appropriate font."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=78|rad=歹|as=05|asj=06|sn=9|snj=10|four=13250|canj=MNIJ|ids=⿰歹戋(G),⿰歹㦮(TJK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𣸶]]}} ''(Based on China glyph form containing {{l|mul|戋}})'' <!-- The official Unicode chart contains 戋 for this derived character -->"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0580.291|dkj=16459|hdz=21383.080|uh=6B8B}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|殘}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|残|殘}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=4|rs=歹06|kyu=殘}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ざん\n|kanon=さん\n|kun=のこ-る, のこ-す, そこ-なう, ひどい, むごい\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|ざん|acc=1|acc_ref=DJR,SMK5}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ざん|kyu=殘}}\n\n# the [[remainder]]; [[leftover]]; [[residue]]"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|ざん|affix|kyu=殘}}\n\n# [[remain]], [[remaining]]\n#: {{ja-usex|'''残'''業、'''残'''金、'''残'''飯、'''残'''骸、'''残'''念|'''ざん'''ぎょう、'''ざん'''きん、'''ざん'''ぱん、'''ざん'''がい、'''ざん'''ねん|overtime work; remaining money; leftover food; wreckage; regret}}\n# [[damage]], [[destroy]]\n# [[cruel]]\n#: {{ja-usex|'''残'''酷、'''残'''虐、'''残'''忍|'''ざん'''こく、'''ざん'''ぎゃく、'''ざん'''にん|cruel; savage; brutal}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

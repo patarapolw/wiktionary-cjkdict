@@ -1,0 +1,136 @@
+{
+  "title": "弧",
+  "ns": 0,
+  "id": 15166,
+  "timestamp": 1542590445000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=57|rad=弓|as=05|asj=06|sn=8|snj=9|four=12230|canj=NHVO|ids=⿰弓瓜}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0357.340|dkj=09757|dj=0674.160|hdz=20993.030|uh=5F27|ud=24359|bh=A9B7|bd=43447}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=hú\n|ma=y\n|c=wu4\n|h=pfs=\n|md=\n|mn=hô͘/twv:ô͘\n|w=3hhu\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[wooden]] [[bow]]\n# [[arc]], [[crescent]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|括弧}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=弓05}}\n\n# [[arc]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ご\n|kanon=こ\n|kun=きゆみ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|円弧|えんこ}}\n* {{ja-r|括弧|かっこ}}\n* {{ja-r|共役弧|きょうやくこ}}\n* {{ja-r|弧光|ここう}}: [[arc]] [[light]]\n* {{ja-r|弧状|こじょう}}\n* {{ja-r|弧線|こせん}}\n* {{ja-r|弧度|こど}}: [[radian]]\n* {{ja-r|桑弧|そうこ}}\n* {{ja-r|直弧文|ちょっこもん}}\n* {{ja-r|島弧|とうこ}}\n* {{ja-r|電弧|でんこ}}: [[arc]] {{gloss|electric discharge}}\n* {{ja-r|優弧|ゆうこ}}\n* {{ja-r|琉球弧|りゅうきゅうこ}}\n* {{ja-r|劣弧|れっこ}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|こ|yomi=o}}\nFrom {{etyl|ltc|ja|sort=こ}} {{m|zh|孤|tr=hu||arc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|yomi=kanon|こ|acc=1|acc_ref=DJR,NHK}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|こ}}\n\n# [[arc]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[호]]|eumhun=|mr=ho|y=ho}}\n\n# {{defn|lang=ko|sort=弓05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=弓05|hồ}}\n\n# {{defn|lang=vi|sort=弓05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5f27 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

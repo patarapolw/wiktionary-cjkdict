@@ -1,0 +1,104 @@
+{
+  "title": "挖",
+  "ns": 0,
+  "id": 16182,
+  "timestamp": 1541910981000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=06|sn=9|four=53017|canj=QJCN|ids=⿰扌穵}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𫪶]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0431.130|dkj=12070|dj=0780.180|hdz=31875.110|uh=6316}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wā\n|c=waat3,waa1\n|h=pfs=yet\n|md=\n|mn=qz,tw,xm:iah/qz,xm,zz:oat/qz,xm,zz:oa\n|mn_note=oat - literary; iah - vernacular; oa - vernacular (俗)\n|mn-t=uai1\n|w=\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[dig]], to [[dig out]], to [[gouge]] out, to [[scoop]]\n#: {{zh-x|挖{waat3} 耳屎|to '''remove''' ear wax|C}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|挖補|挖槽機|挖掉|挖耳|挖角|挖角兒|挖掘|挖掘機|挖空心思|挖苦|挖泥船|挖潛|挖牆腳|挖肉補瘡|挖通|挖土機}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}\n\n{{zh-cat|Elementary}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手06}}\n\n# {{defn|lang=ja|sort=手06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=あつ, あち\n|kun=あば-く\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[oạt]]|rs=手06}}\n\n# {{defn|lang=vi|sort=手06}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

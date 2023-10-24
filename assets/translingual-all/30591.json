@@ -1,0 +1,154 @@
+{
+  "title": "阝",
+  "ns": 0,
+  "id": 30591,
+  "timestamp": 1550972605000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|阜|邑|⻖|⻏|ß}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=170|rad=阜|as=00|sn=3|snm++=2|four=77227|canj=NL,XXNL|ids=⿰丨㇌}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/阜]] {{qualifier|as left radical}}\n* [[Index:Chinese radical/邑]] {{qualifier|as right radical}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1345.040|dkj=41536|dj=1847.270|hdz=64114.030|uh=961D}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "* <big>阝</big> is the component form of two distinct radicals found either on the left or right of a character. It is the component form of {{l|mul|阜}} when used on the left of a character, as in {{l|mul|阮}}, and the component form of {{l|mul|邑}} when used on the right of a character, as in {{l|mul|邧}}.\n\n[[Category:CJKV radicals]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=fù\n|c=\n|ma=\n|cat=symbols\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-l|阜}} as left radical",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{zh-l|左耳刀}} ''(zuǒ'ěrdāo)''"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=yì\n|c=\n|ma=\n|cat=symbols\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-l|邑}} as right radical",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{zh-l|右耳刀}} ''(yòu'ěrdāo)''"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "Also known as {{zh-l|雙耳旁}} ''(shuāng'ěrpáng)'' or {{zh-l|雙耳刀}} ''(shuāng'ěrdāo)'' when referring to the [[radical]] written on either side of a character."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=阜00}}\n\n# {{defn|lang=ja|sort=阜00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=|kun=[[こざとへん]] (kozatohen)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=부|eumhun=|rv=bu|mr=pu|y=pu}}\n\n# {{defn|lang=ko|sort=阜00}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|rs=阜00|[[ấp]], [[phụ]]}}\n\n# {{defn|lang=vi|sort=阜00}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=961D Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "䲤",
+  "ns": 0,
+  "id": 4060519,
+  "timestamp": 1533367341000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=195|rad=魚|as=10|sn=21|canj=NFEMW|four=|ids=⿰鱼酒}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "The codepoint U+4CA4 once both represented ⿰魚酒 (traditional) and ⿰鱼酒 (simplified). Later, it is disunified for compatibility. Now ⿰魚酒 (traditional) belongs to U+9FD0."
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1480.511|dkj=|dj=|hdz=|uh=4CA4|ud=19620}}\n* [https://blogs.adobe.com/CCJKType/2014/06/9fcd-thru-9fe9.html Adobe's blog about this character]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|鿐}}"
+        }
+      ]
+    }
+  ]
+}

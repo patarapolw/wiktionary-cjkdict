@@ -1,0 +1,58 @@
+{
+  "title": "鱱",
+  "ns": 0,
+  "id": 32343,
+  "timestamp": 1499380736000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=195|rad=魚|as=15|sn=26|four=21327|canj=NFMTB|ids=⿰魚厲}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1480.110|dkj=46586|hdz=74719.120|uh=9C71}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=lì\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialectal}} [[snakehead]] {{gloss|{{taxlink|Channa|genus}}}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|鱧}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

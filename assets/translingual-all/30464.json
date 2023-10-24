@@ -1,0 +1,148 @@
+{
+  "title": "閾",
+  "ns": 0,
+  "id": 30464,
+  "timestamp": 1548425567000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|阈}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=169|rad=門|as=08|sn=16|four=77153|canj=ANIRM|ids=⿵門或}}\n\n# [[threshold]]\n# [[separated]], [[confined]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1337.170|dkj=41384|dj=1843.040|hdz=74303.070|uh=95BE|ud=38334|bh=EC48|bd=60488}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=阈}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yù\n|c=wik6,kwik1\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[threshold]]; [[doorsill]]; [[doorstep]]\n# {{lb|zh|literary}} [[limit]]s; [[confine]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|threshold}}\n{{zh-syn-saurus|門檻}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:mfccd}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=門08}}\n\n# {{defn|lang=ja|sort=門08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いき<ゐき\n|kanon=よく\n|on=きょく<きよく\n|kun=しき.い-<しきゐ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|男は閾を跨げば七人の敵あり|おとこ は しきい を またげば しちにん の てき あり}}\n{{der-bottom}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|いき|yomi=goon}}\nFrom {{der|ja|ltc|sort=いき|-}} {{ltc-l|閾}}.  Compare modern {{cog|yue|閾|tr=wik<sup>6</sup>|pos={{IPAfont|/wɪk̚²/}}}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|いき|acc=1|acc_ref=DJR|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|いき|hhira=ゐき}}\n\n# [[threshold]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|いき|hhira=ゐき}}\n\n# [[threshold]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "{{der-top}}\n* {{ja-r|閾下|いきか}}: [[subliminal]]\n* {{ja-r|閾値|いきち}}, {{ja-r|閾値|しきいち}}\n* {{ja-r|識閾|しき.いき}}\n* {{ja-r|刺激閾|しげき.いき}}\n* {{ja-r|弁別閾|べんべついき}}\n* {{ja-r|門閾|もんいき}}\n{{der-bottom}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|しきい|yomi=k}}\n{{ja-see|敷居}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|しきみ|yomi=k}}\n{{ja-see|しきみ}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=역|eumhun=|rv=yeok|mr=yŏk|y=yek}}\n\n# {{defn|lang=ko|sort=門08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "title": "撨",
+  "ns": 0,
+  "id": 16589,
+  "timestamp": 1540677550000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=64|rad=手|as=12|sn=15|four=|canj=QOGF|ids=⿰扌焦}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0456.020|dkj=12736|dj=0805.010|hdz=31960.060|uh=64A8|ud=25768}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xiāo,fǔ\n|c=siu1\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 118]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=手12}}\n\n# {{defn|lang=ja|sort=手12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=しょう<せう, じょう<ぜう\n|kanon=しょう<せう<!--\n|kun=えら-ぶ, と-る, ぬぐ-う<ぬぐ-ふ-->\n}}<!--\n{{ja-readings\n|goon=す\n|kanon=そう\n|kun=お-す\n}}-->"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "砷",
+  "ns": 0,
+  "id": 21925,
+  "timestamp": 1552111560000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=05|sn=10|four=15606|canj=MRLWL|ids=⿰石申}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0829.331|dkj=24139|hdz=42423.050|uh=7837|ud=30775|bh=AF7E|bd=44926}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shēn\n|c=san1\n|mn=ml:sin\n|mc=y\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chemical element}} [[arsenic]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|砷黃鐵礦|三氧化二砷|氧化砷|三硫化二砷|三氯化砷|三氟化砷|五氧化二砷|砷酸|五氯化砷|砷化氫}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=石05}}\n\n# {{defn|lang=ja|sort=石05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=しん\n|kanon=しん\n|kun=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=신|eumhun=|rv=sin|mr=shin|y=sin}}\n\n# {{defn|lang=ko|sort=石05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|thân|rs=石05}}\n\n# {{defn|lang=vi|sort=石05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

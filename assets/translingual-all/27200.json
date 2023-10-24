@@ -1,0 +1,126 @@
+{
+  "title": "謹",
+  "ns": 0,
+  "id": 27200,
+  "timestamp": 1508408939000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|谨}}\n{{character info/new}}\n{{character info/new|0xfa63}}\n{{character info/new|0xfabf}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|謹|[[谨]]|謹}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note that in Japanese {{w|shinjitai}}, the top right component of [[堇]] is written [[艹]] instead of [[廿]]. Due to {{w|Han unification}}, both characters ({{lang|und|sc=Hani|謹}}/{{lang|ja|謹}}) are encoded under the same Unicode codepoint. A CJK {{w|CJK compatibility ideographs|compatibility ideograph}} (U+FA63) exists for the {{w|kyūjitai}} form of {{lang|ja|謹}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=149|rad=言|as=11|asj=10|sn=18|snj=17|four=04614|canj=YRTLM|ids=⿰言堇(GHTKV),⿰言𦰌(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Descendants",
+                  "text": "* [[谨]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1178.230|dkj=35850|dj=1642.280|hdz=64010.130|uh=8B39|ud=35641|bh=C2D4|bd=49876}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=谨}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|言|t1=speech|堇|ls=psc|c1=s|c2=p}} – to speak caution."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jǐn\n|c=gan2\n|mn=kín\n|mc=y\n|oc=y\n|cat=a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[prudent]]; [[cautious]]; [[careful]]; [[reverent]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|謹慎|嚴謹|拘謹|謹防|謹慎行事|奉命唯謹|修謹以俟|恭謹謙和|恭謹|小心謹慎|慎小謹微|小廉曲謹|勤謹|卑謹|曲謹|敬謹|細謹|謹肅|謹祕|謹守|謹厚|謹密|謹毛失貌|謹謹慎慎|謹細|謹終追遠|謹言|謹於心|謹記|謹飭|謹領|謹言慎行|謹小慎微|謹嚴|謹上|謙謹|謹稟}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=言11|kyu=謹}} <!-- Note: Kyūjitai form 謹 (U+FA63) (CJK compatibility ideograph) -->\n\n# {{defn|lang=ja|sort=言11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=こん\n|kanon=きん\n|kun=つつし-む\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|謹慎|きんしん}}: {{l|en|house}} {{l|en|arrest}}, {{l|en|self}} {{l|en|restraint}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=근|eumhun=|rv=geun|mr=kŭn|y=kun}}\n\n# {{defn|lang=ko|sort=言11}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|hv=cẩn|nom=[[ngẩn]], [[kín]], [[ghín]], [[cẩn]]|rs=言11}}\n\n# {{defn|lang=vi|sort=言11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{R:WinVNKey:Lê Sơn Thanh}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

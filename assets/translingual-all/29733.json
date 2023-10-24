@@ -1,0 +1,114 @@
+{
+  "title": "鍼",
+  "ns": 0,
+  "id": 29733,
+  "timestamp": 1511585771000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|针}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=167|rad=金|as=09|sn=17|four=83150|canj=CIHR|ids=⿰釒咸}}\n\n# [[needle]], [[pin]], [[tack]]\n# [[prick]]\n# [[inject]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1315.270|dkj=40667|dj=1815.330|hdz=64229.020|uh=937C|ud=37756|bh=EED3|bd=61139}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|針|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=金09}}\n\n# [[needle]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=しん\n|kun=はり-, さ-す\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* [[鍼治療]] ([[しんちりょう]], ''[[shin chiryō]]''): [[acupuncture]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[침]], [[감]]|eumhun=|rv=chim, gam|mr=ch'im, kam|y=chim, kam}}\n\n# ([[침]] 침): [[needle]] (used in [[acupuncture]]).",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|ko|針|tr=[[침]], chim}} [[needle]] (used in [[sew]]ing, etc., i.e., [[바늘]])."
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{l|ko|鍼術|tr=[[침술]], chimsul}} [[acupuncture]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Okinawan",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ryu|針}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Cognate with mainland {{cog|ja|針|tr=hari}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{head|ryu|kanji|hiragana|はーい|romaji|hāi}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{head|ryu|noun|hiragana|はーい|romaji|hāi}}\n\n# [[needle]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

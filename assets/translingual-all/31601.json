@@ -1,0 +1,119 @@
+{
+  "title": "駅",
+  "ns": 0,
+  "id": 31601,
+  "timestamp": 1537153391000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|驛|驿}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|驛|駅|驿}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=187|rad=馬|as=04|sn=14|four=77387|canj=SFSO|ids=⿰馬尺}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1435.211|dkj=44633|dj=1960.060|hdz=74545.091|uh=99C5|ud=39365}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n[[File:Nu Front Hong Kong.jpg|thumb|Usage of {{lang|zh|駅}} in Hong Kong along with a [[superscript]] gloss of {{m|zh|站}}.]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{obor|zh|ja|-}} {{ja-r|駅|えき}}, read either etymologically as {{zh-l|驛|jik6}} or semantically as {{zh-l|站|zaam6}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|c=jik6,zaam6\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|only used in place names}} [[station]]\n#* {{zh-x|和 你 相約 於 東 角 駅{jik6} 見||C|ref='''2014''', {{w2|zh|陳詩慧}}, [https://www.youtube.com/watch?v=IjCpvqK5JSs {{lang|zh|東角駅}}]}}\n#* {{zh-x|就 好似 我哋 今日 去 嘅 道{dou6} 之 駅{jik6} 農產品 市場||C|ref='''2016''', [http://www.rthk.hk/tv/dtt31/programme/exploremore3/episode/360296 {{lang|zh|探索大世界3：國際村的農夫們}}]}}\n#* {{zh-x|一定 會 順手 去 原宿 駅{zaam6} 朝聖 啦||C|ref='''2016''', [http://hk.apple.nextmedia.com/realtime/videonews/20160612/55210160 {{lang|zh|【飲食男女】再見了！東京原宿駅}}]}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is used in place names in Hong Kong for stylistic effect; it is also used for faithful rendition of Japanese place names."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|駅|驛}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han simp|驛|f=睪|t=尺}}."
+            },
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=3|rs=馬04|kyu=驛}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=やく\n|kanon=えき\n|kun=うまや-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|えき|yomi=o}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|えき|acc=a|y=on|acc_ref=NHK}}\n\nNote: When used as a suffix, the accent falls on the last syllable of the place name.<ref>{{Template:R:NHK Hatsuon}}</ref>"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|えき|kyu=驛}}\n\n# [[station]] (train, underground/subway)",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{top2}}\n* {{ja-r|駅%員|えき%いん|gloss=station agent}}\n* {{ja-r|駅%長|えき%ちょう|gloss=stationmaster}}\n{{mid2}}\n* {{ja-r|駅%伝|えき%でん|gloss=long-distance relay race}}\n* {{ja-r|駅%前|えき%まえ|gloss=in front of the station}}\n{{bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{ja-r|道の駅|みち の えき}}\n* {{ja-r|海の駅|うみ の えき}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references />\n\n{{C|ja|Rail transportation}}\n\n{{C|ja|Rail transportation}}\n\n[[Category:Japanese basic words|えき]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

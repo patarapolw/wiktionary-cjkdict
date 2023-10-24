@@ -1,0 +1,87 @@
+{
+  "title": "潸",
+  "ns": 0,
+  "id": 19550,
+  "timestamp": 1534406050000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=12|sn=15|four=34127|canj=EDDB|ids=⿰氵⿱林月}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0651.040|dkj=18293|dj=1061.140|hdz=31737.070|uh=6F78|ud=28536|bh=BCE8|bd=48360}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shān\n|c=saan1\n|mn=san\n|mc=y\n|oc=y\n|ma=\n|cat=a,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} [[tearful]]\n# {{lb|zh|literary}} to [[shed]] [[tear]]s"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|潸然淚下|潸然|潸潸|潸泫}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水12}}\n\n# {{defn|lang=ja|sort=水12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[さん]] (san)|kun=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=산|eumhun=|rv=san|mr=san|y=san}}\n\n# {{defn|lang=ko|sort=水12}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

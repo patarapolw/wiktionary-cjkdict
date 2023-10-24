@@ -1,0 +1,51 @@
+{
+  "title": "粣",
+  "ns": 0,
+  "id": 23115,
+  "timestamp": 1528544996000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Due to {{w|Han unification}}, the {{w|Traditional Chinese|traditional form}} containing {{l|mul|冊}} and {{w|Simplified Chinese|simplified form}} containing {{l|mul|册}} are encoded under the same [[code point]]. Depending on the font installed, this character may appear to be either <font size=4.5, lang=\"zh-hant\">粣</font> or <font size=4.5, lang=\"zh-hans\">粣</font>."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=119|rad=米|as=05|sn=11|four=97940|canj=FDBBM,FDBT|ids=⿰米册(G),⿰米冊(HTK)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0908.320|dkj=26918|dj=1335.030|hdz=53145.110|uh=7CA3}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Mandarin",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanzi",
+              "text": "{{cmn-hanzi|pin=[[cè]] ([[ce4]]), [[sǎn]] ([[san3]])|wg=ts'e<sup>4</sup>, san<sup>3</sup>}}\n\n# {{defn|lang=cmn|sort=米05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "title": "秭",
+  "ns": 0,
+  "id": 22387,
+  "timestamp": 1541821588000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=115|rad=禾|as=05|sn=10|four=25927|canj=HDLXH|ids=⿰禾𠂔}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0852.050|dkj=25003|dj=1276.080|hdz=42594.140|uh=79ED|ud=31213|bh=D2F1|bd=54001}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|禾|𠂔|ls=psc|c1=s|c2=p|t1=rice}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zǐ\n|c=zi2\n|mc=y\n|oc=y\n|cat=num\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# a [[numeral]] that [[refer]]s to [[various]] [[number]]s, [[including]] 10<sup>9</sup>, 10<sup>12</sup> and 10<sup>24</sup>"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|秭歸|秭鳺}}"
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "{{zh-numerals-10^4}}\n\n{{cln|zh|numeral symbols|numerals}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=禾05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=し\n|kanon=し\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Number",
+              "text": "{{ja-kanjitab|し|yomi=on}}\n{{ja-pos|numeral symbol|し}}\n\n# A [[trillion]] [[trillion]], 10<sup>24</sup>, or a [[septillion]] of modern English in modern Japanese since 17th century.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|𥝱|じょ}}\n\n[[Category:Japanese numeral symbols|10^24]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=자|rv=ja|mr=cha}}\n\n# {{defn|lang=ko|sort=禾05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

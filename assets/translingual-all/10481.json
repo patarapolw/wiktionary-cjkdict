@@ -1,0 +1,97 @@
+{
+  "title": "乭",
+  "ns": 0,
+  "id": 10481,
+  "timestamp": 1551080858000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=5|rad=乙|as=05|sn=6|four=10717|canj=MRN|ids=⿱石乙}}\n\n# [[rock]]\n# used in [[Korean]] [[name]]s",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0084.141|dj=0171.180|hdz=10053.041|uh=4E6D|ud=20077}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=石}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Borrowed from Korean."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{der|zh|ko|-}} {{ko-l|돌|乭}}. The character is usually read as {{zh-l|石}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=shí\n|c=sek6\n|mn=xm,zz,tw:se̍k/qz:si̍t\n|mn-t=ziêh8/zioh8/sig8/sêg8\n|mn-t_note=ziêh8/zioh8 - vernacular; sig8/sêg8 - literary\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{n-g|Used in Korean names.}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=乙05}}\n\n# [[rock]] ''(used in Korean names)''",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|kanyoon=せき\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "[[石]] (stone; equal to Korean [[돌]](''dol'')) + [[乙]] (used as marker to represent the last consonant [[ㄹ]]). One of the ''[[음역자|eumyeokja]]'' (\"character for transliteration\") used in the {{w|Idu script}} for Korean 돌."
+            },
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=돌|rv=dol|mr=tol|y=tol}}\n\n# {{defn|lang=ko|sort=乙05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

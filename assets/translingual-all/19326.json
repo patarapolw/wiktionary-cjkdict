@@ -1,0 +1,99 @@
+{
+  "title": "滉",
+  "ns": 0,
+  "id": 19326,
+  "timestamp": 1530007966000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=10|sn=13|four=36111|canj=EAFU|ids=⿰氵晃}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𮦶]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0642.110|dkj=18017|dj=1049.160|hdz=31698.080|uh=6EC9}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|晃|ls=psc|alt1=氵|c1=s|c2=p|t1=[[water]]}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=huàng\n|c=fong2\n|mc=y\n|oc=y\n|ma=\n|cat=a,v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-used in|滉瀁|{{lb|zh|of water}} [[deep]]}}\n# {{lb|zh|literary}} to [[wave#verb|wave]]; to [[sway]]; to [[swing]]\n#: {{zh-syn|搖動|波動}}\n# {{zh-hg}} to [[dye]] [[paper]] <!-- 《集韻·蕩韻》 滉，染紙也。 -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|滉瀁|滉漾|滉朗|滉柱|滉樣|滉滉|滉漭|滉瀇|滉然|滉舟|滉蕩|漭滉|瀇滉}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=水10}}\n\n# {{defn|lang=ja|sort=水10}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings\n|goon=おう\n|kanon=こう\n|kun=ひろ-い\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=황|eumhun=|rv=hwang|mr=hwang|y=hwang}}\n\n# {{defn|lang=ko|sort=水10}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

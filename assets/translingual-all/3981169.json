@@ -1,0 +1,73 @@
+{
+  "title": "〻",
+  "ns": 0,
+  "id": 3981169,
+  "timestamp": 1512537801000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Punctuation mark",
+              "text": "{{head|mul|punctuation mark}}\n\n# Ideographic iteration mark, indicating that the previous [[character]] should be repeated."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{zh-l|々}} {{qualifier|in horizontal writing}}"
+            },
+            {
+              "level": 3,
+              "title": "Punctuation mark",
+              "text": "{{head|zh|symbol}}\n\n# {{non-gloss definition|Used in casual writing as an abbreviation of a repeated character, in vertical writing.}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "{{zh-l|二}} (usually appearing as {{lang|zh|〻}}) is used in casual writing to represent a doubled character in vertical writing, but is never used in formal writing or printed matter."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wikipedia|lang=ja|踊り字#〻（二の字点）}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|ja|々}} {{qualifier|in horizontal writing}}"
+            },
+            {
+              "level": 3,
+              "title": "Punctuation mark",
+              "text": "{{ja-punctuation mark}}\n\n# {{lb|ja|now rare}} Ideographic iteration mark, indicating that the previous [[kanji]] should be repeated in vertical writing. The repeated character might not have the same pronunciation as the first due to [[rendaku]]."
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://www.taishukan.co.jp/kanji/qa01.html#Q0009 漢字文化資料館 漢字 Q&A コーナー Q0009 「々」はなんと読むのですか？]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

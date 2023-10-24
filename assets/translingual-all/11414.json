@@ -1,0 +1,63 @@
+{
+  "title": "兯",
+  "ns": 0,
+  "id": 11414,
+  "timestamp": 1549742511000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=12|rad=八|as=02|sn=4|four=|canj=CSL|ids=⿱丷ㄗ}}\n\n# {{qualifier|Korean}} one of the [[kwukyel]] characters for {{ko-l|한}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0079.091|dj=0363.121|hdz=10241.091|uh=516F|ud=20847}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=han\n|c=\n}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Combination of kwukyel script {{l|ko|丷|tr=ha|pos=top part of {{l|ko|為|tr=wi|pos=hun-reading: {{ko-l|하다|to do, to be}}}}}} and radical {{l|ko|ㄗ}} or simplified form of {{l|ko|阝|pos=left part of {{l|ko|隱|tr=eun}}}} which indicates final consonant ''-n''."
+            },
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=한|mr=han|y=han}}\n# ''[[kwukyel|Kwukyel]] form of'' {{ko-l|한}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

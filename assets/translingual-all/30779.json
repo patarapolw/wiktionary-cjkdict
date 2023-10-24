@@ -1,0 +1,97 @@
+{
+  "title": "雑",
+  "ns": 0,
+  "id": 30779,
+  "timestamp": 1546560728000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|雜}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|雜|雑|杂}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Unorthodox variant of {{l|mul|雜}}. Compare [[卆]] from [[卒]].\n\nThe modern Japanese usage is of reform ([[shinjitai]]) nature."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=172|rad=隹|as=06|sn=14|four=|canj=KDOG|ids=⿰杂隹}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𫝜]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1367.070|dkj=42022|dj=1871.180|hdz=64099.140|uh=96D1}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|雜|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|雑|雜}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=隹06|kyu=雜}}\n\n# [[miscellaneous]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞう<ざふ\n|kanon=そう<さふ\n|kanyoon=ざつ\n|kun=ま-じる, まじえる\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|雑誌|ざっし}}: [[magazine]]\n* {{ja-r|猥雑|わいざつ}}: [[confusion]]\n* {{ja-r|乱雑|らんざつ}}: [[clutter]]\n* {{ja-r|粗%雑|そ%ざつ}}: [[coarse]]\n* {{ja-r|無%雑|む%ざつ}}: [[unadulterated]]\n* {{ja-r|雑酒|ざっしゅ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Adjectival noun",
+              "text": "{{ja-adj|decl=na|ざつ|kyu=雜}}\n\n# [[rough]], [[crude]], [[sloppy]], [[messy]]\n# [[miscellaneous]] (''see note'')",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* {{l|ja||雑}} usually uses the [[declension]] {{ja-r|の}} instead of {{ja-r|な}}, as in {{ja-r|雑の部|ざつ の ぶ|[[miscellany]]}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|ぞう|hhira=ざふ|kyu=雜}}\n\n# [[miscellany]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{ja-r|雑の部|ざつ の ぶ}}: [[miscellany]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

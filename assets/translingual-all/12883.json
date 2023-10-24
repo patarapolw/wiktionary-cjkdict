@@ -1,0 +1,138 @@
+{
+  "title": "囗",
+  "ns": 0,
+  "id": 12883,
+  "timestamp": 1551937825000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|圍|國|口}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* {{l|mul|⼞}} (<code>U+2F1E</code>, Kangxi radical)"
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=31|rad=囗|as=00|sn=3|four=60000|canj=BM,XXBM|ids=⿰匚丨}}\n\n# {{mul-kangxi radical-def}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character ({{lang|mul|囗}}) is used for ''enclosures''. If a square is used ''within'' a character, then the character is {{l|mul|口|gloss=mouth}} (<code>U+53E3</code>) instead."
+                },
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[Index:Chinese radical/囗]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{wikidata|Q56433578}}\n{{Han ref|kx=0216.140|dkj=04675|dj=0439.150|hdz=10710.080|uh=56D7}}\n[[Category:CJKV radicals]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-wp|zh:囗部|yue:囗|nan:Ûi-pō͘|en:Radical 31}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|圍|ha}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|國|v}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{wp|lang=ja|囗部}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=囗00}}\n\n# the \"[[country]]\" radical, called {{ja-r|国%構|くに%がまえ}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "As a radical and variant kanji for {{m|ja|国|t=country}}:\n{{ja-readings\n|goon=こく\n|kanon=こく\n|kun=くに-, くにがまえ-<くにがまへ-\n|nanori=\n}}\nAs a variant kanji for {{m|ja|囲|t=to surround/encircle}}:\n{{ja-readings\n|goon=え<ゑ ‎\n|kanon=い<ゐ\n|kun=かこ-む\n|nanori=\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "{{wp|lang=ko}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Hanja",
+                  "text": "{{ko-hanja/new|국}}\n\n# {{defn|lang=ko|sort=囗00}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Hanja",
+                  "text": "{{ko-hanja/new|위}}\n\n# {{defn|lang=ko|sort=囗00}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=囗00\n|hanviet=vi-gdhn\n|phienthiet=\n}}\n\n# {{defn|lang=vi|sort=囗00}}"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

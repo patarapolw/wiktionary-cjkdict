@@ -1,0 +1,106 @@
+{
+  "title": "吆",
+  "ns": 0,
+  "id": 12099,
+  "timestamp": 1538025329000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0x2F83B}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=03|sn=6|four=62032|canj=RVI|ids=⿰口幺,⿰口么}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0174.200|dkj=03283|dj=0387.130|hdz=10584.120|uh=5406|ud=21510|bh=A65B|bd=42587}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yāo\n|c=jiu1\n|mn=ml:iau/qz,xm,zz:io\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[yell]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|大吆小喝|喝五吆三|喝吆|吆三喝四|吆五喝六|大聲吆喝|吆喝|吆呼}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口03}}\n\n# {{defn|lang=ja|sort=口03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[よう]] (yō)|kun=[[こえ]] (koe), [[こごえ]] (kogoe)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=요|rv=yo|mr=yo}}\n\n# {{defn|lang=ko|sort=口03}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|yêu|rs=口03}}\n\n# {{defn|vi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

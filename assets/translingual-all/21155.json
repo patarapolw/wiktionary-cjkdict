@@ -1,0 +1,111 @@
+{
+  "title": "畠",
+  "ns": 0,
+  "id": 21155,
+  "timestamp": 1534036924000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=102|rad=田|as=05|sn=10|four=|canj=HAW|ids=⿱白田}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0761.191|dkj=21827|dj=1202.120|hdz=42648.021|uh=7560|ud=30048}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-see|甾|v}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Glyph origin 2",
+              "text": "{{zh-forms}}\nBorrowed from {{bor|zh|ja|畠}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Etymology",
+                  "text": "From the semantically similar {{zh-l|田|[[field]]}}."
+                },
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=tián\n|c=tin4\n|cat=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-used2|n|1p=Japanese}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=白05}}\n\n# [[field]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=\n|kun=はた-, はたけ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|はたけ}}\n\n# {{alternative form of|畑|lang=ja}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[전]]|eumhun=|rv=jeon|mr=chŏn|y=cen}}\n\n# {{defn|lang=ko|sort=白05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

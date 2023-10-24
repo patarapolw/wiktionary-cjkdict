@@ -1,0 +1,80 @@
+{
+  "title": "蔵",
+  "ns": 0,
+  "id": 25488,
+  "timestamp": 1528708904000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|藏}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{ja-forms|蔵|[[藏]]|[[藏]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Japanese shinjitai {{Han simp|藏|f=戕|t=戊}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=140|rad=艸|as=11|asj=12|sn=14|snj=15|four=|canj=TIHS,XTIHS|ids=⿵茂臣}}\n\n# [[store]], [[hide]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* [[臓]]"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1056.121|dkj=31885|hdz=53277.040|uh=8535|ud=34101}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|藏|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|蔵|藏}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=艸11|kyu=藏}}\n\n# {{defn|lang=ja|sort=艸11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ぞう<ざう\n|kanon=そう<さう\n|kun=くら-, かく-れる, おさ-める<をさ-める\n|nanori=さし\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くら|kyu=藏}}\n\n# [[warehouse]], [[storehouse]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l/ja|倉}}\n* {{l/ja|庫}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

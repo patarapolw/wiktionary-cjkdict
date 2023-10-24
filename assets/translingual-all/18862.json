@@ -1,0 +1,56 @@
+{
+  "title": "洈",
+  "ns": 0,
+  "id": 18862,
+  "timestamp": 1520058513000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=06|sn=9|four=37112|canj=ENMU|ids=⿰氵危}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0619.250|dkj=17360|hdz=31613.040|uh=6D08|ud=27912|bh=CFAA|bd=53162}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|水|alt1=氵|危|c1=s|c2=p|t1=river|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=wéi\n|c=ngai4\n|mc=y\n|oc=y\n|ma=\n|cat=pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-div|水}} {{place|zh|t=Wei|river|p/Hubei|c/China}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

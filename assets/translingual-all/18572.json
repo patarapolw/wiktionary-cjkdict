@@ -1,0 +1,73 @@
+{
+  "title": "氚",
+  "ns": 0,
+  "id": 18572,
+  "timestamp": 1508571429000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=84|rad=气|as=03|sn=7|four=80217|canj=ONLLL|ids=⿹气川}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0599.041|hdz=32010.080|uh=6C1A|ud=27674|bh=CB4A|bd=52042}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|气|t1=gas|川|t2=three|ls=ic}}. Also a {{liushu|psc|nocap=y}}, where {{zh-l|川}} acts as the phonetic component. Compare {{zh-l|*氘|deuterium}} and {{zh-l|*氚|tritium}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "From {{zh-l|川}} from the glyph, possibly influenced by {{cog|NL.|tritium}}. In Mandarin, it is pronounced in the first tone by analogy with {{zh-l|氕|protium}} and {{zh-l|氘|deuterium}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chuān\n|c=cyun1\n|h=pfs=\n|md=\n|mn=\n|w=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[tritium]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|超重氫}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "See also",
+              "text": "* {{zh-l|氕|protium}}\n* {{zh-l|氘|deuterium}}\n* {{zh-l|氫|hydrogen}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

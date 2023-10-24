@@ -1,0 +1,80 @@
+{
+  "title": "门",
+  "ns": 0,
+  "id": 30505,
+  "timestamp": 1535842118000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|門}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}\n{{stroke order|stroke=3}}\n{{ja-forms|[[门]]|[[门]]|[[門]]}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=169|rad=门|as=00|sn=3|four=|canj=LS|ids=⿲丨丶𠃌,⿻冂丨}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "* Unicode officially only has Mainland Chinese and Hong Kong sources for this character. As a result, support for this specific character in Japanese fonts is uncommon.\n** The Japanese ryakuji is included in the {{w|Ideographic Variation Database}} as <code>U+95E8 U+E0101</code> ({{lang|ja|sc=Jpan|&#x95E8;&#xE0101;}})."
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1343.121|hdz=74282.010|uh=95E8|ud=38376}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|門}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "[[File:Japanese abbreviation kanji mon.png|thumb|160px|[[略字|Ryakuji]] for [[門]]. Compare [[间]] from [[間]] and [[𫔭]] from [[開]].]]",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=uc|rs=門00}}\n\n# {{alternative form of|門|lang=ja}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[もん]] (mon), [[ぼん]] (bon)|kun=[[かど]] (kado)}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "This character is a [[略字|ryakuji]]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Zhuang",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronoun",
+              "text": "{{za-head|pronoun}}\n\n# {{za-sawndip form of|mwngz}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

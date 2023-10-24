@@ -1,0 +1,104 @@
+{
+  "title": "疇",
+  "ns": 0,
+  "id": 21194,
+  "timestamp": 1539227573000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|畴}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=102|rad=田|as=14|sn=19|four=64041|canj=WGNI|ids=⿰田壽}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0766.400|dkj=21967|dj=1177.080|hdz=42553.130|uh=7587|ud=30087|bh=C3A5|bd=50085}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=畴}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|田|壽|ls=psc|c1=s|c2=p|t1=field}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "; “who”\n: Cognate with {{och-l|誰|who}}, {{och-l|孰|which one; who}} ({{zh-ref|Schuessler, 2007}}). In other {{cog|sit}} languages, compare {{cog|lus|tû||who; which}}, {{cog|cdm|दोह्‌||what}}, {{cog|tbq-kuk-pro|*tuu||who; which (relativizer)}} ({{zh-ref|Schuessler, 2007}}; STEDT)."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chóu\n|c=cau4\n|h=pfs=\n|md=\n|mn=tiû\n|w=\n|mc=y\n|oc=y\n|cat=n,v,pron,part,pn\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{†}} {{lb|zh|agriculture}} [[field]]; [[farmland]]; [[arable]] [[land]]\n# {{†}} {{lb|zh|agriculture|specifically}} [[hemp]] field\n# {{†}} {{lb|zh|agriculture}} [[division]] in a field between different types of [[crop]]s\n# {{†}} {{lb|zh|agriculture}} to [[hill]] [[up]]; to [[earth up]]\n# {{†}} to make [[equal]]\n# {{†}} [[kind]]; [[class]]; [[category]]\n#: {{zh-alt-inline|儔}}\n#: {{zh-x|範疇|conceptual category; scope; domain}}\n# {{†}} {{zh-alt-form|籌|to calculate; to plan}}\n# {{†}} {{zh-alt-form|酬|to repay; to thank}}\n# {{†}} [[who]]\n# {{†}} {{n-g|Meaningless particle.}}\n#: {{zh-x|疇昔|in former times}}\n# {{zh-div|國}} {{lb|zh|historical}} {{place|zh|t=Chou|a=an ancient|state|in modern|p/Henan}}\n# {{surname|lang=zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|誰}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|先疇|平疇|九疇|疇類|疇日|疇曩|疇咨之憂|疇生|疇庸|疇官|疇輩|疇昔|田疇|範疇}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|畴|疇}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=田14|shin=畴}}\n\n# {{defn|lang=ja|sort=田14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じゅう\n|kanon=ちゅう\n|kun=うね-, たぐい-\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}\n\n# {{defn|lang=ko|sort=田14}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

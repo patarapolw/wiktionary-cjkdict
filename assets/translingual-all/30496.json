@@ -1,0 +1,75 @@
+{
+  "title": "闟",
+  "ns": 0,
+  "id": 30496,
+  "timestamp": 1540620934000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=169|rad=門|as=12|sn=20|four=88427|canj=ANORM|ids=⿵門翕}}\n\n# [[peacefully]], [[quietly]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1342.030|dkj=41487|dj=1846.130|hdz=74319.030|uh=95DF|ud=38367|bh=F547|bd=62791}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=xì,sè,tà\n|c=kaap1,taap3\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=門12}}\n\n# [[quietly]], [[peacefully]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{rfv-pronunciation|ja}}\n{{ja-readings\n|goon=こう<こふ<!--, -->\n|kanon=きゅう<きふ<!--, \n|on=しゅう<しふ\n-->|kun=おちつ-く, と-じる<と-ぢる\n}}<br/>\n{{ja-readings\n|goon=とう<とふ<!--どう<どふ\n-->|kanon=とう<たふ\n|kun=おと-る\n}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

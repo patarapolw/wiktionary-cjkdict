@@ -1,0 +1,87 @@
+{
+  "title": "哴",
+  "ns": 0,
+  "id": 12364,
+  "timestamp": 1552708091000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=07|sn=10|four=|canj=RIAV|ids=⿰口良}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0191.050|dkj=03670|dj=0410.180|hdz=10634.100|uh=54F4}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 1",
+              "text": "{{zh-pron\n|m=liàng\n|mc=2\n|oc=2\n|ma=\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hg}} {{zh-only|哴唴|''to [[cry]] until [[hoarse]]''}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 2",
+              "text": "{{zh-pron\n|m=láng\n|mc=1\n|oc=1\n|ma=\n|cat=a\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-hg}} {{zh-only|哴吭|''appearance of [[blowing]]''}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation 3",
+              "text": "{{zh-pron\n|mn=zz:nêe\n|cat=v\n}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{lb|zh|Zhangzhou|_|Hokkien}} to [[lick]]\n# {{lb|zh|Zhangzhou|_|Hokkien}} to [[use]] the [[tongue]] to [[get rid of]] [[foreign]] [[matter]] in one's [[mouth]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{sense|to lick}} {{zh-l|舔}}, {{zh-l|舐}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

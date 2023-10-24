@@ -1,0 +1,176 @@
+{
+  "title": "齣",
+  "ns": 0,
+  "id": 33199,
+  "timestamp": 1536379916000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|出}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|齣|𫠚|出|ex=y}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=211|rad=齒|as=05|sn=20|four=27720|canj=YUPR|ids=⿰齒句}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1533.281|dkj=48638|dj=2071.370|hdz=74791.090|uh=9F63|ud=40803|bh=C4D5|bd=50389}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=出|t2=出}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han compound|齒|句|ls=psc|c1=s|c2=p|t1=tooth}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chū,chǐ,2nb=rare literary variant\n|c=ceot1\n|h=pfs=chhut\n|mn=chhut\n|cat=cls,n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{zh-classifier|plays|cat=y|t=[[act]]; [[stanza]]; [[time]], [[occasion]]}}\n# {{lb|zh|colloquial}} [[trouble]]; [[hassle]]\n# {{lb|zh|Min Nan}} [[drama]]; [[play]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|齣兒|齣子}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=齒05}}\n\n# [[act]], [[scene]], as of a [[play]] or [[movie]]\n# [[frame]], as of a [[comic]]\n# [[section]], [[passage]], [[paragraph]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=[[しゃく]] (shaku)\n|kanon=[[せき]] (seki)\n|on=[[せつ]] (setsu)\n|kun=[[こま]] (koma)\n}}\n<!-- Readings need checking against verified-good sources. KANJIDIC etc. are not verified. Only finding ''seki'' and ''setsu'' as unclassified on'yomi in Shogakukan. -->"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|こま|yomi=k}}\n\nProbably cognate with {{m|ja|小間}}, {{m|ja|細|tr=koma||small; a small piece of something}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|こま|acc=0|acc_ref=DJR,SMK5|acc2=1|acc2_ref=DJR,SMK5}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|こま|コマ}}\n\n# {{lb|ja|sort=こま|film|animation|manga}} a [[frame]] of a [[comic]] or [[film]]\n# {{lb|ja|sort=こま|film|theater}} an [[act]] or [[scene]] of a [[play]] or [[movie]]\n# {{lb|ja|sort=こま|music}} a [[phrase]] or [[portion]] of a piece of [[music]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|yomi=o|せき}}\n\nMay be from {{der|ja|ltc|sort=せき|-}}, or may be a shift in reading from ''setsu'' below.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|せき|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せき}}\n\n# a [[section]] or [[paragraph]] of [[writing]]\n# {{lb|ja|sort=せき|archaic}} a [[chapter]] of a [[novel]] {{gloss|particularly in the {{w|Edo period}}}}\n# {{lb|ja|sort=せき|Chinese|_|theater}} an [[act]] of a [[play]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The ''seki'' reading appears to be somewhat more common for this sense.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|yomi=o|せつ}}\n\nFrom {{der|ja|ltc|sort=せつ|齣}}. Compare modern {{cog|hak|-}} and {{cog|nan|-}} readings ''chhut'', {{cog|yue|-}} ''ceot<sup>1</sup>''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=o|せつ|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|せつ}}\n\n# {{n-g|same as ''seki'' above}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Usage notes",
+                      "text": "The ''seki'' reading appears to be somewhat more common for this sense.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=척|eumhun=|rv=cheok|mr=ch'ŏk|y=chek}}\n\n# {{defn|lang=ko|sort=齒05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[xuất]]|rs=齒05}}\n\n# {{defn|lang=vi|sort=齒05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

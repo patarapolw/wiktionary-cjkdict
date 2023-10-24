@@ -1,0 +1,92 @@
+{
+  "title": "栞",
+  "ns": 0,
+  "id": 17520,
+  "timestamp": 1507154359000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|刊}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=75|rad=木|as=06|sn=10|four=|canj=MJD|ids=⿱幵木}}\n\n# [[publication]], [[periodical]]\n# [[publish]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0522.210|dkj=14708|dj=0910.220|hdz=21193.020|uh=681E|ud=26654}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|刊|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=木06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=かん\n|kanon=かん\n|kun=しおり-<しをり-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|しおり|yomi=k}}\nFrom the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{ja-r|枝%折る|し%おる|}}: {{ja-compound|枝|し|折る|おる|t1=branch|t2=to fold|nocat=1}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|枝折}}\n* {{ja-l|枝折り}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|しおり|hhira=しをる}}\n\n# [[bookmark]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|しおり}}\n\n# {{given name|female|lang=ja|sort=しおり}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=간|eumhun=|rv=gan|mr=kan|y=kan}}\n\n# {{defn|lang=ko|sort=木06}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

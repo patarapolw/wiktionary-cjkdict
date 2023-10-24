@@ -1,0 +1,109 @@
+{
+  "title": "鴰",
+  "ns": 0,
+  "id": 32568,
+  "timestamp": 1526701102000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|鸹}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=196|rad=鳥|as=06|sn=17|four=27627|canj=HRHAF,XHRHA|ids=⿰舌鳥}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=1487.280|dkj=46846|dj=2018.310|hdz=74629.180|uh=9D30}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=鸹|alt=𪁝}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|zh|related to {{och-l|烏}}, {{och-l|鴉}}?}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=guā\n|c=kut3\n|mc=y\n|oc=y\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}} <!-- 鶬鴰 -->\n# {{n-g|Used in {{zh-l|老鴰|crow; raven}}.}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|老鴰|鶬鴰|鴰鶬|鴰鹿|鴰捋|麋鴰}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=鳥06}}\n\n# the [[crow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=かつ, かち}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=괄|eumhun=|rv=gwal|mr=kwal|y=kwal}}\n\n# ([[재두루미]], ''jae-durumi''): a [[w:white-naped crane|white-naped crane]], ''[[w:Grus vipio|Grus vipio]]''.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{l|ko|鶬}} ([[창]], ''chang'')"
+                },
+                {
+                  "level": 4,
+                  "title": "Derived terms",
+                  "text": "* {{l|ko|鶬鴰}} ([[창괄]], ''chang-gwal'')"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

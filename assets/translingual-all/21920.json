@@ -1,0 +1,109 @@
+{
+  "title": "砲",
+  "ns": 0,
+  "id": 21920,
+  "timestamp": 1554084402000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|礮|炮}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=112|rad=石|as=05|sn=10|four=17612|canj=MRPRU|ids=⿰石包}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0829.240|dkj=24120|dj=1244.020|hdz=42425.020|uh=7832|ud=30770|bh=AFA5|bd=44965}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|炮|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=石05}}\n# [[cannon]], [[artillery]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=ひょう<へう\n|kanon=ほう<はう\n|kun=<!--おおずつ-<おほづつ-, つつ--->\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|ほう|yomi=on}}\n{{IPAchar|/ɸeu/}} → {{IPAchar|/hoː/}}\n\nFrom {{der|ja|ltc|-|sort=ほう}} {{ltc-l|炮|id=2}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|ほう|acc=1|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|ほう|hhira=はう}}\n# [[gun]], [[firearm]]\n# {{lb|ja|by extension}} {{alternative spelling of|lang=ja|大砲||[[cannon]], [[artillery]]}}\n{{attention|ja|alternate spelling, abbreviation, or short form?}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Suffix",
+                  "text": "{{ja-pos|suffix|ほう|hhira=はう}}\n# [[gun]]\n# [[cannon]], [[artillery]]\n# [[ordnance]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=포|eumhun=[[대포]] 포|rv=po|mr=p'o|y=pho}}\n\n# {{defn|lang=ko|sort=石05}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[pháo]]|rs=石05}}\n\n# {{defn|lang=vi|sort=石05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

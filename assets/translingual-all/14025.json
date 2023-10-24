@@ -1,0 +1,94 @@
+{
+  "title": "嬨",
+  "ns": 0,
+  "id": 14025,
+  "timestamp": 1551485872000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa81}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "* In Chinese scripts, the upper right component is written as <big>{{l|mul|兹}}</big> (contains {{l|mul|䒑}}) while in Korean {{w|hanja}}, the upper right component is written as <big>{{l|mul|茲}}</big> (contains {{l|mul|艹}}).\n* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+FA81</code> for its alternative Korean form which contains <big>{{l|mul|玆}}</big> (duplication of {{l|mul|玄}})."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "* <code>U+5B28</code> {{Han char|rn=38|rad=女|as=13|sn=16|four=44433|canj=VTVP|ids=⿰女慈(GHT),⿰女⿱茲心(K)}}\n* <code>U+FA81</code> {{Han char|rn=38|rad=女|as=13|sn=17|four=|canj=VYIP|ids=⿰女⿱玆心}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0272.340|dkj=06816|dj=0541.010|hdz=21085.200|uh=5B28}}\n{{Han ref|uh=FA81}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cí\n|c=ci4\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 95]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=女14}}\n\n# {{defn|lang=ja|sort=女14}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じ\n|kanon=し\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=자|rv=ja|mr=cha}}\n\n# {{defn|lang=ko|sort=女14}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

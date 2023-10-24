@@ -1,0 +1,85 @@
+{
+  "title": "羥",
+  "ns": 0,
+  "id": 23981,
+  "timestamp": 1507157996000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|羟}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=123|rad=羊|as=07|sn=13|four=81511|canj=TQMVM|ids=⿰羊巠}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0952.270|dkj=28499|dj=1396.210|hdz=53132.160|uh=7FA5|ud=32677|bh=DF6D|bd=57197}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|s=羟}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|羊|巠|ls=psc|c1=s|c2=p|t1=sheep, goat}} ― a kind of sheep or goat.\n\nFor the sense “[[hydroxy]]” in organic chemistry, the glyph is a blend of {{zh-l|*氫|[[hydrogen]]}} and {{zh-l|*氧|[[oxygen]]}}, using the phonetic components of both characters ({{zh-l|*巠}} and {{zh-l|*羊}})."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-wp|zh:羥基}}\nThe pronunciation is a blend of {{zh-l|氫|[[hydrogen]]}} and {{zh-l|氧|[[oxygen]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=qiǎng\n|c=koeng5,coeng1\n|mc=\n|oc=\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{zh-div|基}} {{lb|zh|organic chemistry}} [[hydroxy]] [[group]]; [[hydroxyl]] [[radical]]"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|羥基|羥酸|羥胺|羥醛|羥腈}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=qiān,kēng\n|c=\n|mc=y\n|oc=y\n|cat=n\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# {{†}} a [[kind]] of [[caprid]] ([[sheep]], [[goat]])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

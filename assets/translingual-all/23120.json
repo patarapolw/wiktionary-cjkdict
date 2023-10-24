@@ -1,0 +1,82 @@
+{
+  "title": "粨",
+  "ns": 0,
+  "id": 23120,
+  "timestamp": 1550948234000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=119|rad=米|as=06|sn=12|four=91960|canj=FDMA|ids=⿰米百}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0909.071|dkj=26949|dj=1335.050|hdz=53147.011|uh=7CA8|ud=31912|bh=DAE9|bd=56041}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{rfp|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|obsolete}} [[hectometer]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=米06}}\n\n# {{defn|lang=ja|sort=米06}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=|kun=[[ヘクトメートル]] (hekutomētoru)|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=백|eumhun=|rv=baek|mr=paek|y=payk}}\n\n# {{defn|lang=ko|sort=米06}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

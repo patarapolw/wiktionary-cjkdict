@@ -1,0 +1,121 @@
+{
+  "title": "叄",
+  "ns": 0,
+  "id": 12033,
+  "timestamp": 1525839614000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|叁|參|𠫰}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=28|rad=厶|as=09|sn=11|four=|canj=IIIM|ids=⿱𠫯三}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𢠊]], [[𤡙]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Related characters",
+                  "text": "* {{l|mul|[[參]]}} ''({{w|Variant Chinese character#Orthodox and vulgar variants|Orthodox form}} of 叄)''"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0164.301|dkj=03089|hdz=10387.210|uh=53C4|ud=21444}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{rfe|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{zh-see|參|v}} <!-- 《中文大辭典》 http://www.guoxuedashi.com/kangxi/pic.php?f=zwdcd&p=2185 -->"
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|三|v}} <!-- 《重訂直音篇》 https://archive.org/stream/02076765.cn#page/n32/mode/2up -->"
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "For the traditional Chinese character of {{l|mul|叁}} (''<small>Financial form of {{l|mul|三}}</small>''), see etymology 4 of <big>[[參#Etymology 4|參]]</big> instead.\n<!-- Note: Based on historical sources, 叄 does not seem to be related to 叁. Refer http://www.guoxuedashi.com/zidian/53C4.html -->"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=厶09}}\n\n# {{alt-form|lang=ja|參}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=さん, しん\n|kun=まいる, みつ, まじわる\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[참]], [[삼]]|rv=[[cham]], [[sam]]|mr=[[ch'am]], [[sam]]|y=[[cham]], [[sam]]}}\n\n# {{defn|lang=ko|sort=厶09}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[tam]]|rs=厶09}}\n\n# {{defn|lang=vi|sort=厶09}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=53C4 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

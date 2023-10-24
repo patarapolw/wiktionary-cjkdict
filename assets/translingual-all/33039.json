@@ -1,0 +1,160 @@
+{
+  "title": "黄",
+  "ns": 0,
+  "id": 33039,
+  "timestamp": 1552920182000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|黃|冓}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=11}}\n{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Variant of {{l|zh|黃}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=201|rad=黃|as=00|sn=11|four=|canj=TLWC|ids=⿳龷由八(GHJV),⿳龷田八(T)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1516.041|dkj=47926|dj=2048.010|hdz=74596.010|uh=9EC4|ud=40644}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-see|黃|sv}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|黄|黃}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=2|rs=黃00|kyu=黃}}\n\n# [[yellow]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=おう<わう\n|kanon=こう<くわう\n|kun=き-, こ-\n|nanori=うい, れい\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|姜黄|きょうおう}}, {{ja-r|薑黄|きょうおう}}: [[wild turmeric]]\n* {{ja-r|黄信号|きしんごう}}: [[yellow light]]\n{{ja-kanjitab|き|yomi=k}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "From {{inh|ja|jpx-pro|*koy}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|yomi=k|き|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Adjectival noun",
+                  "text": "{{ja-adj|kyu=黃|infl=na|き}}\n\n# [[yellow]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|き}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|kyu=黃|き}}\n\n# [[yellow]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|こう|yomi=kanon}}\nFrom {{der|ja|ltc|sort=こう|-}} {{ltc-l|黃}}.\n\nThe ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|こう|y=kanon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|こう|kyu=黃|hhira=くわう}}\n\n# [[yellow]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 3",
+              "text": "{{ja-kanjitab|おう|yomi=goon}}\nFrom {{der|ja|ltc|sort=おう|-}} {{ltc-l|黃}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|おう|y=goon}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Affix",
+                  "text": "{{ja-pos|affix|おう|kyu=黃|hhira=わう}}\n\n# [[yellow]]"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>\n\n[[Category:ja:Colors|き]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=황|eumhun=|rv=hwang|mr=hwang|y=hwang}}\n\n# [[yellow]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

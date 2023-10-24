@@ -1,0 +1,87 @@
+{
+  "title": "僬",
+  "ns": 0,
+  "id": 11278,
+  "timestamp": 1548665992000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=9|rad=人|as=12|sn=14|four=20231|canj=OOGF|ids=⿰亻焦}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0117.240|dkj=01127|dj=0249.090|hdz=10220.070|uh=50EC|ud=20716|bh=E0FA|bd=57594}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=jiāo\n|m-s=\n|dg=\n|c=ziu1,ziu3\n|c-t=\n|g=\n|h=pfs=\n|j=\n|md=\n|mn=chiâu\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|cat=a,n\n}}\n{{zh-attn-split}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[clever]]\n# [[alert]] in the [[mind]]\n# ({{zh-only|僬僥}}) an [[ancient]] [[legendary]] [[dwarf]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|僬僥|僬眇|僬僬|僬僚}} <!-- might be missing some Min Nan compounds -->"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=人12}}\n\n# {{defn|lang=ja|sort=人12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[しょう]] (shō), [[じょう]] (jō)|kun=[[はしる]] (hashiru)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=초|rv=cho|mr=ch'o}}\n\n# {{defn|lang=ko|sort=人12}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

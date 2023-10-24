@@ -1,0 +1,80 @@
+{
+  "title": "畈",
+  "ns": 0,
+  "id": 21130,
+  "timestamp": 1550924357000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=102|rad=田|as=04|sn=9|four=61047|canj=WHE|ids=⿰田反}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0760.100|dkj=21767|dj=1170.040|hdz=42533.100|uh=7548|ud=30024|bh=CFDB|bd=53211}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|田|反|c1=s|c2=p|t1=field|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=fàn\n|c=faan3\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dialect}} [[cropland]]\n# {{zh-classifier|large fields}}\n# {{non-gloss|Used in placenames.}}\n#: {{zh-x|張{Zhāng}家畈 鎮{Zhèn}|Zhangjiafan town in [[Hubei]] province {{zh-also|{{w|zh:張家畈鎮|張家畈鎮}}}}}}\n#: {{zh-x|田{Tián}畈街 鎮{Zhèn}|Tianfanjie town in [[Jiangxi]] province {{zh-also|{{w|zh:田畈街鎮|田畈街鎮}}}}}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|畈田|孛畈|小米畈|張家畈|田畈街|芳畈|龍潭畈|趙家畈|彭畈|塔畈|龍門畈|劉畈|大畈|聶畈|馬畈|莘畈|沙畈|三里畈|袁畈|兩畈|王祥畈|吳畈|火連畈|曹畈|孫家畈|塘畈|駱畈|楊畈|沈畈|蔣畈|王家畈|殷畈|全心畈|洋津畈|梁家畈}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=田04}}\n\n# {{defn|lang=ja|sort=田04}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[はん]] (han), [[ほん]] (hon)|kun=|nanori=}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

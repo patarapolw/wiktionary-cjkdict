@@ -1,0 +1,75 @@
+{
+  "title": "条",
+  "ns": 0,
+  "id": 17319,
+  "timestamp": 1548188711000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|條}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=75|rad=木|as=03|sn=7|four=|canj=HED|ids=⿱夂朩(G)⿱夂木(J)}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0513.011|dkj=14486|hdz=21161.080|uh=6761|ud=26465}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|條|sv}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "{{ja-kanji forms|条|條}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=5|rs=木03|kyu=條}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=じょう<でう\n|kanon=ちょう<てう\n|kun=えだ, すじ-\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|くだり|kyu=條}}\n\n# [[paragraph]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{l|ja|件}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|じょう|kyu=條|hhira=でう}}\n\n# [[article]] in a document"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "title": "牯",
+  "ns": 0,
+  "id": 20354,
+  "timestamp": 1551751289000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=93|rad=牛|as=05|sn=9|four=24560|canj=HQJR|ids=⿰牜古}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0699.240|dkj=19981|dj=1112.130|hdz=31806.100|uh=726F|ud=29295|bh=ACBA|bd=44218}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|牛|古|ls=psc|c1=s|c2=p|t1=cow}}"
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{zh-ref|Wang (1982)}} related this word to {{och-l|羖}} \"(black) [[ram]]\" and {{och-l|豭}} \"boar\". \n\nHowever, {{zh-ref|Schuessler (2007)}} suggested an {{der|zh|aav}} origin: compare these Bahnaric lexical items {{cog|kpm|klaw}}, {{cog|crw|klo:}}, {{cog|sti|klaw}} \"male\" (all from {{cog|mkh-ban-pro|*kləw}} < {{cog|mkh-pro|*t₁l(ə)w(ʔ)||male}}), as well as {{cog|km|tr=kloh|t=male, virile}} & {{m|km|tr=kamloh|t=young man}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=gǔ\n|c=gu2\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[bull]]\n#: {{zh-syn|牯牛|公牛}}\n# [[female]] [[cow]]\n#: {{zh-syn|母牛}}\n# [[steer]]; [[ox]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|牯牛嶺|大水牯|牯牛|牯嶺}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=牛05}}\n\n# {{defn|lang=ja|sort=牛05}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[こ]] (ko), [[く]] (ku)|kun=[[おうし]] (oushi)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}\n\n# {{defn|lang=ko|sort=牛05}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

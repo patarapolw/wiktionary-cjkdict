@@ -1,0 +1,192 @@
+{
+  "title": "渚",
+  "ns": 0,
+  "id": 19150,
+  "timestamp": 1553555782000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}\n{{character info/new|0xfa46}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=85|rad=水|as=08|sn=11|four=34160|canj=EJKA|ids=⿰氵者}}\n\n# [[small]] [[sand]] [[bank]], [[islet]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0633.410|dkj=17758|dj=1040.010|hdz=31640.040|uh=6E1A}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhǔ\n|c=zyu2\n|mn=chú\n|mc=y\n|oc=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{rfdef|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|渚宮|煙渚|江渚|洲渚}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=n|rs=水08|kyu=&#xfa46;}}\n\n# [[strand]], [[beach]], [[shore]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しょ<しよ\n|kanon=しょ<しよ\n|kun=なぎさ-, みぎわ-<みぎは-\n|nanori=すか, なぎ\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{der-top|Compounds}}\n* {{ja-r|渚滑%川|^しょこつ%-がわ}}\n* {{ja-r|海%渚|かい%そ}}\n* {{ja-r|牛渚|^ぎゅうしょ}}\n* {{ja-r|曲%渚|きょく%しょ}}\n* {{ja-r|州渚|しゅうしょ|rom=-}}. {{ja-r|洲渚|しゅうしょ}}\n* {{ja-r|浅渚|せんしょ}}\n* {{ja-r|釣渚|ちょうしょ}}\n* {{ja-r|汀渚|ていしょ}}\n* {{ja-r|白%渚|はく%しょ}}\n* {{ja-r|渚%鳥|す%どり}}\n{{der-bottom}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Used in the ''{{w|Man'yōshū}}'' ({{circa2|759 {{CE}}|short=1}}) as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨su⟩}}."
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "{{ja-kanjitab|なぎさ|yomi=k}}\n{{IPAfont|⟨naɡi<sub>1</sub>sa⟩}} → *{{IPAchar|/naɡʲisa/}} → {{IPAchar|/naɡisa/}}\n\nFrom {{inh|ja|ojp|sort=なぎさ|-}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref>\n\nPossibly a compound of {{com|ja|sort=なぎさ|凪ぎ|tr1=nagi|t1=[[calming]], dying down|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|凪ぐ|tr=nagu||to [[calm down]], to [[die down]]|pos=as of [[wave]]s or [[wind]]}}, cognate with {{m|ja|和やか|tr=nagoyaka||[[calm]], [[quiet]]}}|磯|tr2=sa|t2=[[rocky]] [[shore]], [[pebble]] [[beach]]}}, where ''sa'' is an ancient alternative for ''so'', the abbreviated combining reading of modern {{m|ja|磯|tr=iso}}, cognate with {{m|ja|石|tr=ishi||[[rock]], [[stone]]}}.",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|なぎさ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|汀}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|なぎさ}}\n\n# the [[water]]'s [[edge]]:\n## [[beach]]\n##* {{RQ:Manyoshu|12|3203}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man12Yo.html#3203 here]\n##*: {{ja-usex|m=都乃久尓乃 宇美能'''奈伎佐'''尓 布奈餘曽比 多志埿毛等伎尓 阿母我米母我母|m_kana=つのくにの うみの'''なぎさ'''に ふなよそひ たしでもときに あもがめもがも|津の国の海の渚に[[船装い|船装ひ]]立し出も時に母が目もがも|^つ-の-くに の うみ の '''なぎさ''' に ふなよそひ たしで も とき に あも が め も が も|rom=Tsu-no-kuni no umi no '''nagisa''' ni funayosoi tashide mo toki ni amo ga me mo ga mo}}\n## [[shore]]\n##* {{RQ:Manyoshu|7|1171}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1171 here]\n##*: {{ja-usex|m=大%御%舟 竟%而%佐%守布 高嶋%之 三%尾%勝%野之 '''奈伎左'''思%所念|m_kana=おほ%み%ふね はて%て%さ%もらふ たかしま%の み%をの%か＊%のの '''なぎさ'''し%おもほゆ|[[大%御%船]]%泊ててさもらふ高島の[[澪|三尾]]の勝%野の'''渚'''し思ほゆ|おほ%み%ふね% はてて さもらふ ^たかしま-の-みを の ^かち%の の '''なぎさ''' し おもほゆ|rom=ōmifune hatete samorau Takashima-no-mio no Kachino-no-'''nagisa''' shi omōyu}}\n##* '''1235''', ''{{w|Shinchokusen Wakashū}}'' (book 8, poem 525; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 93)\n##*: {{ja-usex|sort=なきさ|[[世の中]]は[[常|つね]]に[[もがも]]な'''渚'''[[漕ぐ|こぐ]][[海人|あま]]の[[小%舟]]の[[綱%手]]かなしも|よ-の-なか は つね に もがも な '''なぎさ''' こぐ あま の を%ぶね の つな%で かなし も|rom=yo-no-naka wa tsune ni mo ga mo na '''nagisa''' kogu ama no obune no tsunade kanashi mo|May the world be ever like this: a fisherman's skiff rowed along the '''shore''', pulled with a rope, is truly sad.<ref>{{cite-book|2013|Matsuo Bashō|author2=Hiroaki Sato|Bashō's Narrow Road: Spring and Autumn Passages|series=Rock Spring Collection of Japanese Literature|publisher=Stone Bridge Press, Inc.|isbn=1-6117-2527-5}}</ref>}}\n## [[bank]] {{qualifier|as of a river or stream}}\n##* {{RQ:Manyoshu|3|378}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man3Yos.html#378 here]\n##*: {{ja-usex|m=昔者%之 舊堤%者 年%深 池%之'''瀲'''尓 水%草%生%家里|m_kana=いにしへ%の ふるきつつみ%は とし%ふかみ いけ%の'''なぎさ'''に み%くさ%おひに%けり|[[古|いにしへ]]の古き[[堤]]は年%深み池の'''渚'''に[[水%草]]%[[生う|生ひ]]にけり|いにしへ の ふるき つつみ は とし% ふかみ いけ の '''なぎさ''' に み%くさ% おひ-に-けり|rom=inishie no furuki tsutsumi wa toshi fukami ike no '''nagisa''' ni mikusa oi-ni-keri|The old embankment, relic of a vanished past: the deepening years along the '''margin''' of the pond lie buried in the tangled reeds.<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|edition=illustrated|publisher=Stanford University Press|isbn=0804731578|page=306}}</ref>}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Synonyms",
+                      "text": "* {{ja-r|汀渚|ていしょ}}\n* {{ja-r|浜%辺|はま%べ}}"
+                    },
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|日子%波限%建 鵜%草葺%不合%尊|^ひこ%なぎさ%たけ ^う%がやふき%あえず の% ^みこと}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|なぎさ}}\n\n# ''a [[place name]]''\n# {{surname|lang=ja|A=a|nodot=1|sort=なぎさ}}\n# {{given name|male|or=female|lang=ja|A=a|sort=なぎさ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{ja-kanjitab|みぎわ|yomi=kun}}\n{{IPAfont|⟨mi<sub>1</sub> ki<sub>1</sub>pa⟩}} → *{{IPAchar|/mʲiɡʲipa/}} → {{IPAchar|/miɡifa/}} → {{IPAchar|/miɡiwa/}}\n\nCompound of {{compound|ja|sort=みぎわ|水|tr1=mi|t1=[[water]]|pos1=combining form|際|tr2=kiwa|t2=[[edge]], [[boundary]]}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\">{{R:Daijirin}}</ref><ref name=\"DJS\">{{R:Daijisen}}</ref> {{rendaku2|sort=みぎわ|kiwa|giwa}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{ja-pron|y=k|みぎわ|acc=0|acc_ref=DJR}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Alternative forms",
+                  "text": "* {{ja-l|汀}}, {{ja-l|水際}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|みぎわ|hhira=みぎは}}\n\n# the [[water]]'s [[edge]]:\n## [[beach]]\n## [[shore]]\n## [[bank]] {{qualifier|as of a [[river]] or [[stream]]}}",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Derived terms",
+                      "text": "* {{ja-r|渚%蠅|ミギワ%バエ}}"
+                    }
+                  ]
+                },
+                {
+                  "level": 4,
+                  "title": "Proper noun",
+                  "text": "{{ja-pos|proper|みぎわ|hhira=みぎは}}\n\n# {{given name|female|lang=ja|A=a|sort=みぎわ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "{{ja-kref\n|ku=2977\n|shift=8f8d\n|jis=3D6D\n|euc=BDED\n|freq=2226\n|nelson=2617\n|newnelson=3164\n|halpern=525\n|kld=386\n|heisig=1263\n|tuttle=3a9.1\n}}\n<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|저}}\n\n# {{defn|lang=ko|sort=水08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-readings|rs=水08|reading=chã}}\n\n# {{defn|lang=vi|sort=水08}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "title": "丷",
+  "ns": 0,
+  "id": 10430,
+  "timestamp": 1549623796000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|䒑|ン|ソ}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|type=animate}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=3|rad=丶|as=01|sn=2|four=80000|canj=IH,XIH|ids=⿰丶丿}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0080.121|dj=0162.211|hdz=10042.091|uh=4E37|ud=20023}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=bā,dàobāzì\n|m_note=倒八字 when used as a component\n|c=baat3\n|mc=\n|oc=\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{n-g|Component variant of {{zh-l|八*}}.}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Top part of the character {{l|ko|為}} or {{l|ko|爲|tr=wi}}, which have the hun-reading {{ko-l|하다}}, from {{w|Middle Korean}} {{l|mko|ᄒᆞ다|tr=hota}}."
+            },
+            {
+              "level": 3,
+              "title": "Particle",
+              "text": "{{ko-pos|particle|hangeul=하|y=ha|rv=ha|mr=ha}}\n\n#''[[kwukyel|Kwukyel]] form of'' {{ko-l|하}} < {{m|mko|ᄒᆞ|tr=ho}}, word stem of {{ko-l|하다|to do ''(suffix to make verbs)'', to be ''(suffix to make adjectives)''}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[bát]]|rs=丶01}}\n\n# {{defn|lang=vi|sort=丶01}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=4e37 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

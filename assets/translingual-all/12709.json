@@ -1,0 +1,133 @@
+{
+  "title": "嘶",
+  "ns": 0,
+  "id": 12709,
+  "timestamp": 1537645397000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=12|sn=15|four=62021|canj=RTCL|ids=⿰口斯}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0207.140|dkj=04260|dj=0430.120|hdz=10681.060|uh=5636}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|口|斯|c1=s|c2=p|t1=mouth|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Pronunciation",
+                  "text": "{{zh-pron\n|m=sī\n|c=sai1,si1\n|c_note=si1 - variant\n|h=pfs=sê\n|md=\n|mn=qz:sir/xm,zz:su\n|w=\n|mc=y\n|oc=y\n|cat=v,a\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Definitions",
+                  "text": "{{zh-hanzi}}\n\n# [[neigh]]ing of a [[horse]]\n# [[husky]] [[throat]]ed; [[gravel]] [[voice]]d\n#: {{zh-x|嘶啞|[[hoarse]]; [[husky]]}}\n# {{lb|zh|of [[bird]]s; [[insect]]s}} [[mournful]] [[murmur]]; [[whimper]]ing\n#: {{zh-x|天 霜 河 白 夜 星 稀，一 雁 聲 嘶 何處 歸。|ref={{w|Emperor Jianwen of Liang}} {{w2|zh|梁簡文帝}}, 《夜望單飛雁》}}\n# {{lb|zh||onomatopoeia|of various [[sound]]s}} ''eg.'' sound of [[paper]] being [[shred]]ded; [[sob]]bing\n#: {{zh-x|老翁 夜 行 無 子 攜，眼 昏 失 腳 非 有 擠；明日 尋 者 爾 瘦 妻，手 提 幼女 哭 嘶嘶。|ref={{w|Mei Yaochen}} {{w2|zh|梅堯臣}}, 《淘渠》}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|人喊馬嘶|人語馬嘶|力竭聲嘶|嘶叫|嘶吼|嘶啞|嘶喊|嘶喝|嘶噪|嘶聲|嘶鳴|老馬嘶風|聲嘶|聲嘶力竭|蟬嘶|酸嘶|馬嘶|嘶嘶}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "{{zh-see|𤺊|v|{{lb|zh|Cantonese}} to [[hiccup]]}} <!-- Refer https://zh-yue.wikipedia.org/wiki/打𤺊嗌 -->"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* {{R:twedu|A00685}}\n* {{R:yue:Hanzi}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口12}}\n\n# to [[neigh]], to [[whinny#Verb|whinny]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=さい\n|kanon=せい\n|kanyoon=し\n|kun=いなな-く, いば-える<いば-へる, ころろ-く\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|悲嘶|ひせい}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=시|rv=si|mr=si}}\n\n# {{defn|lang=ko|sort=口12}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[tê]]|rs=口12}}\n\n# {{defn|lang=vi|sort=口12}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=5636 Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

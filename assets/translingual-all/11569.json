@@ -1,0 +1,94 @@
+{
+  "title": "刌",
+  "ns": 0,
+  "id": 11569,
+  "timestamp": 1534438624000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=18|rad=刀|as=03|sn=5|four=42300|canj=DILN|ids=⿰寸刂}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0136.210|dkj=01870|dj=0308.010|hdz=10324.020|uh=520C|ud=21004|bh=C96B|bd=51563}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=cǔn,huá,huà\n|c=cyun2\n|mc=y\n|oc=y\n|ma=\n|cat=\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|literary}} to [[cut off]], to [[sever]]"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=刀03}}\n\n# {{defn|lang=ja|sort=刀03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=[[そん]] (son), [[せん]] (sen)|kun=[[きる]] (kiru), [[たつ]] (tatsu), [[さく]] (saku)}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=촌|rv=chon|mr=ch'on}}\n\n# {{defn|lang=ko|sort=刀03}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[thổn]], [[thon]]|rs=刀03}}\n\n# {{defn|lang=vi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

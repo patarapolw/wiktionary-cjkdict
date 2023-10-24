@@ -1,0 +1,61 @@
+{
+  "title": "鿗",
+  "ns": 0,
+  "id": 6321374,
+  "timestamp": 1501555132000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=1|rad=一|as=08|sn=9|ids=⿳人伊一}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|uh=9FD7}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Abbreviation of {{zh-l|伊伊穌斯}}, from {{der|zh|ru|Иисус}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{rfp|zh}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|Eastern Orthodoxy|obsolete}} [[Jesus]]\n#: {{zh-x|^福音經、取義 是 美好 音信、或是 喜樂{lè} 音信、就是 為 受 人體 ^主 鿗{_} 鿖{_}、在 普世 立、得 上帝 國 傳報 好 音信、這 經 有 四 部、其中 記載 鿗{_} 鿖{_} 行實||ref='''1911''', [http://orthodox.cn/bible/1911nt/Book_01/index_hant.html {{lang|zh|註解《瑪特斐乙聖福音經》}}]}} <!-- not understanding 就是為受人體主鿗鿖、在普世立、得上帝國傳報好音信 -->"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "* [http://std.dkuug.dk/JTC1/SC2/WG2/docs/n4583.pdf Proposal to Encode Chinese Characters Used for Transcribing Slavonic]\n* [https://zhuanlan.zhihu.com/p/20280070 基本集扩充字考（二）]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

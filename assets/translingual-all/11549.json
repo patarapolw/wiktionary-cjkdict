@@ -1,0 +1,159 @@
+{
+  "title": "凸",
+  "ns": 0,
+  "id": 11549,
+  "timestamp": 1535879867000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{stroke order|strokes=5}}\n{{stroke order|strokes=5|type=jbw}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=17|rad=凵|as=03|sn=5|four=77777|canj=BSS|ids=}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[𠱂]], [[𢫋]], [[𫥷]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0135.090|dkj=01809|dj=0301.050|hdz=10307.060|uh=51F8}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|zh|Related to 突?}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=tū,tú,dié,gǔ,1nb=standard in Mainland; variant in Taiwan,2nb=Taiwan,3nb=variant,4nb=historical variant\n|c=dat6\n|h=pfs=thu̍t\n|mn=ml:tu̍t/qz,xm,zz:thu̍t\n|mc=y\n|oc=y\n|ma=Zh-tu.ogg\n|cat=v,a\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[convex]]",
+              "subSections": [
+                {
+                  "level": 5,
+                  "title": "Antonyms",
+                  "text": "* {{zh-l|凹|concave}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|凸輪|凹凸|凸出|凸起|凸額|凸面鏡|凸透鏡|凸版|凸版印刷|凸狀|凹凸有致|凸岸|凹凸不平|凸顯|海凸|挺胸凸肚|照相凸版}}\n\n{{zh-cat|Advanced}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=c|rs=凵03}}\n[[File:凸-jbw.png|right|thumb]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|on=とつ\n|kun=でこ-\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|凹凸|おうとつ}}: bumpy, uneven\n* {{ja-r|凸凹|でこぼこ}}: bumpy, uneven\n* {{ja-r|凸版|とっぱん}}: [[letterpress]], relief printing"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 1",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Adjectival noun",
+                  "text": "{{ja-adj|infl=な|とつ}}\n\n# [[convex]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "Inflection",
+                      "text": "{{ja-na|とつ}}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology 2",
+              "text": "",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Noun",
+                  "text": "{{ja-noun|でこ}}\n\n# [[forehead]]",
+                  "subSections": [
+                    {
+                      "level": 5,
+                      "title": "See also",
+                      "text": "* {{ja-r|額|ひたい}}\n* {{ja-r|お凸|おでこ}}"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=[[철]], [[돌]]|rv=cheol, dol|mr=ch'ŏl, tol}}\n\n# {{defn|lang=ko|sort=凵03}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[đột]]|rs=凵03}}\n\n# {{defn|lang=vi|sort=凵03}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

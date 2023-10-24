@@ -1,0 +1,135 @@
+{
+  "title": "嗽",
+  "ns": 0,
+  "id": 12652,
+  "timestamp": 1548153795000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=11|sn=14|four=67082|canj=RDLO|ids=⿰口欶}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0204.270|dkj=04154|dj=0427.060|hdz=10674.100|uh=55FD|ud=22013|bh=B9C2|bd=47554}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=𠻳}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=sòu,shù,sù\n|c=sok3,sau3\n|h=pfs=chhu̍k\n|md=\n|mn=ml:sò͘/sàu\n|mn_note=sò͘ - literary; sàu - vernacular\n|w=\n|mc=y\n|oc=y\n|cat=v\n}}\n{{zh-attn-split}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[cough]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|咳嗽}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|乾嗽|咳嗽|散嗽}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=口11}}\n\n# {{defn|lang=ja|sort=口11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す, そく\n|kanon=そう, そく\n|kun=うがい-, すす-ぐ, くちすす-ぐ, ゆす-ぐ}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|うがい|hhira=うがひ}}\n\n# [[gargling]]"
+            },
+            {
+              "level": 3,
+              "title": "Verb",
+              "text": "{{ja-verb-suru|うがい|hhira=うがひ}}\n\n# [[gargle]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Conjugation",
+                  "text": "{{ja-suru|うがい}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=수|rv=su|mr=su}}\n\n# {{defn|lang=ko|sort=口11}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[sấu]]|rs=口11}}\n\n# {{defn|lang=vi|sort=口11}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* [http://nomfoundation.org/common/nom_details.php?codepoint=55fd Nom Foundation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

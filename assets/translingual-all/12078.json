@@ -1,0 +1,126 @@
+{
+  "title": "叱",
+  "ns": 0,
+  "id": 12078,
+  "timestamp": 1553324660000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𠮟|uni=auto}}\n{{character info/new}}\n{{character info|0x2F83A}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Alternative forms",
+              "text": "Note that the right side component of this character (U+53F1) is written [[𠤎]] and not {{l|mul|匕}}. In Japan, as of the latest 2010 reform the correct form of the character is [[𠮟]] (U+20B9F) with [[七]] as the right side component."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=30|rad=口|as=02|sn=5|four=64010|canj=RP|ids=⿰口𠤎}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0173.020|dkj=03248|dj=0384.020|hdz=10572.060|uh=53F1|ud=21489|bh=A577|bd=42359}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=咜}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|口|七|c1=s|c2=p|t1=mouth|ls=psc}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=chì\n|c=cik1\n|w=4tsheq\n|mc=y\n|oc=y\n|cat=v\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# to [[scold]]; to [[shout]] at; to [[bawl out]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|叱叱|叱名|叱吒|叱吒風雲|叱呵|叱喝|叱嗟|叱嗟風雲|叱石成羊|叱罵|叱責|叱退|叱馭|呵叱|呼叱|喑嗚叱吒|喑惡叱吒|大叱|怒叱|風雲叱吒}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=9|rs=口02}}\n\n# [[scold]]\n# [[shout]]\n# [[reprove]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しち\n|kanon=しつ\n|kun=しか-る\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|叱る|しかる}}: to scold\n* {{ja-r|叱り飛ばす|しかりとばす}}: to scold away"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Interjection",
+              "text": "{{ja-pos|interjection|しっ}}\n\n# [[shh]]\n# [[shoo]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Usage notes",
+                  "text": "Not included in the 2010 jōyō reform in favor of very similar [[𠮟]] (<code>U+20B9F</code>), despite 叱 having been standard in Japanese character sets."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=질|rv=jil|mr=chil}}\n\n# {{defn|lang=ko|sort=口02}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[sất]], [[sứt]], [[sớt]]|rs=口02}}\n\n# {{defn|lang=vi|sort=口02}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

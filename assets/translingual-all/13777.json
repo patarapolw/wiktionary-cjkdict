@@ -1,0 +1,116 @@
+{
+  "title": "娶",
+  "ns": 0,
+  "id": 13777,
+  "timestamp": 1553907338000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=38|rad=女|as=08|sn=11|four=17404|canj=SEV|ids=⿱取女}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0263.300|dkj=06365|dj=0530.180|hdz=21056.010|uh=5A36|ud=23094|bh=B0F9|bd=45305}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|取|女|ls=psc|c1=p|c2=s}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Exoactive of {{och-l|取|to take; to obtain; to collect; to fetch}} ({{zh-ref|Schuessler, 2007}}). Compare the etymology of {{zh-l|*嫁}}.\n\nIn {{cog|nan|-}}, the vernacular reading is instead from {{zh-l|𤆬|chhōa|to lead; to guide}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=qǔ,qù,1nb=standard,1nc=vernacular,2nb=literary\n|m-s=\n|dg=чү2\n|c=ceoi2,cou2,ceoi3\n|c_note=ceoi2, cou2 - vernacular; ceoi3 - literary\n|c-t=\n|g=\n|h=pfs=chhí\n|j=\n|mb=chṳ̌\n|md=ché̤ṳ\n|mn=chhōa/xm,qz:chhú/zz:chhí/tw:chhū\n|mn_note=chhōa - vernacular; chhú/chhí/chhū - literary\n|mn-t=cua7/cu2\n|mn-t_note=cua7 - vernacular; cu2 - literary\n|w=2qy\n|x=\n|mc=2\n|oc=1,2+1\n|cat=v\n}}\n{{attn|zh|相俞切 seems to mean something different}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|of a man}} to [[marry]]; to [[take]] a [[wife]]\n#: {{zh-x|娶 老婆|to '''marry''' a woman}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-syn-saurus|結婚}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|停妻再娶|再娶|另娶|娶妻|娶妻生子|娶媳婦|娶親|嫁娶|子平畢娶|明媒正娶|河伯娶婦|牽絲娶婦|迎娶}}\n\n{{zh-cat|Intermediate}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=女08}}\n\n# {{defn|lang=ja|sort=女08}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=す\n|kanon=しゅ\n|kun=めと-る\n}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=취}}\n\n# {{defn|lang=ko|sort=女08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|thú|rs=女08}}\n\n# {{defn|lang=vi}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

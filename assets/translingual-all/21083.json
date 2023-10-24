@@ -1,0 +1,63 @@
+{
+  "title": "甙",
+  "ns": 0,
+  "id": 21083,
+  "timestamp": 1525179880000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|𤮼}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=99|rad=甘|as=03|sn=8|four=4370|canj=IPTM|ids=⿹弋甘}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0355.101|hdz=10559.070|uh=7519}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}\n{{zh-wp}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Composed of {{Han compound|代|abb1=1|t1=substitute|甘|t2=sweet}}."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=dài\n|c=doi6\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|dated|organic chemistry}} [[glycoside]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "* {{zh-l|苷}}, {{zh-l|醣苷}}, {{zh-l|配糖體}}, {{zh-l|配糖物}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

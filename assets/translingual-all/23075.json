@@ -1,0 +1,99 @@
+{
+  "title": "籽",
+  "ns": 0,
+  "id": 23075,
+  "timestamp": 1531102427000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=119|rad=米|as=03|sn=9|four=97947|canj=FDND|ids=⿰米子}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0907.051|dkj=26852|dj=1332.170|hdz=53142.070|uh=7C7D}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=子:second-round simplified}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}\n{{Han compound|米|子|ls=psc|c1=s|c2=p|t1=rice; grain}}."
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{rfe|zh|same word as 子?}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zǐ,er=y\n|m-s=\n|c=zi2\n|g=\n|h=pfs=chṳ́\n|j=\n|md=\n|mn=chí/xm,zz:chú/qz:chír\n|mn_note=chí - vernacular; chú/chír - literary\n|w=\n|x=\n|mc=\n|oc=y\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[seed]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "{{zh-der|棉籽|油菜籽|籽棉|籽種|籽粒|罌粟籽|胡麻籽|芥菜籽|茴香籽|茶籽|菜籽|葵花籽|蒔蘿籽|蓖麻籽}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=|rs=米03}}\n\n# {{defn|lang=ja|sort=米03}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "* {{ja-readings|on=し|kun=|nanori=}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|tử|rs=米03}}\n\n# {{defn|lang=vi|sort=米03}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

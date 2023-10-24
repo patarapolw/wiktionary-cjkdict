@@ -1,0 +1,95 @@
+{
+  "title": "衆",
+  "ns": 0,
+  "id": 26409,
+  "timestamp": 1546679766000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{also|众|眾}}\n{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "{{Han simplified forms|眾|衆|众}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "Variant of {{m|mul|眾}}, with bottom component ⿲{{l|mul|[[人]][[亻]][[人]]}} replaced by {{m|mul|乑}} (similar to unrelated {{m|mul|衣}} and {{m|mul|𠂢}}).\n\nCurrent form is graphically {{Han compound|血|乑|t2=crowd, multitude}} – bottom is originally 3 people, hence “crowd”, though top is unrelated to 血, being originally {{m|mul|[[目|罒]]||eye|sc=Hani}}."
+            },
+            {
+              "level": 3,
+              "title": "Usage notes",
+              "text": "The {{w|Kangxi dictionary}} lists 衆 as the [[unorthodox]] form ([[俗字]]) of {{l|mul|眾}}. However, 衆 is the preferred form used in Japanese {{w|kanji}}."
+            },
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=143|rad=血|as=06|sn=12|four=2723.2|canj=HTHHO,HTOHO|ids=⿱血乑}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Derived characters",
+                  "text": "* {{l|mul|[[潨]], [[𪢊]]}}"
+                },
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=1107.160|dkj=33981|dj=1569.170|hdz=53051.140|uh=8846|ud=34886}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-see|眾|v}}"
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=血06}} <!-- No kyūjitai form. Not a shinjitai character -->",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=しゅ<しゆ, す<す\n|kanon=しゅう<しゆう\n|kun=おお-い<おほ-い\n|nanori=\n}}"
+                },
+                {
+                  "level": 4,
+                  "title": "Compounds",
+                  "text": "* {{ja-r|衆議|しゅうぎ}}\n* {{ja-r|衆議%院|しゅうぎ%いん}}\n* {{ja-r|衆多|しゅうた}}: many\n* {{ja-r|衆兵|しゅうへい}}: many soldiers\n* {{ja-r|公衆|こうしゅう}}: general public, public use\n* {{ja-r|大衆|たいしゅう}}: general public"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|しゅう}}\n\n# [[mass]]; [[many]] [[people]]\n# [[majority]]\n\n; Antonyms\n* {{sense|majority}} {{ja-r|寡|か|gloss=[[minority]]}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=중|eumhun=|rv=jung|mr=chung|y=cwung}}\n\n# {{defn|lang=ko|sort=血06}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

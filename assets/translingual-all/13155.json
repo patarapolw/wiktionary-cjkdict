@@ -1,0 +1,129 @@
+{
+  "title": "域",
+  "ns": 0,
+  "id": 13155,
+  "timestamp": 1548425097000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=32|rad=土|as=08|sn=11|four=43150|canj=GIRM|ids=⿰土或}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "* {{Han ref|kx=0230.170|dkj=05158|dj=0466.270|hdz=10451.020|uh=57DF|ud=22495|bh=B0EC|bd=45292}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Glyph origin",
+              "text": "{{Han etym}}"
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=yù\n|m-s=\n|c=wik6\n|c-t=\n|g=\n|h=pfs=vet\n|j=\n|mb=ṳ̆\n|md=\n|mn=qz:ia̍k/tw,xm,zz:e̍k/qz:hia̍k/tw,xm,zz:he̍k\n|mn-t=\n|w=\n|x=\n|mc=y\n|oc=y\n|ma=\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# [[fief]]\n# [[territory]]; [[district]]; [[region]]; [[land]]\n# [[scope]]; [[range]]\n#: {{zh-x|定義域|domain}}\n#: {{zh-x|值域|range}}\n# [[cemetery]]\n# [[residence]]\n# {{lb|zh|mathematics}} [[field]]\n# {{lb|zh|computing}} [[domain]]\n# {{lb|zh|taxonomy}} [[domain]]"
+            },
+            {
+              "level": 3,
+              "title": "Compounds",
+              "text": "{{zh-der|壽域|兩河流域|全天域|境域|封域|兆域|不分畛域|域中|區域變質|地域觀念|塋域|地域|區域網路|專屬海域|寰域|區域聯防|區域計畫|域外|仙域|區域|地域性|水域|流域|疆域|殊方異域|生活領域|異域|畛域|殊方絕域|海域|日域|珠江流域|經濟海域|西域|管制空域|遐方絕域|粵江流域|鬼域|管制區域|領域|絕域|音域|邦域|絕域殊方|絕域異方|罰球區域|西域記|聖域}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Japanese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Kanji",
+              "text": "{{ja-kanji|grade=6|rs=土08}}\n\n# [[range]]\n# [[region]]\n# [[limits]]\n# [[stage]]\n# [[level]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Readings",
+                  "text": "{{ja-readings\n|goon=いき<ゐき\n|kanon=よく\n}}"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "{{ja-kanjitab|いき|yomi=goon}}\nFrom {{der|ja|ltc|sort=いき|-}} {{ltc-l|域}}.  Compare modern {{cog|yue|域|tr=wik<sup>6</sup>|pos={{IPAfont|/wɪk̚²/}}}}.\n\nThe ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{ja-pron|いき|acc=1|acc_ref=DJR|y=goon}}"
+            },
+            {
+              "level": 3,
+              "title": "Noun",
+              "text": "{{ja-noun|いき|hhira=ゐき}}\n\n# [[region]], [[level]]"
+            },
+            {
+              "level": 3,
+              "title": "Affix",
+              "text": "{{ja-pos|affix|いき|hhira=ゐき}}\n\n# [[range]], [[region]], [[limits]], [[stage]], [[level]]\n# [[land]], [[territory]]"
+            },
+            {
+              "level": 3,
+              "title": "References",
+              "text": "<references/>"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Korean",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Hanja",
+              "text": "{{ko-hanja|hangeul=역|rv=yeok|mr=yŏk}}\n\n# {{defn|lang=ko|sort=土08}}"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vietnamese",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{vi-hantu|[[vực]], [[bực]], [[vác]], [[vặc]], [[vức]]|rs=土08}}\n\n# {{defn|lang=vi|sort=土08}}\n\n[[Category:Kennybot testing category]]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

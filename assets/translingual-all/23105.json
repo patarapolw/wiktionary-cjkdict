@@ -1,0 +1,63 @@
+{
+  "title": "粙",
+  "ns": 0,
+  "id": 23105,
+  "timestamp": 1512446013000,
+  "text": [
+    {
+      "level": 0,
+      "title": "",
+      "text": "{{character info/new}}",
+      "subSections": [
+        {
+          "level": 2,
+          "title": "Translingual",
+          "text": "",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Han character",
+              "text": "{{Han char|rn=119|rad=米|as=05|sn=11|four=|canj=FDLW|ids=⿰米由}}",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "References",
+                  "text": "{{Han ref|kx=0908.040|dkj=26905|dj=1334.050|hdz=53145.010|uh=7C99|ud=31897}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Chinese",
+          "text": "{{zh-forms|alt=稻-Min}}",
+          "subSections": [
+            {
+              "level": 3,
+              "title": "Etymology",
+              "text": "Probably a variant of {{och-l|稻}} ({{zh-ref|Schuessler, 2007}}, ''apud'' {{w|Jerry Norman (sinologist)|Norman}}, [[p.c.]])."
+            },
+            {
+              "level": 3,
+              "title": "Pronunciation",
+              "text": "{{zh-pron\n|m=zhòu\n|c=zau6\n|md=diû\n|mn=xm,zz,tw:tiū/qz:tiǔ\n|mn-t=diu6\n|cat=n\n}}"
+            },
+            {
+              "level": 3,
+              "title": "Definitions",
+              "text": "{{zh-hanzi}}\n\n# {{lb|zh|chiefly|Min}} [[paddy]]; [[rice]]",
+              "subSections": [
+                {
+                  "level": 4,
+                  "title": "Synonyms",
+                  "text": "{{zh-dial|稻子}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
